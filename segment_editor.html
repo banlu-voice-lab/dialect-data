@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>方言切分 · 单文件编辑器</title>
+<style>
+*{box-sizing:border-box}
+body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;margin:0;background:#f6f7f9;color:#222}
+.wrap{max-width:1080px;margin:0 auto;padding:18px}
+h1{font-size:20px;margin:0 0 2px}
+.sub{color:#666;font-size:12px;margin-bottom:12px;word-break:break-all}
+.hero{background:#fff;border:1px solid #e6e8eb;border-radius:12px;padding:18px;margin-bottom:12px;text-align:center;transition:background .15s,border-color .15s}
+.hero.drag{border-color:#1565c0;border-style:dashed;background:#eef5ff}
+.hero button{background:#1565c0;color:#fff;border:0;border-radius:10px;padding:12px 22px;cursor:pointer;font-size:15px}
+.hero .hint{color:#888;font-size:12px;margin-top:10px;line-height:1.7}
+#loadState{display:none;margin-bottom:12px}
+.cards{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+.card{background:#fff;border:1px solid #e6e8eb;border-radius:12px;padding:10px 14px;min-width:92px}
+.card .n{font-size:22px;font-weight:700} .card .l{font-size:12px;color:#666}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;background:#fff;border:1px solid #e6e8eb;border-radius:12px;padding:10px 12px;margin-bottom:12px;position:sticky;top:0;z-index:5}
+.bar button{background:#1565c0;color:#fff;border:0;border-radius:8px;padding:7px 11px;cursor:pointer;font-size:13px}
+.bar button.sec{background:#eef0f3;color:#222}
+.bar button.ghost{background:#fff;color:#c62828;border:1px solid #f0c0c0}
+.bar select,.bar input[type=text]{font-size:13px;border:1px solid #d7dbe0;border-radius:8px;padding:6px 8px}
+.bar .sp{flex:1}
+#cur{font-size:12px;color:#444;margin-left:6px}
+#banner{display:none;background:#fff3cd;color:#7a5b00;border:1px solid #ffe08a;border-radius:10px;padding:10px 12px;font-size:12px;margin-bottom:12px;line-height:1.6}
+#banner.ok{background:#e8f5e9;color:#1b5e20;border-color:#b9e6c0}
+#banner.warn{background:#fff3cd;color:#7a5b00;border-color:#ffe08a}
+table{width:100%;table-layout:fixed;border-collapse:collapse;background:#fff;border-radius:12px;overflow:hidden;font-size:13px}
+th,td{padding:6px 7px;border-bottom:1px solid #eee;vertical-align:middle;text-align:left}
+th{background:#f0f2f5;font-weight:600}
+tr:hover{background:#fafbfc} tr.sel{background:#eef5ff} tr.changed{background:#fff7e6}
+td.c{text-align:center;white-space:nowrap}
+textarea.t{width:100%;border:1px solid #d7dbe0;border-radius:6px;padding:5px 7px;font-size:13px;font-family:inherit;resize:vertical;line-height:1.5;min-height:40px;max-height:240px;overflow:auto;display:block;white-space:pre-wrap;word-break:break-word}
+input.n{width:64px;border:1px solid #d7dbe0;border-radius:6px;padding:4px 5px;font-size:12px;text-align:center}
+select.l{border:1px solid #d7dbe0;border-radius:6px;padding:4px 6px;font-size:13px}
+label.mandarin{color:#2e7d32} label.guilin{color:#c62828} label.uncertain{color:#ef6c00} label.all{color:#1565c0}
+.play{cursor:pointer;border:0;background:#1565c0;color:#fff;border-radius:7px;padding:5px 9px;font-size:12px}
+td.act{display:flex;gap:5px;align-items:center;justify-content:center;flex-wrap:nowrap}
+select.l.act{font-size:12px;max-width:72px;padding:4px 3px}
+.del{cursor:pointer;border:0;background:#fff;border:1px solid #f0c0c0;color:#c62828;border-radius:7px;padding:4px 7px;font-size:12px;line-height:1}
+details{font-size:11px;color:#666} summary{cursor:pointer;color:#888}
+.note{background:#fff;border:1px solid #e6e8eb;border-radius:12px;padding:12px 16px;margin-top:14px;font-size:12px;line-height:1.7}
+code{background:#eef0f3;padding:1px 6px;border-radius:5px;font-size:11px}
+#stat{font-size:12px;color:#666}
+audio{height:30px}
+</style></head>
+<body><div class="wrap">
+<h1>方言切分 · 单文件编辑器</h1>
+<div class="sub" id="srcpath">尚未导入</div>
+
+<div class="hero" id="hero">
+  <button id="btnImport">导入 JSON</button>
+  <div class="hint">
+    两种导入方式任选：<br>
+    ① 点「导入 JSON」<b>选择包含 segments.json 与 wav 的文件夹</b>（通常二者同目录），wav 自动按 json 内相对路径定位；<br>
+    ② 把 <code>segments.json</code> <b>拖拽到此处</b>导入（只读），再把<b>音频文件（wav/mp3）拖到「已载入」栏</b>即可试听——拖入的音频直接用于播放，<b>无需关心 json 里写的是相对还是绝对路径</b>。<br>
+    用 <b>Chrome / Edge</b> 导入后点「保存」会<b>直接改写原文件</b>；拖拽方式为只读，保存时下载覆盖。
+  </div>
+  <input type="file" id="fileInput" accept=".json,application/json" style="display:none">
+</div>
+
+<div id="loadState" class="hero" style="padding:14px;display:none;gap:12px;align-items:center;justify-content:center">
+  <div style="font-size:13px;color:#444">已载入：<span id="loadedName">—</span></div>
+  <span id="audioName" style="font-size:12px;color:#1565c0"></span>
+  <span style="font-size:11px;color:#999">（可把音频文件拖到此处载入）</span>
+  <button id="btnSwap" style="background:#1565c0;color:#fff;border:0;border-radius:10px;padding:8px 16px;cursor:pointer;font-size:14px">换 JSON</button>
+</div>
+
+<div id="banner"></div>
+<div class="cards" id="cards" style="display:none"></div>
+<div class="bar" id="bar" style="display:none">
+  <button id="btnSave">保存</button>
+  <button class="sec" id="btnExport">导出 JSON</button>
+  <button class="ghost" id="btnReset">重置</button>
+  <button class="sec" id="btnAdd" title="在选中段之后插入一段空白段">+ 段</button>
+  <button class="sec" id="btnMerge" title="把选中段与下一句合并（用于一句话被误拆成两句）">合并↓</button>
+  <button class="sec" id="btnAudioDir" title="若 JSON 使用相对音频路径，请选定音频所在文件夹以试听">选择音频目录</button>
+  <label>标签：<select id="fLabel"><option value="">全部</option><option value="mandarin">普通话</option><option value="guilin">桂林话</option><option value="uncertain">待确认</option><option value="all">全部(all)</option></select></label>
+  <input type="text" id="fText" placeholder="搜索文本…" style="min-width:150px">
+  <span class="sp"></span>
+  <button class="sec" id="btnPrev">‹ 上一句</button>
+  <button class="sec" id="btnNext">下一句 ›</button>
+  <audio id="audio" preload="none" controls></audio>
+  <span id="cur"></span>
+  <span id="stat"></span>
+</div>
+<table id="tbl" style="display:none"><colgroup><col style="width:30px"><col style="width:54px"><col style="width:74px"><col style="width:74px"><col><col style="width:160px"></colgroup>
+<thead><tr><th>#</th><th>方言分</th><th>开始</th><th>结束</th><th>转写文本（可改）</th><th>标签 / 播放</th></tr></thead>
+<tbody id="tb"></tbody></table>
+<div class="note" id="note" style="display:none">
+<b>使用说明</b><br>
+• 每段 = 源音频(<code>src_audio</code>) + 起止偏移，不单独存 wav。<br>
+• <b>听片段</b>：点行末 <b>▶</b> 或整行 → 音频从「开始」播放、到「结束」自动停。改了起止后立即试听即可听到新区间。<br>
+• <b>改标签/文本/时间</b>：直接编辑，改动行高亮。<br>
+• <b>删除段</b>：点行末 <b>✕</b> 删除整段（删错可用「重置」撤销，但结构性改动已固化，删除前请确认）。<br>
+• <b>新增段 / 合并段</b>：工具栏「<b>+ 段</b>」在选中段后插入空白段（用于把一句拆两句）；「<b>合并↓</b>」把选中段与下一段合并（用于一句被误拆两段时合并回去）。<br>
+• <b>音频来源（最省心方式）</b>：把 <b>音频文件（wav/mp3）拖到「已载入」栏</b>即可试听，拖入的音频直接用于播放，<b>不依赖 json 里的路径写法</b>。也可用「导入 JSON」选择 json 与 wav 同目录的文件夹（自动定位）；或点 ▶ 时按提示选一次音频目录。<br>
+• <b>保存</b>：Chrome/Edge 读写导入时直接写回原 <code>segments.json</code>（文本与音频始终一致）；否则下载 JSON 供手动覆盖。
+</div>
+</div>
+<script>
+let DATA=null, ORIG=null, fileHandle=null, curIdx=-1, loadedName="", audioDirHandle=null, audioFile=null, audioObjUrl="";
+
+function deepCopy(o){ return JSON.parse(JSON.stringify(o)); }
+function $(id){ return document.getElementById(id); }
+function esc(s){ return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+
+// 判断 src_audio 是绝对路径还是相对路径（相对 segments.json 所在目录）
+function isAbsoluteAudio(p){
+  if(!p) return false;
+  if(p.startsWith("file://")) return true;
+  if(/^[A-Za-z]:[\\/]/.test(p)) return true;   // Windows 绝对 C:\ 或 C:/
+  if(p.startsWith("/")) return true;            // unix 绝对
+  return false;
+}
+function isRelativeAudio(p){ return !!p && !isAbsoluteAudio(p); }
+function isAudioFile(n){ return /\.(wav|mp3|m4a|flac|ogg|oga|aac|wma)$/i.test(n||""); }
+
+// 拖入音频文件：直接拿到 File 对象，无需解析路径，最可靠
+function setAudioFile(f){
+  audioFile=f;
+  if(audioObjUrl) URL.revokeObjectURL(audioObjUrl);
+  audioObjUrl=URL.createObjectURL(f);
+  const base=(DATA&&DATA.src_audio||"").split(/[\\/]/).pop();
+  updateAudioBadge();
+  if(base && base!==f.name){
+    showBanner(`已载入音频：<b>${esc(f.name)}</b>，将直接用于试听（注意：与 json 中 src_audio「${esc(base)}」文件名不一致，请确认是否为同一音频）。`,"warn");
+  } else {
+    showBanner(`已载入音频：<b>${esc(f.name)}</b>，现在可点 ▶ 试听。`,"ok");
+  }
+}
+function updateAudioBadge(){
+  const el=$("audioName");
+  if(el) el.textContent=audioFile?("🎵 音频："+audioFile.name):"";
+}
+
+// 在目录句柄内按相对路径解析出 File（支持子目录）
+async function resolveInDir(dir, rel){
+  const parts=rel.split(/[\\/]/).filter(Boolean);
+  let h=dir;
+  for(let i=0;i<parts.length-1;i++) h=await h.getDirectoryHandle(parts[i]);
+  const fh=await h.getFileHandle(parts[parts.length-1]);
+  return await fh.getFile();
+}
+
+const LABEL_CN={mandarin:"普通话", guilin:"桂林话", uncertain:"待确认", all:"全部"};
+function labelClass(l){ return l||""; }
+
+const tb=$("tb"), stat=$("stat"), curEl=$("cur"), audio=$("audio"),
+      banner=$("banner"), fLabel=$("fLabel"), fText=$("fText"), saveBtn=$("btnSave");
+
+function seg(i){ return DATA.segments[i]; }
+function origSeg(i){ return ORIG.segments[i]; }
+function isChanged(i){ const a=seg(i),b=origSeg(i); if(!b) return true; return a.start!==b.start||a.end!==b.end||a.label!==b.label||a.text!==b.text; }
+// 结构性改动（增/删/合并段）后调用，把基准同步为当前结构，使这些改动"固化"
+function syncOrig(){ ORIG=deepCopy(DATA); }
+function changedCount(){ let n=0; for(let i=0;i<DATA.segments.length;i++) if(isChanged(i)) n++; return n; }
+
+function renderCards(){
+  const c={mandarin:0,guilin:0,uncertain:0,all:0};
+  DATA.segments.forEach(s=>{ c[s.label]=(c[s.label]||0)+1; });
+  const order=["mandarin","guilin","uncertain","all"];
+  const color={mandarin:"#2e7d32",guilin:"#c62828",uncertain:"#ef6c00",all:"#1565c0"};
+  $("cards").innerHTML=order.map(l=>
+    `<div class="card"><div class="n" style="color:${color[l]}">${c[l]||0}</div><div class="l">${LABEL_CN[l]}</div></div>`).join("");
+}
+function signalsText(s){
+  const sg=s.signals||{}, parts=[];
+  if(sg.mand_logprob!==undefined) parts.push("声学后验="+sg.mand_logprob);
+  if(sg.seg_cer!==undefined) parts.push("CER="+sg.seg_cer);
+  if(sg.phon_confuse!==undefined) parts.push("音变="+sg.phon_confuse);
+  if(sg.lexicon) parts.push("方言词="+sg.lexicon);
+  if(sg.lang_free && sg.lang_free!=="Chinese") parts.push("语言="+sg.lang_free);
+  return parts.join("  ");
+}
+function rowHTML(i){
+  const s=seg(i);
+  const sg=signalsText(s), det=sg?`<details><summary>判据</summary>${esc(sg)}</details>`:"";
+  return `<tr data-i="${i}" class="${isChanged(i)?"changed":""} ${i===curIdx?"sel":""}">
+<td class="c">${i+1}</td><td class="c">${Number(s.score||0).toFixed(3)}</td>
+<td class="c"><input class="n" type="number" step="0.01" data-i="${i}" data-f="start" value="${s.start}"></td>
+<td class="c"><input class="n" type="number" step="0.01" data-i="${i}" data-f="end" value="${s.end}"></td>
+<td><textarea class="t" rows="2" data-i="${i}" data-f="text">${esc(s.text)}</textarea>${det}</td>
+<td class="c act"><button class="del" data-i="${i}" title="删除该段">✕</button><select class="l act ${labelClass(s.label)}" data-i="${i}">`+
+  ["mandarin","guilin","uncertain","all"].map(o=>`<option value="${o}" ${s.label===o?"selected":""}>${LABEL_CN[o]}</option>`).join("")+
+  `</select><button class="play" data-i="${i}">▶</button></td></tr>`;
+}
+function render(){
+  const fl=fLabel.value, ft=fText.value.trim();
+  tb.innerHTML=DATA.segments.map((s,i)=>{
+    if(fl && s.label!==fl) return "";
+    if(ft && !s.text.includes(ft)) return "";
+    return rowHTML(i);
+  }).join("");
+  stat.textContent=`共 ${DATA.segments.length} 段 · 已改 ${changedCount()} 段`;
+  tb.querySelectorAll("textarea.t").forEach(autoGrow);
+}
+function autoGrow(ta){ ta.style.height="auto"; ta.style.height=Math.min(ta.scrollHeight,240)+"px"; }
+
+async function audioUrl(){
+  if(audioFile) return audioObjUrl||"";   // 拖入的音频直接可用，绕开路径解析
+  const p=DATA.src_audio||"";
+  if(!p) return "";
+  if(isAbsoluteAudio(p)){   // 兼容旧版绝对路径 / file:// 形式
+    if(p.startsWith("file://")) return p;
+    let u=p.replace(/\\/g,"/");
+    if(/^[A-Za-z]:/.test(u)) u="/"+u;
+    return "file://"+u.split("/").map(encodeURIComponent).join("/");
+  }
+  // 相对路径：需在「选择音频目录」后，用目录句柄定位真实文件
+  if(!audioDirHandle) return "";
+  try{
+    const file=await resolveInDir(audioDirHandle,p);
+    return URL.createObjectURL(file);
+  }catch(e){ return ""; }
+}
+async function playSeg(i){
+  const s=seg(i); if(!s) return;
+  curIdx=i;
+  let url=await audioUrl();
+  // 相对路径且尚未选音频目录：在当前点击手势内直接弹目录选择框（最可靠），选完立即播放
+  if(!url && isRelativeAudio(DATA.src_audio) && !audioDirHandle && window.showDirectoryPicker){
+    try{
+      audioDirHandle=await window.showDirectoryPicker();
+      showBanner("已选定音频目录："+(audioDirHandle.name||"")+"。相对路径音频现在可试听。","ok");
+      url=await audioUrl();
+    }catch(e){ /* 用户取消选择，下方会提示手动选 */ }
+  }
+  if(!url){
+    showBanner("无法定位音频文件。请点工具栏「选择音频目录」指定包含该 wav 的文件夹（与 json 同目录）。","warn");
+    return;
+  }
+  audio.src=url;
+  audio.load();
+  audio.currentTime=Math.max(0,parseFloat(s.start)||0);
+  audio.play().catch(()=>{});
+  curEl.textContent=`▶ 第 ${i+1} 段  ${s.start}–${s.end}s`;
+  tb.querySelectorAll("tr").forEach(tr=>tr.classList.toggle("sel",+tr.dataset.i===i));
+}
+audio.addEventListener("timeupdate",()=>{
+  if(curIdx<0) return;
+  const en=parseFloat(seg(curIdx).end)||0;
+  if(en>0 && audio.currentTime>=en-0.02) audio.pause();
+});
+tb.addEventListener("click",e=>{
+  const del=e.target.closest(".del");
+  if(del){ e.stopPropagation();
+    const i=+del.dataset.i;
+    if(!confirm(`确定删除第 ${i+1} 段？`)) return;
+    DATA.segments.splice(i,1);
+    if(curIdx===i) curIdx=-1;
+    syncOrig(); renderCards(); render();
+    return;
+  }
+  const b=e.target.closest(".play");
+  if(b){ e.stopPropagation(); playSeg(+b.dataset.i); return; }
+  const tr=e.target.closest("tr[data-i]"); if(tr) playSeg(+tr.dataset.i);
+});
+tb.addEventListener("change",e=>{ const t=e.target; if(t.dataset.i===undefined) return; const i=+t.dataset.i;
+  if(t.dataset.f==="label"){ seg(i).label=t.value; render(); } });
+tb.addEventListener("input",e=>{ const t=e.target; if(t.dataset.i===undefined||!t.dataset.f) return;
+  const i=+t.dataset.i, f=t.dataset.f;
+  if(f==="text"){ seg(i).text=t.value; autoGrow(t); }
+  else if(f==="start"){ seg(i).start=parseFloat(t.value)||0; }
+  else if(f==="end"){ seg(i).end=parseFloat(t.value)||0; }
+  tb.querySelector('tr[data-i="'+i+'"]').classList.toggle("changed",isChanged(i));
+  stat.textContent=`共 ${DATA.segments.length} 段 · 已改 ${changedCount()} 段`;
+  if(i===curIdx) curEl.textContent=`▶ 第 ${i+1} 段  ${seg(i).start}–${seg(i).end}s`;
+});
+fLabel.addEventListener("change",render);
+fText.addEventListener("input",render);
+$("btnPrev").onclick=()=>{ if(curIdx>0) playSeg(curIdx-1); else if(DATA.segments.length) playSeg(0); };
+$("btnNext").onclick=()=>{ if(curIdx<DATA.segments.length-1) playSeg(curIdx+1); };
+
+// 在选中段之后插入一段空白段（用于把一句拆成两句）
+$("btnAdd").onclick=()=>{
+  const after=curIdx>=0?curIdx:DATA.segments.length-1;
+  const base=after>=0?seg(after):null;
+  const start=base?(parseFloat(base.end)||0):0;
+  const ns={start, end:start+5, text:"", label:"all", score:0, signals:{}};
+  const idx=after>=0?after+1:0;
+  if(after>=0) DATA.segments.splice(idx,0,ns);
+  else DATA.segments.push(ns);
+  syncOrig(); renderCards(); render();
+  playSeg(idx);
+};
+// 把选中段与下一句合并（用于一句话被误拆成两句时合并回来）
+$("btnMerge").onclick=()=>{
+  if(curIdx<0||curIdx>=DATA.segments.length-1){ alert("请先选中一段，且该段之后还有下一段可合并"); return; }
+  const a=seg(curIdx), b=seg(curIdx+1);
+  a.text=(a.text+" "+b.text).trim();
+  a.end=parseFloat(b.end)||a.end;
+  DATA.segments.splice(curIdx+1,1);
+  syncOrig(); renderCards(); render();
+};
+// 选定音频根目录（相对路径 JSON 试听所需）
+$("btnAudioDir").onclick=async()=>{
+  if(!window.showDirectoryPicker){ alert("当前浏览器不支持目录选择，请用 Chrome / Edge"); return; }
+  try{
+    audioDirHandle=await window.showDirectoryPicker();
+    showBanner("已选定音频目录："+(audioDirHandle.name||"")+"。相对路径音频现在可试听。","ok");
+  }catch(e){ if(e.name!=="AbortError") alert("选择失败："+e.message); }
+};
+
+function download(name,text){
+  const b=new Blob([text],{type:"application/json;charset=utf-8"});
+  const u=URL.createObjectURL(b), a=document.createElement("a");
+  a.href=u; a.download=name; a.click(); URL.revokeObjectURL(u);
+}
+function showBanner(msg,kind){ banner.style.display="block"; banner.className=kind||""; banner.innerHTML=msg; }
+
+function loadText(text, name, writable=false){
+  try{ DATA=JSON.parse(text); }
+  catch(e){ alert("JSON 解析失败："+e.message); return; }
+  if(!DATA || !Array.isArray(DATA.segments)){ alert("该 JSON 不是有效的 segments.json（缺少 segments 数组）"); return; }
+  // 载入新 json 时，旧音频属于上一个视频，先清空，避免误用
+  audioFile=null; if(audioObjUrl){ URL.revokeObjectURL(audioObjUrl); audioObjUrl=""; } updateAudioBadge();
+  ORIG=deepCopy(DATA);
+  loadedName=name||"(未命名)";
+  $("srcpath").textContent="源音频："+(DATA.src_audio||"(未知)");
+  $("loadedName").textContent=loadedName+(DATA.src_audio?("  ·  "+DATA.src_audio):"");
+  $("hero").style.display="none";
+  $("loadState").style.display="flex";
+  $("cards").style.display="flex";
+  $("bar").style.display="flex";
+  $("tbl").style.display="table";
+  $("note").style.display="block";
+  renderCards(); render();
+  if(isRelativeAudio(DATA.src_audio) && !audioDirHandle){
+    showBanner("该 JSON 的音频为相对路径，请点「选择音频目录」指定音频根文件夹，否则无法试听。","warn");
+  }
+  if(writable){
+    saveBtn.textContent="保存（写回原文件）";
+    showBanner("已以读写方式载入，点「保存」将直接改写原 segments.json。","ok");
+  } else if(window.showOpenFilePicker){
+    saveBtn.textContent="保存（导出下载）";
+    showBanner("已导入（只读）。拖拽/普通选择无法获取写权限，「保存」将下载 JSON 供手动覆盖；如需写回原文件，请用「导入 JSON」按钮以读写方式打开。","warn");
+  } else {
+    saveBtn.textContent="保存（导出下载）";
+    showBanner("当前浏览器不支持「读写文件」API（建议用 Chrome/Edge）。「保存」将下载 JSON，请手动覆盖原文件。","warn");
+  }
+}
+
+// 导入：优先用「选择文件夹」（File System Access API），文件夹即音频根目录，
+// 这样 json 的同目录 wav 能按 src_audio 相对路径直接定位，无需再手动选音频目录。
+// 不支持时退回普通文件选择（只读，后续试听需手动选一次音频目录）。
+async function openImport(){
+  if(window.showDirectoryPicker){
+    try{
+      const dir=await window.showDirectoryPicker();
+      audioDirHandle=dir;                       // 文件夹 = 音频根（json 与 wav 同目录）
+      const items=[];
+      for await(const [name,handle] of dir.entries()){
+        if(handle.kind==="file" && /\.json$/i.test(name)) items.push({name,handle});
+      }
+      if(items.length===0){
+        alert("该文件夹下没有找到 .json 文件。请选择包含 segments.json（通常与 wav 同目录）的文件夹。");
+        audioDirHandle=null; return;
+      }
+      let chosen = items.length===1 ? items[0] : await pickJsonFromList(items);
+      if(!chosen) { audioDirHandle=null; return; }
+      fileHandle=chosen.handle;
+      const file=await chosen.handle.getFile();
+      loadText(await file.text(), chosen.name, true);
+      showBanner("已选定音频目录：「"+(dir.name||"")+"」，其中的 wav 将按 json 相对路径自动定位。","ok");
+      return;
+    }catch(e){ if(e.name==="AbortError") return; /* 退回 fallback */ }
+  }
+  fileHandle=null;
+  $("fileInput").click();
+}
+// 文件夹内多个 json 时，弹出一个下拉选择框让用户挑要打开的那个
+function pickJsonFromList(items){
+  return new Promise(resolve=>{
+    const ov=document.createElement("div");
+    ov.style.cssText="position:fixed;inset:0;background:rgba(0,0,0,.4);display:flex;align-items:center;justify-content:center;z-index:99";
+    const box=document.createElement("div");
+    box.style.cssText="background:#fff;border-radius:12px;padding:18px;min-width:320px;max-width:90vw";
+    box.innerHTML=`<div style="font-size:14px;margin-bottom:10px">该文件夹下有 ${items.length} 个 JSON，请选择要打开的：</div>`;
+    const sel=document.createElement("select");
+    sel.style.cssText="width:100%;padding:8px;border:1px solid #d7dbe0;border-radius:8px;font-size:13px;margin-bottom:12px";
+    items.forEach((it,i)=>{ const o=document.createElement("option"); o.value=i; o.textContent=it.name; sel.appendChild(o); });
+    const ok=document.createElement("button");
+    ok.textContent="打开"; ok.style.cssText="background:#1565c0;color:#fff;border:0;border-radius:8px;padding:8px 18px;cursor:pointer;font-size:14px";
+    const cancel=document.createElement("button");
+    cancel.textContent="取消"; cancel.style.cssText="background:#eef0f3;color:#222;border:0;border-radius:8px;padding:8px 18px;cursor:pointer;font-size:14px;margin-left:8px";
+    box.appendChild(sel); box.appendChild(ok); box.appendChild(cancel); ov.appendChild(box); document.body.appendChild(ov);
+    ok.onclick=()=>{ document.body.removeChild(ov); resolve(items[+sel.value]); };
+    cancel.onclick=()=>{ document.body.removeChild(ov); resolve(null); };
+  });
+}
+$("btnImport").onclick=openImport;
+$("btnSwap").onclick=openImport;
+$("fileInput").onchange=async(e)=>{
+  const f=e.target.files[0]; if(!f) return;
+  fileHandle=null;
+  loadText(await f.text(), f.name, false);
+};
+
+// 拖拽导入：把 segments.json 拖到 hero 区域即可（拖拽为只读，保存时下载覆盖原文件）
+let dragDepth=0;
+window.addEventListener("dragover",e=>e.preventDefault());
+window.addEventListener("drop",e=>e.preventDefault());
+
+// 统一处理拖入的文件：json 导入、音频文件载入（可一次同时拖入 json + 音频）
+async function handleDroppedFiles(files){
+  let jsonFile=null, audioF=null;
+  for(const f of files){
+    if(/\.json$/i.test(f.name)) jsonFile=f;
+    else if(isAudioFile(f.name)) audioF=f;
+  }
+  if(jsonFile){ fileHandle=null; loadText(await jsonFile.text(), jsonFile.name, false); }
+  if(audioF){
+    if(!DATA){ alert("请先导入 JSON，再拖入音频文件。"); }
+    else setAudioFile(audioF);
+  }
+}
+const heroEl=$("hero");
+heroEl.addEventListener("dragenter",e=>{ e.preventDefault(); dragDepth++; heroEl.classList.add("drag"); });
+heroEl.addEventListener("dragleave",e=>{ dragDepth=Math.max(0,dragDepth-1); if(dragDepth===0) heroEl.classList.remove("drag"); });
+heroEl.addEventListener("dragover",e=>e.preventDefault());
+heroEl.addEventListener("drop",async e=>{
+  e.preventDefault(); dragDepth=0; heroEl.classList.remove("drag");
+  const files=e.dataTransfer && e.dataTransfer.files;
+  if(!files || !files.length) return;
+  await handleDroppedFiles(files);
+});
+
+// 载入后也可把新 segments.json 拖到「已载入」条上换文件
+const lsEl=$("loadState");
+lsEl.addEventListener("dragenter",e=>{ e.preventDefault(); lsEl.classList.add("drag"); });
+lsEl.addEventListener("dragover",e=>e.preventDefault());
+lsEl.addEventListener("dragleave",e=>{ lsEl.classList.remove("drag"); });
+lsEl.addEventListener("drop",async e=>{
+  e.preventDefault(); lsEl.classList.remove("drag");
+  const files=e.dataTransfer && e.dataTransfer.files;
+  if(!files || !files.length) return;
+  await handleDroppedFiles(files);
+});
+
+saveBtn.onclick=async()=>{
+  const payload=JSON.stringify(DATA,null,2);
+  if(fileHandle){
+    try{
+      const w=await fileHandle.createWritable();
+      await w.write(payload); await w.close();
+      ORIG=deepCopy(DATA);
+      showBanner("已写回原文件 segments.json。","ok");
+      return;
+    }catch(e){ /* 退回下载 */ }
+  }
+  download("segments.json",payload);
+};
+$("btnExport").onclick=()=>{ download("segments.json",JSON.stringify(DATA,null,2)); };
+$("btnReset").onclick=()=>{ if(!confirm("放弃全部未保存修改？")) return; DATA=deepCopy(ORIG); render(); };
+</script>
+</body></html>
