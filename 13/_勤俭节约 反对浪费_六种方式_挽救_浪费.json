@@ -1,0 +1,387 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_勤俭节约 反对浪费_六种方式_挽救_浪费.wav",
+  "duration": 61.144,
+  "no_dialect": false,
+  "created_at": "2026-10-30T01:33:28",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.379,
+      "label": "mandarin",
+      "text": "接下来我们来关注下子勤俭节约反对浪费那么这个话题。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0197,
+        "sc_logprob": -0.0218,
+        "sc_delta": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接下来，我们来关注下子勤俭节约，反对浪费。那么这个话题。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.562,
+      "end": 7.667,
+      "label": "mandarin",
+      "text": "节约粮食呢，一直啊都是我们中国的传统美德。",
+      "score": 0.1481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0465,
+        "sc_logprob": -0.0463,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "直/字",
+        "lexicon": "",
+        "text_free": "节约粮食的一字啊，都是我们中国的传统美德。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.667,
+      "end": 14.444,
+      "label": "mandarin",
+      "text": "那么生活当中呢，有时候我们发现每一粒粮食都能通过六种方式就可以把它救回来。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0303,
+        "sc_logprob": -0.0296,
+        "sc_delta": 0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么生活当中呢，有时候我们发现，每一粒粮食都能通过六种方式就可以把它救回来。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.444,
+      "end": 18.12,
+      "label": "mandarin",
+      "text": "我们看是什么方法可以把救回来？一，",
+      "score": 0.5656,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7956,
+        "sc_logprob": -0.7764,
+        "sc_delta": 0.0193,
+        "acoustic_dev": 0.78,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我看着什么办法可以把纠纷呢？一。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.12,
+      "end": 20.533,
+      "label": "mandarin",
+      "text": "请客时候呢，要杜绝大鱼大肉，",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0822,
+        "sc_logprob": -0.0908,
+        "sc_delta": -0.0085,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "请客收的要杜绝大鱼大肉。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.533,
+      "end": 22.8,
+      "label": "mandarin",
+      "text": "莫讲排场；餐后呢，要打包，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0576,
+        "sc_logprob": -1.1026,
+        "sc_delta": -0.045,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.6,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "末将盘炒，炒好呢要打包。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 22.8,
+      "end": 25.584,
+      "label": "guilin",
+      "text": "这样子呢更加省。第二呢，点外卖时候啊，",
+      "score": 0.394,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5081,
+        "sc_logprob": -0.458,
+        "sc_delta": 0.0501,
+        "acoustic_dev": 0.45,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "名字呢更加省。第二呢，点慢慢说哈。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 25.584,
+      "end": 30.36,
+      "label": "mandarin",
+      "text": "莫参与那种点够好多钱又可以凑单，造成吃不完浪费的现象。",
+      "score": 0.1366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0488,
+        "sc_logprob": -0.0628,
+        "sc_delta": -0.0139,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "凑/抽",
+        "lexicon": "",
+        "text_free": "或参与那种，点够好多钱又可以抽单，造成吃不完浪费的现象。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.691,
+      "end": 33.161,
+      "label": "mandarin",
+      "text": "其实小份小份的拼单呢更划算。",
+      "score": 0.1992,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1643,
+        "sc_logprob": -0.1608,
+        "sc_delta": 0.0035,
+        "acoustic_dev": 0.055,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "拼/平",
+        "lexicon": "",
+        "text_free": "其实，小份小份的平淡呢，更划算。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 33.517,
+      "end": 37.868,
+      "label": "mandarin",
+      "text": "第三呢，在屋里头生活呢，就莫个囤太多嘞菜，把那个冰箱塞满去，",
+      "score": 0.4539,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5658,
+        "sc_logprob": -0.5813,
+        "sc_delta": -0.0155,
+        "acoustic_dev": 0.516,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "屋里 嘞",
+        "text_free": "第三呢，这物流生活呢，就莫去囤太多的菜，把那个冰箱塞满去。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 38.048,
+      "end": 40.426,
+      "label": "mandarin",
+      "text": "常买常吃才更加新鲜。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.034,
+        "sc_logprob": -0.0303,
+        "sc_delta": 0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "常买常吃，才更加新鲜。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 40.615,
+      "end": 45.512,
+      "label": "mandarin",
+      "text": "第四，禁止网络主播在直播里面出现假吃吹吐的行为，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0304,
+        "sc_logprob": -0.0383,
+        "sc_delta": -0.0079,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第四，禁止网络主播在直播里面出现假吃吹吐的行为。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.603,
+      "end": 48.776,
+      "label": "mandarin",
+      "text": "浪费的歪风啊就应该刹车。第五，",
+      "score": 0.3273,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6056,
+        "sc_logprob": -0.6168,
+        "sc_delta": -0.0112,
+        "acoustic_dev": 0.562,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "浪费的晚风啊，就应该刹车。第五。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 48.776,
+      "end": 51.299,
+      "label": "mandarin",
+      "text": "杜绝喜庆的婚宴变成一个盛宴，",
+      "score": 0.0201,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1497,
+        "sc_logprob": -0.1662,
+        "sc_delta": -0.0165,
+        "acoustic_dev": 0.039,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "杜绝喜庆的婚宴变成一个盛宴。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 51.299,
+      "end": 53.64,
+      "label": "mandarin",
+      "text": "控制菜量啊不铺张。第六，",
+      "score": 0.6392,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9574,
+        "sc_logprob": -0.9972,
+        "sc_delta": -0.0399,
+        "acoustic_dev": 0.965,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "控制产量啊，不铺张。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 53.801,
+      "end": 56.216,
+      "label": "mandarin",
+      "text": "吃自助餐时候呢，莫眼大肚小，",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0559,
+        "sc_logprob": -0.0697,
+        "sc_delta": -0.0138,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吃猪三熟的，莫眼大肚小。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 56.216,
+      "end": 58.629,
+      "label": "guilin",
+      "text": "到处个拿东西吃到撑那个，",
+      "score": 0.6447,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.4729,
+        "sc_logprob": -2.0924,
+        "sc_delta": 0.3805,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到处去拿东西，吃到撑了去。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 58.629,
+      "end": 61.144,
+      "label": "mandarin",
+      "text": "适度的取餐，造成不浪费才是。",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0201,
+        "sc_logprob": -0.0238,
+        "sc_delta": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "适度的取餐，造成不浪费，这是。"
+      }
+    }
+  ]
+}

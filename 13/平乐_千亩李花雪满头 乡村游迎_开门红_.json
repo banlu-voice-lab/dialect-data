@@ -1,0 +1,492 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "平乐_千亩李花雪满头 乡村游迎_开门红_.wav",
+  "duration": 93.453,
+  "no_dialect": false,
+  "created_at": "2026-10-30T03:06:03",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.079,
+      "label": "mandarin",
+      "text": "春风拂暖，万物苏。这几天啊，平乐县杨安乡的石面山村有两千亩的李子花呢，",
+      "score": 0.1534,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0682,
+        "sc_logprob": -0.0641,
+        "sc_delta": 0.0042,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.065,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "石/四",
+        "lexicon": "",
+        "text_free": "春风拂暖，万物苏。这几天啊，平乐县杨安乡的四面山村有两千亩的李子发呢。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.079,
+      "end": 12.688,
+      "label": "mandarin",
+      "text": "就被春风悄悄的唤醒了。漫山遍野李花呢是开起特别的漂亮，",
+      "score": 0.2366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1644,
+        "sc_logprob": -0.1807,
+        "sc_delta": -0.0162,
+        "acoustic_dev": 0.244,
+        "seg_cer": 0.24,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就被春风悄悄地唤醒了。满山遍野理发呢，是看起来特别的漂亮。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.688,
+      "end": 17.014,
+      "label": "mandarin",
+      "text": "就成为了一个花的海洋。好多人呢都去那个赏花，",
+      "score": 0.2654,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2085,
+        "sc_logprob": -0.2551,
+        "sc_delta": -0.0466,
+        "acoustic_dev": 0.335,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就成为那个画的海洋，好多人呢都去那个赏画。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.014,
+      "end": 20.944,
+      "label": "guilin",
+      "text": "去那个赏春，甚至呢也就推动了乡村旅游，",
+      "score": 0.7914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.139,
+        "sc_logprob": -1.0417,
+        "sc_delta": 0.0972,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.471,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "春/村 赏/桑",
+        "lexicon": "咧",
+        "text_free": "克克桑村，总之咧，也就推动了乡村旅游。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.944,
+      "end": 24.925,
+      "label": "mandarin",
+      "text": "实现了一个开门红。在和煦的春光里面，",
+      "score": 0.3636,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3322,
+        "sc_logprob": -0.3246,
+        "sc_delta": 0.0077,
+        "acoustic_dev": 0.589,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现了一个开门红，在何训的春光里面。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.925,
+      "end": 29.028,
+      "label": "mandarin",
+      "text": "一个个淡雅洁白的李子花的花蕾呢是含苞待放，",
+      "score": 0.2352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1002,
+        "sc_logprob": -0.1046,
+        "sc_delta": -0.0044,
+        "acoustic_dev": 0.112,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "一个个丹牙洁白的李子，画的画累嘞，是含苞待放。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.316,
+      "end": 32.855,
+      "label": "guilin",
+      "text": "在初春的石面山村装扮的生机盎然。",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5555,
+        "sc_logprob": -0.5329,
+        "sc_delta": 0.0227,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "山/三 石/四 春/存",
+        "lexicon": "",
+        "text_free": "在储存的四面三层，装扮得生机盎然。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.392,
+      "end": 36.119,
+      "label": "mandarin",
+      "text": "微风吹来啊，花枝随风而动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.035,
+        "sc_logprob": -0.0308,
+        "sc_delta": 0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "微风吹来啊，花枝随风而动。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.119,
+      "end": 40.047,
+      "label": "mandarin",
+      "text": "飘落了阵阵的花雨。我是一名摄影爱好者，",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "sc_logprob": -0.0224,
+        "sc_delta": -0.0084,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "飘落了阵阵的话语。我是一名摄影爱好者。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.047,
+      "end": 43.289,
+      "label": "guilin",
+      "text": "这几天听我们朋友说杨安乡李花开得不错，",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9401,
+        "sc_logprob": -0.8847,
+        "sc_delta": 0.0555,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这几天听闻朋友说，阳安乡里花开得不错。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.32,
+      "end": 47.97,
+      "label": "mandarin",
+      "text": "想拍些素材。到这一看，漫山遍野的李花相当的美丽。",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "sc_logprob": -0.004,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "想拍些素材，到这里看漫山遍野的礼花，相当的美丽。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.97,
+      "end": 52.211,
+      "label": "mandarin",
+      "text": "这里太漂亮了，远看那个李花白茫茫的一片，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0012,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这里太漂亮了，远看那个梨花白茫茫的一片。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 52.211,
+      "end": 54.707,
+      "label": "mandarin",
+      "text": "我朋友们每年都喜欢来这里拍照。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0007,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我朋友们每年都喜欢来这里拍照。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 54.707,
+      "end": 59.071,
+      "label": "mandarin",
+      "text": "根据了解啊，平乐县杨安乡种植李子呢有二十多年了，",
+      "score": 0.0608,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0459,
+        "sc_logprob": -0.0396,
+        "sc_delta": 0.0063,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "根据了解啊，平乐县杨安乡种植李子咧，有二十多年了。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 59.071,
+      "end": 62.035,
+      "label": "mandarin",
+      "text": "主要集中在石面山村和山湖村。",
+      "score": 0.2987,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1486,
+        "sc_logprob": -0.18,
+        "sc_delta": -0.0314,
+        "acoustic_dev": 0.211,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "石/四",
+        "lexicon": "",
+        "text_free": "主要集中在四面山城和山湖城。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.33,
+      "end": 65.829,
+      "label": "mandarin",
+      "text": "这片得天独厚的水土呢有利于李子的生长。",
+      "score": 0.2598,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1396,
+        "sc_logprob": -0.1324,
+        "sc_delta": 0.0072,
+        "acoustic_dev": 0.193,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "子/枝",
+        "lexicon": "",
+        "text_free": "这块得天独厚的水土呢，有利于荔枝的生长。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 66.175,
+      "end": 71.178,
+      "label": "mandarin",
+      "text": "目前李子花开得特别好，等到六月份，李子进入了成熟期，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0144,
+        "sc_logprob": -0.015,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前李子花开得特别好，等到六月份，李子进入了成熟期。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 71.178,
+      "end": 75.02,
+      "label": "mandarin",
+      "text": "产出的李子啊那肉质更加的爽脆香甜，",
+      "score": 0.1571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.037,
+        "sc_logprob": -0.0539,
+        "sc_delta": -0.0169,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "质/子",
+        "lexicon": "",
+        "text_free": "产出的李子啊，那柚子更加的爽脆香甜。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 75.02,
+      "end": 80.126,
+      "label": "mandarin",
+      "text": "也受到大家喜欢。今年的李子花比往年开得都好，开得都艳。",
+      "score": 0.0952,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0097,
+        "sc_logprob": -0.0092,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.208,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也收到大家稀饭。今年的李子花比往年开的都好，开的都艳。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 80.392,
+      "end": 83.218,
+      "label": "mandarin",
+      "text": "这两天过来赏花的游客也是非常的多。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这两天过来赏花的游客也是非常的多。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 83.675,
+      "end": 86.739,
+      "label": "mandarin",
+      "text": "等待花期过，我们就要为李子树开展",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "sc_logprob": -0.0013,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "等待花期一过，我们就会为李子树开展。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 87.193,
+      "end": 91.305,
+      "label": "mandarin",
+      "text": "施肥、浇水的后续工作。等待李子树孕育果实，",
+      "score": 0.4435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4366,
+        "sc_logprob": -0.4723,
+        "sc_delta": -0.0358,
+        "acoustic_dev": 0.804,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "施肥、浇水等后续工作，等待李子树孕育果实。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 91.563,
+      "end": 93.453,
+      "label": "mandarin",
+      "text": "为乡村振兴持续发力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "sc_logprob": -0.001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为乡村振兴持续发力。"
+      }
+    }
+  ]
+}

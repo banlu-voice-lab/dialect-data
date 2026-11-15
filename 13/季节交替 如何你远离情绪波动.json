@@ -1,0 +1,366 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "季节交替 如何你远离情绪波动.wav",
+  "duration": 63.659,
+  "no_dialect": false,
+  "created_at": "2026-10-30T02:49:49",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.858,
+      "label": "mandarin",
+      "text": "寒冷的冬天虽然说过去了，但是早春的气温依然寒冷。",
+      "score": 0.0623,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0225,
+        "sc_logprob": -0.0228,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "寒冷的冬天虽严守过去了，但是早春的气温依然寒凉。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.231,
+      "end": 10.462,
+      "label": "mandarin",
+      "text": "在冬春交替之际，人的这个情绪啊是好容易发生波动的。",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "sc_logprob": -0.0007,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在冬春交替之际，人的这个情绪啊，是很容易发生波动的。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.798,
+      "end": 13.401,
+      "label": "mandarin",
+      "text": "那么我们应该如何去应对呢？",
+      "score": 0.0753,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.127,
+        "sc_logprob": -0.1084,
+        "sc_delta": 0.0186,
+        "acoustic_dev": 0.145,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么，我们应该如何去应对呢？"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.484,
+      "end": 16.747,
+      "label": "mandarin",
+      "text": "今天我们一起来了解几种方法，",
+      "score": 0.1231,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1882,
+        "sc_logprob": -0.1937,
+        "sc_delta": -0.0056,
+        "acoustic_dev": 0.237,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天，我们一起来了解几种方法。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.747,
+      "end": 20.266,
+      "label": "mandarin",
+      "text": "缓解你的情绪波动带来的不适。",
+      "score": 0.085,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0494,
+        "sc_logprob": -0.0525,
+        "sc_delta": -0.0031,
+        "acoustic_dev": 0.028,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "反感你的情绪波动带来的不适。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.168,
+      "end": 25.132,
+      "label": "mandarin",
+      "text": "多晒太阳，天气好的时候呢，可以多个晒子太阳，",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0729,
+        "sc_logprob": -0.0618,
+        "sc_delta": 0.0111,
+        "acoustic_dev": 0.064,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多晒太阳。天气好的时候呢，可以多去晒子太阳。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 25.132,
+      "end": 28.837,
+      "label": "mandarin",
+      "text": "每次晒二十分钟左右。暖洋洋的阳光啊，晒到身上，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0201,
+        "sc_logprob": -0.0187,
+        "sc_delta": 0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每次晒二十分钟左右，暖洋洋的阳光啊，洒到身上。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 28.837,
+      "end": 31.74,
+      "label": "mandarin",
+      "text": "可以起到疏通全身经络的作用。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "sc_logprob": -0.0017,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以起到疏通全身经络的作用。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 31.991,
+      "end": 35.818,
+      "label": "mandarin",
+      "text": "多参加点户外活动，抓到每一个良好的天气，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "sc_logprob": -0.0024,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多参加点户外活动，抓到每一个良好的天气。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.818,
+      "end": 38.128,
+      "label": "guilin",
+      "text": "出门散散步或者骑下子单车，",
+      "score": 0.5581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9337,
+        "sc_logprob": -1.9043,
+        "sc_delta": 0.0294,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "出门散散步，或者骑儿子单车。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 38.128,
+      "end": 42.309,
+      "label": "mandarin",
+      "text": "会给你心情啊开朗起来。吃点令人快乐的食物，",
+      "score": 0.5734,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6721,
+        "sc_logprob": -0.6958,
+        "sc_delta": -0.0237,
+        "acoustic_dev": 0.964,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "你的心情啊开朗起来，吃点令人快乐的食物。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 42.309,
+      "end": 45.588,
+      "label": "mandarin",
+      "text": "吃自己喜欢的美食，有助于消除烦躁，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0306,
+        "sc_logprob": -0.0336,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吃自己喜欢的美食，有助于消除烦躁。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.588,
+      "end": 48.78,
+      "label": "mandarin",
+      "text": "安定情绪。要减少食用高脂肪、",
+      "score": 0.5581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.732,
+        "sc_logprob": -0.7191,
+        "sc_delta": 0.013,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "安定情绪，要减少使用高脂肪。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 48.78,
+      "end": 51.796,
+      "label": "mandarin",
+      "text": "高热量的食物，多吃点香蕉、樱桃、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "sc_logprob": -0.0053,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高热量的食物，多吃点香蕉、樱桃。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 51.796,
+      "end": 54.064,
+      "label": "mandarin",
+      "text": "葡萄这些，可以提升心脑。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "sc_logprob": -0.0068,
+        "sc_delta": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "葡萄这些可以提升心脑。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 54.064,
+      "end": 57.959,
+      "label": "mandarin",
+      "text": "及时就医，如果出现了季节性的情绪失调的症状啊，",
+      "score": 0.0625,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1107,
+        "sc_logprob": -0.1179,
+        "sc_delta": -0.0073,
+        "acoustic_dev": 0.12,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "及时就医。如果出现了季节性的情绪失调的症状啊。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 57.959,
+      "end": 63.659,
+      "label": "mandarin",
+      "text": "日常的生活和工作就可以在医生的指导下服用一些药物来干预治疗。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "sc_logprob": -0.0032,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "日常的生活和工作，就可以在医生的指导下服用一些药物来干预治疗。"
+      }
+    }
+  ]
+}

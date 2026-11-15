@@ -1,0 +1,408 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "药品放冰箱存储并非万无一失.wav",
+  "duration": 73.229,
+  "no_dialect": false,
+  "created_at": "2026-10-30T05:20:18",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.187,
+      "end": 3.628,
+      "label": "guilin",
+      "text": "有的人呢就觉得呢，把药放了冰箱里面冰到呢，",
+      "score": 0.183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2556,
+        "sc_logprob": -0.2265,
+        "sc_delta": 0.0291,
+        "acoustic_dev": 0.09,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "有的人咧就觉得咧，把药放到冰箱里面冰到咧。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.628,
+      "end": 5.98,
+      "label": "mandarin",
+      "text": "甚至都不容易坏，容易保持哈。",
+      "score": 0.3351,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5442,
+        "sc_logprob": -0.6963,
+        "sc_delta": -0.152,
+        "acoustic_dev": 0.337,
+        "seg_cer": 0.583,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "甚至都不用一饭，用一饱吃哈。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 5.98,
+      "end": 14.04,
+      "label": "mandarin",
+      "text": "其实呢也是不对的，因为冰箱里面低温潮湿的环境，反而呢给某些药品呢会加速它的变质。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "sc_logprob": -0.005,
+        "sc_delta": 0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其实呢，也是不对的。因为冰箱里面低温潮湿的环境，反而呢，给某些药品呢，会加速它的变质。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.119,
+      "end": 18.532,
+      "label": "mandarin",
+      "text": "到底应该啷子正确的一个放药品呢？今天我们也和大家分享几点。",
+      "score": 0.0169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "sc_logprob": -0.006,
+        "sc_delta": 0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到底应该啷子正确的一个放药品呢？今天啊，我们也和大家分享几点。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.901,
+      "end": 24.145,
+      "label": "mandarin",
+      "text": "储存的温度呢应该适宜，说明书呢会标明药品储存条件和温度，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0353,
+        "sc_logprob": -0.0315,
+        "sc_delta": 0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "储存的温度呢，应该适宜。说明书呢，会标明药品储存条件和温度。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.309,
+      "end": 27.398,
+      "label": "guilin",
+      "text": "要严格的执行。比如讲在阴凉处，",
+      "score": 0.3402,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6785,
+        "sc_logprob": -0.6346,
+        "sc_delta": 0.0439,
+        "acoustic_dev": 0.451,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要严格地执行，比如讲，在银量处。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.398,
+      "end": 30.309,
+      "label": "mandarin",
+      "text": "避开阳光、干燥处、冷藏等等。",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1503,
+        "sc_logprob": -0.2014,
+        "sc_delta": -0.051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "B.K.A.阳光、干燥处、冷藏等等。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.548,
+      "end": 34.922,
+      "label": "guilin",
+      "text": "冰箱呢就比较适合存放高温下会变质和变形的药品，",
+      "score": 0.1076,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3458,
+        "sc_logprob": -0.2437,
+        "sc_delta": 0.1021,
+        "acoustic_dev": 0.167,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冰箱呢，就比较适合存放高温下会变质或变形的药品。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.11,
+      "end": 38.732,
+      "label": "mandarin",
+      "text": "比如讲活菌制剂，还有没有开封的胰岛素、",
+      "score": 0.1957,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0852,
+        "sc_logprob": -0.0798,
+        "sc_delta": 0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.412,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "素/树",
+        "lexicon": "",
+        "text_free": "比如讲，霍军之祭，还有没有开封的一道树。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 38.732,
+      "end": 41.865,
+      "label": "guilin",
+      "text": "部分的眼药剂等等。控制湿度，",
+      "score": 0.6234,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2959,
+        "sc_logprob": -1.1905,
+        "sc_delta": 0.1054,
+        "acoustic_dev": 0.979,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "部分的《演义记》等等，控制湿度。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 41.865,
+      "end": 45.422,
+      "label": "mandarin",
+      "text": "防受潮。大多数的药品呢含有淀粉这些辅料，",
+      "score": 0.2514,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3571,
+        "sc_logprob": -0.3853,
+        "sc_delta": -0.0282,
+        "acoustic_dev": 0.177,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "受/馊",
+        "lexicon": "",
+        "text_free": "防馊潮。大多数的鱼片呢，含有淀粉这些辅料。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 45.422,
+      "end": 47.716,
+      "label": "guilin",
+      "text": "在潮湿的环境下呢容易发霉，",
+      "score": 0.5981,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4498,
+        "sc_logprob": -1.3401,
+        "sc_delta": 0.1097,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "在潮湿的环境下咧，容易发霉。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 47.816,
+      "end": 52.508,
+      "label": "mandarin",
+      "text": "要密封好，并且呢避开存放在潮湿的区域，分类摆放。",
+      "score": 0.0871,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0123,
+        "sc_logprob": -0.0135,
+        "sc_delta": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要密封好，并且呢，避开厨房这些潮湿的区域，分类摆放。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 52.671,
+      "end": 55.828,
+      "label": "mandarin",
+      "text": "比如讲分开儿童的药品和成人药品，",
+      "score": 0.0981,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.234,
+        "sc_logprob": -0.2364,
+        "sc_delta": -0.0024,
+        "acoustic_dev": 0.072,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比如将分开儿童的药品或成人药品。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 55.828,
+      "end": 63.052,
+      "label": "mandarin",
+      "text": "内服药和外用药等等。还有呢就是要把外包装盒和说明书保留好，及时的清理过期的药，",
+      "score": 0.0127,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0357,
+        "sc_logprob": -0.0355,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.028,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "内服药或外用药等等，还有呢，就是要把外包装盒和说明书保留好，及时的清理过期的药。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 63.159,
+      "end": 65.475,
+      "label": "mandarin",
+      "text": "定期的检查药品的有效期，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.034,
+        "sc_logprob": -0.0372,
+        "sc_delta": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "定期的检查药品的有效期。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 65.475,
+      "end": 68.705,
+      "label": "mandarin",
+      "text": "如果过期了马上就要清理掉，免得吃错了。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "sc_logprob": -0.0035,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果过期了，马上就要清理掉，免得吃错了。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 68.996,
+      "end": 71.697,
+      "label": "guilin",
+      "text": "根据药性的特性合理的储存药品，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4185,
+        "sc_logprob": -1.3911,
+        "sc_delta": 0.0274,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据药性的特性，合理的储存药品。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 71.697,
+      "end": 73.229,
+      "label": "mandarin",
+      "text": "守护家庭的健康。",
+      "score": 0.2306,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "守/搜",
+        "lexicon": "",
+        "text_free": "搜狐家庭的健康。"
+      }
+    }
+  ]
+}

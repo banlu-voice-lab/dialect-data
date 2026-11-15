@@ -1,0 +1,261 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "平乐开学第一课_挺膺担当  不负未来.wav",
+  "duration": 55.484,
+  "no_dialect": false,
+  "created_at": "2026-10-30T03:15:36",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.62,
+      "label": "mandarin",
+      "text": "在平罗县平罗镇第二小学",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "sc_logprob": -0.0025,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在平乐县平乐镇第二小学。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.753,
+      "end": 7.572,
+      "label": "mandarin",
+      "text": "开学典礼，以学习党的二十大、挺膺担当向未来为主题，",
+      "score": 0.2745,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1219,
+        "sc_logprob": -0.1336,
+        "sc_delta": -0.0117,
+        "acoustic_dev": 0.448,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "开学典礼以学习党的二十大，听应担当向未来为主题。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.8,
+      "end": 12.215,
+      "label": "mandarin",
+      "text": "生动地上好了2023年春季第一节思政课，",
+      "score": 0.6419,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4541,
+        "sc_logprob": -0.4376,
+        "sc_delta": 0.0165,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "生动地上好了二零二三年春季第一节思政课。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.579,
+      "end": 19.958,
+      "label": "mandarin",
+      "text": "激励全校师生以全新的姿态和饱满的热情学习和践行党的二十大精神，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "sc_logprob": -0.0033,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "激励全校师生以全新的姿态和饱满的热情学习和践行党的二十大精神。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.222,
+      "end": 23.67,
+      "label": "mandarin",
+      "text": "奋进新征程，挺膺担当向未来。",
+      "score": 0.0057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0127,
+        "sc_logprob": -0.012,
+        "sc_delta": 0.0006,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "奋进新征程，挺膺担当向未来。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.298,
+      "end": 27.233,
+      "label": "mandarin",
+      "text": "作为一名少先队员，在新学期，",
+      "score": 0.0489,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0334,
+        "sc_logprob": -0.0257,
+        "sc_delta": 0.0078,
+        "acoustic_dev": 0.094,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为一名少先队员，在新学期。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.233,
+      "end": 30.224,
+      "label": "mandarin",
+      "text": "我要更加勤奋学习，关心集体，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0005,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我要更加勤奋学习，关心集体。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.34,
+      "end": 33.717,
+      "label": "mandarin",
+      "text": "以新的气象、新的努力取得新的进步，",
+      "score": 0.0072,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0134,
+        "sc_logprob": -0.0223,
+        "sc_delta": -0.0089,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以新的气象、新的努力，取得新的进步。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.918,
+      "end": 36.057,
+      "label": "mandarin",
+      "text": "希望自己考上心仪的中学。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0005,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "希望自己考上心仪的中学。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.135,
+      "end": 45.409,
+      "label": "mandarin",
+      "text": "近年来，平罗县中小学把课堂教学、少先队活动作为爱国教育的主渠道、主阵地，",
+      "score": 0.0429,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0072,
+        "sc_logprob": -0.0065,
+        "sc_delta": 0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.094,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，平乐县中小学把课堂教学、少先队活动作为爱国主义教育的主渠道、主阵地。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 45.63,
+      "end": 50.078,
+      "label": "mandarin",
+      "text": "帮助八一寨们树立正确的人生观、教育观、价值观，",
+      "score": 0.4531,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1548,
+        "sc_logprob": -0.1652,
+        "sc_delta": -0.0104,
+        "acoustic_dev": 0.579,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "寨/仔",
+        "lexicon": "",
+        "text_free": "帮助把爷仔们树立正确的人生观、教育观、价值观。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.389,
+      "end": 55.484,
+      "label": "mandarin",
+      "text": "厚植爱国主义情怀，扣好人生第一颗扣子。",
+      "score": 0.1538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "sc_logprob": -0.0019,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "植/字",
+        "lexicon": "",
+        "text_free": "后字爱国主义情怀，扣好人生第一颗扣子。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_健康问答_吃糖危害大_大错特错_.wav",
+  "duration": 75.416,
+  "no_dialect": false,
+  "created_at": "2026-10-30T01:15:25",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.137,
+      "end": 7.713,
+      "label": "mandarin",
+      "text": "现在呢，我们经常在广告看到有那种信息，就是讲危险啊，这个糖呢比抽烟喝酒还要危险，",
+      "score": 0.0499,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0395,
+        "sc_logprob": -0.0369,
+        "sc_delta": 0.0026,
+        "acoustic_dev": 0.072,
+        "seg_cer": 0.028,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在呢，我们经常在广告看到有那种信息，就是想危险啊，这个糖呢，比抽烟喝酒还要危险。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.713,
+      "end": 11.246,
+      "label": "mandarin",
+      "text": "吃糖就等于自杀，喝了那种含糖的饮料呢，",
+      "score": 0.164,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0667,
+        "sc_logprob": -0.0505,
+        "sc_delta": 0.0162,
+        "acoustic_dev": 0.16,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吃糖就等于自杀。喝那么多含糖的饮料呢？"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.246,
+      "end": 15.148,
+      "label": "mandarin",
+      "text": "得病的风险就很大很大。所以好多人啊都不去吃糖了。",
+      "score": 0.123,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0778,
+        "sc_logprob": -0.0669,
+        "sc_delta": 0.0109,
+        "acoustic_dev": 0.197,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这病的风险就很大很大，所以好多人啊都不去吃糖了。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.259,
+      "end": 21.949,
+      "label": "mandarin",
+      "text": "那这个糖真的有那么大的危害没有呢？今天我们来正确的了解一下糖对于我们人体的作用。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0176,
+        "sc_logprob": -0.0163,
+        "sc_delta": 0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那这个糖真的有那么大的危害没有呢？今天我们来正确的了解一下糖对我们身体的作用。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.028,
+      "end": 26.849,
+      "label": "mandarin",
+      "text": "现在好多人啊一讲到吃糖呢就有点怕了，",
+      "score": 0.0539,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0494,
+        "sc_logprob": -0.0488,
+        "sc_delta": 0.0006,
+        "acoustic_dev": 0.104,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在好多人啊，一讲到吃糖呢，就有点怕了。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.849,
+      "end": 29.724,
+      "label": "mandarin",
+      "text": "但是真的有那么要紧没有呢？糖也不是。",
+      "score": 0.6057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4517,
+        "sc_logprob": -0.4677,
+        "sc_delta": -0.016,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是，真有那么要紧没有呢？当然不是。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.905,
+      "end": 33.785,
+      "label": "mandarin",
+      "text": "我们打个比方讲啊，如果把人体当作一台机器，",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0131,
+        "sc_logprob": -0.0081,
+        "sc_delta": 0.005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们打个比方讲啊，如果把硬体当做一台机器。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.785,
+      "end": 37.936,
+      "label": "mandarin",
+      "text": "那么维持运转的燃料百分之六七十都是来自于糖类。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0128,
+        "sc_logprob": -0.0187,
+        "sc_delta": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么维持运转的燃料，百分之六七十都是来自于糖类。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.165,
+      "end": 41.643,
+      "label": "mandarin",
+      "text": "如果糖类供应不足，人呢就会感到疲劳，",
+      "score": 0.1285,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0596,
+        "sc_logprob": -0.063,
+        "sc_delta": -0.0034,
+        "acoustic_dev": 0.137,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果糖的供应不足，人呢就会感到疲了。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.643,
+      "end": 46.988,
+      "label": "mandarin",
+      "text": "工作效率下降。可以讲啊，糖是人类不可缺少的能量的来源。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0064,
+        "sc_logprob": -0.0065,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "工作效率下降，可以讲啊，糖是人类不可缺少的能量的来源。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.165,
+      "end": 52.356,
+      "label": "mandarin",
+      "text": "对于健康人来讲，只要吃糖吃的合适，对健康是有益无害的。",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0004,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于健康人来讲，只要吃糖吃得合适，对健康是有益无害的。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.358,
+      "end": 58.336,
+      "label": "mandarin",
+      "text": "所以健康人啊没得必要专门去吃那些添加了化学合成甜味的无糖食品。",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0005,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "所以健康人啊，没得必要专门去吃那些添加了化学合成甜味的无糖食品。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 58.761,
+      "end": 61.989,
+      "label": "mandarin",
+      "text": "那到底啷子才算是科学健康的吃糖呢？",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "sc_logprob": -0.0065,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那到底啷子才算是科学健康的食堂呢？"
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.145,
+      "end": 64.788,
+      "label": "guilin",
+      "text": "中国居民膳食指南二零二建议，",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3546,
+        "sc_logprob": -1.2576,
+        "sc_delta": 0.097,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.538,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "膳/三",
+        "lexicon": "",
+        "text_free": "中国居民三十之男，二零二二减一。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.788,
+      "end": 67.898,
+      "label": "mandarin",
+      "text": "每天食糖量不超过五十克，就是一两，",
+      "score": 0.4362,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2386,
+        "sc_logprob": -0.2442,
+        "sc_delta": -0.0056,
+        "acoustic_dev": 0.722,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每天蔗糖量不超过五十克，这是一两。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 67.898,
+      "end": 70.955,
+      "label": "mandarin",
+      "text": "最好呢控制在二十五克，就是半两以下。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "sc_logprob": -0.0029,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最好呢，控制在二十五克，就是半两以下。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 71.093,
+      "end": 75.416,
+      "label": "mandarin",
+      "text": "限糖不代表不吃糖，要懂得啷子吃糖，吃好多糖。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "sc_logprob": -0.0039,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "先糖不代表不吃糖，要懂得啷子吃糖，吃好多糖。"
+      }
+    }
+  ]
+}

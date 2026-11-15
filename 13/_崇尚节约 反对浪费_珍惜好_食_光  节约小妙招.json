@@ -1,0 +1,345 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_崇尚节约 反对浪费_珍惜好_食_光  节约小妙招.wav",
+  "duration": 62.728,
+  "no_dialect": false,
+  "created_at": "2026-10-30T01:36:15",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.072,
+      "end": 3.454,
+      "label": "mandarin",
+      "text": "这顿我要讲是崇尚节约、反对浪费这个话题了。",
+      "score": 0.6179,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.619,
+        "sc_logprob": -0.6463,
+        "sc_delta": -0.0273,
+        "acoustic_dev": 0.957,
+        "seg_cer": 0.263,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们要讲样子崇尚节约、反对浪费这个话题了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.649,
+      "end": 10.794,
+      "label": "mandarin",
+      "text": "一碗稀饭也是来之不易的，所以呢，我们今天呢就要和大家分享子生活当中哪一些节约、",
+      "score": 0.1127,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0099,
+        "sc_logprob": -0.0122,
+        "sc_delta": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.028,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "子/只",
+        "lexicon": "",
+        "text_free": "一碗稀饭也是来之不易的，所以呢，我们今天呢，就要和大家分享只生活当中哪一些节约。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.794,
+      "end": 13.171,
+      "label": "mandarin",
+      "text": "反对浪费的一些小妙招。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "sc_logprob": -0.0045,
+        "sc_delta": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "反对浪费的一些小妙招。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.637,
+      "end": 16.876,
+      "label": "mandarin",
+      "text": "居家适量购买蔬菜粮食，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0312,
+        "sc_logprob": -0.0328,
+        "sc_delta": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "居家适量购买蔬菜粮食。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.876,
+      "end": 20.01,
+      "label": "mandarin",
+      "text": "常吃常买才新鲜。请客",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0307,
+        "sc_logprob": -0.0314,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "常吃常买才新鲜，请客。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.302,
+      "end": 24.678,
+      "label": "mandarin",
+      "text": "聚餐点餐不攀比，选择N加一点餐模式，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0602,
+        "sc_logprob": -0.0519,
+        "sc_delta": 0.0083,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "聚餐点餐，不攀比，选择N加一点餐模式。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.801,
+      "end": 28.398,
+      "label": "mandarin",
+      "text": "控制菜量不铺张。就餐",
+      "score": 0.084,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2569,
+        "sc_logprob": -0.262,
+        "sc_delta": -0.0051,
+        "acoustic_dev": 0.161,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "控制菜量，不铺张，就餐。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 28.544,
+      "end": 32.79,
+      "label": "mandarin",
+      "text": "外出就餐请光盘，若有剩余请打包。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0414,
+        "sc_logprob": -0.045,
+        "sc_delta": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "外出就餐，请光盘；若有剩余，请打包。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 32.79,
+      "end": 36.134,
+      "label": "guilin",
+      "text": "点外卖味臭满感吃不完，",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1605,
+        "sc_logprob": -2.0667,
+        "sc_delta": 0.0938,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "点外卖，胃愁满感，吃不完。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 36.134,
+      "end": 38.81,
+      "label": "guilin",
+      "text": "小份拼单划算不浪费。",
+      "score": 0.3129,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3253,
+        "sc_logprob": -0.303,
+        "sc_delta": 0.0223,
+        "acoustic_dev": 0.312,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "拼/平",
+        "lexicon": "",
+        "text_free": "小份平单，划算不浪费。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 39.085,
+      "end": 42.346,
+      "label": "mandarin",
+      "text": "小餐具选择小规格餐具，",
+      "score": 0.4164,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5479,
+        "sc_logprob": -0.5642,
+        "sc_delta": -0.0163,
+        "acoustic_dev": 0.801,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "小餐具，选择小规格餐具。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 42.346,
+      "end": 44.881,
+      "label": "mandarin",
+      "text": "烹饪食物少量多样。",
+      "score": 0.1583,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.322,
+        "sc_logprob": -0.3589,
+        "sc_delta": -0.0369,
+        "acoustic_dev": 0.304,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "烹饪食物，少量多样。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.029,
+      "end": 48.695,
+      "label": "guilin",
+      "text": "好习惯养成健康的用餐方式，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6583,
+        "sc_logprob": -0.5699,
+        "sc_delta": 0.0884,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好习惯，养成健康的用餐方式。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 48.949,
+      "end": 52.772,
+      "label": "mandarin",
+      "text": "吃好多做好多，不偏食不挑食，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1098,
+        "sc_logprob": -0.1096,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吃好多，做好多，不偏食，不挑食。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 52.794,
+      "end": 58.258,
+      "label": "mandarin",
+      "text": "懂感恩。和家人和把爷仔养成爱惜粮食的好习惯，",
+      "score": 0.2135,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3103,
+        "sc_logprob": -0.3071,
+        "sc_delta": 0.0031,
+        "acoustic_dev": 0.279,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "懂感恩，和贾谊、和巴爷仔养成爱惜粮食的好习惯。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 58.474,
+      "end": 62.728,
+      "label": "mandarin",
+      "text": "不浪费每一颗粮食，不辜负每一份辛劳。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "sc_logprob": -0.0033,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不浪费每一颗粮食，不辜负每一分辛劳。"
+      }
+    }
+  ]
+}

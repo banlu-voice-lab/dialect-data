@@ -1,0 +1,429 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "长途坐车 建议必备物品.wav",
+  "duration": 72.485,
+  "no_dialect": false,
+  "created_at": "2026-10-30T05:44:34",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 3.302,
+      "label": "mandarin",
+      "text": "现在啊，基本上家家屋里面呢都有台汽车了。",
+      "score": 0.1308,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0409,
+        "sc_logprob": -0.0419,
+        "sc_delta": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "屋里 咧",
+        "text_free": "现在啊，基本上家家户里面咧都有台汽车了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.302,
+      "end": 7.129,
+      "label": "mandarin",
+      "text": "那么这个自驾游呢，就成为了好多普通家庭的一个活动。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0004,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么，这个自驾游呢，就成为了好多普通家庭的一个活动。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.508,
+      "end": 12.093,
+      "label": "mandarin",
+      "text": "为了提高自驾的舒适度，出发前的工作一定要做好。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0007,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了提高自驾的舒适度，出发前的工作啊，一定要做好。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.093,
+      "end": 18.216,
+      "label": "mandarin",
+      "text": "今天呢，我们就给大家一份自驾出行的小提示，希望呢能够给大家带来点点方便。",
+      "score": 0.0277,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "sc_logprob": -0.0027,
+        "sc_delta": 0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.061,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天呢，我们就给大家一份自驾出行的小贴士，希望呢能够给大家带来点点方便。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.326,
+      "end": 25.18,
+      "label": "mandarin",
+      "text": "随行的药品，用于晕车的人啊，可以提前吃点苯海拉明预防晕吐。",
+      "score": 0.3677,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2225,
+        "sc_logprob": -0.2026,
+        "sc_delta": 0.0199,
+        "acoustic_dev": 0.325,
+        "seg_cer": 0.577,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.154,
+        "phon_examples": "明/民 吃/词",
+        "lexicon": "",
+        "text_free": "随行离我拼，用语音车令啊，可以提前词典本海人民预防语音图。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.18,
+      "end": 27.575,
+      "label": "mandarin",
+      "text": "如果途中发生了肠道感染，",
+      "score": 0.0059,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0519,
+        "sc_logprob": -0.045,
+        "sc_delta": 0.0069,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果途中发生了肠道感染。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.575,
+      "end": 30.964,
+      "label": "mandarin",
+      "text": "也可以服用黄连素、蒙脱石散等等药物。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "sc_logprob": -0.0052,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也可以服用黄连素、蒙脱石散等等药物。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.314,
+      "end": 33.861,
+      "label": "mandarin",
+      "text": "冠心病的患者或者老年出行呢，",
+      "score": 0.2109,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2293,
+        "sc_logprob": -0.2999,
+        "sc_delta": -0.0706,
+        "acoustic_dev": 0.338,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冠心病的患者或者老人出行呢。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.861,
+      "end": 37.105,
+      "label": "mandarin",
+      "text": "最好携带硝酸甘油片和速效救心丸。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0079,
+        "sc_logprob": -0.0097,
+        "sc_delta": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最好携带小酸干油片或速效救心丸。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.538,
+      "end": 39.878,
+      "label": "mandarin",
+      "text": "使用的药品啊，坐长途车，",
+      "score": 0.6571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.221,
+        "sc_logprob": -1.2775,
+        "sc_delta": -0.0565,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "使用力，我拼啊！坐长途车。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 39.878,
+      "end": 42.346,
+      "label": "mandarin",
+      "text": "人体长时间保持到一个姿势，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.018,
+        "sc_logprob": -0.0138,
+        "sc_delta": 0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "人体长时间保持到一个姿势。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 42.346,
+      "end": 45.254,
+      "label": "mandarin",
+      "text": "肩颈和腰部呢都会有点僵硬，",
+      "score": 0.0209,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0676,
+        "sc_logprob": -0.0668,
+        "sc_delta": 0.0007,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "肩颈和腰部呢，都会有点僵硬。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.254,
+      "end": 47.815,
+      "label": "mandarin",
+      "text": "所以呢建议带个腰型枕和腰垫，",
+      "score": 0.6654,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5738,
+        "sc_logprob": -0.5908,
+        "sc_delta": -0.017,
+        "acoustic_dev": 0.972,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "水呢，建议带个油性针和药垫。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 47.815,
+      "end": 50.975,
+      "label": "mandarin",
+      "text": "给身体呢有一个支撑。提升的食物呢，",
+      "score": 0.581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7263,
+        "sc_logprob": -0.7122,
+        "sc_delta": 0.014,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "你身体呢有一个支撑，提升你食物呢。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 51.033,
+      "end": 55.163,
+      "label": "mandarin",
+      "text": "打比方讲，长途自驾出行可以吃点全麦的面包、",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0249,
+        "sc_logprob": -0.0291,
+        "sc_delta": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打比方讲，长途自驾出行，可以吃一点全麦的面包。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 55.163,
+      "end": 58.354,
+      "label": "mandarin",
+      "text": "香蕉、蛋、核桃来提升心脑。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0071,
+        "sc_logprob": -0.008,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "香蕉、蛋、核桃来提升心脑。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 58.39,
+      "end": 63.732,
+      "label": "mandarin",
+      "text": "好多人在坐车的时候呢都会上火，建议呢就会带一些有助于降火的果蔬，",
+      "score": 0.0046,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0505,
+        "sc_logprob": -0.047,
+        "sc_delta": 0.0035,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好多人在坐车的时候呢，都会上火。建议呢，就会带一些有助于降火的果蔬。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 63.732,
+      "end": 66.155,
+      "label": "guilin",
+      "text": "打比方讲像柚子啊、黄瓜、",
+      "score": 0.6372,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5443,
+        "sc_logprob": -0.48,
+        "sc_delta": 0.0642,
+        "acoustic_dev": 0.918,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他比完姜祥，柚子啊，黄瓜。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 66.155,
+      "end": 70.175,
+      "label": "mandarin",
+      "text": "梨啊、小番茄啊等等。长途驾驶备上这些物品呢，",
+      "score": 0.3603,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2713,
+        "sc_logprob": -0.2767,
+        "sc_delta": -0.0054,
+        "acoustic_dev": 0.415,
+        "seg_cer": 0.316,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "力呀，小饭器啊等等，长途驾驶背上这些物品链。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 70.175,
+      "end": 72.485,
+      "label": "mandarin",
+      "text": "会给你出行啊更加的舒适。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "sc_logprob": -0.0178,
+        "sc_delta": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "会给你出行啊，更加的舒适。"
+      }
+    }
+  ]
+}

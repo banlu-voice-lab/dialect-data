@@ -1,0 +1,366 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "阳朔杨堤_新建水渠保春耕 夯实基础惠民生.wav",
+  "duration": 74.11,
+  "no_dialect": false,
+  "created_at": "2026-10-30T05:48:02",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.657,
+      "end": 6.3,
+      "label": "mandarin",
+      "text": "最近以来啊，阳朔县阳堤乡呢以积小考评为抓手，就趁着现在天气好嘛，",
+      "score": 0.6382,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4481,
+        "sc_logprob": -0.4789,
+        "sc_delta": -0.0307,
+        "acoustic_dev": 0.955,
+        "seg_cer": 0.31,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最近以来啊，杨烁先、杨提翔呢，以绩效考评为抓手，就趁到现在天气好嘛。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.3,
+      "end": 9.208,
+      "label": "guilin",
+      "text": "就加快推进了农田水利项目的建设，",
+      "score": 0.2511,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2395,
+        "sc_logprob": -0.2027,
+        "sc_delta": 0.0368,
+        "acoustic_dev": 0.483,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就加快推进了农田水利项目的建设。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.288,
+      "end": 12.402,
+      "label": "mandarin",
+      "text": "确保了及时发挥水渠防洪、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0223,
+        "sc_logprob": -0.0243,
+        "sc_delta": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "确保了及时发挥水渠防洪。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.469,
+      "end": 17.872,
+      "label": "mandarin",
+      "text": "排涝、灌溉的效益，也为今年的农业增产增收打下了一个好基础。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0042,
+        "sc_logprob": -0.0043,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "排涝灌溉的效益，也为今年的农业增产增收打下了一个好基础。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.31,
+      "end": 21.241,
+      "label": "mandarin",
+      "text": "在阳堤乡中南村委水渠的施工现场，",
+      "score": 0.6419,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7894,
+        "sc_logprob": -0.807,
+        "sc_delta": -0.0176,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "浙江提乡中南村尾水渠的施工现场。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.241,
+      "end": 27.258,
+      "label": "mandarin",
+      "text": "挖掘机呢正在进行着作业，工人们也是抢抓这个好天气，加快施工建设，",
+      "score": 0.1631,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1511,
+        "sc_logprob": -0.1466,
+        "sc_delta": 0.0045,
+        "acoustic_dev": 0.283,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "挖掘机呢，正在进行的作业。工人们也是抢抓这个好天气，加快施工建设。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.258,
+      "end": 32.931,
+      "label": "mandarin",
+      "text": "全力的保障了项目的进度。这条水渠在二零二三年二月中旬开始建设，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0009,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全力的保障了项目的进度。这条水渠在二零二三年二月中旬开始建设。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.931,
+      "end": 39.554,
+      "label": "mandarin",
+      "text": "总投资十二点五万，项目呢位于中南村委东山门至瓦窑门水道生产基地。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0209,
+        "sc_logprob": -0.0244,
+        "sc_delta": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "总投资十二点五万。项目呢，位于中南村委登山门至瓦窑门水稻生产基地。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.573,
+      "end": 44.443,
+      "label": "mandarin",
+      "text": "项目建成之后呢，将会满足周边一百多亩的稻田灌溉的需求。",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "sc_logprob": -0.0029,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "项目建成之后呢，将会满足周边一百多亩的大田灌溉的需求。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.505,
+      "end": 47.691,
+      "label": "mandarin",
+      "text": "在阳堤村委的上闸村，运送材料、",
+      "score": 0.5903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4985,
+        "sc_logprob": -0.5027,
+        "sc_delta": -0.0043,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在杨堤村委的上榨村运送材料。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.708,
+      "end": 50.741,
+      "label": "guilin",
+      "text": "拌浆、浇筑、新建水渠项目呢，",
+      "score": 0.5773,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4463,
+        "sc_logprob": -0.413,
+        "sc_delta": 0.0333,
+        "acoustic_dev": 0.95,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "半江浇筑新建水渠项目呢？"
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.741,
+      "end": 54.881,
+      "label": "mandarin",
+      "text": "同样也在紧锣密鼓的进行着。以前我们村里",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0258,
+        "sc_logprob": -0.0324,
+        "sc_delta": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同样也在紧锣密鼓地进行着。以前我们村里。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 54.994,
+      "end": 58.46,
+      "label": "mandarin",
+      "text": "沟渠堵塞，村根饮水耗时较长，",
+      "score": 0.2623,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.099,
+        "sc_logprob": -0.1101,
+        "sc_delta": -0.0111,
+        "acoustic_dev": 0.166,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "根/耕 村/春",
+        "lexicon": "",
+        "text_free": "沟渠堵塞，春耕饮水耗时较长。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.824,
+      "end": 62.595,
+      "label": "mandarin",
+      "text": "今年我们新修建这一千两百米排灌沟渠，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0255,
+        "sc_logprob": -0.0218,
+        "sc_delta": 0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年我们新修建这一千两百米排灌沟渠。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 62.818,
+      "end": 67.926,
+      "label": "mandarin",
+      "text": "将有效解决周边两百余亩稻田生产用水难的问题，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "sc_logprob": -0.002,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将有效解决周边两百余亩稻田生产用水难的问题。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 68.1,
+      "end": 70.68,
+      "label": "mandarin",
+      "text": "惠及我们村三百多农户，",
+      "score": 0.0437,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0629,
+        "sc_logprob": -0.0633,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.084,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "惠及我们村三百多农户。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 70.904,
+      "end": 74.11,
+      "label": "mandarin",
+      "text": "解决他们农业灌溉用水问题。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "sc_logprob": -0.0022,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "解决他们农业灌溉用水问题。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_健康问答_心肌梗死发病呈年轻化趋势_如何正确预防_.wav",
+  "duration": 87.411,
+  "no_dialect": false,
+  "created_at": "2026-10-30T01:19:29",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.135,
+      "end": 4.221,
+      "label": "mandarin",
+      "text": "心肌梗死是常见的危害健康和生命的疾病。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "sc_logprob": -0.0051,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "心肌梗死是常见的危害健康和生命的疾病。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.43,
+      "end": 8.467,
+      "label": "mandarin",
+      "text": "近年来，中青年心肌梗死患者逐年增加，",
+      "score": 0.2017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0074,
+        "sc_logprob": -0.0077,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "心/型",
+        "lexicon": "",
+        "text_free": "近年来，中青年型级公司犯罪逐年增加。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.467,
+      "end": 16.059,
+      "label": "mandarin",
+      "text": "值得引起注意。那么，应该如何合理、科学的预防心肌梗死发生的风险呢？",
+      "score": 0.0331,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0101,
+        "sc_logprob": -0.0116,
+        "sc_delta": -0.0015,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "承担引起注意。那么应该如何合理科学的预防心肌梗死发生的风险呢？"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.059,
+      "end": 19.355,
+      "label": "mandarin",
+      "text": "我们一起来看一下。一、",
+      "score": 0.5708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9802,
+        "sc_logprob": -0.9853,
+        "sc_delta": -0.0051,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们一期来看一下。一。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.355,
+      "end": 24.06,
+      "label": "mandarin",
+      "text": "戒烟，戒烟呢可以有效的降低心肌梗死发生的风险。",
+      "score": 0.3345,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1296,
+        "sc_logprob": -0.1296,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.434,
+        "seg_cer": 0.238,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "钙盐，钙盐呢，可以有效地降低心肌梗死发生的风险。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.363,
+      "end": 27.42,
+      "label": "mandarin",
+      "text": "二、保证充足的睡眠，如果经常熬夜，",
+      "score": 0.1876,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0919,
+        "sc_logprob": -0.0934,
+        "sc_delta": -0.0015,
+        "acoustic_dev": 0.298,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二，保证充足的睡眠。如果经常熬夜啊。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.42,
+      "end": 30.531,
+      "label": "mandarin",
+      "text": "就容易出现心律失常和心肌梗死。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0057,
+        "sc_logprob": -0.0068,
+        "sc_delta": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就容易出现心律失常或心肌梗死。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.618,
+      "end": 34.14,
+      "label": "mandarin",
+      "text": "保证充足的睡眠，可以减少心肌的耗氧量，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0085,
+        "sc_logprob": -0.0086,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "保证充足的睡眠，可以减少心肌的耗氧量。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.14,
+      "end": 37.331,
+      "label": "mandarin",
+      "text": "从而避免心肌缺氧的情况。三、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0004,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从而避免心肌缺氧的情况。三"
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.331,
+      "end": 43.498,
+      "label": "mandarin",
+      "text": "合理的饮食，不健康的食品和不规律饮食习惯会给心脏造成一定的伤害，",
+      "score": 0.0782,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0429,
+        "sc_logprob": -0.0459,
+        "sc_delta": -0.0031,
+        "acoustic_dev": 0.121,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "合理的饮食，不健康的食品和不规律的饮食习惯会给心脏造成一定的伤害。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.498,
+      "end": 46.623,
+      "label": "mandarin",
+      "text": "所以啊，要保持合理、规律的饮食习惯。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以啊，要保持合理规律的饮食习惯。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.114,
+      "end": 51.32,
+      "label": "mandarin",
+      "text": "第四，要多运动，运动可以有效的增强心脏的功能，",
+      "score": 0.0779,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0386,
+        "sc_logprob": -0.0382,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.106,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第四，要多运动，运动可以有效地增强心脏的功能。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.384,
+      "end": 53.922,
+      "label": "mandarin",
+      "text": "降低心肌梗死发生的风险。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0005,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "降低心肌梗死发生的风险。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 54.121,
+      "end": 58.491,
+      "label": "mandarin",
+      "text": "但是，冠心病患者就要在医生的指导下进行合理的运动。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0005,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是，冠心病患者就要在医生的指导下进行合理的运动。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 59.414,
+      "end": 66.318,
+      "label": "mandarin",
+      "text": "五、减肥，肥胖呢也有可能导致高血压、糖尿病等一系列慢性病的发生。",
+      "score": 0.535,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2597,
+        "sc_logprob": -0.2655,
+        "sc_delta": -0.0058,
+        "acoustic_dev": 0.903,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "五，肝肺肥胖呢，有可能导致高血压、糖尿病这一系列慢性病的发生。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 66.895,
+      "end": 73.876,
+      "label": "mandarin",
+      "text": "六、要保持心态的平和，发气或者情绪激动就会引起交感神经兴奋性的增加，",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0418,
+        "sc_logprob": -0.0416,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.117,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "六，要保持心态的平和。发气或者情绪激动，就会引起交感神经兴奋性的增加。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 73.876,
+      "end": 76.482,
+      "label": "mandarin",
+      "text": "就导致血压上升、心跳加快、",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5279,
+        "sc_logprob": -0.5193,
+        "sc_delta": 0.0086,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就导致血压上升，心跳加快。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 76.509,
+      "end": 81.575,
+      "label": "mandarin",
+      "text": "心脏负担加重了，就容易导致心肌缺血，从而诱发心肌梗死。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "心脏负担加重了，就容易导致心肌缺血，从而诱发心肌梗死。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 82.161,
+      "end": 84.495,
+      "label": "mandarin",
+      "text": "日常生活当中啊，保持心态的平和，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "sc_logprob": -0.0028,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "日常生活当中啊，保持心态的平和。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 84.495,
+      "end": 87.411,
+      "label": "mandarin",
+      "text": "才能够降低心肌梗死发病率几率。",
+      "score": 0.0068,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0129,
+        "sc_logprob": -0.018,
+        "sc_delta": -0.0051,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "才能够降低心肌梗死发病率几率。"
+      }
+    }
+  ]
+}

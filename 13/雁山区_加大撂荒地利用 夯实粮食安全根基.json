@@ -1,0 +1,408 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "雁山区_加大撂荒地利用 夯实粮食安全根基.wav",
+  "duration": 76.034,
+  "no_dialect": false,
+  "created_at": "2026-10-30T05:51:38",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.753,
+      "label": "guilin",
+      "text": "接下来我们来关注的是春耕备耕的话题。",
+      "score": 0.7227,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5594,
+        "sc_logprob": -0.5103,
+        "sc_delta": 0.049,
+        "acoustic_dev": 0.945,
+        "seg_cer": 0.529,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "耕/根 耕/根",
+        "lexicon": "",
+        "text_free": "现在我们来关注这“纯根背根”的话题。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.852,
+      "end": 8.006,
+      "label": "guilin",
+      "text": "安山区呢是认真落实的贯彻全方位夯实粮食安全的根基要求，",
+      "score": 0.2689,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3414,
+        "sc_logprob": -0.2869,
+        "sc_delta": 0.0545,
+        "acoustic_dev": 0.449,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "安山区的是应真落实的，贯彻全方位夯实粮食安全的根基要求。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.175,
+      "end": 13.577,
+      "label": "mandarin",
+      "text": "加大了对于那些荒地的利用力度，也确保了耕地有增无减。",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0004,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加大了对于那些房地产的利用力度，也确保了耕地有增无减。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.411,
+      "end": 20.069,
+      "label": "mandarin",
+      "text": "现在啊，安山区安山镇罗安村一百多亩的荒地上面积极种红棉，",
+      "score": 0.1055,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0973,
+        "sc_logprob": -0.0867,
+        "sc_delta": 0.0106,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在啊，安山区安山镇罗安村一百多亩的房地上面，机器声轰鸣。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.347,
+      "end": 25.458,
+      "label": "mandarin",
+      "text": "拖拉机呢来回在原来的荒地高耕地为春播水稻做好准备。",
+      "score": 0.0977,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1618,
+        "sc_logprob": -0.168,
+        "sc_delta": -0.0062,
+        "acoustic_dev": 0.041,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拖拉机的南非在原来的荒地搞耕地，为春播水稻做好准备。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.576,
+      "end": 28.065,
+      "label": "mandarin",
+      "text": "这边田那个以前是撂荒田，",
+      "score": 0.2303,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3385,
+        "sc_logprob": -0.3296,
+        "sc_delta": 0.0089,
+        "acoustic_dev": 0.443,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这边田，那个以前是撂荒田。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.42,
+      "end": 31.651,
+      "label": "mandarin",
+      "text": "以前为什么撂荒呢？是因为那个地势比较低洼，",
+      "score": 0.1814,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2157,
+        "sc_logprob": -0.2255,
+        "sc_delta": -0.0099,
+        "acoustic_dev": 0.164,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以前呢，为什么叫方呢？是因为那个地势比较低哇。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.047,
+      "end": 35.339,
+      "label": "mandarin",
+      "text": "那个经常有水淹。刘昌明红记者讲，",
+      "score": 0.7157,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9026,
+        "sc_logprob": -0.9099,
+        "sc_delta": -0.0073,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "经/今",
+        "lexicon": "",
+        "text_free": "那个今晚有水烟，刘晓明红几浙江。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.358,
+      "end": 39.861,
+      "label": "mandarin",
+      "text": "这一百多亩的荒地之所以能够成功的复耕复种，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0498,
+        "sc_logprob": -0.0518,
+        "sc_delta": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一百多亩的荒地之所以能够成功地复耕复种。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.861,
+      "end": 42.519,
+      "label": "mandarin",
+      "text": "得益于政府出资修建了排洪渠，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0254,
+        "sc_logprob": -0.0234,
+        "sc_delta": 0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "得益于政府出资修建了排洪渠。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 42.816,
+      "end": 45.34,
+      "label": "mandarin",
+      "text": "在改善田地排水系统的同时呢，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0241,
+        "sc_logprob": -0.028,
+        "sc_delta": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在改善田地排水系统的同时呢。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 45.34,
+      "end": 48.024,
+      "label": "mandarin",
+      "text": "还科学的引导农民轮耕种植，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6807,
+        "sc_logprob": -0.6697,
+        "sc_delta": 0.011,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还科学地引导农民能耕种制。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 48.024,
+      "end": 52.592,
+      "label": "mandarin",
+      "text": "改善土地的养分，真正呢就把荒地变成了肥沃的良田。",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0094,
+        "sc_logprob": -0.0091,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "改善土地的养分，真的呢，就把荒地变成了肥沃的良田。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.06,
+      "end": 57.757,
+      "label": "guilin",
+      "text": "土地是农民生存之本，安山区呢扣紧中央文件精神，",
+      "score": 0.2426,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3305,
+        "sc_logprob": -0.2826,
+        "sc_delta": 0.0479,
+        "acoustic_dev": 0.425,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "土地是农民生存之本。安山区的“扣紧中央文件精神”。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 57.91,
+      "end": 62.28,
+      "label": "mandarin",
+      "text": "采取地块整合、土地流转的方式来增加土地的效益，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0217,
+        "sc_logprob": -0.025,
+        "sc_delta": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "采取地块整合、土地流转的方式，来增加土地的效益。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.473,
+      "end": 65.804,
+      "label": "guilin",
+      "text": "同时呢还投资上亿修建了排水渠，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1436,
+        "sc_logprob": -0.1183,
+        "sc_delta": 0.0253,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时呢，还投资上亿修建了排水渠。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 65.804,
+      "end": 70.007,
+      "label": "mandarin",
+      "text": "连通田间机耕路，将低洼地带改善成良田，",
+      "score": 0.1538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "sc_logprob": -0.0041,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "耕/根",
+        "lexicon": "",
+        "text_free": "连通田间几根路，将低洼地带改善成良田。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 70.007,
+      "end": 74.026,
+      "label": "mandarin",
+      "text": "山坡荒地也改善成了蔬菜瓜果基地，",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "sc_logprob": -0.0025,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "山坡皇帝也改善成了蔬菜瓜果基地。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 74.026,
+      "end": 76.034,
+      "label": "mandarin",
+      "text": "有效的提高了土地的使用率。",
+      "score": 0.1368,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1949,
+        "sc_logprob": -0.1857,
+        "sc_delta": 0.0092,
+        "acoustic_dev": 0.117,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有效地提高了土地的利用率。"
+      }
+    }
+  ]
+}

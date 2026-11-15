@@ -1,0 +1,471 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "恭城西岭_春耕备耕动起来 不负农忙好时光.wav",
+  "duration": 83.252,
+  "no_dialect": false,
+  "created_at": "2026-10-30T03:40:38",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.823,
+      "label": "mandarin",
+      "text": "在贡城瑶族自治县西岭镇大岭山村的李树林里面，",
+      "score": 0.4414,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4348,
+        "sc_logprob": -0.4706,
+        "sc_delta": -0.0358,
+        "acoustic_dev": 0.481,
+        "seg_cer": 0.381,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "自/止",
+        "lexicon": "",
+        "text_free": "这工程要阻止先的西岭镇大岭山村的李树林里面。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.823,
+      "end": 7.318,
+      "label": "guilin",
+      "text": "洁白的李花呢，已经是开了好多了，",
+      "score": 0.2842,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2863,
+        "sc_logprob": -0.2653,
+        "sc_delta": 0.021,
+        "acoustic_dev": 0.295,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "捷豹的理发呢，已经是开了好多了。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.318,
+      "end": 11.377,
+      "label": "mandarin",
+      "text": "开的呢也特别的热闹。村民们在果园里面也忙到，",
+      "score": 0.2341,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3047,
+        "sc_logprob": -0.3028,
+        "sc_delta": 0.0019,
+        "acoustic_dev": 0.318,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看得呢，也特别的热闹。村民们在果园里面也忙得。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.377,
+      "end": 16.15,
+      "label": "mandarin",
+      "text": "真正呢，你想想啊，就会构成了一幅鲜活的春耕农忙图。",
+      "score": 0.1247,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.037,
+        "sc_logprob": -0.0398,
+        "sc_delta": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从这里，我们想象啊，就会构成了一幅鲜活的春耕农忙图。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.934,
+      "end": 20.54,
+      "label": "mandarin",
+      "text": "这个时候啊，正是春耕备耕的农忙时期，",
+      "score": 0.1286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0251,
+        "sc_logprob": -0.0212,
+        "sc_delta": 0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "正/真",
+        "lexicon": "",
+        "text_free": "这个时候啊，真是春耕、备耕的农忙时期。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.54,
+      "end": 23.551,
+      "label": "mandarin",
+      "text": "在大岭山村成片的李子花林里面，",
+      "score": 0.2208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.111,
+        "sc_logprob": -0.1021,
+        "sc_delta": 0.009,
+        "acoustic_dev": 0.076,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "林/令",
+        "lexicon": "",
+        "text_free": "在大岭山村成篇的李子华令里面。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 23.551,
+      "end": 27.221,
+      "label": "mandarin",
+      "text": "几个村民啊正在花坛近处雪白的李花下，",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0487,
+        "sc_logprob": -0.0655,
+        "sc_delta": -0.0168,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "几个村民啊，正在滑滩清除雪白的绿化下。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.221,
+      "end": 30.489,
+      "label": "mandarin",
+      "text": "有条不紊的进行除地、除草、种苗、",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0062,
+        "sc_logprob": -0.0093,
+        "sc_delta": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有条不紊地进行锄地、除草、种苗。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.489,
+      "end": 32.654,
+      "label": "mandarin",
+      "text": "修剪果树的枝芽等等，",
+      "score": 0.0866,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1053,
+        "sc_logprob": -0.1293,
+        "sc_delta": -0.024,
+        "acoustic_dev": 0.069,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "修剪果树的枝桠等等。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 32.966,
+      "end": 37.26,
+      "label": "mandarin",
+      "text": "确保今年瓜果率持续的稳定，也为丰收打下基础。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "sc_logprob": -0.001,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "确保今年瓜果率持续的稳定，也为丰收打下基础。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 37.7,
+      "end": 40.248,
+      "label": "guilin",
+      "text": "主要是搞这个我们这个山花林啊，",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.818,
+        "sc_logprob": -2.7335,
+        "sc_delta": 0.0845,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "主要是搞这，我们叫“三管理”啊。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 40.248,
+      "end": 43.5,
+      "label": "mandarin",
+      "text": "都修剪，把这个果园清理干净，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0374,
+        "sc_logprob": -0.0447,
+        "sc_delta": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "都修剪，把这个果园清理干净。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 43.806,
+      "end": 46.31,
+      "label": "mandarin",
+      "text": "施肥这块了。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0161,
+        "sc_logprob": -0.0224,
+        "sc_delta": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是非这块了。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 46.92,
+      "end": 50.942,
+      "label": "mandarin",
+      "text": "再接下来，对我们这个山花林的进行效果了，",
+      "score": 0.6841,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8957,
+        "sc_logprob": -0.8955,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "再接下来，对我们这个三花类的新的效果了。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 51.004,
+      "end": 54.774,
+      "label": "guilin",
+      "text": "我们要打，要打一些这个保果的药水啊，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0184,
+        "sc_logprob": -0.9547,
+        "sc_delta": 0.0637,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们要打打，要打一些这个包裹的药水呀。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 55.132,
+      "end": 58.885,
+      "label": "mandarin",
+      "text": "提提高我们的产量和质量，",
+      "score": 0.0099,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0655,
+        "sc_logprob": -0.0593,
+        "sc_delta": 0.0062,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提提高我们的产量和质量。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 59.116,
+      "end": 64.765,
+      "label": "mandarin",
+      "text": "增加我们的收入。根据了解啊，西岭镇大岭山村是山多地少，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "sc_logprob": -0.0064,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "增加我们的收入。根据了解啊，西岭镇大岭山村是山多地少。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 64.765,
+      "end": 70.78,
+      "label": "mandarin",
+      "text": "土地贫瘠。近年来呢，西岭镇就加大力推进了农业产业的调整结构，",
+      "score": 0.0169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "sc_logprob": -0.0139,
+        "sc_delta": -0.0074,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "土地贫瘠。近年来呢，西岭镇就加大了推进了农业产业的调整结构。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 70.78,
+      "end": 73.331,
+      "label": "mandarin",
+      "text": "鼓励村民大力发展李子的种植。",
+      "score": 0.2505,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1195,
+        "sc_logprob": -0.126,
+        "sc_delta": -0.0065,
+        "acoustic_dev": 0.087,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "子/智",
+        "lexicon": "",
+        "text_free": "鼓励村民大力的发展理智的种植。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 73.689,
+      "end": 76.612,
+      "label": "mandarin",
+      "text": "目前李子种植面积大概是一千四百多亩，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0005,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，李子种植面积大概是一千四百多亩。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 76.612,
+      "end": 79.418,
+      "label": "mandarin",
+      "text": "李子的产量啊达到了五百六十多万斤，",
+      "score": 0.0296,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0518,
+        "sc_logprob": -0.0506,
+        "sc_delta": 0.0012,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "梨子的产量啊，达到了五百六十多万斤。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 79.649,
+      "end": 83.252,
+      "label": "mandarin",
+      "text": "年平均呢纯收入可以达到一万两千块钱。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0253,
+        "sc_logprob": -0.0283,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "年平均呢，纯收入可以达到一万两千块钱。"
+      }
+    }
+  ]
+}

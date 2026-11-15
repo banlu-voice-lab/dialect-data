@@ -1,0 +1,471 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "宁远小学_ 厚植传统文化 喜迎新春开学.wav",
+  "duration": 109.812,
+  "no_dialect": false,
+  "created_at": "2026-10-30T02:54:37",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.261,
+      "label": "mandarin",
+      "text": "接下来我们去看一下我市及各县中小学开学的情况。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.009,
+        "sc_logprob": -0.0111,
+        "sc_delta": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接下来，我们去看一下我市及各县中小学开学的情况。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.553,
+      "end": 11.595,
+      "label": "mandarin",
+      "text": "为了让八一在尽快的恢复到学习状态，好多学校也是用了充满仪式感的活动，",
+      "score": 0.177,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.16,
+        "sc_logprob": -0.1846,
+        "sc_delta": -0.0246,
+        "acoustic_dev": 0.231,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了让把孩子尽快地恢复到学习状态，好多学校也是用了充满仪式感的活动。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.695,
+      "end": 15.259,
+      "label": "mandarin",
+      "text": "营造开学第一天良好的学习生活氛围。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0004,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "营造开学第一天良好的学习生活氛围。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.624,
+      "end": 19.935,
+      "label": "mandarin",
+      "text": "在陵园小学门口，学校的校长和老师们站到两边，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0203,
+        "sc_logprob": -0.0158,
+        "sc_delta": 0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在陵园小学门口，学校的校长和老师们站到两边。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.124,
+      "end": 23.591,
+      "label": "mandarin",
+      "text": "和路过打扮成小兔子模样的八一在一起，",
+      "score": 0.6545,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7456,
+        "sc_logprob": -0.7946,
+        "sc_delta": -0.049,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "和六个打扮成小兔子模样的扮演者一起。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.591,
+      "end": 27.171,
+      "label": "mandarin",
+      "text": "夹道欢迎学生返校。走进校园，",
+      "score": 0.1293,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0988,
+        "sc_logprob": -0.1004,
+        "sc_delta": -0.0016,
+        "acoustic_dev": 0.102,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夹道反映，学生返校，走进校园。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.171,
+      "end": 32.119,
+      "label": "mandarin",
+      "text": "精心布置的传统文化展示区，让八一在们纷纷驻足欣赏。",
+      "score": 0.1999,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1787,
+        "sc_logprob": -0.1888,
+        "sc_delta": -0.0101,
+        "acoustic_dev": 0.27,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "精心布置的传统文化展示区，杨八爷仔们纷纷驻足欣赏。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.523,
+      "end": 39.577,
+      "label": "mandarin",
+      "text": "在玉兔迎春活动区，数十位身着汉服的学生正在制作书写精美的书签，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0121,
+        "sc_logprob": -0.0108,
+        "sc_delta": 0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在玉兔迎春活动区，数十位身着汉服的学生正在制作书写精美的书签。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.577,
+      "end": 44.995,
+      "label": "mandarin",
+      "text": "送给自己的同学们。而在春耕劳动创未来展示区，",
+      "score": 0.125,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1228,
+        "sc_logprob": -0.1359,
+        "sc_delta": -0.0131,
+        "acoustic_dev": 0.153,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "送给自己的同学们。而在春耕劳动创卫内展示区。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.995,
+      "end": 49.64,
+      "label": "mandarin",
+      "text": "一位老师和学生讲解员正在向大家展示农具、",
+      "score": 0.1481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "sc_logprob": -0.0069,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "农/龙",
+        "lexicon": "",
+        "text_free": "一位老师和学生讲解员正在向大家展示龙驹。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 49.64,
+      "end": 55.991,
+      "label": "mandarin",
+      "text": "植物种子以及去年学校实践课八一在们耕种出来的谷物等等。",
+      "score": 0.0786,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.09,
+        "sc_logprob": -0.094,
+        "sc_delta": -0.004,
+        "acoustic_dev": 0.084,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "植物种子，以及去年学校实践课，八爷仔们耕种出来的谷物等等。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 56.242,
+      "end": 59.103,
+      "label": "mandarin",
+      "text": "还有二十年新旧对比照片展，",
+      "score": 0.0258,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0738,
+        "sc_logprob": -0.0811,
+        "sc_delta": -0.0074,
+        "acoustic_dev": 0.05,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有二十年新旧对比照片展。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 59.329,
+      "end": 64.581,
+      "label": "mandarin",
+      "text": "也让八一在们了解家乡和学校在一心跃意的变化，",
+      "score": 0.6071,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6325,
+        "sc_logprob": -0.6282,
+        "sc_delta": 0.0043,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也让八爷仔们了解家乡和学校在一心一意的变法。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 64.589,
+      "end": 67.295,
+      "label": "mandarin",
+      "text": "进一步感悟党的二十大精神，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0265,
+        "sc_logprob": -0.0301,
+        "sc_delta": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进一步感悟党的二十大精神。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 67.475,
+      "end": 70.096,
+      "label": "mandarin",
+      "text": "坚定听党话、感党恩、",
+      "score": 0.4219,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2561,
+        "sc_logprob": -0.258,
+        "sc_delta": -0.0019,
+        "acoustic_dev": 0.432,
+        "seg_cer": 0.125,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坚定听党话，跟党恩。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 70.096,
+      "end": 75.446,
+      "label": "mandarin",
+      "text": "跟党走的理想信念，争做祖国复兴大业的圆梦人。",
+      "score": 0.0686,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0204,
+        "sc_logprob": -0.0207,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "跟党走，立理想信念，争做祖国复兴大业的袁梦颖。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 75.903,
+      "end": 78.784,
+      "label": "mandarin",
+      "text": "我觉得今天的学校异常的美丽，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "sc_logprob": -0.0024,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我觉得今天的学校异常的美丽。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 78.784,
+      "end": 82.437,
+      "label": "mandarin",
+      "text": "学校门口有六只可爱的小兔子在迎接我们。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "学校门口有六只可爱的小兔子在迎接我们。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 82.819,
+      "end": 91.441,
+      "label": "mandarin",
+      "text": "我参观了学校讲解员给我们讲解的传统文化以后，我觉得更加亲近了我们的传统文化。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "sc_logprob": -0.0032,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我参观了学校讲解员给我们讲解的传统农具以后，我觉得更加亲近了我们的传统文化。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 91.601,
+      "end": 99.154,
+      "label": "mandarin",
+      "text": "与此同时，同学们亲手做的兔年手工艺品和学生DIY小画报也放在了展示区里头。",
+      "score": 0.1286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0224,
+        "sc_logprob": -0.0233,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "年/链",
+        "lexicon": "",
+        "text_free": "与此同时，同学们亲手做的凸链手工艺品和学生DIY小画报也放在了展示区里头。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 99.487,
+      "end": 102.54,
+      "label": "mandarin",
+      "text": "同学们在浓厚的新学期氛围里头，",
+      "score": 0.3997,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3267,
+        "sc_logprob": -0.3246,
+        "sc_delta": 0.0021,
+        "acoustic_dev": 0.58,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同学们在浓厚的文学气氛里头。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 102.54,
+      "end": 109.812,
+      "label": "guilin",
+      "text": "感受传统文化的魅力，反映校遇见，展现同学们昂扬向上的精神面貌。",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5489,
+        "sc_logprob": -0.5148,
+        "sc_delta": 0.0341,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感受传统文化的魅力，反映校园间惊险同学们昂扬向上的精神面貌。"
+      }
+    }
+  ]
+}
