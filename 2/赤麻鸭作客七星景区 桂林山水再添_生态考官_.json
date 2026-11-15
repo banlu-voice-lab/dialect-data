@@ -1,0 +1,636 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "赤麻鸭作客七星景区 桂林山水再添_生态考官_.wav",
+  "duration": 146.342,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:54:01",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.615,
+      "end": 6.676,
+      "label": "mandarin",
+      "text": "下面我们来认识一种出现在我们桂林自然生态里的漂亮的野生动物。",
+      "score": 0.308,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3525,
+        "acoustic_dev": 0.345,
+        "seg_cer": 0.172,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "自/之",
+        "lexicon": "",
+        "text_free": "下面我们来欣赏一种出现在我们桂林之燕生态流的漂亮的野生动物。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.926,
+      "end": 16.03,
+      "label": "mandarin",
+      "text": "近段时间啊，属于生态四至之称的国家三有保护动物赤麻鸭出现在了我们的七星景区。",
+      "score": 0.2378,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1181,
+        "acoustic_dev": 0.094,
+        "seg_cer": 0.194,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "至/子 四/狮 属/素",
+        "lexicon": "",
+        "text_free": "近段时间啊，素有“生态狮子”之称的国家三有保护动物赤麻鸭，出现在老龙的七星景区。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 16.285,
+      "end": 19.793,
+      "label": "guilin",
+      "text": "它在青峰道引见信步流连。",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9637,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.909,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "引/影 青/秦",
+        "lexicon": "",
+        "text_free": "他在秦风倒影间，心不留恋。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 20.188,
+      "end": 23.265,
+      "label": "mandarin",
+      "text": "赤麻鸭是属于国家二级保护动物，",
+      "score": 0.0009,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0319,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赤麻鸭是属于国家二级保护动物。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.265,
+      "end": 26.231,
+      "label": "mandarin",
+      "text": "对于生态环境啊那是极其的敏感。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于生态环境啊，那是极其的敏感。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.42,
+      "end": 31.076,
+      "label": "mandarin",
+      "text": "如果不是生态高地，那是绝对留不住它美丽的身影的。",
+      "score": 0.0789,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0974,
+        "acoustic_dev": 0.072,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果不是生态高低，那是绝对留不住唐美丽的身影的。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.393,
+      "end": 35.659,
+      "label": "mandarin",
+      "text": "所以呢，它被生态学家誉为是生态考官。",
+      "score": 0.0971,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0302,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "所以咧，他被生态学家誉为是生态考官。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.659,
+      "end": 44.025,
+      "label": "mandarin",
+      "text": "我们一起去认识一下它。出现在我市的赤麻鸭是一种体型比较大的雁形目鸭科鸟类。",
+      "score": 0.1131,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.029,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "赤/刺",
+        "lexicon": "",
+        "text_free": "我们一起去认识一下它。出现在我市的刺麻鸭是一种体型比较大的雁形目鸭科鸟类。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 44.291,
+      "end": 47.121,
+      "label": "mandarin",
+      "text": "成年赤麻鸭比家鸭略大，",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0295,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成年芝麻牙比夹牙略大。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 47.268,
+      "end": 49.762,
+      "label": "mandarin",
+      "text": "属于国家二级保护动物。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "属于国家二级保护动物。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 49.762,
+      "end": 58.036,
+      "label": "mandarin",
+      "text": "目前被列入国家保护的有益的或有重要生态科学研究价值的陆生野生动物名录。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0191,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前被列入国家保护的有毅力或有重要生态科学研究价值的陆生野生动物名录。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 58.606,
+      "end": 60.994,
+      "label": "mandarin",
+      "text": "它的羽毛色彩十分独特，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它的羽毛色彩十分独特。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 61.139,
+      "end": 63.788,
+      "label": "mandarin",
+      "text": "整体呈现橙绿色，",
+      "score": 0.0051,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0394,
+        "acoustic_dev": 0.01,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "整体呈现橙绿色。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 64.071,
+      "end": 66.591,
+      "label": "mandarin",
+      "text": "头部和颈部颜色稍淡，",
+      "score": 0.2341,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3598,
+        "acoustic_dev": 0.352,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "头部或颈部颜色稍淡。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 66.915,
+      "end": 69.423,
+      "label": "mandarin",
+      "text": "在阳光下显得格外的耀眼。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在阳光下显得格外的耀眼。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 69.876,
+      "end": 72.918,
+      "label": "mandarin",
+      "text": "赤麻鸭主要栖息于开阔草原、",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0255,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "芝麻芽主要栖息于开阔草原。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.918,
+      "end": 75.158,
+      "label": "mandarin",
+      "text": "湖泊、农田等环境，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "湖泊、农田等环境。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 75.351,
+      "end": 77.714,
+      "label": "mandarin",
+      "text": "是一种迁徙性鸟类。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是一种前蜥形鸟类。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 77.714,
+      "end": 82.158,
+      "label": "mandarin",
+      "text": "是春节鸟类迁徙期，赤麻鸭可能在吃短暂的停歇与补充体力。",
+      "score": 0.189,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0887,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "吃/此",
+        "lexicon": "",
+        "text_free": "时值春节，鸟类迁徙期，赤眉鸭可能在此短暂的停歇与补充体力。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 82.158,
+      "end": 86.303,
+      "label": "mandarin",
+      "text": "我们在此呢也温馨提醒市民游客在观赏时应保持安静，",
+      "score": 0.0015,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0329,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们在此呢，也温馨提醒市民游客在观赏时应保持安静。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 86.626,
+      "end": 91.103,
+      "label": "mandarin",
+      "text": "避免使用闪光灯或投喂食物，确保鸟类自然活动不受干扰。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "避免使用闪光灯或投喂食物，确保鸟类自然活动不受干扰。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 91.362,
+      "end": 98.172,
+      "label": "mandarin",
+      "text": "目前景区已加强该区域的巡逻，并设置科普展板向游客介绍赤麻鸭的生态价值。",
+      "score": 0.0277,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.061,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前景区已加强该区域的巡逻，并设置科普展板，向游客介绍赤梅儿的生态价值。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 98.281,
+      "end": 102.077,
+      "label": "mandarin",
+      "text": "根据介绍，赤麻鸭对生态环境极其敏感，",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据介绍，芝麻芽对生态环境极其敏感。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 102.319,
+      "end": 107.842,
+      "label": "mandarin",
+      "text": "其居住之处必有水质清澈、树林繁盛的生态高地。",
+      "score": 0.1666,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0831,
+        "acoustic_dev": 0.057,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其主住之处，必有水质清澈、食物链完整的生态高地。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 108.064,
+      "end": 114.594,
+      "label": "mandarin",
+      "text": "它的到来，再次印证我市在漓江流域综合治理中生态质量的优良。",
+      "score": 0.0532,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0345,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它的到来，这次印证我市在漓江流域综合整治中生态质量的优良。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 115.009,
+      "end": 121.153,
+      "label": "mandarin",
+      "text": "数据显示，我市的地表环境水质已经连续五年位居全国前列，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "数据显示，我市的地表环境水质已经连续五年位居全国前列。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 121.51,
+      "end": 124.415,
+      "label": "mandarin",
+      "text": "环境空气质量连续三年提升，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0158,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "环境空气质量连续三年提升。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 124.513,
+      "end": 128.323,
+      "label": "mandarin",
+      "text": "漓江干流水质连续六年保持二类标准。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丽江干流水质连续六年保持二类标准。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 128.647,
+      "end": 131.308,
+      "label": "guilin",
+      "text": "杨树风生果、中华秋沙鸭、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4046,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "杨锁风筝郭，中华秋沙哑。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 131.564,
+      "end": 135.195,
+      "label": "guilin",
+      "text": "彩鹮等珍稀生物中不断被发现，",
+      "score": 0.6255,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9714,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "彩凤等珍稀新物种不断被发现。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 135.502,
+      "end": 138.284,
+      "label": "guilin",
+      "text": "折射出了桂林“此之以恒，",
+      "score": 0.6523,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9413,
+        "acoustic_dev": 0.974,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "此/持",
+        "lexicon": "",
+        "text_free": "折射出了桂林持之以恒。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 138.284,
+      "end": 144.787,
+      "label": "mandarin",
+      "text": "久久为功”，已经走出一条生态颜值与发展产值共生共赢的绿",
+      "score": 0.0472,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0822,
+        "acoustic_dev": 0.056,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "久久为功，已经走出一条生态颜值与发展产值共生共赢的。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 145.08,
+      "end": 146.342,
+      "label": "guilin",
+      "text": "色发展之路。",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0393,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是发展之路。"
+      }
+    }
+  ]
+}

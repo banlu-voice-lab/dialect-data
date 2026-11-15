@@ -1,0 +1,522 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "永福苏桥_万棵杨梅树迎来采摘旺季.wav",
+  "duration": 112.79,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:36:28",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.811,
+      "label": "mandarin",
+      "text": "眼下永福县苏桥镇石门村的",
+      "score": 0.1368,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1589,
+        "acoustic_dev": 0.19,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "眼下，永福县苏桥镇石门村的一。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.946,
+      "end": 5.624,
+      "label": "guilin",
+      "text": "万亩都杨梅树进入了成熟期，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.4615,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "豌豆杨梅树进入了成熟期。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 5.811,
+      "end": 8.356,
+      "label": "mandarin",
+      "text": "前来采摘的游客络绎不绝。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前来采摘的游客络绎不绝。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 8.544,
+      "end": 13.179,
+      "label": "mandarin",
+      "text": "果农们忙到采摘、销售，一派丰收的喜人景象。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0078,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "果农们忙到采摘、销售，一派丰收的喜人景象。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 13.324,
+      "end": 16.402,
+      "label": "mandarin",
+      "text": "走进脱贫户尹桂娣的杨梅园，",
+      "score": 0.0289,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0696,
+        "acoustic_dev": 0.056,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走进脱贫户尹桂娣的杨梅园。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 16.402,
+      "end": 20.175,
+      "label": "mandarin",
+      "text": "只见一颗颗红中透黑的杨梅缀满枝头，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0218,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "只见一颗颗红中透黑的杨梅缀满枝头。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 20.55,
+      "end": 23.827,
+      "label": "mandarin",
+      "text": "在夹着果香的微风当中摇摇欲坠，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在夹着果香的微风当中，摇摇欲坠。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 23.827,
+      "end": 31.242,
+      "label": "mandarin",
+      "text": "令人垂涎欲滴。不少游客正提刀篮子，穿梭在杨梅树间采摘新选的杨梅。",
+      "score": 0.1866,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0437,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.207,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "梭/说 篮/男",
+        "lexicon": "",
+        "text_free": "另一垂涎欲滴，不少游客正提刀男子传说在杨梅树间采摘新鲜的杨梅。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 31.242,
+      "end": 35.276,
+      "label": "mandarin",
+      "text": "是从桂林专门开车下来到永福来摘杨梅的，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0044,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是从桂林专门开车下来到永福来摘杨梅的。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.558,
+      "end": 40.342,
+      "label": "guilin",
+      "text": "这些杨梅呢个大而且又甜，你看我五分钟我就摘这么大筐，",
+      "score": 0.6152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.062,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.208,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "之前的杨梅呢，个大而且非常甜。你看，我五分钟我就摘这么大筐。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 40.692,
+      "end": 43.375,
+      "label": "mandarin",
+      "text": "很好吃哦，很自然，下次我们还会来。",
+      "score": 0.2861,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2734,
+        "acoustic_dev": 0.362,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很好吃哦，很值得来。下次我们还会来。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 43.398,
+      "end": 49.728,
+      "label": "mandarin",
+      "text": "我这边杨梅很多，赶紧邀请朋友过来这边看一下哦，来到现场真的很多，又大又甜。",
+      "score": 0.0277,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.061,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "说这边杨梅很多，赶紧邀请朋友过来这边看了一下。哦，来到现场真的很多，又大又甜。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 49.728,
+      "end": 53.286,
+      "label": "uncertain",
+      "text": "游客罗向梅好，果农喜笑颜开。",
+      "score": 0.5406,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4557,
+        "acoustic_dev": 0.636,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "农/龙",
+        "lexicon": "",
+        "text_free": "游客落享美好，郭龙喜笑颜开。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.517,
+      "end": 58.412,
+      "label": "mandarin",
+      "text": "苏桥镇政府积极引导鼓励村民发展杨梅产业，",
+      "score": 0.0001,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0327,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "苏桥镇政府积极引导，鼓励村民发展杨梅产业。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 58.735,
+      "end": 62.891,
+      "label": "mandarin",
+      "text": "主要种植东魁杨梅，以水分足、甜度高而闻名。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0088,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主要种植冬葵、杨梅，以水分足、甜度高而闻名。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 63.118,
+      "end": 68.144,
+      "label": "mandarin",
+      "text": "今年的采摘期从六月份开始，将一直持续到六月下旬。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年的测试期从六月份开始，将一直持续到六月下旬。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 68.502,
+      "end": 71.482,
+      "label": "mandarin",
+      "text": "为了让更多的游客品尝到新选的杨梅，",
+      "score": 0.2522,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3188,
+        "acoustic_dev": 0.43,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了让更多的游客品尝到新鲜的杨梅。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 71.617,
+      "end": 74.029,
+      "label": "mandarin",
+      "text": "进一步拓展杨梅的销售渠道，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进一步拓展杨梅的销售渠道。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 74.244,
+      "end": 77.757,
+      "label": "mandarin",
+      "text": "当地种植户还推出包接包送服务，",
+      "score": 0.2218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0583,
+        "acoustic_dev": 0.039,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "户/附",
+        "lexicon": "",
+        "text_free": "当地中职附还推出保洁保送服务。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 77.983,
+      "end": 81.384,
+      "label": "mandarin",
+      "text": "让游客们安心享受采摘的乐趣。",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让游客们安心享受车辙的乐趣。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 81.384,
+      "end": 88.85,
+      "label": "uncertain",
+      "text": "种了一百多棵树，到今年嘛，我老板了收，这一年要三万块钱收入，",
+      "score": 0.4645,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4223,
+        "acoustic_dev": 0.586,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从了一百多岁时，到家三万，哦，六百来岁，这一年有三万块钱收入。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 88.85,
+      "end": 94.577,
+      "label": "mandarin",
+      "text": "收入蛮可观的。近年来，苏桥镇将生态优势转化为经济优势，",
+      "score": 0.1197,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0395,
+        "acoustic_dev": 0.01,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "商业满矿关呢？近年来，苏桥镇将生态优势转化为经济优势。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 94.821,
+      "end": 97.948,
+      "label": "mandarin",
+      "text": "围绕农业增效、农民增收的目标，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0268,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "围绕农业增效、农民增收的目标。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 98.118,
+      "end": 101.021,
+      "label": "mandarin",
+      "text": "引导村民抱团发展杨梅产业。",
+      "score": 0.1762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "引/应",
+        "lexicon": "",
+        "text_free": "应当村民抱团发展杨梅产业。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 101.338,
+      "end": 105.218,
+      "label": "mandarin",
+      "text": "下一步，苏桥镇将积极打造农旅融合发展，",
+      "score": 0.2433,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0325,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "旅/女 农/龙",
+        "lexicon": "",
+        "text_free": "下一步，苏乔珍将积极打造“龙女”用户发展。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 105.444,
+      "end": 108.588,
+      "label": "guilin",
+      "text": "着力打造乡村振兴、农旅体验园，",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5072,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "农/龙",
+        "lexicon": "",
+        "text_free": "着力打造“祥城臻行”龙旅体验园。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 108.775,
+      "end": 112.79,
+      "label": "mandarin",
+      "text": "大力发展乡村旅游，带动村民增收致富。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大力发展乡村旅游，带动村民增收致富。"
+      }
+    }
+  ]
+}

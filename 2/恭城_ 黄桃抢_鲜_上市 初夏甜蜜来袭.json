@@ -1,0 +1,370 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "恭城_ 黄桃抢_鲜_上市 初夏甜蜜来袭.wav",
+  "duration": 89.802,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:09:20",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.696,
+      "end": 7.811,
+      "label": "guilin",
+      "text": "这段时间，采到气温的飞升，工程瑶族自治县工程镇门楼村加肥镇白杨村的黄桃，",
+      "score": 0.6811,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6748,
+        "acoustic_dev": 0.899,
+        "seg_cer": 0.424,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.214,
+        "phon_examples": "镇/正 县/项 自/织",
+        "lexicon": "",
+        "text_free": "这段时间，测到气温的飞升工程，要组织这项工程，正门楼层加飞升白羊城的防套。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.811,
+      "end": 11.179,
+      "label": "mandarin",
+      "text": "陆陆续续的成熟了不？抢鲜上市，",
+      "score": 0.1832,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2235,
+        "acoustic_dev": 0.285,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "陆陆续续的成熟了，不，抢先上市。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.179,
+      "end": 17.66,
+      "label": "mandarin",
+      "text": "好吃的很。那节目的最后，我们一起去果园里头去体验一下夏意的甜蜜。",
+      "score": 0.091,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0984,
+        "acoustic_dev": 0.114,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好吃得很！那节目里最后，我们一起去果园里头，去体验一下夏意的甜蜜。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.005,
+      "end": 23.161,
+      "label": "mandarin",
+      "text": "走进黄桃种植基地，果农们正在对成熟的桃子进行采摘。",
+      "score": 0.0398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走进防逃种植基地，果农们正在对成熟的桃子进行采摘。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.429,
+      "end": 29.408,
+      "label": "mandarin",
+      "text": "今年阳光充足，果农管护得当，黄桃的品质与价格双双走高，",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年阳光充足，果农管护得当，房套的品质与价格双双走高。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 29.602,
+      "end": 32.827,
+      "label": "uncertain",
+      "text": "呈现产销两旺的喜人态势。",
+      "score": 0.4512,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3081,
+        "acoustic_dev": 0.4,
+        "seg_cer": 0.818,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "势/斯 产/惨 呈/曾",
+        "lexicon": "",
+        "text_free": "曾经惨笑两望的西瀛泰斯。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 33.32,
+      "end": 37.895,
+      "label": "mandarin",
+      "text": "我这个十五亩桃子，今年是收入可以价钱蛮好，有老板来说。",
+      "score": 0.3298,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3162,
+        "acoustic_dev": 0.411,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "蛮好",
+        "text_free": "我做十五亩桃子，今年是收入也可以，价钱蛮好，有老板来收。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 38.113,
+      "end": 44.419,
+      "label": "mandarin",
+      "text": "根据了解，这些采摘下来的黄桃，一部分供应市场，另外一部分则运往工厂，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，这些采摘下来的葡萄，一部分供应市场，另外一部分则运往工厂。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 44.677,
+      "end": 49.534,
+      "label": "mandarin",
+      "text": "经过加工制作成黄桃罐头、果酱、果脯等等美味食品，",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经过加工制作成防涛罐头、果酱、果脯等等美味食品。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 49.772,
+      "end": 53.242,
+      "label": "mandarin",
+      "text": "延伸了产业链，提高了农产品附加值。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "延伸了产业链，提高了农产品附加值。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 53.242,
+      "end": 56.479,
+      "label": "guilin",
+      "text": "柑橘桃李是是门楼村的特色产业，",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3116,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "柑橘桃李柿子是门楼村的特色产业。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 56.479,
+      "end": 59.064,
+      "label": "mandarin",
+      "text": "现在正是桃李上市的季节，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在正是桃李上市的季节。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 59.101,
+      "end": 63.138,
+      "label": "mandarin",
+      "text": "收购价在三元以上，农户的收入今年还可以。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "收购价在三元以上，农户的收入今天还可以。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 63.138,
+      "end": 69.629,
+      "label": "mandarin",
+      "text": "近年来，工程瑶族自治县越是柑橘、桃李等水果种植面积达到五十多万亩，",
+      "score": 0.1101,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0408,
+        "acoustic_dev": 0.036,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，拱城瑶族自治县月市柑橘套里等水果种植面积达到五十多万亩。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 69.879,
+      "end": 75.182,
+      "label": "mandarin",
+      "text": "其中桃李种植面积大概八万亩，产量有十六万吨左右。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中桃李种植面积大概八万亩，产量有十六万吨左右。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 75.433,
+      "end": 78.679,
+      "label": "mandarin",
+      "text": "近年来，该县积极转变发展方式，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0144,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，该县积极转变发展方式。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 78.679,
+      "end": 82.47,
+      "label": "guilin",
+      "text": "调整产业结构，全面落实各项惠农政策，",
+      "score": 0.6968,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0457,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "农/龙",
+        "lexicon": "",
+        "text_free": "调整产业结构，全面落实国香飞龙政策。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 82.774,
+      "end": 85.146,
+      "label": "mandarin",
+      "text": "大力发展现代特色农业，",
+      "score": 0.0312,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0585,
+        "acoustic_dev": 0.06,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大力发展现代特色农业。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 85.399,
+      "end": 89.802,
+      "label": "mandarin",
+      "text": "有效促进农业增效、农民增收、农村增绿。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有效促进农业增效、农民增收、农村增路。"
+      }
+    }
+  ]
+}

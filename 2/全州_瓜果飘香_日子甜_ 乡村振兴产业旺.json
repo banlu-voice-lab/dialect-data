@@ -1,0 +1,579 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "全州_瓜果飘香_日子甜_ 乡村振兴产业旺.wav",
+  "duration": 121.776,
+  "no_dialect": false,
+  "created_at": "2026-10-25T23:53:55",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.32,
+      "label": "mandarin",
+      "text": "来看另外一种甜蜜的水果——香瓜。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来看另外一种甜蜜的水果——香瓜。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.331,
+      "end": 6.807,
+      "label": "uncertain",
+      "text": "近年来，泉州县依托当地的自然资源、",
+      "score": 0.3951,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1734,
+        "acoustic_dev": 0.643,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，泉州县依托当地的资源资源。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.947,
+      "end": 11.715,
+      "label": "mandarin",
+      "text": "因地制宜种植香瓜、西瓜、桃李等等优质特色水果，",
+      "score": 0.0167,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0207,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因地制宜种植香瓜、西瓜、桃李等等优质特色水果。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.842,
+      "end": 17.346,
+      "label": "mandarin",
+      "text": "发展休闲观光旅游为一体的农旅融合产业，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0078,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发展休闲观光旅游为一体的农旅融合产业。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.569,
+      "end": 20.695,
+      "label": "mandarin",
+      "text": "为乡村振兴注入甜蜜力量。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为乡村振兴注入甜蜜力量。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.895,
+      "end": 25.864,
+      "label": "mandarin",
+      "text": "在泉州县简塘镇土桥村大棚香瓜种植示范基地，",
+      "score": 0.2508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1113,
+        "acoustic_dev": 0.394,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在泉州县简塘镇土桥村大鹏乡瓜种植示范基地。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.045,
+      "end": 29.66,
+      "label": "mandarin",
+      "text": "工人们正在对香瓜采摘、装筐、封箱，",
+      "score": 0.1164,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0687,
+        "acoustic_dev": 0.224,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "工人们正在对香瓜采摘、装筐、封箱。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 29.66,
+      "end": 34.632,
+      "label": "mandarin",
+      "text": "准备运往供应市场。今天我们采摘了六百多斤香瓜，",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "准备云网供应市场。今天我们采摘了六百多斤香瓜。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.632,
+      "end": 37.78,
+      "label": "mandarin",
+      "text": "这些香瓜呢都是昨天客户预订好了的，",
+      "score": 0.327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1562,
+        "acoustic_dev": 0.574,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这些香瓜呢，都是昨天客户预定好了的。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 38.227,
+      "end": 41.1,
+      "label": "mandarin",
+      "text": "每公斤香瓜呢批发价格呢十二元。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每公斤香瓜呢，批发价格呢，十二元。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 41.286,
+      "end": 46.363,
+      "label": "mandarin",
+      "text": "泉州简塘香瓜因其皮薄、肉厚、汁多、香甜等等特点，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0118,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "泉州简糖香瓜因其皮薄、肉厚、汁多、香甜等等特点。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.514,
+      "end": 49.692,
+      "label": "mandarin",
+      "text": "深受广大消费者的青睐和喜爱。",
+      "score": 0.0018,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0136,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "深受广大消费者的青睐和喜爱。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 49.692,
+      "end": 53.348,
+      "label": "mandarin",
+      "text": "目前全镇种植面积在两千五百亩左右。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前全镇种植面积在两千五百亩左右。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.564,
+      "end": 56.3,
+      "label": "mandarin",
+      "text": "为了帮助果农拓宽销售渠道，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了帮助果农拓宽销售渠道。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 56.3,
+      "end": 60.419,
+      "label": "mandarin",
+      "text": "当地还组建了一支网络助农宣传小分队，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当地还组建了一支网络助农宣传小分队。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 60.645,
+      "end": 64.447,
+      "label": "mandarin",
+      "text": "在微信视频、抖音等等多平台发布作品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在微信、视频、抖音等等多平台发布作品。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 64.759,
+      "end": 66.966,
+      "label": "mandarin",
+      "text": "并开展网络助农直播。",
+      "score": 0.2171,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0202,
+        "acoustic_dev": 0.03,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "农/笼 助/足",
+        "lexicon": "",
+        "text_free": "并开展网络足笼直播。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 67.17,
+      "end": 73.996,
+      "label": "uncertain",
+      "text": "通过云上卖瓜、杨香甜、脆爽的简塘香瓜进入到了大众视野，",
+      "score": 0.382,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1781,
+        "acoustic_dev": 0.661,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过云上卖瓜，让香甜脆爽的简糖香瓜进入到了大众视野。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 74.195,
+      "end": 78.347,
+      "label": "mandarin",
+      "text": "吸引了不少游客和客户前来采摘订购。",
+      "score": 0.2717,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1022,
+        "acoustic_dev": 0.358,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引了不少游客或客户前来猜测订购。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 78.551,
+      "end": 81.931,
+      "label": "mandarin",
+      "text": "近年来，泉州县不断挖掘自然生态优势，",
+      "score": 0.069,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0184,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，泉州县不断挖掘资源生态优势。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 82.062,
+      "end": 85.764,
+      "label": "mandarin",
+      "text": "盘活乡村土地资源，大力发展西瓜、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "盘活乡村土地资源，大力发展西瓜。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 85.764,
+      "end": 89.054,
+      "label": "mandarin",
+      "text": "桃李、葡萄、无花果等等特色产业，",
+      "score": 0.096,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0589,
+        "acoustic_dev": 0.185,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桃李、葡萄、无花果等等特色产业。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 89.388,
+      "end": 93.774,
+      "label": "mandarin",
+      "text": "并探索创新培育出早中晚成熟的水果品种，",
+      "score": 0.1113,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0662,
+        "acoustic_dev": 0.214,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并探索创新，培育出早、中、晚成熟的水果品种。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 94.077,
+      "end": 100.766,
+      "label": "mandarin",
+      "text": "合理搭配生产结构，通过错峰上市拉长水果产品市场供应期，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "合理搭配生产结构，通过错峰上市，拉长水果产品市场供应期。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 101.038,
+      "end": 103.479,
+      "label": "guilin",
+      "text": "提高广大种植户收益，",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2777,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "户/服 种/总",
+        "lexicon": "",
+        "text_free": "提高光大总支服收益。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 103.479,
+      "end": 109.586,
+      "label": "mandarin",
+      "text": "赋能乡村振兴。目前，泉州县水果种植面积五十四点七万亩，",
+      "score": 0.123,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0627,
+        "acoustic_dev": 0.2,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "富能乡村振兴。目前，泉州县水果种植面积五十四点七万亩。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 109.979,
+      "end": 112.63,
+      "label": "mandarin",
+      "text": "年总产量一百零八点八万吨，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0061,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "年总产量一百零八点八万吨。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 112.916,
+      "end": 115.669,
+      "label": "mandarin",
+      "text": "总产值三十七点七亿元，",
+      "score": 0.187,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1026,
+        "acoustic_dev": 0.36,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "总产值三十七点七亿元。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 115.822,
+      "end": 118.405,
+      "label": "mandarin",
+      "text": "水果产业已成为农民增收、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "水果产业已成为农民增收。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 118.405,
+      "end": 121.776,
+      "label": "mandarin",
+      "text": "乡村全面振兴的重要支柱产业之一。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "乡村全面振兴的重要支柱产业之一。"
+      }
+    }
+  ]
+}

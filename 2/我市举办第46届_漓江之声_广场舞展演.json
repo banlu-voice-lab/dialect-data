@@ -1,0 +1,408 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "我市举办第46届_漓江之声_广场舞展演.wav",
+  "duration": 90.721,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:11:28",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 9.549,
+      "label": "mandarin",
+      "text": "前几天，由桂林市委宣传部、市文化广电和旅游局主办的第四十六届漓江之声广场舞展演在市体育馆举行。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天，由桂林市委宣传部、市文化广电和旅游局主办的第四十六届漓江之声广场舞展演，在市体育馆举行。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 9.857,
+      "end": 12.991,
+      "label": "mandarin",
+      "text": "参加本届漓江之声的单位和个人啊，",
+      "score": 0.0619,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "参加本届丽江之上的单位和个人啊。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.991,
+      "end": 16.724,
+      "label": "guilin",
+      "text": "多得很，线上线下那是赞声一片。",
+      "score": 0.6903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7041,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "声/神 赞/战",
+        "lexicon": "",
+        "text_free": "多得很，线上线下那是战神一片。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.004,
+      "end": 22.218,
+      "label": "mandarin",
+      "text": "来自全市十七个县市区的十六支优秀广场舞团队、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自全市十七个县市区的十六支优秀广场舞团队。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.218,
+      "end": 25.239,
+      "label": "mandarin",
+      "text": "四百二十五名群众演员同台献艺，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "四百二十五名群众演员同台献艺。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.403,
+      "end": 30.529,
+      "label": "mandarin",
+      "text": "以饱满的热情展示了桂林群众文化发展的丰硕成果。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以饱满的热情，展示了桂林群众文化发展的丰硕成果。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.923,
+      "end": 35.441,
+      "label": "mandarin",
+      "text": "本次展演以“舞动山水间，绽放民族韵”为主题，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本次展演以“舞动山水间，绽放民族韵味”为主题。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.669,
+      "end": 39.576,
+      "label": "mandarin",
+      "text": "参演节目兼具民族特色与时代气息。",
+      "score": 0.161,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "参/产",
+        "lexicon": "",
+        "text_free": "产业节目兼具民族特色与时代气息。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.882,
+      "end": 42.608,
+      "label": "guilin",
+      "text": "平乐县《在长山过给党听》、",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.0242,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.6,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "平乐县再唱三歌给当庭。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.761,
+      "end": 46.508,
+      "label": "mandarin",
+      "text": "秀峰区《果从壮锦飞出来》等原创作品，",
+      "score": 0.3682,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2851,
+        "acoustic_dev": 0.4,
+        "seg_cer": 0.467,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "修复曲《国重装金飞出来》等原创作品。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 46.698,
+      "end": 51.812,
+      "label": "mandarin",
+      "text": "生动展现了各族群众对党的热爱和对美好生活的向往。",
+      "score": 0.021,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "生动展现了国族群众对党的热爱和对美好生活的向往。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.228,
+      "end": 55.2,
+      "label": "mandarin",
+      "text": "活动通过线上平台同步直播，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动通过线上平台同步直播。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 55.394,
+      "end": 58.69,
+      "label": "mandarin",
+      "text": "吸引近八千名观众在线观看，点",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引近八千名观众在线观看。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.905,
+      "end": 61.396,
+      "label": "mandarin",
+      "text": "赞超过了三万次。",
+      "score": 0.1306,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "火灾超过了三万次。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 61.974,
+      "end": 66.821,
+      "label": "mandarin",
+      "text": "根据了解，漓江之声群众文化活动创办于一九八零年，",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，丽江之声群众文化活动创办于一九八零年。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 66.821,
+      "end": 70.795,
+      "label": "mandarin",
+      "text": "四十四年来累计演出一千两百余场，",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.03,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "四十四年来，累计演出一千两百余场。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 70.84,
+      "end": 73.642,
+      "label": "guilin",
+      "text": "惠及群众近三百万人次，",
+      "score": 0.6571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8106,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "飞机群中，近三百万人次。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 73.642,
+      "end": 77.517,
+      "label": "mandarin",
+      "text": "已经成为了我市群众文化建设的金字招牌。",
+      "score": 0.0053,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0125,
+        "acoustic_dev": 0.01,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "已经成为了我市群众文化建设的金字招牌。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 77.659,
+      "end": 82.33,
+      "label": "uncertain",
+      "text": "市文旅局表示，党将持续擦亮漓江之声文化品牌，",
+      "score": 0.4193,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3116,
+        "acoustic_dev": 0.438,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "声/身 之/自",
+        "lexicon": "",
+        "text_free": "市文旅局表示：“，将持续擦亮丽江自身文化品牌。”"
+      }
+    },
+    {
+      "id": 20,
+      "start": 82.479,
+      "end": 87.548,
+      "label": "mandarin",
+      "text": "以高质量文化供给增强人民群众获得感、幸福感，",
+      "score": 0.2821,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3537,
+        "acoustic_dev": 0.499,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以高质量文化供给，增强移民群众获得感、幸福感。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 87.548,
+      "end": 90.721,
+      "label": "mandarin",
+      "text": "为文旅融合发展注入新动能。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为文旅融合发展注入新动能。"
+      }
+    }
+  ]
+}

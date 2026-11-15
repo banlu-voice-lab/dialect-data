@@ -1,0 +1,1776 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "走读桂林石刻_古人爱游玩也爱题刻.wav",
+  "duration": 423.201,
+  "no_dialect": false,
+  "created_at": "2026-10-26T01:02:33",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.188,
+      "end": 5.165,
+      "label": "mandarin",
+      "text": "我们并不清楚陆游是否晓得自己的诗作刻在了象鼻山。",
+      "score": 0.1593,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0569,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.261,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "晓得",
+        "text_free": "我们并不清楚路又是否晓得自己的石闸刻在了香壁山。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.405,
+      "end": 14.54,
+      "label": "mandarin",
+      "text": "杜诗公把陆游的诗作刻于此，可能啊是想从某个角度预示陆游的诗是可以和桂林山水同美的瑰宝。",
+      "score": 0.0446,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0136,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.098,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "杜诗公把陆游的诗赞可于此，可能啊是想从某个角度，誉是陆游的诗是可以和桂林山水同美的瑰宝。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 14.866,
+      "end": 19.179,
+      "label": "mandarin",
+      "text": "他的墨宝留在桂林山水间，也会流芳千古。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0124,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "塔里木宝留在桂林山水间，也费六方千古。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 19.69,
+      "end": 25.138,
+      "label": "mandarin",
+      "text": "桂林凡城盖山，从隋唐开始中原文化沿都岭南而来，",
+      "score": 0.3694,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6279,
+        "acoustic_dev": 0.459,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林、凡城、改善，从垂塘开始，中原文化一度岭南而来。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 25.435,
+      "end": 28.212,
+      "label": "mandarin",
+      "text": "游山题名赋诗者众多，",
+      "score": 0.1306,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4075,
+        "acoustic_dev": 0.251,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "游山题名赋诗者众多。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.212,
+      "end": 35.82,
+      "label": "mandarin",
+      "text": "莫不遍布石壁。石刻内容啊多为吟咏山水胜地的题名和题诗。",
+      "score": 0.36,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4357,
+        "acoustic_dev": 0.278,
+        "seg_cer": 0.36,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.222,
+        "phon_examples": "吟/应 石/四",
+        "lexicon": "",
+        "text_free": "摩爱遍布四壁，诗歌内容啊，多为应用山水圣地的题名或题诗。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 36.239,
+      "end": 40.531,
+      "label": "mandarin",
+      "text": "那到了宋代，名人雅士更爱游完桂林山水。",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那到了宋代，名扬雅士更爱游玩桂林山水。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 40.711,
+      "end": 45.078,
+      "label": "mandarin",
+      "text": "下面呢，我们就来讲一讲古人游山玩水以及",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0437,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下面呢，我们就来讲一讲“孤影游山万水”以及。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 45.078,
+      "end": 52.63,
+      "label": "mandarin",
+      "text": "水月洞的来路。我们先看张氏与友人同游水月洞的题名石刻。",
+      "score": 0.1414,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "氏/思",
+        "lexicon": "",
+        "text_free": "水月洞里半路。我们先看张思与友人同游水月洞的提名时刻。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 52.768,
+      "end": 55.324,
+      "label": "guilin",
+      "text": "春夕忆莫水中秋日，",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.0367,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.625,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "水/随",
+        "lexicon": "",
+        "text_free": "春溪一抹，随中秋意。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 55.383,
+      "end": 59.231,
+      "label": "guilin",
+      "text": "广汉张静夫、岳昌洛、郑少荣、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7858,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.636,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广汉张将军，约长乐曾少用。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 59.497,
+      "end": 63.48,
+      "label": "guilin",
+      "text": "玉蝶赵养明同游水中诸岩，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.7685,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "玉殿朝阳明，同游水东竹岸。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 63.873,
+      "end": 68.109,
+      "label": "guilin",
+      "text": "薄暮自松关放舟泊水月洞，",
+      "score": 0.6892,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0737,
+        "acoustic_dev": 0.88,
+        "seg_cer": 0.636,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "放/泛 自/指",
+        "lexicon": "",
+        "text_free": "泊木，指松江泛舟，泊水越东。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 68.109,
+      "end": 71.25,
+      "label": "mandarin",
+      "text": "天雨清旷，月色佳胜，",
+      "score": 0.341,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3829,
+        "acoustic_dev": 0.228,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "胜/深",
+        "lexicon": "",
+        "text_free": "天雨倾狂，月色加深。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 71.429,
+      "end": 75.019,
+      "label": "guilin",
+      "text": "阴疏崖壁，以寄胜概。",
+      "score": 0.6231,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.012,
+        "acoustic_dev": 0.822,
+        "seg_cer": 0.875,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "疏/俗",
+        "lexicon": "",
+        "text_free": "因俗而变，以即省改。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 76.664,
+      "end": 81.839,
+      "label": "mandarin",
+      "text": "张静夫，大家看一下，大家自己的手机啊，手机那个群里面，",
+      "score": 0.0398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0504,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "张敬轩，大家看一下，大家自己的手机啊，手机那个群里面。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 81.964,
+      "end": 86.584,
+      "label": "guilin",
+      "text": "这里写的有啊，春夕忆莫水中秋日，",
+      "score": 0.618,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2917,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这里写的有啊：“春夕已未睡，中秋日。”"
+      }
+    },
+    {
+      "id": 18,
+      "start": 87.114,
+      "end": 90.572,
+      "label": "mandarin",
+      "text": "这个是他们中秋节来游这个水月洞啊。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个是他们中秋节来游这个水月洞啊。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 91.025,
+      "end": 94.533,
+      "label": "guilin",
+      "text": "广汉张静夫、岳昌洛、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.4652,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广汉张敬夫，约长容。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 94.533,
+      "end": 99.098,
+      "label": "mandarin",
+      "text": "郑少荣，还有一个玉蝶赵养明，",
+      "score": 0.2899,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3295,
+        "acoustic_dev": 0.177,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "荣/龙",
+        "lexicon": "",
+        "text_free": "郑少龙，还有一个玉蝶赵仰名。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 99.854,
+      "end": 102.379,
+      "label": "guilin",
+      "text": "同游水中诸岩",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4813,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "铜油，水东朱岩。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 103.632,
+      "end": 108.316,
+      "label": "guilin",
+      "text": "啊。然后薄暮自松关放舟泊这个水月洞，",
+      "score": 0.6168,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0194,
+        "acoustic_dev": 0.829,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "放/泛 自/至",
+        "lexicon": "",
+        "text_free": "啊，然后薄暮至松光泛舟，泊这个水月洞。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 109.86,
+      "end": 112.28,
+      "label": "mandarin",
+      "text": "当天是什么呢？",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当天是什么呢？"
+      }
+    },
+    {
+      "id": 24,
+      "start": 112.441,
+      "end": 115.34,
+      "label": "mandarin",
+      "text": "天雨清旷，月色佳胜，",
+      "score": 0.3371,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5023,
+        "acoustic_dev": 0.341,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "听雨清旷，月色嘉盛。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 115.778,
+      "end": 118.7,
+      "label": "mandarin",
+      "text": "心情非常好，故疏崖壁以寄之。",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1166,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "心情非常好，故书崖壁以记之。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 120.087,
+      "end": 123.564,
+      "label": "mandarin",
+      "text": "石刻里面提到三个人，第一个是张氏，",
+      "score": 0.2335,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4309,
+        "acoustic_dev": 0.273,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "史克里面提到三国人，第一个是张氏。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 123.564,
+      "end": 127.31,
+      "label": "mandarin",
+      "text": "字静夫，是南宋著名的理学家、",
+      "score": 0.23,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2512,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "静/晋",
+        "lexicon": "",
+        "text_free": "自晋夫是南宋著名的理学家。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 127.31,
+      "end": 131.881,
+      "label": "mandarin",
+      "text": "教育家。另外两个人就是郑少荣和赵养明，",
+      "score": 0.2252,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.436,
+        "acoustic_dev": 0.278,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "教育家，另外两个人就是曾少勇和赵阳明。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 132.468,
+      "end": 135.337,
+      "label": "guilin",
+      "text": "三个人一个是广西经略安抚使，",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.0333,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "使/司",
+        "lexicon": "",
+        "text_free": "三国营一国是广西靖略安抚司。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 135.337,
+      "end": 137.87,
+      "label": "mandarin",
+      "text": "一个是广西提点刑狱，",
+      "score": 0.2357,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0898,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "刑/新",
+        "lexicon": "",
+        "text_free": "一个是广西梯点新圩。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 137.87,
+      "end": 140.135,
+      "label": "guilin",
+      "text": "一个是广西转运判官，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2322,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一个是广西专营盘管。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 140.501,
+      "end": 144.191,
+      "label": "mandarin",
+      "text": "是当时地方上最重要的三大官员。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是当时地方上最重要的三大官员。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 146.103,
+      "end": 151.791,
+      "label": "guilin",
+      "text": "在中秋节这一天，农农民农民水月洞游玩以后，",
+      "score": 0.7514,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.6087,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.421,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "农/龙 农/龙",
+        "lexicon": "",
+        "text_free": "在中秋节这一天，龙龙吟那边水东庄园游玩以后。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 152.21,
+      "end": 155.139,
+      "label": "mandarin",
+      "text": "到傍晚的时候，薄暮放舟从松关，",
+      "score": 0.1352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0644,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "放/泛",
+        "lexicon": "",
+        "text_free": "到傍晚的时候，薄暮泛舟从松关。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 155.179,
+      "end": 161.019,
+      "label": "mandarin",
+      "text": "松关到底就是在今天的这个呃那个叫几号码头我不太清楚，有一个叫什么门？",
+      "score": 0.0806,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2185,
+        "acoustic_dev": 0.073,
+        "seg_cer": 0.094,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "松光大底就是在今天的这个，呃，那个叫几号码头，我不大清楚，有一个叫什么门。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 163.113,
+      "end": 166.133,
+      "label": "mandarin",
+      "text": "白崇禧搞的那个叫什么门啊？",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "白崇禧搞的那个叫什么门啊？订柜门啊，就。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 166.133,
+      "end": 168.29,
+      "label": "mandarin",
+      "text": "啊，就大概就是那个附近，从那里",
+      "score": 0.227,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4607,
+        "acoustic_dev": 0.301,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大概就是那个附近，从那里。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 169.03,
+      "end": 174.062,
+      "label": "mandarin",
+      "text": "坐船到这里来，晚上哎，相当就是夜游水月洞。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0049,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坐船到这里来，晚上，哎，相当于就是夜游水月洞。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 175.11,
+      "end": 183.718,
+      "label": "mandarin",
+      "text": "水月洞是象鼻山的象鼻和象腿之间形成的一个卷红石的半圆大洞，",
+      "score": 0.1306,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "水月洞是香壁山的香壁和香梯之间形成的一个卷棚式的半圆大洞。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 183.751,
+      "end": 186.928,
+      "label": "mandarin",
+      "text": "长十七米，高大概十二米，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0228,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "长十七米，高大概十二米。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 187.022,
+      "end": 190.841,
+      "label": "mandarin",
+      "text": "宽达十米。每当明月之夜，",
+      "score": 0.0516,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1536,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宽大十米，每当明月之夜。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 190.89,
+      "end": 195.061,
+      "label": "mandarin",
+      "text": "与江中的倒影正好合成一个大圆形，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0425,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "与墙中的倒影正好合成一个大圆形。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 195.505,
+      "end": 198.038,
+      "label": "uncertain",
+      "text": "由于能明月，清风，水色，",
+      "score": 0.4773,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7878,
+        "acoustic_dev": 0.61,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如一轮明月，金凤水沙。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 198.311,
+      "end": 203.618,
+      "label": "mandarin",
+      "text": "故称水月洞。在水月洞东壁象鼻之处，",
+      "score": 0.1329,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2881,
+        "acoustic_dev": 0.138,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "故称水月洞，在水月洞东壁相壁之处。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 203.618,
+      "end": 206.498,
+      "label": "mandarin",
+      "text": "有一方水月洞篆书石刻，",
+      "score": 0.1371,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0531,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有一方水月洞，转数十刻。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 206.622,
+      "end": 209.659,
+      "label": "mandarin",
+      "text": "旁边还有西元居士四个字。",
+      "score": 0.1169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2951,
+        "acoustic_dev": 0.145,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "旁边还有“西园居士”四个字。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 210.997,
+      "end": 214.668,
+      "label": "mandarin",
+      "text": "在讲解这个水月洞的时候，这个是很典型的一个，",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在讲解这个水月洞的时候，这个是很典型的一个案例。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 214.89,
+      "end": 218.383,
+      "label": "mandarin",
+      "text": "来来这里拍照要看的水月洞三个字很清楚了。",
+      "score": 0.2282,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5573,
+        "acoustic_dev": 0.393,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来这里拍照，要看的“水月洞”三个字很清楚了。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 218.39,
+      "end": 222.569,
+      "label": "mandarin",
+      "text": "但有一点啊，这个背后的这个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但有一点啊，这个背后的这个。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 223.036,
+      "end": 225.396,
+      "label": "mandarin",
+      "text": "有一些情况，我给大家介绍一下。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有一些情况，我给大家介绍一下。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 228.132,
+      "end": 231.899,
+      "label": "mandarin",
+      "text": "我发在那个群里面，大家看一下水月洞这件石刻啊，",
+      "score": 0.275,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5243,
+        "acoustic_dev": 0.361,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我发在那个群里面了，大家看一下水月洞最近时刻啊。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 232.252,
+      "end": 235.21,
+      "label": "mandarin",
+      "text": "会看得更清楚一点。大家看一下，好的，",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1261,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "会看得更清楚一点。大家看一下。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 236.874,
+      "end": 240.293,
+      "label": "mandarin",
+      "text": "啊，会看得更清楚一点。它的这个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0216,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，会看得更清楚一点。它的这个。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 241.23,
+      "end": 245.85,
+      "label": "mandarin",
+      "text": "右上方有四个大字啊，篆书四个大字叫西元",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0528,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "右上方有四个大字啊，篆书四个大字叫《西园》。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 246.417,
+      "end": 250.304,
+      "label": "mandarin",
+      "text": "居士。我们查找资料显示，",
+      "score": 0.0526,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1557,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "居室。我们查找资料显示。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 250.304,
+      "end": 257.85,
+      "label": "mandarin",
+      "text": "水月洞三个篆书是唐代文学家袁吉来桂林游览水月洞景时所刻。",
+      "score": 0.0677,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.14,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.148,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "水月洞三个专书是唐代文学家元结来桂林游览水月洞景色时所刻。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 257.921,
+      "end": 261.7,
+      "label": "mandarin",
+      "text": "明代张明风收录桂林石刻当中提到，",
+      "score": 0.2113,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4477,
+        "acoustic_dev": 0.289,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "明代张明风收录《桂林诗客》当中提到。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 261.997,
+      "end": 265.874,
+      "label": "mandarin",
+      "text": "在龙隐岸有西元居士四个大字。",
+      "score": 0.0953,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.264,
+        "acoustic_dev": 0.116,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在龙隐岸有西园居士四个大字。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 266.151,
+      "end": 272.181,
+      "label": "mandarin",
+      "text": "这个西元居士按张明风的讲法是宋代一个汉族吴裔的",
+      "score": 0.2361,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3796,
+        "acoustic_dev": 0.225,
+        "seg_cer": 0.261,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个西域人居士，按张明风的讲法，是宋代一个喊作吴意的人。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 275.362,
+      "end": 281.767,
+      "label": "mandarin",
+      "text": "人。这里就是个水月洞三个篆书大字右上角有这个西元居士四个字，",
+      "score": 0.3428,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6069,
+        "acoustic_dev": 0.439,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一句时刻的“水月洞”三个篆书大字，右上角有这个“西园居士”四个字。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 281.767,
+      "end": 287.773,
+      "label": "mandarin",
+      "text": "然后就以这个来判断水月洞这三个字是西元居士写的。",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后就以这个来判断“水月洞”这三个字是西云居士写的。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 287.797,
+      "end": 289.99,
+      "label": "mandarin",
+      "text": "我在这里呃提出一个疑问，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1407,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我在这里，呃，提出一个疑问。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 290.627,
+      "end": 297.262,
+      "label": "mandarin",
+      "text": "我昨天已经发在那个群里面了，就是这个水月洞这三个字是不是有可能是",
+      "score": 0.0147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0075,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我昨天已经发在那个群里面了，就说这个水月洞这三个字，是不是有可能是。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 297.358,
+      "end": 300.871,
+      "label": "guilin",
+      "text": "西元居士吴裔鸠占鹊巢？",
+      "score": 0.6571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5662,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "西云居士无意，鸠占鹊巢。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 302.965,
+      "end": 307.976,
+      "label": "mandarin",
+      "text": "从石刻里面我们可以看到西元居士四个字有一个",
+      "score": 0.3149,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5612,
+        "acoustic_dev": 0.396,
+        "seg_cer": 0.238,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从时刻里面，我们可以看到“喜园举世”四个字有一个。"
+      }
+    },
+    {
+      "id": 66,
+      "start": 308.162,
+      "end": 313.15,
+      "label": "mandarin",
+      "text": "四方形的框框。按照正规的书法作品来讲，",
+      "score": 0.1052,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1916,
+        "acoustic_dev": 0.047,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "私放性的框框，按照正规的书法作品来讲。"
+      }
+    },
+    {
+      "id": 67,
+      "start": 313.21,
+      "end": 315.651,
+      "label": "mandarin",
+      "text": "它不应该单独把它框出来。",
+      "score": 0.1247,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他不应该单独把他狂出来。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 317.166,
+      "end": 320.17,
+      "label": "mandarin",
+      "text": "我就在想，那这个事情就是水月洞是不是",
+      "score": 0.2717,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5307,
+        "acoustic_dev": 0.367,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我就在想讲的这个事情，就说水月洞是不是。"
+      }
+    },
+    {
+      "id": 69,
+      "start": 321.364,
+      "end": 325.02,
+      "label": "guilin",
+      "text": "吴裔写的呢？按照常规的依附这个书法作品，",
+      "score": 0.5569,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0688,
+        "acoustic_dev": 0.876,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "无意写的呢，按照常规的一幅这个书法作品。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 326.144,
+      "end": 328.818,
+      "label": "mandarin",
+      "text": "右边写的字我们可以把它看作是上款啊。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0277,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "右边写的这，我们可以把它看作是上款啊。"
+      }
+    },
+    {
+      "id": 71,
+      "start": 328.818,
+      "end": 331.723,
+      "label": "mandarin",
+      "text": "写书法的人都要懂这一点，上款下款这样的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "写书法的人都要懂这一点：上款、下款这样的。"
+      }
+    },
+    {
+      "id": 72,
+      "start": 331.723,
+      "end": 334.869,
+      "label": "mandarin",
+      "text": "那西元居士是上款，按道理它应该有下款，",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0368,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那西园居士是上款，按道理他应该有下款。"
+      }
+    },
+    {
+      "id": 73,
+      "start": 334.869,
+      "end": 337.981,
+      "label": "mandarin",
+      "text": "这这是一个它这里面有下款就算了。",
+      "score": 0.2731,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5736,
+        "acoustic_dev": 0.408,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这这是一个，他这里没有下款，就算了。"
+      }
+    },
+    {
+      "id": 74,
+      "start": 338.207,
+      "end": 345.867,
+      "label": "mandarin",
+      "text": "更重要的是一个一件书法作品里面为什么要把西元居士这四个字把它框起来重新框起来呢？",
+      "score": 0.0117,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1295,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.026,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更重要的是，一个一件书法作品里面，为什么要把“西园居士”这四个字把它框起来，重新框起来呢？"
+      }
+    },
+    {
+      "id": 75,
+      "start": 345.867,
+      "end": 351.724,
+      "label": "mandarin",
+      "text": "这很奇怪。一件石刻上出现了不同时代的两个人。",
+      "score": 0.0686,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这很奇怪。一间食客上出现了不同时代的两个人。"
+      }
+    },
+    {
+      "id": 76,
+      "start": 351.973,
+      "end": 355.619,
+      "label": "mandarin",
+      "text": "到底是宋代的西园居士所刻，",
+      "score": 0.0486,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.163,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到底是宋代的西园居士所去。"
+      }
+    },
+    {
+      "id": 77,
+      "start": 355.619,
+      "end": 358.735,
+      "label": "mandarin",
+      "text": "还是唐代元结刻写不落款？",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0804,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还是唐代元杰，刻写不落款。"
+      }
+    },
+    {
+      "id": 78,
+      "start": 359.029,
+      "end": 362.169,
+      "label": "mandarin",
+      "text": "西园居士后来再刻所为，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1416,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "西园居士后来再刻所为。"
+      }
+    },
+    {
+      "id": 79,
+      "start": 362.463,
+      "end": 369.46,
+      "label": "mandarin",
+      "text": "我们已经没得办法考证，只有凭借已有的知识做一番小心的求证。",
+      "score": 0.1739,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0122,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "心/型",
+        "lexicon": "没得",
+        "text_free": "我们已经没得办法考证，只有凭借已有的知识，做一番小型的求知。"
+      }
+    },
+    {
+      "id": 80,
+      "start": 371.25,
+      "end": 377.287,
+      "label": "mandarin",
+      "text": "你如果要过去能够看出来西园居士的四个字所在的这个石壁表面，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0848,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "你如果要过去，能够看出来“西云居士”这四个字所在的这个石壁表面。"
+      }
+    },
+    {
+      "id": 81,
+      "start": 377.287,
+      "end": 380.626,
+      "label": "mandarin",
+      "text": "如果是低于水月洞这三个大字的，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0187,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果是低于水、月、洞这三个大字的。"
+      }
+    },
+    {
+      "id": 82,
+      "start": 380.626,
+      "end": 383.521,
+      "label": "mandarin",
+      "text": "就有个什么问题呢？铲过。对了，",
+      "score": 0.143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2778,
+        "acoustic_dev": 0.129,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就有个什么问题呢？产过。对的。"
+      }
+    },
+    {
+      "id": 83,
+      "start": 383.521,
+      "end": 386.738,
+      "label": "mandarin",
+      "text": "那就是有可能把水月洞",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1413,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那就是有可能把水越冻。"
+      }
+    },
+    {
+      "id": 84,
+      "start": 386.738,
+      "end": 390.106,
+      "label": "mandarin",
+      "text": "这个石壁所在的石壁又铲深了，",
+      "score": 0.2643,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3331,
+        "acoustic_dev": 0.181,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "深/生",
+        "lexicon": "",
+        "text_free": "这个石壁所在的石壁又产生了。"
+      }
+    },
+    {
+      "id": 85,
+      "start": 390.106,
+      "end": 392.794,
+      "label": "mandarin",
+      "text": "然后刻上西园居士四个字。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后刻上“西云居士”四个字。"
+      }
+    },
+    {
+      "id": 86,
+      "start": 392.794,
+      "end": 397.972,
+      "label": "mandarin",
+      "text": "有可能，但这个东西呢，因为目前呢你过不去啊，有水过不去，你一定要凑近看。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有可能，但这个东西呢，因为目前呢，你过不去啊，有水过不去，你一定要凑近看。"
+      }
+    },
+    {
+      "id": 87,
+      "start": 398.239,
+      "end": 400.806,
+      "label": "mandarin",
+      "text": "但从现在的眼镜来看，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0401,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但从现在的眼镜来看。"
+      }
+    },
+    {
+      "id": 88,
+      "start": 401.077,
+      "end": 405.426,
+      "label": "mandarin",
+      "text": "我看它有可能是往下铲深了一点，",
+      "score": 0.2009,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2141,
+        "acoustic_dev": 0.068,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "深/生",
+        "lexicon": "",
+        "text_free": "我看它有可能是往下产生了，一点。"
+      }
+    },
+    {
+      "id": 89,
+      "start": 405.622,
+      "end": 408.878,
+      "label": "mandarin",
+      "text": "因为否则的话它没有必要把它框起来嘛。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.083,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为，否则的话，它没有必要把它框起来嘛。"
+      }
+    },
+    {
+      "id": 90,
+      "start": 408.95,
+      "end": 411.856,
+      "label": "uncertain",
+      "text": "嗯。就是因为作品的话没必要框起来。",
+      "score": 0.4769,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9886,
+        "acoustic_dev": 0.8,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，就是一种作品的话，没必要框起来。"
+      }
+    },
+    {
+      "id": 91,
+      "start": 412.109,
+      "end": 415.226,
+      "label": "mandarin",
+      "text": "不管是哪个刻下的水月洞篆书，",
+      "score": 0.1103,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0934,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "哪个",
+        "text_free": "不管是哪个刻下的水月洞专属。"
+      }
+    },
+    {
+      "id": 92,
+      "start": 415.226,
+      "end": 419.496,
+      "label": "mandarin",
+      "text": "水月洞啊，无疑是成为了香山的一块金字招牌，",
+      "score": 0.1722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.09,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "字/致 金/精",
+        "lexicon": "",
+        "text_free": "水月洞啊，无疑是成为了香山的一款精致招牌。"
+      }
+    },
+    {
+      "id": 93,
+      "start": 419.757,
+      "end": 423.201,
+      "label": "mandarin",
+      "text": "也是广大市民游客必刻的一处圣地。",
+      "score": 0.2623,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6138,
+        "acoustic_dev": 0.446,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是广大市民游客必去的一处圣地。"
+      }
+    }
+  ]
+}

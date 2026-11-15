@@ -1,0 +1,522 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "2025年桂林_4_25漓江保护日_系列活动启动.wav",
+  "duration": 120.525,
+  "no_dialect": false,
+  "created_at": "2026-10-25T23:48:18",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.421,
+      "end": 4.084,
+      "label": "mandarin",
+      "text": "四月二十五号是我们桂林的漓江保护日。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "四月二十五号是我们桂林的漓江保护日。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.366,
+      "end": 12.625,
+      "label": "mandarin",
+      "text": "当天，二零二五年桂林“四二五”漓江保护日系列活动启动仪式在兴安县林区公园举行。",
+      "score": 0.0261,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0221,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.057,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当天，二零二五年桂林四二五丽江保护一系列活动启动仪式在兴安县林区公园举行。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.625,
+      "end": 15.095,
+      "label": "mandarin",
+      "text": "我们一起和现场去看一下子。",
+      "score": 0.0995,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1553,
+        "acoustic_dev": 0.118,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们一起去现场去看一下子。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 21.433,
+      "end": 23.915,
+      "label": "mandarin",
+      "text": "漓江是桂林山水之魂，",
+      "score": 0.1822,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2489,
+        "acoustic_dev": 0.253,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丽江是桂林山水之魂。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 24.097,
+      "end": 28.12,
+      "label": "guilin",
+      "text": "习近平总书记始终念兹在兹、关心关切，",
+      "score": 0.7629,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8286,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.6,
+        "phon_examples": "兹/治 兹/治 念/廉",
+        "lexicon": "",
+        "text_free": "习近平总书记始终廉治在治，关心挂牵。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.34,
+      "end": 32.897,
+      "label": "mandarin",
+      "text": "多次就保护好漓江、保护好桂林山水作出重要指示。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0176,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多次就保护好丽江、保护好桂林山水，作出重要指示。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 33.228,
+      "end": 37.208,
+      "label": "mandarin",
+      "text": "自治区党委政府高度重视漓江生态保护，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0085,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自治区党委政府高度重视丽江生态保护。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.539,
+      "end": 42.392,
+      "label": "mandarin",
+      "text": "以漓江保护为核心，积极创建国家生态文明示范区，",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "伊利将保护为核心，积极创建国家生态文明示范区。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 42.66,
+      "end": 45.704,
+      "label": "mandarin",
+      "text": "高水平打造桂林世界级旅游城市。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高水平打造桂林世界级旅游城市。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 45.96,
+      "end": 48.921,
+      "label": "mandarin",
+      "text": "桂林市委市政府通过系列活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林市委市政府通过系列活动。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.921,
+      "end": 52.265,
+      "label": "mandarin",
+      "text": "不断提升公众对生态保护的认知，",
+      "score": 0.0554,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1473,
+        "acoustic_dev": 0.107,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断提升公众对生态保护的认知。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.587,
+      "end": 56.05,
+      "label": "mandarin",
+      "text": "生态环境保护工作取得明显成效。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "生态环境保护工作取得明显成效。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 56.273,
+      "end": 59.332,
+      "label": "mandarin",
+      "text": "漓江流域生态环境质量不断改善，",
+      "score": 0.1028,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1669,
+        "acoustic_dev": 0.135,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丽江流域生态环境质量不断改善。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.483,
+      "end": 64.175,
+      "label": "mandarin",
+      "text": "成功入选国家首批美丽河湖优秀案例。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成功入选国家首批美丽河湖优秀案例。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.724,
+      "end": 72.853,
+      "label": "mandarin",
+      "text": "在活动仪式中，市领导要求全市各级各部门要牢记习近平总书记殷殷嘱托，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在活动仪式中，市领导要求全市各级各部门要牢记习近平总书记殷殷嘱托。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 73.134,
+      "end": 76.029,
+      "label": "uncertain",
+      "text": "坚持实干为要、创新为魂，",
+      "score": 0.4898,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7278,
+        "acoustic_dev": 0.942,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坚持实干为要，创新为魂。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 76.337,
+      "end": 79.397,
+      "label": "guilin",
+      "text": "用业绩讲话、用人民评价，",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.8882,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用业绩讲法，让人民评价。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 79.592,
+      "end": 83.746,
+      "label": "mandarin",
+      "text": "坚决扛牢生态环境保护政治责任，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0732,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坚决扛牢生态环境保护政治责任。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 83.974,
+      "end": 86.819,
+      "label": "mandarin",
+      "text": "守护好桂林山水和生态底线，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "守护好桂林山水和生态底线。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 87.168,
+      "end": 91.925,
+      "label": "mandarin",
+      "text": "以眼里容不得沙子的坚决态度抓好生态环境保护，",
+      "score": 0.2654,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3988,
+        "acoustic_dev": 0.469,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以眼里用不得沙子的坚决态度，抓好生态环境保护。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 92.187,
+      "end": 94.752,
+      "label": "mandarin",
+      "text": "提升漓江两岸自然景观，",
+      "score": 0.0146,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0928,
+        "acoustic_dev": 0.028,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提升漓江两岸自然景观。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 94.99,
+      "end": 99.039,
+      "label": "mandarin",
+      "text": "持续打好蓝天、碧水、净土保卫战，",
+      "score": 0.0211,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1014,
+        "acoustic_dev": 0.041,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "持续打好蓝天、碧水、净土保卫战。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 99.369,
+      "end": 104.499,
+      "label": "mandarin",
+      "text": "为加快建设世界级旅游城市提供坚实生态支撑。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为加快建设世界级旅游城市，提供坚实生态支撑。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 104.956,
+      "end": 108.304,
+      "label": "mandarin",
+      "text": "随后，出席活动的领导同志来到林区边，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0262,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赛后，出席活动的领导同志来到林区边。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 108.558,
+      "end": 111.68,
+      "label": "mandarin",
+      "text": "共同开展人工增殖放流活动。",
+      "score": 0.2459,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1665,
+        "acoustic_dev": 0.134,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "增/整",
+        "lexicon": "",
+        "text_free": "共同开展人工整治放流活动。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 112.19,
+      "end": 116.186,
+      "label": "guilin",
+      "text": "漓江流域其他市、县、区设分会场，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.5546,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.692,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丽江流域其他十一个县市区，涉粉非常。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 116.445,
+      "end": 120.525,
+      "label": "mandarin",
+      "text": "同步举行“四二五”漓江保护日系列活动。",
+      "score": 0.3705,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4538,
+        "acoustic_dev": 0.548,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同步举行四恶五丽江保护一系列活动。"
+      }
+    }
+  ]
+}

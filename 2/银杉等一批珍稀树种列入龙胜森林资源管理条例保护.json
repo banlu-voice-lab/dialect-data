@@ -1,0 +1,427 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "银杉等一批珍稀树种列入龙胜森林资源管理条例保护.wav",
+  "duration": 88.919,
+  "no_dialect": false,
+  "created_at": "2026-10-26T01:10:48",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.734,
+      "end": 5.307,
+      "label": "mandarin",
+      "text": "为了更好的保障生态安全，促进林业经济可持续发展，",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了更好地保障生态安全，促进林业经济可持续发展。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.368,
+      "end": 9.326,
+      "label": "uncertain",
+      "text": "最近，龙胜各族自治县启动条例修订工作，",
+      "score": 0.4212,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1569,
+        "acoustic_dev": 0.342,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "治/子 自/之",
+        "lexicon": "",
+        "text_free": "最近，龙生国足之子先启动条例修订工作。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.457,
+      "end": 11.757,
+      "label": "guilin",
+      "text": "将银杉、长苞铁杉、",
+      "score": 0.6482,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3849,
+        "acoustic_dev": 0.939,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "讲银山藏宝，铁山。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.929,
+      "end": 19.018,
+      "label": "mandarin",
+      "text": "高山杜鹃、古茶树等等神奇树种列入了龙胜森林资源保护的特色树种。",
+      "score": 0.0494,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0277,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高山杜鹃、古茶树等等，珍惜树种列入了《龙生森林资源保护》的特色树种。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.684,
+      "end": 25.17,
+      "label": "mandarin",
+      "text": "根据了解，龙胜各族自治县不仅是自治区的重要生态屏障，",
+      "score": 0.2864,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2086,
+        "acoustic_dev": 0.477,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，龙胜国族自治县不仅是自治区域的重要生态屏障。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.315,
+      "end": 27.845,
+      "label": "mandarin",
+      "text": "更是国家重点生态功能区。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是国家重点生态功能区。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.086,
+      "end": 32.387,
+      "label": "mandarin",
+      "text": "其森林资源不仅具有重要的生态价值和经济价值，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其森林资源不仅具有重要的生态价值和经济价值。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.636,
+      "end": 35.669,
+      "label": "mandarin",
+      "text": "还承载着丰富的民族文化内涵。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还承载着丰富的民族文化内涵。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.175,
+      "end": 40.608,
+      "label": "mandarin",
+      "text": "龙胜各族自治县森林资源管理条例共二十六条，",
+      "score": 0.3727,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2832,
+        "acoustic_dev": 0.673,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "《龙胜国族自治县森林资源管理条例》共二十六条。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.955,
+      "end": 43.612,
+      "label": "mandarin",
+      "text": "规定了立法目的和依据、",
+      "score": 0.1451,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0992,
+        "acoustic_dev": 0.191,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "规定了立法目的或依据。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.612,
+      "end": 45.689,
+      "label": "guilin",
+      "text": "适用范围、林长制、",
+      "score": 0.7506,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1665,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "林/领",
+        "lexicon": "",
+        "text_free": "适用范围：领章制。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 45.754,
+      "end": 48.62,
+      "label": "guilin",
+      "text": "政府及其部门和乡镇职责、",
+      "score": 0.5616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7907,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "政府及其部门或乡镇职责。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 48.62,
+      "end": 53.137,
+      "label": "mandarin",
+      "text": "社会参与保护、经费保障等总则性条文。",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0245,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "社会参与保护、经费保障等综合性条文。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.496,
+      "end": 56.78,
+      "label": "mandarin",
+      "text": "同时凸显自治区森林资源保护特色，",
+      "score": 0.3504,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2836,
+        "acoustic_dev": 0.674,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，凸显自治区森林资源保护特色。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 57.129,
+      "end": 61.628,
+      "label": "mandarin",
+      "text": "条例结合自治区实际情况，并体现龙胜地方特色，",
+      "score": 0.2295,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0877,
+        "acoustic_dev": 0.161,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "龙/农",
+        "lexicon": "",
+        "text_free": "条例结合自治区实际情况，并体现农盛地方特色。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 61.849,
+      "end": 65.316,
+      "label": "mandarin",
+      "text": "提高地方森林保护管理的法治化水平，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提高地方森林保护管理的法制化水平。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 65.603,
+      "end": 68.901,
+      "label": "mandarin",
+      "text": "着力解决生态建设当中的短板问题，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "着力解决生态建设当中的短板问题。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 69.188,
+      "end": 74.605,
+      "label": "mandarin",
+      "text": "为实现少数民族地区的可持续发展目标提供法律保障。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为实现少数民族地区的可持续发展目标，提供法律保障。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 74.605,
+      "end": 77.009,
+      "label": "guilin",
+      "text": "像银杉、长苞铁杉、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4109,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "像银山、长宝铁山。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 77.009,
+      "end": 80.118,
+      "label": "mandarin",
+      "text": "高山杜鹃、采摘古树茶等，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高山杜鹃，采摘古树茶等。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 80.258,
+      "end": 84.351,
+      "label": "mandarin",
+      "text": "都是龙胜特色树种。保护好这些特色树种，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0126,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "都是龙胜特色树种，保护好这些特色树种。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 84.351,
+      "end": 88.919,
+      "label": "mandarin",
+      "text": "对龙胜发展旅游和特色农业都具有重要作用。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对龙胜发展旅游和特色农业都具有重要作用。"
+      }
+    }
+  ]
+}

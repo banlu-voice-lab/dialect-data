@@ -1,0 +1,617 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "保护桂林山水 呵护漓江生态 秀峰区漓江保护日主题活动精彩纷呈.wav",
+  "duration": 161.334,
+  "no_dialect": false,
+  "created_at": "2026-10-25T23:51:13",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.949,
+      "label": "guilin",
+      "text": "当天上午，漓江保护一系列活动秀峰分会场，",
+      "score": 0.714,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9745,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "分/缝",
+        "lexicon": "",
+        "text_free": "当天上午，丽江保护一系列活动，修缝缝非常。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.211,
+      "end": 7.096,
+      "label": "uncertain",
+      "text": "牢记国之大者，保护好漓江，",
+      "score": 0.5219,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4912,
+        "acoustic_dev": 0.536,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "者/泽 之/子",
+        "lexicon": "",
+        "text_free": "老吉果子大泽，保护好丽江。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.096,
+      "end": 11.787,
+      "label": "mandarin",
+      "text": "保护好桂林山水主题活动在逍遥楼下广场举行。",
+      "score": 0.083,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0991,
+        "acoustic_dev": 0.072,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "保护好桂林山水主题活动，在小瑶楼下广场举行。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.28,
+      "end": 15.843,
+      "label": "mandarin",
+      "text": "活动在舞到桂林烟雨中拉开序幕。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0076,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动在舞蹈《桂林烟雨》中拉开序幕。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.068,
+      "end": 22.36,
+      "label": "mandarin",
+      "text": "中发小学的学生们带来了情景剧《垃圾分类我先行》和舞蹈《我们一家》，",
+      "score": 0.1603,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2459,
+        "acoustic_dev": 0.245,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中华小学的学生们带来了情景剧《垃圾分类我先行》和舞蹈《我们的家》。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.648,
+      "end": 26.249,
+      "label": "mandarin",
+      "text": "号召市民齐心共建美好环保家园。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "号召市民齐心共建美好环保家园。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.687,
+      "end": 33.461,
+      "label": "mandarin",
+      "text": "典型诈骗要严防，巧妙漓江反诈知识要点融入渔鼓唱词之中。",
+      "score": 0.1745,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0761,
+        "acoustic_dev": 0.044,
+        "seg_cer": 0.24,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "型/信",
+        "lexicon": "",
+        "text_free": "电信诈骗要严防，巧妙地将反诈知识要点融入预估唱词之中。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.975,
+      "end": 39.953,
+      "label": "mandarin",
+      "text": "有奖问答则是让漓江保护和反诈宣传更加深入人心。",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0206,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有奖问答则是让丽江保护和反诈宣传更加深入人心。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.983,
+      "end": 46.071,
+      "label": "mandarin",
+      "text": "我们表演的节目是《垃圾分类我先行》和共同的家。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们表演的节目是《垃圾分类我先行》和《共同的家》。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 46.071,
+      "end": 48.5,
+      "label": "guilin",
+      "text": "同时，垃圾分类，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -9.8804,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主题是垃圾分类。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.741,
+      "end": 52.6,
+      "label": "mandarin",
+      "text": "我想告诉大家，我们要把垃圾扔进垃圾桶里，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我想告诉大家，我们要把垃圾扔进垃圾桶里。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 53.4,
+      "end": 56.52,
+      "label": "mandarin",
+      "text": "分类垃圾进正确的垃圾桶。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "分类垃圾，扔进正确的垃圾桶。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.031,
+      "end": 66.293,
+      "label": "mandarin",
+      "text": "做环保小卫士。广西桂林商贸旅游技工学校秀峰法院秀峰城管和秀峰生态环境局",
+      "score": 0.0941,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0199,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.206,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "做环保小卫士。广西桂林商贸旅游技工学校，修逢法院、修逢城管或修逢生态环境局。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 66.567,
+      "end": 70.142,
+      "label": "guilin",
+      "text": "携手呈现了一场漓江保护的知识盛宴，",
+      "score": 0.7343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8965,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "现/香 呈/沉",
+        "lexicon": "",
+        "text_free": "携手沉香的一场丽江保护的知识盛宴。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 70.549,
+      "end": 72.935,
+      "label": "mandarin",
+      "text": "包括漓江保护知识问答、",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "包括丽江保护知识问答。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 72.935,
+      "end": 77.23,
+      "label": "guilin",
+      "text": "精美的漓江保护面雕和非遗剪纸作品展示、",
+      "score": 0.6438,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7666,
+        "acoustic_dev": 0.862,
+        "seg_cer": 0.389,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "护/袱",
+        "lexicon": "",
+        "text_free": "精美丽丽将包袱、棉雕或非遗剪纸作品展示。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 77.456,
+      "end": 83.144,
+      "label": "uncertain",
+      "text": "整治放流活动以及两个保护普法小课堂等精彩环节，",
+      "score": 0.5408,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9441,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "整治放流活动，以及两个保护普法小课堂等等精彩环节。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 83.415,
+      "end": 89.463,
+      "label": "mandarin",
+      "text": "汇聚了各方力量，共同筑起了一道保护漓江的坚固防线。",
+      "score": 0.0596,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "汇聚了国防力量，共同筑起了一道保护丽江的坚固防线。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 89.463,
+      "end": 93.934,
+      "label": "mandarin",
+      "text": "今天很荣幸能够让学生们带着他们的才艺、",
+      "score": 0.2087,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3365,
+        "acoustic_dev": 0.353,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那今天很荣幸能够，让学生们带着他们的才艺。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 94.078,
+      "end": 104.37,
+      "label": "mandarin",
+      "text": "技能和呃来到这里参加如此有意义的一个宣传活动，也希望他们能够把专业技能转化为对呃生态保护的行动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0306,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "技能，和，呃，来到这里参加如此有意义的一个宣传活动，也希望他们能够把专业技能转化为对，呃，生态保护的行动。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 104.37,
+      "end": 109.966,
+      "label": "mandarin",
+      "text": "也是桂林向外展示漓江保护的一个呃意义吧。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是桂林向外展示漓江保护的一个呃意义吧。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 110.056,
+      "end": 117.957,
+      "label": "mandarin",
+      "text": "赛后，应答代表反保监督员与群众一起向漓江投放各种鱼苗两千六百尾，",
+      "score": 0.135,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1341,
+        "acoustic_dev": 0.113,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "随后，人大代表、环保监督员与群众一起向丽江投放各种鱼苗两千六百尾。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 118.268,
+      "end": 123.636,
+      "label": "mandarin",
+      "text": "此次活动带动了更多的人参与到漓江生态保护事业当中来，",
+      "score": 0.0922,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.129,
+        "acoustic_dev": 0.107,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此次活动带动更多的人参与到丽江生态保护事业当中来。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 124.03,
+      "end": 127.239,
+      "label": "mandarin",
+      "text": "形成人人关注漓江环境保护、",
+      "score": 0.215,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0467,
+        "acoustic_dev": 0.01,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "护/袱",
+        "lexicon": "",
+        "text_free": "形成，隐隐关注丽江环境包袱。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 127.239,
+      "end": 130.422,
+      "label": "mandarin",
+      "text": "共同推动环境改善的良好氛围。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同推动环境改善的良好氛围。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 130.8,
+      "end": 135.453,
+      "label": "mandarin",
+      "text": "下一步，秀峰街道办将继续开展保护漓江活动，",
+      "score": 0.2892,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3912,
+        "acoustic_dev": 0.417,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下一步，修凤街道办将继续开展保护丽江活动。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 135.752,
+      "end": 140.78,
+      "label": "mandarin",
+      "text": "通过多元化的方式，把漓江沿岸的社区、机关事业单位、",
+      "score": 0.1439,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0097,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "通过多元化嘞活动，把丽江沿岸嘞社区、机关事业单位。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 140.78,
+      "end": 143.41,
+      "label": "mandarin",
+      "text": "景区景点、企业、中小学、",
+      "score": 0.0955,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1937,
+        "acoustic_dev": 0.184,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "景区景点企业中小学。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 143.518,
+      "end": 147.41,
+      "label": "mandarin",
+      "text": "高校以及社会团体紧密联系起来，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高校以及社会团体紧密联系起来。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 147.755,
+      "end": 153.223,
+      "label": "mandarin",
+      "text": "积极发挥应答反保监督员的监督以及表率作用，",
+      "score": 0.235,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2347,
+        "acoustic_dev": 0.232,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "积极发挥人大环保监督权力监督以及表率作用。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 153.677,
+      "end": 156.773,
+      "label": "mandarin",
+      "text": "共同参与到漓江的保护与治理当中来，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0086,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同参与到丽江的保护与治理当中来。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 157.054,
+      "end": 161.334,
+      "label": "mandarin",
+      "text": "为桂林打造世界级旅游城市注入生态基底。",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为桂林打造世界级旅游城市，筑了生态基地。"
+      }
+    }
+  ]
+}

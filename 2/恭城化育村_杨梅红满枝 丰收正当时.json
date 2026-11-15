@@ -1,0 +1,484 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "恭城化育村_杨梅红满枝 丰收正当时.wav",
+  "duration": 106.452,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:10:30",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.197,
+      "end": 4.012,
+      "label": "mandarin",
+      "text": "现在啊，养人榨口水的杨梅也开始上市了。",
+      "score": 0.0625,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0309,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在啊，养盈滴口水的杨梅也开始上市了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.237,
+      "end": 8.721,
+      "label": "guilin",
+      "text": "在工程瑶族自治县，工程镇发有成立杨梅种植基地，",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1508,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.381,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "镇/正 自/织",
+        "lexicon": "",
+        "text_free": "这工程要组织之前，工程正发育成立杨梅种植基地。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.992,
+      "end": 12.278,
+      "label": "mandarin",
+      "text": "果树上的果实啊，密密麻麻的挤在枝头。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "果树上的果实啊，密密麻麻的挤在枝头。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.549,
+      "end": 15.161,
+      "label": "mandarin",
+      "text": "果农们在果园里面来回穿梭，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "果农们在果园里面来回穿梭。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.161,
+      "end": 19.104,
+      "label": "mandarin",
+      "text": "采摘、挑选、装筐，尽享丰收的喜悦。",
+      "score": 0.1407,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "猜测、挑选状况，尽享丰收的喜悦。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 19.375,
+      "end": 24.846,
+      "label": "mandarin",
+      "text": "刚刚采摘下来的杨梅被迅速送往分选包装区进行分选，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "刚刚采摘下来的杨梅被迅速送往分选包装区进行分选。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 25.048,
+      "end": 31.58,
+      "label": "mandarin",
+      "text": "随后发往全国各地，让更多的人品尝到高山杨梅的独特风味。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "随后发往全国各地，让更多的人品尝到高山杨梅的独特风味。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.58,
+      "end": 36.879,
+      "label": "mandarin",
+      "text": "我是来帮老板捡杨梅的。老板的杨梅今年产量很好，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是来帮老板捡杨梅的。老板的杨梅今年产量很好。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.102,
+      "end": 43.059,
+      "label": "mandarin",
+      "text": "果子也很好，很好吃。还要捡十多天才能捡完。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "果子也很好，很好吃，还要剪十多天才能剪完。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 43.28,
+      "end": 47.984,
+      "label": "mandarin",
+      "text": "根据了解，种植户罗老板一家已经种植杨梅超过二十年。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，种植户罗老板一家已经种植杨梅超过二十年。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.194,
+      "end": 51.232,
+      "label": "guilin",
+      "text": "他屋里的这一片三十多亩的杨梅林，",
+      "score": 0.621,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5417,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "屋里",
+        "text_free": "堂屋里这一片三十多亩的杨梅林。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 51.232,
+      "end": 53.728,
+      "label": "mandarin",
+      "text": "位于无污染的高山地带，",
+      "score": 0.3247,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.179,
+        "acoustic_dev": 0.361,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "位于雾雾眼的高山地带。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 53.977,
+      "end": 58.372,
+      "label": "mandarin",
+      "text": "独特的自然生长环境造就了更加的杨梅品质，",
+      "score": 0.088,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0567,
+        "acoustic_dev": 0.077,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "独特的资源生长环境造就了更加的杨梅品质。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.602,
+      "end": 61.26,
+      "label": "uncertain",
+      "text": "成为市场上的甜度担当，",
+      "score": 0.4528,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3229,
+        "acoustic_dev": 0.695,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为市场上的田都担当。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 61.26,
+      "end": 66.326,
+      "label": "mandarin",
+      "text": "销售不错。基地现在每天请十多名工人采摘杨梅，",
+      "score": 0.0169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0376,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "销售不错。基地现在每天请十多名工人采摘杨梅。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 66.584,
+      "end": 69.02,
+      "label": "mandarin",
+      "text": "每天可以采摘两千斤左右，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0237,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每天可以采摘两千斤左右。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 69.226,
+      "end": 72.445,
+      "label": "mandarin",
+      "text": "预计今年产量可以达到五万多斤。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "预计今年产量可以达到五万多斤。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 72.622,
+      "end": 78.185,
+      "label": "guilin",
+      "text": "近年来，工程瑶族自治县从马绝拓展一村一品发展潜力，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2857,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.391,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，工程要做自己先，充分挖掘拓展一城一品发展潜力。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 78.562,
+      "end": 83.867,
+      "label": "mandarin",
+      "text": "积极发展岳氏柑橘、桃李、火龙果、杨梅等等特色水果产业，",
+      "score": 0.0484,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0309,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "积极发展月式柑橘、桃李、火龙果、杨梅等等特色水果产业。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 84.089,
+      "end": 87.167,
+      "label": "mandarin",
+      "text": "通过田间地头引导、集中培训、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过田间地头引导集中培训。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 87.167,
+      "end": 90.493,
+      "label": "mandarin",
+      "text": "聘请专家指导，实现产业制度化，",
+      "score": 0.221,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2066,
+        "acoustic_dev": 0.425,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "聘请专家指导，实现产业制度化。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 90.598,
+      "end": 93.5,
+      "label": "mandarin",
+      "text": "提高农户的种植技术、管理技术。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0169,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提高农户的种植技术、管理技术。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 93.686,
+      "end": 100.254,
+      "label": "mandarin",
+      "text": "目前，全县岳氏、桃李、柑橘、杨梅等等水果种植面积达到了五十多万亩，",
+      "score": 0.0348,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0255,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，全县月市桃李、柑橘、杨梅等等水果种植面积达到了五十多万亩。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 100.382,
+      "end": 103.853,
+      "label": "mandarin",
+      "text": "年产量超过一百七十点五万吨，",
+      "score": 0.3597,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3214,
+        "acoustic_dev": 0.692,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "年产量超过一百七十点五万吨。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 104.023,
+      "end": 106.452,
+      "label": "mandarin",
+      "text": "产值高达三亿元。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产值高达三亿元。"
+      }
+    }
+  ]
+}

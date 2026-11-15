@@ -1,0 +1,788 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "第三届广西桂林猫儿山观鸟赛成功举办.wav",
+  "duration": 186.361,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:49:16",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.418,
+      "end": 7.255,
+      "label": "mandarin",
+      "text": "前天，第三届广西桂林猫儿山观鸟赛在猫儿山国家级自然保护区举办。",
+      "score": 0.0788,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.172,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前两天，第三届广西桂林马二山观鸟赛在马二山国家级自然保护区举办。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.529,
+      "end": 10.991,
+      "label": "guilin",
+      "text": "观鸟赛这个名字好像蛮新鲜嘛，",
+      "score": 0.6607,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3987,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "关了赛这个名字啊，好像蛮新鲜么？"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.161,
+      "end": 19.74,
+      "label": "mandarin",
+      "text": "来自全国各地的十支精英观鸟队在云海森林与高山湿地之间开展一场智慧、",
+      "score": 0.2231,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1093,
+        "acoustic_dev": 0.154,
+        "seg_cer": 0.094,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "智/自 十/四",
+        "lexicon": "",
+        "text_free": "来自全国各地的四支精英观鸟队，在云海森林与高山湿地之间开展一场自飞。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 19.74,
+      "end": 22.06,
+      "label": "mandarin",
+      "text": "耐力与观察力的对决。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "耐力与观察力的对决。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.112,
+      "end": 27.88,
+      "label": "mandarin",
+      "text": "那这个观鸟赛到底是哪子个观法，又是哪子个赛法？",
+      "score": 0.2047,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0753,
+        "acoustic_dev": 0.101,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那这个官了塞，到底是啷子个官法，又是啷子个塞法？"
+      }
+    },
+    {
+      "id": 6,
+      "start": 27.88,
+      "end": 30.37,
+      "label": "guilin",
+      "text": "子呢，我们一起去了解一下。",
+      "score": 0.6431,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.0228,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "啥子咧？我们一起去了解一下。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.989,
+      "end": 37.028,
+      "label": "mandarin",
+      "text": "初夏季节，猫儿山植被茂密，云雾缭绕，增加了观鸟的难度系数。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "初夏季节，猫儿山植被茂密，云雾缭绕，增加了观鸟的难度系数。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.3,
+      "end": 42.146,
+      "label": "mandarin",
+      "text": "在比赛的三十六小时内，参赛队员充分利用各时段观测，",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在比赛的三十六小时内，参赛队员充分利用过时段观测。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 42.457,
+      "end": 48.615,
+      "label": "mandarin",
+      "text": "均取得了丰硕成果，被誉为是中国观鸟界神杯的三金鸟种：",
+      "score": 0.354,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1585,
+        "acoustic_dev": 0.232,
+        "seg_cer": 0.292,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.429,
+        "phon_examples": "种/宗 神/圣 鸟/僚",
+        "lexicon": "",
+        "text_free": "均取得了丰硕成果，被誉为是中国官僚革圣辈的三金两宗。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.615,
+      "end": 50.846,
+      "label": "guilin",
+      "text": "金鹅雀眉、金胸雀眉、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0419,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "金额出而美，精凶出而美。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 50.846,
+      "end": 55.386,
+      "label": "guilin",
+      "text": "金色鸦雀。在国队伍均有成功观测的记录，",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6445,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "金/景",
+        "lexicon": "",
+        "text_free": "景色雅趣，在各地物均有成功观测的记录。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 55.66,
+      "end": 61.016,
+      "label": "mandarin",
+      "text": "也充分地展现了猫儿山作为重要鸟类栖息地的丰富生态价值。",
+      "score": 0.1361,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "也充分地展现了马二三作为重要鸟类栖息地的丰富生态价值。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 61.016,
+      "end": 64.674,
+      "label": "mandarin",
+      "text": "我之前从来没有来过广西，就趁着这次机会，",
+      "score": 0.2444,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2472,
+        "acoustic_dev": 0.372,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我之前还从来没有来过广西，就趁着这一次机会。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 64.839,
+      "end": 68.723,
+      "label": "mandarin",
+      "text": "啊，来到了我们非常美丽的广西猫儿山保护区。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，来到了我们非常美丽的广西猫儿山保护区。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 68.924,
+      "end": 74.68,
+      "label": "mandarin",
+      "text": "然后这一次在这边收获也是非常多的，见了很多的新一些这边的特色鸟种，",
+      "score": 0.0178,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0154,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后这一次在这边收获也是非常多的，加了很多的新一些这边的特色鸟种。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 75.172,
+      "end": 77.48,
+      "label": "mandarin",
+      "text": "看到了，感觉非常的开心。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看到了，感觉非常的开心。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 77.48,
+      "end": 84.646,
+      "label": "uncertain",
+      "text": "这边的保护做的非常的好。经过评审，本届赛事的至尊鸟种最终花落金鹅雀眉。",
+      "score": 0.4737,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4143,
+        "acoustic_dev": 0.636,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "您这边的保护做得非常的好。经过评审，本赛事的质证两种最终发落，金额全美。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 84.952,
+      "end": 87.42,
+      "label": "mandarin",
+      "text": "比赛还在记录有效鸟种数量、",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比赛还在记录有效秒钟数量。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 87.42,
+      "end": 92.078,
+      "label": "mandarin",
+      "text": "赛前预测环节等等项目当中评选出获胜队伍。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赛前预测环节等等项目当中，评选出获胜队伍。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 92.485,
+      "end": 98.348,
+      "label": "mandarin",
+      "text": "通过比赛，来自全国各地的观鸟爱好者在此切磋技艺、交流心得，",
+      "score": 0.0072,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0204,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过比赛，来自全国各地的观鸟爱好者在此切磋技艺，交流心得。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 98.586,
+      "end": 103.575,
+      "label": "mandarin",
+      "text": "提升了公众对鸟类及其栖息地保护的意识和关注。",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0116,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提升了公众对鸟类及其栖息地保护的认知和关注。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 103.62,
+      "end": 107.972,
+      "label": "mandarin",
+      "text": "也感觉啊，上面的地质条件、环境啊都比较独特。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也感觉啊，上面的地质条件、环境啊，都比较独特。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 107.972,
+      "end": 111.536,
+      "label": "uncertain",
+      "text": "然后呢，整个生生态啊一个植被的覆盖率很好，",
+      "score": 0.4906,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5794,
+        "acoustic_dev": 0.897,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后呢，整个生生态啊，一个植被的覆盖率也很好。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 111.806,
+      "end": 117.816,
+      "label": "mandarin",
+      "text": "看出那个我们保护区啊还是对这个生态环境啊做了有效的保护。",
+      "score": 0.2445,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.268,
+        "acoustic_dev": 0.405,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看出那个我们的保护区，啊，还是对这个生态环境，呃，做了有效的保护。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 117.816,
+      "end": 122.215,
+      "label": "mandarin",
+      "text": "然后呢，通过这次鸟赛呢啊，我也收获到了很多。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后呢，通过这次鸟赛呢，啊，我也收获到了很多。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 122.215,
+      "end": 127.746,
+      "label": "mandarin",
+      "text": "活动还特别安排猫儿山鸟类摄影展、生物多样性视频展播、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0087,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动还特别安排猫儿山鸟类摄影展、生物多样性视频展播。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 127.914,
+      "end": 130.833,
+      "label": "mandarin",
+      "text": "鸟类科普知识讲座等等系列活动，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "两类科普知识讲座等等系列活动。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 131.06,
+      "end": 133.996,
+      "label": "uncertain",
+      "text": "让更多人参与到热爱自然、",
+      "score": 0.5279,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4009,
+        "acoustic_dev": 0.615,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "自/之",
+        "lexicon": "",
+        "text_free": "让更多人参与到夜爱之夜。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 133.996,
+      "end": 142.14,
+      "label": "mandarin",
+      "text": "保护自然的行列当中。我看了一些一些小鸟，然后看老师讲解它们的品种，",
+      "score": 0.0432,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0272,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "保护自然的行列当中，我看了一些一些小鸟，然后看老师讲解了他们的品种。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 142.24,
+      "end": 146.46,
+      "label": "mandarin",
+      "text": "然后然后我们要怎么样保护它？",
+      "score": 0.2537,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2289,
+        "acoustic_dev": 0.343,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "么样",
+        "text_free": "然后，然后我们要怎么样保护他？"
+      }
+    },
+    {
+      "id": 31,
+      "start": 146.46,
+      "end": 148.842,
+      "label": "uncertain",
+      "text": "老师说不能污染环境，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.547,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老师说：“不能污染环境。”"
+      }
+    },
+    {
+      "id": 32,
+      "start": 148.842,
+      "end": 152.465,
+      "label": "mandarin",
+      "text": "不不能随便开发，然后保护",
+      "score": 0.3396,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3237,
+        "acoustic_dev": 0.493,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不，不能随便砍伐，然后保护。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 152.596,
+      "end": 156.38,
+      "label": "mandarin",
+      "text": "保护鸟也不能去去抓鸟，也不能去",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0087,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "保护鸟也不能去去抓鸟，也不能去。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 156.481,
+      "end": 160.593,
+      "label": "mandarin",
+      "text": "去斗斗鸟。这次猫儿山观鸟比赛",
+      "score": 0.0138,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0284,
+        "acoustic_dev": 0.027,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "去斗斗鸟。这次猫儿山观鸟比赛。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 160.878,
+      "end": 163.15,
+      "label": "mandarin",
+      "text": "不仅是一场探索自然、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅是一场探索自然。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 163.292,
+      "end": 165.726,
+      "label": "mandarin",
+      "text": "发现鸟类之美的大赛，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发现鸟类之美的大赛。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 166.225,
+      "end": 169.87,
+      "label": "mandarin",
+      "text": "更是一推一次推广生态保护理念、",
+      "score": 0.1183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1556,
+        "acoustic_dev": 0.228,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是一推一次推广生态保护理念。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 169.94,
+      "end": 172.343,
+      "label": "mandarin",
+      "text": "凝聚共识的良好契机。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "凝聚共识的良好契机。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 172.343,
+      "end": 181.076,
+      "label": "mandarin",
+      "text": "希望大家通过这次比赛，将猫儿山的鸟类保护以及生物多样性保护理念传播出去，",
+      "score": 0.0403,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.088,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "希望大家通过这次比赛，将猫儿山的鸟类保护以及生物群多样保护理理念传播出去。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 181.076,
+      "end": 183.804,
+      "label": "mandarin",
+      "text": "携手行动，保护鸟类。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "携手行动，保护鸟类。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 183.827,
+      "end": 186.361,
+      "label": "mandarin",
+      "text": "促进人与自然和谐共生。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "促进人与自然和谐共生。"
+      }
+    }
+  ]
+}

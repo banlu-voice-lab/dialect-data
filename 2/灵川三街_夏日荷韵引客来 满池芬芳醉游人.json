@@ -1,0 +1,503 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "灵川三街_夏日荷韵引客来 满池芬芳醉游人.wav",
+  "duration": 114.949,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:42:29",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.043,
+      "end": 4.561,
+      "label": "mandarin",
+      "text": "临川县三街镇的荷花这一段时间迎来了盛花期，",
+      "score": 0.2515,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1759,
+        "acoustic_dev": 0.396,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "临川县三街镇的荷花这一段时间啊，迎来了盛发期。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.772,
+      "end": 7.589,
+      "label": "guilin",
+      "text": "满塘的荷花清香绽放，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3339,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.556,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "满堂的佛法尽相绽放。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.589,
+      "end": 10.969,
+      "label": "mandarin",
+      "text": "吸引了众多市民游客前来赏荷纳凉。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引了众多市民游客前来赏荷纳凉。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.173,
+      "end": 14.68,
+      "label": "guilin",
+      "text": "那节目的最后呢，我们一起跟着镜头去到三街，",
+      "score": 0.7303,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5436,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.263,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "三/山",
+        "lexicon": "嘞",
+        "text_free": "那节目嘞，最后嘞，我们一起跟到镜头，去到山间。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.007,
+      "end": 19.176,
+      "label": "mandarin",
+      "text": "好好的感受一下这个夏意独有的诗意。",
+      "score": 0.0417,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0599,
+        "acoustic_dev": 0.08,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好好的感受一下这个夏意独有的诗意。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 19.359,
+      "end": 23.871,
+      "label": "mandarin",
+      "text": "在三街镇爱莲公园，碧绿的荷叶层层叠叠，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0185,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在三街镇爱莲公园，碧绿的荷叶层层叠叠。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 23.871,
+      "end": 26.217,
+      "label": "uncertain",
+      "text": "像是一把把撑开的绿伞，",
+      "score": 0.5365,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2523,
+        "acoustic_dev": 0.604,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "伞/扇",
+        "lexicon": "",
+        "text_free": "像是一把把乘客的怒扇。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 26.217,
+      "end": 30.892,
+      "label": "uncertain",
+      "text": "铺满整个水面。粉色、白色 的荷花点缀其中，",
+      "score": 0.5469,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5928,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "铺满整个水面，粉色、白色哩荷花点缀其中。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.892,
+      "end": 34.463,
+      "label": "mandarin",
+      "text": "微风拂过，荷叶与荷花轻轻摇曳，",
+      "score": 0.2164,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0703,
+        "acoustic_dev": 0.108,
+        "seg_cer": 0.846,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "威风，富国；火业与火发，青青耀眼。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 34.463,
+      "end": 37.577,
+      "label": "mandarin",
+      "text": "散发出阵阵清盈心脾的清香。",
+      "score": 0.2921,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0972,
+        "acoustic_dev": 0.182,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "心/醒",
+        "lexicon": "",
+        "text_free": "散发出阵阵轻盈、醒屁的清香。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 37.861,
+      "end": 43.576,
+      "label": "mandarin",
+      "text": "在这如诗如画的美景当中，身着汉服的游客们成了一道独特的风景线，",
+      "score": 0.0631,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.138,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在这愈是愈发的美景当中，身着汉服的游客们成了一道独特的风景线。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 43.852,
+      "end": 47.322,
+      "label": "mandarin",
+      "text": "为夏意赏荷增添了别样的韵味。",
+      "score": 0.1402,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.055,
+        "acoustic_dev": 0.067,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为夏邑生活增添了别样的韵味。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 47.322,
+      "end": 52.232,
+      "label": "mandarin",
+      "text": "穿上汉服来赏荷花，感觉整个人都沉浸在传统文化的氛围当中，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "穿上汉服来赏荷花，感觉整个人都沉浸在传统文化的氛围当中。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 52.308,
+      "end": 55.88,
+      "label": "mandarin",
+      "text": "拍照也特别的出片。我专门选择了这一身汉服，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拍照也特别的出片。我专门选择了这一身汉服。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 56.169,
+      "end": 61.31,
+      "label": "mandarin",
+      "text": "然后再选择了一些与我们的荷花相关的一些呃服饰呀，",
+      "score": 0.1456,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1053,
+        "acoustic_dev": 0.204,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后再选择了一些与我们的荷花相关的一些，呃，法事呀。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 61.31,
+      "end": 66.058,
+      "label": "mandarin",
+      "text": "还有这个油纸伞，然后来拍摄呃以荷花为主题的一个汉服，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有这个油纸伞，然后来拍摄，呃，以荷花为主题的一个汉服。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 66.058,
+      "end": 71.708,
+      "label": "mandarin",
+      "text": "然后既能融入大自然，又能够让我们感受到呃我们古典的韵味。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后既能融入大自然，又能够让我们感受到呃，我们古典的韵味。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 71.878,
+      "end": 79.244,
+      "label": "mandarin",
+      "text": "汉服之美与荷花之韵的完美融合，无疑是为这个夏天增添了一份独特的诗意与浪漫。",
+      "score": 0.0261,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.057,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "汉服之美与佛法之韵的完美融合，无疑是为这个夏天增添了一份独特的诗意与浪漫。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 79.678,
+      "end": 84.764,
+      "label": "mandarin",
+      "text": "近年来，三街镇深入践行“绿水青山就是金山银山”理念，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0108,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，三街镇深入践行“绿水青山就是金山银山”理念。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 85.023,
+      "end": 88.433,
+      "label": "mandarin",
+      "text": "坚定不移走生态优先、绿色发展的路。",
+      "score": 0.1104,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0869,
+        "acoustic_dev": 0.154,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坚定不移走生态优先、绿色发展之路。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.721,
+      "end": 93.247,
+      "label": "mandarin",
+      "text": "通过持续加大投入，系统推进生态保护与修复工作，",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过提速加大投入，系统推进生态保护与修复工作。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 93.516,
+      "end": 96.563,
+      "label": "mandarin",
+      "text": "实施一系列综合性生态治理举措，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0148,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实施一系列综合性生态治理举措。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 96.906,
+      "end": 100.783,
+      "label": "mandarin",
+      "text": "全镇生态环境质量得到全方位显著提升，",
+      "score": 0.3183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2364,
+        "acoustic_dev": 0.56,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全省生态环境质量得到全方位显著提升。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 101.077,
+      "end": 107.183,
+      "label": "mandarin",
+      "text": "为包括荷花在内的各类水生植物营造了繁茂生长的优越环境，",
+      "score": 0.1352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "类/内",
+        "lexicon": "",
+        "text_free": "为包括荷花在内的国内水生植物，营造了繁茂生长的优越环境。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 107.183,
+      "end": 110.508,
+      "label": "mandarin",
+      "text": "显著提升了区域生物多样性水平，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "显著提升了区域生物多样性水平。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 110.762,
+      "end": 114.949,
+      "label": "mandarin",
+      "text": "为可持续发展奠定了坚实的生态根基。",
+      "score": 0.0168,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0423,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为可持续发展奠定了坚实的生态根基。"
+      }
+    }
+  ]
+}

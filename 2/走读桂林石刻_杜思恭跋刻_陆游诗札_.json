@@ -1,0 +1,1358 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "走读桂林石刻_杜思恭跋刻_陆游诗札_.wav",
+  "duration": 280.095,
+  "no_dialect": false,
+  "created_at": "2026-10-26T01:05:49",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.948,
+      "label": "mandarin",
+      "text": "今天的节目呢，我们继续走读桂林石刻的半路，",
+      "score": 0.1122,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0739,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "板路",
+        "text_free": "今天的节目呢，我们继续走读桂林市区的板路。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.152,
+      "end": 6.856,
+      "label": "mandarin",
+      "text": "接着在水月洞赏读石刻。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2549,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "见到在水月洞商渡时刻。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.237,
+      "end": 10.706,
+      "label": "uncertain",
+      "text": "象山水月洞有石刻五十余件，",
+      "score": 0.4681,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8201,
+        "acoustic_dev": 0.593,
+        "seg_cer": 0.583,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "香山水月东，有时刻，无时遇见。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.706,
+      "end": 12.94,
+      "label": "mandarin",
+      "text": "多数啊都是属于宋元题刻。",
+      "score": 0.3477,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6052,
+        "acoustic_dev": 0.361,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多数啊，都是属于松硬体壳。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 13.255,
+      "end": 19.099,
+      "label": "mandarin",
+      "text": "看刻在水月洞内陆游的石札，堪称是桂林石刻当中的精品。",
+      "score": 0.0952,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1155,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.208,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坎坷在水月洞内露游的塑像，堪称是桂林石刻当中的精品。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 19.231,
+      "end": 22.125,
+      "label": "uncertain",
+      "text": "陆游字务观，号放翁，",
+      "score": 0.5389,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.819,
+        "acoustic_dev": 0.591,
+        "seg_cer": 0.875,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "字/职 陆/如",
+        "lexicon": "",
+        "text_free": "如有职无官，好防翁。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 22.292,
+      "end": 26.01,
+      "label": "guilin",
+      "text": "南宋著名诗人、杜诗公之近属。",
+      "score": 0.6142,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9839,
+        "acoustic_dev": 0.769,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "属/粟",
+        "lexicon": "",
+        "text_free": "南宋著名的诗人，杜诗公之金粟。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 26.052,
+      "end": 29.577,
+      "label": "mandarin",
+      "text": "当时在广西昭平，就是现在平乐、",
+      "score": 0.1703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "平/聘",
+        "lexicon": "",
+        "text_free": "当时在广西招聘，就是现在平乐。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 29.577,
+      "end": 32.69,
+      "label": "guilin",
+      "text": "百色州，和陆游啊是同乡好友。",
+      "score": 0.6037,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0621,
+        "acoustic_dev": 0.853,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "人特首和鲁有啊是同乡好友。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 33.186,
+      "end": 38.532,
+      "label": "mandarin",
+      "text": "他到广西为官后，仍然与陆游保持密切的书信往来。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0129,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他到广西为官后，仍然与陆游保持着密切的书信往来。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 39.074,
+      "end": 42.276,
+      "label": "mandarin",
+      "text": "南宋庆元三年（公元1197年），",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1353,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "南宋庆元三年，公元一一九七年。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 42.391,
+      "end": 47.013,
+      "label": "uncertain",
+      "text": "陆游给杜诗公寄来了自今周中希书、",
+      "score": 0.42,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5695,
+        "acoustic_dev": 0.322,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.6,
+        "phon_examples": "书/俗 中/宗 自/至",
+        "lexicon": "",
+        "text_free": "陆游给杜十公寄来了《至今周宗习俗》。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 47.013,
+      "end": 50.335,
+      "label": "mandarin",
+      "text": "春景等七首诗及信札一封。",
+      "score": 0.1831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1139,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "信/行",
+        "lexicon": "",
+        "text_free": "春景等七首诗，即行札一封。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 50.655,
+      "end": 53.914,
+      "label": "mandarin",
+      "text": "杜诗公如何自保？在当年十月，",
+      "score": 0.2634,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3878,
+        "acoustic_dev": 0.127,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "自/知",
+        "lexicon": "",
+        "text_free": "杜十公如何知包？在当年十月。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 53.914,
+      "end": 58.995,
+      "label": "mandarin",
+      "text": "明工匠把陆游的石札刻于水月洞的岸壁高头，",
+      "score": 0.0962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2572,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "名工匠把陆游的诗作刻于水月洞的案壁高头。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 59.274,
+      "end": 62.2,
+      "label": "guilin",
+      "text": "并在里面称赞他“语精而莫",
+      "score": 0.6447,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3531,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并在里面称赞他语境冷漠。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 64.376,
+      "end": 69.928,
+      "label": "mandarin",
+      "text": "妙”。杜诗公在评价这个陆游的这个作品的时候有一句，",
+      "score": 0.251,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5699,
+        "acoustic_dev": 0.323,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "陆士功在评价这个陆游的这个作品的时候，有一句。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 69.928,
+      "end": 74.363,
+      "label": "mandarin",
+      "text": "昨天我发在那个群里面，大家看一下，在这个地方我给大家看一下，",
+      "score": 0.0169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2495,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "昨天我发在那个群里面了，大家看一下，在这个地方，我给大家看一下。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 74.397,
+      "end": 77.337,
+      "label": "mandarin",
+      "text": "我找一找先啊。呃，这里，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0118,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我找一找先啊！呃，这里。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 79.586,
+      "end": 85.839,
+      "label": "guilin",
+      "text": "这里，这里，这里。这个是陆游最近就七十三岁写的七十多岁写的这些诗，",
+      "score": 0.661,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1968,
+        "acoustic_dev": 0.998,
+        "seg_cer": 0.31,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个是陆游，最近叫七十三岁的写的七十多岁写的一些诗。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 86.042,
+      "end": 90.202,
+      "label": "mandarin",
+      "text": "呃，送给了这个杜诗公，有十多张纸啊，十余纸。",
+      "score": 0.1254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "诗/司",
+        "lexicon": "",
+        "text_free": "呃，送给了这个杜司公，有十多张纸啊，十余纸。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 90.768,
+      "end": 94.533,
+      "label": "mandarin",
+      "text": "这些作品怎么样呢？语精而莫妙，",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1148,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "么样",
+        "text_free": "这些作品怎么样呢？语精而莫妙。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 94.958,
+      "end": 99.571,
+      "label": "mandarin",
+      "text": "洒然如见其人，字足切思，",
+      "score": 0.3195,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.555,
+        "acoustic_dev": 0.307,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "飒然如见其人，自足窃私。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 100.059,
+      "end": 103.011,
+      "label": "mandarin",
+      "text": "长隐隐有金石声，",
+      "score": 0.1379,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5164,
+        "acoustic_dev": 0.265,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "长，隐隐有金石声。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 103.221,
+      "end": 108.955,
+      "label": "mandarin",
+      "text": "很厉害啊！当时的陆游已经是七十三岁的古稀老人了，",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0435,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "太厉害啊！当时的陆游已经是七十三岁的古稀老鹰了。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 108.955,
+      "end": 111.381,
+      "label": "mandarin",
+      "text": "穷居家乡，体弱多病。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "穷居家乡，体弱多病。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 111.692,
+      "end": 115.234,
+      "label": "mandarin",
+      "text": "但是在他诗里面洋溢到拳拳爱国之心，",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2475,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是在他诗里面，洋溢到全全爱国之心。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 115.234,
+      "end": 118.131,
+      "label": "mandarin",
+      "text": "强烈的爱国热情溢于言表。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0109,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "强烈的爱国热情溢于言表。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 118.808,
+      "end": 122.125,
+      "label": "uncertain",
+      "text": "在周中希书一诗里面又写道：“",
+      "score": 0.4841,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7,
+        "acoustic_dev": 0.463,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "书/俗 中/宗",
+        "lexicon": "",
+        "text_free": "在周宗《习俗遗史》里面，有写道。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 122.125,
+      "end": 124.612,
+      "label": "mandarin",
+      "text": "平生万事付之天，",
+      "score": 0.2993,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6879,
+        "acoustic_dev": 0.45,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平生万事福之天。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 124.612,
+      "end": 126.868,
+      "label": "guilin",
+      "text": "百折犹能气豪英。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1893,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "百者又能其好也。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 127.063,
+      "end": 129.728,
+      "label": "mandarin",
+      "text": "诗句明白晓畅，雄浑",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2225,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "诗句明白晓畅，雄。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 129.988,
+      "end": 133.777,
+      "label": "mandarin",
+      "text": "奔放，让人读罢不得不为之动容，",
+      "score": 0.2102,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3944,
+        "acoustic_dev": 0.134,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本放让人杜霸，不得不为之动用。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 133.839,
+      "end": 136.885,
+      "label": "guilin",
+      "text": "是精神振奋、激励斗志。”",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.2773,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "使应精神振奋，激励斗志。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 137.385,
+      "end": 140.234,
+      "label": "mandarin",
+      "text": "然后说，方翁先生文章翰墨，",
+      "score": 0.3791,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5756,
+        "acoustic_dev": 0.329,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "翁/文",
+        "lexicon": "",
+        "text_free": "然后说：“方文先生文章，汉末。”"
+      }
+    },
+    {
+      "id": 36,
+      "start": 140.234,
+      "end": 142.609,
+      "label": "uncertain",
+      "text": "凌跨秦魏，为一世标准",
+      "score": 0.5394,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9474,
+        "acoustic_dev": 0.73,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "零夸琴背为仪式标准。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 143.118,
+      "end": 147.81,
+      "label": "mandarin",
+      "text": "啊！故于方仆仆寄语中",
+      "score": 0.1016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2704,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，故于方仆仆羁旅中。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 147.81,
+      "end": 153.1,
+      "label": "mandarin",
+      "text": "得此其亡，安知不为幽灵之所寄语？",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2219,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "得此其王，安之不为幽灵之所觊觎也？"
+      }
+    },
+    {
+      "id": 39,
+      "start": 153.177,
+      "end": 156.793,
+      "label": "uncertain",
+      "text": "那个这么好的东西，肯定肯定可以记住它，哎，记住它。",
+      "score": 0.411,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7182,
+        "acoustic_dev": 0.483,
+        "seg_cer": 0.476,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "得到这么好的东西，神灵可能会记住他。哎，记住他。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 156.793,
+      "end": 160.851,
+      "label": "uncertain",
+      "text": "所以他说：“用世不敢秘，",
+      "score": 0.4477,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8879,
+        "acoustic_dev": 0.666,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以他说：“用事不敢密。”"
+      }
+    },
+    {
+      "id": 41,
+      "start": 161.128,
+      "end": 164.117,
+      "label": "guilin",
+      "text": "不敢一个人独享啊，命公可与雅士，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9331,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不敢一个人独享啊！命功刻于牙石。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 164.574,
+      "end": 170.538,
+      "label": "mandarin",
+      "text": "而与世人共之。”哎，就是给大家一起来分享，哎，给大家一起来分享。",
+      "score": 0.3492,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.768,
+        "acoustic_dev": 0.536,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，与世人共知，哎，就给大家一起来分享，哎，跟大家一起来分享。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 171.14,
+      "end": 174.616,
+      "label": "mandarin",
+      "text": "刻在水月洞壁上面的诗和信札、",
+      "score": 0.3586,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6592,
+        "acoustic_dev": 0.419,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "刻到水月洞壁上面的石和心脏。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 174.616,
+      "end": 177.142,
+      "label": "mandarin",
+      "text": "行文为龙飞凤舞、",
+      "score": 0.3318,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4509,
+        "acoustic_dev": 0.195,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "行/新",
+        "lexicon": "",
+        "text_free": "新闻为龙飞凤舞。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 177.142,
+      "end": 180.06,
+      "label": "mandarin",
+      "text": "飘逸而雄劲的行草书，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0119,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "飘逸而雄劲的行草书。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 180.06,
+      "end": 182.576,
+      "label": "guilin",
+      "text": "一共四幅，各高一尺，",
+      "score": 0.7633,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1983,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "尺/次",
+        "lexicon": "",
+        "text_free": "一共四副，各搞一次。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 182.576,
+      "end": 184.943,
+      "label": "mandarin",
+      "text": "宽两尺五寸至三尺。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宽两尺五寸至三尺。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 185.668,
+      "end": 190.17,
+      "label": "mandarin",
+      "text": "现如今啊，陆游的石杂石刻被铲除掉了四分之一，",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0755,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现如今啊，陆游的十大诗客被铲除掉了四分之一。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 190.17,
+      "end": 193.935,
+      "label": "mandarin",
+      "text": "只余下了四分之三，颇为的可惜。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "只余下了四分之三，颇为的可惜。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 194.784,
+      "end": 198.781,
+      "label": "guilin",
+      "text": "陆石公在刻这个陆游的这个石杂的时候，",
+      "score": 0.5686,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9816,
+        "acoustic_dev": 0.766,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "杂/札",
+        "lexicon": "",
+        "text_free": "陆士功在刻这个陆游的这个诗札的时候。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 198.923,
+      "end": 204.263,
+      "label": "mandarin",
+      "text": "看到没有？嗯，看到了。下面其实还有一件作品啊，这个字好大的，看到没有？",
+      "score": 0.0473,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0195,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看到没有？嗯，看到了。下面骑的还有一件作品啊，这个字好大，的看没有。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 204.263,
+      "end": 206.404,
+      "label": "uncertain",
+      "text": "哦。这个字要大一点吗？看，",
+      "score": 0.4758,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9562,
+        "acoustic_dev": 0.739,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哦，这个字要大一点呢。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 206.681,
+      "end": 209.555,
+      "label": "mandarin",
+      "text": "要大很多对吧？这这字要大很多吧？",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0753,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要大很多，对吧？这字要大很多吧。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 209.555,
+      "end": 212.002,
+      "label": "guilin",
+      "text": "哦。就这里其实到这里啊，",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3196,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哦，九镇。这里其实到这里啊。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 212.002,
+      "end": 215.349,
+      "label": "mandarin",
+      "text": "还有你看这字，看到吗？这字凿坏了的。",
+      "score": 0.3628,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6322,
+        "acoustic_dev": 0.39,
+        "seg_cer": 0.533,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有，你看这字，对对，看到看到了吗？这字折坏了那个。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 215.349,
+      "end": 217.565,
+      "label": "mandarin",
+      "text": "就是在刻陆游的石杂的时候，把",
+      "score": 0.21,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1186,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "石/私",
+        "lexicon": "",
+        "text_free": "就是在克路由的私宅的时候，把。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 218.197,
+      "end": 221.688,
+      "label": "mandarin",
+      "text": "原来的已经宋代的摩崖石刻被铲掉了，",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0457,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "原来的一件宋代的摩崖石刻被铲掉了。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 221.688,
+      "end": 228.863,
+      "label": "mandarin",
+      "text": "铲掉了。石刻文化里面有一种有趣的现象，叫做“九战缺曹”。",
+      "score": 0.2314,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1938,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.391,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "曹/巢 铲/唱",
+        "lexicon": "",
+        "text_free": "啊，唱掉了。社科文化里面啊，有一种有趣的现象，叫做“酒蘸雀巢”。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 229.062,
+      "end": 233.29,
+      "label": "mandarin",
+      "text": "水月洞这个地方啊，就是那么大，按照先来后到的顺序，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "水月洞这个地方啊，就是那么大。按照先来后到的顺序。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 233.29,
+      "end": 237.124,
+      "label": "mandarin",
+      "text": "没的地方刻了，哪子搞呢？只有把前面的铲了去，",
+      "score": 0.2696,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5513,
+        "acoustic_dev": 0.303,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "没得地方去了，啷子搞呢？只有把前面的铲了去。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 237.444,
+      "end": 242.366,
+      "label": "mandarin",
+      "text": "来刻上自己的作品。这两件肯定是相隔",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来刻上自己的作品。这两件肯定是相隔。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 242.565,
+      "end": 245.406,
+      "label": "mandarin",
+      "text": "三十几年吧？大概这个也是宋代的啊，也是宋代的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0126,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三十几年吧，大概这个也是宋代的啊，也是宋代的。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 245.717,
+      "end": 250.391,
+      "label": "mandarin",
+      "text": "然后在后面来的，对不起，也想把陆游的要铲掉。",
+      "score": 0.0722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后再后面来的，对不起，也想把路由的要铲掉。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 250.391,
+      "end": 252.877,
+      "label": "mandarin",
+      "text": "哦。有一个痕迹，大家看一下，我看看啊。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0602,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有一个痕迹，大家看一下。我看看啊。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 252.877,
+      "end": 254.964,
+      "label": "guilin",
+      "text": "也想铲掉，想刻",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2402,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "你想采掉，想。"
+      }
+    },
+    {
+      "id": 66,
+      "start": 256.224,
+      "end": 259.924,
+      "label": "guilin",
+      "text": "的，想是这样吗？是这",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.565,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.625,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是这儿吗？是这儿吗？"
+      }
+    },
+    {
+      "id": 67,
+      "start": 260.415,
+      "end": 262.906,
+      "label": "mandarin",
+      "text": "样吗？这里，这这个地方，这个地方。对对对对对。",
+      "score": 0.2449,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.526,
+        "acoustic_dev": 0.276,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这这个地方，这个地方。对对对对对。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 263.081,
+      "end": 266.119,
+      "label": "mandarin",
+      "text": "这个很显然是把它凿坏了吧？",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1213,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个很显然是把它砸坏了吧？这。"
+      }
+    },
+    {
+      "id": 69,
+      "start": 266.119,
+      "end": 270.786,
+      "label": "mandarin",
+      "text": "这个对不对？啊，对。但这不知道是什么原因，可能是有人阻止了，还是怎么样？",
+      "score": 0.1467,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1191,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.233,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "么样",
+        "text_free": "对不对？但就不知道是什么原因，可能是不是有人阻止了，还是怎么样。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 270.786,
+      "end": 273.958,
+      "label": "mandarin",
+      "text": "就铲了一半就停下来了。",
+      "score": 0.1565,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3865,
+        "acoustic_dev": 0.125,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就铲了一半，就提起来了。"
+      }
+    },
+    {
+      "id": 71,
+      "start": 274.064,
+      "end": 280.095,
+      "label": "mandarin",
+      "text": "啊，所以整个陆游的这个石杂有四分之一也是被铲掉了的，也是被铲掉了的。",
+      "score": 0.0737,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0428,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.161,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哎，所以整个路由的这个住宅，有四分之一也是被铲掉了的，也是被铲掉了的。"
+      }
+    }
+  ]
+}

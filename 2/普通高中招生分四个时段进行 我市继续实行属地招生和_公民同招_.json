@@ -1,0 +1,807 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "普通高中招生分四个时段进行 我市继续实行属地招生和_公民同招_.wav",
+  "duration": 218.444,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:20:58",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.242,
+      "end": 3.592,
+      "label": "mandarin",
+      "text": "接着来关注一下中考招生的信息。",
+      "score": 0.0036,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0108,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接着来关注一下中考招生的信息。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.826,
+      "end": 7.034,
+      "label": "guilin",
+      "text": "记者从市招生考试部门那开就了解到，",
+      "score": 0.5827,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2285,
+        "acoustic_dev": 0.873,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "那/拉",
+        "lexicon": "",
+        "text_free": "记者从市招生考试部门拉开，就了解到。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.473,
+      "end": 14.677,
+      "label": "mandarin",
+      "text": "今年我市普通高中招生从七月十三号到二十二号分为四个时段来进行，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年我市普通高中招生从七月十三号到二十二号，分为四个时段来进行。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.0,
+      "end": 18.76,
+      "label": "mandarin",
+      "text": "并继续实行属地招生和公民统招。",
+      "score": 0.22,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0838,
+        "acoustic_dev": 0.297,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并继续实行属地招生或公民同招。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.76,
+      "end": 23.419,
+      "label": "mandarin",
+      "text": "今年普通高中网上报名录取工作分四个时段进行，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年普通高中网上报名录取工作分四个时段进行。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.419,
+      "end": 28.234,
+      "label": "mandarin",
+      "text": "具体安排是：七月十三号普通高中招生第一时段报名，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "具体安排是：七月十三号，普通高中招生第一时段报名。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.367,
+      "end": 33.018,
+      "label": "uncertain",
+      "text": "接受报名的学校为全市的示范性高中统招生、含民族生、",
+      "score": 0.5231,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2523,
+        "acoustic_dev": 0.968,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接受报名的学校为全市的师范性高中，统招生含民族生。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.018,
+      "end": 38.434,
+      "label": "uncertain",
+      "text": "飞行员基地班；七月十四号普通高中招生第二时段报名，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4522,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "飞行员基地班，七月十四号，普通高中招生第二时段报名。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.719,
+      "end": 42.979,
+      "label": "mandarin",
+      "text": "接受报名的学校为全市的示范性普通高中定向生，",
+      "score": 0.2765,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1216,
+        "acoustic_dev": 0.448,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接收报名的学校为全市的师范性普通高中定向生。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.979,
+      "end": 49.016,
+      "label": "mandarin",
+      "text": "也就是学区生；七月十六号到十七号普通高中招生第三时段报名，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也就是学区生，七月十六号到十七号，普通高中招生第三时段报名。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 49.25,
+      "end": 53.555,
+      "label": "mandarin",
+      "text": "接受报名的学校为全市一般性普通高中统招生。",
+      "score": 0.0784,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0248,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接受报名的学校为全市一班型普通高中，统招生。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 53.947,
+      "end": 58.808,
+      "label": "uncertain",
+      "text": "今年继续实行报读民办普通高中到校确认政策，",
+      "score": 0.5211,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2278,
+        "acoustic_dev": 0.87,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年继续实行报读民办普通高中、高校缺人政策。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 59.14,
+      "end": 62.441,
+      "label": "mandarin",
+      "text": "确认时间是七月十八号到二十号，",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "出行时间是七月十八号到二十号。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.776,
+      "end": 65.583,
+      "label": "guilin",
+      "text": "不确认视为放弃普通高中录取。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9315,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不戳营是为房企普通高中录取。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 66.023,
+      "end": 69.401,
+      "label": "mandarin",
+      "text": "七月二十二号普通高中招生第四时段报名，",
+      "score": 0.0404,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0286,
+        "acoustic_dev": 0.078,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "七月二十二号，普通高中招生第四时段报名。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 69.641,
+      "end": 74.541,
+      "label": "mandarin",
+      "text": "接受报名的是全市未完成招生计划的普通高中学校。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接受报名的是全市未完成招生计划的普通高中学校。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 75.087,
+      "end": 82.873,
+      "label": "mandarin",
+      "text": "今年我市将继续采用网上报名、系统排序择优录取的方式开展普通高中招生录取工作。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年我市将继续采用网上报名、系统排序、择优录取的方式，开展普通高中招生录取工作。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 83.261,
+      "end": 88.008,
+      "label": "mandarin",
+      "text": "考生根据市招生考试院公布的招生时段安排与招生计划，",
+      "score": 0.0529,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0254,
+        "acoustic_dev": 0.065,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "考生根据是招生考试院公布的招生时段安排与招生计划。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 88.008,
+      "end": 91.976,
+      "label": "mandarin",
+      "text": "在规定时间内登录桂林市中考信息网，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在规定时间内登录桂林市中考信息网。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 92.133,
+      "end": 95.572,
+      "label": "mandarin",
+      "text": "自主选择学校填报普通高中志愿。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自主选择学校填报普通高中志愿。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.818,
+      "end": 98.393,
+      "label": "guilin",
+      "text": "在国四段报名截止之前，",
+      "score": 0.7114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3325,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "四/试",
+        "lexicon": "",
+        "text_free": "在国试端报名截止之前。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 98.393,
+      "end": 103.62,
+      "label": "mandarin",
+      "text": "考生如果有新的意向，可以更改志愿，重新选择其他学校报名。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "考生如果有新的意向，可以更改志愿，重新选择其他学校报名。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 104.024,
+      "end": 109.242,
+      "label": "mandarin",
+      "text": "当考生在所报学校的排名超出该校的招生计划数的时候，",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当考生在所报学校的排名超出该校的招生计划书的时候。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 109.37,
+      "end": 112.567,
+      "label": "mandarin",
+      "text": "应该及时重新选择其他学校报名，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "应该及时重新选择其他学校报名。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 112.906,
+      "end": 116.549,
+      "label": "mandarin",
+      "text": "否则将失去被普通高中录取的机会。",
+      "score": 0.3595,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1239,
+        "acoustic_dev": 0.457,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "否则，将时刻被普通高中录取的击飞。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 116.743,
+      "end": 121.33,
+      "label": "uncertain",
+      "text": "国四段报名截止时间在招生计划数内的考生，",
+      "score": 0.3919,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1269,
+        "acoustic_dev": 0.469,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "四/时",
+        "lexicon": "",
+        "text_free": "各时段报名截止时间，在招生计划数内的考生。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 121.509,
+      "end": 125.072,
+      "label": "mandarin",
+      "text": "经中考领导小组审定后确认录取。",
+      "score": 0.2013,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0432,
+        "acoustic_dev": 0.136,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经中考领导小组审定后，脱颖而出。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 125.409,
+      "end": 137.518,
+      "label": "mandarin",
+      "text": "国四段招生报名结束后，在招生计划数成绩排序末位的考生出现总成绩等级综合素质评价与学科成绩等级组合、",
+      "score": 0.3181,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1037,
+        "acoustic_dev": 0.377,
+        "seg_cer": 0.085,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "四/时",
+        "lexicon": "",
+        "text_free": "各时段招生报名结束以后，在招生计划书成绩排序末位的考生，出现总成绩等级、综合素质评价与学科成绩等级组合。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 137.831,
+      "end": 143.217,
+      "label": "uncertain",
+      "text": "体育成绩等级、单学科等级并列无法区分高低的时候，",
+      "score": 0.5408,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3116,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "体育成绩等级，但学科等级并列，无法区分高低的时候。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 143.458,
+      "end": 146.547,
+      "label": "mandarin",
+      "text": "超出计划的考生将一并录取。",
+      "score": 0.1438,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0233,
+        "acoustic_dev": 0.057,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "超速机发的考生将一并录取。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 146.851,
+      "end": 152.276,
+      "label": "mandarin",
+      "text": "对于已经录取的考生，学校与考生双方都不得以任何理由退录。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于已经录取的考生，学校与考生双方都不得以任何理由退录。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 152.885,
+      "end": 159.261,
+      "label": "mandarin",
+      "text": "桂林市教育局与桂林市招生考试院也没有权力取消考生的正常录取。",
+      "score": 0.0558,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "桂林市教育局与桂林市招生考试院也没得权力取消考生的正常录取。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 159.621,
+      "end": 164.88,
+      "label": "mandarin",
+      "text": "今年桂林市中考信息网不设立职业类学校招生报名时段，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年，桂林市中考信息网不设立职业类学校招生报名时段。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 165.096,
+      "end": 170.561,
+      "label": "mandarin",
+      "text": "需要报读职业类学校的考生，请到学校招生现场进行报名。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "需要报读职业类学校的考生，请到学校招生现场进行报名。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 170.935,
+      "end": 175.985,
+      "label": "mandarin",
+      "text": "我市将全面落实属地招生政策与招生入学工作监管。",
+      "score": 0.1315,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0525,
+        "acoustic_dev": 0.173,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是将全面落实树地招生政策与招生入学工作监管。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 176.378,
+      "end": 181.119,
+      "label": "mandarin",
+      "text": "根据相关文件精神，二零二五年我市继续实行属地招生，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据相关文件精神，二零二五年我市继续实行属地招生。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 181.401,
+      "end": 185.15,
+      "label": "mandarin",
+      "text": "公办、民办普通高中原则上实行属地招生。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "公办民办普通高中原则上实行属地招生。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 185.484,
+      "end": 190.22,
+      "label": "guilin",
+      "text": "十一县市及临桂区所属的公办普通高中学校，",
+      "score": 0.5681,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2613,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是一县市及邻桂区所属的公办普通高中学校。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 190.22,
+      "end": 200.009,
+      "label": "mandarin",
+      "text": "应在本县域内招生；市直属公办普通高中应在象山、秀峰、叠彩、七星、安山等五城区内招生，",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0129,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.028,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "应在本县域内招生。市直属公办普通高中应在香山、秀峰、叠彩、七星、安山等五城区内招生。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 200.055,
+      "end": 206.412,
+      "label": "mandarin",
+      "text": "实行公民同招。民办普通高中招生纳入所在地教育行政部门统一管理，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实行公民同招，民办普通高中招生纳入所在地教育行政部门统一管理。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 206.654,
+      "end": 211.748,
+      "label": "mandarin",
+      "text": "招生范围应与所在地公办普通高中保持一致，并同步招生。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "招生范围应与所在地公办普通高中保持一致，并同步招生。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 212.121,
+      "end": 218.444,
+      "label": "mandarin",
+      "text": "生源不足的，可由市级教育行政部门在辖区内统筹安排招生计划。",
+      "score": 0.0339,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "人员不足的，可由市级教育行政部门在辖区内统筹安排招生计划。"
+      }
+    }
+  ]
+}

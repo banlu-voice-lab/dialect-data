@@ -1,0 +1,788 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林_科技赋能文旅新体验.wav",
+  "duration": 191.784,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:30:14",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.026,
+      "label": "guilin",
+      "text": "今年以来，桂林各景区、省游市是人工智能加行动，",
+      "score": 0.7157,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8576,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "省/深",
+        "lexicon": "",
+        "text_free": "近年来，桂林国景区深入实施“人工智能假行动”。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.026,
+      "end": 9.0,
+      "label": "mandarin",
+      "text": "打造山水加科技加文化的创新融合模式，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0091,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造山水加科技加文化的创新融合模式。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.198,
+      "end": 12.852,
+      "label": "mandarin",
+      "text": "为游客带来了前所未有的文旅体验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为游客带来了前所未有的文旅体验。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.079,
+      "end": 17.305,
+      "label": "mandarin",
+      "text": "生动诠释了科技与文旅融合的无限魅力。",
+      "score": 0.1538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "生/神",
+        "lexicon": "",
+        "text_free": "神龙诠释了科技与文旅融合的无限魅力。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.381,
+      "end": 21.953,
+      "label": "mandarin",
+      "text": "AI赋能提质增效，开辟的是智慧文旅新赛道。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0117,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "AI赋能提质增效，开辟的是智慧文旅新赛道。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.191,
+      "end": 27.274,
+      "label": "mandarin",
+      "text": "五月以来，丽江磨盘山码头推出AI文创九宝子拍摄机，",
+      "score": 0.017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0382,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "五月以来，丽江磨盘山码头推出AI文创九宝子拍摄机。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.511,
+      "end": 31.116,
+      "label": "guilin",
+      "text": "复古风历史铜板新闻充满年代感，",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8036,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "复古风历史头版新闻，充满年代感。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.166,
+      "end": 36.715,
+      "label": "mandarin",
+      "text": "老宝子机拍照，带给前来游览丽江的游客新奇体验。",
+      "score": 0.2316,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0786,
+        "acoustic_dev": 0.084,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "子/纸",
+        "lexicon": "",
+        "text_free": "老报纸纪念照，带给前来游览丽江的游客心气体炼。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.986,
+      "end": 40.773,
+      "label": "guilin",
+      "text": "兴安林区景区升级提升AI机器人美，",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8829,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "林/陵",
+        "lexicon": "",
+        "text_free": "西安陵区景区升级提升，AI机器营成为。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.773,
+      "end": 45.68,
+      "label": "mandarin",
+      "text": "景区明星AI技术带领游客穿越千年。",
+      "score": 0.0565,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0984,
+        "acoustic_dev": 0.109,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "景区明星，AR技术带领游客穿越千年。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 46.062,
+      "end": 50.183,
+      "label": "mandarin",
+      "text": "在阳朔遇龙河景区，四足机器人正式上线，",
+      "score": 0.3683,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3294,
+        "acoustic_dev": 0.401,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在阳朔玉龙河景区，丝竹激情正式上线。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.423,
+      "end": 55.739,
+      "label": "mandarin",
+      "text": "机器狗开启科技加文旅加安防融合发展的新模式。",
+      "score": 0.0519,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0251,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "机器狗开启科技加文旅加安防用户发展的新模式。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 56.115,
+      "end": 62.382,
+      "label": "mandarin",
+      "text": "象山景区迎来一位特别的新员工——全智能双臂咖啡机器人，",
+      "score": 0.1565,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1636,
+        "acoustic_dev": 0.191,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "香山景区也迎来一位特别的新员工——全能双臂咖啡机器人。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.698,
+      "end": 68.12,
+      "label": "guilin",
+      "text": "几个臂精准控制、语音成像、温度监测三大核心技术，",
+      "score": 0.7081,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.502,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "成/层",
+        "lexicon": "",
+        "text_free": "机盖壁精准控制与叶层箱温度监测三大核心技术。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 68.456,
+      "end": 71.998,
+      "label": "mandarin",
+      "text": "游客只需要在扫码点单的时候上传照片，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "游客只需要在扫码点单的时候上传照片。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 72.165,
+      "end": 75.894,
+      "label": "mandarin",
+      "text": "就可以得到一杯独一无二的拿法咖啡。",
+      "score": 0.1763,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.085,
+        "acoustic_dev": 0.092,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "拿/拉",
+        "lexicon": "",
+        "text_free": "就可以得到一杯独一无二的拉法咖啡。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 76.44,
+      "end": 80.28,
+      "label": "mandarin",
+      "text": "这个机器人又方便，做出来的咖啡又很纯",
+      "score": 0.064,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0279,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个机器人又方便，做出来的咖啡也很醇。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 80.711,
+      "end": 86.739,
+      "label": "mandarin",
+      "text": "很香，最有特点的是自己一张照片可以做出来，放在上面很新颖。",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0119,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很香，最有特点就是自己一张照片可以做出来，放在上面很新颖。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 86.739,
+      "end": 92.517,
+      "label": "uncertain",
+      "text": "今天刚好去看了象鼻山，然后上去喝咖啡，刚好看到有个机器人，",
+      "score": 0.5223,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6466,
+        "acoustic_dev": 0.802,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天刚好去看了《上鼻章》，然后啊想喝杯咖啡，刚好看到有个哎机器人。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 92.532,
+      "end": 95.79,
+      "label": "mandarin",
+      "text": "觉得挺新奇的，所以就过来试一下。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "觉得挺新奇的，所以就过来试一下。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.79,
+      "end": 98.476,
+      "label": "mandarin",
+      "text": "这个咖啡喝起来也挺上浓的，",
+      "score": 0.1388,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0134,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "上/山",
+        "lexicon": "",
+        "text_free": "这个咖啡喝起来也挺山浓的。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 98.512,
+      "end": 104.698,
+      "label": "mandarin",
+      "text": "所以我觉得啊，去桂林这里除了象鼻山打卡，也可以过来打卡一下这个机器人，非常有趣，",
+      "score": 0.0417,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0178,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以我觉得，呃，去桂林这里除了上皮山打卡，也可以过来打卡一下这个机器人，非常有趣。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 104.84,
+      "end": 110.801,
+      "label": "mandarin",
+      "text": "啊，科技与生活的结合。在传统景区中，象山景区以山水风光闻名，",
+      "score": 0.1272,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0988,
+        "acoustic_dev": 0.109,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把科技与生活的结合。在传统印象中，香山景区以山水风光闻名。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 110.99,
+      "end": 114.014,
+      "label": "mandarin",
+      "text": "是游客们欣赏自然美景的圣地。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0098,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是游客们欣赏自然美景的圣地。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 114.291,
+      "end": 123.906,
+      "label": "mandarin",
+      "text": "而此次全智能咖啡机器人的应用，是景区从传统山水观光向科技文旅融合转型的重要举措。",
+      "score": 0.1241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "应/引",
+        "lexicon": "",
+        "text_free": "而此次全智能咖啡机器人的引入，是景区从传统山水观光向科技文旅融合转型的重要举措。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 124.206,
+      "end": 128.389,
+      "label": "mandarin",
+      "text": "这一创新服务不仅为游客提供了新奇的消费体验，",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0123,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一创新服务不仅是为游客提供了新奇的消费体验。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 128.635,
+      "end": 132.405,
+      "label": "mandarin",
+      "text": "更是打破了传统景区消费场景的局限。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是打破了传统景区消费场景的局限。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 132.625,
+      "end": 135.15,
+      "label": "mandarin",
+      "text": "让游客在品味咖啡的同时，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让游客在品味咖啡的同时。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 135.287,
+      "end": 142.112,
+      "label": "mandarin",
+      "text": "也能够将桂林山水的独特魅力装进咖啡杯里，留下难忘的回忆。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也能够将桂林山水的独特魅力装进咖啡杯里，留下难忘的回忆。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 142.112,
+      "end": 146.863,
+      "label": "mandarin",
+      "text": "今年我们在象山景区引进AI智能咖啡机器人，",
+      "score": 0.0234,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.048,
+        "acoustic_dev": 0.045,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年我们在象山景区引进AI智能咖啡机器人。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 147.24,
+      "end": 149.534,
+      "label": "mandarin",
+      "text": "创新观光的消费场景，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创新观光的消费场景。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 149.96,
+      "end": 155.24,
+      "label": "mandarin",
+      "text": "让游客体验把桂林山水装进咖啡杯的新奇感，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0094,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让游客体验把桂林山水装进咖啡杯的新奇感。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 155.653,
+      "end": 160.5,
+      "label": "mandarin",
+      "text": "也满足了游客社交打卡的这么一个需求，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也满足了游客啊，社交打卡的这么一个需求。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 161.32,
+      "end": 163.995,
+      "label": "mandarin",
+      "text": "既提升了我们老牌景区的活力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "既提升了我们老牌景区的活力。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 164.014,
+      "end": 167.883,
+      "label": "mandarin",
+      "text": "也是希望通过推出这么一系列的创新举措，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是希望通过推出这么一系列的创新举措。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 167.883,
+      "end": 171.09,
+      "label": "guilin",
+      "text": "去推进桂林世界旅游城市的建设。",
+      "score": 0.5527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8662,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "去推进桂林世界级旅游城市的建设。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 171.09,
+      "end": 177.254,
+      "label": "mandarin",
+      "text": "山水加科技加文化类创新融合，不仅为游客带来了全新的消费体验，",
+      "score": 0.0615,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0203,
+        "acoustic_dev": 0.01,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "山水加科技加文化嘞，创新融合，不仅为游客带来了全新的消费体验。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 177.478,
+      "end": 180.397,
+      "label": "mandarin",
+      "text": "也为景区发展带来新机遇，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也为景区发展带来新机遇。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 180.654,
+      "end": 184.66,
+      "label": "mandarin",
+      "text": "吸引更多年轻游客和科技爱好者的关注。",
+      "score": 0.103,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1281,
+        "acoustic_dev": 0.146,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引更多年轻游客或科技爱好者的关注。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 184.886,
+      "end": 187.535,
+      "label": "mandarin",
+      "text": "提升了景区的知名度和美誉度，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0078,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提升了景区的知名度和美誉度。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 187.702,
+      "end": 191.784,
+      "label": "mandarin",
+      "text": "展示了科技在文旅产业中的巨大潜力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "展示了科技在文旅产业中的巨大潜力。"
+      }
+    }
+  ]
+}

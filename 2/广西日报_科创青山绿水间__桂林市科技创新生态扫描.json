@@ -1,0 +1,1339 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "广西日报_科创青山绿水间__桂林市科技创新生态扫描.wav",
+  "duration": 324.497,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:05:14",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.29,
+      "end": 9.899,
+      "label": "mandarin",
+      "text": "前几天，《广西日报》头版头条就刊登了“科创青山绿水青山”桂林市科技创新生态扫描的文章，",
+      "score": 0.0842,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0968,
+        "acoustic_dev": 0.114,
+        "seg_cer": 0.054,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天，《广西日报》头版头条就刊登了《科创青山绿水间》，桂林市科技创新生态扫描的文章。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 10.096,
+      "end": 15.357,
+      "label": "mandarin",
+      "text": "重点介绍了漓江之畔科技创新的浪潮奔涌。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "重点介绍了丽江之畔科技创新的浪潮奔涌。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 15.753,
+      "end": 18.275,
+      "label": "guilin",
+      "text": "桂林勇当时代浪潮的，",
+      "score": 0.6545,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6636,
+        "acoustic_dev": 0.966,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林永当时代弄潮儿。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.275,
+      "end": 21.714,
+      "label": "mandarin",
+      "text": "在高质量发展的航道上破浪前行，",
+      "score": 0.097,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1447,
+        "acoustic_dev": 0.186,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在高质量发展的航道上，破浪前行。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.714,
+      "end": 25.816,
+      "label": "mandarin",
+      "text": "书写出新时代的桂林山水甲天下。",
+      "score": 0.1931,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0168,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "新/形",
+        "lexicon": "",
+        "text_free": "书写出形式单丽，桂林山水甲天下。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 31.54,
+      "end": 36.134,
+      "label": "mandarin",
+      "text": "文章介绍到，在桂林市众多的科技创新公司车间，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0203,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文章介绍到，在桂林市众多的科技创新公司车间。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 36.297,
+      "end": 40.763,
+      "label": "mandarin",
+      "text": "产品正被抓紧生产，将走进欧美、日韩等国。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产品正被抓紧生产，将走进欧美、意、韩等国。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 41.007,
+      "end": 45.414,
+      "label": "guilin",
+      "text": "如啄木鸟医疗器械公司、桂博机器的高端机床、",
+      "score": 0.6403,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8926,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.263,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "又中不了医疗器械公司，贵博机器的高端机床。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 45.414,
+      "end": 49.95,
+      "label": "mandarin",
+      "text": "有利特医疗等桂林制造，受到了海外市场的欢迎。",
+      "score": 0.3694,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2965,
+        "acoustic_dev": 0.414,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "利/尼",
+        "lexicon": "",
+        "text_free": "尤尼特医疗等桂林制造受到了海外市场的反应。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 50.304,
+      "end": 55.159,
+      "label": "mandarin",
+      "text": "文章提到，近年来，桂林市为企业科技创新滋养土壤，",
+      "score": 0.1008,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.066,
+        "acoustic_dev": 0.068,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文章提到，近年来，桂林市为企业科技创新资养托养。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 55.32,
+      "end": 59.054,
+      "label": "mandarin",
+      "text": "着力培育以企业为中心的科技创新生态，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "着力培育以企业为中心的科技创新生态。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 59.265,
+      "end": 63.467,
+      "label": "mandarin",
+      "text": "让更多企业愿意创新、敢于突破、凭出成果。",
+      "score": 0.1804,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0891,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "凭/拼",
+        "lexicon": "",
+        "text_free": "让更多企业愿意创新、敢于突破、拼出成果。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 63.779,
+      "end": 67.292,
+      "label": "mandarin",
+      "text": "一批专精特新小巨人企业迅速崛起，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一批专精特新小巨人企业迅速崛起。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 67.509,
+      "end": 70.435,
+      "label": "guilin",
+      "text": "其中有一民营企业最为活跃，",
+      "score": 0.5581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.014,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中有以民营企业最为活跃。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 70.863,
+      "end": 75.069,
+      "label": "mandarin",
+      "text": "全市以企业牵头的产业类科技项目超百分之八十，",
+      "score": 0.0014,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0223,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全市以企业牵头的产业类科技项目超百分之八十。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 75.162,
+      "end": 79.931,
+      "label": "mandarin",
+      "text": "每万人高价值专利拥有量达到了五点四件，",
+      "score": 0.0256,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0207,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每万人高价值专利拥有量达到了五点四二件。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 79.931,
+      "end": 83.914,
+      "label": "mandarin",
+      "text": "位居全区第一。今年一月到四月，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "位居全区第一。今年一月到四月。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 83.914,
+      "end": 87.714,
+      "label": "mandarin",
+      "text": "该市高技术产业投资同比增长百分之二十三点六，",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0197,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三是高技术产业投资同比增长百分之二十三点六。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 88.068,
+      "end": 91.933,
+      "label": "mandarin",
+      "text": "其中制造业投资同比增长百分之三十五点八。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中，制造业投资同比增长百分之三十五点八。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 92.273,
+      "end": 95.48,
+      "label": "mandarin",
+      "text": "科技创新持续保持旺盛态势，",
+      "score": 0.2527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1185,
+        "acoustic_dev": 0.147,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "持/次",
+        "lexicon": "",
+        "text_free": "科技创新次数保持旺盛态势。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.855,
+      "end": 98.459,
+      "label": "mandarin",
+      "text": "加大投入，筑牢发展基石。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加大投入，筑牢发展基石。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 98.923,
+      "end": 102.398,
+      "label": "mandarin",
+      "text": "如今，桂林充满创新活力的企业越来越多。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如今，桂林充满创新活力的企业越来越多。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 102.544,
+      "end": 107.877,
+      "label": "mandarin",
+      "text": "桂林市啄木鸟医疗器械公司研发投入强度约为百分之六点六，",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林市规模以上医疗器械公司研发投入强度约为百分之六点六。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 108.067,
+      "end": 110.673,
+      "label": "mandarin",
+      "text": "研发人员占比约为百分之二十，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "研发人员占比约为百分之二十。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 110.938,
+      "end": 113.676,
+      "label": "mandarin",
+      "text": "已拥有六百九十三件专利，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "已拥有六百九十三件专利。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 113.947,
+      "end": 118.6,
+      "label": "mandarin",
+      "text": "产品不仅供应全国各大城市口腔医院和牙科诊所，",
+      "score": 0.1814,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1971,
+        "acoustic_dev": 0.265,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产品不仅供应全国各大中城市口腔医院，或牙科诊所。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 118.837,
+      "end": 123.799,
+      "label": "mandarin",
+      "text": "还远销欧洲、北美等地的一百四十三个国家和地区。",
+      "score": 0.0023,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0235,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还远销欧洲、北美等地的一百四十三个国家和地区。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 124.396,
+      "end": 131.118,
+      "label": "mandarin",
+      "text": "桂林桂博机器有限公司将每年销售收入的百分之五以上投入新产品研发，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0098,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林桂博机器有限公司将每年销售收入的百分之五以上投入新产品研发。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 131.471,
+      "end": 135.037,
+      "label": "mandarin",
+      "text": "并与北京航空航天大学开展深度合作，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并与北京航空航天大学开展深度合作。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 135.27,
+      "end": 142.191,
+      "label": "mandarin",
+      "text": "成功研制出我国首台八轴五联动数控面齿轮光遇磨削专用机床，",
+      "score": 0.0449,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0564,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成功研制出我国首台八轴五联动数控面齿轮光浴磨削专用机床。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 142.614,
+      "end": 146.38,
+      "label": "mandarin",
+      "text": "打破了国外技术垄断，填补了国内技术空白。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打破了国外技术垄断，填补了国内技术空白。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 146.705,
+      "end": 153.151,
+      "label": "mandarin",
+      "text": "桂林光路数字测控股份公司研发的智能数显量具获得了三十七项国家专利，",
+      "score": 0.1873,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0972,
+        "acoustic_dev": 0.115,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "测/车",
+        "lexicon": "",
+        "text_free": "桂林广路数字车控股份公司研发的智能疏险两局，获得了三十七项国家专利。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 153.461,
+      "end": 159.946,
+      "label": "mandarin",
+      "text": "高精度传感器技术更是将测量误差控制在了零点零零一毫米以内，",
+      "score": 0.1327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "测/车",
+        "lexicon": "",
+        "text_free": "高精度传感器技术更是将车辆误差控制在了零点零零一毫米以内。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 160.232,
+      "end": 163.738,
+      "label": "guilin",
+      "text": "企业实现了工业测量产品的无量放功能，",
+      "score": 0.7545,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.991,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "量/联 测/车",
+        "lexicon": "",
+        "text_free": "企业实现了工业车辆产品的物联网功能。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 163.738,
+      "end": 169.156,
+      "label": "mandarin",
+      "text": "进一步拓展了市场版图，产品畅销全球五十多个国家和地区。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进一步拓展了市场版图，产品畅销全球五十多个国家和地区。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 169.639,
+      "end": 175.251,
+      "label": "mandarin",
+      "text": "桂林有利特医疗电子公司每年投入研发费用占销售收入超百分之十，",
+      "score": 0.0957,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0826,
+        "acoustic_dev": 0.093,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林尤利特医疗电子公司每年投入研发费用占销售比超百分之十。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 175.604,
+      "end": 183.349,
+      "label": "mandarin",
+      "text": "并积极与深圳北航新型产业技术研究院共建健康大数据与AI实验室等。",
+      "score": 0.1894,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2228,
+        "acoustic_dev": 0.304,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并积极与深圳北航新兴产业技术研究院共建健康大数据 U R I T 实验室等。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 183.63,
+      "end": 186.35,
+      "label": "mandarin",
+      "text": "引领智能建链的重大突破。",
+      "score": 0.2938,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2904,
+        "acoustic_dev": 0.405,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "引领智能简联的重大突破。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 186.626,
+      "end": 193.658,
+      "label": "mandarin",
+      "text": "数据显示，目前桂林市已获认定自治区级以上制造业单项冠军企业三十三家，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0097,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "数据显示，目前桂林市已获认定自治区级以上制造业单项冠军企业三十三家。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 193.942,
+      "end": 197.113,
+      "label": "mandarin",
+      "text": "国家级专精特新小巨人企业二十三家，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0143,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "国家级专精特新小巨人企业二十三家。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 197.386,
+      "end": 201.052,
+      "label": "uncertain",
+      "text": "总数均位列广西、国、市、区市第一。",
+      "score": 0.4278,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5234,
+        "acoustic_dev": 0.755,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "总数均位列广西各市区市第一。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 201.275,
+      "end": 205.624,
+      "label": "mandarin",
+      "text": "这些企业共同筑起桂林科技创新的坚实基石。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这些企业共同筑起桂林科技创新的坚实基石。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 206.074,
+      "end": 209.875,
+      "label": "mandarin",
+      "text": "文章还提到，桂林技术创新驱动产业升级。",
+      "score": 0.1133,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0968,
+        "acoustic_dev": 0.115,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文章还提到，桂林持续创新，驱动产业升级。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 210.127,
+      "end": 213.022,
+      "label": "guilin",
+      "text": "桂林蓝药通过持续优化工艺流程，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9358,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林蓝月通过技术创新工艺流程。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 213.106,
+      "end": 216.963,
+      "label": "mandarin",
+      "text": "实现了绝大多数生产环节的自动化、智能化，",
+      "score": 0.0032,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0246,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现了绝大多数生产环节的自动化、智能化。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 216.963,
+      "end": 219.88,
+      "label": "guilin",
+      "text": "形成了技术突破、产业提质、",
+      "score": 0.6447,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3149,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更形成了技术突破产业体制。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 219.88,
+      "end": 222.765,
+      "label": "mandarin",
+      "text": "经济增效、再创新的良性循环。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0162,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经济增效，再创新的良性循环。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 223.082,
+      "end": 226.989,
+      "label": "guilin",
+      "text": "桂林自身信息技术公司持续推进技术升级，",
+      "score": 0.6708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9536,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "身/盛 自/知",
+        "lexicon": "",
+        "text_free": "桂林知盛信息技术公司持续推进技术升级。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 227.279,
+      "end": 229.481,
+      "label": "guilin",
+      "text": "在伺服电机、陀螺仪、温控、",
+      "score": 0.6253,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6164,
+        "acoustic_dev": 0.895,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在师傅点击陀螺仪温控。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 229.593,
+      "end": 236.119,
+      "label": "mandarin",
+      "text": "人工智能控制、高精度人脸识别跟踪等核心技术领域取得重大突破，",
+      "score": 0.0011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.022,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "人工智能控制、高精度人脸识别跟踪等核心技术领域取得重大突破。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 236.384,
+      "end": 240.104,
+      "label": "mandarin",
+      "text": "引领全球云台稳定器产业创新发展潮流。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "引领全球云台稳定器产业创新发展潮流。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 240.269,
+      "end": 246.096,
+      "label": "mandarin",
+      "text": "越来越多桂林企业不断在专门领域细分市场形成独特优势，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "越来越多桂林企业不断在专门领域细分市场，形成独特优势。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 246.383,
+      "end": 252.679,
+      "label": "mandarin",
+      "text": "在电子信息、装备制造、生物医药等产业发展当中的带动作用不断增强，",
+      "score": 0.0337,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0637,
+        "acoustic_dev": 0.065,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在电子信息、装备制造、生物医药等产业发展当中的带动作用不断增强。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 252.899,
+      "end": 257.037,
+      "label": "mandarin",
+      "text": "进一步优化了经济结构，提升经济发展韧性。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进一步优化了经济结构，提升经济发展韧性。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 257.296,
+      "end": 260.248,
+      "label": "mandarin",
+      "text": "与此同时，我市还厚植沃土、",
+      "score": 0.3422,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1739,
+        "acoustic_dev": 0.23,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "植/子",
+        "lexicon": "",
+        "text_free": "与此同时，我是还猴子挖土。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 260.248,
+      "end": 265.251,
+      "label": "mandarin",
+      "text": "澎湃发展动能，创新实施百名博士进百企行动，",
+      "score": 0.0841,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0974,
+        "acoustic_dev": 0.115,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "澎湃发展动能，创新实施“百名博士进国企”行动。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 265.452,
+      "end": 268.952,
+      "label": "mandarin",
+      "text": "以挂职技术顾问等柔性引才方式，",
+      "score": 0.1857,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0262,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "引/英",
+        "lexicon": "",
+        "text_free": "以挂职技术顾问等有形英才方式。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 268.952,
+      "end": 273.96,
+      "label": "mandarin",
+      "text": "累计推动三百三十一名博士人才服务两百九十七家企业，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "累计推动三百三十一名博士人才服务两百九十七家企业。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 274.309,
+      "end": 277.231,
+      "label": "mandarin",
+      "text": "开展技术攻关与产学研合作。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "开展技术攻关与产学研合作。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 277.527,
+      "end": 281.479,
+      "label": "mandarin",
+      "text": "目前，我市国家级科技创新平台达到七十八家，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，我市国家级科技创新平台达到七十八家。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 281.733,
+      "end": 284.63,
+      "label": "mandarin",
+      "text": "拥有国家技术创新示范企业七家，",
+      "score": 0.1771,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1637,
+        "acoustic_dev": 0.215,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拥有国家技术创新示范企业企业家。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 284.867,
+      "end": 287.916,
+      "label": "mandarin",
+      "text": "自治区技术创新示范企业三十五家，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自治区技术创新示范企业三十五家。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 288.199,
+      "end": 291.668,
+      "label": "guilin",
+      "text": "数量位居广西、国、市、区市第一。",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1258,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "数量位居广西各社区市第一。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 291.937,
+      "end": 295.492,
+      "label": "mandarin",
+      "text": "另外，有自治区级企业技术中心七十一个，",
+      "score": 0.2346,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2521,
+        "acoustic_dev": 0.348,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "另外，有自治区及企业技术中心七十七个。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 295.633,
+      "end": 298.649,
+      "label": "mandarin",
+      "text": "市级企业技术中心一百一十一个。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "市级企业技术中心一百一十一个。"
+      }
+    },
+    {
+      "id": 66,
+      "start": 298.895,
+      "end": 305.091,
+      "label": "mandarin",
+      "text": "在优化营商环境上，桂林市还为科创企业送上了一系列的大礼包，",
+      "score": 0.0339,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在优化营商环境上，桂林市还为科创企业送上了一系列的大力宝。"
+      }
+    },
+    {
+      "id": 67,
+      "start": 305.372,
+      "end": 312.14,
+      "label": "mandarin",
+      "text": "推动银行机构对专精特新等重点工业企业项目融资需求开展快速响应，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0085,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动银行机构对专精特新等重点工业企业项目融资需求开展快速响应。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 312.431,
+      "end": 316.062,
+      "label": "uncertain",
+      "text": "组织产销对接会和协同发展座谈会，",
+      "score": 0.4324,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5353,
+        "acoustic_dev": 0.773,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "组织产销对接会，或协同发展座谈会。"
+      }
+    },
+    {
+      "id": 69,
+      "start": 316.306,
+      "end": 320.171,
+      "label": "mandarin",
+      "text": "引导专精特新中小企业在主导产业上深耕，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0095,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "引导专精特新中小企业在主导产业上深耕。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 320.428,
+      "end": 324.497,
+      "label": "mandarin",
+      "text": "提升产业链、供应链关键环节上的配套能力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提升产业链、供应链关键环节上的配套能力。"
+      }
+    }
+  ]
+}

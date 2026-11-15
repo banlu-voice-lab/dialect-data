@@ -1,0 +1,978 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "我市公布2025年中考基本情况.wav",
+  "duration": 257.218,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:14:10",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.834,
+      "label": "mandarin",
+      "text": "高考完了以后啊，就是中考了。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高考完了以后啊，就是中考了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.834,
+      "end": 6.46,
+      "label": "mandarin",
+      "text": "明天就是初中生开始建功府的日子了啵。",
+      "score": 0.3635,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2327,
+        "acoustic_dev": 0.467,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "啵",
+        "text_free": "明天就是初中生开始练功夫的日子了，不。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.775,
+      "end": 11.48,
+      "label": "mandarin",
+      "text": "市招生考试院公布了桂林市二零二五年中考通告，",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是招生考试院公布了桂林市二零二五年中考通告。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.649,
+      "end": 16.604,
+      "label": "mandarin",
+      "text": "公布了今年我市中考的情况，我们一起来好好了解一下。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "公布了今年我市中考的情况，我们一起来好好了解一下。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.78,
+      "end": 25.266,
+      "label": "mandarin",
+      "text": "今年是自治区统一命题的第三年，",
+      "score": 0.0803,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0844,
+        "acoustic_dev": 0.154,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年是自治区统一命题的第三年。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.414,
+      "end": 29.884,
+      "label": "mandarin",
+      "text": "坚持以学科课程标准现行使用的教材为依据，",
+      "score": 0.0082,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0186,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坚持以学科课程标准现行使用的教材为依据。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.078,
+      "end": 34.16,
+      "label": "mandarin",
+      "text": "注重考查学生对重要知识与技能的掌握情况，",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "注重考察学生对重要知识与技能的掌握情况。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.462,
+      "end": 40.64,
+      "label": "mandarin",
+      "text": "特别是，在生活实践当中运用所学知识与技能分析和解决问题的能力。",
+      "score": 0.1264,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.112,
+        "acoustic_dev": 0.213,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "特别是在生活实践当中，运用所学知识与技能分析或解决问题的能力。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.065,
+      "end": 45.408,
+      "label": "mandarin",
+      "text": "试题落实课程标准的要求更加到位，开放性更强，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "试题落实课程标准的要求更加到位，开放性更强。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 45.737,
+      "end": 50.659,
+      "label": "mandarin",
+      "text": "试题与社会实际和学生生活联系更加紧密。",
+      "score": 0.076,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0341,
+        "acoustic_dev": 0.048,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "试题与社会实际或学生生活的联系更加紧密。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 51.099,
+      "end": 56.513,
+      "label": "mandarin",
+      "text": "全区统一命题科目考试安排在六月二十四号到二十七号。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全区统一命题科目考试安排在六月二十四号到二十七号。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 56.859,
+      "end": 62.824,
+      "label": "mandarin",
+      "text": "从今年开始，道德与法治、历史科目考试时长延长到一百五十分钟，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从今年开始，道德与法治历史科目考试时长延长到一百五十分钟。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 62.961,
+      "end": 66.846,
+      "label": "mandarin",
+      "text": "总分提高到一百五十分，其他科目不变。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "总分提高到一百五十分，其他科目不变。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 67.314,
+      "end": 72.375,
+      "label": "mandarin",
+      "text": "今年的中考，初三年级考生共计六万零八百三十三人，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年的中考，初三年级考生共计六万零八百三十三人。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 72.629,
+      "end": 76.008,
+      "label": "mandarin",
+      "text": "比去年增加一千三百七十六人。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比去年增加一千三百七十六亿。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 76.412,
+      "end": 81.437,
+      "label": "mandarin",
+      "text": "其中，五城区共有初三年级考生一万四千三百六十七人，",
+      "score": 0.0463,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0353,
+        "acoustic_dev": 0.051,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中，武城区共有初三年级考生一万四千三百六十七人。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 81.639,
+      "end": 84.056,
+      "label": "mandarin",
+      "text": "比去年增加了一百八十二人。",
+      "score": 0.0764,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0113,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比去年增加了一百八十个亿。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 84.435,
+      "end": 92.575,
+      "label": "mandarin",
+      "text": "全市六万五千七百零一名初二年级考生于六月二十七号上午参加地理生物学考试，",
+      "score": 0.0131,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.029,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全市六万五千七百零一名初二年级考生于六月二十七号上午参加地理生物学科考试。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 92.898,
+      "end": 98.567,
+      "label": "mandarin",
+      "text": "成绩将计入二零二六年高中阶段学校招生录取总成绩。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成绩将计入二零二六年高中阶段学校招生录取总成绩。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 99.123,
+      "end": 103.444,
+      "label": "mandarin",
+      "text": "今年全市十三个考区共安排考点一百三十五个，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年全市十三个考区共安排考点一百三十五个。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 103.696,
+      "end": 107.831,
+      "label": "mandarin",
+      "text": "其中五城区十四五个考点和一个备用考点。",
+      "score": 0.1595,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0104,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "四/十",
+        "lexicon": "",
+        "text_free": "其中，武城区设十五个考点和一个备用考点。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 108.174,
+      "end": 110.457,
+      "label": "guilin",
+      "text": "市辖区的考点分别为：",
+      "score": 0.6708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5216,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "市/四",
+        "lexicon": "",
+        "text_free": "四辖区的考点分别为。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 110.637,
+      "end": 113.065,
+      "label": "mandarin",
+      "text": "桂林中学初中部、一中、",
+      "score": 0.3256,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3081,
+        "acoustic_dev": 0.626,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林中学初中部一中。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 113.065,
+      "end": 116.725,
+      "label": "guilin",
+      "text": "逸仙中学初中部、田家炳五中、",
+      "score": 0.7176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5154,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "炳/斌",
+        "lexicon": "",
+        "text_free": "逸贤中学初中部，田嘉斌，五中。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 116.725,
+      "end": 119.579,
+      "label": "guilin",
+      "text": "八中、中山中学黎兵校区、",
+      "score": 0.7114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8721,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "兵/斌",
+        "lexicon": "",
+        "text_free": "八中中山中学李斌校区。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 119.579,
+      "end": 122.002,
+      "label": "mandarin",
+      "text": "十一中、十三中、十四中、",
+      "score": 0.1585,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0167,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十一种，十三种，十四种。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 122.002,
+      "end": 125.085,
+      "label": "mandarin",
+      "text": "十七中、十九中、女子中专、",
+      "score": 0.2638,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0772,
+        "acoustic_dev": 0.139,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "女/吕",
+        "lexicon": "",
+        "text_free": "十七中、十九中、吕字中专。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 125.085,
+      "end": 132.371,
+      "label": "mandarin",
+      "text": "机电学校、安山中学。备用考点为桂林市第十八中学高中部横塘校区。",
+      "score": 0.2479,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1207,
+        "acoustic_dev": 0.231,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "几点学校？鞍山中学。备用考点为：桂林市第四八中学高中部横塘校区。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 132.971,
+      "end": 135.594,
+      "label": "guilin",
+      "text": "十二个县市区考点设置情况：",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6324,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是俄国现实区考点设置情况。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 135.985,
+      "end": 138.677,
+      "label": "guilin",
+      "text": "全州县二十五个，兴安县十二个，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3417,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.692,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全州现俄是五国，西安现是俄国。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 139.225,
+      "end": 141.894,
+      "label": "uncertain",
+      "text": "荔浦市和灌阳县各十一个，",
+      "score": 0.4169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2776,
+        "acoustic_dev": 0.562,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "利浦市和冠阳县各是一个。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 142.17,
+      "end": 145.393,
+      "label": "guilin",
+      "text": "阳朔县、临川县和平乐县各十个，",
+      "score": 0.6274,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4111,
+        "acoustic_dev": 0.843,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "临/灵",
+        "lexicon": "",
+        "text_free": "阳朔县、灵川县和平乐县，过十过。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 145.542,
+      "end": 148.228,
+      "label": "uncertain",
+      "text": "永福县九个，临桂区八个，",
+      "score": 0.516,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2902,
+        "acoustic_dev": 0.588,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "临/领",
+        "lexicon": "",
+        "text_free": "永福县九国，领归去八国。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 148.51,
+      "end": 151.148,
+      "label": "guilin",
+      "text": "恭城县六个，资源县五个，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4854,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "工程县六国，资源县五国。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 151.148,
+      "end": 156.433,
+      "label": "mandarin",
+      "text": "龙胜三个。考前六十分钟才允许考生进入考点，",
+      "score": 0.1834,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1565,
+        "acoustic_dev": 0.306,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙生三个。考前六十分钟才允许考生进入考点。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 156.639,
+      "end": 158.926,
+      "label": "mandarin",
+      "text": "但不得进入考点警戒线。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但不得进入考点警戒线。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 159.384,
+      "end": 162.679,
+      "label": "mandarin",
+      "text": "考试前四十分钟才允许考生进入考场。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "考试前四十分钟才允许考生进入考场。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 163.221,
+      "end": 165.759,
+      "label": "mandarin",
+      "text": "二十六号下午的英语科考试，",
+      "score": 0.1581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1206,
+        "acoustic_dev": 0.231,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二十六号下午的英语课考试。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 165.957,
+      "end": 170.327,
+      "label": "mandarin",
+      "text": "下午两点四十五就不允许迟到考生进入考场了。",
+      "score": 0.0025,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0134,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下午两点四十五就不允许迟到考生进入考场了。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 170.826,
+      "end": 174.843,
+      "label": "mandarin",
+      "text": "其他科目开考后十五分钟不允许进入考场。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其他科目开考后十五分钟，不允许进入考场。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 175.217,
+      "end": 181.869,
+      "label": "mandarin",
+      "text": "每科考试距考试结束不足三十分钟才允许考生交卷离开考场。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每科考试，距考试结束不足三十分钟，才允许考生交卷离开考场。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 182.517,
+      "end": 188.773,
+      "label": "mandarin",
+      "text": "考试结束以后，在桂林市教育局中考领导小组确认中考成绩准确无误以后，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0055,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "考试结束以后，在桂林市教育局中考领导小组确认中考成绩准确无误以后。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 189.028,
+      "end": 202.26,
+      "label": "mandarin",
+      "text": "将于二零二五年七月上旬在桂林市中考信息网或桂林市融媒体中心“在桂林”客户端公布桂林市二零二五年初中学业水平考试九年级考生的成绩，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0072,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将于二零二五年七月上旬，在桂林市中考信息网或桂林市融媒体中心在桂林客户端公布桂林市二零二五年初中学业水平考试九年级考生的成绩。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 202.491,
+      "end": 206.435,
+      "label": "mandarin",
+      "text": "八年级考生成绩于今年秋季开学以后公布。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "八年级考生成绩于今年秋季开学以后公布。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 206.826,
+      "end": 210.93,
+      "label": "mandarin",
+      "text": "九年级考生使用密码信封当中的账号与密码，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "九年级考生使用密码信封当中的账号与密码。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 211.151,
+      "end": 221.01,
+      "label": "mandarin",
+      "text": "八年级考生使用报名时候的账号与密码登录桂林市中考信息网或者下载“在桂林”客户端查询成绩。",
+      "score": 0.0111,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.01,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.024,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "八年级考生使用报名时候的账号与密码，登录桂林市中考信息网，或者下载“浙桂林”客户端查询成绩。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 221.519,
+      "end": 229.399,
+      "label": "mandarin",
+      "text": "成绩公布以后，非紧急座在桂林市中考信息网上公布一等一档表招生计划，",
+      "score": 0.2337,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1135,
+        "acoustic_dev": 0.216,
+        "seg_cer": 0.129,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "紧/警",
+        "lexicon": "",
+        "text_free": "成绩公布以后，非警籍者在桂林市中考信息网上公布一等一当表，招生计划。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 229.436,
+      "end": 235.331,
+      "label": "mandarin",
+      "text": "考生要根据成绩情况结合招生计划提前规划好普通高中志愿。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "考生要根据成绩情况，结合招生计划，提前规划好普通高中志愿。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 235.796,
+      "end": 244.313,
+      "label": "mandarin",
+      "text": "今年我市将继续采用网上报名、系统排序、择优录取的方式开展普通高中招生录取工作。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年我市将继续采用网上报名、系统排序、择优录取的方式，开展普通高中招生录取工作。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 244.637,
+      "end": 249.825,
+      "label": "mandarin",
+      "text": "考生根据市招生考试院公布的招生时段安排与招生计划，",
+      "score": 0.0025,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0134,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "考生根据市招生考试院公布的招生时段安排与招生计划。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 250.136,
+      "end": 257.218,
+      "label": "mandarin",
+      "text": "在规定时间内登录桂林市中考信息网自主选择学校填报普通高中志愿。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在规定时间内登录桂林市中考信息网，自主选择学校填报普通高中志愿。"
+      }
+    }
+  ]
+}

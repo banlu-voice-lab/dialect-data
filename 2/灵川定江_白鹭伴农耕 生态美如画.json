@@ -1,0 +1,560 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "灵川定江_白鹭伴农耕 生态美如画.wav",
+  "duration": 116.195,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:43:51",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.603,
+      "end": 4.853,
+      "label": "mandarin",
+      "text": "最近，在临川县定江镇联发村里的田野间，",
+      "score": 0.1975,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0947,
+        "acoustic_dev": 0.173,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最近，在临川县定江镇莲花村美丽的田野间。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.986,
+      "end": 10.537,
+      "label": "mandarin",
+      "text": "一幅生机勃勃的白鹭伴农耕的生态画卷徐徐铺展。",
+      "score": 0.047,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0207,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一幅生机勃勃的白鹭伴农耕的生态画卷，处处铺展。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.838,
+      "end": 14.215,
+      "label": "uncertain",
+      "text": "白鹭翩跹、农影插秧的和谐场景，",
+      "score": 0.5155,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4289,
+        "acoustic_dev": 0.924,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "白鹭翩跹，农人插秧的和谐场景。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.215,
+      "end": 17.024,
+      "label": "mandarin",
+      "text": "不仅是吸引了众多的村民与游客驻足，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0149,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅是吸引了众多的村民与游客驻足。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.289,
+      "end": 21.317,
+      "label": "mandarin",
+      "text": "更是彰显着当地生态环境的持续向好。",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0151,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是彰显出当地生态环境的奇树相好。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.886,
+      "end": 25.737,
+      "label": "mandarin",
+      "text": "夏至时节，气温回暖，水田内满是忙碌的身影。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0096,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夏至时节，气温回暖，水田内满是忙碌的身影。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.077,
+      "end": 28.562,
+      "label": "mandarin",
+      "text": "当地村民挽起裤脚，扶身弯腰，",
+      "score": 0.2751,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.188,
+        "acoustic_dev": 0.383,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当地村民弯起裤脚，俯身弯腰。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 28.562,
+      "end": 31.572,
+      "label": "mandarin",
+      "text": "双手快速的将嫩绿的秧苗插入泥中。",
+      "score": 0.1195,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0679,
+        "acoustic_dev": 0.113,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "双手快速地将嫩绿的杨苗插入泥中。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 31.842,
+      "end": 35.345,
+      "label": "mandarin",
+      "text": "一排排整齐的秧苗在塘身后逐渐延伸，",
+      "score": 0.1711,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0195,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "身/森",
+        "lexicon": "",
+        "text_free": "一排排整齐的杨苗在藤森后逐渐延伸。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.551,
+      "end": 37.976,
+      "label": "mandarin",
+      "text": "为水田披上了青青的绿装。",
+      "score": 0.2434,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0549,
+        "acoustic_dev": 0.084,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "为水田披上了清新嘞路装。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 38.359,
+      "end": 42.791,
+      "label": "mandarin",
+      "text": "成群的白鹭时而在空中盘旋，时而轻轻的落在水田边，",
+      "score": 0.0287,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0245,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成群的白鹭时而在空中盘旋，时而轻轻地落在水田边。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 43.105,
+      "end": 47.124,
+      "label": "mandarin",
+      "text": "或是低头巡觅泥中的小鱼小虾，或是悠闲踱步。",
+      "score": 0.1882,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0314,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "中/总 泥/李",
+        "lexicon": "",
+        "text_free": "或是低头寻觅李总的小鱼小虾，或是悠闲踱步。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 47.302,
+      "end": 51.597,
+      "label": "guilin",
+      "text": "塘鱼插秧的村民、波光闪动的水田、乡音成趣，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4967,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "唐禹，茶阳的村民，波光闪动的水田，乡音城区。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 51.734,
+      "end": 56.22,
+      "label": "mandarin",
+      "text": "共同勾勒出了一幅动静交织的田园生态美景。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同勾勒出了一幅动静交织的田园生态美景。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 56.22,
+      "end": 62.487,
+      "label": "mandarin",
+      "text": "这几年，我们村的生态环境越来越好了，大批的那个白鹭到我们这里来栖息跟觅食，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这几年，我们村的生态环境越来越好了，大批的那个白鹭到我们这里来栖息跟觅食。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.487,
+      "end": 66.02,
+      "label": "mandarin",
+      "text": "多的时候甚至有上百只，场面非常的壮观。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多的时候，甚至有上百只，场面非常的壮观。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 66.02,
+      "end": 70.326,
+      "label": "mandarin",
+      "text": "白鹭被视为衡量生态环境质量的指示物种，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0126,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "白鹭被视为衡量生态环境质量的指示物种。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 70.514,
+      "end": 72.944,
+      "label": "guilin",
+      "text": "塘鱼则在此栖息觅食，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.0591,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.556,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "唐玄宗在此栖息密室。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 73.073,
+      "end": 75.315,
+      "label": "mandarin",
+      "text": "说明当地的生态环境良好。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "说明当地的生态环境良好。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 75.562,
+      "end": 82.845,
+      "label": "mandarin",
+      "text": "近年来，临川县定江镇持续推进水环境治理、农田生态修复和湿地保护等工作，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0177,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，临川县丁将镇持续推进水环境治理、农田生态修复和湿地保护等工作。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 82.845,
+      "end": 85.031,
+      "label": "mandarin",
+      "text": "不断改善农村人居环境，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断改善农村人居环境。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 85.198,
+      "end": 88.821,
+      "label": "mandarin",
+      "text": "同时引导农户采用绿色生态的种植方式，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，引导农户采用绿色生态的种植方式。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 89.034,
+      "end": 91.493,
+      "label": "guilin",
+      "text": "减少农药、化肥的使用量，",
+      "score": 0.6016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4545,
+        "acoustic_dev": 0.981,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "减少农药花费的使用量。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 91.84,
+      "end": 96.063,
+      "label": "mandarin",
+      "text": "为白鹭等野生动物营造了良好的生存空间。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为白鹭等野生动物营造了良好的生存空间。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 96.063,
+      "end": 99.365,
+      "label": "guilin",
+      "text": "鹭伴春耕不仅是美丽的生态景观，",
+      "score": 0.6853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.915,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "伴/傍",
+        "lexicon": "",
+        "text_free": "路傍春耕，不仅是美丽的生态景观。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 99.365,
+      "end": 104.141,
+      "label": "mandarin",
+      "text": "也是生态效益与经济效益协同发展的生动体现。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是生态效益与经济效益协同发展的生动体现。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 104.141,
+      "end": 107.861,
+      "label": "mandarin",
+      "text": "我们将继续践行生态优先、绿色发展理念，",
+      "score": 0.0119,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0279,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们将继续践行生态优先、绿色发展理念。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 107.861,
+      "end": 111.256,
+      "label": "mandarin",
+      "text": "在保障粮食生产的同时，加强生态保护，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在保障粮食生产的同时，加强生态保护。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 111.56,
+      "end": 116.195,
+      "label": "mandarin",
+      "text": "让致富人与自然和谐共生的美好画卷永远延续下去。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0092,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让这幅人与自然和谐共生的美好画卷永远延续下去。"
+      }
+    }
+  ]
+}

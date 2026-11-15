@@ -1,0 +1,655 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "全州_4万余亩桃李产业直接助农增收3_2亿元.wav",
+  "duration": 141.811,
+  "no_dialect": false,
+  "created_at": "2026-10-25T23:52:42",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.598,
+      "end": 6.403,
+      "label": "mandarin",
+      "text": "眼下，泉州县四万余亩桃李陆续成熟，进入到了采摘期。",
+      "score": 0.0455,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0723,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "眼下泉州县四万余亩桃李树成熟，进入到了采摘期。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.644,
+      "end": 11.714,
+      "label": "uncertain",
+      "text": "最慢子桃的桃李成为了带动群众增收致富的金果子，",
+      "score": 0.4247,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2445,
+        "acoustic_dev": 0.537,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "子/枝",
+        "lexicon": "",
+        "text_free": "最满枝头的桃李，成为了带动群众增收致富的金果子。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.894,
+      "end": 16.429,
+      "label": "mandarin",
+      "text": "将直接为群众带来三点二个亿的经济收入。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将直接为群众带来三点二国亿的经济收入。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.215,
+      "end": 22.762,
+      "label": "mandarin",
+      "text": "在泉州县两河镇露水村的红色果乡桃李产业种植基地，",
+      "score": 0.2135,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1412,
+        "acoustic_dev": 0.219,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在泉州仙两或者卤水城的红色果乡，桃李产业种植基地。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.964,
+      "end": 26.157,
+      "label": "mandarin",
+      "text": "一颗颗圆润饱满的桃子缀满枝头。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0376,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一颗颗圆润饱满的桃子缀满枝头。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.507,
+      "end": 29.167,
+      "label": "mandarin",
+      "text": "当地果农正忙到采果、装果；",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0466,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当地果农正忙到采果、装果。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.167,
+      "end": 33.899,
+      "label": "mandarin",
+      "text": "外地客商则在村里桃李收购点忙到装箱发货。",
+      "score": 0.0722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0193,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "外地客商则在城里头的收购点，忙到装箱发货。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.899,
+      "end": 37.46,
+      "label": "guilin",
+      "text": "今年我种的十五管长势好，全部挂果，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1883,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.533,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年我从的西部广场三号，全部挂过。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.46,
+      "end": 41.015,
+      "label": "uncertain",
+      "text": "品质很好，目前市场收购价每斤四元，",
+      "score": 0.5482,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2906,
+        "acoustic_dev": 0.678,
+        "seg_cer": 0.467,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "市/四",
+        "lexicon": "",
+        "text_free": "品质很好。目前四家修车家，每家四辆。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.226,
+      "end": 48.253,
+      "label": "mandarin",
+      "text": "收入可达十二万多元。近年来，泉州县依托独特的气候、土壤、交通区位等优势，",
+      "score": 0.0295,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0121,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.065,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "收入可达三万多元。近年来，泉州县依托独特的气候、土壤、交通区位等优势。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.488,
+      "end": 53.43,
+      "label": "guilin",
+      "text": "大力发展桃李产业。通过国家桃产业体系国博士联站、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4135,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大力发展套利产业，通过国家套产业体系，规避博时连战。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 53.665,
+      "end": 56.75,
+      "label": "uncertain",
+      "text": "县乡两级科技特派员实地指导，",
+      "score": 0.5233,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3535,
+        "acoustic_dev": 0.871,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现向两级科技特派员实地指导。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 56.981,
+      "end": 59.285,
+      "label": "guilin",
+      "text": "组建专家引才博士团队，",
+      "score": 0.5657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6385,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "组建专家人才博士团队。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.41,
+      "end": 62.349,
+      "label": "mandarin",
+      "text": "建设桃李交易市场等一系列举措，",
+      "score": 0.3211,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.23,
+        "acoustic_dev": 0.492,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "建设套利交易市场等一系列举措。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 62.46,
+      "end": 64.971,
+      "label": "mandarin",
+      "text": "为果农打造一条龙服务，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0215,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为果农打造一条龙服务。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 65.263,
+      "end": 71.184,
+      "label": "mandarin",
+      "text": "破解了桃李产业种植户不懂技术、产量不高、销路不畅等等关键问题。",
+      "score": 0.1323,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.107,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "户/负",
+        "lexicon": "",
+        "text_free": "破解了桃李产业中质负、不懂技术、产量不高、销路不畅等等关键问题。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 71.559,
+      "end": 77.139,
+      "label": "mandarin",
+      "text": "仅泉州县两河镇优质桃李种植面积就达到了一点二万余亩，",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0471,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "仅泉州县两河镇，优质桃的种植面积就达到了一点二万余亩。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 77.281,
+      "end": 79.505,
+      "label": "uncertain",
+      "text": "年产量两万吨以上，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6879,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "年产量两万吨以上。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 79.54,
+      "end": 86.495,
+      "label": "mandarin",
+      "text": "年产值一点六个亿，带动当地农户户均增收一点五万元以上。",
+      "score": 0.0366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0561,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "年产至一点六个亿，带动当地农户平均增收一点五万元以上。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 86.495,
+      "end": 89.108,
+      "label": "mandarin",
+      "text": "在春赏花、夏摘果的同时，",
+      "score": 0.1457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "摘/栽",
+        "lexicon": "",
+        "text_free": "在春赏花、夏栽果的同时。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 89.108,
+      "end": 92.909,
+      "label": "mandarin",
+      "text": "我们将继续做好桃李之乡美丽产业，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们将继续做好桃李之乡美丽产业。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 92.909,
+      "end": 98.42,
+      "label": "mandarin",
+      "text": "实现生态效益、经济效益和社会效益有机统一，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现生态效益、经济效益和社会效益有机统一。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 98.68,
+      "end": 101.553,
+      "label": "mandarin",
+      "text": "带动更多的农户增收致富，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "带动更多的农户增收致富。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 101.553,
+      "end": 103.768,
+      "label": "mandarin",
+      "text": "促进乡村全面振兴。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "促进乡村全面振兴。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 103.768,
+      "end": 107.148,
+      "label": "uncertain",
+      "text": "桃李成熟一枝甜，乡村振兴产业旺。",
+      "score": 0.4786,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3287,
+        "acoustic_dev": 0.795,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桃李成树，一枝田；乡村振兴，产业旺。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 107.31,
+      "end": 111.042,
+      "label": "mandarin",
+      "text": "泉州县在发展桃李产业、拉长产业链的同时，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0673,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "泉州县在发展桃李产业，拉长产业链的同时。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 111.264,
+      "end": 114.5,
+      "label": "mandarin",
+      "text": "探索种植优质桃李品种十余个，",
+      "score": 0.2738,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2193,
+        "acoustic_dev": 0.459,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "探索种植优质桃的品种十余个。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 114.712,
+      "end": 118.524,
+      "label": "uncertain",
+      "text": "形成了桃李增肥的产业发展新格局。",
+      "score": 0.5474,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3118,
+        "acoustic_dev": 0.743,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "增/争",
+        "lexicon": "",
+        "text_free": "形成了桃李争飞的产业发展新格局。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 118.524,
+      "end": 120.942,
+      "label": "mandarin",
+      "text": "近几年，我县引进了富味桃、",
+      "score": 0.264,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1831,
+        "acoustic_dev": 0.348,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近几年，我先引进了苦味桃。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 121.175,
+      "end": 123.48,
+      "label": "uncertain",
+      "text": "春美、黄桃、银嘴桃、",
+      "score": 0.4811,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2187,
+        "acoustic_dev": 0.457,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "银/英",
+        "lexicon": "",
+        "text_free": "春梅、黄桃、英子桃。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 123.542,
+      "end": 127.43,
+      "label": "mandarin",
+      "text": "金秋黄蜜、吉普兰梨等十多个桃李优良品种。",
+      "score": 0.2132,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1034,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "梨/尼",
+        "lexicon": "",
+        "text_free": "金秋黄蜜及布兰尼等十多个桃李优良品种。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 127.475,
+      "end": 131.226,
+      "label": "mandarin",
+      "text": "通过科学管理，这些品种相继挂果上市，",
+      "score": 0.1944,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1737,
+        "acoustic_dev": 0.319,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过科学管理，这些品种相继挂牌上市。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 131.233,
+      "end": 136.858,
+      "label": "mandarin",
+      "text": "经济效益十分可观。目前全县桃李种植面积四点二万亩，",
+      "score": 0.0596,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0203,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经济效益十分可观。目前，全县草里种植面积四点二万余亩。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 136.885,
+      "end": 141.811,
+      "label": "mandarin",
+      "text": "年产量三点六万吨，年产值超过三点二亿元。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "年产量三点六万吨，年产值超过三点二亿元。"
+      }
+    }
+  ]
+}

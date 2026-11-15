@@ -1,0 +1,636 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "杨贞良_勇救溺水学生 彰显英雄本色.wav",
+  "duration": 152.681,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:22:43",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 10.609,
+      "label": "mandarin",
+      "text": "上一期节目啊，我们和大家介绍了第十一个广西见义勇为英雄模范，我们桂林的新疆维吾尔族小伙子拿丝尔托合提的事迹。",
+      "score": 0.081,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0743,
+        "acoustic_dev": 0.121,
+        "seg_cer": 0.039,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "上一期节目啊，我们和大家介绍了第十一个广西见义勇为英雄模范——我们桂林的新疆维吾尔族小伙子纳斯尔托合提的事迹。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 10.928,
+      "end": 19.726,
+      "label": "mandarin",
+      "text": "在这一届见义勇为的英雄模范名单当中啊，我们桂林资源县的一位建筑工人杨振良也是光荣上榜。",
+      "score": 0.0111,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.024,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在这一届见义勇为的英雄模范名单当中啊，我们桂林资源县的一位建筑工人杨振亮也是光荣上榜。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 20.045,
+      "end": 24.946,
+      "label": "mandarin",
+      "text": "这位年过半百的汉子，用三次纵身入水的壮举，",
+      "score": 0.1241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0056,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "纵/终",
+        "lexicon": "",
+        "text_free": "这位年过半百的汉子，用三次终身入水的壮举。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 25.053,
+      "end": 29.18,
+      "label": "mandarin",
+      "text": "在珠江激流当中谱写了一曲生命赞歌。",
+      "score": 0.0913,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.074,
+        "acoustic_dev": 0.121,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在直江激流当中，谱写了一曲生命赞歌。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 29.356,
+      "end": 36.909,
+      "label": "mandarin",
+      "text": "二零二二年六月二十七号下午，正在资源县滨江长廊散步的五十一岁建筑工人杨振良，",
+      "score": 0.1133,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "振/正",
+        "lexicon": "",
+        "text_free": "二零二二年六月二十七号下午，正在紫阳县滨江长廊散步的五十一岁建筑工营杨正良。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 37.149,
+      "end": 39.669,
+      "label": "mandarin",
+      "text": "突然间听到救命的呼喊声，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0208,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "突然间听到救命的呼喊声。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 39.916,
+      "end": 44.619,
+      "label": "mandarin",
+      "text": "他马上循声奔去，就看到三个学生在河水里挣扎，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他马上循声奔去，就看到三个学生在河水里头挣扎。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 44.875,
+      "end": 47.803,
+      "label": "guilin",
+      "text": "其中一位勉强靠近岸边呼救，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.2298,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中一个人勉强靠近岸边，呼救。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 47.979,
+      "end": 51.288,
+      "label": "guilin",
+      "text": "另外两个已经被湍急的河水冲远，",
+      "score": 0.5527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8271,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "另外两个人已经被湍急的河水冲远。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 51.288,
+      "end": 55.263,
+      "label": "guilin",
+      "text": "正在下沉。一下子就出去了，他们身体不行，",
+      "score": 0.5987,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4369,
+        "acoustic_dev": 0.945,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "正在下沉，一下子就出去了。那么首先不行。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 56.164,
+      "end": 58.36,
+      "label": "mandarin",
+      "text": "在里面挣扎不出来了，今天",
+      "score": 0.36,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1902,
+        "acoustic_dev": 0.385,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在里面已经打不出来了。我看见。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 59.32,
+      "end": 65.099,
+      "label": "guilin",
+      "text": "就现在就看完了。事发突演，杨振良衣服都没脱就跳到河流去，",
+      "score": 0.705,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1035,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.44,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.1,
+        "phon_examples": "振/正",
+        "lexicon": "",
+        "text_free": "这个家就就他们了。事发突然，杨正亮衣服都没脱，就跳到火炉去。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 65.099,
+      "end": 67.912,
+      "label": "guilin",
+      "text": "他游向其中一名溺水的巴爷仔，",
+      "score": 0.5903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4674,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他又向其中一名溺水的八爷仔。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 68.189,
+      "end": 71.63,
+      "label": "mandarin",
+      "text": "但是被警方的巴爷仔抱到一起下沉。",
+      "score": 0.1384,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0348,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是被警方的办案者报到，一起下沉。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 71.904,
+      "end": 78.649,
+      "label": "mandarin",
+      "text": "危急之中，他镇定安抚，并扯到巴爷仔划水，最后把巴爷仔救回了岸边。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "危机之中，他镇定安抚，并扯到八爷仔发水，最后把八爷仔救回了岸边。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 78.949,
+      "end": 81.38,
+      "label": "uncertain",
+      "text": "这个时候，他已经是气喘吁吁，",
+      "score": 0.4783,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3615,
+        "acoustic_dev": 0.773,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个书，他已经是气喘吁吁。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 81.593,
+      "end": 85.374,
+      "label": "mandarin",
+      "text": "但是看到还在远处挣扎的另外一个小朋友，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是看到还在远处挣扎的另外一个小朋友。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 85.513,
+      "end": 89.221,
+      "label": "mandarin",
+      "text": "他又转身入水，平立把他救起。",
+      "score": 0.201,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0419,
+        "acoustic_dev": 0.048,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "平/拼",
+        "lexicon": "",
+        "text_free": "他又转身入水，拼力把他救起。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 89.555,
+      "end": 92.882,
+      "label": "mandarin",
+      "text": "这个时候，资源县公安民警也是赶到了现场，",
+      "score": 0.1909,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0474,
+        "acoustic_dev": 0.06,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "县/乡",
+        "lexicon": "",
+        "text_free": "这个时候，子园乡公安民警也是赶到了现场。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 92.882,
+      "end": 96.378,
+      "label": "mandarin",
+      "text": "合力把获救的巴爷仔拖上岸边。",
+      "score": 0.1734,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0486,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "合理把河救的，把要仔拖上岸边。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 96.378,
+      "end": 101.388,
+      "label": "mandarin",
+      "text": "接到群众报警称，在资源县城北江心岛有小孩子溺水，",
+      "score": 0.0221,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0396,
+        "acoustic_dev": 0.043,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接到群众报警称，在资源县城北江心岛，有小孩子溺水。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 101.388,
+      "end": 104.228,
+      "label": "mandarin",
+      "text": "于是我们立即携带救生装备出警。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "于是我们立即携带救生装备出警。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 104.231,
+      "end": 108.85,
+      "label": "mandarin",
+      "text": "赶到现场时，发现有一名热心群众正在河里救援，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赶到现场时，发现有一名热心群众正在河里救援。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 108.943,
+      "end": 115.422,
+      "label": "mandarin",
+      "text": "并且成功救生了一名小孩。我们立即和该名群众共同投入到后续救援工作。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并且成功救生了一名小孩，我们立即和该名群众共同投入到后续救援工作。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 115.422,
+      "end": 120.881,
+      "label": "mandarin",
+      "text": "顺到杨振良所指的方向，民警和体力已经大量透支的他，",
+      "score": 0.2102,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0777,
+        "acoustic_dev": 0.129,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "支/资",
+        "lexicon": "",
+        "text_free": "顺着杨振良所指的方向，民警和体力已经大量投资的他。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 120.881,
+      "end": 125.707,
+      "label": "mandarin",
+      "text": "一起跳入水中，准备再次营救第三个巴爷仔。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一起跳入水中，准备再次营救第三个八爷仔。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 125.905,
+      "end": 131.08,
+      "label": "mandarin",
+      "text": "当时根本没想那么多，看见几个孩子在河里挣扎，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当时根本没想那么多，看见几个孩子在河里挣扎。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 131.341,
+      "end": 134.08,
+      "label": "mandarin",
+      "text": "就想一定要把他们救上来，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就想一定要把他们救上来。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 134.543,
+      "end": 137.263,
+      "label": "mandarin",
+      "text": "没有时间考虑那么多",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "没有时间考虑那么多。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 137.479,
+      "end": 142.411,
+      "label": "mandarin",
+      "text": "危险。杨振良用平凡之举铸就了不平凡的壮举，",
+      "score": 0.057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0691,
+        "acoustic_dev": 0.11,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "危险。杨振良用平凡之举铸就了不平凡的壮举。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 142.559,
+      "end": 145.855,
+      "label": "mandarin",
+      "text": "用朴实的行动诠释了人间大爱，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用朴实的行动诠释了人间大爱。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 146.034,
+      "end": 148.332,
+      "label": "mandarin",
+      "text": "充分体现了社会正能量，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "充分体现了社会正能量。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 148.569,
+      "end": 152.681,
+      "label": "mandarin",
+      "text": "也对见义勇为精神进行了生动诠释。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也对见义勇为精神进行了生动诠释。"
+      }
+    }
+  ]
+}

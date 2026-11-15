@@ -1,0 +1,864 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "龙胜_山水_醉_游人 民俗_火_出圈.wav",
+  "duration": 202.488,
+  "no_dialect": false,
+  "created_at": "2026-10-26T01:13:07",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.023,
+      "label": "mandarin",
+      "text": "五一假期期间，龙胜各族自治县凭借独特的山水风光、",
+      "score": 0.0018,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0381,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "五一假期期间，龙胜各族自治县凭借独特的山水风光。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.023,
+      "end": 9.115,
+      "label": "guilin",
+      "text": "多彩的民族文化和蓬勃发展的乡村旅游，",
+      "score": 0.6276,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4379,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "国产力、民族文化，或蓬勃发展的乡村旅游。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.28,
+      "end": 11.777,
+      "label": "mandarin",
+      "text": "迎来了新一轮旅游业潮。",
+      "score": 0.0513,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0469,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "迎来了新一轮旅游热潮。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.934,
+      "end": 18.01,
+      "label": "mandarin",
+      "text": "全县各景区乡镇通过特色活动与生态资源深度融合，",
+      "score": 0.0239,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0893,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全县各景区乡镇通过特色活动与生态资源深度融合。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.145,
+      "end": 23.732,
+      "label": "mandarin",
+      "text": "实现了山水游、文化游、乡村旅游的丰富旅游体验。",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现了山水游、文化游、乡村游的丰富旅游体验。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.816,
+      "end": 26.915,
+      "label": "guilin",
+      "text": "五月一号，在龙脊镇芳罗古场，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5181,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "五月一号，在龙吉镇放锣鼓舞场。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.128,
+      "end": 32.455,
+      "label": "mandarin",
+      "text": "被誉为“天下第一长发村”的红瑶阿姐们以歌舞为媒，",
+      "score": 0.1712,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.229,
+        "acoustic_dev": 0.162,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "被誉为“天下第一长发城”的红药阿姐们，以国舞为美。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.725,
+      "end": 37.789,
+      "label": "mandarin",
+      "text": "将独特的长发文化和精美的瑶族服饰搬上舞台，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0127,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将独特的藏发文化和精美的瑶族服饰搬上舞台。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.124,
+      "end": 42.953,
+      "label": "mandarin",
+      "text": "用优美的舞姿、甜美的歌声向游客讲述红瑶的故事，",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0184,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用优美的舞姿、甜美的歌声，向游客讲述着红药的故事。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 43.357,
+      "end": 47.128,
+      "label": "mandarin",
+      "text": "将红瑶风俗打造成了沉浸式体验，",
+      "score": 0.2879,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1666,
+        "acoustic_dev": 0.11,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "俗/术 风/粉",
+        "lexicon": "",
+        "text_free": "更将红腰粉术打造成了沉浸式体验。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.334,
+      "end": 50.033,
+      "label": "mandarin",
+      "text": "游客们能够亲身参与其中。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "游客们能够亲身参与其中。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.45,
+      "end": 55.774,
+      "label": "mandarin",
+      "text": "五月二号到三号，龙脊古村寨举办了一连一多的开耕节，",
+      "score": 0.1926,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1491,
+        "acoustic_dev": 0.096,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "连/年",
+        "lexicon": "",
+        "text_free": "五月二号到三号，龙脊古城寨举办了一年一度的开耕节。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 55.805,
+      "end": 58.745,
+      "label": "mandarin",
+      "text": "当地村民在田塍梯田上开展",
+      "score": 0.1598,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2277,
+        "acoustic_dev": 0.161,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当地村民在前城梯田上开展。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.081,
+      "end": 63.584,
+      "label": "uncertain",
+      "text": "挖根、挖田、看天机、扶天机、除草等等传统农事活动，",
+      "score": 0.41,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6133,
+        "acoustic_dev": 0.481,
+        "seg_cer": 0.35,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "挖田、看田鸡、孵田鸡、除草等等，传统农事活动。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.82,
+      "end": 67.106,
+      "label": "mandarin",
+      "text": "呈现出一幅立体动人的农耕图景。",
+      "score": 0.198,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0297,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "耕/根 农/龙",
+        "lexicon": "",
+        "text_free": "呈现出一幅立体动映的龙根图景。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 67.546,
+      "end": 70.588,
+      "label": "guilin",
+      "text": "随后的梯田沐浴、爬梯田活动、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7141,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.75,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "菜后里，体天摸鱼，怕体天活动。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 70.588,
+      "end": 72.625,
+      "label": "guilin",
+      "text": "抓凤鸡、采药活动，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.8201,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.571,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "抓风机车压活动。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 72.808,
+      "end": 76.837,
+      "label": "mandarin",
+      "text": "更是让游客与村民一同沉浸在繁落的氛围中。",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0291,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是让游客与村民一同沉浸在欢乐的氛围中。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 77.272,
+      "end": 82.592,
+      "label": "mandarin",
+      "text": "当夜幕降临，沿着梯田轮廓布置的灯光装置逐渐亮起，",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当夜幕降临，沿着体天轮廓布置的灯光装置逐渐亮起。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 82.916,
+      "end": 87.677,
+      "label": "mandarin",
+      "text": "灯海与层层叠叠的梯田构成震撼视觉盛宴，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "灯海与层层叠叠的梯田构成震撼视觉盛宴。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 87.898,
+      "end": 91.206,
+      "label": "uncertain",
+      "text": "展现出与白天极然不同的魅力。",
+      "score": 0.4266,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9412,
+        "acoustic_dev": 0.753,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "展现出与白天截然不同的魅力。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 91.94,
+      "end": 94.356,
+      "label": "mandarin",
+      "text": "我来到龙脊梯田已经三天了，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我来到龙脊梯田已经三天了。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 94.392,
+      "end": 98.76,
+      "label": "mandarin",
+      "text": "这里非常适合拍摄，特别是日出和日落这样的大片。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这里非常适合拍摄，特别是日出和日落这样的大片。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 99.274,
+      "end": 101.658,
+      "label": "mandarin",
+      "text": "这里是一个非常神奇的地方，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这里是一个非常神奇的地方。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 101.658,
+      "end": 105.227,
+      "label": "mandarin",
+      "text": "我们摄影师都非常喜欢这里的光线和色彩，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们摄影师都非常喜欢这里的光线和色彩。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 105.392,
+      "end": 110.6,
+      "label": "mandarin",
+      "text": "这里非常值得游览。来到这边之后，给我的第一个印象就是啊，",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这里非常值得游览。来到这边之后，给我的第一个印象就是：呃。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 110.87,
+      "end": 115.325,
+      "label": "mandarin",
+      "text": "环境非常的优美，然后民族特色非常的鲜明，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "环境非常的优美，然后民族特色非常的鲜明。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 115.521,
+      "end": 123.499,
+      "label": "mandarin",
+      "text": "然后上午体验了啊它的开耕节的一个耕田的一个活动，也对于我来说的话就是啊非常的新颖，",
+      "score": 0.0117,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0299,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.026,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后上午体验了啊，他的开耕节的一个耕田的一个活动，也对于我来说的话，就是啊，非常的新颖。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 123.59,
+      "end": 134.968,
+      "label": "mandarin",
+      "text": "非常的开心。这次在这里住的体验也比较舒服，客栈都是落地窗，然后在客栈里就能看到那边去那边一点的景色，然后整体就是体验感非常的好，",
+      "score": 0.0077,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.017,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非常的开心，这次在这里住的体验也比较舒服。客栈都是落地窗，然后在客栈里就能看到那边偏那边一点的景色，然后整体就是体验感非常的好。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 135.057,
+      "end": 140.139,
+      "label": "mandarin",
+      "text": "所以就是说啊，住在这个地方，然后以后也推荐我的朋友他们来这里玩。",
+      "score": 0.0473,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0266,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以就是说，呃，种草这个地方，然后以后也推荐我的朋友他们来这里玩。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 140.26,
+      "end": 144.468,
+      "label": "mandarin",
+      "text": "龙胜温泉景区则成为休闲养生的热门选择，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙胜温泉景区则成为休闲养生的热门选择。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 144.711,
+      "end": 148.893,
+      "label": "mandarin",
+      "text": "游客在青山怀抱中享受温泉养生之乐，",
+      "score": 0.0614,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.11,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "游客在青山怀抱中享受温泉养生之路。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 149.162,
+      "end": 151.914,
+      "label": "mandarin",
+      "text": "度过惬意的假日时光。",
+      "score": 0.198,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.122,
+        "acoustic_dev": 0.073,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "读过惬意里加以时光。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 152.246,
+      "end": 155.43,
+      "label": "guilin",
+      "text": "大家下午好，欢迎来放松一下，啊，到这来玩，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3881,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.647,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "带着小孩，家里的可爱放松一下，啊，到这温泉。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 155.56,
+      "end": 158.35,
+      "label": "mandarin",
+      "text": "啊，这里挺好，山也很美，",
+      "score": 0.0674,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1901,
+        "acoustic_dev": 0.13,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，这里挺好，山也很美。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 158.448,
+      "end": 162.913,
+      "label": "mandarin",
+      "text": "水也很清。此外，龙胜的乡村旅游热度也在不断攀升，",
+      "score": 0.1525,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2359,
+        "acoustic_dev": 0.168,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以很轻。此外，龙胜的乡村旅游热度也在不断攀升。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 163.115,
+      "end": 170.285,
+      "label": "mandarin",
+      "text": "在平乐镇、鹿漫村、罗江镇、江口村等，则是凭着独特的亲子度假体验，",
+      "score": 0.2184,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1538,
+        "acoustic_dev": 0.099,
+        "seg_cer": 0.296,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "则/这",
+        "lexicon": "",
+        "text_free": "在朴里镇、路漫城、罗江镇、江口城等，这是平足独特的亲子度假体验。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 170.285,
+      "end": 174.538,
+      "label": "mandarin",
+      "text": "成为了周边地区家庭游客的假期首选地，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为了周边地区家庭游客的假期首选地。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 174.656,
+      "end": 179.18,
+      "label": "mandarin",
+      "text": "露营、烧烤、蒙眼抓鸡、篝火晚会等等活动内容，",
+      "score": 0.052,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0367,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "露营烧烤、猛烟抓鸡、篝火晚会等等活动内容。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 179.18,
+      "end": 181.72,
+      "label": "mandarin",
+      "text": "给假期带来满满的松弛感。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给假期带来满满的松弛感。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 181.963,
+      "end": 186.965,
+      "label": "mandarin",
+      "text": "根据统计，五一期间，龙胜接待游客十七点零三万人次，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0197,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据统计，五一期间，龙胜接待游客十七点零三万人次。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 187.151,
+      "end": 192.693,
+      "label": "mandarin",
+      "text": "同比增长百分之七点四，实现游客总消费一点五二个亿，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同比增长百分之七点四，实现游客总消费一点五二个亿。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 192.866,
+      "end": 195.293,
+      "label": "mandarin",
+      "text": "同比增长了百分之六点六一。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0153,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同比增长了百分之六点六一。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 195.666,
+      "end": 198.761,
+      "label": "mandarin",
+      "text": "各大景区、乡村旅游点人气爆棚，",
+      "score": 0.2465,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6052,
+        "acoustic_dev": 0.474,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "各大景区、乡村旅游点人气爆棚。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 198.965,
+      "end": 202.488,
+      "label": "mandarin",
+      "text": "展现出全域旅游发展的强劲活力。",
+      "score": 0.0012,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0367,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "展现出全域旅游发展的强劲活力。"
+      }
+    }
+  ]
+}

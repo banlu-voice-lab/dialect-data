@@ -1,0 +1,598 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_五彩龙岩 缤纷之旅___福建龙岩到我市开展旅游推介活动.wav",
+  "duration": 145.959,
+  "no_dialect": false,
+  "created_at": "2026-10-25T23:49:42",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.433,
+      "end": 2.879,
+      "label": "guilin",
+      "text": "再过两天就是五一节了不，",
+      "score": 0.6447,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.2375,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "再过两天啊，就是五一节，老婆。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.196,
+      "end": 7.407,
+      "label": "guilin",
+      "text": "去哪开好耍嘞？哎，辣椒妹先帮你打个前站。",
+      "score": 0.5552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3131,
+        "acoustic_dev": 0.559,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "站/账",
+        "lexicon": "耍 嘞",
+        "text_free": "去哪开？好耍的！哎，辣椒没先帮你打过欠账。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.638,
+      "end": 10.27,
+      "label": "mandarin",
+      "text": "今年的五一假期啊，有五天，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年的五一假期啊，有五天。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.27,
+      "end": 12.7,
+      "label": "mandarin",
+      "text": "旅游们又可以好好的去嗨一下子了。",
+      "score": 0.101,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0107,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "旅游们又可以好好嘞去嗨一下子啦！"
+      }
+    },
+    {
+      "id": 5,
+      "start": 13.042,
+      "end": 25.239,
+      "label": "mandarin",
+      "text": "前几天，五彩龙安缤纷之旅二零二五福建龙安文旅重点客源市场暨红军长征沿线城市宣传推广活动在我们桂林的东西巷举办。",
+      "score": 0.0345,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0168,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.075,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天，五彩龙岸缤纷之旅二零二五福建龙岸文旅重点客源市场及红军长征沿线城市宣传推广活动，在我们桂林的东溪巷举办。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.143,
+      "end": 30.957,
+      "label": "mandarin",
+      "text": "本次旅游推介活动，既是对长征精神的有力传承与弘扬，",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本次旅游推介活动，即是对长征精神的有力传承与弘扬。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.186,
+      "end": 37.403,
+      "label": "mandarin",
+      "text": "同时也进一步深化了崇州长征路红色旅游联盟的建设发展。",
+      "score": 0.1366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "州/走",
+        "lexicon": "",
+        "text_free": "同时也进一步深化了重走长征路红色旅游联盟的建设发展。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.63,
+      "end": 41.262,
+      "label": "mandarin",
+      "text": "彰显龙安市携手桂林等兄弟城市，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0116,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "彰显龙安市携手桂林等兄弟城市。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.561,
+      "end": 45.9,
+      "label": "mandarin",
+      "text": "共筑红色旅游经济繁荣向好的美好愿景。",
+      "score": 0.0354,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0261,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "构筑红色旅游经济繁荣向好的美好愿景。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 46.361,
+      "end": 48.977,
+      "label": "mandarin",
+      "text": "活动以国为媒，以身传情，",
+      "score": 0.0184,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0362,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动以国为媒，以身传情。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 49.2,
+      "end": 60.036,
+      "label": "mandarin",
+      "text": "通过三国对唱的形式，改编广西经典名曲《山水共韵》，红梅相连和红梅共香三国活动篇章陆续开展。",
+      "score": 0.2268,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.19,
+        "acoustic_dev": 0.326,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过三国对唱的形式，改变广西经典名曲《山水共韵》《红墨相连》和《风味共享》三国活动篇章，陆续开展。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 60.471,
+      "end": 63.092,
+      "label": "mandarin",
+      "text": "串联起龙安文旅产品资源、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0128,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "串联起龙安文旅产品资源。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 63.214,
+      "end": 65.635,
+      "label": "mandarin",
+      "text": "红色文化以及特色美食，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0131,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "红色文化以及特色美食。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 66.051,
+      "end": 73.103,
+      "label": "mandarin",
+      "text": "两地歌手在切磋对唱当中带来精彩的视听盛宴和互动体验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "两地歌手在切磋对唱当中，带来精彩的视听盛宴和互动体验。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 73.583,
+      "end": 76.931,
+      "label": "guilin",
+      "text": "推介现场，龙安传统非遗木戏、",
+      "score": 0.8124,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9261,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "睇睇现场，龙岩传统非遗木偶戏。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 76.931,
+      "end": 83.032,
+      "label": "mandarin",
+      "text": "非遗舞蹈九连环、长汀非遗纸刻龙灯等等特色文化项目，",
+      "score": 0.3038,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.182,
+        "acoustic_dev": 0.311,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "纸/紫",
+        "lexicon": "",
+        "text_free": "非遗舞蹈、酒连饭、长汀非遗紫客龙灯等等特色文化项目。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 83.194,
+      "end": 86.935,
+      "label": "mandarin",
+      "text": "也吸引了众多市民游客驻足观看互动，",
+      "score": 0.0396,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0287,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是吸引了众多市民游客驻足观看互动。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 87.148,
+      "end": 90.673,
+      "label": "guilin",
+      "text": "共同感受龙安文旅的独特魅力。",
+      "score": 0.7655,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5462,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.231,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同坚守龙岩文旅的独特魅力。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 91.204,
+      "end": 96.132,
+      "label": "mandarin",
+      "text": "除了精彩表演推介，现场还打造了长征文化打卡点、",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "除了精彩表演推介，现场还打造了常州文化打卡点。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 96.132,
+      "end": 101.149,
+      "label": "mandarin",
+      "text": "龙安文旅资源摄影展、龙安非遗文创市集等区域，",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0074,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙安文旅资源摄影展、龙安非遗文创事迹等区域。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 101.33,
+      "end": 105.402,
+      "label": "mandarin",
+      "text": "让桂林市民及游客感受客家人民的热情。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让桂林市民及游客感受客家人民的热情。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 105.7,
+      "end": 110.243,
+      "label": "mandarin",
+      "text": "活动还推介定制规划，穿越山海客家探秘、",
+      "score": 0.2145,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2083,
+        "acoustic_dev": 0.361,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动是推介定制规划，穿越山海，客家探秘。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 110.505,
+      "end": 113.223,
+      "label": "guilin",
+      "text": "广龙情深、红色传承、",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2775,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "深/声 情/琴",
+        "lexicon": "",
+        "text_free": "广隆琴声，红色传承。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 113.526,
+      "end": 117.405,
+      "label": "mandarin",
+      "text": "古韵汀州、最美漓江三大文旅线路，",
+      "score": 0.3681,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3253,
+        "acoustic_dev": 0.582,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "古韵亭州，最美丽江三大文旅线路。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 117.662,
+      "end": 121.716,
+      "label": "mandarin",
+      "text": "串联龙安、桂林、广州和厦门四地，",
+      "score": 0.0086,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0262,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "串联龙安、桂林、广州和厦门四地。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 122.157,
+      "end": 125.801,
+      "label": "mandarin",
+      "text": "整合线上线下资源，共同发力推广，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0174,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "整合线上线下资源，共同发力推广。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 125.986,
+      "end": 128.429,
+      "label": "mandarin",
+      "text": "吸引更多游客到福建旅游。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引更多游客到福建旅游。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 128.7,
+      "end": 133.966,
+      "label": "mandarin",
+      "text": "龙安市有关人士表示，未来还将与桂林、家乡沟通协作，",
+      "score": 0.3264,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3071,
+        "acoustic_dev": 0.548,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙安市有关人士表示：“未来还将与桂林加强沟通协作。”"
+      }
+    },
+    {
+      "id": 29,
+      "start": 134.066,
+      "end": 138.952,
+      "label": "mandarin",
+      "text": "奋力谱写红军长征沿线城市文旅新篇章，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0136,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "奋力谱写红军长征沿线城市文旅新篇章。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 139.3,
+      "end": 141.939,
+      "label": "mandarin",
+      "text": "共同探索文旅产业发展新路径，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同探索文旅产业发展新路径。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 142.117,
+      "end": 145.959,
+      "label": "mandarin",
+      "text": "共同绘就闽桂文旅协作新蓝图。",
+      "score": 0.2456,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0198,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "新/行 闽/名",
+        "lexicon": "",
+        "text_free": "共同费就名贵文旅写作《行兰图》。"
+      }
+    }
+  ]
+}

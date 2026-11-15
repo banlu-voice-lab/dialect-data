@@ -1,0 +1,693 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "聚焦高考过后心理调整与志愿规划 专家为考生及家长排忧解虑.wav",
+  "duration": 167.078,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:51:00",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.446,
+      "label": "mandarin",
+      "text": "高考结束了十多天，现在啊是等到成绩公布，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0159,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高考结束了十多天，现在啊是等到成绩公布。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.524,
+      "end": 8.26,
+      "label": "mandarin",
+      "text": "考生们呢也是进入到了一个心理缓冲期。",
+      "score": 0.058,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0593,
+        "acoustic_dev": 0.06,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "考生们呢，也是进入到了一个心理反冲期。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.56,
+      "end": 15.57,
+      "label": "mandarin",
+      "text": "关于志愿填报以及对未来的规划等等内容逐渐就成为了考生和家长们关心的问题。",
+      "score": 0.1261,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.057,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "志/资",
+        "lexicon": "",
+        "text_free": "关于资源填报以及对未来的规划等等内容，逐渐就成为了考生和家长们关心的问题。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.979,
+      "end": 19.115,
+      "label": "guilin",
+      "text": "前几天一场聚焦高考后高压、",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3368,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天，一场聚焦高考后改革。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.115,
+      "end": 25.966,
+      "label": "mandarin",
+      "text": "志愿填报心态调整以及大学适应的这个公益讲座在我们桂林举行了。",
+      "score": 0.1873,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0514,
+        "acoustic_dev": 0.047,
+        "seg_cer": 0.138,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "心/形 志/自",
+        "lexicon": "",
+        "text_free": "自愿填报形态调整以及大学适应的这个公益讲座，在嗯桂林举行了。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.191,
+      "end": 31.879,
+      "label": "mandarin",
+      "text": "行业专家现场指导，希望对考生和家长们有所启发和帮助。",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0082,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "行业专家现场指导，希望对考生和家长们有所启发或帮助。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.879,
+      "end": 36.988,
+      "label": "mandarin",
+      "text": "调查显示，高考结束以后，有一部分学生一直闷在屋里头，",
+      "score": 0.095,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0639,
+        "acoustic_dev": 0.067,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "屋里",
+        "text_free": "调查显示，高考结束以后，有一部分学生一直是闷在屋里头。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.299,
+      "end": 39.84,
+      "label": "mandarin",
+      "text": "特别是在查分倒计时的那几天，",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "特别是在茶分倒计时的那几天。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.84,
+      "end": 43.525,
+      "label": "mandarin",
+      "text": "更是焦虑，总是担心考差了啷子搞。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0227,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "总是焦虑，总是担心考差了，啷子搞？"
+      }
+    },
+    {
+      "id": 10,
+      "start": 43.849,
+      "end": 47.25,
+      "label": "mandarin",
+      "text": "做家长的心理头着急，但是又晓不得啷子劝。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "做家长的心里头着急，但是又晓不得啷子劝。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.306,
+      "end": 54.732,
+      "label": "mandarin",
+      "text": "记者在活动现场了解到，超七成受访家长表示，半夜出现了考后情绪低谷，",
+      "score": 0.2104,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1026,
+        "acoustic_dev": 0.133,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "成/曾",
+        "lexicon": "",
+        "text_free": "记者在活动现场了解到，早期曾受访家长表示，八月者出现了考后情绪低谷。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 55.009,
+      "end": 57.255,
+      "label": "mandarin",
+      "text": "具体表现为情绪波动大，",
+      "score": 0.0097,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0348,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "具体表现为情绪波动大。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.403,
+      "end": 64.891,
+      "label": "mandarin",
+      "text": "对于未来感到迷茫。部分考生甚至因担心专业的选择踩坑而拒绝沟通。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于未来感到迷茫，部分考生甚至因担心专业的选择踩坑而拒绝沟通。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 64.891,
+      "end": 67.649,
+      "label": "mandarin",
+      "text": "咱们很多孩子陷入的一些迷茫，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "咱们很多孩子陷入的一些迷茫。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 67.649,
+      "end": 70.924,
+      "label": "mandarin",
+      "text": "就在于第一，啊，方向不明，",
+      "score": 0.3317,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3505,
+        "acoustic_dev": 0.55,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就在于第一，呃，方向不明。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 71.636,
+      "end": 74.853,
+      "label": "guilin",
+      "text": "啊，不了解自己的兴趣爱好是什么，",
+      "score": 0.5527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3125,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，不了解自己的兴趣爱好是什么。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 74.853,
+      "end": 78.451,
+      "label": "mandarin",
+      "text": "未来的就业发展方向是什么。",
+      "score": 0.2296,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2861,
+        "acoustic_dev": 0.442,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "未来的就业发展方向是什么？"
+      }
+    },
+    {
+      "id": 18,
+      "start": 78.525,
+      "end": 84.42,
+      "label": "mandarin",
+      "text": "专家提示，高考完了一后啊，其实不是一个结束，而是一个新的开始。",
+      "score": 0.0179,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0249,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "专家提示：高考完了以后啊，其实不是一个结束，而是一个新的开始。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 84.697,
+      "end": 90.315,
+      "label": "mandarin",
+      "text": "学生从纯粹的基础文化知识转到专业知识的学习，",
+      "score": 0.2289,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2604,
+        "acoustic_dev": 0.398,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "学生从纯粹的基础文化知识，转变到专业知识的学习。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 90.612,
+      "end": 94.722,
+      "label": "mandarin",
+      "text": "同时也是第一次有时间审视自己的兴趣爱好。",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "唐也是第一次有时间审视自己的兴趣爱好。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 94.933,
+      "end": 97.103,
+      "label": "mandarin",
+      "text": "这个心态的调整非常重要。",
+      "score": 0.1416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "心/形",
+        "lexicon": "",
+        "text_free": "这个形态的调整非常重要。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 97.451,
+      "end": 99.878,
+      "label": "mandarin",
+      "text": "不管是被哪一所学校录取，",
+      "score": 0.0192,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0457,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不管是被哪一所学校录取。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 99.878,
+      "end": 102.499,
+      "label": "mandarin",
+      "text": "人生规划要提前进行。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "营生规划要提前进行。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 102.499,
+      "end": 107.225,
+      "label": "uncertain",
+      "text": "啊，首先，还是大家要继续保持一颗积极向上的心态，",
+      "score": 0.4715,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5127,
+        "acoustic_dev": 0.823,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，首先还是让大家要继续保持一颗积极向上的心态。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 107.406,
+      "end": 116.513,
+      "label": "mandarin",
+      "text": "要去为我们进入到一个新的一个学期，去去去做好这样的一些啊心理的准备和目标的设定。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要去为我们进入到一个新的一个学期，去借去做好这样的一些呃心理的准备和目标的设定。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 116.636,
+      "end": 119.454,
+      "label": "mandarin",
+      "text": "在大学里边，我们可以有更多的",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在大学里边，我们可以有更多的。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 119.718,
+      "end": 122.12,
+      "label": "uncertain",
+      "text": "呃更多的目标和更多的期待，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6454,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，更多的目标和更多的期待。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 122.407,
+      "end": 125.579,
+      "label": "mandarin",
+      "text": "也可以做更多的自己想做的事情，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也可以做更多的自己想做的事情。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 125.579,
+      "end": 131.797,
+      "label": "mandarin",
+      "text": "成为更好的自己，为自己己为自己的将来做好更好的一个充分的准备。",
+      "score": 0.0158,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为更好的自己，为自己的为自己的将来做好更好的一个充分的准备。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 131.9,
+      "end": 137.766,
+      "label": "mandarin",
+      "text": "除了心态的调整，专家提醒各位家长和学生，选专业不是押宝，",
+      "score": 0.1017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0773,
+        "acoustic_dev": 0.09,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "除了心态的调整，专家提醒各位家长或学生：选专业不是哑报。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 137.951,
+      "end": 140.422,
+      "label": "mandarin",
+      "text": "而是一场知己知彼的规划。",
+      "score": 0.2746,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0594,
+        "acoustic_dev": 0.06,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "知/自 知/自",
+        "lexicon": "",
+        "text_free": "而是一场自欺自比的诡法。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 140.79,
+      "end": 148.307,
+      "label": "mandarin",
+      "text": "考生可以从兴趣、适配度、学科优势、行业趋势三个维度构建选专业模型，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "考生可以从兴趣适配度、学科优势、行业趋势三个维度构建选专业模型。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 148.535,
+      "end": 152.676,
+      "label": "mandarin",
+      "text": "眼光放长远，以二十年的发展目标来参考。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "眼光放长远，以二十年的发展目标来参考。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 153.09,
+      "end": 158.478,
+      "label": "mandarin",
+      "text": "在到六月下旬国的高考成绩陆续公布，考生们更加要树立信心，",
+      "score": 0.198,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1897,
+        "acoustic_dev": 0.279,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吹到六月下旬，各地高考成绩陆续公布，考生们更加要树立信心。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 158.853,
+      "end": 162.597,
+      "label": "guilin",
+      "text": "相信高考以及志愿填报不是终点，",
+      "score": 0.5527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7229,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "相信高考以及志愿填报不是重点。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 162.736,
+      "end": 167.078,
+      "label": "mandarin",
+      "text": "而是人生规划能力的首次实战考验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而是人生规划能力的首次实战考验。"
+      }
+    }
+  ]
+}

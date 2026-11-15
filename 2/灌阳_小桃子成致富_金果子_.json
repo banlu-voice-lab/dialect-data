@@ -1,0 +1,788 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "灌阳_小桃子成致富_金果子_.wav",
+  "duration": 155.747,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:41:13",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.005,
+      "label": "mandarin",
+      "text": "在关阳县文史镇岳岭村桃园，",
+      "score": 0.2949,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1786,
+        "acoustic_dev": 0.228,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "史/寺",
+        "lexicon": "",
+        "text_free": "在关阳县文寺镇月岭村桃园。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.005,
+      "end": 7.247,
+      "label": "mandarin",
+      "text": "放眼望去，果客漫山遍野的桃树郁郁葱葱，",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "放眼望去，过去漫山遍野的桃树郁郁葱葱。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.463,
+      "end": 10.965,
+      "label": "mandarin",
+      "text": "一棵棵饱满圆润的桃子压弯了枝头。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0121,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一颗颗饱满圆圆的桃子压弯了枝头。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.234,
+      "end": 14.592,
+      "label": "mandarin",
+      "text": "果农们正在忙碌地穿梭在桃林间，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "果农们正在忙碌地穿梭在桃林间。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 14.94,
+      "end": 18.976,
+      "label": "mandarin",
+      "text": "刚刚采摘的桃子一批一批运输到了收购点，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "刚刚采摘的桃子，一批一批运输到了收购点。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 19.209,
+      "end": 21.656,
+      "label": "mandarin",
+      "text": "称重、分拣、包装、搬运，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "称重、分拣、包装、搬运。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 21.656,
+      "end": 25.913,
+      "label": "mandarin",
+      "text": "一箱箱包装好的桃子即将发往全国各地。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一箱箱包装好的桃子即将发往全国各地。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 26.166,
+      "end": 29.226,
+      "label": "mandarin",
+      "text": "由于岳岭村地处喀斯特地貌区，",
+      "score": 0.3284,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1868,
+        "acoustic_dev": 0.241,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "岭/林",
+        "lexicon": "",
+        "text_free": "由于园林城地处卡斯特地貌区。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 29.226,
+      "end": 32.49,
+      "label": "uncertain",
+      "text": "土地资源稀缺，当地因地制宜，",
+      "score": 0.4565,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3537,
+        "acoustic_dev": 0.498,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "因/营",
+        "lexicon": "",
+        "text_free": "土地资源稀缺，当地营地之一。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 32.49,
+      "end": 36.801,
+      "label": "guilin",
+      "text": "创新利用石头山地缝隙建棚插种种植桃树，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2533,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创新利用石头山地缝隙间缝插针种植桃树。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 37.044,
+      "end": 41.427,
+      "label": "mandarin",
+      "text": "通过土壤改良、节水灌溉和精细化管护，",
+      "score": 0.1709,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1724,
+        "acoustic_dev": 0.219,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过土壤改良、节水灌溉或精细法管护。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 41.723,
+      "end": 45.495,
+      "label": "mandarin",
+      "text": "在石头山中打造出了连片桃园。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在石头山中，打造出了连片桃园。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.495,
+      "end": 48.322,
+      "label": "uncertain",
+      "text": "文史镇地处亚热带气候条件适宜，",
+      "score": 0.5378,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6205,
+        "acoustic_dev": 0.909,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "城市镇地处亚热带气候条件适宜。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 48.322,
+      "end": 50.521,
+      "label": "mandarin",
+      "text": "满足桃子生长的所需气温。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "满足桃子生长的所需机温。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 50.521,
+      "end": 53.438,
+      "label": "mandarin",
+      "text": "文史镇岳岭村属于丘陵山地地形，",
+      "score": 0.2344,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2414,
+        "acoustic_dev": 0.325,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文石镇月岭村属于丘陵山地地形。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 53.438,
+      "end": 57.618,
+      "label": "mandarin",
+      "text": "也有利于排水。主要种植的品种有突围、春雪等，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0192,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也有利于排水。主要种植的品种有突围、春雪等。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 57.618,
+      "end": 60.116,
+      "label": "mandarin",
+      "text": "这两类品种比较早熟，",
+      "score": 0.0062,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.038,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这两类品种比较早熟。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 60.116,
+      "end": 62.783,
+      "label": "mandarin",
+      "text": "利于抢占市场空间，价格优势明显。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "利于抢占市场空间，价格优势明显。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 62.929,
+      "end": 70.722,
+      "label": "mandarin",
+      "text": "在发展桃产业的过程当中，文史镇积极探索合作社加基地加农户的产业化经营模式，",
+      "score": 0.0261,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0303,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.057,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在发展套产业的过程当中，文市镇积极探索合作社加基地加农户的产业化经营模式。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 71.029,
+      "end": 75.005,
+      "label": "mandarin",
+      "text": "通过合作社的带动，将分散的农户组织起来，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过合作社的带动，将分散的农户组织起来。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 75.153,
+      "end": 79.004,
+      "label": "mandarin",
+      "text": "实现了小农户与大市场的有效对接。",
+      "score": 0.1305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "户/夫",
+        "lexicon": "",
+        "text_free": "实现了小农夫与大市场的有效对接。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 79.249,
+      "end": 82.186,
+      "label": "uncertain",
+      "text": "带动周边两百余户村民参与种植，",
+      "score": 0.4764,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4189,
+        "acoustic_dev": 0.598,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "户/夫",
+        "lexicon": "",
+        "text_free": "带动周边两百渔夫村民参与种植。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 82.418,
+      "end": 85.283,
+      "label": "mandarin",
+      "text": "户均年增收两万块钱以上。",
+      "score": 0.2875,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0646,
+        "acoustic_dev": 0.053,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.75,
+        "phon_examples": "增/征 年/连 户/负",
+        "lexicon": "",
+        "text_free": "负军连征收两万块钱以上。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 85.283,
+      "end": 90.04,
+      "label": "mandarin",
+      "text": "同时，果园还吸纳五十多名脱贫群众务工。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，果园还吸纳五十多名脱贫群众务工。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 90.242,
+      "end": 97.169,
+      "label": "mandarin",
+      "text": "根据统计，关阳县二零二五年桃子种植面积为两万七千七百五十一亩，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据统计，关阳县二零二五年桃子种植面积为两万七千七百五十一亩。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 97.484,
+      "end": 100.137,
+      "label": "guilin",
+      "text": "主要品种有突围、早心、",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0603,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主要品种有土味、枣心。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 100.137,
+      "end": 102.997,
+      "label": "mandarin",
+      "text": "中桃九号、锦绣黄桃等等。",
+      "score": 0.1656,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0658,
+        "acoustic_dev": 0.055,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中套九号、锦绣方套等等。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 102.997,
+      "end": 106.567,
+      "label": "mandarin",
+      "text": "近年来，关阳县立足本地资源优势，",
+      "score": 0.1341,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.157,
+        "acoustic_dev": 0.195,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，官阳县立足本地资源优势。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 106.706,
+      "end": 110.126,
+      "label": "guilin",
+      "text": "把桃产业作为推动乡村振兴、",
+      "score": 0.5581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6798,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把套产业作为推动乡村振兴。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 110.126,
+      "end": 113.2,
+      "label": "mandarin",
+      "text": "促进农民增收的特色产业来抓，",
+      "score": 0.2183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0671,
+        "acoustic_dev": 0.057,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "增/征",
+        "lexicon": "",
+        "text_free": "租金农民征收的特色产业来抓。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 113.564,
+      "end": 117.614,
+      "label": "mandarin",
+      "text": "通过政策扶持、技术指导、品牌打造等等举措，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过政策扶持、技术指导、品牌打造等等举措。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 117.792,
+      "end": 121.651,
+      "label": "mandarin",
+      "text": "充分利用桃园资源，积极发展乡村旅游，",
+      "score": 0.244,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2993,
+        "acoustic_dev": 0.414,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "充分利用桃源资源，积极发展乡村旅游。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 121.901,
+      "end": 125.969,
+      "label": "guilin",
+      "text": "将桃产业与旅游产业有机结合起来，",
+      "score": 0.5505,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7113,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将套产业与旅游产业有机结合起来。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 126.188,
+      "end": 130.902,
+      "label": "mandarin",
+      "text": "打造以桃花观赏、桃子采摘为主题的乡村旅游，",
+      "score": 0.0489,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0914,
+        "acoustic_dev": 0.094,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造以桃花观赏、桃子采摘为主题的乡村旅游。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 131.146,
+      "end": 133.72,
+      "label": "guilin",
+      "text": "探索农旅融合新路径，",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.581,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.889,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.625,
+        "phon_examples": "径/近 新/行 旅/女 农/龙 索/说",
+        "lexicon": "",
+        "text_free": "他说：“龙女用火行路近。”"
+      }
+    },
+    {
+      "id": 36,
+      "start": 133.825,
+      "end": 136.146,
+      "label": "mandarin",
+      "text": "激活乡村发展新动能，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0244,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "激活乡村发展新动能。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 136.324,
+      "end": 140.488,
+      "label": "mandarin",
+      "text": "推动桃产业规模化、标准化、品牌化发展。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动套产业规模化、标准化、品牌化发展。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 140.88,
+      "end": 144.876,
+      "label": "mandarin",
+      "text": "如今，关阳县的桃产业正在蓬勃发展，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0265,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如今，官阳县的桃产业正在蓬勃发展。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 145.188,
+      "end": 148.342,
+      "label": "mandarin",
+      "text": "不仅成为农民增收致富的重要途径，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅成为农民增收致富的重要途径。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 148.342,
+      "end": 151.04,
+      "label": "mandarin",
+      "text": "也为乡村振兴注入了新的活力。",
+      "score": 0.0337,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0724,
+        "acoustic_dev": 0.065,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也为乡村振兴注入了新的活力。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 151.402,
+      "end": 155.747,
+      "label": "mandarin",
+      "text": "杨笑笑桃子成为农民增收致富的金果子。",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0245,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "杨小小桃子成为农民增收致富的金果子。"
+      }
+    }
+  ]
+}

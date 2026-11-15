@@ -1,0 +1,541 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "灵川青狮潭_又见碧波荡漾 山水胜景入画来.wav",
+  "duration": 108.842,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:47:15",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.218,
+      "end": 5.62,
+      "label": "mandarin",
+      "text": "经过了雨季的降水，现在临川青石潭水库的水位啊逐步上升，",
+      "score": 0.1366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0389,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "青/秦",
+        "lexicon": "",
+        "text_free": "经过了雨季的江水，现在临川秦石潭水库的水位啊逐步上升。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.845,
+      "end": 11.022,
+      "label": "mandarin",
+      "text": "神秘瑰丽的罗布泊奇观是悄然地隐入到了水底，",
+      "score": 0.0318,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0898,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "神秘诡丽的罗布泊奇观，是悄然地隐入到了水底。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.221,
+      "end": 15.194,
+      "label": "mandarin",
+      "text": "取而代之的是碧波浩渺的壮阔景象，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0657,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "取而代之的是碧波浩渺的壮阔景象。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.349,
+      "end": 18.477,
+      "label": "mandarin",
+      "text": "给大家带来不一样的游玩体验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给大家带来不一样的游玩体验。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.986,
+      "end": 25.518,
+      "label": "uncertain",
+      "text": "来到青石潭边，只见之前如戈壁滩般的黄土迷境已隐不见踪影，",
+      "score": 0.5071,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4745,
+        "acoustic_dev": 0.564,
+        "seg_cer": 0.346,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.222,
+        "phon_examples": "境/津 青/秦",
+        "lexicon": "",
+        "text_free": "来到秦氏潭边，只见之前由隔壁潭板的放土迷津，已焉不见踪影。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.829,
+      "end": 29.716,
+      "label": "mandarin",
+      "text": "宽阔的水面重新展露于青翠的山峦之间，",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0503,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宽阔的水面重新展露于清澈的山峦之间。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.083,
+      "end": 32.433,
+      "label": "mandarin",
+      "text": "沉船在碧波上远眺，",
+      "score": 0.3414,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.327,
+        "acoustic_dev": 0.354,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "沉/乘",
+        "lexicon": "",
+        "text_free": "乘船在碧波上远眺。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.72,
+      "end": 35.819,
+      "label": "guilin",
+      "text": "目之所及，该城石意画卷，",
+      "score": 0.7078,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4426,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.9,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.111,
+        "phon_examples": "之/资",
+        "lexicon": "",
+        "text_free": "募资所计，改成十亿发捐。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.01,
+      "end": 39.118,
+      "label": "mandarin",
+      "text": "薄雾与青山碧水倒映湖面，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0167,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "薄雾与青山碧水倒映湖面。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.118,
+      "end": 44.666,
+      "label": "mandarin",
+      "text": "虚实相映，浑然天成一幅气韵生动的水墨丹青，",
+      "score": 0.1219,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.145,
+        "acoustic_dev": 0.096,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "虚实相映，分盐添成一幅气韵生动的水墨丹青。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.802,
+      "end": 47.688,
+      "label": "mandarin",
+      "text": "令人沉醉不知归处。",
+      "score": 0.3251,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1659,
+        "acoustic_dev": 0.125,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "沉/乘 令/林",
+        "lexicon": "",
+        "text_free": "林隐乘贼不知归处。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.688,
+      "end": 50.329,
+      "label": "mandarin",
+      "text": "这个岛哈，就是我来很多次了，",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0155,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个岛哈，就是我，我来很多次了。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 50.329,
+      "end": 53.48,
+      "label": "mandarin",
+      "text": "有几年前就开始来，其实无论它是水干过，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0318,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有几年前就开始来。其实无论它是水干过。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.72,
+      "end": 58.708,
+      "label": "mandarin",
+      "text": "还是说现在水又回来，我们感受到了真的桂林山水甲天下，",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0334,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还是说现在水又回来，我们感受到的真的桂林山水甲天下。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 58.984,
+      "end": 61.737,
+      "label": "mandarin",
+      "text": "它的这种山水的这种能量，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它的这种山水的这种能量。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.037,
+      "end": 68.909,
+      "label": "mandarin",
+      "text": "我认为是独一无二的。在阳光的照射下，青石潭仿佛是加上了一层梦幻流金的滤镜，",
+      "score": 0.164,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0206,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "潭/唐 青/秦",
+        "lexicon": "",
+        "text_free": "我认为是独一无二的。在阳光的照射下，秦始唐仿佛是加上了一层蒙犯鎏金的滤镜。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 69.262,
+      "end": 75.48,
+      "label": "mandarin",
+      "text": "让水光潋滟晴方好的诗意图景在此刻具象成鲜活的美景。",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0526,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让水光潋滟、情芳好丽诗意图景，在此刻具象成鲜活的美景。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 75.758,
+      "end": 78.303,
+      "label": "mandarin",
+      "text": "不是有一两艘游船划过，",
+      "score": 0.2756,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3887,
+        "acoustic_dev": 0.442,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不是有一两艘游船发过。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 78.303,
+      "end": 81.328,
+      "label": "uncertain",
+      "text": "那是闻讯前来采选的游客，",
+      "score": 0.3821,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.426,
+        "acoustic_dev": 0.495,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那是文逊前来采玄的游客。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 81.579,
+      "end": 84.145,
+      "label": "mandarin",
+      "text": "而岸边的民宿也忙碌了起来，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而岸边的民宿也忙碌了起来。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 84.237,
+      "end": 87.081,
+      "label": "mandarin",
+      "text": "准备开门迎客。很多，",
+      "score": 0.0255,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1123,
+        "acoustic_dev": 0.049,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "准备开门迎客。很多。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 87.505,
+      "end": 90.141,
+      "label": "mandarin",
+      "text": "很多，呃，预约也不少，也不少。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很多，呃，预约也不少，也不少。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 90.141,
+      "end": 93.4,
+      "label": "uncertain",
+      "text": "我们一些老客户，以前的老客户，多一直在过，",
+      "score": 0.5481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7505,
+        "acoustic_dev": 0.956,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们一些老客户，以前的老客户，都一直在。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 93.661,
+      "end": 96.2,
+      "label": "uncertain",
+      "text": "对对，过来，特别是周末，真的是比较多。",
+      "score": 0.4945,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5303,
+        "acoustic_dev": 0.643,
+        "seg_cer": 0.533,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对对，过来，他味道做陌生，还是比较。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 96.739,
+      "end": 99.291,
+      "label": "guilin",
+      "text": "其实我们清到水库啊，",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2588,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其实我们青岛水库啊。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 99.291,
+      "end": 103.726,
+      "label": "mandarin",
+      "text": "就是那个放水大坝这个阶段，我们是用了这个枪口器，",
+      "score": 0.2645,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.216,
+        "acoustic_dev": 0.196,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "放/翻",
+        "lexicon": "",
+        "text_free": "就是那个翻水修大坝这个阶段，我们是用了这个窗口器。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 104.206,
+      "end": 106.923,
+      "label": "guilin",
+      "text": "打龙鳞岛，现在叫龙珠岛，",
+      "score": 0.7405,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8527,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "鳞/陵",
+        "lexicon": "",
+        "text_free": "把狼陵岛现在叫龙珠岛。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 106.923,
+      "end": 108.842,
+      "label": "mandarin",
+      "text": "做了整体的规划跟美化。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "做了整体的规划跟美化。"
+      }
+    }
+  ]
+}

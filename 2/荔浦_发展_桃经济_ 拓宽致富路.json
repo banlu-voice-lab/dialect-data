@@ -1,0 +1,598 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "荔浦_发展_桃经济_ 拓宽致富路.wav",
+  "duration": 118.734,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:52:20",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.261,
+      "end": 3.325,
+      "label": "mandarin",
+      "text": "在马岭镇新寨村的桃子种植基地，",
+      "score": 0.1263,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0631,
+        "acoustic_dev": 0.18,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在马岭镇新寨村的套子种植基地。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.495,
+      "end": 8.201,
+      "label": "mandarin",
+      "text": "红彤彤的油桃、白里透红的毛桃，各大饱满、挂满枝头。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "红彤彤的油桃，白里透红的毛桃，个大饱满，挂满枝头。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.506,
+      "end": 14.146,
+      "label": "mandarin",
+      "text": "香甜炫美的桃子在绿叶的衬托下显得格外的诱人、令人垂涎。",
+      "score": 0.2117,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0847,
+        "acoustic_dev": 0.266,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "香甜雪美的桃子在落叶的衬托下显得格外的诱人，玲珑垂涎。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.522,
+      "end": 18.162,
+      "label": "mandarin",
+      "text": "为了进一步拓宽油桃、毛桃的销售渠道，",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0155,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了进一步拓宽油套、毛套的销售渠道。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.34,
+      "end": 21.527,
+      "label": "uncertain",
+      "text": "基地负责人充分借助电商平台的力量，",
+      "score": 0.4178,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2189,
+        "acoustic_dev": 0.804,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "基地负责人充分借助电商平台的力量。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.642,
+      "end": 24.7,
+      "label": "mandarin",
+      "text": "采取线上线下相结合的方式，",
+      "score": 0.2185,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1231,
+        "acoustic_dev": 0.42,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "采取线上线下相结合的方式。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.7,
+      "end": 26.996,
+      "label": "mandarin",
+      "text": "打通了销售的最后一公里，",
+      "score": 0.2569,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1416,
+        "acoustic_dev": 0.494,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打通了销售的最后一公里。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.239,
+      "end": 30.371,
+      "label": "mandarin",
+      "text": "让基地的桃子送往全国各地。",
+      "score": 0.1812,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0868,
+        "acoustic_dev": 0.275,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将基地的桃子送往全国各地。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.743,
+      "end": 37.092,
+      "label": "guilin",
+      "text": "记者在基地仓棚里面看到，工人们正在忙到对线上下单的油桃进行清理、",
+      "score": 0.5607,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2236,
+        "acoustic_dev": 0.822,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "仓/厂",
+        "lexicon": "",
+        "text_free": "记者在几地厂棚里面看到，工人们正在忙倒对先上下蛋的油套进行清理。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.41,
+      "end": 39.738,
+      "label": "mandarin",
+      "text": "装箱、过秤、打包。",
+      "score": 0.3355,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1427,
+        "acoustic_dev": 0.499,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "装箱、过程、打包。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 40.017,
+      "end": 45.054,
+      "label": "mandarin",
+      "text": "另外一边，负责转运的车辆将满车的货品赶紧外送，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0104,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "另外一边，负责转运的车辆将满车的货品赶紧外送。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 45.054,
+      "end": 49.255,
+      "label": "mandarin",
+      "text": "让大家能够尽早享受到桃来的甜蜜。",
+      "score": 0.28,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0899,
+        "acoustic_dev": 0.288,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "来/奶",
+        "lexicon": "",
+        "text_free": "让大家能够尽早享受到桃奶的甜蜜。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 49.319,
+      "end": 51.829,
+      "label": "mandarin",
+      "text": "我们农场一百五十多亩桃子，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0104,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们农场一百五十多亩桃子。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 52.097,
+      "end": 55.312,
+      "label": "mandarin",
+      "text": "今年开始试挂果，目前",
+      "score": 0.1722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0283,
+        "acoustic_dev": 0.041,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "试/四",
+        "lexicon": "",
+        "text_free": "今年开始，四挂果。目前。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 55.529,
+      "end": 58.801,
+      "label": "mandarin",
+      "text": "几个品种已经陆续成熟上市。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "几个品种已经陆续成熟上市。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 59.17,
+      "end": 62.441,
+      "label": "mandarin",
+      "text": "现在通过我们的现场直播带货，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在通过我们的现场直播带货。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 62.586,
+      "end": 68.871,
+      "label": "mandarin",
+      "text": "很多客人看到我们果子上啊白里透红的果果实以后，就直接订货。",
+      "score": 0.0853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0428,
+        "acoustic_dev": 0.099,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很多客人看到我们果树上啊，百里透红的果果实以后，就直接订货。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 68.871,
+      "end": 72.54,
+      "label": "mandarin",
+      "text": "现在我们每天要采摘五千至一万斤左右。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在我们每天要采摘五千至一万斤左右。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 72.718,
+      "end": 76.577,
+      "label": "mandarin",
+      "text": "作为土生土长的利浦人，陈洪达返乡以后，",
+      "score": 0.2554,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.115,
+        "acoustic_dev": 0.388,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为土生土长的利物浦人，陈宏达返乡以后。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 76.577,
+      "end": 82.638,
+      "label": "mandarin",
+      "text": "在马岭镇新寨村一个四面环山的山坳里面创立了家庭农场。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0099,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在马岭镇新寨村一个四面环山的山坳里面，创立了家庭农场。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 83.082,
+      "end": 86.261,
+      "label": "mandarin",
+      "text": "二零二三年，经过到外地进行考察，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二三年，经过到外地进行考察。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 86.261,
+      "end": 89.875,
+      "label": "mandarin",
+      "text": "他决定重点发展种植精品水果，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0172,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他决定重点发展种植精品水果。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 90.208,
+      "end": 92.831,
+      "label": "guilin",
+      "text": "实现正是油桃的丰收期。",
+      "score": 0.686,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2419,
+        "acoustic_dev": 0.895,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "正/真",
+        "lexicon": "",
+        "text_free": "时下真是油桃的丰收期。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 93.082,
+      "end": 96.68,
+      "label": "mandarin",
+      "text": "由于通过了线上线下多渠道销售，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "由于通过了线上线下多渠道销售。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 96.68,
+      "end": 99.353,
+      "label": "mandarin",
+      "text": "基地订单量不断增多。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "基地订单量不断增多。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 99.656,
+      "end": 103.485,
+      "label": "mandarin",
+      "text": "今年预计产量大概在二十多万斤，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年预计产量大概在二十多万斤。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 103.485,
+      "end": 106.091,
+      "label": "mandarin",
+      "text": "目前是三块钱一斤，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前是三块钱一斤。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 106.091,
+      "end": 110.956,
+      "label": "mandarin",
+      "text": "效益还可以。下一步，我们想通过我们的示范作用和",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "效益还可以。下一步，我们想通过我们的示范作用和。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 111.392,
+      "end": 114.074,
+      "label": "guilin",
+      "text": "效益辐射，带动周边群众",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2813,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.6,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "校医出事，大众周边群众。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 114.509,
+      "end": 117.009,
+      "label": "mandarin",
+      "text": "一起发展这个产业，让他们多一份",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一起发展这个产业，让他们多一份。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 117.618,
+      "end": 118.734,
+      "label": "guilin",
+      "text": "增收门路。",
+      "score": 0.7343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7597,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "增/征",
+        "lexicon": "",
+        "text_free": "征收门路。"
+      }
+    }
+  ]
+}

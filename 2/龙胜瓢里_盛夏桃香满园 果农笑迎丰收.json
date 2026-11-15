@@ -1,0 +1,522 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "龙胜瓢里_盛夏桃香满园 果农笑迎丰收.wav",
+  "duration": 123.633,
+  "no_dialect": false,
+  "created_at": "2026-10-26T01:16:11",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.394,
+      "end": 8.935,
+      "label": "mandarin",
+      "text": "现在是水果暴群上市的时节，这几天，龙胜各族自治县瓢里镇的水蜜桃和黄桃迎来了丰收季，",
+      "score": 0.0842,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0661,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.184,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在是水果暴群上市的时节。这几天，龙胜各处紫荆县飘的镇里水蜜桃和防桃迎来了丰收季。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 9.123,
+      "end": 14.772,
+      "label": "mandarin",
+      "text": "果农们忙着采摘、销售，呈现出了一派喜人的丰收景象。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0081,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "果农们忙着采摘销售，呈现出了一派喜人的丰收景象。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 15.054,
+      "end": 18.061,
+      "label": "uncertain",
+      "text": "记者在瓢里镇的桃园里看到，",
+      "score": 0.4807,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.933,
+        "acoustic_dev": 0.705,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记者在朴里城的桃园里，又看到。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.061,
+      "end": 20.581,
+      "label": "mandarin",
+      "text": "一颗颗饱满的果实挂满枝头，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0119,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一颗颗饱满的果实挂满枝头。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.92,
+      "end": 26.05,
+      "label": "mandarin",
+      "text": "果农潘燕娥和丈夫正在熟练地采摘着成熟的桃子，",
+      "score": 0.1723,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0535,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "农/龙",
+        "lexicon": "",
+        "text_free": "郭龙、潘燕、我和丈夫正在树林里采摘着成熟的桃子。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.21,
+      "end": 33.02,
+      "label": "mandarin",
+      "text": "准备打包发往外地。今朝都有两个老来子，已经这个六十多斤、",
+      "score": 0.1097,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0574,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.24,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "准备打包法王麦迪。今早都有两个老赖子，已经这个六十多斤。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 33.02,
+      "end": 35.583,
+      "label": "guilin",
+      "text": "一百斤在多，两水蜜桃，",
+      "score": 0.82,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.2354,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Thai",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "เปิดจนยาวเตะและซวยมีเท้า"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.902,
+      "end": 38.36,
+      "label": "guilin",
+      "text": "都是批点一批点，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2774,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "都是皮的，又皮的。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.4,
+      "end": 41.32,
+      "label": "guilin",
+      "text": "那果园进果园再摘点。",
+      "score": 0.6044,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0189,
+        "acoustic_dev": 0.774,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "进/经",
+        "lexicon": "",
+        "text_free": "那过远，经过远，再踩点。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.778,
+      "end": 46.828,
+      "label": "mandarin",
+      "text": "根据了解，潘燕娥夫妇从事水果种植已经有三十多年了，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，潘燕娥夫妇从事水果种植已经有三十多年了。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.084,
+      "end": 49.632,
+      "label": "mandarin",
+      "text": "从砂糖橘、沃柑到水蜜桃，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0462,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从砂糖橘、沃柑到水蜜桃。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 49.823,
+      "end": 58.442,
+      "label": "mandarin",
+      "text": "他们的果园四季飘香。凭借着多年的种植经验，潘燕娥夫妇摸索出了一套独特的种植方法。",
+      "score": 0.0371,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0082,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.081,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "塘里果园四季飘香。凭借着多年的种植经验，潘燕娥夫妇摸索出了一套独特的种植方法。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 58.768,
+      "end": 63.013,
+      "label": "mandarin",
+      "text": "在种植的过程当中，他们坚持以物理防治为主，",
+      "score": 0.0617,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0982,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在种植的过程当中，唐坚持以物理防治为主。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 63.241,
+      "end": 67.757,
+      "label": "mandarin",
+      "text": "辅以人工管护，确保水蜜桃保持原生态品质。",
+      "score": 0.1641,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "护/服",
+        "lexicon": "",
+        "text_free": "辅以人工灌服、吃饱水蜜桃，保持原生态品质。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 67.99,
+      "end": 72.215,
+      "label": "mandarin",
+      "text": "这种绿色健康的种植方式，不仅保证了水果的品质，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0196,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这种绿色健康的种植方式，不仅保证了水果的品质。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 72.386,
+      "end": 75.481,
+      "label": "mandarin",
+      "text": "也为他们赢得了稳定的销售渠道。",
+      "score": 0.0621,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1357,
+        "acoustic_dev": 0.057,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也为他赢得了稳定的销售渠道。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 75.481,
+      "end": 78.76,
+      "label": "uncertain",
+      "text": "黄桃和水蜜桃要暂插种，",
+      "score": 0.4715,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5665,
+        "acoustic_dev": 0.407,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.6,
+        "phon_examples": "插/擦 暂/粘 水/穗",
+        "lexicon": "",
+        "text_free": "防桃和穗米桃要粘擦种。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 79.476,
+      "end": 84.145,
+      "label": "mandarin",
+      "text": "产量才上来的。今年我暂种了两百多，",
+      "score": 0.3642,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7835,
+        "acoustic_dev": 0.583,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产量才上来的。今年国产种了两百多。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 84.145,
+      "end": 87.686,
+      "label": "guilin",
+      "text": "廿点九号，到果头是大果的，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7128,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "亚平九号的锅头是大锅的。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 87.686,
+      "end": 90.394,
+      "label": "mandarin",
+      "text": "红的，上市时间长。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "红的，上市时间长。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 90.694,
+      "end": 96.397,
+      "label": "mandarin",
+      "text": "根据了解，今年瓢里镇的水蜜桃和黄桃产量预计较往年有所增长，",
+      "score": 0.0339,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，今年朴里镇的水蜜桃和方桃产量预计较往年有所增长。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 96.838,
+      "end": 104.897,
+      "label": "mandarin",
+      "text": "品质也是更加优良。目前，这些新鲜采摘的水果正通过线上线下多种渠道销往各地。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "品质也是更加优良。目前，这些新鲜采摘的水果正通过线上线下多种渠道销往各地。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 105.174,
+      "end": 108.747,
+      "label": "mandarin",
+      "text": "近年来，瓢里镇积极探索特色水果产业，",
+      "score": 0.0405,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0944,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，朴里镇积极探索特色水果产业。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 108.747,
+      "end": 112.764,
+      "label": "mandarin",
+      "text": "联动水蜜桃、凤糖梨、桂芳梨等采摘园，",
+      "score": 0.3135,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4293,
+        "acoustic_dev": 0.295,
+        "seg_cer": 0.467,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "连东水蜜桃、冯塘李、圭发梨等采摘园。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 112.945,
+      "end": 115.225,
+      "label": "mandarin",
+      "text": "进一步开发乡村旅游资源，",
+      "score": 0.1079,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3213,
+        "acoustic_dev": 0.207,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进一步开发乡村旅游资源。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 115.403,
+      "end": 120.244,
+      "label": "mandarin",
+      "text": "打造特色品牌，积极探索发展农业新质生产力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0097,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造特色品牌，积极探索发展农业新质生产力。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 120.502,
+      "end": 123.633,
+      "label": "mandarin",
+      "text": "聚焦了乡村振兴的甜蜜途径。",
+      "score": 0.3359,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3837,
+        "acoustic_dev": 0.258,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "兴/心",
+        "lexicon": "",
+        "text_free": "飞走了，想成真心的甜蜜途径。"
+      }
+    }
+  ]
+}

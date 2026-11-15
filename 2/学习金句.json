@@ -1,0 +1,199 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "学习金句.wav",
+  "duration": 44.94,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:00:40",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.801,
+      "end": 7.658,
+      "label": "mandarin",
+      "text": "学习京剧，今天我们学习习近平在中国文联十大、中国作协九大开幕式上的讲话。",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "纪录片。今天学习习近平在中国文联十大、中国作协九大开幕式上的讲话。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.52,
+      "end": 13.715,
+      "label": "mandarin",
+      "text": "社会是一本大书，只有真正读懂、读透了这本大书，",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0129,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一本大书，只有真正读懂、读透了这本大书，才能创作出。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 13.72,
+      "end": 15.748,
+      "label": "mandarin",
+      "text": "才能创作出优秀作品。",
+      "score": 0.3668,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.5528,
+        "acoustic_dev": 0.398,
+        "seg_cer": 0.778,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "优秀作品，读懂。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.412,
+      "end": 18.752,
+      "label": "guilin",
+      "text": "读懂社会、读透社会，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.5087,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赌头蛇肥，决定做艺术村。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.84,
+      "end": 22.927,
+      "label": "mandarin",
+      "text": "决定着艺术创作的视野广度、精神力度、",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6833,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.562,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创作的视野广度、精神力度、思想深度。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.927,
+      "end": 29.007,
+      "label": "mandarin",
+      "text": "思想深度。广大文艺工作者要努力上好社会这所大学校，",
+      "score": 0.159,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3237,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.348,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广大文艺工作者要努力上好社会这所大学，读好社会。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.247,
+      "end": 31.798,
+      "label": "guilin",
+      "text": "读好社会这本大书，",
+      "score": 0.6667,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.9086,
+        "acoustic_dev": 0.974,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大叔创作出极有生活。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.798,
+      "end": 36.84,
+      "label": "uncertain",
+      "text": "创作出既有生活底蕴又有艺术高度的优秀作品。",
+      "score": 0.4884,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.1023,
+        "acoustic_dev": 0.631,
+        "seg_cer": 0.8,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "伊云又有艺术高度的优秀作品，《习近平：二零一六》。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.181,
+      "end": 41.72,
+      "label": "mandarin",
+      "text": "习近平二零一六年十一月三十号在中国文联十大、",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6457,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十一月三十号，在中国文联十大、中国作协九大开。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.04,
+      "end": 44.94,
+      "label": "guilin",
+      "text": "中国作协九大开幕式上的讲话。",
+      "score": 0.5527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.393,
+        "acoustic_dev": 0.755,
+        "seg_cer": 0.692,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "世上的讲话。"
+      }
+    }
+  ]
+}

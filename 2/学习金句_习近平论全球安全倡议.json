@@ -1,0 +1,237 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "学习金句_习近平论全球安全倡议.wav",
+  "duration": 50.815,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:01:11",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.381,
+      "end": 10.059,
+      "label": "mandarin",
+      "text": "学习金句。今天我们来学习习近平二零二四年六月二十八号在和平共处五项原则发表七十周年纪念大会上的讲话。",
+      "score": 0.1095,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.021,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "金/警",
+        "lexicon": "",
+        "text_free": "学习警句。今天我们来学习习近平二零二四年六月二十八号在和平共处五项原则发表七十周年纪念大会上的讲话。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 10.193,
+      "end": 12.995,
+      "label": "mandarin",
+      "text": "论全球安全倡议。",
+      "score": 0.0676,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0133,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能全球安全倡议。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 13.466,
+      "end": 16.63,
+      "label": "mandarin",
+      "text": "在国与国相互依存的今天，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在国与国相互依存的今天。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.63,
+      "end": 19.5,
+      "label": "mandarin",
+      "text": "追求自身所谓绝对安全、",
+      "score": 0.0035,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0145,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "追求自身所谓绝对安全。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.5,
+      "end": 21.653,
+      "label": "mandarin",
+      "text": "独享安全是行不通的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "独享安全是行不通的。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.124,
+      "end": 24.851,
+      "label": "mandarin",
+      "text": "中方提出的全球安全倡议，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中方提出的全球安全倡议。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 25.027,
+      "end": 27.626,
+      "label": "mandarin",
+      "text": "就是倡导践行共同、",
+      "score": 0.1558,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1607,
+        "acoustic_dev": 0.3,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是倡导践行共同。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.626,
+      "end": 31.284,
+      "label": "uncertain",
+      "text": "综合、合作、可持续的安全观，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.549,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "综合合作，可持续的安全观。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 31.65,
+      "end": 35.647,
+      "label": "mandarin",
+      "text": "以合作促发展，以合作促安全，",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一合作促发展，一合作促安全。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.815,
+      "end": 38.637,
+      "label": "mandarin",
+      "text": "构建起更为均衡、有效、",
+      "score": 0.1073,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0653,
+        "acoustic_dev": 0.109,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "构建其更为均衡、有效。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 38.637,
+      "end": 41.339,
+      "label": "uncertain",
+      "text": "可持续的安全架构。",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6334,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可持续的安全架构。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 41.628,
+      "end": 50.815,
+      "label": "mandarin",
+      "text": "习近平二零二四年六月二十八日在和平共处五项原则发表七十周年纪念大会上的讲话。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "习近平二零二四年六月二十八日，在《和平共处五项原则》发表七十周年纪念大会上的讲话。"
+      }
+    }
+  ]
+}

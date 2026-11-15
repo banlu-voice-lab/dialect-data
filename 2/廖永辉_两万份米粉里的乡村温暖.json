@@ -1,0 +1,522 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "廖永辉_两万份米粉里的乡村温暖.wav",
+  "duration": 128.031,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:08:20",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.1,
+      "end": 3.711,
+      "label": "mandarin",
+      "text": "好的，接着我们来认识一位爱心好青年。",
+      "score": 0.1591,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0533,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好的，见到我们，应是一位爱心好青年。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.092,
+      "end": 9.691,
+      "label": "mandarin",
+      "text": "这一段时间，临川县大墟镇桂菊村的二十九岁小伙子廖永飞，",
+      "score": 0.0656,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0632,
+        "acoustic_dev": 0.056,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一段时间，临川县大圩镇桂聚村的二十九岁小伙子廖永飞。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.892,
+      "end": 14.538,
+      "label": "mandarin",
+      "text": "因为免费为村里头的老人煮桂林米粉而备受关注。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为免费为城里头的老人煮桂林米粉而备受关注。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.58,
+      "end": 21.252,
+      "label": "mandarin",
+      "text": "这一善举源于两年前，他在直播当中为村里头的空巢老人煮米粉，",
+      "score": 0.1341,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "善/三",
+        "lexicon": "",
+        "text_free": "这一三句源于两年前，他在直播当中为城里头的空巢老人煮米粉。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.278,
+      "end": 23.709,
+      "label": "mandarin",
+      "text": "赢得了众多粉丝的点赞，",
+      "score": 0.0843,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1061,
+        "acoustic_dev": 0.162,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赢得了众多粉丝的点赞。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.961,
+      "end": 30.447,
+      "label": "mandarin",
+      "text": "也是从此开启了他每天为老人家免费煮粉的爱心直播。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是从此开启了他每天为老人家免费煮粉的爱心直播。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.836,
+      "end": 35.649,
+      "label": "mandarin",
+      "text": "这一坚持就是两年，免费送出共计两万份米粉。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一坚持就是两年，免费送出共计两万份米粉。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.04,
+      "end": 43.276,
+      "label": "mandarin",
+      "text": "每天清晨，廖永飞都会前往镇上的超市，精心挑选新鲜的猪肉、鸡蛋和水果，",
+      "score": 0.1457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0071,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "心/行 精/进",
+        "lexicon": "",
+        "text_free": "每天清晨，廖永飞都会前往镇上的超市，进行挑选新鲜的主肉、鸡蛋和水果。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 43.553,
+      "end": 46.763,
+      "label": "mandarin",
+      "text": "为老人们准备爱心早餐食材。",
+      "score": 0.0727,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0676,
+        "acoustic_dev": 0.067,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为老鹰们准备爱心早餐食材。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 47.052,
+      "end": 53.892,
+      "label": "mandarin",
+      "text": "沸腾以后，廖永飞一边熟练的准备早餐，一边对着手机镜头与直播间里粉丝互动。",
+      "score": 0.0554,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.121,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "废成以后，廖永飞一边熟练地准备早餐，一边对着手机镜头与直播间的粉丝互动。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 54.026,
+      "end": 56.62,
+      "label": "mandarin",
+      "text": "粉丝们热情的留言不断，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0407,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "粉丝们热情的留言不断。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 56.62,
+      "end": 62.114,
+      "label": "uncertain",
+      "text": "他不时回应几句，分享着煮粉的细节和村里头的故事。",
+      "score": 0.4446,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2448,
+        "acoustic_dev": 0.507,
+        "seg_cer": 0.318,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "应/音",
+        "lexicon": "",
+        "text_free": "他不是配音几句，分享着主分的细节或城里头的故事。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 62.547,
+      "end": 67.258,
+      "label": "mandarin",
+      "text": "备菜的时候，老人们经常在旁边帮忙做豆腐酿、打下手，",
+      "score": 0.2931,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2195,
+        "acoustic_dev": 0.444,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "备菜的时候，老鹰们经常在旁边帮忙，做豆腐酿、打虾粥。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 67.582,
+      "end": 70.022,
+      "label": "mandarin",
+      "text": "大家围到一起其乐融融。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0168,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家围到一起，起落涌涌。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 70.544,
+      "end": 73.782,
+      "label": "mandarin",
+      "text": "当一碗碗热气腾腾的桂林米粉端上桌，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当一碗碗热气腾腾的桂林米粉端上桌。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 73.782,
+      "end": 77.726,
+      "label": "mandarin",
+      "text": "老人们围坐在一起，吃得格外香甜。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0232,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老鹰们围坐在一起，吃得格外香甜。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 77.729,
+      "end": 80.604,
+      "label": "guilin",
+      "text": "本来在家里都没吃那么大碗，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.8454,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本来在家里都没有吃那么大饭。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 80.613,
+      "end": 86.037,
+      "label": "guilin",
+      "text": "来这里吃米粉吃一大碗。第二遍吃的米粉就没有这个好吃，",
+      "score": 0.6152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6394,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.208,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来这里吃米粉，吃一大盘。店里面吃的米粉都没有这个好吃。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 86.822,
+      "end": 91.66,
+      "label": "guilin",
+      "text": "只有那个有甜有香。我们大一万人大都吃不完去。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8854,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.7,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这里又甜又香，我们爸一忙，就弹着炒碗去。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 91.66,
+      "end": 95.235,
+      "label": "mandarin",
+      "text": "最初，廖永飞的直播间只有几十个银观看，",
+      "score": 0.3586,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2977,
+        "acoustic_dev": 0.638,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最初，廖永飞的直播间只有几十个人观看。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.235,
+      "end": 100.432,
+      "label": "mandarin",
+      "text": "如今粉丝量近两万，高峰时观看人数达到数千人。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如今粉丝量近两万，高峰时观看人数达到数千人。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 100.776,
+      "end": 105.064,
+      "label": "mandarin",
+      "text": "在粉丝的建议下，他将服务范围扩展到了周边城城，",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在粉丝的建议下，他将服务范围扩展到了周边城腾。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 105.372,
+      "end": 108.377,
+      "label": "uncertain",
+      "text": "单日最高送出八十多万米粉。",
+      "score": 0.4278,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3131,
+        "acoustic_dev": 0.676,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但以最高送出八十多万米粉。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 108.798,
+      "end": 112.11,
+      "label": "mandarin",
+      "text": "直播间里粉丝们不仅为他点赞打赏，",
+      "score": 0.2163,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1611,
+        "acoustic_dev": 0.299,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "直播间的粉丝们不禁为他点赞打赏。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 112.269,
+      "end": 117.8,
+      "label": "mandarin",
+      "text": "还为友情赞助，让他买一些生活物资，比如油、米等等，",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0317,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还会友情赞助，让他买一些生活物资，比如油、米等等。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 117.919,
+      "end": 123.579,
+      "label": "mandarin",
+      "text": "送给村里头的贫困老人。这些物资不仅解决了老人们的生活所需，",
+      "score": 0.1126,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1018,
+        "acoustic_dev": 0.151,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "送给村里头的贫困老鹰。这些物资不仅解决了老鹰们的生活所需。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 123.742,
+      "end": 128.031,
+      "label": "mandarin",
+      "text": "更是让他们感受到了来自远方的温暖和关爱。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是让他们感受到了来自远方的温暖和关爱。"
+      }
+    }
+  ]
+}

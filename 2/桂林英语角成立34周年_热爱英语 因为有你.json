@@ -1,0 +1,1092 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林英语角成立34周年_热爱英语 因为有你.wav",
+  "duration": 244.879,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:35:08",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.606,
+      "label": "mandarin",
+      "text": "前段时间，桂林英语国在叠彩区万达广场举行了庆祝成立三十四周年活动。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前段时间，桂林英语国在叠彩区万达广场举行了庆祝成立三十四周年活动。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.813,
+      "end": 12.988,
+      "label": "mandarin",
+      "text": "活动中，大家用英语或文艺演出的形式，表达对桂林英语国的热爱。",
+      "score": 0.0169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0138,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动当中，大家用英语或文艺演出的形式表达对桂林英语国的热爱。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 13.481,
+      "end": 18.687,
+      "label": "mandarin",
+      "text": "桂林英语国是桂林市民间自发组织的英语爱好者协会。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林英语国是桂林市民间自发组织的英语爱好者协会。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.981,
+      "end": 21.668,
+      "label": "mandarin",
+      "text": "自一九九一年五月成立以来，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自一九九一年五月成立以来。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.804,
+      "end": 25.959,
+      "label": "mandarin",
+      "text": "长期致力于提高桂林市民中的英语水平，",
+      "score": 0.1396,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5039,
+        "acoustic_dev": 0.217,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "长期致力于提高桂林市民众的英语水平。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.959,
+      "end": 32.841,
+      "label": "mandarin",
+      "text": "是世界各国与桂林民间文化友好交往的民间社会公益团体。",
+      "score": 0.0549,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0127,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是世界各国与桂林人民进行文化友好交往的民间社会公益团体。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 32.841,
+      "end": 36.08,
+      "label": "mandarin",
+      "text": "桂林英语角三十四年来",
+      "score": 0.2331,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4309,
+        "acoustic_dev": 0.185,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林银奖三十四年来。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.389,
+      "end": 39.369,
+      "label": "mandarin",
+      "text": "风雨无阻的在美丽的",
+      "score": 0.0085,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0505,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "风雨无阻的，在美丽的。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.8,
+      "end": 42.529,
+      "label": "guilin",
+      "text": "五湖景区与社会各界、",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -5.4833,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "景区与社会各界。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 43.686,
+      "end": 47.16,
+      "label": "mandarin",
+      "text": "同外国友人、中外大学",
+      "score": 0.2086,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4789,
+        "acoustic_dev": 0.206,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同外国友人，祝贵大学。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.854,
+      "end": 50.536,
+      "label": "mandarin",
+      "text": "展开英语学习交流，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "展开英语学习交流。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 51.153,
+      "end": 56.086,
+      "label": "mandarin",
+      "text": "搭建了一个中外民间英语交流的平台。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "搭建了一个中外民间英语交流的平台。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 56.981,
+      "end": 62.716,
+      "label": "mandarin",
+      "text": "三十四年来，全球有四十多个国家的外国友人",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三十四年来，全球有四十多个国家的外国友人。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 63.637,
+      "end": 67.367,
+      "label": "mandarin",
+      "text": "与桂林英语角建立了深厚的友谊。",
+      "score": 0.0773,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.066,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "与桂林一语脚建立了深厚的友谊。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 67.56,
+      "end": 72.586,
+      "label": "mandarin",
+      "text": "很多外国友人把桂林英语角当成自己的家，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很多外国女人把桂林英语角当成自己的家。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 72.851,
+      "end": 76.22,
+      "label": "mandarin",
+      "text": "只要有时间就回家看看。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "只要有时间，就回家看看。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 76.854,
+      "end": 81.76,
+      "label": "mandarin",
+      "text": "这次的庆祝活动，好多人精心准备了节目前来祝贺。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次的庆祝活动，好多人精心准备了节目，前来祝贺。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 81.964,
+      "end": 84.874,
+      "label": "mandarin",
+      "text": "英语歌曲、英语故事、英语朗诵，",
+      "score": 0.0441,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2055,
+        "acoustic_dev": 0.085,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "英语歌曲，英语故事，英语朗诵。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 85.076,
+      "end": 90.048,
+      "label": "mandarin",
+      "text": "大家用英语才艺向观众们展示在英语国的收获。",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家用英语菜艺向观众们展示在英语国的收获。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 90.18,
+      "end": 94.783,
+      "label": "mandarin",
+      "text": "我已经来桂林英语角已经四年了。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我已经来桂林英语角已经七年了。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.469,
+      "end": 99.081,
+      "label": "mandarin",
+      "text": "我从小我奶奶就叫我来桂林英语角，",
+      "score": 0.329,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.179,
+        "acoustic_dev": 0.515,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我从小，我奶奶就带我来桂林英语。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 99.96,
+      "end": 103.409,
+      "label": "mandarin",
+      "text": "我喜欢桂林英语角，因为",
+      "score": 0.1371,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我喜欢桂林一鱼酒，因为。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 103.88,
+      "end": 106.047,
+      "label": "mandarin",
+      "text": "在这里交了很多朋友，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在这里交了很多朋友。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 106.047,
+      "end": 109.841,
+      "label": "mandarin",
+      "text": "认识了很多非常好的老师和教授，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "认识了很多非常好的老师和教授。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 110.066,
+      "end": 112.636,
+      "label": "mandarin",
+      "text": "所以，我今天只想说，",
+      "score": 0.1107,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4951,
+        "acoustic_dev": 0.213,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以我今天只想说。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 112.636,
+      "end": 116.633,
+      "label": "mandarin",
+      "text": "我喜欢桂林英语角，我爱桂林英语角。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我喜欢桂林一鱼脚，我爱桂林一鱼脚。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 117.227,
+      "end": 122.617,
+      "label": "mandarin",
+      "text": "桂林英语国每周六、周一都在永福旁的图书馆开展活动。",
+      "score": 0.0398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0104,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林英语国每周六、周一都在榕树旁的图书馆开展活动。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 122.79,
+      "end": 125.51,
+      "label": "guilin",
+      "text": "每次活动都是都有不同的主题，",
+      "score": 0.5903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.5906,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每次活动都设定有不同的主题。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 125.694,
+      "end": 129.195,
+      "label": "mandarin",
+      "text": "让大家在感兴趣的领域畅所欲言，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0112,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让大家在感兴趣的领域畅所欲言。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 129.521,
+      "end": 133.741,
+      "label": "mandarin",
+      "text": "同时又会进行英语阅读、英语写作等的练习，",
+      "score": 0.1021,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3471,
+        "acoustic_dev": 0.147,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，又会进行英语阅读、英语写作等等练习。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 133.915,
+      "end": 136.845,
+      "label": "mandarin",
+      "text": "帮助大家实现英语上的进步。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "帮助大家实现英语上的进步。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 136.845,
+      "end": 140.473,
+      "label": "mandarin",
+      "text": "就是参加这个英语角志愿活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是参加这个英语角志愿活动。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 140.473,
+      "end": 142.877,
+      "label": "mandarin",
+      "text": "就是让我认识了很多那些",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是让我认识了很多那些。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 143.3,
+      "end": 146.275,
+      "label": "mandarin",
+      "text": "呃志同道合的那些朋友，",
+      "score": 0.2882,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2667,
+        "acoustic_dev": 0.554,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，志同道合的那些朋友。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 146.275,
+      "end": 148.803,
+      "label": "mandarin",
+      "text": "就大家都非常热爱英语嘛。然后",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就大家都非常热爱英语嘛，然后。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 148.961,
+      "end": 154.203,
+      "label": "mandarin",
+      "text": "我们就是经常来英语角这边用英语来交流，",
+      "score": 0.0021,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.023,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们就是经常来英语角这边，用英语来交流。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 154.203,
+      "end": 159.409,
+      "label": "mandarin",
+      "text": "来一起通过玩一些小游戏来增进我们之间的感情。",
+      "score": 0.0179,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0914,
+        "acoustic_dev": 0.034,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来一起，通过玩一些小游戏，来增进我们之间的感情。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 159.437,
+      "end": 163.776,
+      "label": "guilin",
+      "text": "就是平时我英语角就是学习英语，",
+      "score": 0.6506,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -5.2093,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是平时我去英语校，就是为了学习英语。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 163.895,
+      "end": 168.352,
+      "label": "mandarin",
+      "text": "平时在课堂上的话，我会比较害怕就不敢发言。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平时在课堂上的话，我会比较害怕，就不敢发言。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 168.352,
+      "end": 172.105,
+      "label": "mandarin",
+      "text": "但是去了英语角的话，你会碰到很多的外国友人，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0094,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是去了英语角的话，你会碰到很多的外国友人。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 172.105,
+      "end": 175.262,
+      "label": "mandarin",
+      "text": "可以和他们交流，你会感觉到学习。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以和他们交流，你会感觉到学习。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 175.378,
+      "end": 180.391,
+      "label": "mandarin",
+      "text": "好像也挺有趣的，就是不管你是职场人还是学生，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好像也挺有趣的，就是不管你是职场人还是学生。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 180.648,
+      "end": 183.353,
+      "label": "mandarin",
+      "text": "还是退休人员，只要你热爱英语，",
+      "score": 0.0036,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0293,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还是退休人员，只要你热爱英语。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 183.353,
+      "end": 186.516,
+      "label": "mandarin",
+      "text": "都可以在这里寻找到英语交流的乐趣。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "都可以在这里寻找到英语交流的乐趣。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 187.314,
+      "end": 191.447,
+      "label": "mandarin",
+      "text": "桂林英语国构建了一个中外民间交流的平台，",
+      "score": 0.0052,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0363,
+        "acoustic_dev": 0.01,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林英语国构建了一个中外民间交流的平台。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 191.648,
+      "end": 194.748,
+      "label": "mandarin",
+      "text": "它成为了外国友人们的第二国家。",
+      "score": 0.1808,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5159,
+        "acoustic_dev": 0.222,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它成为了外国友人们的德国家。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 194.925,
+      "end": 200.142,
+      "label": "mandarin",
+      "text": "唐在泽开与桂林的英语爱好者们分享自己的文化趣事，",
+      "score": 0.1765,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0732,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "泽/浙",
+        "lexicon": "",
+        "text_free": "他们在浙江与桂林的英语爱好者们分享自己的文化趣事。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 200.432,
+      "end": 206.0,
+      "label": "mandarin",
+      "text": "也在一次次交谈当中了解到更多的中国文化和桂林文化。",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0085,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也在一次次交谈当中，了解到更多的中国文化或桂林文化。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 206.382,
+      "end": 210.257,
+      "label": "mandarin",
+      "text": "在庆祝桂林英语国成立三十四周年的日子，",
+      "score": 0.0066,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0426,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在庆祝桂林英语国成立三十四周年的日子。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 210.466,
+      "end": 215.82,
+      "label": "uncertain",
+      "text": "大家纷纷表示祝贺，愿桂林英语国越办越好。,     ,        .           ,  '          .      ,   ,   . ,   ,  , '   ,   .",
+      "score": 0.5368,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2375,
+        "acoustic_dev": 0.984,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家纷纷表示祝贺，愿桂林英语果越办越好。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 216.131,
+      "end": 221.182,
+      "label": "uncertain",
+      "text": "WelltodayisreallyaveryveryspecialdayfortheGuilin",
+      "score": 0.4422,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3276,
+        "acoustic_dev": 0.581,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Well, today is really a very very special day for the Galen."
+      }
+    },
+    {
+      "id": 52,
+      "start": 221.496,
+      "end": 224.711,
+      "label": "guilin",
+      "text": "EnglishCornerTodaywearecelebrating",
+      "score": 0.66,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3306,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "English corner. Today we are celebrating."
+      }
+    },
+    {
+      "id": 53,
+      "start": 225.371,
+      "end": 229.496,
+      "label": "uncertain",
+      "text": "the34thbirthdayofGuilinEnglishCorner",
+      "score": 0.5413,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7588,
+        "acoustic_dev": 0.772,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "The 34th birthday of Guaylen English Corner."
+      }
+    },
+    {
+      "id": 54,
+      "start": 230.109,
+      "end": 233.617,
+      "label": "mandarin",
+      "text": "andI'mveryhappytobeapartoftheEnglishCorner",
+      "score": 0.2489,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4874,
+        "acoustic_dev": 0.209,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "And I'm very happy to be a part of the English corner."
+      }
+    },
+    {
+      "id": 55,
+      "start": 234.032,
+      "end": 238.775,
+      "label": "guilin",
+      "text": "AndIthinkitisreallyreallyaveryverygoodachievement",
+      "score": 0.5758,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9087,
+        "acoustic_dev": 0.838,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "And I think it is really, really a very, very good achievement."
+      }
+    },
+    {
+      "id": 56,
+      "start": 239.139,
+      "end": 242.533,
+      "label": "guilin",
+      "text": "UmandforLisatheorganizer",
+      "score": 0.66,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -5.7438,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Um, and for Lisa, the organizer."
+      }
+    },
+    {
+      "id": 57,
+      "start": 242.809,
+      "end": 244.879,
+      "label": "guilin",
+      "text": "she'sdoingaveryverygreatjob",
+      "score": 0.66,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.5107,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "She's doing a very very great job."
+      }
+    }
+  ]
+}

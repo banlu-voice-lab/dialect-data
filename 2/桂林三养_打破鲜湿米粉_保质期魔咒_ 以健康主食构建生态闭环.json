@@ -1,0 +1,1092 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林三养_打破鲜湿米粉_保质期魔咒_ 以健康主食构建生态闭环.wav",
+  "duration": 234.572,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:32:41",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.348,
+      "end": 3.493,
+      "label": "mandarin",
+      "text": "今天我们先来关注一下我们桂林的工业企业。",
+      "score": 0.1012,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0258,
+        "acoustic_dev": 0.01,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们先来关注像桂林的工业企业。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.7,
+      "end": 10.859,
+      "label": "mandarin",
+      "text": "近年来，桂林三阳焦末生态饲料产业有限公司持续深化科技创新，",
+      "score": 0.3289,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2515,
+        "acoustic_dev": 0.382,
+        "seg_cer": 0.148,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "三/山",
+        "lexicon": "",
+        "text_free": "近年来，桂林山养胶木生态饲料产业有限公司持续深化科技创新。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.049,
+      "end": 14.774,
+      "label": "mandarin",
+      "text": "公司自主研发的常温保鲜湿米粉技术，",
+      "score": 0.135,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0274,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "湿/四",
+        "lexicon": "",
+        "text_free": "公司自主研发的常温保鲜四米粉技术。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.023,
+      "end": 19.271,
+      "label": "mandarin",
+      "text": "打破了长期湿米粉的保质期魔咒。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打破了长期悬饰米粉的保质期魔咒。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 24.211,
+      "end": 27.178,
+      "label": "mandarin",
+      "text": "在桂林三阳的产品展示区里头，",
+      "score": 0.2529,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1162,
+        "acoustic_dev": 0.159,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "三/山",
+        "lexicon": "",
+        "text_free": "在桂林山羊的产品展示区里头。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 27.384,
+      "end": 31.102,
+      "label": "mandarin",
+      "text": "琳琅满目的各种米粉产品映入记者的眼帘。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0082,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "琳琅满目的各种米粉产品映入记者的眼帘。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.352,
+      "end": 37.913,
+      "label": "mandarin",
+      "text": "一直以来，桂林米粉都面临做淀粉抗老化与耐高温杀菌两大行业难题。",
+      "score": 0.0158,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一直以来，桂林米粉都面临着淀粉抗老化与耐高温杀菌两大行业难题。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 38.275,
+      "end": 42.138,
+      "label": "mandarin",
+      "text": "桂林三阳自二零一四年起历时三年的技术攻坚，",
+      "score": 0.2273,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2583,
+        "acoustic_dev": 0.393,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林三养自二零一四年起，历时三年的技术攻坚。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 42.332,
+      "end": 44.799,
+      "label": "mandarin",
+      "text": "研发团队通过技术攻关，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "研发团队通过技术攻关。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.799,
+      "end": 48.574,
+      "label": "guilin",
+      "text": "使湿米粉的保质期延长到了十二个月，",
+      "score": 0.6057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1168,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "四、宣氏米粉的保质期延长到了十二个月。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.839,
+      "end": 53.057,
+      "label": "mandarin",
+      "text": "成功地填补了湿米粉保质保鲜的技术空白。",
+      "score": 0.1629,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0322,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成功地填补了宣市米粉包制包宣的技术空白。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 53.057,
+      "end": 58.857,
+      "label": "mandarin",
+      "text": "对，原来我们只能用干粉，呃，消费者买了干粉以后，回去吃的时候要要泡啊，",
+      "score": 0.0152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "原来我们只能用干粉，呃，消费者买了干粉以后回去吃的时候要要泡啊。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 58.857,
+      "end": 61.398,
+      "label": "mandarin",
+      "text": "要煮啊，对它加工相当麻烦。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要煮啊！对它加工相当麻烦。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 61.398,
+      "end": 65.243,
+      "label": "mandarin",
+      "text": "那我们这个湿粉，它就可以短短的在两分钟之内",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那我们这个湿粉，它就可以短短的在两分钟之内。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 65.401,
+      "end": 68.614,
+      "label": "mandarin",
+      "text": "就可以吃到一碗正宗的桂林米粉。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就可以吃到一碗正宗的桂林米粉。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 68.614,
+      "end": 72.199,
+      "label": "mandarin",
+      "text": "记者品尝以后发现，相较于传统的干米粉，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记者品尝以后发现，相较于传统的干米粉。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.199,
+      "end": 75.696,
+      "label": "uncertain",
+      "text": "桂林三阳的保鲜湿米粉不添加防腐剂，",
+      "score": 0.4015,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3047,
+        "acoustic_dev": 0.47,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "湿/四",
+        "lexicon": "",
+        "text_free": "桂林三养的保鲜四米粉，不添加防腐剂。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 75.981,
+      "end": 78.467,
+      "label": "mandarin",
+      "text": "沸水冲泡一分钟就可以吃了，",
+      "score": 0.1937,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2457,
+        "acoustic_dev": 0.372,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "沸水冲泡一分钟，就可以吃了。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 78.467,
+      "end": 84.641,
+      "label": "mandarin",
+      "text": "比方便面还要快捷。而由原生发的口感，几乎是复刻了鲜煮的味道。",
+      "score": 0.2392,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2001,
+        "acoustic_dev": 0.297,
+        "seg_cer": 0.185,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比方便面还要快捷，而油润爽滑的口感，几乎是复刻了现煮的味道。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 85.157,
+      "end": 88.063,
+      "label": "mandarin",
+      "text": "二零一八年，公司获得出口认证，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零一八年，公司获得出口认证。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.063,
+      "end": 93.533,
+      "label": "guilin",
+      "text": "并通过FDA审核，首批保鲜湿米粉飘扬国外，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5358,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并通过FDA审核，首批保鲜式米粉飘洋过海。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 93.533,
+      "end": 96.432,
+      "label": "guilin",
+      "text": "抵达北美和澳洲。如今，",
+      "score": 0.5708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8629,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "抵达北美或澳洲。如今。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 96.432,
+      "end": 100.175,
+      "label": "mandarin",
+      "text": "公司保鲜湿米粉生产规模稳居行业第一，",
+      "score": 0.311,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2032,
+        "acoustic_dev": 0.302,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "湿/四",
+        "lexicon": "",
+        "text_free": "公司保选四米粉生产规模，稳居行业第一。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 100.201,
+      "end": 106.725,
+      "label": "mandarin",
+      "text": "技术领先地位使其在市场波动当中依然保持强劲的竞争力。",
+      "score": 0.0283,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0316,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "技术领先地位使其在市场波动当中仍然保持强劲的竞争力。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 107.174,
+      "end": 109.549,
+      "label": "guilin",
+      "text": "在公司研发中心的展示墙上，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9289,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在公司研发中心里展示架上。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 109.771,
+      "end": 113.121,
+      "label": "guilin",
+      "text": "包装上印有焦末、滋养的面条、",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7115,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "包装上印有焦末子样的面条。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 113.121,
+      "end": 116.62,
+      "label": "uncertain",
+      "text": "粥品糕点等等产品整齐排列。",
+      "score": 0.3992,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4409,
+        "acoustic_dev": 0.695,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作品、糕点等等产品整齐排列。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 116.822,
+      "end": 121.881,
+      "label": "mandarin",
+      "text": "目前，公司与广西科学院共建了健康食品研究中心，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，公司与广西科学院共建了健康食品研究中心。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 122.164,
+      "end": 126.07,
+      "label": "mandarin",
+      "text": "围绕低糖、营养均衡目标，不断优化配方，",
+      "score": 0.1914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1098,
+        "acoustic_dev": 0.148,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为要抵达营养均衡目标，不断优化配方。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 126.463,
+      "end": 130.891,
+      "label": "mandarin",
+      "text": "让健康从主食开始的理念落地生根。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让健康从主食开始的理念落地生根。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 130.891,
+      "end": 133.036,
+      "label": "mandarin",
+      "text": "它是以裸燕麦为载体，",
+      "score": 0.2363,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1178,
+        "acoustic_dev": 0.161,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它是以络眼脉为载体。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 133.036,
+      "end": 136.758,
+      "label": "mandarin",
+      "text": "我们添加了很多的具有药食同源的食材，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们添加了很多的具有药师同源的食材。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 137.049,
+      "end": 143.482,
+      "label": "mandarin",
+      "text": "把它混合而成。它对我们控制血糖、控制体重以及调理这个肝脏",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把它混合而成，它对我们控制血糖、控制体重以及调理这个肝脏。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 143.648,
+      "end": 147.794,
+      "label": "mandarin",
+      "text": "啊这方面的这个功效都很明显。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，这方面的这个功效都很明显。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 147.794,
+      "end": 151.09,
+      "label": "mandarin",
+      "text": "近年来，公司推出三阳开餐社区食堂，",
+      "score": 0.3157,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3168,
+        "acoustic_dev": 0.49,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，公司推出三养快餐社区食堂。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 151.249,
+      "end": 155.323,
+      "label": "mandarin",
+      "text": "提供控糖餐、塑身餐等等七大科学套餐，",
+      "score": 0.3434,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2141,
+        "acoustic_dev": 0.32,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "身/生",
+        "lexicon": "",
+        "text_free": "提供空堂餐、素生餐等等七大科学套餐。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 155.73,
+      "end": 158.061,
+      "label": "mandarin",
+      "text": "覆盖了全天饮食需求。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "覆盖了全天饮食需求。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 158.364,
+      "end": 162.144,
+      "label": "mandarin",
+      "text": "社区食堂采用专业定制加灵活自选模式，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "社区食堂采用专业定制加灵活自选模式。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 162.357,
+      "end": 165.247,
+      "label": "mandarin",
+      "text": "确保营养均衡与个性化口味。",
+      "score": 0.1203,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.027,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "确保营养均衡与国兴法口味。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 165.59,
+      "end": 168.651,
+      "label": "mandarin",
+      "text": "公司整合中央厨房、电商等资源，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "公司整合中央厨房、电商等资源。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 168.651,
+      "end": 171.285,
+      "label": "uncertain",
+      "text": "形成生产基地、中央厨房、",
+      "score": 0.4711,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.569,
+        "acoustic_dev": 0.906,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "形成生产基地，中央厨房。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 171.285,
+      "end": 175.077,
+      "label": "mandarin",
+      "text": "社区门店、家庭餐桌全链条服务网络，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "社区门店、家庭餐桌全链条服务网络。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 175.556,
+      "end": 177.953,
+      "label": "mandarin",
+      "text": "推动健康中国战略落地。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动健康中国战略落地。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 178.111,
+      "end": 183.549,
+      "label": "mandarin",
+      "text": "目前，三阳开餐已在南宁、肇庆等地成功连锁扩张。",
+      "score": 0.1894,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0442,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "餐/产 三/山",
+        "lexicon": "",
+        "text_free": "目前，山羊开产已在南宁、肇庆等地成功连锁扩张。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 183.973,
+      "end": 186.861,
+      "label": "mandarin",
+      "text": "健康食品产值突破亿元，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.02,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "健康食品产值突破亿元。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 187.078,
+      "end": 190.064,
+      "label": "mandarin",
+      "text": "预计今年将实现翻倍增长。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "预计今年将实现翻倍增长。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 190.064,
+      "end": 194.065,
+      "label": "mandarin",
+      "text": "我们公司接下来呃的主要方向啊是",
+      "score": 0.0007,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0208,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们公司接下来呃的主要方向啊是。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 194.13,
+      "end": 198.241,
+      "label": "uncertain",
+      "text": "呃这个优化我们现有的生产流程，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8819,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，这个优化我们现有的生产流程。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 198.395,
+      "end": 201.202,
+      "label": "mandarin",
+      "text": "然后这个导入智能自动化",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后，这个导入智能自动化。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 201.347,
+      "end": 204.525,
+      "label": "mandarin",
+      "text": "啊，尽最大可能的降低这个生产成本，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，尽最大可能的降低这个生产成本。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 204.525,
+      "end": 208.126,
+      "label": "mandarin",
+      "text": "使我们企业增加这个市场竞争力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "使我们企业增加这个市场竞争力。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 208.126,
+      "end": 211.564,
+      "label": "mandarin",
+      "text": "同时呢，以科技创新为强劲驱动力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时呢，以科技创新为强劲驱动力。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 211.82,
+      "end": 214.519,
+      "label": "mandarin",
+      "text": "通过壮大三养开餐社区健康食堂，",
+      "score": 0.0187,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0418,
+        "acoustic_dev": 0.036,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过壮大三养开餐社区健康食堂。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 214.759,
+      "end": 218.197,
+      "label": "mandarin",
+      "text": "构建起呃以三养椒麦主食系列",
+      "score": 0.1906,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2011,
+        "acoustic_dev": 0.299,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "构建起，呃，以三养胶麦主食系列。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 218.344,
+      "end": 221.082,
+      "label": "mandarin",
+      "text": "为核心的一个健康饮食生态圈，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为核心的一个健康饮食生态圈。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 221.225,
+      "end": 226.86,
+      "label": "mandarin",
+      "text": "努力让健康饮食成为全民日常生活的一个标准配置，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "努力让健康饮食成为全民日常生活的一个标准配置。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 227.221,
+      "end": 234.572,
+      "label": "mandarin",
+      "text": "然后为咱们这个健康中国战略在基层的全面落地贡献属于桂林的智慧和力量。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后为咱们这个健康中国战略在基层的全面落地，贡献属于桂林的智慧和力量。"
+      }
+    }
+  ]
+}

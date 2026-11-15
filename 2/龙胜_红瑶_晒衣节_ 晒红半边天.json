@@ -1,0 +1,674 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "龙胜_红瑶_晒衣节_ 晒红半边天.wav",
+  "duration": 148.312,
+  "no_dialect": false,
+  "created_at": "2026-10-26T01:14:48",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.43,
+      "label": "mandarin",
+      "text": "接着我们来关注一下旅游。前几天，",
+      "score": 0.0746,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1586,
+        "acoustic_dev": 0.144,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接着，我们来关注一下旅游。前几天。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.43,
+      "end": 8.005,
+      "label": "mandarin",
+      "text": "龙胜各族自治县龙脊镇大寨村举行了一年一度的红瑶晒衣节，",
+      "score": 0.1818,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1349,
+        "acoustic_dev": 0.113,
+        "seg_cer": 0.269,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙胜国族紫竹先龙吉镇大寨村举行了一年一度的红瑶山艺节。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.293,
+      "end": 14.536,
+      "label": "mandarin",
+      "text": "各种精彩的民俗活动应接不暇，吸引了众多中外游客前来游玩体验，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "各种精彩的民俗活动应接不暇，吸引了众多中外游客前来游玩体验。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.841,
+      "end": 18.449,
+      "label": "mandarin",
+      "text": "感受龙胜多彩的民族风情。",
+      "score": 0.0006,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0482,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感受龙胜多彩的民族风情。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.643,
+      "end": 25.923,
+      "label": "mandarin",
+      "text": "这天上午十点钟，大寨村的红瑶同胞一支乐队在大寨村的寨门口端起水酒，唱起山歌，",
+      "score": 0.1453,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0191,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.257,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.111,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "昨天上午四点钟，大战城的红窑同胞一次列队在大战城的寨门口，端起水酒，唱起山歌。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.065,
+      "end": 28.992,
+      "label": "mandarin",
+      "text": "迎接远道而来的八方宾朋。",
+      "score": 0.1416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "宾/兵",
+        "lexicon": "",
+        "text_free": "迎接远道而来的八方兵朋。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.284,
+      "end": 32.026,
+      "label": "guilin",
+      "text": "伴随着悠扬的长发瑶唱戏，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5935,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "伴随着柔情的长发，摇长起。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.223,
+      "end": 36.308,
+      "label": "mandarin",
+      "text": "大寨村红瑶妇女在小戏棚集体长发梳妆，",
+      "score": 0.2305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2307,
+        "acoustic_dev": 0.236,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大宅村红窑妇女在小溪旁集体长发梳妆。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.795,
+      "end": 39.773,
+      "label": "mandarin",
+      "text": "展示龙胜独特的长发魅力。",
+      "score": 0.0418,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0477,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "展示龙生独特的长发魅力。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.788,
+      "end": 45.254,
+      "label": "guilin",
+      "text": "一对来自湘西蓝山的新人按照当地红瑶的传统婚礼习俗，",
+      "score": 0.6652,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1094,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.208,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "蓝/南",
+        "lexicon": "",
+        "text_free": "一队来自江西南昌的新人，按照当地红药的传统婚礼习俗。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 45.416,
+      "end": 48.982,
+      "label": "mandarin",
+      "text": "进行红衣订终身结婚仪式。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0408,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进行红衣定终身结婚仪式。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 49.069,
+      "end": 55.259,
+      "label": "mandarin",
+      "text": "一场特别的婚礼在广大游客和亲朋好友的祝福与见证中幸福礼成。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一场特别的婚礼，在广大游客和亲朋好友的祝福与见证中，幸福礼成。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 55.76,
+      "end": 59.56,
+      "label": "mandarin",
+      "text": "红瑶服饰因制作精美、色泽鲜艳而闻名，",
+      "score": 0.0857,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0408,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "红腰富士因制作精美、色泽鲜艳而闻名。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.809,
+      "end": 65.3,
+      "label": "mandarin",
+      "text": "二零一四年被列入国家非物质文化遗产瑶族服饰保护名录，",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0383,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零一四年被列入国家非物质文化遗产耀族服饰保护名录。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 65.545,
+      "end": 68.854,
+      "label": "mandarin",
+      "text": "是龙胜当地引以为豪的民族瑰宝。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是龙胜当地引以为豪的民族瑰宝。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 69.323,
+      "end": 74.824,
+      "label": "uncertain",
+      "text": "在非遗展示当中，瑶嫂们现场展示非遗珍稀县的精彩绝活，",
+      "score": 0.5228,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5659,
+        "acoustic_dev": 0.669,
+        "seg_cer": 0.292,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "嫂/烧",
+        "lexicon": "",
+        "text_free": "在非遗展示当中，窑烧们现场展示飞针走线的精彩绝活。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 75.4,
+      "end": 77.798,
+      "label": "guilin",
+      "text": "土布在古老的织机上穿梭，",
+      "score": 0.7114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7203,
+        "acoustic_dev": 0.868,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "梭/说 织/字",
+        "lexicon": "",
+        "text_free": "瀑布在古老的字迹上传说。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 77.984,
+      "end": 82.6,
+      "label": "mandarin",
+      "text": "一针一线皆是对祖先智慧与审美的生动传承。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0473,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一针一线，皆是对祖先智慧与审美滴生动传承。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 82.941,
+      "end": 86.862,
+      "label": "mandarin",
+      "text": "随后，当地还组织开展了稻田摸鱼等活动，",
+      "score": 0.1268,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1162,
+        "acoustic_dev": 0.089,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "随后，当地还组织开展了倒贴木鱼等活动。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 87.007,
+      "end": 91.632,
+      "label": "mandarin",
+      "text": "让游客沉浸式体验多彩瑶族节庆文化。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让游客沉浸式体验多彩瑶族节庆文化。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 91.632,
+      "end": 96.66,
+      "label": "mandarin",
+      "text": "这次我研学来到龙胜呢，参加这个这个晒衣晒衣节，",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0116,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次我研学来到龙胜呢，参加这个六月的晒衣晒衣节。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 96.727,
+      "end": 99.138,
+      "label": "mandarin",
+      "text": "对我来讲是一个非常新奇的一个体验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对我来讲是一个非常新奇的一个体验。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 99.227,
+      "end": 101.471,
+      "label": "mandarin",
+      "text": "啊，这边的这个衣服啊，",
+      "score": 0.1625,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2138,
+        "acoustic_dev": 0.215,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，这边的这个衣服啊。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 101.88,
+      "end": 105.616,
+      "label": "mandarin",
+      "text": "特别，因为我们香港是没有这种衣服，也没有这种文化节日的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "特别，因为我们香港是没有这种衣服，也没有这种文化节日的。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 105.747,
+      "end": 109.258,
+      "label": "guilin",
+      "text": "然后对我来讲，也增添了一份见识。",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0349,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后对我来讲，嗯，也算添了一份见识。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 109.258,
+      "end": 112.899,
+      "label": "uncertain",
+      "text": "啊，这边的衣饰梯田呢，是非常漂亮、非常美丽的。",
+      "score": 0.5336,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6994,
+        "acoustic_dev": 0.841,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而这边的一些梯田呢，也是非常漂亮、非常美丽的。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 113.187,
+      "end": 116.058,
+      "label": "mandarin",
+      "text": "我也呢，希望就是说，在",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0333,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我也呢，希望就是说，在。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 116.195,
+      "end": 118.583,
+      "label": "mandarin",
+      "text": "丰收的时候，还可以再来一次，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0471,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丰收的时候，还可以再来一次。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 118.583,
+      "end": 122.536,
+      "label": "mandarin",
+      "text": "来看一下这边美丽的这个风景。给我的印象是非常好的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来看一下这边美丽的这个风景，给我的印象是非常好的。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 122.536,
+      "end": 126.017,
+      "label": "mandarin",
+      "text": "首先，我来这里给我的体验的感受非常震撼。",
+      "score": 0.1318,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1681,
+        "acoustic_dev": 0.156,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "首先，我来到这里，给我的体验的感受非常的震撼。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 126.34,
+      "end": 130.203,
+      "label": "mandarin",
+      "text": "这个红瑶和给我的感受是非常震撼的。",
+      "score": 0.0672,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0623,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个红谣，我给我的感受是非常震撼的。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 130.203,
+      "end": 133.783,
+      "label": "mandarin",
+      "text": "我是第一次感受这样的大型的非遗",
+      "score": 0.0734,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0658,
+        "acoustic_dev": 0.024,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，我也是第一次感受这样的大型的非遗。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 133.947,
+      "end": 139.032,
+      "label": "mandarin",
+      "text": "活动，我很喜欢这里，希望我以后有机会的话，我会继续来这里旅游的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动，我很喜欢这里。希望我以后有机会的话，我会继续来这里旅游的。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 139.101,
+      "end": 142.414,
+      "label": "guilin",
+      "text": "当天夜晚还举行了龙脊晒衣节音乐会，",
+      "score": 0.6057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8908,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当天夜晚还举行了龙吉三一节音乐会。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 142.414,
+      "end": 148.312,
+      "label": "mandarin",
+      "text": "各种活动的成功举办，为推动乡村旅游和乡村振兴注入了新活力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "各种活动的成功举办，为推动乡村旅游和乡村振兴注入了新活力。"
+      }
+    }
+  ]
+}

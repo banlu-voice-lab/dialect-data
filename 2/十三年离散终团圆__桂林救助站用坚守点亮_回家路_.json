@@ -1,0 +1,997 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "十三年离散终团圆__桂林救助站用坚守点亮_回家路_.wav",
+  "duration": 228.643,
+  "no_dialect": false,
+  "created_at": "2026-10-25T23:58:18",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.467,
+      "end": 3.506,
+      "label": "guilin",
+      "text": "接到我来看我干亲的寻亲版路，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2805,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.538,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接着，我们来看一个感人的寻亲版录。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.662,
+      "end": 11.612,
+      "label": "mandarin",
+      "text": "十三年前，河南省驻马店市的张小陆夫妇患有精神障碍的儿子张静在湛江走失了，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0398,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十三年前，河南省驻马店市的张小路夫妇，患有精神障碍的儿子张晶，在湛江走失了。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.87,
+      "end": 17.81,
+      "label": "mandarin",
+      "text": "从此啊是杳无音讯，绝望的父母可以讲是踏遍了千山万水，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从此啊，是杳无音讯。绝望的父母可以讲是踏遍了千山万水。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.983,
+      "end": 20.247,
+      "label": "mandarin",
+      "text": "但是晓不得千里之外的桂林，",
+      "score": 0.1524,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3192,
+        "acoustic_dev": 0.293,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是，晓不得千里之外的桂林。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.247,
+      "end": 23.657,
+      "label": "guilin",
+      "text": "他们已经活到了毕福于先生。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3117,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "唐利斋已经活到了毕富与行生。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.87,
+      "end": 26.264,
+      "label": "uncertain",
+      "text": "哎呀呀呀，",
+      "score": 0.4534,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5777,
+        "acoustic_dev": 0.564,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "爱着你，爱着。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.264,
+      "end": 29.554,
+      "label": "mandarin",
+      "text": "怎么办啊？在桂林市救助管理站，",
+      "score": 0.3235,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3749,
+        "acoustic_dev": 0.352,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在桂林市救助管理站。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 29.554,
+      "end": 32.836,
+      "label": "mandarin",
+      "text": "一对十三多年的母子重逢相拥，",
+      "score": 0.0233,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0824,
+        "acoustic_dev": 0.045,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一对十三多年的母子重逢相拥。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 32.977,
+      "end": 36.018,
+      "label": "mandarin",
+      "text": "温馨的场面融化了在场工作人员的心。",
+      "score": 0.1429,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0236,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文心的场面，用发了这场工作人员的心。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 36.495,
+      "end": 40.169,
+      "label": "uncertain",
+      "text": "时间回到二零一二年十月五号的桂林，",
+      "score": 0.4319,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7269,
+        "acoustic_dev": 0.721,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "时间飞到二零一二年十二月五号的桂林。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 40.457,
+      "end": 44.997,
+      "label": "mandarin",
+      "text": "一个言语不清、举止异常的流浪男子被民警发现，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一个言语不清、举止异常的流浪男子被民警发现。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 45.176,
+      "end": 48.471,
+      "label": "mandarin",
+      "text": "终于，是救助管理站寻求帮助。",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0246,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "送入市救助管理站寻求帮助。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 48.823,
+      "end": 53.326,
+      "label": "mandarin",
+      "text": "唯一的线索就是他母父的突出的名字张静。",
+      "score": 0.3479,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3851,
+        "acoustic_dev": 0.362,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "父/糊",
+        "lexicon": "",
+        "text_free": "唯一的线索就是他模糊的吐出的名字：“张静”。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 54.02,
+      "end": 57.657,
+      "label": "mandarin",
+      "text": "面对由大海捞针般的寻亲困境，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0328,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "面对由大海捞针般的寻亲困境。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 57.657,
+      "end": 64.537,
+      "label": "mandarin",
+      "text": "桂林救助站没有放弃。他们首先将张静安置在市福利医院治疗，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林救助站没有放弃，他们首先将张静安置在市福利医院治疗。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 64.827,
+      "end": 67.955,
+      "label": "mandarin",
+      "text": "并依据政策让张静落户桂林。",
+      "score": 0.1762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "静/晋",
+        "lexicon": "",
+        "text_free": "并依据政策将张晋落户桂林。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 67.955,
+      "end": 71.713,
+      "label": "mandarin",
+      "text": "但是落户并不是救助站工作的终点。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0154,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是，落户并不是救助站工作的重点。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 71.713,
+      "end": 74.294,
+      "label": "mandarin",
+      "text": "安置完了之后呢，我们没有",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "安置完了之后呢？我们没有。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 74.391,
+      "end": 78.347,
+      "label": "mandarin",
+      "text": "放弃继续帮他们寻亲，只要有一线希望，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "放弃接续帮他们寻亲，只要有一线希望。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 78.516,
+      "end": 81.324,
+      "label": "mandarin",
+      "text": "我们就会尽百分之百的努力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们就会尽百分之百的努力。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 81.498,
+      "end": 85.648,
+      "label": "mandarin",
+      "text": "当我们知道公安部门可以通过手机分析的，",
+      "score": 0.3785,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6406,
+        "acoustic_dev": 0.63,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当我们知道公安部门可以通过走进分析的。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 85.648,
+      "end": 89.407,
+      "label": "mandarin",
+      "text": "可以找人时，又为我们寻亲工作",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以找人时，又为我们寻亲工作。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 89.549,
+      "end": 92.112,
+      "label": "mandarin",
+      "text": "打开了一扇窗啊，指了一条路。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打开了一扇窗啊，指了一条路。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 92.233,
+      "end": 97.439,
+      "label": "mandarin",
+      "text": "张静走失了以后，他的父母天天骑到摩托车到处寻找，",
+      "score": 0.0543,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1013,
+        "acoustic_dev": 0.065,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "张静走失了以后，他的父母天天骑着摩托车到处寻找。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 97.596,
+      "end": 102.292,
+      "label": "mandarin",
+      "text": "他也不敢搬家，就怕张静哪一天回来找不着屋里头了。",
+      "score": 0.1507,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2046,
+        "acoustic_dev": 0.173,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "屋里",
+        "text_free": "他也不敢搬家，就怕张静哪一天回来找不到屋里头了。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 102.691,
+      "end": 107.197,
+      "label": "mandarin",
+      "text": "时间一晃十三年过去了，一直到二零二五年四月，",
+      "score": 0.1398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2122,
+        "acoustic_dev": 0.181,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "时间一晃十三年过去，一直到二零二五年的四月。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 107.35,
+      "end": 115.323,
+      "label": "mandarin",
+      "text": "转机出现了。依托最新的技术分析，一条关键线索出现在了救助站工作人员的眼前。",
+      "score": 0.1269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "新/型",
+        "lexicon": "",
+        "text_free": "转机出现了，依托这型的技术分析，一条关键线索出现在了救助站工作人员的眼前。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 115.729,
+      "end": 118.675,
+      "label": "guilin",
+      "text": "张静疑似河南驻马店人，",
+      "score": 0.7405,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2142,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "静/津",
+        "lexicon": "",
+        "text_free": "长津，疑似河南驻马店印。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 119.044,
+      "end": 123.877,
+      "label": "mandarin",
+      "text": "救助站的工作人员连夜行动，联系上张静的家属。",
+      "score": 0.1457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "助/组",
+        "lexicon": "",
+        "text_free": "九组站的工作人员连夜行动，联系上张静的家属。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 124.44,
+      "end": 127.0,
+      "label": "mandarin",
+      "text": "一接到你们电话，我很高兴，因为什么？",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0132,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一接到你们的电话，我很高兴，因为什么。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 127.32,
+      "end": 130.725,
+      "label": "mandarin",
+      "text": "我说最起码你们收留他，他有地方住，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我说：“最起码你们收留他，他有地方住。”"
+      }
+    },
+    {
+      "id": 32,
+      "start": 130.725,
+      "end": 134.809,
+      "label": "mandarin",
+      "text": "他有房子。有人照顾是啊，有人照顾是啊，在外面你",
+      "score": 0.3683,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3947,
+        "acoustic_dev": 0.372,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "房/饭",
+        "lexicon": "",
+        "text_free": "他有饭吃，有人照顾，是啊，有人照顾的，在外面你。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 135.419,
+      "end": 138.68,
+      "label": "guilin",
+      "text": "留了生活有没有一？那个有没有负担？",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -6.0282,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.733,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冷那时候有没有衣服穿？饿了有没有饭？"
+      }
+    },
+    {
+      "id": 34,
+      "start": 138.84,
+      "end": 142.776,
+      "label": "uncertain",
+      "text": "现在说，是啊，我就说不知道在外面受什么养呢？",
+      "score": 0.5187,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6968,
+        "acoustic_dev": 0.689,
+        "seg_cer": 0.263,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "么样",
+        "text_free": "心态受挫。是啊，我就说不知道在外面受什么样呢。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 142.968,
+      "end": 148.752,
+      "label": "mandarin",
+      "text": "没想到你们收留他。虽然远在他乡的父母看到了照片和视频，",
+      "score": 0.1366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "虽/水",
+        "lexicon": "",
+        "text_free": "没想到你们收留他。水燕远在他乡的父母看到了照片和视频。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 148.948,
+      "end": 153.157,
+      "label": "mandarin",
+      "text": "但是毕竟阔别十三载，相貌都会有一点改变。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是毕竟，阔别十三载，相貌都会有一点改变。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 153.631,
+      "end": 161.648,
+      "label": "mandarin",
+      "text": "在救助站的建议下，父亲张小陆马上进行采血对比，DNA最终获得了确认。",
+      "score": 0.0453,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0629,
+        "acoustic_dev": 0.024,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在救助站的建议下，父亲张小路马上进行采血对比 DNA，最终获得了确证。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 161.721,
+      "end": 166.37,
+      "label": "mandarin",
+      "text": "十三了十三年后的团圆，终于着手破题。",
+      "score": 0.2858,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4066,
+        "acoustic_dev": 0.385,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十三了，十三年后的团圆，终于触手可及。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 166.499,
+      "end": 169.966,
+      "label": "mandarin",
+      "text": "他经常会和我们讲，他是内蒙古的，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他经常会和我们讲：“他是内蒙古的。”"
+      }
+    },
+    {
+      "id": 40,
+      "start": 169.966,
+      "end": 173.652,
+      "label": "mandarin",
+      "text": "大草原的，他家里面有父母、兄弟姐妹，",
+      "score": 0.0299,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0947,
+        "acoustic_dev": 0.058,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大草原的他家里面有父母兄弟姐妹。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 173.706,
+      "end": 177.044,
+      "label": "guilin",
+      "text": "呃，就是这种回家的喜悦是",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0228,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，就是这种回家的心愿是。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 177.253,
+      "end": 179.56,
+      "label": "mandarin",
+      "text": "特别的强烈的。爸爸，我想你。",
+      "score": 0.3646,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5559,
+        "acoustic_dev": 0.541,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "特别的强烈的，爸爸，我相信。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 180.6,
+      "end": 189.222,
+      "label": "mandarin",
+      "text": "好好好好好。为感谢桂林市救助管理站和市福利医院长达十三年的精心照料与不懈寻亲，",
+      "score": 0.0247,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.054,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，好好好好好好。为感谢桂林市救助管理站和市福利医院长达十三年的精心照料与不懈寻亲。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 189.481,
+      "end": 192.819,
+      "label": "mandarin",
+      "text": "张进屋里头的人送上了饱含深情的锦旗。",
+      "score": 0.2443,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1137,
+        "acoustic_dev": 0.078,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "锦/警",
+        "lexicon": "屋里",
+        "text_free": "长进屋里头的人送上了饱含深情的警器。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 192.937,
+      "end": 198.421,
+      "label": "mandarin",
+      "text": "科学寻亲技术的进步与民政救助体系的不懈坚持，",
+      "score": 0.0439,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0404,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "科学巡警技术的进步与民政救助体系的不懈坚持。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 198.591,
+      "end": 201.981,
+      "label": "uncertain",
+      "text": "为更多的张进照亮回家路。",
+      "score": 0.4314,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.495,
+        "acoustic_dev": 0.477,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "进/颈",
+        "lexicon": "",
+        "text_free": "为更多的长颈照亮回家路。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 202.031,
+      "end": 205.613,
+      "label": "mandarin",
+      "text": "之所以最终能寻亲成功，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0398,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "之所以最终能寻亲成功。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 205.613,
+      "end": 207.992,
+      "label": "mandarin",
+      "text": "得益于我们多年的坚持不懈，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "得益于我们多年的坚持不懈。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 207.992,
+      "end": 210.625,
+      "label": "uncertain",
+      "text": "始终践行民政为民、",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8578,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "始终践行“民政为民”。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 210.625,
+      "end": 215.673,
+      "label": "mandarin",
+      "text": "民政爱民的理念，把困难群众的急难愁盼",
+      "score": 0.1538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "民/明",
+        "lexicon": "",
+        "text_free": "明哲爱民的理念，把困难群众的急难愁盼。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 216.05,
+      "end": 221.599,
+      "label": "mandarin",
+      "text": "之事放在心上。得益于我们各个部门的大力支持和密切配合，",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这事放在心上，得益于我们各个部门的大力支持和密切配合。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 222.087,
+      "end": 228.643,
+      "label": "mandarin",
+      "text": "无缝对接。得益于我们科技不断的发展和充分的应用。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "无缝对接，得益于我们科技不断的发展和充分的应用。"
+      }
+    }
+  ]
+}

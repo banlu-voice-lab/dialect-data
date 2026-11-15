@@ -1,0 +1,807 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "兴安华江瑶乡_构建民宿圈 力促乡村振兴提质发展.wav",
+  "duration": 170.694,
+  "no_dialect": false,
+  "created_at": "2026-10-25T23:55:47",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.67,
+      "end": 12.696,
+      "label": "mandarin",
+      "text": "这几年，兴安县发江瑶族乡依托良好的自然生态、吃住打造发江酒寨，使民俗产业成为了乡村发展的新赛道和新热点。",
+      "score": 0.0655,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1083,
+        "acoustic_dev": 0.034,
+        "seg_cer": 0.104,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这几年，兴安县花江瑶族乡依托良好的自然生态，持续打造花江酒寨，使民宿产业成为了乡村发展的新赛道和新热点。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 13.217,
+      "end": 18.573,
+      "label": "mandarin",
+      "text": "走进兴安发江瑶族乡一中东民俗里面，工作人员忙个不停。",
+      "score": 0.2824,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2832,
+        "acoustic_dev": 0.323,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走进西安华江姚族乡一栋栋民宿里面，工作人员忙个不停。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 18.809,
+      "end": 22.329,
+      "label": "mandarin",
+      "text": "遵义最舒适的环境迎接客人入住。",
+      "score": 0.1596,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1973,
+        "acoustic_dev": 0.181,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "正以最舒适的环境迎接客人入住。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 22.654,
+      "end": 25.568,
+      "label": "uncertain",
+      "text": "当地民俗发展走出差异化路线，",
+      "score": 0.47,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5938,
+        "acoustic_dev": 0.836,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当地民宿发展走出差异化路线。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 25.568,
+      "end": 28.937,
+      "label": "guilin",
+      "text": "该乡在外创业的发江人返乡发展，",
+      "score": 0.6506,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0763,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "该乡在外创业的发奖营飞向发展。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.937,
+      "end": 32.936,
+      "label": "mandarin",
+      "text": "建设高端民宿品牌，形成梯度民俗发展格局。",
+      "score": 0.2357,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2733,
+        "acoustic_dev": 0.307,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "建设高端民宿品牌，形成体对民宿发展格局。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 32.936,
+      "end": 37.969,
+      "label": "mandarin",
+      "text": "以前呢，我们一直在桂林市榕江镇这里做竹木",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0102,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，以前呢，我们一直在桂林市榕江镇这里做竹木。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 38.091,
+      "end": 40.922,
+      "label": "mandarin",
+      "text": "竹木产业的，然后主要生产竹签为主，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "竹木产业的，然后主要生产竹签为主。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.343,
+      "end": 45.544,
+      "label": "mandarin",
+      "text": "然后工厂发展的也还可以。然后发现这里的山、这里的水",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后工厂发展的也还可以。然后发现这里的山，这里的水。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 45.753,
+      "end": 49.292,
+      "label": "mandarin",
+      "text": "都很好，然后住在这里很很治愈，",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "都很好，然后坐在这里很很治愈。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 49.292,
+      "end": 52.375,
+      "label": "mandarin",
+      "text": "所以我们就想到在这里想歇下来，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.086,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以我们就想到在这里想歇下来。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.943,
+      "end": 55.492,
+      "label": "mandarin",
+      "text": "呃，就做了这个栖栖相遇的民宿。",
+      "score": 0.1339,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1206,
+        "acoustic_dev": 0.055,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，就做了这个“息息相关”的民宿。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 55.882,
+      "end": 59.071,
+      "label": "mandarin",
+      "text": "建一个高端民宿，带动一方产业发展，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "建一个高端民宿，带动一方产业发展。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.278,
+      "end": 61.73,
+      "label": "guilin",
+      "text": "结合发江厚重的文化、",
+      "score": 0.7157,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2867,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.778,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "重/总",
+        "lexicon": "",
+        "text_free": "结果，法将侯总的问法。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 61.73,
+      "end": 65.17,
+      "label": "mandarin",
+      "text": "民俗建设，注重挖掘全城特色文化，",
+      "score": 0.1834,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2251,
+        "acoustic_dev": 0.227,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "民俗建设注重挖掘传承特色文化。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 65.405,
+      "end": 67.897,
+      "label": "mandarin",
+      "text": "把民风民俗、农事耕作、",
+      "score": 0.0013,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.089,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把民风民俗、农事耕作。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 67.897,
+      "end": 71.561,
+      "label": "uncertain",
+      "text": "特色特产等等各种文化元素融入其中，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.695,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "特色特产等等，各种文化元素融入其中。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 71.81,
+      "end": 75.61,
+      "label": "mandarin",
+      "text": "同时拉动村民就业，共享乡村振兴成果。",
+      "score": 0.0854,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1204,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，拉动城镇就业，共享乡村振兴成果。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 75.778,
+      "end": 78.81,
+      "label": "uncertain",
+      "text": "比如说我们村民的一些呃，",
+      "score": 0.5048,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6753,
+        "acoustic_dev": 0.971,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比如说，我们村民的一些呃。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 78.81,
+      "end": 81.144,
+      "label": "uncertain",
+      "text": "我们这边有一些种的是甘蔗，",
+      "score": 0.4941,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6185,
+        "acoustic_dev": 0.877,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们周边有一些种的是甘蔗。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 81.426,
+      "end": 85.845,
+      "label": "mandarin",
+      "text": "呃，周围的甘蔗什么芋头啊，然后还有一些茶叶啊。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，周围的甘蔗、什么芋头啊，然后还有一些茶叶啊。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 85.845,
+      "end": 89.217,
+      "label": "guilin",
+      "text": "我们发江茂山的这个绿冬茶是很出名的，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4621,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们福建莫尔山的这个六洞茶是很出名的。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 89.217,
+      "end": 91.97,
+      "label": "mandarin",
+      "text": "然后它的口感是非常非常好的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后，它的口感是非常非常好的。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 92.073,
+      "end": 96.831,
+      "label": "mandarin",
+      "text": "然后，然后我就想给村里面的，就是说在自己家门口有一份收入，",
+      "score": 0.0527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0816,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，然后我就想给村里面的人，就是说，在自己家门口有一份收入。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 96.831,
+      "end": 99.704,
+      "label": "mandarin",
+      "text": "然后都没有采用外面的。近年来，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0348,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后都没有采用外面的。近年来。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 99.704,
+      "end": 105.597,
+      "label": "mandarin",
+      "text": "发江瑶乡大力倡导生态绿色、历史红色、瑶乡原色三色文化，",
+      "score": 0.0952,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0598,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.208,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发扬耀湘，大力倡导生态绿色、历史红色、耀湘原色三色文化。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 105.852,
+      "end": 110.911,
+      "label": "mandarin",
+      "text": "奋力趟出一条以民俗产业发展促进城乡增美、产业增效、",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0847,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "奋力趟出一条以民宿产业发展促进城乡增美、产业增效。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 110.911,
+      "end": 113.786,
+      "label": "mandarin",
+      "text": "百姓增收的绿色发展之路，",
+      "score": 0.3341,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4766,
+        "acoustic_dev": 0.643,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "百姓增收的绿色发展之路。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 114.069,
+      "end": 117.695,
+      "label": "mandarin",
+      "text": "并成功以民俗圈带动经济圈繁荣。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0413,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并成功以民诉权带动经济权翻涌。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 117.695,
+      "end": 120.68,
+      "label": "mandarin",
+      "text": "目前，为促进民俗产业良性发展，",
+      "score": 0.1446,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.174,
+        "acoustic_dev": 0.143,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，未促进民宿产业良性发展。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 120.808,
+      "end": 126.603,
+      "label": "mandarin",
+      "text": "发江瑶乡还大力推动民俗加乡村旅游、民俗加餐饮服务、",
+      "score": 0.2386,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2496,
+        "acoustic_dev": 0.268,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "法江要享还大力推动民宿加乡村旅游、民宿加餐饮服务。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 126.603,
+      "end": 131.249,
+      "label": "mandarin",
+      "text": "民俗加农业体验、民俗加产业空间等等模式，",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0133,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "民宿加农业体验、民宿加产业空间等等模式。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 131.545,
+      "end": 136.71,
+      "label": "mandarin",
+      "text": "真正使群众成为民俗加节点上的建设者和受益者。",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0108,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "真正使群众成为民宿家节点上的建设者和受益者。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 136.908,
+      "end": 141.39,
+      "label": "mandarin",
+      "text": "下一步呢，呃，在旅游路二期已经列入了计划。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下一步呢？呃，在旅游路二期已经列入了计划。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 141.587,
+      "end": 146.826,
+      "label": "mandarin",
+      "text": "呃，然后呢，我们的一些通信啊、网络啊都在加大建设，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0169,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，然后呢，我们的一些通信啊、网络啊，都在加大建设。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 147.4,
+      "end": 149.919,
+      "label": "mandarin",
+      "text": "把这些基础设施建好、建设好，",
+      "score": 0.1198,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2269,
+        "acoustic_dev": 0.23,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把这些基础设施建好，建设好。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 150.097,
+      "end": 152.529,
+      "label": "mandarin",
+      "text": "呃，吸引更多的游客过来。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，吸引更多的游客过来。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 152.529,
+      "end": 156.491,
+      "label": "mandarin",
+      "text": "再有就是举办一些呃体育的赛事，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "再有就是举办一些呃体育的赛事。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 156.491,
+      "end": 161.23,
+      "label": "mandarin",
+      "text": "吸引更多的呃游客来参与体验，",
+      "score": 0.1481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2599,
+        "acoustic_dev": 0.285,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引更多的，呃，游客来参与体验。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 161.64,
+      "end": 164.703,
+      "label": "mandarin",
+      "text": "也把我们的一些瑶族的瑶衣、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也把我们的一些瑶族的瑶衣。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 164.703,
+      "end": 167.668,
+      "label": "guilin",
+      "text": "瑶药来把它开发出来，",
+      "score": 0.5708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2426,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "瑶瑶，来把它开发出来。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 168.042,
+      "end": 170.694,
+      "label": "mandarin",
+      "text": "呃，丰富我们的旅游业态。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，丰富我们的旅游业态。"
+      }
+    }
+  ]
+}

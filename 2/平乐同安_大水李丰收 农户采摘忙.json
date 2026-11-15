@@ -1,0 +1,370 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "平乐同安_大水李丰收 农户采摘忙.wav",
+  "duration": 69.475,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:01:59",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.034,
+      "label": "mandarin",
+      "text": "平罗县同安镇的大水梨也是迎来了丰收，",
+      "score": 0.2218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1938,
+        "acoustic_dev": 0.375,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平罗县同安镇的大水里，也是迎来了丰收。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.223,
+      "end": 6.78,
+      "label": "guilin",
+      "text": "在大李村委大水梨种植基地，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7109,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在大力成为大水利种植基地。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.943,
+      "end": 9.465,
+      "label": "mandarin",
+      "text": "成点点的梨子压弯了枝头，",
+      "score": 0.2906,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0776,
+        "acoustic_dev": 0.131,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "成/沉",
+        "lexicon": "",
+        "text_free": "沉甸甸的栗子压弯了枝头。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 9.465,
+      "end": 16.782,
+      "label": "mandarin",
+      "text": "果农们穿梭其中，熟练地将成熟的果实摘下来，一派繁忙而喜悦的丰收景象。",
+      "score": 0.1295,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.065,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "梭/说",
+        "lexicon": "",
+        "text_free": "果农们传说其中，熟练地将成熟的果实摘下来，一派繁忙而喜悦的丰收景象。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.782,
+      "end": 21.166,
+      "label": "mandarin",
+      "text": "我家种了五亩大水梨，有两百棵，产量很好，价格也不错，",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我家种了五亩大水里，有两百棵，产量很好，价格也不错。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.166,
+      "end": 23.656,
+      "label": "mandarin",
+      "text": "预计能有四万块钱左右的收入。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "预计能有四万块钱左右的收入。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 23.697,
+      "end": 26.901,
+      "label": "mandarin",
+      "text": "近年来，平安镇立足本地优势资源，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，平安镇立足本地优势资源。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.066,
+      "end": 30.707,
+      "label": "mandarin",
+      "text": "通过技术指导、品种改良等等系列措施，",
+      "score": 0.0104,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0247,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过技术指导、品种改良等等系列措施。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.937,
+      "end": 34.832,
+      "label": "mandarin",
+      "text": "大力推动大水梨向规模化、标准化迈进，",
+      "score": 0.2383,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2074,
+        "acoustic_dev": 0.403,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大力推动大水利向规模化、标准化迈进。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.04,
+      "end": 38.282,
+      "label": "mandarin",
+      "text": "全方位提升大水梨产业发展质效。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0152,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全方位提升大水利产业发展质效。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 38.648,
+      "end": 41.876,
+      "label": "mandarin",
+      "text": "目前，全镇大水梨种植面积八百余亩，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，全镇大水里种植面积八百余亩。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 42.096,
+      "end": 44.956,
+      "label": "mandarin",
+      "text": "预计总产量大概二十四万斤。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0078,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "预计总产量大概二十四万斤。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.221,
+      "end": 48.323,
+      "label": "mandarin",
+      "text": "同时，该镇还积极引入电商平台，",
+      "score": 0.2286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0686,
+        "acoustic_dev": 0.112,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "镇/正",
+        "lexicon": "",
+        "text_free": "同时，改正还积极引入电商平台。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 48.526,
+      "end": 52.691,
+      "label": "uncertain",
+      "text": "采用线上加线下模式拓宽销售渠道，",
+      "score": 0.5117,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4841,
+        "acoustic_dev": 0.984,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "采用线上加线下模式，拓宽销售渠道。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 52.807,
+      "end": 57.121,
+      "label": "mandarin",
+      "text": "让特色水果走出当地，销往全国各地。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让特色水果走出当地，销往全国各地。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 57.121,
+      "end": 59.513,
+      "label": "uncertain",
+      "text": "同安大水梨品质非常好，",
+      "score": 0.401,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3408,
+        "acoustic_dev": 0.683,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同安大水里品质非常好。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 59.873,
+      "end": 62.288,
+      "label": "guilin",
+      "text": "个头比较大，青甜多汁，",
+      "score": 0.5708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5223,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "个头比较大，清甜多汁。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 62.288,
+      "end": 65.544,
+      "label": "mandarin",
+      "text": "现在每天在抖音平台能够接到两百多单，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在每天在抖音平台能够接到两百多单。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 65.544,
+      "end": 69.475,
+      "label": "mandarin",
+      "text": "收购两千多斤的大水梨，销往全国各地。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "收购两千多斤的大水里，销往全国各地。"
+      }
+    }
+  ]
+}

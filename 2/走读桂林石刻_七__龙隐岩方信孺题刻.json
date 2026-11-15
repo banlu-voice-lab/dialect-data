@@ -1,0 +1,1681 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "走读桂林石刻_七__龙隐岩方信孺题刻.wav",
+  "duration": 365.21,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:57:59",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.027,
+      "label": "mandarin",
+      "text": "今天我们继续来测一下周读桂林石刻的半路。",
+      "score": 0.3165,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4646,
+        "acoustic_dev": 0.233,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "周/走",
+        "lexicon": "板路",
+        "text_free": "今天我们继续来测一下走读桂林时刻的板路。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.286,
+      "end": 8.06,
+      "label": "mandarin",
+      "text": "今天我们要讲一讲方兴如在龙英庵的题刻，",
+      "score": 0.2922,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5042,
+        "acoustic_dev": 0.269,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们要讲一讲方兴宇在龙鹰案里提课。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.292,
+      "end": 13.021,
+      "label": "mandarin",
+      "text": "包括四节堂题榜和龙英洞诗词题刻。",
+      "score": 0.1913,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1372,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.533,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "四/世",
+        "lexicon": "",
+        "text_free": "包括世界堂提纲或龙鹰洞诗词提课。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.283,
+      "end": 22.278,
+      "label": "guilin",
+      "text": "方兴如，字福约，先福建莆田人，",
+      "score": 0.7356,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8498,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.75,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.222,
+        "phon_examples": "字/知 兴/心",
+        "lexicon": "",
+        "text_free": "方心药，知腹药，先服煎蒲田饮。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.295,
+      "end": 27.205,
+      "label": "mandarin",
+      "text": "幼时随到父亲来过桂林，后来又来到桂林做官，",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1672,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "幼时，车到父亲来过桂林，后来又来到桂林州官。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 27.349,
+      "end": 31.089,
+      "label": "mandarin",
+      "text": "担任广西提点刑狱和转运判官。",
+      "score": 0.1055,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0206,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但因广西提点刑狱或转运判官。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.569,
+      "end": 36.263,
+      "label": "mandarin",
+      "text": "他酷爱桂林山水，曾遍游桂林的山山水水，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他酷爱桂林山水，曾遍游桂林的山山水水。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.349,
+      "end": 39.369,
+      "label": "guilin",
+      "text": "留下各类题刻二十五件，",
+      "score": 0.705,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.1549,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.1,
+        "phon_examples": "十/死",
+        "lexicon": "",
+        "text_free": "六侠过雷，体壳恶死无间。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.369,
+      "end": 42.992,
+      "label": "mandarin",
+      "text": "是历代在桂林留下题刻最多的人。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是历代在桂林留下题刻最多的人。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.702,
+      "end": 47.871,
+      "label": "mandarin",
+      "text": "要提这个方兴如，方兴如有一个很大的，",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.18,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要提这个方献孺，方献孺有一个很大的。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.394,
+      "end": 52.396,
+      "label": "mandarin",
+      "text": "在桂林石刻里面，他他有一个很鲜明的一点是什么呢？",
+      "score": 0.0623,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1156,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在《桂林石刻》里面，它它有一个很鲜明的疑点是什么呢？"
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.499,
+      "end": 56.761,
+      "label": "mandarin",
+      "text": "就他留存在桂林的这个摩崖石刻，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0207,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就它留存在桂林的这个摩崖石刻。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.165,
+      "end": 60.398,
+      "label": "mandarin",
+      "text": "在历代以来是最多的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0071,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在历代以来是最多的。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 60.715,
+      "end": 64.119,
+      "label": "mandarin",
+      "text": "原来说好像是有二十五还是二十六件",
+      "score": 0.0857,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1938,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "原来书行是有二十五还是二十六件。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.119,
+      "end": 67.905,
+      "label": "mandarin",
+      "text": "左右，呃，如果包括比如说像兴安、",
+      "score": 0.1352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.078,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "兴/新",
+        "lexicon": "",
+        "text_free": "左右，呃，如果包括比如说像新安。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 68.06,
+      "end": 72.286,
+      "label": "mandarin",
+      "text": "灵桂，就包括县里面，我最新的统计好像是",
+      "score": 0.1269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1362,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "灵/临",
+        "lexicon": "",
+        "text_free": "临桂就包括县里面，我最新的统计好像是。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.697,
+      "end": 76.216,
+      "label": "mandarin",
+      "text": "有三十、三十三件还是怎么样。",
+      "score": 0.2948,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7449,
+        "acoustic_dev": 0.49,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "么样",
+        "text_free": "有三十三十三件，还是怎么样？"
+      }
+    },
+    {
+      "id": 18,
+      "start": 76.576,
+      "end": 79.42,
+      "label": "mandarin",
+      "text": "反正不管怎么样，就说方兴如是",
+      "score": 0.0769,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2147,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "么样",
+        "text_free": "反正不管怎么样，就是说，方兴如是。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 79.917,
+      "end": 82.686,
+      "label": "mandarin",
+      "text": "留存在桂林的石刻，方兴如是第一人。",
+      "score": 0.1748,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.01,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "兴/新",
+        "lexicon": "",
+        "text_free": "留存在桂林的时刻，方新儒是第一人。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 82.686,
+      "end": 86.967,
+      "label": "mandarin",
+      "text": "我们说他是桂林石刻第一人，就他留存的石刻数量是最多的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们说他是桂林石刻第一人，就他留存的石刻数量是最多的。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.394,
+      "end": 91.85,
+      "label": "uncertain",
+      "text": "龙英庵龙英洞原有方兴如题刻五件，",
+      "score": 0.4397,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6662,
+        "acoustic_dev": 0.418,
+        "seg_cer": 0.533,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "英/隐 英/隐",
+        "lexicon": "",
+        "text_free": "龙隐暗龙隐洞，原有方形楼梯，可五阶。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 91.958,
+      "end": 97.898,
+      "label": "mandarin",
+      "text": "现经能够看到的只有一件诗词题刻和四节堂的题榜。",
+      "score": 0.219,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3299,
+        "acoustic_dev": 0.109,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "四/诗 经/今",
+        "lexicon": "",
+        "text_free": "现今能够看到的只有一件《诗词题刻》和《诗界堂》的题榜。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 98.193,
+      "end": 104.251,
+      "label": "mandarin",
+      "text": "四节堂由南宋名臣易符于南宋嘉定八年，",
+      "score": 0.1701,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0278,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "四/史",
+        "lexicon": "",
+        "text_free": "史杰堂由南宋名臣尹富于南宋嘉定八年。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 104.251,
+      "end": 109.216,
+      "label": "mandarin",
+      "text": "也就是公元一二一五年书写并刻于龙英庵上，",
+      "score": 0.3316,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5957,
+        "acoustic_dev": 0.353,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "英/隐",
+        "lexicon": "",
+        "text_free": "也就是公元一二一五年，书写并刻于龙隐岩上。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 109.544,
+      "end": 113.109,
+      "label": "mandarin",
+      "text": "字体为楷书，高四百五十厘米，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "字体为楷书，高四百五十厘米。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 113.109,
+      "end": 117.487,
+      "label": "mandarin",
+      "text": "宽一百七十五厘米。当时方兴如来到桂林，",
+      "score": 0.1295,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4261,
+        "acoustic_dev": 0.197,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宽一百七十五厘米。当时，方兴友来到桂林。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 117.784,
+      "end": 120.612,
+      "label": "mandarin",
+      "text": "感念父亲在桂林为官多年，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0957,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感念父亲在桂林为官多年。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 120.612,
+      "end": 123.25,
+      "label": "uncertain",
+      "text": "善行仁政，深得民心，",
+      "score": 0.4418,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6706,
+        "acoustic_dev": 0.422,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "善/三",
+        "lexicon": "",
+        "text_free": "三姓印证，深得民心。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 123.347,
+      "end": 127.659,
+      "label": "mandarin",
+      "text": "于是建四节堂，欲追先父美德，",
+      "score": 0.3129,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4166,
+        "acoustic_dev": 0.189,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "四/世",
+        "lexicon": "",
+        "text_free": "于是见世皆堂，欲追先富美德。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 127.659,
+      "end": 130.139,
+      "label": "uncertain",
+      "text": "以示世代节操永保。",
+      "score": 0.5377,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0025,
+        "acoustic_dev": 0.726,
+        "seg_cer": 0.625,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一是时代节操拥抱。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 132.594,
+      "end": 135.74,
+      "label": "mandarin",
+      "text": "这一块石刻是与他有关系的，四节堂。",
+      "score": 0.1844,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1249,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "四/世",
+        "lexicon": "",
+        "text_free": "这一块时刻是与它有关系的，世界堂。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 135.774,
+      "end": 138.759,
+      "label": "mandarin",
+      "text": "嗯，方兴如从这个道州",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1206,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，方兴如从这个道州。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 139.582,
+      "end": 142.192,
+      "label": "mandarin",
+      "text": "来桂林这里做官没多久，",
+      "score": 0.2444,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7233,
+        "acoustic_dev": 0.47,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来桂林这里做官，没多久。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 144.325,
+      "end": 147.245,
+      "label": "mandarin",
+      "text": "就把他做官的地方重新翻新，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就把他做官的地方重新翻新。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 147.245,
+      "end": 149.48,
+      "label": "guilin",
+      "text": "把它命名为这个四节堂。啊，",
+      "score": 0.7447,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3111,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "四/世",
+        "lexicon": "",
+        "text_free": "把它命名为“这个世界堂”。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 150.254,
+      "end": 153.923,
+      "label": "mandarin",
+      "text": "这个易符是湖南长沙人啊，",
+      "score": 0.1401,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4176,
+        "acoustic_dev": 0.189,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个易孚是湖南长沙人啊。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 154.052,
+      "end": 157.029,
+      "label": "mandarin",
+      "text": "由易符来书了这个牌匾，",
+      "score": 0.1371,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0105,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "由一幅来，梳了这个牌匾。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 157.373,
+      "end": 159.833,
+      "label": "mandarin",
+      "text": "不仅挂在他办公的地方啊，还要",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅挂在他办公的地方啊，还要。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 159.833,
+      "end": 163.218,
+      "label": "mandarin",
+      "text": "把它刻在这个山崖石壁上。就是",
+      "score": 0.1703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0478,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "把它刻在这个三阳石壁上，就是。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 163.232,
+      "end": 167.484,
+      "label": "mandarin",
+      "text": "因为方方兴如的父亲方松谦啊，在他来桂林做官的二十年间，",
+      "score": 0.0549,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0532,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为方方兴儒的父亲方松清啊，在他来桂林做官的二十年前。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 167.484,
+      "end": 169.83,
+      "label": "mandarin",
+      "text": "也在桂林这个地方做官，而且是一个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也在桂林这个地方做官，而且是一个。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 170.2,
+      "end": 173.64,
+      "label": "mandarin",
+      "text": "对桂林这一个地方做了很大的贡献，",
+      "score": 0.0161,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2448,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对桂林这一个地方，做了很大的贡献。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 173.729,
+      "end": 176.362,
+      "label": "mandarin",
+      "text": "桂林的老百姓对他都呃很崇敬，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0063,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林的老百姓对他都呃很崇敬。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 176.362,
+      "end": 180.683,
+      "label": "mandarin",
+      "text": "所以方兴如来这里做官，肯定也是想以他父亲为这个表率",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以方献如来这里做官，肯定也是想以他父亲为这个表率。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 180.751,
+      "end": 184.539,
+      "label": "mandarin",
+      "text": "啊，所以他把这里命名为四节堂。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，所以，他把这里命名为“四杰堂”。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 184.539,
+      "end": 188.497,
+      "label": "mandarin",
+      "text": "啊，也是这样一个意思，想传承他父亲的一些这个好的做法，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，也是这样一个意思：，想传承他父亲的一些这个好的做法。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 188.601,
+      "end": 190.718,
+      "label": "uncertain",
+      "text": "以他父亲的为表率啊，",
+      "score": 0.5465,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2496,
+        "acoustic_dev": 0.953,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以他父亲的为表率。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 190.718,
+      "end": 194.238,
+      "label": "mandarin",
+      "text": "一些气节，一些这个做人的这个标准等等。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，一些气节，一些这个做人的这个标准等等。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 196.723,
+      "end": 203.617,
+      "label": "mandarin",
+      "text": "看完石阶唐题榜，我们来到了方兴佑在龙隐洞里另外一件题刻这开。",
+      "score": 0.3,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4507,
+        "acoustic_dev": 0.22,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "隐/英 兴/信",
+        "lexicon": "",
+        "text_free": "看完《世界唐题榜》，我们来到了方信孺在龙英洞里另外一间题刻这块。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 203.973,
+      "end": 206.565,
+      "label": "mandarin",
+      "text": "这件题刻右边是一首诗，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这件题刻右边是一首诗。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 206.615,
+      "end": 209.85,
+      "label": "mandarin",
+      "text": "左边是西江月的一首词，",
+      "score": 0.1834,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5954,
+        "acoustic_dev": 0.353,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "左边是《西江月》的一首词。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 210.253,
+      "end": 213.763,
+      "label": "uncertain",
+      "text": "是方兴佑留城内唯一词作。",
+      "score": 0.5463,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0205,
+        "acoustic_dev": 0.743,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是方清如流传的唯一词作。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 213.863,
+      "end": 216.63,
+      "label": "guilin",
+      "text": "这件石刻已经有点模糊了，",
+      "score": 0.5616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4195,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "整件石刻已经有点模糊了。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 216.895,
+      "end": 219.765,
+      "label": "mandarin",
+      "text": "要仔细辨认才看得清楚。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要仔细辨认，才看得清楚。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 222.58,
+      "end": 224.915,
+      "label": "mandarin",
+      "text": "桂林石刻它有一个很大的特点，",
+      "score": 0.0993,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4192,
+        "acoustic_dev": 0.191,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林石刻，它有一个很大的特点。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 225.018,
+      "end": 228.055,
+      "label": "mandarin",
+      "text": "它是在露天立体的这个展陈，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它是在露天立体的这个展陈。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 228.221,
+      "end": 232.148,
+      "label": "mandarin",
+      "text": "也就是说你很少能看到，它是在这个",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0086,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也就是说，你很少能看到，他是在这个。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 232.148,
+      "end": 235.458,
+      "label": "mandarin",
+      "text": "能够四周都能够保护起来的是啊，",
+      "score": 0.2081,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5103,
+        "acoustic_dev": 0.275,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能够四周都能够保护起来了，是吧？"
+      }
+    },
+    {
+      "id": 59,
+      "start": 235.458,
+      "end": 239.307,
+      "label": "mandarin",
+      "text": "它是在室外的，所以风吹日晒雨淋，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0139,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它是在室外的，所以风吹、日晒、雨淋。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 239.826,
+      "end": 242.809,
+      "label": "mandarin",
+      "text": "时间长了以后，它就有一种情况，",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "时间长了以后，他就有一种情况。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 242.809,
+      "end": 247.605,
+      "label": "mandarin",
+      "text": "就像这里一样的，它的字痕字迹，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0424,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就像这里一样的，它的字痕字迹。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 248.39,
+      "end": 251.557,
+      "label": "mandarin",
+      "text": "逐步逐步就模糊，不怎么看得清楚。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "逐步逐步就模糊，不怎么看得清楚。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 251.756,
+      "end": 254.656,
+      "label": "mandarin",
+      "text": "所以这一块室外立体的这个展陈",
+      "score": 0.1327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "陈/层",
+        "lexicon": "",
+        "text_free": "所以这一块室外立体的这个展层。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 254.843,
+      "end": 257.217,
+      "label": "mandarin",
+      "text": "是石刻的一个很",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是时刻的一个很。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 257.345,
+      "end": 265.775,
+      "label": "mandarin",
+      "text": "重大的这个特点。右侧的诗写的是在游龙隐庵追获桃上蒙云，",
+      "score": 0.3211,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6924,
+        "acoustic_dev": 0.442,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "重大的这个特点。右侧的诗写的是：“载游龙吟岸，追火塔上蒙云。”"
+      }
+    },
+    {
+      "id": 66,
+      "start": 266.064,
+      "end": 269.936,
+      "label": "mandarin",
+      "text": "是门源不锁，庵无本无基，",
+      "score": 0.3378,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5836,
+        "acoustic_dev": 0.342,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是门元不锁，阿物本无机。"
+      }
+    },
+    {
+      "id": 67,
+      "start": 269.936,
+      "end": 274.015,
+      "label": "mandarin",
+      "text": "酒下发幽在，千年树倒垂。",
+      "score": 0.3476,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3947,
+        "acoustic_dev": 0.168,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "年/连 在/债",
+        "lexicon": "",
+        "text_free": "酒下发油债，钱连树倒垂。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 274.33,
+      "end": 278.818,
+      "label": "mandarin",
+      "text": "神仙方定起，客到每归迟。",
+      "score": 0.1942,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2171,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "迟/次",
+        "lexicon": "",
+        "text_free": "神仙方定期，客到每归次。"
+      }
+    },
+    {
+      "id": 69,
+      "start": 278.921,
+      "end": 283.843,
+      "label": "uncertain",
+      "text": "身遇绵年叶，言爱独断碑。",
+      "score": 0.5387,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.855,
+        "acoustic_dev": 0.591,
+        "seg_cer": 0.7,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "年/莲 身/生",
+        "lexicon": "",
+        "text_free": "生鱼眠莲叶，盐爱独端杯。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 283.988,
+      "end": 287.437,
+      "label": "mandarin",
+      "text": "有门洞而无锁，突出了庵洞的特点。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0467,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有门洞而无锁，突出了暗洞的特点。"
+      }
+    },
+    {
+      "id": 71,
+      "start": 287.816,
+      "end": 292.96,
+      "label": "guilin",
+      "text": "看岩江洞内钟玉石，游法石树描绘的栩栩如生。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6153,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.526,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "韩炼将洞内中语事入法诗书，描绘得栩栩如生。"
+      }
+    },
+    {
+      "id": 72,
+      "start": 293.126,
+      "end": 296.045,
+      "label": "mandarin",
+      "text": "洞外已经是炎炎的九夏，",
+      "score": 0.2292,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4998,
+        "acoustic_dev": 0.265,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "东外已经是炎炎的九霞。"
+      }
+    },
+    {
+      "id": 73,
+      "start": 296.178,
+      "end": 299.018,
+      "label": "mandarin",
+      "text": "洞内还是春花犹在。",
+      "score": 0.2483,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2652,
+        "acoustic_dev": 0.05,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "春/存",
+        "lexicon": "",
+        "text_free": "洞内还是存发油渣。"
+      }
+    },
+    {
+      "id": 74,
+      "start": 299.496,
+      "end": 301.883,
+      "label": "guilin",
+      "text": "龙隐庵景色，赏心悦目，",
+      "score": 0.6486,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0761,
+        "acoustic_dev": 0.794,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "隐/英",
+        "lexicon": "",
+        "text_free": "落英暗景色，赏心悦目。"
+      }
+    },
+    {
+      "id": 75,
+      "start": 301.883,
+      "end": 306.051,
+      "label": "mandarin",
+      "text": "养眼流连忘返。再来看西江月的词，",
+      "score": 0.1434,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3748,
+        "acoustic_dev": 0.15,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将盈流连忘返。再来看《西江月》的词。"
+      }
+    },
+    {
+      "id": 76,
+      "start": 306.737,
+      "end": 311.02,
+      "label": "mandarin",
+      "text": "碧洞清安珠玉，红泉白石生寒。",
+      "score": 0.2066,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3248,
+        "acoustic_dev": 0.104,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "碧东晴岸珠雨，红泉白石生寒。"
+      }
+    },
+    {
+      "id": 77,
+      "start": 311.483,
+      "end": 314.323,
+      "label": "guilin",
+      "text": "去来十月九浮山，",
+      "score": 0.7506,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4867,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "去来四月九佛山。"
+      }
+    },
+    {
+      "id": 78,
+      "start": 314.323,
+      "end": 318.819,
+      "label": "guilin",
+      "text": "云消月朗太慢。绝壑偏宜叠古，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5174,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因笑元郎太慢，绝何偏倚跌谷。"
+      }
+    },
+    {
+      "id": 79,
+      "start": 318.819,
+      "end": 321.622,
+      "label": "mandarin",
+      "text": "夕阳修泛归鞍。",
+      "score": 0.2695,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4407,
+        "acoustic_dev": 0.211,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夕阳休饭归安。"
+      }
+    },
+    {
+      "id": 80,
+      "start": 321.758,
+      "end": 324.392,
+      "label": "guilin",
+      "text": "只有未笔生残乱，",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.4925,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "生/身 只/子",
+        "lexicon": "",
+        "text_free": "子幼微，臂身残乱。"
+      }
+    },
+    {
+      "id": 81,
+      "start": 324.856,
+      "end": 332.637,
+      "label": "mandarin",
+      "text": "聊作湘南共岸。这一首词开头用碧青红白表示颜色，",
+      "score": 0.1381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3181,
+        "acoustic_dev": 0.098,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "寥坐湘南公案。这一首词开头用碧青红白表示颜色。"
+      }
+    },
+    {
+      "id": 82,
+      "start": 332.772,
+      "end": 336.491,
+      "label": "guilin",
+      "text": "讲读者带游时在斑斓的石盖。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.0715,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将读者带入色彩斑斓的世界。"
+      }
+    },
+    {
+      "id": 83,
+      "start": 336.653,
+      "end": 339.814,
+      "label": "mandarin",
+      "text": "下片词写龙隐庵的优美景色，",
+      "score": 0.2519,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2451,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "词/翅",
+        "lexicon": "",
+        "text_free": "虾片翅，写龙岩的优美景色。"
+      }
+    },
+    {
+      "id": 84,
+      "start": 339.989,
+      "end": 346.098,
+      "label": "mandarin",
+      "text": "讲作者大饱眼福。结尾写这一次游览堪比仙游，",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1874,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让作者大饱眼福。结尾写这一次游览，堪比先游。"
+      }
+    },
+    {
+      "id": 85,
+      "start": 346.439,
+      "end": 349.953,
+      "label": "mandarin",
+      "text": "夕阳西下，云烟不愿离去。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2076,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夕阳西下，人烟不远离去。"
+      }
+    },
+    {
+      "id": 86,
+      "start": 353.546,
+      "end": 357.352,
+      "label": "mandarin",
+      "text": "龙隐庵走读桂林石刻，我们就和大家先讲到这开了。",
+      "score": 0.2693,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4144,
+        "acoustic_dev": 0.187,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "林/零",
+        "lexicon": "",
+        "text_free": "录音案走读归零时刻，我们就和大家先讲到这开了。"
+      }
+    },
+    {
+      "id": 87,
+      "start": 357.536,
+      "end": 362.598,
+      "label": "mandarin",
+      "text": "等一下，我们带大家去香笔山欣赏一下那开的桂林石刻，",
+      "score": 0.2107,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3598,
+        "acoustic_dev": 0.136,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "那/拉",
+        "lexicon": "",
+        "text_free": "等一下，我们带大家去香碧山，欣赏一下拉开的桂林石刻。"
+      }
+    },
+    {
+      "id": 88,
+      "start": 363.0,
+      "end": 365.21,
+      "label": "mandarin",
+      "text": "更是别有一番韵味的不？",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1118,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是别有一番韵味的不。"
+      }
+    }
+  ]
+}

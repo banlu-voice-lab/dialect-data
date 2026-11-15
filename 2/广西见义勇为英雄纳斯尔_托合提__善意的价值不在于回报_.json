@@ -1,0 +1,655 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "广西见义勇为英雄纳斯尔_托合提__善意的价值不在于回报_.wav",
+  "duration": 154.3,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:06:58",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.288,
+      "end": 4.995,
+      "label": "uncertain",
+      "text": "拉丝尔脱火体是一位来自新疆的维吾尔族的小伙子。",
+      "score": 0.4072,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3161,
+        "acoustic_dev": 0.583,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拉斯厄托霍提是一位来自新疆的维吾尔族的小伙子。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.223,
+      "end": 9.873,
+      "label": "mandarin",
+      "text": "在二零二二年的时候，在七星区的一家台球室里面，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在二零二二年的时候，在七星区的一家台球室里面。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.873,
+      "end": 12.601,
+      "label": "mandarin",
+      "text": "一名歹徒正在持刀行凶。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一名歹徒正在持刀行凶。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.927,
+      "end": 19.048,
+      "label": "mandarin",
+      "text": "拉丝尔毫不犹豫的挺身而出，空手夺刀，勇敢的和歹徒展开了搏斗，",
+      "score": 0.1938,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0813,
+        "acoustic_dev": 0.083,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "丝/时 拉/那",
+        "lexicon": "",
+        "text_free": "那时候毫不犹豫的挺身而出，空手夺刀，勇敢的和歹徒展开了搏斗。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.193,
+      "end": 22.119,
+      "label": "mandarin",
+      "text": "成功的避免了更多人遭受伤害，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0418,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成功的避免了更多人遭受伤害。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.237,
+      "end": 25.416,
+      "label": "mandarin",
+      "text": "而且还协助警方把歹徒快截了。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而且还协助警方把歹徒快结了。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 25.804,
+      "end": 30.618,
+      "label": "mandarin",
+      "text": "他现在呀，光荣入选第十一届广西见义勇为英雄。",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0125,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他现在啊，光荣入选第十一届广西见义勇为英雄。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.618,
+      "end": 34.223,
+      "label": "mandarin",
+      "text": "我们一起去认识一下他。二零二一年，",
+      "score": 0.0008,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0433,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们一起去认识一下他。二零二一年。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.223,
+      "end": 38.878,
+      "label": "uncertain",
+      "text": "拉丝尔和几位新疆老乡来到桂林以卖馕为生。",
+      "score": 0.3802,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2302,
+        "acoustic_dev": 0.4,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "丝/时 拉/那",
+        "lexicon": "",
+        "text_free": "那时候，和几位新疆老乡来到桂林，以卖馕为生。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.203,
+      "end": 43.34,
+      "label": "mandarin",
+      "text": "二零二二年二月这天夜晚，在卖馕手摊后，",
+      "score": 0.3576,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1929,
+        "acoustic_dev": 0.321,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "馕/浪",
+        "lexicon": "",
+        "text_free": "二零二二年二月这天夜晚，在麦浪收摊以后。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.34,
+      "end": 46.94,
+      "label": "guilin",
+      "text": "拉丝尔与老乡到七星区一家台球室放纵。",
+      "score": 0.7276,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5149,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "丝/时 拉/那",
+        "lexicon": "",
+        "text_free": "那时，我与老乡到七星区一家台球室放松。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.296,
+      "end": 53.893,
+      "label": "mandarin",
+      "text": "这个时候，他看到郭某因为贩林前和老板娘发生了激烈的争执，并动手推搡，",
+      "score": 0.1276,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0113,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.097,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "林/零",
+        "lexicon": "",
+        "text_free": "这个时候，他看到郭某因为翻零钱和老板娘发生了激烈的争执，并动手推搡。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 54.28,
+      "end": 58.136,
+      "label": "mandarin",
+      "text": "马上上前劝架，并且果断的把郭某拉开。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "马上上前劝架，并且果断地把郭某拉开。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.37,
+      "end": 60.615,
+      "label": "mandarin",
+      "text": "然而郭某并没有就此罢休，",
+      "score": 0.135,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1644,
+        "acoustic_dev": 0.26,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然而，郭某并没有就此罢休。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 60.895,
+      "end": 65.912,
+      "label": "mandarin",
+      "text": "他气冲冲的下楼，从电瓶车里面取出了一把大概二十厘米的刀。",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他气冲冲地下楼，从电瓶车里面取出了一把大概二十厘米的刀。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 65.946,
+      "end": 69.654,
+      "label": "mandarin",
+      "text": "老板娘见状，拿起拖把试图夺刀，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老板娘见状，拿起拖把试图夺刀。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 69.88,
+      "end": 72.049,
+      "label": "guilin",
+      "text": "拉丝尔等人闻讯冲出，",
+      "score": 0.7724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.051,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "丝/时 拉/那",
+        "lexicon": "",
+        "text_free": "那时，我等人闻讯冲出。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 72.049,
+      "end": 78.192,
+      "label": "mandarin",
+      "text": "没得丝毫犹豫，毅然决然的空手夺刀，成功刺到老板娘夺险。",
+      "score": 0.2073,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0904,
+        "acoustic_dev": 0.102,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "没得丝毫犹豫，一言决言的空手夺刀，成功使得老板娘脱险。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 78.192,
+      "end": 82.855,
+      "label": "guilin",
+      "text": "新疆小伙拉丝尔呃见义勇勇为的行为，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1231,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "新疆小伙，那是呃见义勇为的行为。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 82.982,
+      "end": 85.833,
+      "label": "mandarin",
+      "text": "保护我和我的家人，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "保护我和我的家人。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 86.193,
+      "end": 90.135,
+      "label": "mandarin",
+      "text": "让我们很感动。我们应该向新疆小伙",
+      "score": 0.2379,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2297,
+        "acoustic_dev": 0.399,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让我们很感动，我们应该像新疆小伙。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 90.6,
+      "end": 98.817,
+      "label": "mandarin",
+      "text": "拉丝尔学习。当时郭某在挣扎中持刀乱砍，拉丝尔不幸被刺中肺部受重伤。",
+      "score": 0.1914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0143,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "丝/时 拉/那 丝/时 拉/那",
+        "lexicon": "",
+        "text_free": "那时候学习。当时郭某在挣扎中持刀乱砍，那时候不幸被刺中肺部，受重伤。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 99.064,
+      "end": 104.78,
+      "label": "uncertain",
+      "text": "不过在众人的协助下，警方迅速赶到，并将郭某成功的快截来了。",
+      "score": 0.4556,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3742,
+        "acoustic_dev": 0.707,
+        "seg_cer": 0.192,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不过，在中营的协助下，警方迅速赶到，并将郭某成功地捆起来了。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 104.78,
+      "end": 110.123,
+      "label": "guilin",
+      "text": "拉丝尔脱火体的英勇事迹充分彰显见义勇为的高尚精神。",
+      "score": 0.6996,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.504,
+        "acoustic_dev": 0.984,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "英/引",
+        "lexicon": "",
+        "text_free": "那些托物题的引用事迹，充分彰显见义勇为的高尚精神。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 110.368,
+      "end": 114.996,
+      "label": "mandarin",
+      "text": "他用自己的勇敢和无畏守护了他人的生命安全，",
+      "score": 0.086,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0789,
+        "acoustic_dev": 0.078,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他用自己的勇敢和无畏守护了塔营的生命安全。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 115.362,
+      "end": 119.328,
+      "label": "mandarin",
+      "text": "这也是民族团结一家亲的生动写照，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这也是民族团结一家亲的生动写照。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 119.328,
+      "end": 121.821,
+      "label": "mandarin",
+      "text": "成为了大家学习的楷模。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为了大家学习的楷模。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 122.086,
+      "end": 128.741,
+      "label": "mandarin",
+      "text": "今年四月份，拉丝尔脱火体入选第十一届广西见义勇为英雄。",
+      "score": 0.261,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1955,
+        "acoustic_dev": 0.326,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年四月份，拉斯·托霍提入选第十一届广西见义勇为英雄。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 128.741,
+      "end": 134.605,
+      "label": "guilin",
+      "text": "每次看到为了呃见义勇为带来的自我成长最为深刻，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6999,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "面对受到迫害，而选择见义勇为，带来的自我成长最为深刻。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 134.855,
+      "end": 138.75,
+      "label": "mandarin",
+      "text": "这份经历让我明白善意的价值不在于回报，",
+      "score": 0.1309,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1606,
+        "acoustic_dev": 0.252,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这份经历让我明白：善意的价值不在于回报。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 138.837,
+      "end": 142.207,
+      "label": "mandarin",
+      "text": "而在于它赋予生命的意义。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而在于它赋予生命的意义。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 142.207,
+      "end": 147.845,
+      "label": "mandarin",
+      "text": "当我将这份感悟融入日常，用更积极的态度对待身边人时，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当我将这份感悟融入日常，用更积极的态度对待身边人时。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 148.156,
+      "end": 152.911,
+      "label": "mandarin",
+      "text": "家人朋友也被感染，生活也因此变得更加",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "家人朋友也被感染，生活也因此变得更加。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 152.953,
+      "end": 154.3,
+      "label": "mandarin",
+      "text": "温暖而有力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "温暖而有力。"
+      }
+    }
+  ]
+}

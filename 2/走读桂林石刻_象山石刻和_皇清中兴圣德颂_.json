@@ -1,0 +1,1548 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "走读桂林石刻_象山石刻和_皇清中兴圣德颂_.wav",
+  "duration": 350.91,
+  "no_dialect": false,
+  "created_at": "2026-10-26T01:09:52",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.331,
+      "end": 9.698,
+      "label": "mandarin",
+      "text": "好嘞，今天我们走读桂林石刻的半路，这一站我们要去到象山公园走访一下象鼻山摩崖石刻。",
+      "score": 0.1566,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0718,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.237,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "好的，继续我们的走读桂林时刻的版路。这一站我们要去到香山公园，走访一下香碧山摩崖石刻。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 11.004,
+      "end": 15.21,
+      "label": "mandarin",
+      "text": "象鼻山位于漓江和桃花江汇流处，",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0338,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "香碧山位于漓江和桃花江汇流处。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 15.552,
+      "end": 20.043,
+      "label": "mandarin",
+      "text": "因为山体呢就像一只正在江边喝水的大象而得名的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为山体呢，就像一只正在江边喝水的大象而得名的。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 20.515,
+      "end": 23.954,
+      "label": "mandarin",
+      "text": "从唐代以来，这里就是文人、士大夫、",
+      "score": 0.1806,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2247,
+        "acoustic_dev": 0.222,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从唐代来，这口就是文人、士大夫。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.954,
+      "end": 26.295,
+      "label": "mandarin",
+      "text": "百姓游览的名胜之地。",
+      "score": 0.2016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "名/民",
+        "lexicon": "",
+        "text_free": "百姓游览的民生之地。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.481,
+      "end": 31.175,
+      "label": "mandarin",
+      "text": "大家游览、安顿之余呢，都会在东壁高题名刻石，",
+      "score": 0.2833,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.396,
+        "acoustic_dev": 0.452,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家游览安东之域呢，都会在东壁高题名刻石。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.175,
+      "end": 34.284,
+      "label": "uncertain",
+      "text": "给这片山水呢注入了文化养料，",
+      "score": 0.5474,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7417,
+        "acoustic_dev": 0.917,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给这些山水呢注入了文化的养料。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.284,
+      "end": 38.608,
+      "label": "mandarin",
+      "text": "给它不再寂寞，不断的丰盈千年不衰。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0539,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给他不再寂寞，不断的逢迎，千年不衰。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.116,
+      "end": 43.111,
+      "label": "uncertain",
+      "text": "现在我们在石刻文化传播者秦东法的带领下，",
+      "score": 0.491,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6585,
+        "acoustic_dev": 0.805,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在，我们在市科文化传播者秦东发的带领下。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 43.287,
+      "end": 49.432,
+      "label": "mandarin",
+      "text": "和桂林市导游协会导游们一起，去到象山公园探访这里的摩崖石刻。",
+      "score": 0.1004,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0866,
+        "acoustic_dev": 0.036,
+        "seg_cer": 0.179,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "和桂林市导游谢飞的导游们一起，去到香山公园探访这块的摩崖石刻。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 52.319,
+      "end": 56.503,
+      "label": "mandarin",
+      "text": "从我们今天集合的这个地方，其实有时候我们可以看一下，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从我们今天集合的这个地方，其实有时候我们可以看一下。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 57.465,
+      "end": 62.57,
+      "label": "mandarin",
+      "text": "钟母亭是我们这个桂林著名的这个书法家张开正呃老先生",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0218,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "钟雾亭是我们这个桂林著名的这个书法家张开正，呃，老先生。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 63.08,
+      "end": 67.256,
+      "label": "uncertain",
+      "text": "啊张老师的这个墓宝。我们今天就相当是从这个钟母亭这里开始，",
+      "score": 0.5054,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6613,
+        "acoustic_dev": 0.809,
+        "seg_cer": 0.185,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，张老师的这个墨宝，我们今天就下来是从这个中墓亭这里开始。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 67.256,
+      "end": 70.213,
+      "label": "mandarin",
+      "text": "我们今天的这个象山水月洞石刻的这个",
+      "score": 0.2296,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1449,
+        "acoustic_dev": 0.115,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "山/上",
+        "lexicon": "",
+        "text_free": "我们今天的这个向上水跃洞时刻的这个。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 70.568,
+      "end": 75.562,
+      "label": "uncertain",
+      "text": "讲解啊。象鼻山石刻现存六十件，",
+      "score": 0.389,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3157,
+        "acoustic_dev": 0.344,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "讲解啊！相比之下，时刻现存六四件。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 75.562,
+      "end": 78.863,
+      "label": "mandarin",
+      "text": "其中宋代的二十三件，元代一件，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中，宋代的二十三件，元代一件。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 78.863,
+      "end": 82.133,
+      "label": "mandarin",
+      "text": "明代十二件，清代十四件，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "明代十二件，清代十四件。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 82.133,
+      "end": 87.145,
+      "label": "mandarin",
+      "text": "民国的两件，五年代及新石款的有十二件。",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0112,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "民国的两件，无年代及新式款的有十二件。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 87.296,
+      "end": 90.826,
+      "label": "mandarin",
+      "text": "主要呢是分布在水月洞，有题词、",
+      "score": 0.0467,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0764,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主要呢是分布在水月洞，有题诗。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 91.026,
+      "end": 93.788,
+      "label": "mandarin",
+      "text": "题词、题榜、铭文、",
+      "score": 0.235,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1671,
+        "acoustic_dev": 0.144,
+        "seg_cer": 0.833,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "天赐，体邦命文。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 93.811,
+      "end": 96.457,
+      "label": "guilin",
+      "text": "篆迹、跋刻、铭印",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.9063,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "专辑《八颗命运》。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 96.457,
+      "end": 100.447,
+      "label": "mandarin",
+      "text": "等等作品。呃，现在人看到的主要是这个",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0252,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "等等作品。呃，现在能看到的主要是这个。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 100.587,
+      "end": 104.118,
+      "label": "mandarin",
+      "text": "呃宋代以来，呃特别是南宋以来啊。",
+      "score": 0.1145,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1302,
+        "acoustic_dev": 0.095,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，宋代以来，而且特别是南宋以来啊。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 104.15,
+      "end": 110.723,
+      "label": "mandarin",
+      "text": "为什么又说是南宋以来呢？因为从这个南宋以后，宋是南渡，所以很多都往南方来了啊。",
+      "score": 0.0261,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.057,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为什么又说是南宋以来的？因为从这个南宋以后，宋时南渡，所以很多都往南方来了啊。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 111.143,
+      "end": 114.026,
+      "label": "mandarin",
+      "text": "北宋的时候还相对来说少一点啊，少一点。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "北宋的时候还相对来说少一点啊，少一点。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 114.572,
+      "end": 116.68,
+      "label": "mandarin",
+      "text": "所以这是一个背景。第二个，",
+      "score": 0.052,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1342,
+        "acoustic_dev": 0.1,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以这是一个背景。第二个。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 117.079,
+      "end": 120.573,
+      "label": "mandarin",
+      "text": "我们今天要走读的这个象山水月洞的这个石刻，",
+      "score": 0.1457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0231,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "山/上",
+        "lexicon": "",
+        "text_free": "我们今天要走读的这个向上水月洞的这个石刻。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 120.915,
+      "end": 123.156,
+      "label": "uncertain",
+      "text": "呃可以说啊，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -5.4362,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，可以说啊。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 123.156,
+      "end": 126.484,
+      "label": "mandarin",
+      "text": "它里面涉及到的一些这个人物是这个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它里面涉及到的一些这个人物，是这个。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 126.936,
+      "end": 129.679,
+      "label": "mandarin",
+      "text": "宋代历史上一些响当当的人物。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宋代历史上一些响当当的人物。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 130.639,
+      "end": 133.622,
+      "label": "uncertain",
+      "text": "这些人物里面包括张孝祥、",
+      "score": 0.5002,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5967,
+        "acoustic_dev": 0.722,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这些人物里面啊，包括张小响。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 133.622,
+      "end": 136.498,
+      "label": "mandarin",
+      "text": "张氏、范成大、陆游、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0322,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "张氏、范成大、陆游。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 136.66,
+      "end": 140.92,
+      "label": "mandarin",
+      "text": "方兴如、杨万里等等，他们有的呢是在桂林做官，",
+      "score": 0.2217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1544,
+        "acoustic_dev": 0.127,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "兴/新",
+        "lexicon": "",
+        "text_free": "方新如、杨万里等等，他们有的呢是在桂林走过。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 141.362,
+      "end": 143.976,
+      "label": "mandarin",
+      "text": "有的呢跟桂林啊有很大的联系。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0077,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有的呢，跟桂林啊有很大的联系。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 144.687,
+      "end": 147.734,
+      "label": "mandarin",
+      "text": "比方讲，诗人陆游，他虽然没有来过桂林，",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0306,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比方讲，适应路友。他虽然没有来过桂林。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 147.734,
+      "end": 152.176,
+      "label": "mandarin",
+      "text": "但是给桂林留下的诗歌、行札就被镌刻在了象鼻山。",
+      "score": 0.335,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2613,
+        "acoustic_dev": 0.271,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "行/新",
+        "lexicon": "",
+        "text_free": "但是，给桂林有一些的石锅、新炸就被镌刻在了象鼻山。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 154.405,
+      "end": 161.579,
+      "label": "mandarin",
+      "text": "这个杨万里、陆游又被号称是南宋中兴的四大家之一、四大诗人啊。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个杨万里、陆游又被号称是南宋中兴的四大家之一，四大诗人啊。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 161.589,
+      "end": 168.474,
+      "label": "mandarin",
+      "text": "刚刚讲的这个张氏，又属于这个叫东南三贤，就著名的这个理学家跟这个",
+      "score": 0.0152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "刚刚讲的这个张栻，又属于这个叫东南三贤，就著名的这个理学家跟这个。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 168.661,
+      "end": 172.004,
+      "label": "mandarin",
+      "text": "吕祖谦、呃朱熹他们一起啊，三个人一起，",
+      "score": 0.2143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0598,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "祖/主 吕/女",
+        "lexicon": "",
+        "text_free": "呃，女主青，呃，朱熹他们一起啊，三个人一起。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 172.004,
+      "end": 176.37,
+      "label": "mandarin",
+      "text": "所以这些人物一个又在桂林这里做官，",
+      "score": 0.2191,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.373,
+        "acoustic_dev": 0.421,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以这些人物，一个，又在桂林这里做官。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 176.37,
+      "end": 181.074,
+      "label": "mandarin",
+      "text": "当时的话呢，这是南宋宋代三个官是最大的一个，是。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0318,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当时的话呢，这是南宋宋代三个官，是最大的一个是。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 181.163,
+      "end": 183.786,
+      "label": "guilin",
+      "text": "广西钦南府史一般都兼职这个钦南知府，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3582,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.588,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广西军区的安抚室一般都兼着这个紧张之府。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 183.786,
+      "end": 189.924,
+      "label": "mandarin",
+      "text": "还有一个是广西提领刑狱，就主管这个呃司法这一块的啊，政法司法这一块的，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0239,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有个是广西提点刑狱，就主管这个呃司法这一块的啊，政法司法这一块的。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 189.924,
+      "end": 196.909,
+      "label": "mandarin",
+      "text": "还有一个就是转运判官，啊，就负责这个漕运这一块的啊，漕运这这三驾马车就三三个人是",
+      "score": 0.0247,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.054,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有一个，就转运判官，啊，就负责这个漕运这一块的啊。漕运税，这三驾马车，就三三个人是。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 197.015,
+      "end": 201.302,
+      "label": "mandarin",
+      "text": "广西广南西路，他是官职是最大的啊。",
+      "score": 0.0314,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0611,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广西广南西路，它是官职是最大的啊。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 202.955,
+      "end": 206.552,
+      "label": "mandarin",
+      "text": "沿到江边，我们从中武亭来到了水东湾，",
+      "score": 0.2332,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2706,
+        "acoustic_dev": 0.284,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "沿到江边，我们从钟木亭来到了水东岸。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 207.045,
+      "end": 209.265,
+      "label": "guilin",
+      "text": "在东湾临江的悬崖壁高上，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9414,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在东外临江的悬崖，逼告他。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 209.265,
+      "end": 213.433,
+      "label": "guilin",
+      "text": "我们看到了一件黄清忠兴圣德颂的石刻，",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8031,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.412,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.429,
+        "phon_examples": "圣/深 忠/宗 清/亲",
+        "lexicon": "",
+        "text_free": "我们看到了一件皇亲宗亲深得颂的时刻。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 213.61,
+      "end": 217.151,
+      "label": "mandarin",
+      "text": "它是清光绪九年公元一八八三年",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他是清光绪九年，公元一八八三年。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 217.376,
+      "end": 219.845,
+      "label": "guilin",
+      "text": "广西巡抚黎文蔚所刻的，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2871,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.8,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "光熙寻夫，李文蔚说：“可。”"
+      }
+    },
+    {
+      "id": 51,
+      "start": 220.225,
+      "end": 225.755,
+      "label": "mandarin",
+      "text": "是桂林现存的两千多幅啊石刻当中形制最大的一幅。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0049,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是桂林现存的两千多幅摩崖石刻当中，形制最大的一幅。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 226.946,
+      "end": 230.24,
+      "label": "mandarin",
+      "text": "呃，如果大家去过这个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，如果大家去过这个。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 230.538,
+      "end": 234.439,
+      "label": "mandarin",
+      "text": "湖南的浯溪啊，浯溪碑林，你们可以知道了有",
+      "score": 0.2946,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2522,
+        "acoustic_dev": 0.259,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "湖南的无锡啊，无锡碑林，你们会知道那里有。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 234.629,
+      "end": 238.492,
+      "label": "mandarin",
+      "text": "三件很重要的与这些相关的，",
+      "score": 0.2003,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3462,
+        "acoustic_dev": 0.385,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三件很重要的与这些相关的。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 238.695,
+      "end": 241.88,
+      "label": "uncertain",
+      "text": "其中一件最有名的这个大唐忠兴颂啊，",
+      "score": 0.4701,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.691,
+        "acoustic_dev": 0.849,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中一件最有名的，这个《大唐中兴颂》啊。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 241.88,
+      "end": 247.283,
+      "label": "mandarin",
+      "text": "浯溪碑林，然后浯溪碑林还有一件呃大宋忠兴颂啊，",
+      "score": 0.1088,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0281,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.238,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "无锡碑林，然后无锡碑林还有一件，呃，大宋中兴颂啊。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 247.283,
+      "end": 249.611,
+      "label": "mandarin",
+      "text": "还有一件是这个大明忠兴颂，",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0146,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有一件是这个大明中兴颂。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 249.611,
+      "end": 254.297,
+      "label": "mandarin",
+      "text": "但唯独缺一个清代的，叫大清的忠兴颂啊，就就这一件。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0382,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但唯独缺一个清代的，就大清的中兴颂啊，就就这一件。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 255.663,
+      "end": 260.254,
+      "label": "mandarin",
+      "text": "这件石刻啊，高两百五十七厘米，宽七百五十二厘米，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这件石刻啊，高两百五十七厘米，宽七百五十二厘米。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 260.42,
+      "end": 266.807,
+      "label": "mandarin",
+      "text": "全文为隶书体，是唯一对太平天国进行猛烈抨击的石刻。",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全文为隶书体，是唯一对太平天国进行猛烈抨击的时刻。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 267.206,
+      "end": 270.041,
+      "label": "mandarin",
+      "text": "一八五五年，洪秀全带兵攻打桂林，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0049,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一八五二年，洪秀全带兵攻打桂林。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 270.25,
+      "end": 273.986,
+      "label": "mandarin",
+      "text": "象山的云峰寺曾经是他的战地指挥部，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0423,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "香山的云峰寺曾经是他的战地指挥部。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 274.26,
+      "end": 277.944,
+      "label": "mandarin",
+      "text": "他在山顶的普贤塔四周架设了大炮，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0177,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他在山顶的普贤塔四周架设了大炮。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 277.944,
+      "end": 280.719,
+      "label": "mandarin",
+      "text": "攻击桂林城长达四十多天。",
+      "score": 0.2842,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1481,
+        "acoustic_dev": 0.119,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "林/零",
+        "lexicon": "",
+        "text_free": "共计归零，城长达四十多天。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 281.672,
+      "end": 284.535,
+      "label": "guilin",
+      "text": "咸丰初年，洪秀全长乱广西，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.961,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.818,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "先锋初年，红球犬苍鸾，光喜。"
+      }
+    },
+    {
+      "id": 66,
+      "start": 284.565,
+      "end": 287.528,
+      "label": "guilin",
+      "text": "两公皇太后临朝，首主建宁，",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1842,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "主/足",
+        "lexicon": "",
+        "text_free": "想共皇太后临朝，手足结义。"
+      }
+    },
+    {
+      "id": 67,
+      "start": 287.659,
+      "end": 291.293,
+      "label": "guilin",
+      "text": "郭兴盛次弟开奏，群盗西平。",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8518,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.727,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "奏/州 次/赤 盛/深 兴/信",
+        "lexicon": "",
+        "text_free": "过信深赤地，开州郡道，西平。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 291.666,
+      "end": 294.59,
+      "label": "mandarin",
+      "text": "由于石刻位置太高，至今啊保存尚好。",
+      "score": 0.1748,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0492,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "至/资",
+        "lexicon": "",
+        "text_free": "由于石科位置太高，资金啊保存尚好。"
+      }
+    },
+    {
+      "id": 69,
+      "start": 297.23,
+      "end": 299.798,
+      "label": "mandarin",
+      "text": "石刻最初诞生的时候，",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "时刻最初诞生的时候。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 299.798,
+      "end": 302.327,
+      "label": "mandarin",
+      "text": "它的最主要的功能之一，其实就是为了",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它的最主要的功能之一，其实就是为了。"
+      }
+    },
+    {
+      "id": 71,
+      "start": 302.818,
+      "end": 306.034,
+      "label": "uncertain",
+      "text": "把这个功绩政绩刻在石头上，",
+      "score": 0.4774,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5244,
+        "acoustic_dev": 0.625,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把这个攻击正极刻在石头上。"
+      }
+    },
+    {
+      "id": 72,
+      "start": 306.034,
+      "end": 315.125,
+      "label": "mandarin",
+      "text": "把它传留下去，而不像现在我们看到更多的桂林的石刻，现在宋代的都是从一些个人的游山玩水来",
+      "score": 0.0223,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0075,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.049,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把它，传流下去，而不像现在我们看到更多的桂林的时刻。现在宋代的都是从一些个人的游山玩水来。"
+      }
+    },
+    {
+      "id": 73,
+      "start": 315.676,
+      "end": 319.186,
+      "label": "mandarin",
+      "text": "体验刻下来。最初包括这个秦始皇什么",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0252,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "体验刻下来，最初包括这个秦始皇什么。"
+      }
+    },
+    {
+      "id": 74,
+      "start": 319.384,
+      "end": 322.725,
+      "label": "mandarin",
+      "text": "泰山刻石啊，最早其实也是为了这个功德，哎呀，是为了",
+      "score": 0.2056,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2349,
+        "acoustic_dev": 0.236,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，泰山刻石啊，最早其实也是为了这个功德，也是为。"
+      }
+    },
+    {
+      "id": 75,
+      "start": 323.285,
+      "end": 326.553,
+      "label": "mandarin",
+      "text": "这，也是为了这个功德，所以这是一个基本的东西。",
+      "score": 0.024,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0614,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是为了这个功德，所以这是一个基本的东西。"
+      }
+    },
+    {
+      "id": 76,
+      "start": 326.708,
+      "end": 329.865,
+      "label": "mandarin",
+      "text": "呃，黎文蔚这一块也是因为什么嘞？",
+      "score": 0.2719,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2046,
+        "acoustic_dev": 0.195,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "呃，李文蔚这一块也是因为什么呢？就是。"
+      }
+    },
+    {
+      "id": 77,
+      "start": 329.865,
+      "end": 333.169,
+      "label": "uncertain",
+      "text": "就是太平天国以后被剿灭了以后，",
+      "score": 0.4385,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5933,
+        "acoustic_dev": 0.718,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "太平天国以后被剿灭了。以后。"
+      }
+    },
+    {
+      "id": 78,
+      "start": 333.217,
+      "end": 336.775,
+      "label": "mandarin",
+      "text": "这时候，所以当时清代有个叫忠兴啊，",
+      "score": 0.0991,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1143,
+        "acoustic_dev": 0.073,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这时候，所以当时清代有个叫钟惺啊。"
+      }
+    },
+    {
+      "id": 79,
+      "start": 336.775,
+      "end": 342.398,
+      "label": "mandarin",
+      "text": "大清忠兴圣德颂，所以他把这些呃功绩皇帝的功绩",
+      "score": 0.1843,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1095,
+        "acoustic_dev": 0.067,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "兴/心",
+        "lexicon": "",
+        "text_free": "大清中心，圣德颂，所以他把这些呃功绩传递的功绩。"
+      }
+    },
+    {
+      "id": 80,
+      "start": 342.65,
+      "end": 345.086,
+      "label": "mandarin",
+      "text": "写下来刻在这个地方，蛮大的一件的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "写下来，刻在这个地方，蛮大的一件的。"
+      }
+    },
+    {
+      "id": 81,
+      "start": 345.086,
+      "end": 350.91,
+      "label": "mandarin",
+      "text": "走读桂林石刻的半路，今天就扯到这开，有时间再和大家接着扯。",
+      "score": 0.2643,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1793,
+        "acoustic_dev": 0.161,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "板路",
+        "text_free": "走读桂林市区的板路，今天就车到这开。有时间，我们再和大家接到车。"
+      }
+    }
+  ]
+}

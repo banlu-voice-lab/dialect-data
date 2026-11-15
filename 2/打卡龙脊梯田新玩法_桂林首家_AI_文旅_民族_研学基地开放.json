@@ -1,0 +1,408 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "打卡龙脊梯田新玩法_桂林首家_AI_文旅_民族_研学基地开放.wav",
+  "duration": 107.621,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:15:15",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.792,
+      "end": 6.347,
+      "label": "uncertain",
+      "text": "前几天，融合前沿科技与民族风情的龙胜人工智能与",
+      "score": 0.496,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2632,
+        "acoustic_dev": 0.834,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天，用户前沿科技与民族风情的龙生人工智能与。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.435,
+      "end": 10.916,
+      "label": "mandarin",
+      "text": "研学中心在龙脊梯田景区正式揭牌。",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0294,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进研学中心，在龙吉梯田景区正式揭牌。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.209,
+      "end": 18.332,
+      "label": "mandarin",
+      "text": "该中心开创了科技加教育加旅游加民族文化四位一体的研学模式，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0092,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "该中心开创了科技加教育加旅游加民族文化思维一体的研学模式。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.498,
+      "end": 21.932,
+      "label": "mandarin",
+      "text": "为龙脊景区注入了全新的科技内涵，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0074,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为龙脊景区注入了全新的科技内涵。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.125,
+      "end": 27.5,
+      "label": "mandarin",
+      "text": "为游客提供了更深层次、互动性更强的智能化体验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为游客提供了更深层次、互动性更强的智能化体验。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 27.5,
+      "end": 37.594,
+      "label": "mandarin",
+      "text": "我们一起可好好感受下子。该研学中心将人工智能、机器人技术与龙脊梯田生态文化、多民族人文风情深度融合，",
+      "score": 0.1112,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0543,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.152,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "龙/农",
+        "lexicon": "",
+        "text_free": "我们一起去好好感受一下子。该研学中心将人工智能、机器人技术与农技体验、生态文明、多民族人文风情深度融合。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 37.806,
+      "end": 39.979,
+      "label": "uncertain",
+      "text": "设计开发特色实践项目，",
+      "score": 0.5206,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.261,
+        "acoustic_dev": 0.825,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "设计开发特色时间项目。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 40.2,
+      "end": 44.289,
+      "label": "guilin",
+      "text": "打造出机器人语音园、龙虎鏖战漫游剧场、",
+      "score": 0.6545,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6612,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造出激情数字音源，龙虎鏖战漫游剧场。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 44.289,
+      "end": 48.339,
+      "label": "mandarin",
+      "text": "科创研学实践工坊等七大核心体验空间。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0106,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "科创研学、实践工坊等七大核心体验空间。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.627,
+      "end": 52.968,
+      "label": "mandarin",
+      "text": "学生们不仅能够学习编程、机器人操控等前沿科技，",
+      "score": 0.2497,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1433,
+        "acoustic_dev": 0.355,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "说：“他们不仅能够学习编程、机器操控等前沿科技。”"
+      }
+    },
+    {
+      "id": 11,
+      "start": 53.224,
+      "end": 58.991,
+      "label": "mandarin",
+      "text": "更能够通过科技手段参与民族文化体验和传统工艺创新设计，",
+      "score": 0.1554,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.104,
+        "acoustic_dev": 0.197,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更能够通过科技手段参与民族文化提炼或传统工艺创新设计。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 59.407,
+      "end": 64.884,
+      "label": "mandarin",
+      "text": "在真实场景当中实现跨学科学习与创新能力培养。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0547,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在真实场景当中，实现跨学科学习与创新能力培养。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 65.04,
+      "end": 70.796,
+      "label": "mandarin",
+      "text": "在课程设置方面，中心精心打造了四大人工智能课程类别、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在课程设置方面，中心精心打造了四大人工智能课程类别。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 71.024,
+      "end": 77.238,
+      "label": "mandarin",
+      "text": "一百家主题课程，以及“启智、加探智、加研智、加创智”为主线，",
+      "score": 0.0794,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0737,
+        "acoustic_dev": 0.076,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一百加主体课程，以及启智、加探智、加研智、加创智为主线。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 77.507,
+      "end": 83.748,
+      "label": "mandarin",
+      "text": "充分满足从幼儿园到高中不同学习阶段学生的科创探索需求。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "充分满足从幼儿园到高中不同学习阶段学生的科创探索需求。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 83.748,
+      "end": 88.149,
+      "label": "mandarin",
+      "text": "孩子们在科创研学实践工坊里面动手操作，",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0096,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "八爷仔们在科创研学实践工坊里面动手操作。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 88.372,
+      "end": 91.499,
+      "label": "mandarin",
+      "text": "在与机器人的互动当中学习知识，",
+      "score": 0.3252,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.211,
+        "acoustic_dev": 0.625,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在与机器人的互动当中，学习知识。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 91.687,
+      "end": 94.603,
+      "label": "mandarin",
+      "text": "在小组合作完成任务的过程当中，",
+      "score": 0.1367,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1204,
+        "acoustic_dev": 0.263,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在小组合作完成任务的过程当中。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 94.603,
+      "end": 96.864,
+      "label": "mandarin",
+      "text": "培养了团队协作能力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "培养了团队协作能力。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 96.864,
+      "end": 100.125,
+      "label": "mandarin",
+      "text": "我喜欢本次活动，因为本次活动",
+      "score": 0.1627,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.116,
+        "acoustic_dev": 0.245,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很喜欢本次活动，因为本次活动。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 102.062,
+      "end": 107.621,
+      "label": "mandarin",
+      "text": "让我感受到了AI技术的强大。在在我长大以后，我还要继续创新这一方面。",
+      "score": 0.3204,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1633,
+        "acoustic_dev": 0.434,
+        "seg_cer": 0.207,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "技术的强大，在在我长大以后，我还要继续创新这一方面。"
+      }
+    }
+  ]
+}

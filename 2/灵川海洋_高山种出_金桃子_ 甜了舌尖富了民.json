@@ -1,0 +1,864 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "灵川海洋_高山种出_金桃子_ 甜了舌尖富了民.wav",
+  "duration": 200.206,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:45:59",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.334,
+      "label": "guilin",
+      "text": "这段时间，我们桂林地区的各种时令水果是集中加又到了成熟期。",
+      "score": 0.688,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.79,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.185,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "令/林",
+        "lexicon": "",
+        "text_free": "这一段时间啊，我们桂林地区的各种市林水果是集中加油到了成熟期。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.554,
+      "end": 9.292,
+      "label": "mandarin",
+      "text": "今天呢，我们就来一起关注一下，",
+      "score": 0.0317,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0494,
+        "acoustic_dev": 0.061,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天呢，我们就来一起关注一下。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.42,
+      "end": 15.475,
+      "label": "guilin",
+      "text": "在临川县海洋乡万亩桃园满山遍野的拳头最晚枝头，",
+      "score": 0.6812,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6387,
+        "acoustic_dev": 0.99,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "最/缀",
+        "lexicon": "",
+        "text_free": "在临川县海阳乡万某桃园，满山遍野的薰桃缀满枝头。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.708,
+      "end": 22.377,
+      "label": "mandarin",
+      "text": "将起伏的山丘装点成了一片粉红与翠绿交织的锦绣画卷。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将起伏的山丘装点成了一片粉红与翠绿交织的锦绣画卷。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 27.384,
+      "end": 31.121,
+      "label": "mandarin",
+      "text": "海洋乡的桃园里，眼下是一派繁忙景象。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "海洋乡的桃源里，眼下是一派繁忙景象。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 31.257,
+      "end": 34.923,
+      "label": "mandarin",
+      "text": "果农们穿梭于桃林间，熟练的采摘、分拣，",
+      "score": 0.0522,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0396,
+        "acoustic_dev": 0.045,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "果农们穿梭于桃林间，熟练地采摘、分拣。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 35.153,
+      "end": 37.467,
+      "label": "mandarin",
+      "text": "最后装车运往收购点。",
+      "score": 0.2034,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1969,
+        "acoustic_dev": 0.293,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "随后，装车运往收购点。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.537,
+      "end": 40.925,
+      "label": "mandarin",
+      "text": "好多附近的村民也在收购点打零工，",
+      "score": 0.0705,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0082,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "好多附近嘞村民也在收购点打零工。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 40.925,
+      "end": 46.12,
+      "label": "mandarin",
+      "text": "忙到打包、贴标签，已经成为了他们增收的重要渠道。",
+      "score": 0.011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0242,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "忙到打包贴标签，已经成为了他们增收的重要渠道。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 46.12,
+      "end": 55.049,
+      "label": "mandarin",
+      "text": "我是隔壁村的。然后呢，现在是呃水果季节嘛，我们就每天就送完小孩子就可以过来这边装点，",
+      "score": 0.012,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0108,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.026,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是隔壁村的，然后呢，现在是呃水果季节嘛，我们就每天就送完小孩子就可以过来这边赚点。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 55.049,
+      "end": 61.078,
+      "label": "uncertain",
+      "text": "然后还是收入嘛，一天也赚个呃七八十块，有些好一点，如果老板收多点，",
+      "score": 0.4088,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.394,
+        "acoustic_dev": 0.604,
+        "seg_cer": 0.207,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "外的收入嘛，一天也赚个呃七八十块，有些好一点。如果老板收入多一点。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 61.078,
+      "end": 65.626,
+      "label": "mandarin",
+      "text": "会得到一百块左右这样子啊。海洋乡平均海拔超过六百米，",
+      "score": 0.326,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3155,
+        "acoustic_dev": 0.48,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "得个一百块左右，这样子吧。海洋箱平均海拔超过六百米。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 65.626,
+      "end": 72.924,
+      "label": "mandarin",
+      "text": "昼夜温差显著，独特的高山地理气候为拳头的生长提供了得天独厚的条件。",
+      "score": 0.0295,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0092,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.065,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "昼夜温差显著，独特的高山地理气候为薰陶的生长提供了得天独厚的条件。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 73.284,
+      "end": 77.321,
+      "label": "mandarin",
+      "text": "如今每天都有大量新鲜的桃子从这里启程，",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0494,
+        "acoustic_dev": 0.061,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如今每天都有大量新鲜的桃子从这克启程。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 77.515,
+      "end": 81.617,
+      "label": "mandarin",
+      "text": "通过便捷的物流网络直送各地市场。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过便捷的物流网络，直送各地市场。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 82.44,
+      "end": 85.412,
+      "label": "mandarin",
+      "text": "现在我们主要的销往的桃子啊，",
+      "score": 0.2502,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1082,
+        "acoustic_dev": 0.154,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "往/完",
+        "lexicon": "",
+        "text_free": "现在我们主要的销完了桃子啊。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 85.497,
+      "end": 89.008,
+      "label": "mandarin",
+      "text": "销往的就是两广或者是广西、广东，",
+      "score": 0.0239,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.04,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "销往的就是两广，或者是广西、广东。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 89.151,
+      "end": 93.137,
+      "label": "mandarin",
+      "text": "还有湖南啊、贵州，还有东北那边啊。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有湖南啊，贵州，还有东北那边啊。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 93.159,
+      "end": 98.003,
+      "label": "mandarin",
+      "text": "然后我们收购的采购的量大概就是一万到两万多斤左右。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后我们收购的采购的量大概就是一万到两万多斤左右。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 98.003,
+      "end": 101.574,
+      "label": "mandarin",
+      "text": "就像我们这边的桃子呢，品质啊，今年是很好的，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就像我们这边的桃子呢，品质啊，今年是很好的。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 101.985,
+      "end": 105.207,
+      "label": "mandarin",
+      "text": "然后个头、颜色、口感都比较好，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后个头、颜色、口感都比较好。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 106.024,
+      "end": 108.733,
+      "label": "mandarin",
+      "text": "外地的朋友都比较喜欢啊，都喜欢吃。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "外地的朋友都比较喜欢啊，都喜欢吃。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 108.733,
+      "end": 113.737,
+      "label": "mandarin",
+      "text": "很多我们这边呢，很多就像外地的啊，都是然后发快递寄往",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很多我们这边呢，很多就像外地的啊，都是然后发快递寄往。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 113.737,
+      "end": 118.366,
+      "label": "uncertain",
+      "text": "全国各地。经过三十多年的精心培育与发展，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6493,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全国各地经过三十多年 的精心培育与发展。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 118.366,
+      "end": 121.481,
+      "label": "guilin",
+      "text": "海洋乡已经形成包括曙光油桃、",
+      "score": 0.5903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2351,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "海洋箱已经形成，包括曙光油套。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 121.65,
+      "end": 124.963,
+      "label": "mandarin",
+      "text": "春美蜜桃、毛桃、锦绣黄桃、",
+      "score": 0.1625,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0975,
+        "acoustic_dev": 0.137,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "纯美猕桃、毛桃、锦绣黄桃。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 125.106,
+      "end": 128.624,
+      "label": "guilin",
+      "text": "银嘴桃等在内的多样化品种体系，",
+      "score": 0.6506,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3953,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用这套等等在内的多样化品种体系。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 128.852,
+      "end": 136.492,
+      "label": "mandarin",
+      "text": "实现了错峰上市。桃子产业已经成为海洋乡极具代表性的特色农业名片。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现了错峰上市。桃子产业已经成为海洋乡极具代表性的特色农业名片。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 136.492,
+      "end": 139.587,
+      "label": "mandarin",
+      "text": "我们这里种桃子有三十多年的历史了，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们这里种桃子有三十多年的历史了。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 139.587,
+      "end": 143.988,
+      "label": "mandarin",
+      "text": "因为我们这里海拔比较高，有小气候，",
+      "score": 0.0021,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0133,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为我们这里海拔比较高，有小气候。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 143.988,
+      "end": 146.426,
+      "label": "mandarin",
+      "text": "种出来的桃子比外面的桃子脆甜。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "种出来的桃子比外面的桃子脆甜。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 146.64,
+      "end": 149.935,
+      "label": "mandarin",
+      "text": "每亩大约在四千斤左右，",
+      "score": 0.0051,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.017,
+        "acoustic_dev": 0.01,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每亩大约在四千斤左右。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 150.325,
+      "end": 153.188,
+      "label": "mandarin",
+      "text": "给农民带来一万块钱左右的收入。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给农民带来一万块钱左右的收入。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 153.863,
+      "end": 159.92,
+      "label": "mandarin",
+      "text": "近年来，海洋乡立足当地资源禀赋，坚持生态优先、绿色发展理念，",
+      "score": 0.0631,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0877,
+        "acoustic_dev": 0.121,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，海洋乡立足当地资源禀赋，坚持生态优先绿色发展理念。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 160.129,
+      "end": 164.608,
+      "label": "mandarin",
+      "text": "将桃产业确立为富民强乡的主导产业。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将套产业确立为富民强乡的主导产业。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 164.859,
+      "end": 167.1,
+      "label": "mandarin",
+      "text": "通过科学引导品种改良、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过科学引导品种改良。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 167.185,
+      "end": 169.599,
+      "label": "uncertain",
+      "text": "加强品牌建设等措施，",
+      "score": 0.4929,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5501,
+        "acoustic_dev": 0.85,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加强品牌建设等等措施。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 169.858,
+      "end": 173.094,
+      "label": "guilin",
+      "text": "持续推动桃产业提质增效、",
+      "score": 0.5616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0059,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "持续推动套产业提质增效。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 173.094,
+      "end": 175.777,
+      "label": "mandarin",
+      "text": "规模效益日益凸显。",
+      "score": 0.2977,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1787,
+        "acoustic_dev": 0.265,
+        "seg_cer": 0.75,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "规模小，以以图先。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 175.777,
+      "end": 179.861,
+      "label": "mandarin",
+      "text": "近年来，海洋乡依靠得天独厚的自然资源优势，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，海洋乡依靠得天独厚的自然资源优势。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 180.209,
+      "end": 183.539,
+      "label": "mandarin",
+      "text": "持续做好特色文章，做优金字招牌。",
+      "score": 0.1653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "字/致 金/精",
+        "lexicon": "",
+        "text_free": "持续做好特色文章，做优精致招牌。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 183.805,
+      "end": 186.826,
+      "label": "mandarin",
+      "text": "全乡桃子总种植面积二点六万亩，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全乡桃子总种植面积二点六万亩。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 187.069,
+      "end": 191.465,
+      "label": "mandarin",
+      "text": "产量预计四万吨。我们积极引导农户改良品质，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产量预计四万吨。我们积极引导农户改良品质。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 191.66,
+      "end": 195.345,
+      "label": "mandarin",
+      "text": "持续做大做强特色产业，激发桃产业活力，",
+      "score": 0.0839,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0802,
+        "acoustic_dev": 0.11,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "持续做大做强特色产业，激发陶产业活力。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 195.553,
+      "end": 200.206,
+      "label": "mandarin",
+      "text": "书写生态美、产业兴、百姓富的乡村振兴新篇章。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "书写生态美、产业兴、百姓富的乡村振兴新篇章。"
+      }
+    }
+  ]
+}

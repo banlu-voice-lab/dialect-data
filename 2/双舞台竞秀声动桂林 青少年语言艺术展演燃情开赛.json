@@ -1,0 +1,731 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "双舞台竞秀声动桂林 青少年语言艺术展演燃情开赛.wav",
+  "duration": 189.088,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:00:11",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.298,
+      "label": "mandarin",
+      "text": "前几天，东听中国话和法语、北京少林语言艺术展演桂林赛区活动正式开启了。",
+      "score": 0.2808,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7297,
+        "acoustic_dev": 0.279,
+        "seg_cer": 0.219,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "林/零",
+        "lexicon": "",
+        "text_free": "前几天，东厅中国发和法语北青少年语言艺术展演归零社区活动正式开启了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.52,
+      "end": 14.005,
+      "label": "mandarin",
+      "text": "一百二十余名语言新秀在双舞台的设置当中展开了激烈对决。",
+      "score": 0.1361,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "新/行",
+        "lexicon": "",
+        "text_free": "一百二十余名语言行秀在双舞台的设置当中展开了技艺对决。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 14.199,
+      "end": 18.3,
+      "label": "mandarin",
+      "text": "最后啊，让我们一起来一睹大家的风采吧。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最后啊，让我们一起来一睹大家的风采吧。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.42,
+      "end": 22.264,
+      "label": "mandarin",
+      "text": "当天的展演活动首次采用双舞台设置，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0071,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当天的展演活动首次采用双舞台设置。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.484,
+      "end": 27.628,
+      "label": "mandarin",
+      "text": "打破传统设置框架，为每位选手提供两次展现机会。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打破传统设置框架，为每位选手提供两次展现机会。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 27.971,
+      "end": 34.453,
+      "label": "mandarin",
+      "text": "在新媒体指挥中心，主委会指定稿件考验选手们的吐字归音的基本功底；",
+      "score": 0.1782,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0733,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "主/组",
+        "lexicon": "嘞",
+        "text_free": "在新媒体指挥中心，组委会指定稿件，考验选手们嘞文字归因嘞基本功底。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 34.736,
+      "end": 38.725,
+      "label": "mandarin",
+      "text": "第二舞台则设在桂林市融媒体中心演播大厅，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第二舞台则设在桂林市融媒体中心演播大厅。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 38.725,
+      "end": 41.255,
+      "label": "mandarin",
+      "text": "选手需要自备朗诵作品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0074,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "选手需要自备朗诵作品。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.338,
+      "end": 49.884,
+      "label": "mandarin",
+      "text": "绽放自己独特的风采。而专业级的演播环境也为大家构建起多维度的艺术展演空间。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0118,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "绽放自己独特的风采，而专业级的演播环境也为大家构建起多维度的艺术展演空间。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 49.884,
+      "end": 52.611,
+      "label": "guilin",
+      "text": "比赛",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -19.6937,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "时，那个不屈的灵魂。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 65.969,
+      "end": 69.569,
+      "label": "mandarin",
+      "text": "当中，选手们以饱满的热情投入展演，",
+      "score": 0.0256,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1401,
+        "acoustic_dev": 0.049,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当中，选手们以饱满的热情投入展演。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 69.773,
+      "end": 72.304,
+      "label": "mandarin",
+      "text": "或慷慨激昂，或深情款款，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "或慷慨激昂，或深情款款。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 72.535,
+      "end": 76.532,
+      "label": "mandarin",
+      "text": "用朗诵形式将文字化为动人的旋律。",
+      "score": 0.0308,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0156,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用朗诵形式将文字化为动听的旋律。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 76.803,
+      "end": 81.549,
+      "label": "mandarin",
+      "text": "台下评委团队以专业眼光审视每一位选手的表现，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "台下评委团队以专业眼光审视每一位选手的表现。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 81.837,
+      "end": 84.32,
+      "label": "mandarin",
+      "text": "从发音技巧、情感表达、",
+      "score": 0.0037,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.032,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从发音技巧、情感表达。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 84.32,
+      "end": 88.181,
+      "label": "mandarin",
+      "text": "舞台表现力等等多维度进行细致点评，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "舞台表现力等等多维度进行细致点评。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 88.495,
+      "end": 92.913,
+      "label": "mandarin",
+      "text": "助力他们在语言艺术的道路上更进一步。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "助力他们在语言艺术的道路上更进一步。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 92.913,
+      "end": 95.029,
+      "label": "guilin",
+      "text": "我们这位选手台风很好，",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.9626,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那我们这位选手啊，台风很好。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 95.029,
+      "end": 99.056,
+      "label": "mandarin",
+      "text": "站在舞台上也很大方，包括动作处理也都非常不错。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "站在舞台上也很大方，包括动作处理也都非常不错。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 99.141,
+      "end": 104.022,
+      "label": "guilin",
+      "text": "但是就我们的这个作品表演，他还是稍微平淡了一点。",
+      "score": 0.5841,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.4866,
+        "acoustic_dev": 0.963,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是，就我们的整个作品表演来看啊，还是稍微平淡了一点。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 104.133,
+      "end": 107.919,
+      "label": "guilin",
+      "text": "实际上，我们这个作品讲很多的展现出一些恐惧，",
+      "score": 0.632,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.5689,
+        "acoustic_dev": 0.996,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实际上，我们这个作品应该更多的展现出一些童趣。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 107.919,
+      "end": 111.54,
+      "label": "uncertain",
+      "text": "一些活泼的，像地球上的孩子。",
+      "score": 0.5139,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.798,
+        "acoustic_dev": 0.695,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一些活泼的，你看《早安地球上的孩子》。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 111.54,
+      "end": 115.192,
+      "label": "guilin",
+      "text": "那么，我们的这个童真、天真的孩子就有活泼的感觉，",
+      "score": 0.6506,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.5656,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么，我们的这个童真表现出孩子的这种活泼的感觉。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 115.192,
+      "end": 123.18,
+      "label": "mandarin",
+      "text": "多少少一点。播放一些情感情绪啊，去为我们描绘那个诗词的世界，它是多么多么的",
+      "score": 0.1806,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3079,
+        "acoustic_dev": 0.115,
+        "seg_cer": 0.265,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们稍微少了一点，播放一些情感进去啊，去为我们描绘那个诗词的世界，它是那么那么的。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 123.829,
+      "end": 133.894,
+      "label": "mandarin",
+      "text": "美。在语言方面呢，希望你不需要好好地把那个平翘舌把它区分开，把平翘舌音呢把它标准的、标准的，",
+      "score": 0.159,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1934,
+        "acoustic_dev": 0.07,
+        "seg_cer": 0.268,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在语音方面呢，希望你回去啊，好好的把那个平翘舌把它区分开，把平翘舌音呢，把它给咬准了，咬标准了。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 133.943,
+      "end": 138.943,
+      "label": "mandarin",
+      "text": "好不好？此次活动将按照主编设置特奖、金奖、",
+      "score": 0.161,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5577,
+        "acoustic_dev": 0.212,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好不好？此次活动将按照主别设置特金奖、金奖。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 138.943,
+      "end": 144.44,
+      "label": "mandarin",
+      "text": "银奖、铜奖等等奖项，并颁发社会时间证明以及荣誉证书。",
+      "score": 0.1628,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1119,
+        "acoustic_dev": 0.038,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "银/应",
+        "lexicon": "",
+        "text_free": "应奖、铜奖等等奖项，并颁发收费时间证明以及荣誉证书。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 144.684,
+      "end": 147.04,
+      "label": "mandarin",
+      "text": "这不仅仅是一场竞技活动，",
+      "score": 0.1571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3788,
+        "acoustic_dev": 0.142,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这不仅仅是一场经济活动。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 147.219,
+      "end": 150.328,
+      "label": "mandarin",
+      "text": "更是一次文化的交流与碰撞。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0121,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是一次文化的交流与碰撞。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 150.68,
+      "end": 156.944,
+      "label": "mandarin",
+      "text": "通过语言艺术的舞台，桂林市融媒体中心也展现了新时代媒体的文化担当，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过语言艺术的舞台，桂林市融媒体中心也展现了新时代媒体的文化担当。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 157.226,
+      "end": 162.044,
+      "label": "mandarin",
+      "text": "为本地语言艺术爱好者提供了展示与成长的平台，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为本地语言艺术爱好者提供了展示与成长的平台。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 162.386,
+      "end": 166.557,
+      "label": "mandarin",
+      "text": "让更多人感受到中华语言的韵律之美。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让更多人感受到中华语言的韵律之美。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 166.682,
+      "end": 169.966,
+      "label": "guilin",
+      "text": "今天我选的作品是我是一个人喜欢的孩子，",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.6071,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我选择的作品是《我是一个任性的孩子》。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 170.573,
+      "end": 175.007,
+      "label": "mandarin",
+      "text": "这首诗，这首诗歌他主要出了一个。",
+      "score": 0.0994,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0209,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这首诗，这首诗歌，它表达出了一个。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 175.007,
+      "end": 179.089,
+      "label": "mandarin",
+      "text": "呃，诗人顾城对美好生活的向往，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，诗人顾城对美好生活的向往。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 179.515,
+      "end": 182.916,
+      "label": "mandarin",
+      "text": "我觉得参加这次活动让我受益匪浅。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我觉得参加这次活动让我受益匪浅。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 182.916,
+      "end": 185.478,
+      "label": "mandarin",
+      "text": "他更让我更好的理解了文字，",
+      "score": 0.057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1072,
+        "acoustic_dev": 0.036,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它更让我更好的理解了文字。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 185.742,
+      "end": 189.088,
+      "label": "mandarin",
+      "text": "也让我对自己有了更好的认识。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也让我对自己有了更好的认识。"
+      }
+    }
+  ]
+}

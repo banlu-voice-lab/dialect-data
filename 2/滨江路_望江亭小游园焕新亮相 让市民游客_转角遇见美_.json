@@ -1,0 +1,1187 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "滨江路_望江亭小游园焕新亮相 让市民游客_转角遇见美_.wav",
+  "duration": 276.304,
+  "no_dialect": false,
+  "created_at": "2026-10-26T00:39:29",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.834,
+      "label": "mandarin",
+      "text": "今天首先我们来关注一下我们桂林的城市绿地建设。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0109,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天，首先我们来关注一下我们桂林的城市绿地建设。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.36,
+      "end": 10.382,
+      "label": "mandarin",
+      "text": "滨江路望江亭小游园位于象山景区三号门附近，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0106,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "滨江路望江亭小游园位于象山景区三号门附近。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.628,
+      "end": 15.729,
+      "label": "mandarin",
+      "text": "是连接城市核心景区以及人流通行的重要节点。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是连接城市核心景区以及人流通行的重要节点。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.956,
+      "end": 21.993,
+      "label": "mandarin",
+      "text": "但是呢，因为年久失修，没了办法满足市民游客休闲休憩的需求，",
+      "score": 0.1111,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0509,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "但是咧，因为年久失修，没了办法满足市民游客休闲休憩的需求。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.194,
+      "end": 29.409,
+      "label": "mandarin",
+      "text": "所以前几天市园林部门实施完成了滨江路望江亭小游园改造提升工程。",
+      "score": 0.0179,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0277,
+        "acoustic_dev": 0.034,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以前几天，市园林部门实施完成了滨江路望江亭小游园改造提升工程。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 29.689,
+      "end": 34.612,
+      "label": "mandarin",
+      "text": "小游园三年一新，让市民游客穿过遇见美。",
+      "score": 0.157,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0658,
+        "acoustic_dev": 0.147,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "小游园翻页一新，让市民游客转过遇见美。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 34.612,
+      "end": 37.78,
+      "label": "mandarin",
+      "text": "那下面我们一起去现场看一下。",
+      "score": 0.2494,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1328,
+        "acoustic_dev": 0.344,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那下面我们一起去现场，去买一下。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 43.62,
+      "end": 50.035,
+      "label": "uncertain",
+      "text": "接着来到已经升级完成的望江亭小游园，看到这开始开阔明亮，",
+      "score": 0.4504,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2524,
+        "acoustic_dev": 0.697,
+        "seg_cer": 0.192,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记者来到已经升级完成的望江亭小游园，看到这口视野开阔明亮。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 50.204,
+      "end": 52.917,
+      "label": "mandarin",
+      "text": "红花绿树高低错落有致，",
+      "score": 0.1556,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.028,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "红发露梳，高低错落有致。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 53.165,
+      "end": 57.421,
+      "label": "mandarin",
+      "text": "路面拓宽并且升级成了透水混凝土材料，",
+      "score": 0.2115,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.154,
+        "acoustic_dev": 0.407,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "路面拓宽，并且升级成了透水混凝土材料。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 57.658,
+      "end": 60.818,
+      "label": "guilin",
+      "text": "能够同时满足多赢穿梭其间。",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5177,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能够同时满足多屏穿梭期间。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 61.144,
+      "end": 66.258,
+      "label": "mandarin",
+      "text": "接着来到滨江路望江亭小游园，始建于一九八六年，",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0207,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接着，两个到滨江路望江亭小游园，始建于一九八六年。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 66.531,
+      "end": 69.784,
+      "label": "mandarin",
+      "text": "曾经在一九九九年进行过一次改造，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "曾经在一九九九年进行过一次改造。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 69.814,
+      "end": 72.43,
+      "label": "uncertain",
+      "text": "但是由于建城时间比较长，",
+      "score": 0.5398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3138,
+        "acoustic_dev": 0.878,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是由于煎成时间比较长。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 72.653,
+      "end": 75.253,
+      "label": "guilin",
+      "text": "绿地杂乱、铺装破损高、",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.5061,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "陆地杂乱，铺装坡升高。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 75.253,
+      "end": 77.882,
+      "label": "guilin",
+      "text": "路窄等问题日益凸显，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.7667,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.778,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "卢者登文体，以以凸显。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 78.039,
+      "end": 82.247,
+      "label": "mandarin",
+      "text": "与城市发展不协调。根据市委市政府部署，",
+      "score": 0.0162,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0266,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "与城市发展不协调。根据市委市政府部署。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 82.453,
+      "end": 85.76,
+      "label": "mandarin",
+      "text": "在市林业和园林局的组织下，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在市林业和园林局的组织下。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 85.901,
+      "end": 88.282,
+      "label": "guilin",
+      "text": "经市园林设计院设计，",
+      "score": 0.7216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3598,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "经/金",
+        "lexicon": "",
+        "text_free": "金石园林设计院设计。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 88.282,
+      "end": 93.293,
+      "label": "mandarin",
+      "text": "市绿化工程处对望江亭小游园实施了改造升级。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是绿化工程初，对望江亭小游园实施了改造升级。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 93.293,
+      "end": 96.223,
+      "label": "guilin",
+      "text": "在保留了原有的水龙、大桂花、",
+      "score": 0.7343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6172,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "龙/榕",
+        "lexicon": "",
+        "text_free": "在保留了原有的小叶榕、大桂花。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 96.223,
+      "end": 99.19,
+      "label": "mandarin",
+      "text": "古楝树等大型乔木骨架的基础上，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "古栎树等大型乔木骨架的基础上。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 99.19,
+      "end": 105.895,
+      "label": "mandarin",
+      "text": "突破了传统的绿化模式，引入了花境及海绵雨水花园的理念进行了改造。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "突破了传统的绿化模式，引入了花境及海绵雨水花园的理念，进行了改造。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 106.36,
+      "end": 112.706,
+      "label": "mandarin",
+      "text": "在不影响空间景观及通透性的前提下，使用了四十种植物进行组合搭配，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在不影响空间景观及通透性的前提下，使用了四十种植物进行组合搭配。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 112.963,
+      "end": 117.098,
+      "label": "mandarin",
+      "text": "让绿地空间形成了不同的主景观和植物组团景观。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让绿地空间形成了不同的主景观和植物组团景观。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 117.098,
+      "end": 125.207,
+      "label": "mandarin",
+      "text": "我们把这个面向这个山湖日双塔景区以及我们象鼻山和漓江的这个视线通廊给它进行了一个呃打开。",
+      "score": 0.0425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0078,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.093,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们把这个望向这个珊瑚日月双塔景区，以及我们象鼻山和漓江的这个视线通廊，给它进行了一个呃打开。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 125.335,
+      "end": 130.783,
+      "label": "mandarin",
+      "text": "那么第二个的话呢，我们考虑结合这个海绵城市以及城市双修的这个呃设计要求，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么第二个的话呢，我们考虑结合这个海绵城市以及城市双修的这个呃设计要求。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 130.921,
+      "end": 134.982,
+      "label": "mandarin",
+      "text": "那么在这个整个节点里面布置了有这个海绵花园、",
+      "score": 0.03,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0356,
+        "acoustic_dev": 0.058,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么，在这个整个节点里面布置了有这个海绵花园。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 134.982,
+      "end": 138.405,
+      "label": "mandarin",
+      "text": "呃雨水花园以及这个花境的这个设计亮点。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0085,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，雨水花园以及这个花境的这个设计亮点。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 138.405,
+      "end": 143.708,
+      "label": "mandarin",
+      "text": "整个游园当中，我们拓宽了这个铺装面的面积，包括园路以及这个休息广场平台，",
+      "score": 0.0139,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.03,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "整个游园当中，我们拓宽了这个铺装面的面积，包括原路以及这个休息广场平台。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 143.762,
+      "end": 147.5,
+      "label": "mandarin",
+      "text": "那么也是为了满足这个桂林建设世界级旅游城市的这个要求。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么也是为了满足这个桂林建设世界级旅游城市的这个要求。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 147.624,
+      "end": 153.952,
+      "label": "mandarin",
+      "text": "那么充分考虑市民以及游客休憩和游玩的这个通行的这个交通功能的这个考虑。",
+      "score": 0.0134,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.029,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么，充分考虑市民以及游客的休憩和游玩的这个通行的这个交通功能的这个考虑。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 154.0,
+      "end": 158.392,
+      "label": "mandarin",
+      "text": "改造后的小游园，绿地面积一千五百八十九平方米，",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "改造后的小油园，陆地面积一千五百八十九平方米。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 158.663,
+      "end": 162.068,
+      "label": "mandarin",
+      "text": "铺装面积一千七百八十四平方米，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "铺装面积一千七百八十四平方米。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 162.363,
+      "end": 164.858,
+      "label": "mandarin",
+      "text": "结合海绵城市建设理念，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "结合海绵城市建设理念。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 164.858,
+      "end": 168.434,
+      "label": "mandarin",
+      "text": "还铺装了透水混凝土一千两百平方米，",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0063,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还铺装了透水分层土一千两百平方米。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 168.726,
+      "end": 170.984,
+      "label": "mandarin",
+      "text": "设置路处雨水花园。",
+      "score": 0.3542,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2098,
+        "acoustic_dev": 0.571,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "设置六处雨水花园。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 170.984,
+      "end": 175.792,
+      "label": "mandarin",
+      "text": "滨江节点内道路拓宽至二点五到三米。",
+      "score": 0.1571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "滨/并",
+        "lexicon": "",
+        "text_free": "并将节点内道路拓宽至二点五到三米。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 175.792,
+      "end": 180.508,
+      "label": "uncertain",
+      "text": "将迎新道靠近节点一侧扩宽两米以上，",
+      "score": 0.4429,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1837,
+        "acoustic_dev": 0.495,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "新/形 迎/隐",
+        "lexicon": "",
+        "text_free": "将隐形刀靠近节点一侧，扩宽两米以上。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 180.8,
+      "end": 186.077,
+      "label": "mandarin",
+      "text": "空间更加宽敞，在雨季道路路面也不再积水湿滑，",
+      "score": 0.231,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0716,
+        "acoustic_dev": 0.164,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "湿/四",
+        "lexicon": "",
+        "text_free": "空间更加宽敞，在雨季道路路面也不再积水四发。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 186.325,
+      "end": 190.285,
+      "label": "mandarin",
+      "text": "达到了小雨不湿鞋、大雨不积水的效果。",
+      "score": 0.0288,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0348,
+        "acoustic_dev": 0.055,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "达到了“小雨不湿鞋，大雨不积水”的效果。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 190.682,
+      "end": 197.358,
+      "label": "mandarin",
+      "text": "另外，新的望江亭小游园还使用四十多种植物进行合理分布搭配，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0079,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "另外，新的望江亭小游园还使用四十多种植物进行合理分布搭配。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 197.673,
+      "end": 202.056,
+      "label": "mandarin",
+      "text": "营造了疏朗又不失精致的植物景观，",
+      "score": 0.001,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0166,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "营造了疏朗又不失精致的植物景观。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 202.314,
+      "end": 207.308,
+      "label": "mandarin",
+      "text": "大大地提升节点整体景观以及视线的通透感，",
+      "score": 0.0076,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.021,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大大地提升节点整体景观以及视线的通透感。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 207.834,
+      "end": 211.181,
+      "label": "mandarin",
+      "text": "也更适于市民游客在此",
+      "score": 0.0606,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0257,
+        "acoustic_dev": 0.029,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也更适合市民游客在此。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 211.595,
+      "end": 215.121,
+      "label": "guilin",
+      "text": "休憩休闲。这边的水也很宽阔呀，然后后面，",
+      "score": 0.6276,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9785,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其休闲，这边的视野很宽阔呀。然后后面。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 215.251,
+      "end": 218.474,
+      "label": "mandarin",
+      "text": "哎，有些微风吹过，就感觉给人的感觉就很舒服。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哎，有些微风吹过，就感觉给人的感觉就很舒服。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 218.794,
+      "end": 221.517,
+      "label": "mandarin",
+      "text": "很多也很鲜艳，然后开得也很好。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很多，也很鲜艳，然后开的也很好。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 221.517,
+      "end": 224.418,
+      "label": "mandarin",
+      "text": "老年人有一个早上早锻炼的",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老年人有一个早上早锻炼的。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 224.612,
+      "end": 228.392,
+      "label": "mandarin",
+      "text": "一个很好的这个场所，游客有游客的",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一个很好的这个场所，游客有游客的。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 228.474,
+      "end": 232.258,
+      "label": "mandarin",
+      "text": "行进的路线，我们打球有我们打球的范围，",
+      "score": 0.0099,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0225,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "行进的路线，我们打球有我们打球的范围。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 232.258,
+      "end": 235.217,
+      "label": "mandarin",
+      "text": "没有发生交叉的，也就避免了一些",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "没有发生交叉的，也就避免了一些。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 235.669,
+      "end": 238.627,
+      "label": "mandarin",
+      "text": "不好的这个小摩擦，",
+      "score": 0.2471,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1772,
+        "acoustic_dev": 0.475,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不好的，这个小摩擦。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 238.665,
+      "end": 241.374,
+      "label": "mandarin",
+      "text": "就也彰显了我们桂林",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就也彰显了我们桂林人。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 241.914,
+      "end": 244.734,
+      "label": "guilin",
+      "text": "人啊这份啊热情。",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7395,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，这份啊热情。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 244.734,
+      "end": 250.286,
+      "label": "mandarin",
+      "text": "望江亭小游园是近几年桂林城市绿地提质增效的一个缩影。",
+      "score": 0.1366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "增/整",
+        "lexicon": "",
+        "text_free": "望江亭小游园是近几年桂林城市绿地提质整校的一个缩影。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 250.463,
+      "end": 253.856,
+      "label": "mandarin",
+      "text": "近两年，小东江穿山小街岸线绿地、",
+      "score": 0.2963,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1454,
+        "acoustic_dev": 0.381,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近两年，小东江穿山小街安线路低。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 254.053,
+      "end": 257.555,
+      "label": "uncertain",
+      "text": "环城西一路南溪河边节点绿地、",
+      "score": 0.4739,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2793,
+        "acoustic_dev": 0.776,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "凡城西一路，南溪河边节点路地。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 257.711,
+      "end": 264.341,
+      "label": "mandarin",
+      "text": "玉山桥头西侧绿地、机场路都都山节点绿地均进行了提升改造。",
+      "score": 0.0527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0134,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "玉山桥头西侧陆地、机场路、都督山节点陆地均进行了提升改造。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 264.539,
+      "end": 268.592,
+      "label": "mandarin",
+      "text": "玉山公园、南溪山公园也进行了海绵化改造。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "雨山公园、南溪山公园也进行了海绵化改造。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 268.791,
+      "end": 273.765,
+      "label": "mandarin",
+      "text": "改造后的城市绿地不仅景观明显提升，功能不断完善，",
+      "score": 0.0297,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0218,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "改造后的城市陆地不仅景观明显提升，功能不断完善。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 273.895,
+      "end": 276.304,
+      "label": "mandarin",
+      "text": "实用性也进一步增强。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实用性也进一步增强。"
+      }
+    }
+  ]
+}
