@@ -1,0 +1,303 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "灌阳_多举措备_战_寒潮 全力保障民生用电.wav",
+  "duration": 52.617,
+  "no_dialect": false,
+  "created_at": "2026-10-27T12:25:51",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.534,
+      "end": 7.582,
+      "label": "guilin",
+      "text": "这段时间受到连以来强降温天气的影响，关阳县高寒山区出现了霜冻现象，",
+      "score": 0.0302,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0542,
+        "sc_logprob": -0.0724,
+        "sc_delta": -0.0182,
+        "acoustic_dev": 0.03,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这段时间受到连阴来强降温天气的影响，关阳县高寒山区出现了霜冻现象。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.842,
+      "end": 11.298,
+      "label": "guilin",
+      "text": "五条十千伏供电线路不同程度的覆冰。",
+      "score": 0.1286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.029,
+        "sc_logprob": -0.0389,
+        "sc_delta": -0.0099,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "五条四千伏供电线路，不同程度的覆冰。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.673,
+      "end": 13.959,
+      "label": "guilin",
+      "text": "关阳供电部门积极响应，",
+      "score": 0.2614,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2828,
+        "sc_logprob": -0.2505,
+        "sc_delta": 0.0323,
+        "acoustic_dev": 0.327,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "关阳工业部门积极响应。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.147,
+      "end": 18.619,
+      "label": "guilin",
+      "text": "多举措备战寒潮，全力保障民生用电。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0012,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多举措备战寒潮，全力保障民生用电。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.98,
+      "end": 21.862,
+      "label": "guilin",
+      "text": "为科学有效应对寒潮天气，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "sc_logprob": -0.0044,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为科学有效应对寒潮天气。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.862,
+      "end": 24.344,
+      "label": "guilin",
+      "text": "关阳供电部门提前谋划部署，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3072,
+        "sc_logprob": -1.3413,
+        "sc_delta": -0.0341,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.583,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "管养供电部门体现谋罚不粗。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.582,
+      "end": 26.868,
+      "label": "guilin",
+      "text": "划分重点保供电区域，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0177,
+        "sc_logprob": -0.0185,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "划分重点保供电区域。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.093,
+      "end": 30.977,
+      "label": "guilin",
+      "text": "各部门联动对覆冰线路开展特巡特维，",
+      "score": 0.4868,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5823,
+        "sc_logprob": -0.5578,
+        "sc_delta": 0.0245,
+        "acoustic_dev": 0.716,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "各部门联动，对复兵线路开展特训特卫。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 31.177,
+      "end": 33.992,
+      "label": "guilin",
+      "text": "同时紧急协调发电机四十五台、",
+      "score": 0.6903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8938,
+        "sc_logprob": -0.9005,
+        "sc_delta": -0.0067,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "紧/经",
+        "lexicon": "",
+        "text_free": "同时，经济协调发电机四十五台。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 33.992,
+      "end": 36.211,
+      "label": "guilin",
+      "text": "应急发电车两架，",
+      "score": 0.0084,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0438,
+        "sc_logprob": -0.0425,
+        "sc_delta": 0.0012,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "应急发电车两架。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 36.476,
+      "end": 41.297,
+      "label": "guilin",
+      "text": "提前送往高寒山区，保障山区群众生活基本用电。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "sc_logprob": -0.001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提前送往高寒山区，保障山区群众生活基本用电。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 41.297,
+      "end": 45.504,
+      "label": "guilin",
+      "text": "我们对辖区四条覆冰线路开展特巡特维，",
+      "score": 0.1538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0063,
+        "sc_logprob": -0.0063,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "覆/护",
+        "lexicon": "",
+        "text_free": "我们对辖区四条护边线路开展特巡特维。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.504,
+      "end": 49.541,
+      "label": "guilin",
+      "text": "对山区用户进行上门走访等多样举措，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "sc_logprob": -0.008,
+        "sc_delta": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对山区用户进行上门走访等多样举措。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 49.541,
+      "end": 52.617,
+      "label": "guilin",
+      "text": "全力保证电力供应安全稳定。",
+      "score": 0.0396,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0336,
+        "sc_logprob": -0.034,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全力保证电能供应安全稳定。"
+      }
+    }
+  ]
+}

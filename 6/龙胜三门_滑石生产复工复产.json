@@ -1,0 +1,387 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "龙胜三门_滑石生产复工复产.wav",
+  "duration": 61.819,
+  "no_dialect": false,
+  "created_at": "2026-10-27T16:48:43",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.075,
+      "end": 4.085,
+      "label": "mandarin",
+      "text": "在龙胜各族自治县三门镇玉在发丝制品厂，",
+      "score": 0.755,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0776,
+        "sc_logprob": -1.2589,
+        "sc_delta": -0.1813,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.556,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.3,
+        "phon_examples": "丝/事 在/斋 自/之",
+        "lexicon": "",
+        "text_free": "在龙生各族之祖先，三门真玉斋法事之品场。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.251,
+      "end": 6.886,
+      "label": "guilin",
+      "text": "厂房里面一派忙碌景象。",
+      "score": 0.1457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.062,
+        "sc_logprob": -0.0734,
+        "sc_delta": -0.0114,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "厂/仓",
+        "lexicon": "",
+        "text_free": "仓房里面一派忙碌景象。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.161,
+      "end": 10.103,
+      "label": "guilin",
+      "text": "该厂年产量达到十二点五万吨，",
+      "score": 0.0441,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1162,
+        "sc_logprob": -0.1204,
+        "sc_delta": -0.0042,
+        "acoustic_dev": 0.085,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "该厂年产量达到十二点五万吨。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.261,
+      "end": 13.411,
+      "label": "guilin",
+      "text": "并带动当地六十多户脱贫户就业。",
+      "score": 0.26,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "sc_logprob": -0.002,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.75,
+        "phon_examples": "户/富 户/夫 十/斯",
+        "lexicon": "",
+        "text_free": "并带动当地卢斯多夫脱贫致富就业。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 13.62,
+      "end": 16.96,
+      "label": "guilin",
+      "text": "龙胜各族自治县拥有丰富的发丝资源，",
+      "score": 0.7514,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7104,
+        "sc_logprob": -0.7807,
+        "sc_delta": -0.0703,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.438,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "丝/式 自/之",
+        "lexicon": "",
+        "text_free": "龙生国族之祖先拥有丰富的法式资源。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 17.181,
+      "end": 19.913,
+      "label": "guilin",
+      "text": "发丝品质位居全国第一。",
+      "score": 0.1914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "sc_logprob": -0.0053,
+        "sc_delta": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "丝/式",
+        "lexicon": "",
+        "text_free": "法式品质位居全国第一。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 20.218,
+      "end": 23.656,
+      "label": "guilin",
+      "text": "境内有发丝加工销售企业九十余家，",
+      "score": 0.2328,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0836,
+        "sc_logprob": -0.0784,
+        "sc_delta": 0.0052,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "丝/式 内/雷",
+        "lexicon": "",
+        "text_free": "京雷有法式加工销售企业九十余家。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 23.902,
+      "end": 26.687,
+      "label": "guilin",
+      "text": "发丝行业年产量四十多万吨，",
+      "score": 0.4573,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3281,
+        "sc_logprob": -0.2986,
+        "sc_delta": 0.0295,
+        "acoustic_dev": 0.499,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "丝/式",
+        "lexicon": "",
+        "text_free": "法式行业年产量四十多万灯。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 26.805,
+      "end": 29.081,
+      "label": "guilin",
+      "text": "年出口量二十多万吨，",
+      "score": 0.6157,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5298,
+        "sc_logprob": -0.4302,
+        "sc_delta": 0.0996,
+        "acoustic_dev": 0.894,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "年/连",
+        "lexicon": "",
+        "text_free": "连出口量二十多万吨。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 29.443,
+      "end": 31.982,
+      "label": "guilin",
+      "text": "产品销往全国三十个省区，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.024,
+        "sc_logprob": -0.0244,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产品销往全国三十个省区。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 32.154,
+      "end": 36.773,
+      "label": "guilin",
+      "text": "出口欧美、日本、非洲、东南亚等二十多个国家和地区。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "sc_logprob": -0.0011,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "出口欧美、日本、非洲、东南亚等二十多个国家或地区。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 37.15,
+      "end": 41.678,
+      "label": "guilin",
+      "text": "接到广西出台支持龙胜县发丝产业发展的若干措施，",
+      "score": 0.4159,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3385,
+        "sc_logprob": -0.3416,
+        "sc_delta": -0.0031,
+        "acoustic_dev": 0.52,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "丝/饰",
+        "lexicon": "",
+        "text_free": "车道广西出台支持龙胜县服饰产业发展的若干措施。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 42.014,
+      "end": 45.323,
+      "label": "guilin",
+      "text": "当地全力推动龙胜发丝产业发展，",
+      "score": 0.1653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0071,
+        "sc_logprob": -0.0081,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "丝/饰",
+        "lexicon": "",
+        "text_free": "当地全力推动龙生发饰产业发展。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 45.548,
+      "end": 48.268,
+      "label": "guilin",
+      "text": "着力打造发丝全产业链，",
+      "score": 0.2341,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1148,
+        "sc_logprob": -0.0853,
+        "sc_delta": 0.0295,
+        "acoustic_dev": 0.082,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "丝/式",
+        "lexicon": "",
+        "text_free": "着力打造“法式全产业链”。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 48.565,
+      "end": 52.115,
+      "label": "guilin",
+      "text": "促进当地及周边地区经济社会发展，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0288,
+        "sc_logprob": -0.0281,
+        "sc_delta": 0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "促进当地及周边地区经济社会发展。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 52.115,
+      "end": 55.74,
+      "label": "guilin",
+      "text": "助力乡村振兴。今年二四年，我们",
+      "score": 0.2187,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0896,
+        "sc_logprob": -0.0872,
+        "sc_delta": 0.0024,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "兴/心",
+        "lexicon": "",
+        "text_free": "竹里相称真心。今年二四年，我们。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 55.877,
+      "end": 58.743,
+      "label": "guilin",
+      "text": "于农历初九正式复工复产。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "sc_logprob": -0.0056,
+        "sc_delta": 0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "于农历初九正式复工复产。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 58.743,
+      "end": 61.819,
+      "label": "guilin",
+      "text": "今年的计划任务是四万七千五百吨。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "sc_logprob": -0.0023,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年的计划任务是四万七千五百吨。"
+      }
+    }
+  ]
+}

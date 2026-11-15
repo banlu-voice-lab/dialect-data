@@ -1,0 +1,492 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "荔浦_春节假期旅游收26亿元.wav",
+  "duration": 102.296,
+  "no_dialect": false,
+  "created_at": "2026-10-27T13:21:47",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.085,
+      "label": "guilin",
+      "text": "春节期间，丽普共接待游客大概三十一点四万人次，",
+      "score": 0.064,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0761,
+        "sc_logprob": -0.057,
+        "sc_delta": 0.019,
+        "acoustic_dev": 0.039,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "春节期间，荔浦共接待游客大概三十一点四万人次。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.085,
+      "end": 7.313,
+      "label": "guilin",
+      "text": "同比增长百分之四十点三；",
+      "score": 0.1743,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.235,
+        "sc_logprob": -0.2385,
+        "sc_delta": -0.0036,
+        "acoustic_dev": 0.255,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同比增长百分之四十四点三。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.497,
+      "end": 10.355,
+      "label": "guilin",
+      "text": "旅游总消费大概二十六个亿，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "sc_logprob": -0.0031,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "旅游总消费大概二十六个亿。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.355,
+      "end": 13.099,
+      "label": "guilin",
+      "text": "同比增长百分之四十五点七。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "sc_logprob": -0.0014,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同比增长百分之四十五点七。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 13.55,
+      "end": 16.684,
+      "label": "guilin",
+      "text": "为营造欢乐祥和的旅游环境，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8805,
+        "sc_logprob": -0.8502,
+        "sc_delta": 0.0303,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为营造反落强货的旅游环境。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 16.684,
+      "end": 20.159,
+      "label": "guilin",
+      "text": "春节期间，丽普市坚持全域旅游理念，",
+      "score": 0.7157,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.9036,
+        "sc_logprob": -2.7872,
+        "sc_delta": 0.1164,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.467,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "念/连",
+        "lexicon": "",
+        "text_free": "春节期间，李普茨坚持全鱼绿友力连。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 20.31,
+      "end": 24.582,
+      "label": "guilin",
+      "text": "深入推进文旅融合发展，推出丰富的旅游产品。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0246,
+        "sc_logprob": -0.0193,
+        "sc_delta": 0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "深入推进文旅融合发展，推出丰富的旅游产品。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 24.853,
+      "end": 28.191,
+      "label": "guilin",
+      "text": "各景区酒店通过户外广告牌、LED屏、",
+      "score": 0.4042,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3927,
+        "sc_logprob": -0.4055,
+        "sc_delta": -0.0129,
+        "acoustic_dev": 0.47,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "过京剧九点，通过户外广告牌LED屏。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 28.36,
+      "end": 31.97,
+      "label": "guilin",
+      "text": "看灯播放春节标语和歌曲视频等，",
+      "score": 0.2879,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3159,
+        "sc_logprob": -0.2553,
+        "sc_delta": 0.0606,
+        "acoustic_dev": 0.365,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看灯、播放春节标语或过去视频等。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 32.068,
+      "end": 35.02,
+      "label": "guilin",
+      "text": "营造浓厚的春节氛围。此外，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0106,
+        "sc_logprob": -0.0102,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "营造浓厚的春节氛围。此外。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 35.02,
+      "end": 37.712,
+      "label": "guilin",
+      "text": "为了吸引更多游客直接消费，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9257,
+        "sc_logprob": -1.9672,
+        "sc_delta": -0.0415,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了吸引更多游客刺激消费。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 37.712,
+      "end": 40.42,
+      "label": "guilin",
+      "text": "组织辖区开展百姓大舞台、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0241,
+        "sc_logprob": -0.0258,
+        "sc_delta": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "组织辖区开展百姓大舞台。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 40.42,
+      "end": 45.714,
+      "label": "guilin",
+      "text": "群众文艺汇演、龙狮自驾巡游、舞龙舞狮巡游、拜年活动、",
+      "score": 0.0623,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0472,
+        "sc_logprob": -0.0511,
+        "sc_delta": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "群众文艺飞演、龙狮紫炸巡游、舞龙舞狮巡游拜年活动。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 45.837,
+      "end": 53.853,
+      "label": "guilin",
+      "text": "书香暖军营志愿服务活动和鱼跃龙门闯关赛等以年节为主题的系列活动，",
+      "score": 0.2821,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2744,
+        "sc_logprob": -0.2934,
+        "sc_delta": -0.0191,
+        "acoustic_dev": 0.309,
+        "seg_cer": 0.129,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "年/廉",
+        "lexicon": "",
+        "text_free": "书香软军营志愿服务活动，或“鱼跃龙门”闯关赛等，以廉洁为主题的系列活动。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 54.023,
+      "end": 58.692,
+      "label": "guilin",
+      "text": "营造良好节日氛围，引导游客健康出行、文明旅游。",
+      "score": 0.0608,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1009,
+        "sc_logprob": -0.1017,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.073,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "营造良好节谊氛围，引导游客健康出行、文明旅游。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 58.945,
+      "end": 63.804,
+      "label": "guilin",
+      "text": "根据了解，丽普市游客主要以祈福迎新、休闲度假、",
+      "score": 0.1915,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.112,
+        "sc_logprob": -0.1148,
+        "sc_delta": -0.0028,
+        "acoustic_dev": 0.088,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "市/斯",
+        "lexicon": "",
+        "text_free": "根据了解，利普斯游客主要以祈福迎新、休闲度假。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 63.804,
+      "end": 67.975,
+      "label": "guilin",
+      "text": "探亲访友游等为主题的自驾自助为主，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0414,
+        "sc_logprob": -0.0437,
+        "sc_delta": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "探亲访友游等为主题的自驾自助为主。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 68.273,
+      "end": 71.806,
+      "label": "guilin",
+      "text": "客源主要集中在市区以及周边地区，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0131,
+        "sc_logprob": -0.0213,
+        "sc_delta": -0.0082,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "客源主要集中在市区以及周边地区。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 72.068,
+      "end": 81.017,
+      "label": "guilin",
+      "text": "主要集中在马岭古镇景区、银盏景区、丽江湾景区以及丽水青山丽江国家湿地公园景区。",
+      "score": 0.1585,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1276,
+        "sc_logprob": -0.1049,
+        "sc_delta": 0.0227,
+        "acoustic_dev": 0.109,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主要集中在马岭古寨景区、英子岸景区、漓江南景区以及黎水青山漓江国家湿地公园景区。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 81.332,
+      "end": 88.86,
+      "label": "guilin",
+      "text": "在丽江湾景区，发龙船、玻璃桥、缆车成为春节假期热度最高的三大关键词。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0095,
+        "sc_logprob": -0.009,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在丽江万景区，发龙船、玻璃桥、缆车，成为春节假期夜度最高的三大关键词。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.86,
+      "end": 92.885,
+      "label": "guilin",
+      "text": "今天和朋友家人一起来到号称天下第一湾的丽江湾，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0055,
+        "sc_logprob": -0.006,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天和朋友家人一起来到号称天下第一湾的丽江湾。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 93.004,
+      "end": 99.584,
+      "label": "guilin",
+      "text": "一进景区就感觉很多人很热闹，我们体验了一下那个缆车和玻璃桥，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0119,
+        "sc_logprob": -0.0164,
+        "sc_delta": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一进景区，就感觉很多人很热闹。我们体验了一下那个缆车和玻璃桥。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 100.12,
+      "end": 102.296,
+      "label": "guilin",
+      "text": "希望大家一起开开心心过大年。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "sc_logprob": -0.0035,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "希望大家一起开开心心过大年。"
+      }
+    }
+  ]
+}

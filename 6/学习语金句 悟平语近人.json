@@ -1,0 +1,366 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "学习语金句 悟平语近人.wav",
+  "duration": 66.848,
+  "no_dialect": false,
+  "created_at": "2026-10-27T09:51:28",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.371,
+      "end": 7.964,
+      "label": "guilin",
+      "text": "为了深入学习、宣传贯彻习近平新时代中国特色社会主义思想和党的二十大精神，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0076,
+        "sc_logprob": -0.0082,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了深入学习宣传贯彻习近平新时代中国特色社会主义思想和党的二十大精神。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.166,
+      "end": 12.885,
+      "label": "guilin",
+      "text": "班路从今天开始开设学习金句学习专栏，",
+      "score": 0.684,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6575,
+        "sc_logprob": -0.7335,
+        "sc_delta": -0.076,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "金/京",
+        "lexicon": "",
+        "text_free": "半路从今天开始开设“学习京剧”学习专栏。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 13.084,
+      "end": 17.521,
+      "label": "guilin",
+      "text": "刊登习近平总书记系列重要讲话精神摘录。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "sc_logprob": -0.0105,
+        "sc_delta": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "刊登习近平总书记系列重要讲话精神摘录。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.816,
+      "end": 21.393,
+      "label": "guilin",
+      "text": "今天我们要学习的是习近平在不忘初心、",
+      "score": 0.0141,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0387,
+        "sc_logprob": -0.0375,
+        "sc_delta": 0.0012,
+        "acoustic_dev": 0.027,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们要学习的是习近平在不忘初心。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.393,
+      "end": 24.999,
+      "label": "guilin",
+      "text": "牢记使命主题教育总结大会上的讲话：“",
+      "score": 0.4866,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3807,
+        "sc_logprob": -0.4652,
+        "sc_delta": -0.0845,
+        "acoustic_dev": 0.596,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "使/思",
+        "lexicon": "",
+        "text_free": "老籍思明主题教育总结大会上的讲话。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.376,
+      "end": 28.191,
+      "label": "guilin",
+      "text": "凡是过往，皆为序章。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "sc_logprob": -0.0049,
+        "sc_delta": 0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "凡是过往，皆为序章。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.484,
+      "end": 32.107,
+      "label": "guilin",
+      "text": "全党要以这次主题教育为新的起点，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "sc_logprob": -0.002,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全党要以这次主题教育为新的起点。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.408,
+      "end": 34.992,
+      "label": "guilin",
+      "text": "不断深化党的自我革命，",
+      "score": 0.2033,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2047,
+        "sc_logprob": -0.2232,
+        "sc_delta": -0.0185,
+        "acoustic_dev": 0.303,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断深化党内自我革命。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.266,
+      "end": 37.962,
+      "label": "guilin",
+      "text": "持续推动全党不忘初心、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0224,
+        "sc_logprob": -0.0192,
+        "sc_delta": 0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "持续推动全党不忘初心。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.962,
+      "end": 42.386,
+      "label": "guilin",
+      "text": "牢记使命。温室里长不出参天大树，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0042,
+        "sc_logprob": -0.0042,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "牢记使命，温室里长不出参天大树。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 42.688,
+      "end": 45.397,
+      "label": "guilin",
+      "text": "懈怠者干不成宏图伟业。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0048,
+        "sc_logprob": -0.0039,
+        "sc_delta": 0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现代者干不成宏图伟业。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 45.675,
+      "end": 48.964,
+      "label": "guilin",
+      "text": "广大党员干部要在经风雨、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0092,
+        "sc_logprob": -0.013,
+        "sc_delta": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广大党员干部要在经风雨。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 48.964,
+      "end": 52.301,
+      "label": "guilin",
+      "text": "见世面中长才干、壮筋骨，",
+      "score": 0.6606,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6013,
+        "sc_logprob": -0.6435,
+        "sc_delta": -0.0422,
+        "acoustic_dev": 0.963,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "见市面中，长菜干装金锅。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 52.611,
+      "end": 55.683,
+      "label": "guilin",
+      "text": "练就担当作为的硬脊梁、",
+      "score": 0.3655,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2865,
+        "sc_logprob": -0.305,
+        "sc_delta": -0.0185,
+        "acoustic_dev": 0.439,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "练就担当作为的凝聚力。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 55.683,
+      "end": 58.14,
+      "label": "guilin",
+      "text": "铁肩膀、真本事。”",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1281,
+        "sc_logprob": -1.1337,
+        "sc_delta": -0.0057,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "铁肩膀真本事。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 58.468,
+      "end": 60.727,
+      "label": "guilin",
+      "text": "二零二零年一月八号，",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0006,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.556,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "鹅岭鹅岭列，一月八号。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 60.909,
+      "end": 66.848,
+      "label": "guilin",
+      "text": "习近平在不忘初心、牢记使命主题教育总结大会上的讲话。",
+      "score": 0.001,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0235,
+        "sc_logprob": -0.0263,
+        "sc_delta": -0.0028,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "习近平在不忘初心、牢记使命主题教育总结大会上的讲话。"
+      }
+    }
+  ]
+}

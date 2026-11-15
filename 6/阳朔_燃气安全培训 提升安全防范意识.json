@@ -1,0 +1,429 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "阳朔_燃气安全培训 提升安全防范意识.wav",
+  "duration": 82.778,
+  "no_dialect": false,
+  "created_at": "2026-10-27T16:30:11",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.445,
+      "label": "guilin",
+      "text": "最近，阳朔县组织餐饮企业以及行政企事业单位食堂主要负责人开展了燃气安全培训，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0057,
+        "sc_logprob": -0.0128,
+        "sc_delta": -0.0072,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最近，阳朔县组织餐饮企业以及行政企事业单位食堂主要负责人，开展了燃气安全培训。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.643,
+      "end": 14.955,
+      "label": "guilin",
+      "text": "全面提升餐饮企业责任人安全风险防控意识和安全管理能力，",
+      "score": 0.0143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.038,
+        "sc_logprob": -0.0401,
+        "sc_delta": -0.0021,
+        "acoustic_dev": 0.028,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全面提升餐饮企业责任人安全风险防控意识和安全管理能力。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 15.228,
+      "end": 17.738,
+      "label": "guilin",
+      "text": "预防燃气安全事故的发生。",
+      "score": 0.0941,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0331,
+        "sc_logprob": -0.0335,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "预防演习安全事故的发生。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.862,
+      "end": 22.761,
+      "label": "guilin",
+      "text": "培训会上，参训人员集中观看了餐饮场所消防宣传视频，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0048,
+        "sc_logprob": -0.0047,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "培训会上，参训人员集中观看了餐饮场所消防宣传视频。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.003,
+      "end": 26.145,
+      "label": "guilin",
+      "text": "并开展了燃气突发事件应急演练，",
+      "score": 0.5565,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7338,
+        "sc_logprob": -0.7131,
+        "sc_delta": 0.0207,
+        "acoustic_dev": 0.945,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并开展了延期突发事件应急演练。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.391,
+      "end": 29.814,
+      "label": "guilin",
+      "text": "包括消防设施的使用、户外漏气、",
+      "score": 0.1305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1048,
+        "sc_logprob": -0.11,
+        "sc_delta": -0.0052,
+        "acoustic_dev": 0.116,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "包括消防设施的使用，户外楼梯。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.814,
+      "end": 34.137,
+      "label": "guilin",
+      "text": "户外燃气爆燃等场景下的应急处置等等。",
+      "score": 0.6979,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1543,
+        "sc_logprob": -1.1747,
+        "sc_delta": -0.0204,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.882,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.071,
+        "phon_examples": "应/银",
+        "lexicon": "",
+        "text_free": "弗雷维演其表演《登场惊侠》里银戟出指等等。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.424,
+      "end": 36.78,
+      "label": "guilin",
+      "text": "为巩固和提升培训效果，",
+      "score": 0.1298,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1397,
+        "sc_logprob": -0.1088,
+        "sc_delta": 0.0309,
+        "acoustic_dev": 0.162,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为巩固或提升培训效果。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.78,
+      "end": 39.471,
+      "label": "guilin",
+      "text": "还进行了燃气安全知识测试。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还进行了燃气安全知识测试。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.763,
+      "end": 44.269,
+      "label": "guilin",
+      "text": "通过培训，进一步提升了餐饮企业责任人安全意识，",
+      "score": 0.1486,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "sc_logprob": -0.0033,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "责/这",
+        "lexicon": "",
+        "text_free": "通过培训，进一步提升了餐饮企业这餐饮安全意识。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.499,
+      "end": 50.249,
+      "label": "guilin",
+      "text": "提高了大家应防识别、预防及处理燃气安全突发事件的能力。",
+      "score": 0.1444,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0285,
+        "sc_logprob": -0.0301,
+        "sc_delta": -0.0016,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "应/隐",
+        "lexicon": "",
+        "text_free": "提高了大家隐患识别、预防及处理燃气安全突发事件的能力。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.249,
+      "end": 53.33,
+      "label": "guilin",
+      "text": "燃气安全防范意识得到了提高。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0008,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "燃气安全防范意识得到了提高。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 53.438,
+      "end": 58.242,
+      "label": "guilin",
+      "text": "这次培训为我们幼儿园的食堂安全工作提供了有力的支持。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次培训为我们幼儿园的食堂安全工作提供了有力的支持。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.242,
+      "end": 63.417,
+      "label": "guilin",
+      "text": "培训后，我也会把我们今天学到的知识传达给我们幼儿园的全体教职工，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0006,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "培训后，我也会把我们今天学到的知识传达给我们幼儿园的全体教职工。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.5,
+      "end": 66.086,
+      "label": "guilin",
+      "text": "并且组织相关的演练活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并且组织相关的演练活动。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 66.086,
+      "end": 68.451,
+      "label": "guilin",
+      "text": "共同维护好我们的食堂安全，",
+      "score": 0.0119,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0344,
+        "sc_logprob": -0.0356,
+        "sc_delta": -0.0012,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同维护好我们的食堂安全。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 68.576,
+      "end": 71.222,
+      "label": "guilin",
+      "text": "增强我们的安全意识。回去以后，",
+      "score": 0.5552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6742,
+        "sc_logprob": -1.4682,
+        "sc_delta": 0.206,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "增强了我们的安全意识。回去以后。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 71.389,
+      "end": 77.378,
+      "label": "guilin",
+      "text": "我会把这次学到的安全知识运用到平时的生活中和工作当中去，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我会把这次学到的安全知识运用到平时的生活中和工作当中去。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 77.378,
+      "end": 79.64,
+      "label": "guilin",
+      "text": "同时加强员工的用火、",
+      "score": 0.0398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0751,
+        "sc_logprob": -0.0414,
+        "sc_delta": 0.0337,
+        "acoustic_dev": 0.077,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时加强员工的用火。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 79.708,
+      "end": 82.778,
+      "label": "guilin",
+      "text": "用电、用气的安全操作规范。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "sc_logprob": -0.0009,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用电、用气的安全操作规范。"
+      }
+    }
+  ]
+}

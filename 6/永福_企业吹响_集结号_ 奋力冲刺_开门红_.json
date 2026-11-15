@@ -1,0 +1,408 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "永福_企业吹响_集结号_ 奋力冲刺_开门红_.wav",
+  "duration": 93.34,
+  "no_dialect": false,
+  "created_at": "2026-10-27T11:53:10",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.357,
+      "end": 3.759,
+      "label": "guilin",
+      "text": "接到来关注一下五桂岭的工业企业。",
+      "score": 0.6148,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2976,
+        "sc_logprob": -0.3854,
+        "sc_delta": -0.0878,
+        "acoustic_dev": 0.788,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "岭/林",
+        "lexicon": "",
+        "text_free": "接着来关注一下我们桂林的工业企业。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.759,
+      "end": 9.365,
+      "label": "guilin",
+      "text": "春节过后，永福县各企业陆陆续续吹响开工集结号，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0091,
+        "sc_logprob": -0.0153,
+        "sc_delta": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "春节过后，永福县各企业陆陆续续吹响开工集结号。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.527,
+      "end": 13.67,
+      "label": "guilin",
+      "text": "组织复工复产，奋力冲刺开门红。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0188,
+        "sc_logprob": -0.0188,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "组织复工复产，奋力冲刺开门后。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 19.62,
+      "end": 27.141,
+      "label": "guilin",
+      "text": "记者走进广西传来特种设备制造有限公司生产车间，看到工人们各司其职，",
+      "score": 0.0295,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.049,
+        "sc_logprob": -0.052,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.065,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记者走进广西川内特种设备制造有限公司生产车间，看到工人们各司其职。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 27.319,
+      "end": 33.177,
+      "label": "guilin",
+      "text": "车间里头机器轰鸣，大型生产线上各项工艺流程配合紧密。",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0061,
+        "sc_logprob": -0.0056,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "车间里头极其轰鸣，大型生产线上，各项工艺流程配合紧密。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 33.4,
+      "end": 40.291,
+      "label": "guilin",
+      "text": "上百台工业机器人组成的制造大军正在有序进行液化石油气钢瓶生产。",
+      "score": 0.0152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0055,
+        "sc_logprob": -0.0056,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "上百台工业机器组成的制造大军，正在有序进行液化石油气钢瓶生产。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 40.668,
+      "end": 45.303,
+      "label": "guilin",
+      "text": "该企业是一家使用全机器人操作的智能制造企业，",
+      "score": 0.3471,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2201,
+        "sc_logprob": -0.2397,
+        "sc_delta": -0.0196,
+        "acoustic_dev": 0.542,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "该企业是一家使用全自动机器操作的智能制造企业。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 45.645,
+      "end": 50.869,
+      "label": "guilin",
+      "text": "智能机开发设备生产的钢瓶得到了各地市场的认可。",
+      "score": 0.473,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2173,
+        "sc_logprob": -0.2061,
+        "sc_delta": 0.0112,
+        "acoustic_dev": 0.533,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "瓶/品",
+        "lexicon": "",
+        "text_free": "只能几台设备生产的样品，得到了国际市场的认可。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 51.11,
+      "end": 54.595,
+      "label": "guilin",
+      "text": "今年春节前就已经收到大量的订单，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "sc_logprob": -0.0106,
+        "sc_delta": 0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年春节前就已经收到大量的订单。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 54.595,
+      "end": 60.522,
+      "label": "guilin",
+      "text": "大年初三就已经开工了。我们的生产设备的话，整个是全自动化的生产，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0095,
+        "sc_logprob": -0.011,
+        "sc_delta": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大年初三就已经开工了。我们的生产设备的话，整个是全自动化的生产。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 60.522,
+      "end": 63.163,
+      "label": "guilin",
+      "text": "在国内的话是具有一定的竞争力，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8132,
+        "sc_logprob": -0.7276,
+        "sc_delta": 0.0855,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在国内的话，是具有一定的竞争力。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 63.163,
+      "end": 66.326,
+      "label": "guilin",
+      "text": "所以我们的排单的话，今年已经排到了五月份。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0004,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以我们的排单的话，今年已经排到了五月份。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 66.326,
+      "end": 70.503,
+      "label": "guilin",
+      "text": "去年我们传来的呃生产产量是一百万个钢瓶，",
+      "score": 0.0516,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0804,
+        "sc_logprob": -0.0979,
+        "sc_delta": -0.0175,
+        "acoustic_dev": 0.099,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "去年我们传来的，呃，生产产量是一百万个钢瓶。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 70.503,
+      "end": 73.16,
+      "label": "guilin",
+      "text": "产值是一点三个亿。今年我们",
+      "score": 0.0559,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0598,
+        "sc_logprob": -0.0977,
+        "sc_delta": -0.0378,
+        "acoustic_dev": 0.034,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产值是一点三个亿。今年我。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 73.803,
+      "end": 78.364,
+      "label": "guilin",
+      "text": "的呃生产目标是再增长百分之三十，达到一点七亿以上，",
+      "score": 0.5093,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.334,
+        "sc_logprob": -0.3538,
+        "sc_delta": -0.0198,
+        "acoustic_dev": 0.903,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，生产目标是在增长百分之三十，达到一点七亿以上。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 78.531,
+      "end": 82.188,
+      "label": "guilin",
+      "text": "为我们的永福的经济高质量发展做贡献。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0194,
+        "sc_logprob": -0.0175,
+        "sc_delta": 0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为我们永福的经济高质量发展做贡献。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 82.188,
+      "end": 87.017,
+      "label": "guilin",
+      "text": "目前永福县苏桥园区所有企业都已经复工复产，",
+      "score": 0.1039,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1121,
+        "sc_logprob": -0.1464,
+        "sc_delta": -0.0344,
+        "acoustic_dev": 0.2,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，永福县苏桥园区所有企业都已经复工复产。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 87.219,
+      "end": 90.391,
+      "label": "guilin",
+      "text": "纷纷开足马力，抢抓节后生产，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.011,
+        "sc_logprob": -0.0096,
+        "sc_delta": 0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "纷纷开足马力，抢抓节后生产。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 90.618,
+      "end": 93.34,
+      "label": "guilin",
+      "text": "奋力夺取首季开门红。",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4872,
+        "sc_logprob": -0.5349,
+        "sc_delta": -0.0477,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "首/搜",
+        "lexicon": "",
+        "text_free": "奋力躲去，搜集开门红。"
+      }
+    }
+  ]
+}
