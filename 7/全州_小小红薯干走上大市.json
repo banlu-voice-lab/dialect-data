@@ -1,0 +1,513 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "全州_小小红薯干走上大市.wav",
+  "duration": 85.762,
+  "no_dialect": false,
+  "created_at": "2026-10-27T20:41:47",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.451,
+      "label": "guilin",
+      "text": "全州县是农业生产大县，全县红薯的种植面积将近有十万亩。",
+      "score": 0.256,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1688,
+        "sc_logprob": -0.1688,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.227,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "泉州县是农业生产大县，全县红醋的种植面积将近有四万亩。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.698,
+      "end": 11.832,
+      "label": "guilin",
+      "text": "当地群众依托丰富的资源优势，做好红薯精加工，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "sc_logprob": -0.0035,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当地群众依托丰富的资源优势，做好红醋精加工。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.048,
+      "end": 15.178,
+      "label": "guilin",
+      "text": "让小红薯干走上大市场。",
+      "score": 0.0928,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0352,
+        "sc_logprob": -0.0369,
+        "sc_delta": -0.0017,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让小红触感走上大市场。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.522,
+      "end": 19.487,
+      "label": "guilin",
+      "text": "记者走进全州县玉坤家庭农场生产车间，",
+      "score": 0.0658,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0783,
+        "sc_logprob": -0.0857,
+        "sc_delta": -0.0074,
+        "acoustic_dev": 0.075,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记者走进泉州县玉坤家庭农场生产车间。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.641,
+      "end": 22.641,
+      "label": "guilin",
+      "text": "工人们正在对红薯进行深加工。",
+      "score": 0.176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1952,
+        "sc_logprob": -0.2034,
+        "sc_delta": -0.0082,
+        "acoustic_dev": 0.271,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "工人们正在对红醋进行深加工。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.841,
+      "end": 27.029,
+      "label": "guilin",
+      "text": "在经过冲洗、剥皮、蒸煮、烘烤、筛选、",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "sc_logprob": -0.0077,
+        "sc_delta": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "再经过冲洗、剥皮、蒸煮、烘烤、筛选。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.029,
+      "end": 30.477,
+      "label": "guilin",
+      "text": "分拣、安检、打包等等环节以后，",
+      "score": 0.1762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "sc_logprob": -0.0074,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "分/封",
+        "lexicon": "",
+        "text_free": "封缄、安检、打包等等环节以后。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.634,
+      "end": 33.953,
+      "label": "guilin",
+      "text": "加工好的红薯干就可以外销市场了。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0084,
+        "sc_logprob": -0.0112,
+        "sc_delta": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加工好的红醋干就可以外销市场了。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.953,
+      "end": 38.433,
+      "label": "guilin",
+      "text": "我们这个生产车间在传统工艺基础上",
+      "score": 0.0719,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1161,
+        "sc_logprob": -0.1209,
+        "sc_delta": -0.0048,
+        "acoustic_dev": 0.138,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们这个生产车间，在传统工艺基础上。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 38.734,
+      "end": 41.47,
+      "label": "guilin",
+      "text": "对红薯进行精加工，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0009,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对红薯进行精加工。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 41.643,
+      "end": 44.493,
+      "label": "guilin",
+      "text": "年加工量超过一百吨。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0005,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "年加工量超过一百吨。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 44.671,
+      "end": 49.445,
+      "label": "guilin",
+      "text": "目前加工好的红薯干市场价格每公斤",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "sc_logprob": -0.0063,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前加工好的红薯干，市场价格每公斤。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 49.461,
+      "end": 52.662,
+      "label": "guilin",
+      "text": "在五十元，销量还可以。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在五十元，销量还可以。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 52.71,
+      "end": 55.211,
+      "label": "guilin",
+      "text": "近年来，全州县出台优惠政策，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1273,
+        "sc_logprob": -2.0193,
+        "sc_delta": 0.1081,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，泉州先出台油费政策。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 55.36,
+      "end": 59.279,
+      "label": "guilin",
+      "text": "采取公司加或者社加基地加农户经营模式，",
+      "score": 0.0277,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0654,
+        "sc_logprob": -0.0624,
+        "sc_delta": 0.003,
+        "acoustic_dev": 0.053,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "采取公司加或者社加基地加农户经营模式。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 59.489,
+      "end": 61.687,
+      "label": "guilin",
+      "text": "大力发展红薯种植产业。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "sc_logprob": -0.001,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大力发展红醋种植产业。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 61.933,
+      "end": 64.704,
+      "label": "guilin",
+      "text": "全县红薯种植面积近十万亩。",
+      "score": 0.1762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0097,
+        "sc_logprob": -0.0099,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "全县红初种植面积近四万亩。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 64.921,
+      "end": 67.403,
+      "label": "guilin",
+      "text": "为了进一步提升红薯附加值、",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0132,
+        "sc_logprob": -0.0137,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了进一步提升红醋附加值。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 67.62,
+      "end": 70.856,
+      "label": "guilin",
+      "text": "拉长产业链，当地因地制宜，",
+      "score": 0.013,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0486,
+        "sc_logprob": -0.0408,
+        "sc_delta": 0.0078,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拉长产业链，当地因地制宜。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 70.856,
+      "end": 74.078,
+      "label": "guilin",
+      "text": "引导群众做好红薯深加工文章，",
+      "score": 0.5552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7693,
+        "sc_logprob": -0.7575,
+        "sc_delta": 0.0119,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "引导群众做好“红处深加工”文章。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 74.337,
+      "end": 76.985,
+      "label": "guilin",
+      "text": "并通过线上线下销售的方式，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0321,
+        "sc_logprob": -0.034,
+        "sc_delta": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并通过线上线下销售的方式。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 77.131,
+      "end": 80.124,
+      "label": "guilin",
+      "text": "让小红薯干走上大市场，",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6478,
+        "sc_logprob": -1.6713,
+        "sc_delta": -0.0235,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让小红触感走上大市场。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 80.359,
+      "end": 83.877,
+      "label": "guilin",
+      "text": "推动当地农业增效、农民增收，",
+      "score": 0.3765,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3049,
+        "sc_logprob": -0.325,
+        "sc_delta": -0.0201,
+        "acoustic_dev": 0.455,
+        "seg_cer": 0.0,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动当地农业增效，农民增收。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 83.877,
+      "end": 85.762,
+      "label": "guilin",
+      "text": "助力乡村振兴。",
+      "score": 0.1982,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2609,
+        "sc_logprob": -0.2215,
+        "sc_delta": 0.0395,
+        "acoustic_dev": 0.381,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "助力乡村振兴。"
+      }
+    }
+  ]
+}

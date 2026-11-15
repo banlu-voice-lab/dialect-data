@@ -1,0 +1,408 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_全民健身_科学健身 正确健步走.wav",
+  "duration": 71.746,
+  "no_dialect": false,
+  "created_at": "2026-10-27T18:29:48",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.833,
+      "label": "guilin",
+      "text": "冬至一过，寒冷天气就成为了大家运动的一大障碍。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "sc_logprob": -0.0071,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冬至一过，寒冷天气就成为了大家运动的一大障碍。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.833,
+      "end": 7.93,
+      "label": "guilin",
+      "text": "冬季锻炼应该减少高强度运动，",
+      "score": 0.5552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.995,
+        "sc_logprob": -1.8369,
+        "sc_delta": 0.1581,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冬季锻炼啊，应该减少高强度运动。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.117,
+      "end": 10.74,
+      "label": "guilin",
+      "text": "以中低强度的有氧运动为主。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以中低强度的有氧运动为主。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.74,
+      "end": 13.578,
+      "label": "guilin",
+      "text": "其中健步走那是最合适的。",
+      "score": 0.1234,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0701,
+        "sc_logprob": -0.0608,
+        "sc_delta": 0.0093,
+        "acoustic_dev": 0.237,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中，健步走那是最合适的。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 13.605,
+      "end": 18.14,
+      "label": "guilin",
+      "text": "所以呢，我们今天就来讲一下健步走的注意事项。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "sc_logprob": -0.0008,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以呢，我们今天就来讲一下健步走的注意事项。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 18.678,
+      "end": 24.482,
+      "label": "guilin",
+      "text": "健步走作为性价比最高的运动方式，可以降低压力水平，促进血液循环，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "健步走作为性价比最高的运动方式，可以降低压力水平，促进血液循环。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.482,
+      "end": 27.493,
+      "label": "guilin",
+      "text": "降低心脏病的风险，增强免疫力，",
+      "score": 0.3144,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1619,
+        "sc_logprob": -0.1509,
+        "sc_delta": 0.0109,
+        "acoustic_dev": 0.605,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "降低心脏病的风险，增强免疫力。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.493,
+      "end": 31.388,
+      "label": "guilin",
+      "text": "改善肥胖等等。健步走技术难度低，但是呢，",
+      "score": 0.3092,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1206,
+        "sc_logprob": -0.1318,
+        "sc_delta": -0.0113,
+        "acoustic_dev": 0.439,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "改善肥胖等等，节目组技术难度低，但是呢。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 31.388,
+      "end": 34.514,
+      "label": "guilin",
+      "text": "也需要注意一点：运动前做好热身，",
+      "score": 0.0584,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0231,
+        "sc_logprob": -0.0339,
+        "sc_delta": -0.0108,
+        "acoustic_dev": 0.05,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也需要注意的点：运动前做好热身。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 34.514,
+      "end": 37.521,
+      "label": "guilin",
+      "text": "走路的时候呢，下颌略收，头部抬高，",
+      "score": 0.2122,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.097,
+        "sc_logprob": -0.0992,
+        "sc_delta": -0.0021,
+        "acoustic_dev": 0.345,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走路的时候呢，下颌略收，头部太高。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 37.521,
+      "end": 39.9,
+      "label": "guilin",
+      "text": "腰背挺直，肩部放松，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "sc_logprob": -0.0047,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "腰背挺直，肩部放松。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 39.9,
+      "end": 44.219,
+      "label": "guilin",
+      "text": "双臂呢自然的摆动，步幅略大，比散步略快。",
+      "score": 0.067,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.03,
+        "sc_logprob": -0.0305,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.077,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "双臂的自然的摆动，步幅略大，比散步略快。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 44.381,
+      "end": 47.386,
+      "label": "guilin",
+      "text": "散步时间逐步延长，而不宜过度，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0107,
+        "sc_logprob": -0.0098,
+        "sc_delta": 0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "散步时间逐步延长，而不宜过度。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 47.386,
+      "end": 50.219,
+      "label": "guilin",
+      "text": "心率稳定在一定范围，不宜过高。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0006,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "心率稳定在一定范围，不宜过高。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 50.219,
+      "end": 53.617,
+      "label": "guilin",
+      "text": "每天健步走的总量在七千五百步左右就可以了。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "sc_logprob": -0.0012,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每天健步走的总量在七千五百步左右就可以了。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 53.617,
+      "end": 56.806,
+      "label": "guilin",
+      "text": "如果每天利用碎片时间健走，每次健走时间呢，",
+      "score": 0.062,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0289,
+        "sc_logprob": -0.0332,
+        "sc_delta": -0.0043,
+        "acoustic_dev": 0.073,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果每天利用碎片时间健走，每一次健走时间呢？"
+      }
+    },
+    {
+      "id": 17,
+      "start": 56.806,
+      "end": 62.894,
+      "label": "guilin",
+      "text": "应该至少在十分钟。一天当中，如果能有一次性持续做到三十到六十分钟，",
+      "score": 0.3872,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1349,
+        "sc_logprob": -0.15,
+        "sc_delta": -0.0151,
+        "acoustic_dev": 0.497,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "持/次",
+        "lexicon": "",
+        "text_free": "应该至少在十分钟。一天当中，如果能有一次性次数走到三十到六十分钟。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 62.894,
+      "end": 65.715,
+      "label": "guilin",
+      "text": "就会更加有利于提供心肺功能，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "sc_logprob": -0.0013,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就会更加有利于提供心肺功能。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 65.715,
+      "end": 71.746,
+      "label": "guilin",
+      "text": "并且消耗脂肪。运动结束以后呢，一定要充分的拉伸，使得身体啊得到舒缓的放松。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并且消耗脂肪。运动结束以后呢，一定要充分的拉伸，使得身体啊得到舒缓的放松。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_崇尚节约 反对浪费_勤俭节约从小养成习惯.wav",
+  "duration": 73.129,
+  "no_dialect": false,
+  "created_at": "2026-10-27T18:48:31",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.363,
+      "label": "guilin",
+      "text": "勤俭节约精神是中华民族永续传承的宝贵财富。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0007,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "勤俭节约精神是中华民族永续传承的宝贵财富。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.65,
+      "end": 12.023,
+      "label": "guilin",
+      "text": "勤俭节约这种习惯，也是我们从小在点滴生活当中慢慢养成的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "勤俭节约这种习惯，也是我们从小在点滴生活当中慢慢养成的。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.297,
+      "end": 17.431,
+      "label": "guilin",
+      "text": "勤俭节约是一种美德，不能铺张浪费，应该从现在做起。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "勤俭节约是一种美德，不能铺张浪费，应该从现在做起。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.601,
+      "end": 22.271,
+      "label": "guilin",
+      "text": "每个人的节俭，不仅仅显示了个人的道德观与生活能力，",
+      "score": 0.0399,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "sc_logprob": -0.0028,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "美国人的节俭不仅仅显示了个人的道德观与生活能力。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.581,
+      "end": 26.272,
+      "label": "guilin",
+      "text": "因为整个人类生存发展密切相关。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "sc_logprob": -0.0019,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为中国人类生存发展密切相关。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.611,
+      "end": 29.171,
+      "label": "guilin",
+      "text": "我们所有的资源都是有限的，",
+      "score": 0.0042,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "sc_logprob": -0.0049,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们所有的资源都是有限的。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.171,
+      "end": 32.451,
+      "label": "guilin",
+      "text": "比如水源、电力、矿产、树木等等。",
+      "score": 0.1877,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0199,
+        "sc_logprob": -0.0216,
+        "sc_delta": -0.0016,
+        "acoustic_dev": 0.068,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比如水源、典礼、狂欢、树木等等。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.794,
+      "end": 36.373,
+      "label": "guilin",
+      "text": "一个人从小就应该培养节约的习惯。",
+      "score": 0.0031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "sc_logprob": -0.0048,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一个人从小就应该培养节约的习惯。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.643,
+      "end": 40.144,
+      "label": "guilin",
+      "text": "作为学生，更加应该从小事做起。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "sc_logprob": -0.0022,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为学生，更加应该从小事做起。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.415,
+      "end": 43.972,
+      "label": "guilin",
+      "text": "平时生活当中要节约粮食不剩饭，",
+      "score": 0.0594,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0315,
+        "sc_logprob": -0.0384,
+        "sc_delta": -0.0069,
+        "acoustic_dev": 0.114,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平时生活当中要节约粮食，不剩饭。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.972,
+      "end": 49.134,
+      "label": "guilin",
+      "text": "节约用水用电。看到滴水的水龙头要马上关起。",
+      "score": 0.0026,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0042,
+        "sc_logprob": -0.0048,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "节约用水用电。看到滴水的水龙头，要马上关起。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 49.336,
+      "end": 51.839,
+      "label": "guilin",
+      "text": "人离开房间要随手关灯，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.393,
+        "sc_logprob": -0.3392,
+        "sc_delta": 0.0538,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "人离开房间，要随手关灯。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.839,
+      "end": 56.569,
+      "label": "guilin",
+      "text": "爱惜书本，不乱撕作业本，乱丢铅笔橡皮，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "sc_logprob": -0.0023,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "爱惜书本，不乱撕作业本，乱丢铅笔橡皮。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 56.75,
+      "end": 60.278,
+      "label": "guilin",
+      "text": "不攀比，穿着简单大方即可。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "sc_logprob": -0.0008,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不攀比，穿着简单大方即可。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 60.757,
+      "end": 63.85,
+      "label": "guilin",
+      "text": "不穿了的衣服可以捐给山区的人。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "sc_logprob": -0.0029,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不穿了的衣服可以捐给山区的人。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 64.201,
+      "end": 68.012,
+      "label": "guilin",
+      "text": "节约每一分钱的实质是节约资源，",
+      "score": 0.0527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0283,
+        "sc_logprob": -0.0228,
+        "sc_delta": 0.0055,
+        "acoustic_dev": 0.101,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "节约每一分钱的实质是节约资源。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 68.127,
+      "end": 73.129,
+      "label": "guilin",
+      "text": "并从中体验人类的高尚情感与博大智慧。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "sc_logprob": -0.0007,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并从中体验人类的高尚情感与博大智慧。"
+      }
+    }
+  ]
+}
