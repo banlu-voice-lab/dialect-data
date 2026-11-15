@@ -1,0 +1,446 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林文献史诗话剧_守护_震撼上演.wav",
+  "duration": 102.851,
+  "no_dialect": false,
+  "created_at": "2026-10-26T16:02:18",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.591,
+      "end": 9.104,
+      "label": "mandarin",
+      "text": "前两天，由市戏剧创作研究中心创作的文贤史诗话剧《守福》在广西胜利艺术馆展演。",
+      "score": 0.1163,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "福/护",
+        "lexicon": "",
+        "text_free": "前两天，由市戏剧创作研究中心创作的文献史诗话剧《守护》在广西省立艺术馆展演。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 9.388,
+      "end": 14.499,
+      "label": "mandarin",
+      "text": "这一部由多位国家一级艺术家和专家共同打造的剧目，",
+      "score": 0.0398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0163,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这是一部由多位国家一级艺术家或专家共同打造的剧目。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 14.697,
+      "end": 17.656,
+      "label": "mandarin",
+      "text": "讲述了桂林文化抗战史，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0135,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "讲述了桂林文化抗战史。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.9,
+      "end": 23.428,
+      "label": "mandarin",
+      "text": "在现西南剧展盛况，并入选第十二届广西剧展。《",
+      "score": 0.2265,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1411,
+        "acoustic_dev": 0.136,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "再现西南剧展盛况，并入选第四个届广西剧展。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 24.207,
+      "end": 27.1,
+      "label": "guilin",
+      "text": "守福》以桂林文化城为背景，",
+      "score": 0.868,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.4294,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.333,
+        "phon_examples": "城/陈",
+        "lexicon": "",
+        "text_free": "苏府以桂林文化陈为背景。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 27.1,
+      "end": 30.595,
+      "label": "mandarin",
+      "text": "讲述了抗战时期欧阳予倩、田汉、",
+      "score": 0.1295,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2441,
+        "acoustic_dev": 0.249,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "讲述了抗战时期，欧阳予倩、田汉。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.595,
+      "end": 35.08,
+      "label": "guilin",
+      "text": "熊佛西、瞿百英、张叔等文化名人的云集桂林，",
+      "score": 0.6274,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8517,
+        "acoustic_dev": 0.913,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "熊福喜、曲伯英、张树等文化名人云集桂林。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.141,
+      "end": 38.264,
+      "label": "guilin",
+      "text": "用粤语、戏念、引言、名等，",
+      "score": 0.7113,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.0595,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "念/莲",
+        "lexicon": "",
+        "text_free": "用夜雪与行莲，因夜明灯。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.402,
+      "end": 41.814,
+      "label": "mandarin",
+      "text": "以戏剧为武器，以剧场做战场，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以戏剧为武器，以剧场做战场。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.923,
+      "end": 46.17,
+      "label": "mandarin",
+      "text": "反映民众的爱国热情和抗战决心的故事。",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "翻起民众的爱国热情和抗战决心的故事。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 46.527,
+      "end": 51.008,
+      "label": "mandarin",
+      "text": "作为一部基于考证和文献记载的史诗话剧，",
+      "score": 0.0038,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0231,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为一部基于考证和文献记载的史诗话剧。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 51.321,
+      "end": 54.548,
+      "label": "mandarin",
+      "text": "该剧致敬了中国戏剧改革的先行者，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "该剧致敬了中国戏剧改革的先行者。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 54.836,
+      "end": 58.366,
+      "label": "mandarin",
+      "text": "在现桂林文化城的历史与荣光。",
+      "score": 0.1094,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.085,
+        "acoustic_dev": 0.075,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "再现桂林文化城的历史与用光。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.468,
+      "end": 63.543,
+      "label": "mandarin",
+      "text": "同时，《守福》通过创新的舞美设计和新媒体技术，",
+      "score": 0.298,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4135,
+        "acoustic_dev": 0.434,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，首富通过创新的五美设计和新媒体技术。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.776,
+      "end": 66.22,
+      "label": "mandarin",
+      "text": "实现了舞台灯光和屏幕、",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现了五台灯光和屏幕。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 66.22,
+      "end": 69.094,
+      "label": "guilin",
+      "text": "彩剧情变化的动态效果，",
+      "score": 0.5657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9506,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "测剧情变化的动态效果。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 69.35,
+      "end": 74.643,
+      "label": "mandarin",
+      "text": "增强了视觉冲击，为观众带来更加沉浸式的体验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "增强了视觉冲击，为观众带来更加沉浸式的体验。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 74.643,
+      "end": 79.184,
+      "label": "mandarin",
+      "text": "我来到这儿去看我们桂剧的这个历史的发展，",
+      "score": 0.0201,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0516,
+        "acoustic_dev": 0.039,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我来到这儿，去看我们桂剧的这个历史的发展。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 79.184,
+      "end": 88.268,
+      "label": "mandarin",
+      "text": "我非常的感触。身为桂林人，我觉得我们年轻一代非常的有意义，能够把桂剧传承以及发扬光大下去。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我非常的感触，身为桂林人，我觉得我们年轻一代非常的有意义，能够把桂剧传承以及发扬光大下去。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 88.268,
+      "end": 92.263,
+      "label": "mandarin",
+      "text": "每一个人都要对戏剧有自己的心里的意义，",
+      "score": 0.109,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1633,
+        "acoustic_dev": 0.161,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每一个人都要对戏剧有自己的心理的意义。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 92.263,
+      "end": 95.654,
+      "label": "mandarin",
+      "text": "那份感情，那份信念，我觉得非常的重要。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那份感情，那份纪念，我觉得非常的重要。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 95.654,
+      "end": 100.493,
+      "label": "mandarin",
+      "text": "我觉得这个剧也代表了我们所有桂林人的一种心声，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我觉得这个剧，也代表了我们所有桂林人的一种心声。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 100.702,
+      "end": 102.851,
+      "label": "mandarin",
+      "text": "我们都是守护人。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们都是守护人。"
+      }
+    }
+  ]
+}

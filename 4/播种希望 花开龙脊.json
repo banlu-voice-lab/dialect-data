@@ -1,0 +1,2023 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "播种希望 花开龙脊.wav",
+  "duration": 440.963,
+  "no_dialect": false,
+  "created_at": "2026-10-26T15:10:19",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.329,
+      "end": 3.131,
+      "label": "mandarin",
+      "text": "今天呢，我们来先说一部电视片。",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0171,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天来，我们来先扯一部电视片。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.489,
+      "end": 11.493,
+      "label": "mandarin",
+      "text": "在三十年前，由中央电视台和我们桂林电视台联合拍摄的电视纪录片《龙脊》，",
+      "score": 0.0147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在三十年前，由中央电视台和我们桂林电视台联合拍摄的电视纪录片《龙集》。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.515,
+      "end": 14.3,
+      "label": "guilin",
+      "text": "有的年纪的啊，很多人都会看过。",
+      "score": 0.6255,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3997,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有点年纪龄啊，蛮多人都会看过。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.597,
+      "end": 17.253,
+      "label": "mandarin",
+      "text": "那不止是一部普通的电视片，",
+      "score": 0.1238,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2127,
+        "acoustic_dev": 0.165,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那不只是一部普通的电视片。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.253,
+      "end": 21.979,
+      "label": "mandarin",
+      "text": "它给贫困山区的教育发展带来的意义十分深远。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它给贫困山区的教育发展带来的意义十分深远。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.272,
+      "end": 27.42,
+      "label": "mandarin",
+      "text": "从第一个大学生诞生到一年有二十个学子考起大学，",
+      "score": 0.1463,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2863,
+        "acoustic_dev": 0.241,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从第一个大学生诞生，到一年有二十个学子考取大学。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.725,
+      "end": 31.083,
+      "label": "mandarin",
+      "text": "电视纪录片《龙脊》播下的希望种子，",
+      "score": 0.109,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2556,
+        "acoustic_dev": 0.21,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "电视纪录片《龙脊播下的希望种子》。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.231,
+      "end": 35.659,
+      "label": "uncertain",
+      "text": "三十年前在贫瘠山村小寨生根发芽，",
+      "score": 0.5195,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7171,
+        "acoustic_dev": 0.69,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "贫/平",
+        "lexicon": "",
+        "text_free": "三十年前，在平吉山村小寨，生根发芽。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.659,
+      "end": 39.165,
+      "label": "mandarin",
+      "text": "如今更是发团金树硕果累累。",
+      "score": 0.3154,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2719,
+        "acoustic_dev": 0.226,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "金/精",
+        "lexicon": "",
+        "text_free": "如今更是法团精处，硕果累累。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.391,
+      "end": 43.097,
+      "label": "mandarin",
+      "text": "用胡家的话来讲，那真的是功德无量",
+      "score": 0.1914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0166,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "胡/佛",
+        "lexicon": "",
+        "text_free": "用佛教的话来讲，那真的是功德无量啊！"
+      }
+    },
+    {
+      "id": 11,
+      "start": 46.28,
+      "end": 56.306,
+      "label": "mandarin",
+      "text": "啊！新学年开始之际，一个特殊的日子，在龙胜各族自治县龙脊镇小寨村举行",
+      "score": 0.3027,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4502,
+        "acoustic_dev": 0.412,
+        "seg_cer": 0.194,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "新学年开学之际，一个特殊的仪式在龙胜国族自治县龙吉镇小寨村举行。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 56.674,
+      "end": 60.445,
+      "label": "mandarin",
+      "text": "纪念龙脊纪录片拍摄三十周年、",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0536,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "纪念《龙集》纪录片拍摄三十周年。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 60.597,
+      "end": 64.899,
+      "label": "mandarin",
+      "text": "龙种表彰村里头今年考上大学的二十名学子。",
+      "score": 0.0731,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0559,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "隆重表彰城里头今年考上大学的二十名学子。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 65.546,
+      "end": 77.124,
+      "label": "mandarin",
+      "text": "一九九四年，中央电视台联合桂林电视台在龙脊拍摄了一部反映贫困山区儿童教育及国家希望工程的电视纪录片《龙脊》。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一九九四年，中央电视台联合桂林电视台在龙脊拍摄了一部反映贫困山区儿童教育及国家希望工程的电视纪录片《龙脊》。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 77.552,
+      "end": 84.114,
+      "label": "mandarin",
+      "text": "这部被誉为改变大山孩子命运的纪录片播出以后产生的广泛的社会影响，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这部被誉为改变大山孩子命运的纪录片播出以后，产生的广泛的社会影响。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 84.328,
+      "end": 92.206,
+      "label": "mandarin",
+      "text": "荣膺一九九五年中国四川国际电视节金熊猫“福利儿童题材特别奖”。",
+      "score": 0.0615,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1074,
+        "acoustic_dev": 0.055,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "荣膺一九九五年中国四川国际电视节“金熊猫”妇女儿童题材特别奖。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 92.273,
+      "end": 95.943,
+      "label": "mandarin",
+      "text": "尤其是纪录片播下的希望的种子，",
+      "score": 0.2285,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4766,
+        "acoustic_dev": 0.439,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "尤其是纪录片《播下的希望的种子》。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 96.118,
+      "end": 104.128,
+      "label": "mandarin",
+      "text": "使这个昔日的贫困山村的学校教育和巴爷在命运发生了翻天覆地的变化。",
+      "score": 0.0442,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.097,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "使这个奇异的贫困山村的学校教育和巴耶在命运发生了翻天覆地的变化。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 104.128,
+      "end": 108.711,
+      "label": "mandarin",
+      "text": "今年呃是龙脊纪录片拍摄三十周年",
+      "score": 0.1404,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3137,
+        "acoustic_dev": 0.27,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年，呃，是龙脊纪录片拍摄三十周年。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 108.934,
+      "end": 111.977,
+      "label": "mandarin",
+      "text": "纪念，这部纪录片呢可以说对我们",
+      "score": 0.0614,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1676,
+        "acoustic_dev": 0.118,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "纪念这部纪录片呢，可以说对我们。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 111.977,
+      "end": 114.544,
+      "label": "uncertain",
+      "text": "龙脊的旅游、经济、",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1972,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙脊的旅游经济。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 114.781,
+      "end": 118.38,
+      "label": "mandarin",
+      "text": "教育可以说起到了这个深远的这个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0112,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "教育可以说起到了这个深远的这个。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 118.424,
+      "end": 121.945,
+      "label": "mandarin",
+      "text": "影响，特别是教育，就像我们小寨",
+      "score": 0.1352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "寨/在",
+        "lexicon": "",
+        "text_free": "影响，特别是教育，就像我们小在。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 122.293,
+      "end": 125.308,
+      "label": "mandarin",
+      "text": "大学生呢，从零到有，从一个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大学生呢，从零到有，从一个。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 125.361,
+      "end": 130.585,
+      "label": "mandarin",
+      "text": "到二十个，可以说起了很深远的一个作用。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到二十个，可以说起了很深远的一个作用。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 130.585,
+      "end": 133.423,
+      "label": "mandarin",
+      "text": "那么今天呢，我们在这里举行这个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么今天呢，我们在这里举行这个。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 133.738,
+      "end": 136.332,
+      "label": "mandarin",
+      "text": "龙脊纪录片拍摄三十周年",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙子纪录片拍摄三十周年。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 136.557,
+      "end": 139.54,
+      "label": "mandarin",
+      "text": "纪念和这个大学生表彰大会，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "纪念和这个大学生表彰大会。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 139.881,
+      "end": 143.16,
+      "label": "mandarin",
+      "text": "实在就想鼓励我们更多的学生",
+      "score": 0.1497,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2009,
+        "acoustic_dev": 0.153,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "旨在，就像鼓励我们更多的学生。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 143.318,
+      "end": 145.778,
+      "label": "mandarin",
+      "text": "能够知道知识，改变命运；",
+      "score": 0.2873,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5853,
+        "acoustic_dev": 0.552,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能够知道知识改变命运。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 146.406,
+      "end": 150.193,
+      "label": "mandarin",
+      "text": "同时，也想让他们能够呃常怀感恩",
+      "score": 0.2902,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4095,
+        "acoustic_dev": 0.37,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冯石也在想让他们能够，呃，常怀感恩。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 150.293,
+      "end": 153.81,
+      "label": "mandarin",
+      "text": "之心，学成归来能够回报父母，",
+      "score": 0.0941,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2281,
+        "acoustic_dev": 0.181,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "之心，学成归来，能够回报父母。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 153.81,
+      "end": 156.931,
+      "label": "mandarin",
+      "text": "回报社会，回报我们龙脊。",
+      "score": 0.0002,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0545,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "回报社会，回报我们龙脊。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 156.931,
+      "end": 160.06,
+      "label": "mandarin",
+      "text": "今天参加这个表彰大会，其实我是有很大的感触的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天参加这个表彰大会，其实我是有很大的感触的。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 160.126,
+      "end": 163.79,
+      "label": "mandarin",
+      "text": "农村有很多和我一样，是今年才考上大学的。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.05,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同村有很多和我一样，才是今年才考上大学的。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 163.901,
+      "end": 167.34,
+      "label": "mandarin",
+      "text": "我们经历了小寨从贫穷到富裕，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0197,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们经历了小寨从贫穷到富裕。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 167.34,
+      "end": 171.477,
+      "label": "mandarin",
+      "text": "再到现在真正上，也是让我们感慨很多。",
+      "score": 0.1857,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0078,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "真/蒸",
+        "lexicon": "",
+        "text_free": "再到现在，蒸蒸日上，也是让我们感慨很多。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 171.477,
+      "end": 177.067,
+      "label": "guilin",
+      "text": "看了龙脊这个片子，里面的一个个真的给我很大的激励。",
+      "score": 0.6194,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3834,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看了《龙脊》这个片子，里面的纪恩哥哥真的给了我很大的激励。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 177.34,
+      "end": 180.642,
+      "label": "mandarin",
+      "text": "嗯，首先他在呃。",
+      "score": 0.1979,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2791,
+        "acoustic_dev": 0.234,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，首先，他在嗯。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 180.827,
+      "end": 183.451,
+      "label": "mandarin",
+      "text": "他在片子中，呃，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0133,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他在片子中，呃。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 183.451,
+      "end": 186.855,
+      "label": "mandarin",
+      "text": "一些从很小的时候就开始奋斗，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一些从很小的时候就开始奋斗。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 187.052,
+      "end": 192.485,
+      "label": "mandarin",
+      "text": "然后慢慢靠自己的努力，啊，用知识改变命运，走出大山的",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后慢慢靠自己的努力，呃，用知识改变命运，走出大山的。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 192.662,
+      "end": 195.01,
+      "label": "uncertain",
+      "text": "这个故事，真的，",
+      "score": 0.4956,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9704,
+        "acoustic_dev": 0.953,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个故事真的。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 195.01,
+      "end": 199.382,
+      "label": "mandarin",
+      "text": "嗯，激励到我，给了我很大的决心和毅力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，激励到我，给了我很大的决心和毅力。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 199.566,
+      "end": 202.767,
+      "label": "mandarin",
+      "text": "然后让我继续能够努力学习。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后让我继续能够努力学习。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 203.136,
+      "end": 205.809,
+      "label": "mandarin",
+      "text": "潘世汉讲到的季恩哥哥，",
+      "score": 0.343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3925,
+        "acoustic_dev": 0.352,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "潘石汉讲到的“积恩果果”。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 205.809,
+      "end": 210.696,
+      "label": "mandarin",
+      "text": "就是当年《龙脊纪录片》当中的主人公之一的潘季恩，",
+      "score": 0.1408,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1133,
+        "acoustic_dev": 0.061,
+        "seg_cer": 0.238,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是当年《龙骑》纪录片当中的主役工之一的潘基文。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 211.368,
+      "end": 215.2,
+      "label": "mandarin",
+      "text": "也是这一次讲学活动的主要发起人。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是这一次讲学活动的主要发起人。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 215.713,
+      "end": 218.736,
+      "label": "mandarin",
+      "text": "当时十三岁读五年级的潘季恩，",
+      "score": 0.1423,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2522,
+        "acoustic_dev": 0.206,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当时十三岁、读五年级的潘杰恩。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 218.844,
+      "end": 221.304,
+      "label": "guilin",
+      "text": "勤奋好学，勤奋梦想，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0488,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "勤奋好学，心怀梦想。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 221.687,
+      "end": 224.781,
+      "label": "mandarin",
+      "text": "被誉为学校最有出息的学生。",
+      "score": 0.067,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1781,
+        "acoustic_dev": 0.129,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "被誉为“学校最有出息的学生”。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 225.283,
+      "end": 229.321,
+      "label": "mandarin",
+      "text": "六年级的时候被录取到县里头的民族班学习，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "六年级的时候，被录取到县里头的民族班学习。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 229.474,
+      "end": 233.364,
+      "label": "mandarin",
+      "text": "然后考上了龙胜中学的初中和高中。",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0078,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后考上了龙盛中学的初中或高中。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 233.873,
+      "end": 237.919,
+      "label": "mandarin",
+      "text": "二零零一年考上解放军洛阳外国语学院，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零零一年，考上解放军洛阳外国语学院。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 238.198,
+      "end": 242.072,
+      "label": "mandarin",
+      "text": "成为了小寨村走出来的第一个大学生。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0267,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为了小寨村走出来的第一个大学生。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 242.391,
+      "end": 246.096,
+      "label": "guilin",
+      "text": "潘季恩渴求知识、追逐梦想的例子故事，",
+      "score": 0.5709,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.797,
+        "acoustic_dev": 0.773,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "子/志",
+        "lexicon": "",
+        "text_free": "潘建恩渴求知识，追逐梦想的励志故事。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 246.249,
+      "end": 251.741,
+      "label": "mandarin",
+      "text": "是对知识改变命运、奋斗成就人生哲理的最好诠释，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是对知识改变命运、奋斗成就人生哲理的最好诠释。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 252.121,
+      "end": 257.048,
+      "label": "mandarin",
+      "text": "同时也成为了后来小寨村众多学子学习的榜样。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0272,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时也成为了后来小泽丞众多学子学习的榜样。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 257.048,
+      "end": 259.397,
+      "label": "guilin",
+      "text": "主要是叔叔也一直在鼓励我们，",
+      "score": 0.6255,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5409,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "季恩叔叔也一直在鼓励我们。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 259.397,
+      "end": 261.568,
+      "label": "mandarin",
+      "text": "希望我们能够走出小寨，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "希望我们能够走出小寨。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 261.571,
+      "end": 265.156,
+      "label": "mandarin",
+      "text": "能够去见识外面的世界，所以说我也一直在",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0469,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能够去见识外面的世界，所以说我也一直有在。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 265.182,
+      "end": 268.435,
+      "label": "guilin",
+      "text": "努力上提升自己上，向着他，",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.3399,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "努力想提升自己，想向着他。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 268.435,
+      "end": 270.901,
+      "label": "mandarin",
+      "text": "向着他的目标去前进。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "向着他的目标去前进。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 270.901,
+      "end": 273.162,
+      "label": "mandarin",
+      "text": "滴水之恩，涌泉相报。",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "地水之恩，涌泉相报。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 273.326,
+      "end": 277.575,
+      "label": "mandarin",
+      "text": "潘季恩的成长成才，除了本人努力奋斗之外，",
+      "score": 0.1637,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2629,
+        "acoustic_dev": 0.217,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "潘金恩的成长成才，除了本应努力奋斗之外。"
+      }
+    },
+    {
+      "id": 66,
+      "start": 277.784,
+      "end": 280.406,
+      "label": "mandarin",
+      "text": "还得益于国家的希望工程，",
+      "score": 0.038,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1244,
+        "acoustic_dev": 0.073,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还得益于国家的希望工程。"
+      }
+    },
+    {
+      "id": 67,
+      "start": 280.591,
+      "end": 283.526,
+      "label": "mandarin",
+      "text": "得益于家乡父老的鼎力相助，",
+      "score": 0.2441,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3647,
+        "acoustic_dev": 0.323,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "得以与家乡父老的鼎力相助。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 283.727,
+      "end": 287.453,
+      "label": "mandarin",
+      "text": "得益于龙脊纪录片导演的爱心帮扶。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "得益于龙吉纪录片导演的爱心帮扶。"
+      }
+    },
+    {
+      "id": 69,
+      "start": 287.813,
+      "end": 293.536,
+      "label": "mandarin",
+      "text": "所以现在北京创业的他时刻不忘回报社会、报恩家乡。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以现在北京创业的他，时刻不忘回报社会，报恩家乡。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 293.949,
+      "end": 300.157,
+      "label": "mandarin",
+      "text": "这次发起龙脊教育发展基金会举办金榜提名大学生表彰会，",
+      "score": 0.3404,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4328,
+        "acoustic_dev": 0.394,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "龙/农",
+        "lexicon": "",
+        "text_free": "这次发起“农机交易发展基金会”，举办“金榜提名大学生表彰会”。"
+      }
+    },
+    {
+      "id": 71,
+      "start": 300.157,
+      "end": 302.478,
+      "label": "mandarin",
+      "text": "就是他的其中一个善举。",
+      "score": 0.1914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0207,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "善/三",
+        "lexicon": "",
+        "text_free": "就是他的其中一个三句。"
+      }
+    },
+    {
+      "id": 72,
+      "start": 302.478,
+      "end": 304.749,
+      "label": "guilin",
+      "text": "我是，呃，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.1593,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，我是，呃。"
+      }
+    },
+    {
+      "id": 73,
+      "start": 304.749,
+      "end": 309.277,
+      "label": "uncertain",
+      "text": "潘季恩是这个三十年前小在希望小学的学生，",
+      "score": 0.4761,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6468,
+        "acoustic_dev": 0.616,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "在/寨",
+        "lexicon": "",
+        "text_free": "潘基文是，这个三十年前小寨希望小学的学生。"
+      }
+    },
+    {
+      "id": 74,
+      "start": 309.637,
+      "end": 313.591,
+      "label": "mandarin",
+      "text": "呃，也是龙脊纪录片的主人公之一。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0155,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，也是龙脊纪录片里的主人公之一。"
+      }
+    },
+    {
+      "id": 75,
+      "start": 313.997,
+      "end": 317.806,
+      "label": "mandarin",
+      "text": "三十年在这个龙脊纪录片",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.01,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三十年，在这个龙脊纪录片。"
+      }
+    },
+    {
+      "id": 76,
+      "start": 317.845,
+      "end": 321.112,
+      "label": "guilin",
+      "text": "导演组和社会人士的帮助下，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8634,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "导演组和社会各界人士的帮助下。"
+      }
+    },
+    {
+      "id": 77,
+      "start": 321.531,
+      "end": 325.866,
+      "label": "mandarin",
+      "text": "我走出了大山。今天我回来办这个活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0356,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我走出了大山，今天我回来办这个活动。"
+      }
+    },
+    {
+      "id": 78,
+      "start": 325.866,
+      "end": 328.011,
+      "label": "mandarin",
+      "text": "主要是要感谢这个",
+      "score": 0.1303,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.295,
+        "acoustic_dev": 0.25,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主要是要感谢，这个。"
+      }
+    },
+    {
+      "id": 79,
+      "start": 328.385,
+      "end": 333.585,
+      "label": "guilin",
+      "text": "呃龙脊这个片子和各级党委政府",
+      "score": 0.6673,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9823,
+        "acoustic_dev": 0.965,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "党/单",
+        "lexicon": "",
+        "text_free": "呃，《龙脊》这个片子，和各级单位政府。"
+      }
+    },
+    {
+      "id": 80,
+      "start": 333.763,
+      "end": 338.087,
+      "label": "guilin",
+      "text": "和社会各界人士的帮助。我做这个活动，",
+      "score": 0.6057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6907,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "和各社会人士的帮助，我做这个活动。"
+      }
+    },
+    {
+      "id": 81,
+      "start": 338.089,
+      "end": 341.202,
+      "label": "guilin",
+      "text": "也是是表明我不忘来时的路，",
+      "score": 0.5581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.629,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也只是表明我，不忘来时的路。"
+      }
+    },
+    {
+      "id": 82,
+      "start": 341.771,
+      "end": 345.724,
+      "label": "mandarin",
+      "text": "记住父老乡亲对我的关心关爱",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记住父老乡亲对我的关心关爱。"
+      }
+    },
+    {
+      "id": 83,
+      "start": 345.993,
+      "end": 353.048,
+      "label": "mandarin",
+      "text": "和关怀。我也希望我这行为能激励我的学弟学妹们，",
+      "score": 0.0753,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1531,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "和关怀，我也希望，我的行为能激励我的学弟学妹们。"
+      }
+    },
+    {
+      "id": 84,
+      "start": 353.462,
+      "end": 355.882,
+      "label": "uncertain",
+      "text": "同样不忘来时的路，",
+      "score": 0.4093,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8109,
+        "acoustic_dev": 0.787,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同样，不忘来时的路。"
+      }
+    },
+    {
+      "id": 85,
+      "start": 356.251,
+      "end": 358.837,
+      "label": "mandarin",
+      "text": "走好前方的路，走向世界，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走好前方的路，走向世界。"
+      }
+    },
+    {
+      "id": 86,
+      "start": 359.611,
+      "end": 363.621,
+      "label": "uncertain",
+      "text": "回报家乡。不忘师恩，不忘母校这培情，",
+      "score": 0.5093,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6983,
+        "acoustic_dev": 0.67,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "这/责",
+        "lexicon": "",
+        "text_free": "回报家乡，不忘师恩，不忘母校，责佩情。"
+      }
+    },
+    {
+      "id": 87,
+      "start": 364.036,
+      "end": 366.321,
+      "label": "mandarin",
+      "text": "像以往每一次返乡一样，",
+      "score": 0.0915,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0543,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "像以往每一次反向一样。"
+      }
+    },
+    {
+      "id": 88,
+      "start": 366.461,
+      "end": 370.51,
+      "label": "mandarin",
+      "text": "潘吉恩都会专程去探望探望自己当年的老师，",
+      "score": 0.0722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0099,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "潘建恩都会转乘去探望探望自己当年的老师。"
+      }
+    },
+    {
+      "id": 89,
+      "start": 370.734,
+      "end": 375.778,
+      "label": "mandarin",
+      "text": "并到他当年梦起航的母校小寨小学去走走看看。",
+      "score": 0.0065,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0663,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并到他当年梦起航的母校——小寨小学，去走走看看。"
+      }
+    },
+    {
+      "id": 90,
+      "start": 376.207,
+      "end": 379.692,
+      "label": "mandarin",
+      "text": "看着一次，他还带上了自己的女。",
+      "score": 0.0632,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.106,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看这一次，他还带上了自己的女。"
+      }
+    },
+    {
+      "id": 91,
+      "start": 379.692,
+      "end": 383.124,
+      "label": "mandarin",
+      "text": "一九九四年，农技电视拍摄之前，",
+      "score": 0.3236,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3376,
+        "acoustic_dev": 0.295,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "农/龙",
+        "lexicon": "",
+        "text_free": "一九九四年，龙井电视拍摄之前。"
+      }
+    },
+    {
+      "id": 92,
+      "start": 383.124,
+      "end": 387.078,
+      "label": "mandarin",
+      "text": "这个学校呢原来是很差的。从这个电视拍出以后，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0116,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个学校呢，原来是很差的。从这个电视拍出以后。"
+      }
+    },
+    {
+      "id": 93,
+      "start": 387.754,
+      "end": 392.314,
+      "label": "mandarin",
+      "text": "得到社会各界的帮助，建了希望教学楼，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "得到社会各界的帮助，进了希望教学楼。"
+      }
+    },
+    {
+      "id": 94,
+      "start": 392.958,
+      "end": 395.721,
+      "label": "mandarin",
+      "text": "操场呢得到硬化，很平坦。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0123,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "操场呢，得到硬化，很平坦。"
+      }
+    },
+    {
+      "id": 95,
+      "start": 395.892,
+      "end": 400.072,
+      "label": "mandarin",
+      "text": "原来呢，读书的人也是很少。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "原来呢，读书的人也是很少。"
+      }
+    },
+    {
+      "id": 96,
+      "start": 400.906,
+      "end": 404.783,
+      "label": "mandarin",
+      "text": "从那电视电视拍出以后，第一个大学生潘吉恩",
+      "score": 0.3159,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5048,
+        "acoustic_dev": 0.469,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从那电视台电视播出以后，第一个大学生潘继恩。"
+      }
+    },
+    {
+      "id": 97,
+      "start": 405.306,
+      "end": 409.477,
+      "label": "guilin",
+      "text": "考上大学，后来呢就五五年增加，",
+      "score": 0.5903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1661,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "考上大学，后来呢，就逐逐年增加。"
+      }
+    },
+    {
+      "id": 98,
+      "start": 409.554,
+      "end": 412.649,
+      "label": "mandarin",
+      "text": "三十年从从这里走出去，在",
+      "score": 0.1062,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1737,
+        "acoustic_dev": 0.124,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三十年前，从这里走出去，在。"
+      }
+    },
+    {
+      "id": 99,
+      "start": 413.475,
+      "end": 416.048,
+      "label": "mandarin",
+      "text": "我潘老师的这个帮助下",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我潘老师的这个帮助下。"
+      }
+    },
+    {
+      "id": 100,
+      "start": 416.093,
+      "end": 419.868,
+      "label": "mandarin",
+      "text": "啊，这个教育下，终于走出了大山。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，这个教育下，终于走出了大山。"
+      }
+    },
+    {
+      "id": 101,
+      "start": 419.923,
+      "end": 422.728,
+      "label": "mandarin",
+      "text": "啊，三十年后今天回到母校，就是感慨",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0201,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，三十年后今天回到母校，确实感慨。"
+      }
+    },
+    {
+      "id": 102,
+      "start": 423.353,
+      "end": 427.654,
+      "label": "mandarin",
+      "text": "颇深，特别是就很高兴的是，今年我们",
+      "score": 0.0137,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0796,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "颇深，特别是，就很高兴的是，今年我们。"
+      }
+    },
+    {
+      "id": 103,
+      "start": 427.934,
+      "end": 430.757,
+      "label": "mandarin",
+      "text": "这个从这个学校走出去的，",
+      "score": 0.0334,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1159,
+        "acoustic_dev": 0.064,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个从这个学校走出去的。"
+      }
+    },
+    {
+      "id": 104,
+      "start": 431.075,
+      "end": 435.016,
+      "label": "mandarin",
+      "text": "然后今年考取大学的有二十多位学生，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后今年考取大学的，有二十多位学生。"
+      }
+    },
+    {
+      "id": 105,
+      "start": 435.362,
+      "end": 438.499,
+      "label": "mandarin",
+      "text": "啊，这是我的小师弟他们。",
+      "score": 0.1451,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.069,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，这是我的小师弟他们。所以说。"
+      }
+    },
+    {
+      "id": 106,
+      "start": 438.499,
+      "end": 440.963,
+      "label": "mandarin",
+      "text": "所以说，我们这个潘老师是桃李满天下。",
+      "score": 0.0857,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们这个潘老师是桃李满天下。"
+      }
+    }
+  ]
+}

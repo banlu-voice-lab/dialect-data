@@ -1,0 +1,1054 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "走读阳朔葡萄石头城_小耀门村有座古庙.wav",
+  "duration": 239.487,
+  "no_dialect": false,
+  "created_at": "2026-10-26T17:26:04",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.74,
+      "label": "mandarin",
+      "text": "今天是国庆长假的最后一天了，我们班路栏目带到大家一起去阳朔崇州古城，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1661,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天是国庆长假的最后一天了。我们《半路栏目》带大家一起去阳朔崇州古城。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.146,
+      "end": 14.94,
+      "label": "mandarin",
+      "text": "从桂林出发，沿321国道南行四十公里，就是阳朔县葡萄镇。",
+      "score": 0.0623,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从桂林出发，沿三二幺国道南行四十公里，就是阳朔县葡萄镇。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 15.404,
+      "end": 19.9,
+      "label": "mandarin",
+      "text": "葡萄镇杨梅岭村未进来的崇山峻岭间，",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2164,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "葡萄镇、杨梅岭、城尾镇内的崇山峻岭间。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 19.9,
+      "end": 23.723,
+      "label": "mandarin",
+      "text": "有这么一座至今保存较为完好的石头城。",
+      "score": 0.1538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "至/资",
+        "lexicon": "",
+        "text_free": "有这么一座资金保存较为完好的石头城。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 24.194,
+      "end": 30.576,
+      "label": "mandarin",
+      "text": "石头城现有东南西北四座较为完整的大城门，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0108,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "石头城现有东南西北四座较为完整的大城门。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 30.791,
+      "end": 34.369,
+      "label": "mandarin",
+      "text": "原有二十四座小城门，现存十八座。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "原有二十四座小城门，现成十八座。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 34.708,
+      "end": 39.071,
+      "label": "mandarin",
+      "text": "石头城下有古庙四座，现存两座。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "石头城下有古庙四座，现剩两座。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 39.232,
+      "end": 42.764,
+      "label": "mandarin",
+      "text": "我们的班路啊，就从一座古庙开始。",
+      "score": 0.0727,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "板路",
+        "text_free": "我们的板路啊，就从一座古庙开始。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 48.986,
+      "end": 54.219,
+      "label": "mandarin",
+      "text": "观众朋友，大家好，我来到的阳朔县葡萄镇杨梅岭村，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0164,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "观众朋友，大家好，我来到的阳朔县葡萄镇杨梅岭村。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 54.331,
+      "end": 57.302,
+      "label": "mandarin",
+      "text": "这个地方呢，叫做小尧门。我跟你讲，",
+      "score": 0.2197,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.465,
+        "acoustic_dev": 0.234,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个地方呢，叫做逍遥门。我跟您讲。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 57.453,
+      "end": 61.811,
+      "label": "mandarin",
+      "text": "这里的风光绝对好啊，有河清河清的山，",
+      "score": 0.1525,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3562,
+        "acoustic_dev": 0.128,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这口的风光绝对好啊，有好清好清的山。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 61.903,
+      "end": 66.001,
+      "label": "mandarin",
+      "text": "有蓝蓝的天，背后呢还有用石头砌的房子，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有蓝蓝的天，背后呢，还有用石头砌的房子。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 66.152,
+      "end": 69.8,
+      "label": "mandarin",
+      "text": "这里面的故事好多。为此呢，我专门请了当地啊，",
+      "score": 0.2745,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6244,
+        "acoustic_dev": 0.389,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这里面的故事好多。每次呢，我专门请了当地人。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 69.834,
+      "end": 78.19,
+      "label": "mandarin",
+      "text": "也是非常熟悉这里的环境的啊，以及历史人文的廖老师来和我们扯下子小尧门石头城的班路。",
+      "score": 0.0869,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0439,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "板路",
+        "text_free": "也是非常熟悉这个的环境的啊，以及历史人文的廖老师，来和我们扯一下子小窑门石头城的板路。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 78.19,
+      "end": 80.769,
+      "label": "uncertain",
+      "text": "廖老师好，你好。",
+      "score": 0.4768,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8509,
+        "acoustic_dev": 0.609,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "廖老师，你好。廖老师，你好。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 81.756,
+      "end": 84.87,
+      "label": "mandarin",
+      "text": "这个老人家喊做廖凯峰，当过老师，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0844,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个老人家喊做廖开峰，当过老师。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 84.87,
+      "end": 89.166,
+      "label": "mandarin",
+      "text": "爱好文史，和我们江西城里头的班路头头是道。",
+      "score": 0.2594,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3415,
+        "acoustic_dev": 0.114,
+        "seg_cer": 0.421,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "板路",
+        "text_free": "二号文师，红江区城里头的板路，头头是道。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 89.62,
+      "end": 92.827,
+      "label": "mandarin",
+      "text": "现在我们身后这个房子是什么房子？",
+      "score": 0.1226,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.346,
+        "acoustic_dev": 0.119,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在我们母身后这个房子是什么房子呢？"
+      }
+    },
+    {
+      "id": 19,
+      "start": 93.184,
+      "end": 96.112,
+      "label": "guilin",
+      "text": "原来这个老老一个一个庙，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.3118,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "原来是一个老，这个这个庙。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 96.112,
+      "end": 99.063,
+      "label": "mandarin",
+      "text": "那个些房子也是用石头砌的啊。",
+      "score": 0.1412,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2947,
+        "acoustic_dev": 0.069,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那个是房子，也是用石头砌起来。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 99.48,
+      "end": 104.175,
+      "label": "mandarin",
+      "text": "古庙是一座两进的建筑，门前有大块的青石台阶，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "古庙是一座两进的建筑，门前有大块的青石台阶。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 104.469,
+      "end": 110.155,
+      "label": "mandarin",
+      "text": "大门两侧由青砖构成，建筑的其他部分则全部是片石垒砌。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大门两侧由青砖构成，建筑的其他部分则全部是片石垒砌。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 110.607,
+      "end": 115.837,
+      "label": "mandarin",
+      "text": "二零一九年经过重新整修，这座庙看上去显得朴素庄重。",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零一九年，经过重新整修，整座庙看上去显得朴素庄重。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 116.758,
+      "end": 121.113,
+      "label": "guilin",
+      "text": "这个庙呢是这第一次去第二次去不？",
+      "score": 0.5851,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1404,
+        "acoustic_dev": 0.891,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个庙呢，是这这一次的是第二次，晓不？"
+      }
+    },
+    {
+      "id": 25,
+      "start": 121.113,
+      "end": 123.657,
+      "label": "mandarin",
+      "text": "哦，原来这个庙的情况呢，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0303,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哦，原来这个庙的情况呢？"
+      }
+    },
+    {
+      "id": 26,
+      "start": 123.742,
+      "end": 126.511,
+      "label": "mandarin",
+      "text": "我在这个庙里头呢也读过书，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0106,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我在这个庙里头呢，也读过书。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 126.511,
+      "end": 129.88,
+      "label": "mandarin",
+      "text": "我也在这个庙里头呢也教过书。",
+      "score": 0.072,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2969,
+        "acoustic_dev": 0.071,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哦，也在这个庙里头呢，也教过书。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 129.88,
+      "end": 134.842,
+      "label": "uncertain",
+      "text": "我让我们慢慢走进看一下。走进庙里，",
+      "score": 0.5094,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9908,
+        "acoustic_dev": 0.745,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哦，那我们再慢慢走进看一下。哦，走进庙里。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 134.842,
+      "end": 137.457,
+      "label": "mandarin",
+      "text": "正堂中间有一处简单的石台，",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.224,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "蒸堂中间有一处简单的石台。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 137.457,
+      "end": 142.901,
+      "label": "mandarin",
+      "text": "陈设不多。两侧看上去泛黄的石墙是以前留成下来的，",
+      "score": 0.1886,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2927,
+        "acoustic_dev": 0.067,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "陈/承",
+        "lexicon": "",
+        "text_free": "承受不多，两侧看上去翻放的石墙是以前留存下来的。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 143.328,
+      "end": 146.297,
+      "label": "mandarin",
+      "text": "片石按照一定的规律垒筑为墙，",
+      "score": 0.1844,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3802,
+        "acoustic_dev": 0.152,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "偏是按照一定的规律垒筑围墙。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 146.327,
+      "end": 149.812,
+      "label": "mandarin",
+      "text": "不用灰浆水泥等工艺，非常特别。",
+      "score": 0.1703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "泥/沥",
+        "lexicon": "",
+        "text_free": "不用飞浆水沥等工艺，非常特别。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 150.715,
+      "end": 154.687,
+      "label": "mandarin",
+      "text": "啊，这个就我们的观众朋友可以看一下啊。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，这个就我们的观众朋友可以看一下啊。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 154.687,
+      "end": 157.0,
+      "label": "guilin",
+      "text": "这个石头呢，很多很多，这个",
+      "score": 0.82,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3278,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "即係嗰啲邊度邊度？"
+      }
+    },
+    {
+      "id": 35,
+      "start": 157.634,
+      "end": 160.565,
+      "label": "uncertain",
+      "text": "老外也好，外地游客也好，",
+      "score": 0.4626,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9584,
+        "acoustic_dev": 0.714,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老外也好，外国的游客也好。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 160.565,
+      "end": 164.2,
+      "label": "guilin",
+      "text": "他们看这个石头，没石头砌的这么好，嗯，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.477,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他们看这个系统为什么起得这么好。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 164.263,
+      "end": 168.138,
+      "label": "uncertain",
+      "text": "要不砌灰浆，嗯，好，它的有的原力性呢，",
+      "score": 0.5395,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9748,
+        "acoustic_dev": 0.73,
+        "seg_cer": 0.533,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要不起飞降落？嗯，哈，它的有的原理上面呢。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 168.282,
+      "end": 171.817,
+      "label": "mandarin",
+      "text": "这个石头一点打得好。这块和这块注意了，",
+      "score": 0.3012,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6071,
+        "acoustic_dev": 0.372,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个石头一定要打得好，这块和这块都有了。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 171.883,
+      "end": 174.977,
+      "label": "mandarin",
+      "text": "下面用个石头的一定要打这个口口。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下面用个许多的，一定压到这个QQ。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 174.977,
+      "end": 179.148,
+      "label": "guilin",
+      "text": "哦哦，你一看口口，这个呢用一分的，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1378,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哦哦，你一离开QQ一个呢，容易分的。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 179.549,
+      "end": 183.874,
+      "label": "guilin",
+      "text": "很，压到这个口口以后。这个也要到这个以后到切不开，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8642,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他压到这个口口以后，结果一压到这个以后啊，他全部卡。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 183.932,
+      "end": 186.928,
+      "label": "mandarin",
+      "text": "嗯，对对，很有讲究的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，对对，很有讲究的。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 186.928,
+      "end": 192.172,
+      "label": "guilin",
+      "text": "你看啥子啊？嗯。现在古庙的后范沿一行列是屋顶、",
+      "score": 0.7113,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.0452,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.6,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "行/新",
+        "lexicon": "",
+        "text_free": "大家，现在古庙里要翻新一新的，是屋顶。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 192.172,
+      "end": 196.423,
+      "label": "mandarin",
+      "text": "房梁和柱子。虽然整修以后改变了一点样子，",
+      "score": 0.1508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0246,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "虽/水",
+        "lexicon": "",
+        "text_free": "房梁和柱子，水淹整修以后，改变了一点样子。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 196.57,
+      "end": 202.479,
+      "label": "mandarin",
+      "text": "但是廖开峰老人对于这一座古庙依然充满着小时候的回忆。",
+      "score": 0.0366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0485,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是，廖开峰老人对于这一座古庙，一言充满着小时候的回忆。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 203.399,
+      "end": 206.636,
+      "label": "mandarin",
+      "text": "听讲这个地方后来有做了个小学是不是？",
+      "score": 0.2855,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7358,
+        "acoustic_dev": 0.497,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "听讲，这个地方后来又做了个小学，是不是？"
+      }
+    },
+    {
+      "id": 47,
+      "start": 206.636,
+      "end": 213.272,
+      "label": "mandarin",
+      "text": "哦，对。读我读开始读在民在这个解放前民国的时候也是有个小学，",
+      "score": 0.2302,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.413,
+        "acoustic_dev": 0.184,
+        "seg_cer": 0.185,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "民/明",
+        "lexicon": "",
+        "text_free": "好的，读我读开始读到明，在这个解放前民国的时候，也是一个小学。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 213.272,
+      "end": 215.959,
+      "label": "mandarin",
+      "text": "啊是个小学的。嗯。那时有好多学生呢，这个呢。",
+      "score": 0.0722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2665,
+        "acoustic_dev": 0.041,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，是个小学的，那是有好多学生呢，这个呢。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 215.989,
+      "end": 219.49,
+      "label": "mandarin",
+      "text": "这个在我读书的时候就有十八个学生。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0594,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个在我读书的时候，就有十八个学生。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 219.545,
+      "end": 224.031,
+      "label": "mandarin",
+      "text": "十八个学生，这旧社会的不因为解放前的吗？",
+      "score": 0.2953,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4918,
+        "acoustic_dev": 0.26,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十八个学生，这救学费的哦，不因为改档钱的么？"
+      }
+    },
+    {
+      "id": 51,
+      "start": 224.031,
+      "end": 226.384,
+      "label": "mandarin",
+      "text": "哦。那说明我们这个村上还是蛮重视教育的。",
+      "score": 0.318,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6523,
+        "acoustic_dev": 0.416,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "说明我们这个城商还是蛮重视教育的。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 226.384,
+      "end": 228.867,
+      "label": "uncertain",
+      "text": "哦，对。老人家讲，",
+      "score": 0.3883,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4138,
+        "acoustic_dev": 0.184,
+        "seg_cer": 0.333,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老白，老人家讲。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 228.867,
+      "end": 233.045,
+      "label": "mandarin",
+      "text": "他在这块上了一年的学，不久新中国就成立了。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0452,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他在这刻上了一年的学，不久新中国就成立了。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 233.403,
+      "end": 236.489,
+      "label": "mandarin",
+      "text": "一九五六年，这块又恢复成了学校。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一九五六年，这可又恢复成了学校。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 236.489,
+      "end": 239.487,
+      "label": "mandarin",
+      "text": "廖开峰再次回到了这块。",
+      "score": 0.1371,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "廖开凤再次飞到了这里。"
+      }
+    }
+  ]
+}

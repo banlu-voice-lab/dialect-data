@@ -1,0 +1,484 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "京剧_樱桃园_在桂林大剧院上演.wav",
+  "duration": 137.731,
+  "no_dialect": false,
+  "created_at": "2026-10-26T14:29:20",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.468,
+      "label": "mandarin",
+      "text": "四月二十六号，由中国戏曲学院带来的京剧《樱桃园》在桂林大剧院上演。《",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "四月二十六号，由中国戏曲学院带来的京剧《樱桃园》在桂林大剧院上演。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.955,
+      "end": 15.797,
+      "label": "mandarin",
+      "text": "樱桃园》是中国戏曲学院根据俄罗斯艺术大师契科夫的经典作品《樱桃园》改编的同名京剧，",
+      "score": 0.0316,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0273,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.054,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "《樱桃园》是中国戏曲学院根据俄罗斯艺术大师其可夫的经典作品《樱桃园》改编的同名京剧。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 16.112,
+      "end": 23.979,
+      "label": "mandarin",
+      "text": "剧目在俄罗斯经典布罗利亚尔林斯国际戏剧节上荣获戏剧艺术节特别大奖。",
+      "score": 0.2105,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0978,
+        "acoustic_dev": 0.213,
+        "seg_cer": 0.219,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "君姆在俄罗斯经典布罗利亚二零二四国际戏剧节上荣获戏剧艺术界特别大奖。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 24.349,
+      "end": 36.3,
+      "label": "mandarin",
+      "text": "该剧讲述了一个清末名族没落贵族阶级新兴的资产阶级与进步思想者之间在国之心理空间生活斗争的故事。",
+      "score": 0.304,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1022,
+        "acoustic_dev": 0.225,
+        "seg_cer": 0.283,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.231,
+        "phon_examples": "新/行 族/住 名/民",
+        "lexicon": "",
+        "text_free": "该剧讲述了一个清末民初，摩罗归住改籍，行刑的资产改籍与进步思想者之间，在国之心的空间生活斗争的故事。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 36.421,
+      "end": 43.642,
+      "label": "guilin",
+      "text": "故事中的人们最终在国之的梦想空间里面见证《樱桃园》的衰落与变化。",
+      "score": 0.635,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3443,
+        "acoustic_dev": 0.91,
+        "seg_cer": 0.276,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "之/自",
+        "lexicon": "",
+        "text_free": "故事中的银门，这一种在各自的梦想空间里面见证樱桃园的衰落与变法。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 43.901,
+      "end": 48.077,
+      "label": "mandarin",
+      "text": "整部剧共分为四场，情节引人入胜，人",
+      "score": 0.1524,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "整部剧共分为四场，情节隐隐如深。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 48.297,
+      "end": 52.623,
+      "label": "mandarin",
+      "text": "物性格鲜明，剧中角色塑造立体饱满。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "人物性格鲜明，剧中角色塑造立体饱满。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 52.883,
+      "end": 57.04,
+      "label": "guilin",
+      "text": "此外，音乐服饰方面也都淋漓赏心悦目，",
+      "score": 0.6771,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4414,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "淋/令",
+        "lexicon": "",
+        "text_free": "此外，音乐服饰方面也都令人赏心悦目。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 57.325,
+      "end": 61.015,
+      "label": "guilin",
+      "text": "让大家切身的感受到了传统国粹的美丽。",
+      "score": 0.6545,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4269,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让大家切实地感受到了传统国车的魅力。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 61.015,
+      "end": 67.495,
+      "label": "mandarin",
+      "text": "虽然我们没有长袖长衫，但是我们的声韵都有韵律的，包括他们的呃竹算呐、打牌、",
+      "score": 0.358,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1859,
+        "acoustic_dev": 0.462,
+        "seg_cer": 0.121,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "声/身",
+        "lexicon": "",
+        "text_free": "虽然我们没有长袖长衫，但是我们的身段都有韵律的，包括他们的呃，竹算那打帕。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 67.495,
+      "end": 73.506,
+      "label": "uncertain",
+      "text": "打算盘呐等等砍树啊，它其实用了我们很多的呃我们的戏曲的表现手段。",
+      "score": 0.4897,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3245,
+        "acoustic_dev": 0.854,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "算盘啊，等等，砍树啊，它其实是用了我们很多的呃，我们的戏曲的表现手段。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 73.662,
+      "end": 78.36,
+      "label": "mandarin",
+      "text": "我们一定是用我们京剧的唱念做打我们的程式表演啊，",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.048,
+        "acoustic_dev": 0.072,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们一定是用我们京剧的唱念做打，我们的程式表演。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 78.483,
+      "end": 81.536,
+      "label": "mandarin",
+      "text": "那把它化用到这出戏的创作当中，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那把它化用到这出戏的创作当中。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 81.641,
+      "end": 87.174,
+      "label": "mandarin",
+      "text": "各国的不同的艺术形式来共同演绎同一主题的经典作品。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "各国的不同的艺术形式来共同演绎同一主题的经典作品。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 87.174,
+      "end": 92.346,
+      "label": "mandarin",
+      "text": "事实上，这也是戏剧之林我觉得一个呃非常可喜的现象。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "事实上，这也是戏剧之林，我觉得一个呃非常可喜的现象。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 92.346,
+      "end": 99.9,
+      "label": "mandarin",
+      "text": "主创团队希望通过桂林艺术节这个平台，让观众们切身地领略到京剧艺术的魅力，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0127,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主创团队希望通过桂林艺术节这个平台，让观众们切身地领略到景区艺术的魅力。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 100.06,
+      "end": 103.758,
+      "label": "mandarin",
+      "text": "从而增强文化自信和民族自豪感，",
+      "score": 0.0662,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0455,
+        "acoustic_dev": 0.065,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从而增强文化自信或民族自豪感。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 103.758,
+      "end": 109.435,
+      "label": "mandarin",
+      "text": "让世界人民在我们的桂林美丽的这样一个城市",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让世界人民，在我们的桂林美丽的这样一个城市。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 110.226,
+      "end": 112.78,
+      "label": "mandarin",
+      "text": "文明共享、文化交流。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文明共享，文化交流。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 113.049,
+      "end": 118.378,
+      "label": "mandarin",
+      "text": "因此，我们把俄罗斯世界经典名剧《",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0227,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因此，我们把俄罗斯世界经典名句。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 118.378,
+      "end": 123.34,
+      "label": "mandarin",
+      "text": "樱桃园》改编成国剧演出的京剧《樱桃园》，",
+      "score": 0.0851,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0805,
+        "acoustic_dev": 0.164,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "樱桃园改编成国剧演出的京剧《樱桃园》。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 123.34,
+      "end": 126.958,
+      "label": "mandarin",
+      "text": "在我们这个世界的旅游城市",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在我们这个世界的旅游城市。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 127.178,
+      "end": 130.411,
+      "label": "uncertain",
+      "text": "给大家分享。我想这就是",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3974,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给大家分享，我想这就是。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 130.643,
+      "end": 134.633,
+      "label": "mandarin",
+      "text": "它的本身的意义，立足中国文化，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它的本身的意义，立足中国文化。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 134.633,
+      "end": 137.731,
+      "label": "mandarin",
+      "text": "面向世界，奔向未来。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "面向世界，奔向未来。"
+      }
+    }
+  ]
+}

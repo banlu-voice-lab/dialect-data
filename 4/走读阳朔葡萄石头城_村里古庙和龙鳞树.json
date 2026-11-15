@@ -1,0 +1,1301 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "走读阳朔葡萄石头城_村里古庙和龙鳞树.wav",
+  "duration": 246.144,
+  "no_dialect": false,
+  "created_at": "2026-10-26T17:35:28",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.447,
+      "label": "mandarin",
+      "text": "古庙一般都是村民们为了祈求平安保佑大家而设立的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "古庙一般都是村民们为了祈求平安、保佑大家而设立的。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.658,
+      "end": 8.06,
+      "label": "mandarin",
+      "text": "那这一座古庙喊什么名字呢？",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那这一座古庙喊什么名字呢？"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.181,
+      "end": 12.026,
+      "label": "mandarin",
+      "text": "这座古庙也有点什么好耍好听的版路呢？",
+      "score": 0.0938,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1125,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "耍",
+        "text_free": "这座古庙又有点什么好耍、好听的伴路呢？"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.601,
+      "end": 15.515,
+      "label": "guilin",
+      "text": "古时候人们起房子、建有讲究，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.802,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "古时候，营门起房子蛮有讲究。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.66,
+      "end": 18.413,
+      "label": "mandarin",
+      "text": "要先搞一番堪舆之术，",
+      "score": 0.2755,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4234,
+        "acoustic_dev": 0.076,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "之/子",
+        "lexicon": "",
+        "text_free": "要先搞一番探鱼子术。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 18.413,
+      "end": 21.388,
+      "label": "mandarin",
+      "text": "也就是我们平时讲的看风水，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1275,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也就是我们平时讲的看风水。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 21.727,
+      "end": 24.411,
+      "label": "mandarin",
+      "text": "再根据地形地势来建设。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "再根据地形地势来建设。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 24.671,
+      "end": 30.333,
+      "label": "mandarin",
+      "text": "村里头的这一座古庙恰好处在村口的一个山岔路口旁边，",
+      "score": 0.151,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3199,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.208,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "城里头的这一座古庙，括号处在城口的一个三岔路口旁边。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.637,
+      "end": 33.877,
+      "label": "mandarin",
+      "text": "建的时候就考虑到了风水的问题。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0118,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "建的时候就考虑到了风水的问题。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 34.381,
+      "end": 37.37,
+      "label": "mandarin",
+      "text": "这个庙以前喊做什么庙？以前呢，",
+      "score": 0.146,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4257,
+        "acoustic_dev": 0.078,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个庙以前还都什么庙？以前的。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 37.37,
+      "end": 40.297,
+      "label": "uncertain",
+      "text": "喊做这个我几大的时候，",
+      "score": 0.3888,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9976,
+        "acoustic_dev": 0.44,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看着这个，我遇到的时候。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 40.297,
+      "end": 43.48,
+      "label": "mandarin",
+      "text": "这个庙呢都是叫做小庙。叫小庙？",
+      "score": 0.3285,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0867,
+        "acoustic_dev": 0.496,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个庙呢，都是叫做小庙，全是小庙。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 43.48,
+      "end": 47.309,
+      "label": "mandarin",
+      "text": "嗯。那意思讲，在我们这个阳梅里有一个大庙了。",
+      "score": 0.1844,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.243,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.316,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咯",
+        "text_free": "那意思讲，在我们这个阳明里，应该有个大庙咯。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 47.309,
+      "end": 51.559,
+      "label": "mandarin",
+      "text": "大庙有。有。大庙是在东门大岸头那个地方。",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2833,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大庙有，大庙是在龙门大岸头那个地方。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 51.559,
+      "end": 53.729,
+      "label": "uncertain",
+      "text": "哦。我们那边大那个地方，",
+      "score": 0.4371,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1442,
+        "acoustic_dev": 0.533,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哦，我们慢慢就到那个地方去。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 53.729,
+      "end": 56.722,
+      "label": "mandarin",
+      "text": "啊，这样小庙呢可能说保存好一点的吧。",
+      "score": 0.276,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.655,
+        "acoustic_dev": 0.223,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，这种小苗呢，可能是保育成的好一点的吧。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 56.722,
+      "end": 60.219,
+      "label": "mandarin",
+      "text": "好，这个小庙的目的一个是",
+      "score": 0.1882,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4955,
+        "acoustic_dev": 0.122,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哦，这个巧妙的目的，一个是。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 60.725,
+      "end": 63.98,
+      "label": "mandarin",
+      "text": "这个地边有一个这个风口吹过来，",
+      "score": 0.3659,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2156,
+        "acoustic_dev": 0.578,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个这边有一个这个风口吹过大。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 63.98,
+      "end": 67.098,
+      "label": "guilin",
+      "text": "嗯，要庙的当中的一个就是地部分。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.009,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.643,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，有没有的？这党组的一个，这是第一部分。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 67.098,
+      "end": 69.797,
+      "label": "mandarin",
+      "text": "哦。第二部分呢，你这个小庙的呢，",
+      "score": 0.1573,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3531,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第二部分呢，以这个巧妙的呢。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 69.797,
+      "end": 73.018,
+      "label": "mandarin",
+      "text": "你肯定保佑这个村子的人们",
+      "score": 0.3605,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9116,
+        "acoustic_dev": 0.386,
+        "seg_cer": 0.583,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以神灵保佑这个成都的人民呢。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 73.135,
+      "end": 78.203,
+      "label": "mandarin",
+      "text": "平安无事。廖开峰老人和文哥边走边回忆，",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1147,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平安无事。廖凯封了银盒文果，边走边回忆。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 78.237,
+      "end": 80.435,
+      "label": "mandarin",
+      "text": "小时候他不仅在这里读过书，",
+      "score": 0.1064,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6258,
+        "acoustic_dev": 0.205,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "小时候，他不仅在这里读过书。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 80.59,
+      "end": 83.82,
+      "label": "mandarin",
+      "text": "也在这里烧过香、祈求安康。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0206,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也来在去烧个香，祈求安康。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 83.987,
+      "end": 89.799,
+      "label": "mandarin",
+      "text": "来，你小时候或者年轻时候来这个小庙烧过香吗？",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1121,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那你小时候，我的年轻时候，你这个小庙烧过香吗？"
+      }
+    },
+    {
+      "id": 26,
+      "start": 89.799,
+      "end": 95.704,
+      "label": "mandarin",
+      "text": "烧过。烧过啥？嗯，一般都是初一十五，初一十五有人来烧香。",
+      "score": 0.0994,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0302,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "烧锅，烧锅是啊，嗯，一般都是初一十五，初一十五都有人来烧香。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 95.704,
+      "end": 101.017,
+      "label": "mandarin",
+      "text": "哦。这个地方呢，还有一个专门管这个庙的，还有个庙主。",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0295,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个地方呢，还有一个专门管这个庙的，还有个庙主。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 101.174,
+      "end": 105.145,
+      "label": "mandarin",
+      "text": "还有个庙主。嗯，庙主是在这里常住的，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0231,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有个庙主，嗯，庙主是在这里常住的。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 105.382,
+      "end": 109.367,
+      "label": "mandarin",
+      "text": "他的他的任务呢就是看管这个庙。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0094,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他的他的任务呢，就是看管这个庙。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 109.367,
+      "end": 111.972,
+      "label": "mandarin",
+      "text": "嗯。打扫环境卫生。嗯。",
+      "score": 0.0707,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3438,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，打扫环境卫生。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 111.972,
+      "end": 115.783,
+      "label": "guilin",
+      "text": "老人每天呢早晨夜晚都烧香，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.7627,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "早上每天呢，早晨、夜晚都下乡。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 115.783,
+      "end": 123.298,
+      "label": "mandarin",
+      "text": "他住哪块呢？他以前这个地方有一个房子，有个房的啊，那庙子就在那住的这房子里面。",
+      "score": 0.1576,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.257,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "哪个",
+        "text_free": "他住哪个呢？他以前这个地方也有个房子，也有个房的啊。那庙子住的都住在叫房子里面。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 123.7,
+      "end": 126.806,
+      "label": "mandarin",
+      "text": "从古庙正堂的左手边出去，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从古庙正堂的左手边出去。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 127.001,
+      "end": 130.212,
+      "label": "mandarin",
+      "text": "登上几级台阶，有一个小平台，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0187,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "登上几级台阶，有一个小平台。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 130.212,
+      "end": 134.765,
+      "label": "mandarin",
+      "text": "跟古庙相连。在这里可以看到远处的青山绿树，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0698,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "跟古庙相连，在这里可以看到远处的青山绿树。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 135.137,
+      "end": 138.767,
+      "label": "mandarin",
+      "text": "微风吹来，大家都感到凉快和惬意。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "微风吹来，大家都感到凉快和惬意。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 139.32,
+      "end": 143.824,
+      "label": "mandarin",
+      "text": "这个时候，村里头的几个小把爷跑起过来喊我们帮拍照。",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0747,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个时候，村里头的几个小把爷跑起过来，喊我帮拍照。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 144.209,
+      "end": 146.914,
+      "label": "mandarin",
+      "text": "村坡的把爷仔们摆出剪刀手，",
+      "score": 0.26,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1572,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "仔/寨 村/淳",
+        "lexicon": "",
+        "text_free": "淳朴的巴彦寨们摆出剪刀手。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 146.914,
+      "end": 153.181,
+      "label": "mandarin",
+      "text": "相当可爱。在平台的旁边有一道非常有特色的树，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0963,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "相当可爱。在平台的旁边有一株非常有特色的树。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 153.181,
+      "end": 156.627,
+      "label": "mandarin",
+      "text": "引起了我们的关注。廖开峰老人和我们讲，",
+      "score": 0.2299,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5149,
+        "acoustic_dev": 0.134,
+        "seg_cer": 0.412,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "引起了我们的关注。了解冯老，用英文讲。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 156.627,
+      "end": 160.35,
+      "label": "mandarin",
+      "text": "这道树在当地喊做龙鳞树。",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.239,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "浙斗树在当地喊做龙鳞树。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 160.66,
+      "end": 163.307,
+      "label": "mandarin",
+      "text": "它为什么叫做龙鳞树呢？嗯，",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1199,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他为什么搞叫龙鳞树呢？"
+      }
+    },
+    {
+      "id": 43,
+      "start": 163.307,
+      "end": 165.782,
+      "label": "mandarin",
+      "text": "它一层一层的，每一层",
+      "score": 0.192,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.423,
+        "acoustic_dev": 0.076,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他一层一层的，每一年的。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 166.071,
+      "end": 168.379,
+      "label": "guilin",
+      "text": "这个一层皮哦，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -5.0022,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.833,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个是烫疫身体。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 168.666,
+      "end": 171.5,
+      "label": "mandarin",
+      "text": "皮的底下呢，嗯，它是红的，",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0478,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "皮的底下呢，它是红的。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 172.12,
+      "end": 174.179,
+      "label": "guilin",
+      "text": "树的这都是这些龙鳞树，",
+      "score": 0.845,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.408,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.1,
+        "phon_examples": "龙/農",
+        "lexicon": "",
+        "text_free": "書袋借讀書袋，係啲農業書。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 174.179,
+      "end": 179.096,
+      "label": "guilin",
+      "text": "嗯，有些的可以说。我们小时候的活计都是差不多，",
+      "score": 0.5974,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6311,
+        "acoustic_dev": 0.841,
+        "seg_cer": 0.45,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他的历史呢，可以说，我们小时候呢，都和这都是差不多。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 179.139,
+      "end": 181.781,
+      "label": "mandarin",
+      "text": "到这个时候呢也差不多。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到这个时候呢，也差不多。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 181.781,
+      "end": 185.495,
+      "label": "mandarin",
+      "text": "就讲你讲小时候看到就这么大了，没小一点，小点点，",
+      "score": 0.0994,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.34,
+        "acoustic_dev": 0.024,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就讲你以前小的时候，看到就那么大了，没小一点，小点点。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 185.495,
+      "end": 188.578,
+      "label": "mandarin",
+      "text": "哈，八十年了没长好多，就是了。",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2848,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这八十年了，没涨好多。就是啦。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 189.506,
+      "end": 193.726,
+      "label": "mandarin",
+      "text": "这道龙鳞树，我估算了一下，它大概有十来米高，",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0141,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这头龙鳞树，我估算了一下，它大概有十来米高。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 193.94,
+      "end": 196.559,
+      "label": "mandarin",
+      "text": "树冠直径有五六米宽，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0117,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "树冠直径有五六米宽。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 196.559,
+      "end": 199.925,
+      "label": "mandarin",
+      "text": "在城里头算是蛮大的一株树了。",
+      "score": 0.1633,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3713,
+        "acoustic_dev": 0.044,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在城里头，算是蛮大力读书了。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 200.791,
+      "end": 204.003,
+      "label": "mandarin",
+      "text": "好神奇，看到没有？再看一下那龙鳞树，",
+      "score": 0.3284,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.814,
+        "acoustic_dev": 0.324,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好神奇！观众朋友，再看一下啊，那龙鳞鼠。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 204.003,
+      "end": 207.532,
+      "label": "mandarin",
+      "text": "这一片一片的看啊，是像像龙一样的。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0309,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一片一片的，你看啊，是像像龙鳞的。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 207.793,
+      "end": 210.811,
+      "label": "mandarin",
+      "text": "啊，它每年都要脱一次。啊，每年都脱一次的。",
+      "score": 0.2011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4275,
+        "acoustic_dev": 0.079,
+        "seg_cer": 0.529,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他每年得拖一次。他每年得拖一次。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 210.811,
+      "end": 213.211,
+      "label": "mandarin",
+      "text": "啊，每年脱，它可能脱一次都长大一点吧。",
+      "score": 0.177,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3543,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.438,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，没点腿，他可能腿是都长大一点吧。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 213.211,
+      "end": 215.458,
+      "label": "mandarin",
+      "text": "啊，对啊，脱一次都长大一些。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1432,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哦对啊，属于是这张大一些。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 215.691,
+      "end": 218.519,
+      "label": "guilin",
+      "text": "啊，龙鳞树它还要它得脱一次。",
+      "score": 0.7256,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8687,
+        "acoustic_dev": 0.992,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "树/酥",
+        "lexicon": "",
+        "text_free": "啊，龙鳞酥它还有它的特色。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 219.119,
+      "end": 222.111,
+      "label": "guilin",
+      "text": "春天的时候就穿芽，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.3735,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.75,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全新的时刻，都是穿牙。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 222.111,
+      "end": 225.586,
+      "label": "mandarin",
+      "text": "嗯，夏季的时候就长叶，嗯，",
+      "score": 0.1405,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3128,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，夏季的时候，就涨液。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 225.73,
+      "end": 228.864,
+      "label": "guilin",
+      "text": "秋季的时候叶子就变一路变化，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9128,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "秋给你介绍叶子的变，一路的变化。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 228.9,
+      "end": 232.353,
+      "label": "mandarin",
+      "text": "到了冬季呢，那个叶子全部都是红的，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0269,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到了冬天呢，那个叶子全部都是红的。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 232.353,
+      "end": 234.5,
+      "label": "mandarin",
+      "text": "红的它都落下来了，就这样子的。",
+      "score": 0.2536,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5867,
+        "acoustic_dev": 0.18,
+        "seg_cer": 0.615,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "说：“你他就落下来了，就让。”"
+      }
+    },
+    {
+      "id": 65,
+      "start": 234.5,
+      "end": 236.894,
+      "label": "guilin",
+      "text": "哦。啊，它就是红的。",
+      "score": 0.6496,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3644,
+        "acoustic_dev": 0.672,
+        "seg_cer": 1.0,
+        "lang_free": "Korean",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "어, 쉬우서."
+      }
+    },
+    {
+      "id": 66,
+      "start": 236.894,
+      "end": 239.062,
+      "label": "mandarin",
+      "text": "那我们到秋天来看会漂亮吧？啊，",
+      "score": 0.2884,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6925,
+        "acoustic_dev": 0.247,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看我到球球来看，会漂亮吧？"
+      }
+    },
+    {
+      "id": 67,
+      "start": 239.062,
+      "end": 241.446,
+      "label": "mandarin",
+      "text": "秋天来的时候好漂亮。啊，秋天来的，小心，",
+      "score": 0.1134,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3865,
+        "acoustic_dev": 0.053,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "秋天来的时候，好漂亮。秋天来的消息。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 241.533,
+      "end": 246.144,
+      "label": "mandarin",
+      "text": "有的这个有的带黄带黄带红黄的，那个更加漂亮。",
+      "score": 0.0686,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2923,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有点，这个有点带黄，带黄的，带红黄的那个，更加漂亮。"
+      }
+    }
+  ]
+}

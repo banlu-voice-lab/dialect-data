@@ -1,0 +1,1491 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "纪录片_漓江_首轮热播结束 桂林人深感自豪.wav",
+  "duration": 315.282,
+  "no_dialect": false,
+  "created_at": "2026-10-26T16:57:14",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.323,
+      "label": "mandarin",
+      "text": "前段时间，由中央广播电视总台影视剧纪录片中心、自治区广播电视局、",
+      "score": 0.0158,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0081,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前段时间，由中央广播电视总台影视剧纪录片中心、自治区广播电视剧。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.505,
+      "end": 15.111,
+      "label": "mandarin",
+      "text": "广西广播电视台联合摄制的纪录片《漓江》在中央广播电视总台纪录片频道播出。",
+      "score": 0.0277,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0097,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.061,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广西广播电视台联合摄制的纪录片《丽江》在中央广播电视总台纪录频道播出。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 15.404,
+      "end": 18.827,
+      "label": "mandarin",
+      "text": "当前，《漓江》首轮播出已经结束。",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当前丽江首轮播出已经结束。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 19.06,
+      "end": 25.331,
+      "label": "mandarin",
+      "text": "该片扎实的历史资料、生动的解说词句、创意的表达方式，",
+      "score": 0.1195,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0308,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "扎实",
+        "text_free": "改编扎实的史实资料，生动的解说词句，创意的表达方式。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 25.331,
+      "end": 29.818,
+      "label": "mandarin",
+      "text": "深受在全网走红，在桂林引发热议。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "词术在全网走红，在桂林引发热议。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 29.954,
+      "end": 33.648,
+      "label": "uncertain",
+      "text": "该片分为造法、史迹、兴法、",
+      "score": 0.5287,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0734,
+        "acoustic_dev": 0.629,
+        "seg_cer": 0.6,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "兴/新",
+        "lexicon": "",
+        "text_free": "该片分为早伐、十级、新伐。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 33.648,
+      "end": 36.733,
+      "label": "guilin",
+      "text": "龙脊、共生、守护六个章节，",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.4539,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "护/富",
+        "lexicon": "",
+        "text_free": "龙节、公生、首富六个章节。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.04,
+      "end": 42.065,
+      "label": "mandarin",
+      "text": "全景展现漓江及其流域的山水之秀、生态之优、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全景展现漓江及其流域的山水之秀、生态之优。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 42.065,
+      "end": 52.561,
+      "label": "mandarin",
+      "text": "人文之美，以生动鲜活的漓江故事向世界传播中国传统文化所倡导的人与自然和谐共生理念。",
+      "score": 0.0117,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.026,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "人文之美，以生动鲜活的丽江故事，向世界传播中国传统文化所倡导的“人与自然和谐共生”理念。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 53.034,
+      "end": 58.602,
+      "label": "mandarin",
+      "text": "漓江播出时，桂林摄影师陆宇明看到了自己的采访片段，",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0508,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丽江播出时，桂林摄影师陆宇明看到了自己的采访片段。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 58.697,
+      "end": 62.736,
+      "label": "mandarin",
+      "text": "思绪万千。这个是我第一次从幕后走到台前，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "思绪万千。这个是我第一次从幕后走到台前。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 62.882,
+      "end": 65.535,
+      "label": "mandarin",
+      "text": "然后用武哦武侠摄影的方式，",
+      "score": 0.2418,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.709,
+        "acoustic_dev": 0.392,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后用武呃武侠摄影的方式。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 65.757,
+      "end": 69.545,
+      "label": "mandarin",
+      "text": "把武侠摄影和桂林山水做了一次有机的结合，",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把五家摄影和桂林山水做了一次有机的结合。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 69.689,
+      "end": 72.106,
+      "label": "mandarin",
+      "text": "让让大家看到桂林不一样的美。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让让大家看到桂林不一样的美。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 72.237,
+      "end": 76.214,
+      "label": "mandarin",
+      "text": "所以，我来说真的是非常的荣幸，在今后的摄影工作当中，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0192,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以我来说，真的是非常的荣幸，在今后的摄影工作当中。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 76.558,
+      "end": 79.244,
+      "label": "uncertain",
+      "text": "我回去挖掘更多的漓江文化，",
+      "score": 0.5358,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4651,
+        "acoustic_dev": 0.884,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我会去挖掘更多的丽江文化。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 79.464,
+      "end": 82.837,
+      "label": "mandarin",
+      "text": "把自己的武武侠摄影和漓江文化相结合，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把自己的武武侠摄影和丽江文化相结合。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 83.055,
+      "end": 86.237,
+      "label": "mandarin",
+      "text": "通过我的镜头向大家展现不一样的漓江，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过我的镜头，向大家展现不一样的漓江。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 86.371,
+      "end": 91.308,
+      "label": "mandarin",
+      "text": "不一样的美。除了通过唯美的镜头展示漓江的美，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不一样的美。除了通过唯美的镜头展示丽江的美。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 91.406,
+      "end": 95.8,
+      "label": "mandarin",
+      "text": "纪录片还生动讲述了桂林市各级政府部门、",
+      "score": 0.1492,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3229,
+        "acoustic_dev": 0.14,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "纪录片还生动讲述了桂林市国际政府部。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 96.217,
+      "end": 101.135,
+      "label": "mandarin",
+      "text": "技术专家、沿岸村民等守护漓江的生态故事。",
+      "score": 0.177,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0839,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.278,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "民/明",
+        "lexicon": "",
+        "text_free": "技术专家严安、陈明等守护丽江的生态故事。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 101.663,
+      "end": 104.86,
+      "label": "mandarin",
+      "text": "绿水青山就是金山银山的理念，",
+      "score": 0.0674,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3063,
+        "acoustic_dev": 0.13,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "绿水青山，就是金山银山的理念。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 104.86,
+      "end": 107.446,
+      "label": "mandarin",
+      "text": "在桂林已深入人心。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0267,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在桂林，已深入人心。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 107.82,
+      "end": 111.646,
+      "label": "mandarin",
+      "text": "我之前是一个渔民，是垃圾的制造者，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我之前是一个渔民，是垃圾的制造者。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 111.646,
+      "end": 115.357,
+      "label": "mandarin",
+      "text": "从制造者来从事这个保洁。",
+      "score": 0.0525,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1393,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从制造者，从来从事这个保洁。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 115.357,
+      "end": 117.908,
+      "label": "mandarin",
+      "text": "看了这个纪录片之后，我的心情是很高兴，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看了这个纪录片之后，我的心情是很高兴。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 117.908,
+      "end": 121.185,
+      "label": "mandarin",
+      "text": "给我们的市民、我们的游客认可了我们的",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0331,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给我们的市民，我们的游客认可了我们的。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 121.574,
+      "end": 123.784,
+      "label": "mandarin",
+      "text": "工作。今后我在这个岗位上呢，",
+      "score": 0.0916,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.147,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "工作。今后我在这个岗位上咧。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 123.784,
+      "end": 127.502,
+      "label": "mandarin",
+      "text": "继续努力，把我们的漓江清理的干干净净，让游客、",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0504,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "继续努力，把我们那个漓江清理的干干净净，让游客。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 127.502,
+      "end": 131.57,
+      "label": "mandarin",
+      "text": "世界的游客感到我们美丽的漓江是很整洁、很漂亮的。",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0132,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "世界的游客赶到我们美丽的漓江，是很整洁、很漂亮的。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 132.067,
+      "end": 136.184,
+      "label": "guilin",
+      "text": "我从小在漓江边上长，漓江是我们母亲湖。",
+      "score": 0.6545,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8742,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我从小在丽江边长大，丽江是我们的母亲湖。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 136.379,
+      "end": 139.348,
+      "label": "uncertain",
+      "text": "我现在在漓江景区开竹排，",
+      "score": 0.4314,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9091,
+        "acoustic_dev": 0.522,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我现在在丽江景区看招牌。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 139.916,
+      "end": 142.559,
+      "label": "guilin",
+      "text": "哪里时候一天开得到七八趟，",
+      "score": 0.5944,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6384,
+        "acoustic_dev": 0.997,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "忙的时候，一天开得到七八趟。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 142.794,
+      "end": 145.08,
+      "label": "guilin",
+      "text": "景区开完排子才能回家。",
+      "score": 0.6689,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6108,
+        "acoustic_dev": 0.979,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平时开完牌子，还能回家。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 145.08,
+      "end": 149.233,
+      "label": "guilin",
+      "text": "家里过水到了年底景区还会拿去",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6558,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他的果实到了年底，景区还会拿出。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 149.481,
+      "end": 152.545,
+      "label": "guilin",
+      "text": "营业的百分之几给我们村民分红，",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.7671,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "营业额的百分之十，给我们村民分红。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 152.925,
+      "end": 155.822,
+      "label": "mandarin",
+      "text": "收入多了，生活更好了，",
+      "score": 0.2805,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6358,
+        "acoustic_dev": 0.344,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "手多了，生活更好了。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 156.205,
+      "end": 158.92,
+      "label": "mandarin",
+      "text": "开竹排更加有动力。同时，",
+      "score": 0.3273,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8041,
+        "acoustic_dev": 0.454,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看猪排更加有动力，同时。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 159.076,
+      "end": 161.633,
+      "label": "mandarin",
+      "text": "我们也进一步规范了自己，",
+      "score": 0.3143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4946,
+        "acoustic_dev": 0.252,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "自/秩",
+        "lexicon": "",
+        "text_free": "我们也进一步规范了秩序。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 161.754,
+      "end": 165.492,
+      "label": "mandarin",
+      "text": "自觉保护漓江，使漓江水更清、",
+      "score": 0.3714,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.584,
+        "acoustic_dev": 0.31,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "自/直",
+        "lexicon": "",
+        "text_free": "直角保护丽江，湿丽江，水更清。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 165.492,
+      "end": 168.199,
+      "label": "guilin",
+      "text": "山更秀丽、环境更漂亮，",
+      "score": 0.774,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6259,
+        "acoustic_dev": 0.988,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "更/根 山/三",
+        "lexicon": "",
+        "text_free": "三根小梨，环境更漂亮。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 168.257,
+      "end": 170.875,
+      "label": "mandarin",
+      "text": "游客来了才能玩的更开心。",
+      "score": 0.151,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3076,
+        "acoustic_dev": 0.131,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有客来了，才能玩得更开心。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 170.875,
+      "end": 173.643,
+      "label": "mandarin",
+      "text": "纪录片中讲述的守护漓江的故事，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "纪录片中讲述的守护漓江的故事。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 173.643,
+      "end": 176.988,
+      "label": "mandarin",
+      "text": "让我十分有共鸣。作为漓江的从业人员，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让我十分有共鸣。作为漓江的从业人员。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 176.988,
+      "end": 181.683,
+      "label": "mandarin",
+      "text": "我深知保护漓江的重要性。守护好金不换的生态优势，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我深知保护漓江的重要性，守护好金不换的生态优势。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 181.683,
+      "end": 185.386,
+      "label": "mandarin",
+      "text": "我们责无旁贷。纪录片啊，全景展示了",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们责无旁贷。纪录片啊，全景展示了。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 185.486,
+      "end": 188.025,
+      "label": "mandarin",
+      "text": "丽江的山水之美、生态之美、",
+      "score": 0.2903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8421,
+        "acoustic_dev": 0.478,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "漓江的山水之美，生态之美。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 188.308,
+      "end": 193.889,
+      "label": "mandarin",
+      "text": "人文之美。让我用不一样的视角一遍遍欣赏丽江，",
+      "score": 0.1212,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2625,
+        "acoustic_dev": 0.101,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "原文之美，让我啊用不一样的视角一遍遍欣赏漓江。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 194.087,
+      "end": 197.08,
+      "label": "mandarin",
+      "text": "感受丽江，看到丽江的生态",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感受漓江，看到漓江的生态。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 197.279,
+      "end": 201.647,
+      "label": "uncertain",
+      "text": "点点。让我那样为保护好丽江生态",
+      "score": 0.3963,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8052,
+        "acoustic_dev": 0.454,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "别变，让我能呀，为保护好漓江生态。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 201.724,
+      "end": 207.488,
+      "label": "mandarin",
+      "text": "出份力，还感到自豪。我们呀将继续牢记嘱托，",
+      "score": 0.2744,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6178,
+        "acoustic_dev": 0.332,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "区分力而感到自豪。我们啊，将继续牢记嘱托。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 207.488,
+      "end": 211.47,
+      "label": "mandarin",
+      "text": "在习近平生态文明思想的科学指引下，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在习近平生态文明思想的科学指引下。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 212.119,
+      "end": 215.939,
+      "label": "mandarin",
+      "text": "坚持实施最严格的执法管控措施，",
+      "score": 0.175,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4312,
+        "acoustic_dev": 0.211,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坚持实施最严格的计划管控措施。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 216.318,
+      "end": 220.333,
+      "label": "mandarin",
+      "text": "像保护自己的眼睛一样用心呵护丽江。",
+      "score": 0.0929,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2971,
+        "acoustic_dev": 0.124,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "像保护自己的眼睛一样，用心呵护漓江。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 220.954,
+      "end": 224.674,
+      "label": "mandarin",
+      "text": "让丽江水清山更绿。",
+      "score": 0.1221,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1302,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让漓江水更清，山更绿。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 224.768,
+      "end": 228.566,
+      "label": "mandarin",
+      "text": "丽江从策划到拍摄全面到位，",
+      "score": 0.2467,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3155,
+        "acoustic_dev": 0.136,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "策/车",
+        "lexicon": "",
+        "text_free": "丽江从车发到拍摄全面到位。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 228.566,
+      "end": 232.178,
+      "label": "mandarin",
+      "text": "编辑流畅，构图精美，色彩统一，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "编辑流畅，构图精美，色彩统一。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 232.583,
+      "end": 235.94,
+      "label": "mandarin",
+      "text": "画面都美轮美奂，让观众震惊。",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "画面都美了美范，让观众震惊。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 236.293,
+      "end": 239.41,
+      "label": "mandarin",
+      "text": "桂林也正需要这样一部纪录片，",
+      "score": 0.336,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8921,
+        "acoustic_dev": 0.511,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林也正需要制作一部纪录片。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 239.41,
+      "end": 243.187,
+      "label": "mandarin",
+      "text": "来让世界更为深入的了解丽江。",
+      "score": 0.0451,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2404,
+        "acoustic_dev": 0.087,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来，让世界更为深入的了解丽江。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 243.315,
+      "end": 245.781,
+      "label": "guilin",
+      "text": "这一部纪录片，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.7793,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一步，纪录片。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 246.536,
+      "end": 248.884,
+      "label": "uncertain",
+      "text": "它是全方位、",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.3286,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它是全方位。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 249.933,
+      "end": 255.07,
+      "label": "mandarin",
+      "text": "多视角，运用新手法展示",
+      "score": 0.0094,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1347,
+        "acoustic_dev": 0.018,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多视角，运用新手法展示。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 255.574,
+      "end": 261.802,
+      "label": "guilin",
+      "text": "丽江。它好呢是既有宏大的宗旨的叙事，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9696,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第一讲，它呢是既有宏大的宗旨的叙事。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 261.802,
+      "end": 264.366,
+      "label": "guilin",
+      "text": "但是呢它也有生动的、",
+      "score": 0.5708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.8926,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是呢，它也有生动。"
+      }
+    },
+    {
+      "id": 66,
+      "start": 264.571,
+      "end": 267.607,
+      "label": "mandarin",
+      "text": "感人的细节的刻画。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感人的细节的刻画。"
+      }
+    },
+    {
+      "id": 67,
+      "start": 267.607,
+      "end": 271.385,
+      "label": "mandarin",
+      "text": "这部片它是把自然和人类相融，",
+      "score": 0.0839,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.147,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这部电影，它是把自然和人类相融。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 271.385,
+      "end": 274.332,
+      "label": "mandarin",
+      "text": "把历史和时尚衔接，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0347,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把历史和时尚衔接。"
+      }
+    },
+    {
+      "id": 69,
+      "start": 274.332,
+      "end": 278.906,
+      "label": "mandarin",
+      "text": "它非常全面的有力的体现了丽江",
+      "score": 0.1926,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3867,
+        "acoustic_dev": 0.182,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它非常全面、有力地体现了漓江。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 278.922,
+      "end": 283.168,
+      "label": "mandarin",
+      "text": "它的科学价值。所以，我们眼睛看到的丽江，",
+      "score": 0.2374,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4112,
+        "acoustic_dev": 0.198,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他的科学家，所有我们眼睛看到了丽江。"
+      }
+    },
+    {
+      "id": 71,
+      "start": 283.361,
+      "end": 288.561,
+      "label": "mandarin",
+      "text": "还有心灵里面的丽江，它通过一系列的古代文",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有心灵里面的丽江，他通过一系列的古代门。"
+      }
+    },
+    {
+      "id": 72,
+      "start": 288.608,
+      "end": 292.11,
+      "label": "mandarin",
+      "text": "文人墨客啊对丽江的赞美之词，",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0496,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文人墨客啊，对漓江的赞美之词。"
+      }
+    },
+    {
+      "id": 73,
+      "start": 292.701,
+      "end": 295.859,
+      "label": "mandarin",
+      "text": "表现了丽江从古到今",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "表现了丽江，从古到今。"
+      }
+    },
+    {
+      "id": 74,
+      "start": 296.017,
+      "end": 298.267,
+      "label": "mandarin",
+      "text": "在人们心目中的美。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在人们心目中的美。"
+      }
+    },
+    {
+      "id": 75,
+      "start": 298.525,
+      "end": 301.591,
+      "label": "mandarin",
+      "text": "所以这种还有通过摄影师",
+      "score": 0.0159,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1541,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以这种，还有通过摄影师。"
+      }
+    },
+    {
+      "id": 76,
+      "start": 301.862,
+      "end": 307.069,
+      "label": "mandarin",
+      "text": "啊，通过画家们来描述了在艺术家眼中的丽江。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0259,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，通过画家们来描述了在艺术家眼中的漓江。"
+      }
+    },
+    {
+      "id": 77,
+      "start": 307.1,
+      "end": 309.93,
+      "label": "mandarin",
+      "text": "所以它是用立体的手段",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0173,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以他是用立体的手段。"
+      }
+    },
+    {
+      "id": 78,
+      "start": 309.93,
+      "end": 315.282,
+      "label": "mandarin",
+      "text": "来展现一个全景式的唯美的丽江。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来展现一个全景式的唯美的丽江。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1016 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_一指_画家张志晖_让残缺的生命美如画.wav",
+  "duration": 212.132,
+  "no_dialect": false,
+  "created_at": "2026-10-26T13:47:10",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.456,
+      "end": 5.565,
+      "label": "mandarin",
+      "text": "如果要讲到画家，我们经常呢就会用一些赞美之词来形容。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0077,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果要讲到画家，我们经常呢就会用一些赞美之词来形容。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.565,
+      "end": 8.3,
+      "label": "mandarin",
+      "text": "你比如讲啊，妙笔生花呀，",
+      "score": 0.1345,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1431,
+        "acoustic_dev": 0.083,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "你比如讲啊，描笔生发呀。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.3,
+      "end": 12.459,
+      "label": "mandarin",
+      "text": "啊，画龙点睛啊，还有这个沉竹再雄啊等等。",
+      "score": 0.0855,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0946,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，画龙点睛啊，还有这个沉住战熊啊，等等。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.731,
+      "end": 16.801,
+      "label": "mandarin",
+      "text": "但是在我们桂林灵川县有一位特殊的画家，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0745,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是在我们桂林灵川县，有一位特殊的画家。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.801,
+      "end": 20.756,
+      "label": "mandarin",
+      "text": "他啷子个特殊法嘞？他只有一根手指嘛，",
+      "score": 0.1257,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0727,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "它啷是个特殊法嘞？它只有一根手指嘛。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.899,
+      "end": 24.597,
+      "label": "mandarin",
+      "text": "能够做到画龙点睛、妙笔生花，妙嘞！",
+      "score": 0.1053,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0806,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "能够做到发龙点睛、妙笔生花，妙练。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.597,
+      "end": 26.939,
+      "label": "uncertain",
+      "text": "我们一起来开只眼盖。",
+      "score": 0.5051,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5359,
+        "acoustic_dev": 0.678,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们一起来开枝引干。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.52,
+      "end": 33.64,
+      "label": "uncertain",
+      "text": "这个汉族张志飞的一支画家是灵川县公平乡安山村人，",
+      "score": 0.4316,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4142,
+        "acoustic_dev": 0.494,
+        "seg_cer": 0.304,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "灵/临",
+        "lexicon": "",
+        "text_free": "这个喊做“长治肥”的一只画家，是临川县公平乡安山村人。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.918,
+      "end": 37.141,
+      "label": "mandarin",
+      "text": "至今习画已经有二十二个年头。",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0457,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "至今，稀发已经有二十二个年头。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.461,
+      "end": 40.897,
+      "label": "uncertain",
+      "text": "五岁那年的一场意外导致左手截肢，",
+      "score": 0.4603,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3425,
+        "acoustic_dev": 0.385,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "年/连 那/拉 岁/水",
+        "lexicon": "",
+        "text_free": "污水拉连了一层意外，导致左手截肢。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 40.897,
+      "end": 44.423,
+      "label": "mandarin",
+      "text": "右手也仅保留住一根小指嘛。",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0267,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "右手也仅保留住一根小芝麻。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 44.714,
+      "end": 48.29,
+      "label": "mandarin",
+      "text": "他曾经一度意志消沉，人生没得了方向。",
+      "score": 0.1257,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "他曾经一度一直下沉，人生没得了方向。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 48.631,
+      "end": 51.099,
+      "label": "mandarin",
+      "text": "但是在母亲的再三鼓励之下，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是在母亲的再三鼓励之下。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 51.099,
+      "end": 55.665,
+      "label": "mandarin",
+      "text": "二零零二年，张志飞选择了外出拜师学画。",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零零二年，张志飞选择了外出拜师学艺。法"
+      }
+    },
+    {
+      "id": 15,
+      "start": 55.665,
+      "end": 58.698,
+      "label": "guilin",
+      "text": "第一次，张志飞找到我那时候，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6752,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第一次张志伟找到我的时候。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 58.937,
+      "end": 63.179,
+      "label": "mandarin",
+      "text": "我发现他是残疾的，所以我就婉言谢绝了他。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我发现它是残疾的，所以我就婉言地谢绝了他。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 63.179,
+      "end": 65.646,
+      "label": "uncertain",
+      "text": "后来他妈没办法，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.4102,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "后来他妈没办法。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 65.889,
+      "end": 69.82,
+      "label": "mandarin",
+      "text": "就跪下来，他说：“就因为这个师傅。”",
+      "score": 0.1366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.128,
+        "acoustic_dev": 0.06,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就跪下来，他说：“就现在你这个师傅。”"
+      }
+    },
+    {
+      "id": 19,
+      "start": 69.847,
+      "end": 75.242,
+      "label": "uncertain",
+      "text": "第三次，我终于走了，一支手指，他徒弟叫张志飞。",
+      "score": 0.5131,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6172,
+        "acoustic_dev": 0.802,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第三次，我终于做了，一只手指。他徒弟叫张世奎。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 75.242,
+      "end": 80.704,
+      "label": "mandarin",
+      "text": "因为只有一根手指嘛，抓笔导致张志飞经常是抓不紧笔，",
+      "score": 0.0596,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0149,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为只有一根手指码抓臂，导致张志飞经常是抓不紧臂。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 80.939,
+      "end": 83.181,
+      "label": "mandarin",
+      "text": "所作的画缺乏力度、",
+      "score": 0.1873,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2536,
+        "acoustic_dev": 0.25,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所作的法缺乏力度。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 83.181,
+      "end": 88.521,
+      "label": "mandarin",
+      "text": "线条、又好生硬。张志飞就天天起早贪黑的练习，",
+      "score": 0.0341,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1012,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "线条也好生硬。张志飞就天天起早贪黑的练习。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 88.521,
+      "end": 91.055,
+      "label": "uncertain",
+      "text": "一复一，从不停歇。",
+      "score": 0.3914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5021,
+        "acoustic_dev": 0.627,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一复一译，从不停歇。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 91.409,
+      "end": 94.034,
+      "label": "uncertain",
+      "text": "后来在老师、同学的帮助下，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7563,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "后来，在老师同学的帮助下。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 94.034,
+      "end": 96.315,
+      "label": "mandarin",
+      "text": "张志飞变得越来越自信，",
+      "score": 0.0087,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0995,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "张志飞变得越来越自信。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 96.479,
+      "end": 98.934,
+      "label": "guilin",
+      "text": "绘画水平也是突飞猛进，",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1247,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非法水平也是突飞猛进。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 99.285,
+      "end": 102.44,
+      "label": "mandarin",
+      "text": "而越来越多的客商预订他的画作。",
+      "score": 0.098,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0549,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而越来越多的客商预定他的发座。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 102.44,
+      "end": 105.091,
+      "label": "uncertain",
+      "text": "更让他看到了人生的希望。",
+      "score": 0.5356,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7151,
+        "acoustic_dev": 0.95,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是让他看到了人生的希望。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 105.46,
+      "end": 110.069,
+      "label": "mandarin",
+      "text": "二零一三年，属于张志飞的幸福也悄然降临了。",
+      "score": 0.1722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0144,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "幸/心 志/子",
+        "lexicon": "",
+        "text_free": "二零一三年，属于张子飞的心腹也悄然降临了。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 110.438,
+      "end": 117.749,
+      "label": "mandarin",
+      "text": "当时网名为残缺的美丽，他在网上遇到了一个网名喊做隐形的翅膀的他，",
+      "score": 0.1318,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1976,
+        "acoustic_dev": 0.165,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当时，网名为“残缺的美丽”她，在网上遇到了一个网名喊着“隐形的翅膀”的她。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 118.242,
+      "end": 120.645,
+      "label": "guilin",
+      "text": "这个女把爷喊做孟林范，",
+      "score": 0.5903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5575,
+        "acoustic_dev": 0.711,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "女/绿",
+        "lexicon": "",
+        "text_free": "这个绿巴爷喊做孟林凡。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 120.995,
+      "end": 125.935,
+      "label": "mandarin",
+      "text": "因为小时候高烧导致下肢残疾，而自暴自弃，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为小时候高烧导致下肢残疾而自暴自弃。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 126.063,
+      "end": 128.706,
+      "label": "mandarin",
+      "text": "甚至有轻生的念头。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "甚至有轻生的念头。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 128.706,
+      "end": 131.455,
+      "label": "mandarin",
+      "text": "但是他也说，他也很想啊，",
+      "score": 0.0775,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1867,
+        "acoustic_dev": 0.149,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是他也说：“他也很想啊。”"
+      }
+    },
+    {
+      "id": 35,
+      "start": 131.455,
+      "end": 135.15,
+      "label": "mandarin",
+      "text": "难道你不想想，你还有自己的亲人，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0885,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "难道你不想一想，你还有自己的亲人？"
+      }
+    },
+    {
+      "id": 36,
+      "start": 135.15,
+      "end": 138.06,
+      "label": "guilin",
+      "text": "他都能顶下了，过来了。",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2826,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他都能颠调的过来了。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 138.102,
+      "end": 143.803,
+      "label": "guilin",
+      "text": "为了让孟林范振作起来，张志飞不断用自己的精神激励去鼓励他，",
+      "score": 0.5586,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6013,
+        "acoustic_dev": 0.778,
+        "seg_cer": 0.259,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "志/子",
+        "lexicon": "",
+        "text_free": "为了让蒙林帆振作起来，张子飞不断用自己的亲身经历去鼓励他。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 143.986,
+      "end": 147.182,
+      "label": "mandarin",
+      "text": "还耐心的教他画画，照顾他的生活起居。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0104,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还耐心地教他画画，照顾他的生活起居。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 147.676,
+      "end": 152.119,
+      "label": "mandarin",
+      "text": "在张志飞的帮助之下，孟林范找回了生活的信心。",
+      "score": 0.0491,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0928,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在张志飞的帮助之下，蒙林帆找回了生活的信心。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 152.436,
+      "end": 158.32,
+      "label": "mandarin",
+      "text": "与此同时，两个残缺的生命在朝夕相处之间也产生了情愫，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "与此同时，两个残缺的生命在朝夕相处之间也产生了情愫。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 158.617,
+      "end": 161.345,
+      "label": "mandarin",
+      "text": "在互补当中构建起完美。",
+      "score": 0.2629,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1424,
+        "acoustic_dev": 0.082,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "互/腹",
+        "lexicon": "",
+        "text_free": "在腹部当中构建其完美。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 161.805,
+      "end": 165.575,
+      "label": "mandarin",
+      "text": "二零一四年，两个人步入了婚姻的殿堂，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零一四年，两个人步入了婚姻的殿堂。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 165.85,
+      "end": 168.459,
+      "label": "mandarin",
+      "text": "婚后生了两个把爷仔，",
+      "score": 0.3133,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.357,
+        "acoustic_dev": 0.407,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "婚后生了两个八爷子。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 168.752,
+      "end": 173.886,
+      "label": "mandarin",
+      "text": "一直虽然不富裕，但是也过得甜蜜与和美。",
+      "score": 0.1538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0222,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "直/子",
+        "lexicon": "",
+        "text_free": "儿子虽然不富裕，但是也过得甜蜜与和美。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 173.886,
+      "end": 181.4,
+      "label": "guilin",
+      "text": "我说，只能这样子互相帮助了，就说我，我都叫着大甜甜走路，你的手着大甜甜我的手着这样子互相都帮扶。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0615,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.395,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我说：“只能这样子互相帮助了。”有时候，我我的脚都代替你走路，你的手都代替我的手，我都这样子互相的帮。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 181.83,
+      "end": 185.31,
+      "label": "mandarin",
+      "text": "二零二四年七月份。为了更好地照顾家庭，",
+      "score": 0.029,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0912,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二四年七月份，为了更好的照顾家庭。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 185.31,
+      "end": 190.886,
+      "label": "mandarin",
+      "text": "张志飞选择回到家乡，并主动加入乡里面的农民画室，",
+      "score": 0.1456,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.075,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "志/子",
+        "lexicon": "",
+        "text_free": "张子飞选择飞到家乡，并主动加入乡里面的农民发誓。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 191.182,
+      "end": 195.638,
+      "label": "mandarin",
+      "text": "向更多有需要帮助的人传授绘画技巧。",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "向更多有需要帮助的人传授非法技巧。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 195.638,
+      "end": 200.064,
+      "label": "mandarin",
+      "text": "觉得他毅力挺好的，个人的毅力，感觉他教我们也教得挺好的，",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "觉得他毅力挺好的，个人的毅力，感觉他教我们也教的挺好的。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 200.064,
+      "end": 202.986,
+      "label": "mandarin",
+      "text": "挺佩服他。其实以前我的理想就是",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "挺佩服他的。其实以前我的理想就是。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 203.143,
+      "end": 205.662,
+      "label": "mandarin",
+      "text": "想帮帮助更多的残疾人",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "想帮帮助更多的残疾人。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 205.759,
+      "end": 210.128,
+      "label": "mandarin",
+      "text": "的事业做大，就是把自己做成一个有那个能力去带动他们，",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0082,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "的事业做大，就是说把自己做成一个有那个能力去带动他们。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 210.26,
+      "end": 212.132,
+      "label": "mandarin",
+      "text": "带动更多的人画画。",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0331,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "带动更多的人。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林文旅精彩亮相广西旅发大会.wav",
+  "duration": 154.623,
+  "no_dialect": false,
+  "created_at": "2026-10-26T15:59:34",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.169,
+      "end": 4.959,
+      "label": "mandarin",
+      "text": "上周，二零二四广西文化旅游发展大会在梧州举行，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "上周二零二四广西文化旅游发展大会在梧州举行。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.959,
+      "end": 7.813,
+      "label": "mandarin",
+      "text": "期间各项文旅活动精彩纷呈。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "期间，各项文旅活动精彩纷呈。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.091,
+      "end": 13.082,
+      "label": "mandarin",
+      "text": "桂林以丰富的文旅资源吸引了众多的企业和游客。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林以丰富的文旅资源，吸引了众多的企业和游客。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.638,
+      "end": 20.998,
+      "label": "mandarin",
+      "text": "才到二零二四年，广西汽车旅游大会及一键游广西快乐行体验活动的启动，",
+      "score": 0.2139,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1354,
+        "acoustic_dev": 0.173,
+        "seg_cer": 0.161,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "行/新",
+        "lexicon": "",
+        "text_free": "再到二零二四年，广西汽车旅游大会暨一建由广西快乐新体验活动的启动。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.261,
+      "end": 25.655,
+      "label": "mandarin",
+      "text": "二零二四年广西文化旅游发展大会正式拉开大幕。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二四年广西文化旅游发展大会正式拉开大幕。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.942,
+      "end": 31.126,
+      "label": "mandarin",
+      "text": "据了解，本次大会以推动梧州市打造岭南历史文化名城、",
+      "score": 0.0225,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0199,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，本次大会以推动梧州市打造岭南历史文化名城。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.228,
+      "end": 34.533,
+      "label": "mandarin",
+      "text": "加快广西文化旅游强区建设为主题，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0115,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加快广西文化旅游强区建设为主题。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.804,
+      "end": 41.863,
+      "label": "mandarin",
+      "text": "举办包括二零二四年广西汽车旅游大会及一键游广西快乐行体验活动、",
+      "score": 0.1431,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0351,
+        "acoustic_dev": 0.027,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "行/新",
+        "lexicon": "",
+        "text_free": "举办包括二零二四年广西汽车旅游大会及一建友广西快乐新体验活动。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 42.175,
+      "end": 45.9,
+      "label": "mandarin",
+      "text": "二零二四年广西文化旅游嘉年华等一系列活动。",
+      "score": 0.1237,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1496,
+        "acoustic_dev": 0.194,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二四年，广西文化旅游嘉年华等系列活动。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 46.222,
+      "end": 50.422,
+      "label": "mandarin",
+      "text": "作为二零二四年广西文化旅游大会的配套活动之一，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为二零二四年广西文化旅游大会的配套活动之一。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 50.67,
+      "end": 63.564,
+      "label": "mandarin",
+      "text": "二零二四年广西汽车旅游大会及一键游广西快乐行体验活动展示了一键游广西汽车旅游露营装备等丰富智能的文旅产品。",
+      "score": 0.0944,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "行/新",
+        "lexicon": "",
+        "text_free": "二零二四年广西汽车旅游大会暨一建友广西快乐新体验活动，展示了一建友广西汽车旅游露营装备等丰富智能的文旅产品。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 63.861,
+      "end": 69.113,
+      "label": "mandarin",
+      "text": "二零二四年广西文化旅游嘉年华以文旅大玩家为主题，",
+      "score": 0.3638,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2995,
+        "acoustic_dev": 0.412,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "年/联",
+        "lexicon": "",
+        "text_free": "二零二四年，广西文旅旅游加联法以文旅大玩家为主体。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 69.113,
+      "end": 73.551,
+      "label": "mandarin",
+      "text": "荟萃广西全区和大湾区城市文旅精品，",
+      "score": 0.2932,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2904,
+        "acoustic_dev": 0.399,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "废车，广西全区或大湾区城市文旅精品。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 73.922,
+      "end": 79.691,
+      "label": "mandarin",
+      "text": "桂林将桂林米粉、油茶、非遗塔影等特色产品带到现场，",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林将桂林米粉、油茶、非遗茶艺等特色产品带到现场。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 79.942,
+      "end": 85.589,
+      "label": "mandarin",
+      "text": "充分展示了桂林浓厚的历史文化底蕴和丰富的文旅资源，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "充分展示了桂林浓厚的历史文化底蕴和丰富的文旅资源。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 85.838,
+      "end": 89.17,
+      "label": "mandarin",
+      "text": "让游客沉浸式感受桂林旅游精华。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让游客沉浸式感受桂林旅游精华。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 89.251,
+      "end": 95.706,
+      "label": "guilin",
+      "text": "杜秋峰完成景区这一次为大家带来了自治区级非遗桂林彩色塔影技艺，",
+      "score": 0.7405,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.659,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "影/印 完/王",
+        "lexicon": "",
+        "text_free": "独秀峰王城景区这一次也为大家带来了非遗、自治区级非遗、桂林彩色踏印技艺。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 95.96,
+      "end": 102.388,
+      "label": "mandarin",
+      "text": "也希望在旅发会上讲好桂林故事，助力于桂林打造世界级旅游城市。",
+      "score": 0.0163,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也希望在旅发大会上讲好桂林故事，助力于桂林打造世界级旅游城市。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 102.388,
+      "end": 111.447,
+      "label": "mandarin",
+      "text": "大会还邀请一百五十多家区外、境外企业参加文化旅游产业投融资大会和国际旅行社大会，",
+      "score": 0.0354,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0315,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大会还邀请一百五十多家区外境外企业参加文化旅游产业投融资大会或国际旅行商大会。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 111.678,
+      "end": 114.278,
+      "label": "mandarin",
+      "text": "通过加大招商引资力度，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过加大招商引资力度。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 114.278,
+      "end": 117.419,
+      "label": "mandarin",
+      "text": "吸引更多优质文旅项目落地广西，",
+      "score": 0.0543,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0882,
+        "acoustic_dev": 0.104,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引更多优质文旅项目落地广西。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 117.419,
+      "end": 120.992,
+      "label": "mandarin",
+      "text": "进一步推动加速丰富广西入境旅游。",
+      "score": 0.2112,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2148,
+        "acoustic_dev": 0.289,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进一步推动，加速恢复广西入境旅游。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 121.213,
+      "end": 127.486,
+      "label": "mandarin",
+      "text": "桂林旅投与燕山园在文化旅游产业投融资大会上达成项目合作，",
+      "score": 0.0522,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0407,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林旅投与鞍山源在文化旅游产业投融资大会上达成项目合作。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 127.829,
+      "end": 131.226,
+      "label": "guilin",
+      "text": "未来将持续提升燕山园文旅品质，",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.775,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "未来将持续提升鞍山元文旅品质。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 131.561,
+      "end": 135.788,
+      "label": "uncertain",
+      "text": "为桂林世界旅游城市建设增加新的名片。",
+      "score": 0.4848,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6209,
+        "acoustic_dev": 0.881,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为桂林世界级旅游城市建设增加新的名片。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 135.788,
+      "end": 138.06,
+      "label": "guilin",
+      "text": "与燕山园达成合作后，",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0309,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "与叶山源达成合作后。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 138.257,
+      "end": 143.764,
+      "label": "mandarin",
+      "text": "桂林旅投将充分发挥资本的力量与专业的运营实力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0165,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林旅投将充分发挥资本的力量与专业的运营实力。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 143.928,
+      "end": 150.135,
+      "label": "mandarin",
+      "text": "把燕山园建设成为桂林乃至全国的一颗璀璨明珠，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把燕山园建设成为桂林乃至全国的一颗璀璨明珠。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 150.135,
+      "end": 154.623,
+      "label": "mandarin",
+      "text": "为桂林打造世界级旅游城市贡献旅投力量。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为桂林打造世界级旅游城市，贡献旅投力量。"
+      }
+    }
+  ]
+}

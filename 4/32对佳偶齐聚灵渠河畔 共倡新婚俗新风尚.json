@@ -1,0 +1,617 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "32对佳偶齐聚灵渠河畔 共倡新婚俗新风尚.wav",
+  "duration": 149.036,
+  "no_dialect": false,
+  "created_at": "2026-10-26T13:38:27",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.38,
+      "label": "mandarin",
+      "text": "前几天，三十二对新安当地的家欧是齐聚灵渠河畔，",
+      "score": 0.2011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2144,
+        "acoustic_dev": 0.303,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天，三十二队西安当地的家欧是齐聚灵渠河畔。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.38,
+      "end": 12.214,
+      "label": "guilin",
+      "text": "参加新友临溪水稻屈城新安灵渠大型集体婚礼活动。",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7717,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "灵/邻 临/灵",
+        "lexicon": "",
+        "text_free": "参加“心有灵犀，水到渠成”、“心安邻聚”大型集体婚礼活动。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.227,
+      "end": 16.446,
+      "label": "mandarin",
+      "text": "通过中式传统婚礼与古韵灵渠的融合，",
+      "score": 0.1768,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0305,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "灵/林",
+        "lexicon": "",
+        "text_free": "通过重视传统婚礼与古韵林区的融合。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.561,
+      "end": 23.658,
+      "label": "mandarin",
+      "text": "展现了新安生态人文风采以及千古灵渠的非凡魅力。",
+      "score": 0.1457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0235,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "灵/林",
+        "lexicon": "",
+        "text_free": "展现了西安生态人文风采以及千古林区的非凡魅力。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.946,
+      "end": 28.939,
+      "label": "mandarin",
+      "text": "在集体婚礼仪式上，新安县领导充当了新人们的证婚人，",
+      "score": 0.1516,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0445,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "证/增",
+        "lexicon": "",
+        "text_free": "在集体婚礼仪式上，新安县领导充当了新迎门的增婚迎。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 29.083,
+      "end": 31.437,
+      "label": "mandarin",
+      "text": "并向大家送上温馨的贺词，",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0612,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并向大家送上温馨的贺词。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.82,
+      "end": 35.271,
+      "label": "guilin",
+      "text": "祝福各位新人新友临溪水稻屈城，",
+      "score": 0.7078,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.2968,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.643,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.111,
+        "phon_examples": "临/灵",
+        "lexicon": "",
+        "text_free": "祝福各位心印，心有灵犀，水到渠成。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.572,
+      "end": 38.773,
+      "label": "mandarin",
+      "text": "各位伉俪携手与共，幸福美满。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "各位伉俪携手与共，幸福美满。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.105,
+      "end": 43.333,
+      "label": "guilin",
+      "text": "祝愿各位家欧的婚姻带着灵渠的灵韵与祝福，",
+      "score": 0.6731,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5587,
+        "acoustic_dev": 0.88,
+        "seg_cer": 0.474,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.222,
+        "phon_examples": "灵/邻 姻/英",
+        "lexicon": "",
+        "text_free": "祝愿郭威家欧丽芬英，带着邻居的凌云与祝福。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 43.333,
+      "end": 46.705,
+      "label": "mandarin",
+      "text": "历经岁月洗礼，依旧熠熠生辉。",
+      "score": 0.2149,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "生/身",
+        "lexicon": "",
+        "text_free": "历经岁月洗礼，依旧一依身飞。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.108,
+      "end": 50.319,
+      "label": "mandarin",
+      "text": "仪式上，新人集体宣读婚礼誓言，",
+      "score": 0.2165,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1206,
+        "acoustic_dev": 0.146,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "仪式上，进行集体宣读分离誓言。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.319,
+      "end": 54.7,
+      "label": "mandarin",
+      "text": "许下相守一生、白头偕老的幸福承诺。",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "许下享受一生白头偕老的幸福承诺。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 54.936,
+      "end": 57.766,
+      "label": "guilin",
+      "text": "新人代表向新婚伉俪献花，",
+      "score": 0.6791,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6293,
+        "acoustic_dev": 0.998,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "新任代表向新风抗力宪法。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 57.766,
+      "end": 63.838,
+      "label": "mandarin",
+      "text": "少数民族新人代表的袍秀球环节展示了中华传统文化和古老民俗，",
+      "score": 0.2098,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.218,
+        "acoustic_dev": 0.309,
+        "seg_cer": 0.107,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "少数民族新颖代表的抛绣球环节，展示了中华传统文化和古老民俗。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.174,
+      "end": 67.231,
+      "label": "mandarin",
+      "text": "让人们感受到爱情的纯真与浪漫。",
+      "score": 0.14,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让人们感受到爱情的纯真与浪漫。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 67.657,
+      "end": 73.332,
+      "label": "mandarin",
+      "text": "活动还开展了联在一起、习惯运输等多种有趣的互动游戏，",
+      "score": 0.1847,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1799,
+        "acoustic_dev": 0.245,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动还开展了连在一起、器官运输等多种有趣的互动游戏。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 73.771,
+      "end": 76.336,
+      "label": "mandarin",
+      "text": "现场加油欢呼声此起彼伏。",
+      "score": 0.1831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "呼/复",
+        "lexicon": "",
+        "text_free": "现场加油，反复声此起彼伏。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 76.387,
+      "end": 80.107,
+      "label": "mandarin",
+      "text": "本次集体婚礼按照现代风俗礼仪进行，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0212,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本次集体婚礼按照现代风俗礼仪进行。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.295,
+      "end": 88.408,
+      "label": "mandarin",
+      "text": "是新安县贯彻落实习近平总书记关于家庭家教家风建设重要论述的切实举措，",
+      "score": 0.0139,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.03,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是西安县贯彻落实习近平总书记关于家庭家教家风建设重要论述的切实举措。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 88.641,
+      "end": 93.813,
+      "label": "mandarin",
+      "text": "也是积极培育和践行社会主义核心价值观的生动实践。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是积极培育和践行社会主义核心价值观的生动实践。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 94.057,
+      "end": 96.694,
+      "label": "guilin",
+      "text": "新安县将以此次活动为契机，",
+      "score": 0.6581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6305,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "新/兴",
+        "lexicon": "",
+        "text_free": "兴安县将以此次活动为契机。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 96.9,
+      "end": 99.06,
+      "label": "mandarin",
+      "text": "持续深化家庭文明建设，",
+      "score": 0.0001,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0336,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "持续深化家庭文明建设。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 99.228,
+      "end": 107.556,
+      "label": "mandarin",
+      "text": "大力弘扬优良家风，推动形成爱国爱家、相亲相爱的社会主义家庭文明新风尚。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大力弘扬优良家风，推动形成爱国爱家、相亲相爱的社会主义家庭文明新风尚。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 107.753,
+      "end": 111.061,
+      "label": "mandarin",
+      "text": "我们是花江瑶族乡，我是属于苗族，",
+      "score": 0.1876,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1739,
+        "acoustic_dev": 0.235,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们是华江瑶族山，我是属于苗族。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 111.708,
+      "end": 118.38,
+      "label": "mandarin",
+      "text": "我是通过这个花江瑶族乡工政府工作人员通知我们来参加这个新安",
+      "score": 0.0473,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0334,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是通过这个华江瑶族乡工警务工作人员通知我们来参加这个新安。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 118.829,
+      "end": 123.39,
+      "label": "mandarin",
+      "text": "这个集体婚礼仪式。我和我妻子已经结婚三十九年了，",
+      "score": 0.0475,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0642,
+        "acoustic_dev": 0.051,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个集体婚姻仪式，我和我妻子已经结婚三十九年了。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 123.796,
+      "end": 128.14,
+      "label": "mandarin",
+      "text": "我们今天来来感谢一下我们这个和中式这个婚礼仪式，",
+      "score": 0.2547,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.189,
+        "acoustic_dev": 0.261,
+        "seg_cer": 0.261,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们今天来来感谢一下我们这个中戏这个分离一系。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 128.14,
+      "end": 133.79,
+      "label": "mandarin",
+      "text": "向感谢这个民族风俗。啊，我们是准备结婚的一对新婚夫妇，",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0204,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "想感受下这个民族风俗。啊，我们是准备结婚的一对新婚夫妇。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 133.843,
+      "end": 136.79,
+      "label": "uncertain",
+      "text": "然后因为与传统婚礼相比，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6834,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后，因为与传统婚礼相比。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 136.943,
+      "end": 139.82,
+      "label": "mandarin",
+      "text": "呃，集体婚礼是简单又不是隆重，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，集体婚礼是简单又不是隆重。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 139.82,
+      "end": 142.797,
+      "label": "mandarin",
+      "text": "所以我们新人想要采取这种",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以我们新人想要采取这种。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 142.863,
+      "end": 149.036,
+      "label": "mandarin",
+      "text": "喜事新办，然后呃比较有意义的一种方式来庆祝我们的婚礼。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "喜事新办，然后，呃，比较有意义的一种方式来庆祝我们的婚礼。"
+      }
+    }
+  ]
+}

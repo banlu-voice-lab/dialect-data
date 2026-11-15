@@ -1,0 +1,617 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_巩固拓展脱贫攻坚成果 全面推进乡村振兴_灵川潮田__巨型稻_试验田.wav",
+  "duration": 152.008,
+  "no_dialect": false,
+  "created_at": "2026-10-26T13:59:58",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.773,
+      "end": 3.287,
+      "label": "mandarin",
+      "text": "我们接触过水稻的人，个个都晓得啊，",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0215,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "晓得",
+        "text_free": "我们接触过水稻的人，个个都晓得啊。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.345,
+      "end": 9.593,
+      "label": "mandarin",
+      "text": "这个稻子熟了，一般也就是平到这个胯骨这开啊，七八十公分高。",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个稻子熟了，一般也就是平到这个胯骨这口啊，七八十公分高。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.817,
+      "end": 12.087,
+      "label": "guilin",
+      "text": "但是，随着现在科技的发展，",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2563,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是，车道现在科技的发展。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.129,
+      "end": 18.287,
+      "label": "mandarin",
+      "text": "农业专家们是培育出了优质水稻，高度比一般的这种水稻啊，",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "农业专家们是培植出了优质水稻，高度比一般的这种水稻啊。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.287,
+      "end": 29.051,
+      "label": "mandarin",
+      "text": "哎，高度翻一番。前几天，我是首个巨型稻种植试点——临川县曹田乡巨型稻试验田开镰收获了。",
+      "score": 0.3551,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2187,
+        "acoustic_dev": 0.445,
+        "seg_cer": 0.27,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哎，高度翻一翻。前几天我是走过句行道种植试点，临川县曹田乡句行道试验田，开镰收割了。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 29.115,
+      "end": 36.14,
+      "label": "mandarin",
+      "text": "我们一起去现场去见识一下我们桂林培育出的巨型稻到底身高几何，",
+      "score": 0.1465,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1129,
+        "acoustic_dev": 0.191,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们一起去现场去见识一下，我们桂林配置出的巨型刀到底身高几何？"
+      }
+    },
+    {
+      "id": 7,
+      "start": 36.14,
+      "end": 42.622,
+      "label": "uncertain",
+      "text": "产量又是好多呢？该乡试点位于临川县曹田乡刘村，",
+      "score": 0.4926,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2767,
+        "acoustic_dev": 0.585,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "曹/朝",
+        "lexicon": "嘞",
+        "text_free": "产量又是好多嘞！该乡试点位于临川县朝田乡六村。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 42.814,
+      "end": 48.101,
+      "label": "mandarin",
+      "text": "在该试验田里面，村民们抢抓晴好天气开镰收获，",
+      "score": 0.0473,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.053,
+        "acoustic_dev": 0.047,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在该试验田里面，村民们抢抓晴好天气，开镰收割。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 48.101,
+      "end": 57.384,
+      "label": "mandarin",
+      "text": "确保颗粒归仓。该试点项目引进的巨型稻品种为巨型稻丰超五号和巨型稻丰超六号。",
+      "score": 0.1731,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0247,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.257,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.222,
+        "phon_examples": "超/草 超/草",
+        "lexicon": "",
+        "text_free": "确保可离轨仓。该试点项目引进的巨型道品种为巨型道丰草五号或巨型道丰草六号。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 57.623,
+      "end": 60.253,
+      "label": "mandarin",
+      "text": "该品种的巨型稻株型高大，",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0104,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "该品种的巨型刀，主型高大。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 60.419,
+      "end": 63.091,
+      "label": "mandarin",
+      "text": "平均株高可以达到一米八，",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平均主高可以达到一米八。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 63.419,
+      "end": 66.329,
+      "label": "mandarin",
+      "text": "抗病虫害、抗倒伏的能力比较强。",
+      "score": 0.21,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "伏/护",
+        "lexicon": "",
+        "text_free": "抗冰、重海、抗岛护的能力比较强。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 66.575,
+      "end": 69.602,
+      "label": "mandarin",
+      "text": "它的根系发达，生长速度也比较快，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它的根系发达，生长速度也比较快。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 69.74,
+      "end": 73.776,
+      "label": "mandarin",
+      "text": "但是对水肥的条件要低于一般的水稻。",
+      "score": 0.0876,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0806,
+        "acoustic_dev": 0.113,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是，对水费的条件要低于一般的水稻。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 73.943,
+      "end": 78.947,
+      "label": "mandarin",
+      "text": "同时，它的分蘖能力强，单株有效谷粒更多，",
+      "score": 0.3516,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1787,
+        "acoustic_dev": 0.349,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "蘖/裂",
+        "lexicon": "",
+        "text_free": "同时，它的分裂能力强，单独有效鼓励更多。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 79.24,
+      "end": 82.049,
+      "label": "mandarin",
+      "text": "单株有效分蘖十六根以上，",
+      "score": 0.1652,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0524,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "蘖/裂",
+        "lexicon": "",
+        "text_free": "单株有效分裂十六根以上。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 82.243,
+      "end": 86.191,
+      "label": "mandarin",
+      "text": "单株有效粒数达到了三百粒以上。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "单株有效粒数达到了三百粒以上。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 86.605,
+      "end": 91.676,
+      "label": "mandarin",
+      "text": "巨型稻的特殊性还在于它有助于绿色种养循环模式。",
+      "score": 0.1018,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.065,
+        "acoustic_dev": 0.076,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "巨型刀的特殊性还在于，它有助于绿色中央循环模式。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 91.683,
+      "end": 94.609,
+      "label": "guilin",
+      "text": "巨型稻茎秆粗壮，荷叶青绿，",
+      "score": 0.7738,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1901,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.727,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.375,
+        "phon_examples": "粗/出 秆/港 茎/金",
+        "lexicon": "",
+        "text_free": "举行到金港出庄荷叶青路。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 94.764,
+      "end": 97.988,
+      "label": "mandarin",
+      "text": "每亩最多可以产出三吨秸秆，",
+      "score": 0.1744,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.173,
+        "acoustic_dev": 0.335,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每亩最多可以产出三吨秸秆。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 98.193,
+      "end": 100.879,
+      "label": "mandarin",
+      "text": "是喂养牛羊的优质饲料。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是喂养牛羊的优质饲料。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 101.196,
+      "end": 105.694,
+      "label": "mandarin",
+      "text": "该乡因地制宜，提出了“一亩良田养一头牛”项目，",
+      "score": 0.1203,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.263,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感想引地质疑，提出了一亩良田养一头牛项目。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 105.951,
+      "end": 109.539,
+      "label": "guilin",
+      "text": "实行稻养牛、绿色种养循环模式，",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5387,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "牛/流",
+        "lexicon": "",
+        "text_free": "实行“倒氧流”绿色中央循环模式。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 109.724,
+      "end": 115.967,
+      "label": "guilin",
+      "text": "朝着增产、增管技术和经济效益等方向在摸索中推进试点。",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4688,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "朝着增进攻关技术或经济效益等方向，在摸索中推进试点。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 116.047,
+      "end": 119.43,
+      "label": "mandarin",
+      "text": "它的特点是特别高，稻草多，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它的特点是特别高，稻草多。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 119.802,
+      "end": 123.653,
+      "label": "mandarin",
+      "text": "可以用来养牛，起到一个循环经济的作用，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以用来养牛，起到一个循环经济的作用。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 124.203,
+      "end": 127.303,
+      "label": "mandarin",
+      "text": "并且产出的米煮出来比较香。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并且产出的米煮出来比较香。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 127.468,
+      "end": 132.62,
+      "label": "uncertain",
+      "text": "下一步，临川县曹田乡还将吸取首年种植巨型稻的经验，",
+      "score": 0.4643,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2365,
+        "acoustic_dev": 0.488,
+        "seg_cer": 0.304,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "年/联 曹/朝",
+        "lexicon": "",
+        "text_free": "下一步，临川县朝天乡还将西区首联种植巨型稻的景点。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 132.738,
+      "end": 136.308,
+      "label": "mandarin",
+      "text": "不断引进种管技术，增加水稻产量。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断引进攻关技术，增加水稻产量。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 136.616,
+      "end": 143.585,
+      "label": "mandarin",
+      "text": "同时，动员种养殖大户带头尝试种稻养牛、绿色种养循环模式，",
+      "score": 0.3488,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1401,
+        "acoustic_dev": 0.256,
+        "seg_cer": 0.36,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.222,
+        "phon_examples": "牛/流 户/副",
+        "lexicon": "",
+        "text_free": "同时，动员中央至大副带头尝试“重道养流”绿色中央循环模式。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 143.91,
+      "end": 147.815,
+      "label": "mandarin",
+      "text": "鼓励更多农户和村级集体经济参与其中，",
+      "score": 0.0105,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0418,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "鼓励更多农户和村级集体经济参与其中。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 147.919,
+      "end": 152.008,
+      "label": "mandarin",
+      "text": "实现产业发展和群众增收美丽前景。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现产业发展和群众增收，美丽前景。"
+      }
+    }
+  ]
+}

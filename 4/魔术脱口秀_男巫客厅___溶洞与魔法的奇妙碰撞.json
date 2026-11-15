@@ -1,0 +1,275 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "魔术脱口秀_男巫客厅___溶洞与魔法的奇妙碰撞.wav",
+  "duration": 63.703,
+  "no_dialect": false,
+  "created_at": "2026-10-26T18:02:34",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.903,
+      "label": "mandarin",
+      "text": "桂林艺术节期间，沉浸式魔术脱口秀《蓝舞客厅》在七星岩洞精彩上演。《",
+      "score": 0.1764,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0408,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.75,
+        "phon_examples": "蓝/南 浸/经 沉/曾",
+        "lexicon": "",
+        "text_free": "桂林艺术节期间，曾经是魔术脱口秀、南舞客厅，在七星岩洞精彩上演。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.282,
+      "end": 11.9,
+      "label": "guilin",
+      "text": "蓝舞客厅》导演、主演邓兰子不仅是一名跨界主持人，",
+      "score": 0.6033,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7043,
+        "acoustic_dev": 0.884,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "兰/楠",
+        "lexicon": "",
+        "text_free": "《蓝屋客厅》导演主演邓楠子，不仅是一名跨界主持人。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.922,
+      "end": 15.054,
+      "label": "guilin",
+      "text": "同时也是央视虎年春晚魔术师，",
+      "score": 0.7607,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8852,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.75,
+        "phon_examples": "春/村 年/联 虎/复",
+        "lexicon": "",
+        "text_free": "同时也是央视《复联》村马魔术师。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.054,
+      "end": 20.041,
+      "label": "mandarin",
+      "text": "以及内地首位获得了魔术界奥斯卡梅林奖的魔术师。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0061,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以及内地首位获得了魔术界奥斯卡梅林奖的魔术师。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.529,
+      "end": 24.463,
+      "label": "mandarin",
+      "text": "邓兰子将脱口秀与魔术巧妙地结合在一起，",
+      "score": 0.2832,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2202,
+        "acoustic_dev": 0.255,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "兰/男",
+        "lexicon": "",
+        "text_free": "大男子将脱口秀与魔术巧妙地结合在一起。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.728,
+      "end": 30.933,
+      "label": "mandarin",
+      "text": "充分地利用灯光和音乐效果，展示了多个令人叹为观止的魔术表演。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "充分地利用灯光和音乐效果，展示了多个令人叹为观止的魔术表演。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.277,
+      "end": 34.856,
+      "label": "guilin",
+      "text": "每个环节，无处不在的笑点和满满的体感，",
+      "score": 0.6545,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8315,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "美国饭界无处不在的笑点和满满的体验感。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.856,
+      "end": 37.371,
+      "label": "mandarin",
+      "text": "深深地打动现场的观众，",
+      "score": 0.1366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1587,
+        "acoustic_dev": 0.175,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "深深的打动现场的观众。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.55,
+      "end": 42.313,
+      "label": "mandarin",
+      "text": "阵阵掌声回响在奇异秀丽的七星岩洞中。",
+      "score": 0.1819,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.174,
+        "acoustic_dev": 0.195,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "阵阵掌声，飞翔在奇异秀丽的七星暗洞中。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.313,
+      "end": 44.718,
+      "label": "mandarin",
+      "text": "我觉得这是我人生当中第一次在洞穴里面表演。",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "觉得这是我人生当中第一次在洞穴里面表演。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.718,
+      "end": 47.88,
+      "label": "mandarin",
+      "text": "边演的时候，我甚至还有一些淡淡的伤感。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这边演的时候，我甚至还有一些淡淡的伤感。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.88,
+      "end": 51.11,
+      "label": "mandarin",
+      "text": "我觉得哇，这个机会太难得了。然后能在这样一个",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我就觉得哇，这个机会太难得了，然后能在这样一个。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.412,
+      "end": 59.732,
+      "label": "mandarin",
+      "text": "如此与众不同，并且嗯不可能被复制的场景里面呈现我自己的作品，我觉得既是一种荣耀，我也觉得是一种",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如此与众不同，并且嗯，不可能被复制的场景里面呈现我自己的作品，我觉得既是一种荣耀，我也绝对是一种。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 60.527,
+      "end": 63.703,
+      "label": "mandarin",
+      "text": "刻在骨子里面的一种非常开心的事情。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "刻在骨子里面的一种非常开心的事情。"
+      }
+    }
+  ]
+}

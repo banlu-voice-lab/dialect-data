@@ -1,0 +1,503 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "2024阳朔铁人三项赛将于本月20日举办.wav",
+  "duration": 111.816,
+  "no_dialect": false,
+  "created_at": "2026-10-26T13:34:26",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.169,
+      "label": "mandarin",
+      "text": "最后给大家预告一个将在我们桂林阳朔举行的一项国际体育赛事，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最后给大家预告一个将在我们桂林阳朔举行的一项国际体育赛事。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.366,
+      "end": 10.267,
+      "label": "mandarin",
+      "text": "十月二十号，也就是下周的星期天，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十月二十号，也就是下周的星期天。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.404,
+      "end": 14.904,
+      "label": "mandarin",
+      "text": "二零二四阳朔铁人三项赛激情开赛。",
+      "score": 0.0635,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0334,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二四，阳朔铁鹰三项赛激情开赛。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.067,
+      "end": 19.179,
+      "label": "guilin",
+      "text": "有条件的朋友，千万不要错过去现场观赛，",
+      "score": 0.5738,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.992,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有条件的朋友，请就不要错过去现场观赛。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.179,
+      "end": 23.34,
+      "label": "mandarin",
+      "text": "亲身体会一下这个国际大趴体的好机会。",
+      "score": 0.2851,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0712,
+        "acoustic_dev": 0.149,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "亲/轻",
+        "lexicon": "",
+        "text_free": "轻身体飞一下，这个国际大party的好机会。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.538,
+      "end": 29.601,
+      "label": "guilin",
+      "text": "阳朔铁人三项赛是最美的山水与体育运动完美融合的代表，",
+      "score": 0.6714,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5502,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.24,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "三/山",
+        "lexicon": "",
+        "text_free": "阳朔天鹰山香舍是最美丽山水与体育运动完美融合的代表。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.923,
+      "end": 33.886,
+      "label": "mandarin",
+      "text": "赛道全程涵盖了阳朔最经典的山水美景。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赛道全程涵盖了杨朔最经典的山水美景。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.089,
+      "end": 36.941,
+      "label": "mandarin",
+      "text": "游泳赛道为漓江精华河段，",
+      "score": 0.1252,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1117,
+        "acoustic_dev": 0.241,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "游泳赛道为漓江精华河段。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.1,
+      "end": 41.593,
+      "label": "uncertain",
+      "text": "骑车赛道是环广西自行车巡回赛精华路段，",
+      "score": 0.4496,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3443,
+        "acoustic_dev": 0.767,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "汽车赛道是泛广西自行车巡回赛精华路段。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.836,
+      "end": 46.374,
+      "label": "mandarin",
+      "text": "跑步赛道经过阳朔新城区等著名风景名胜。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "跑步赛道经过阳朔新城区等著名风景名胜。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 46.786,
+      "end": 51.24,
+      "label": "mandarin",
+      "text": "此次赛事还特别推出了畅游漓江免费体验活动，",
+      "score": 0.0011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0063,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此次赛事还特别推出了畅游漓江免费体验活动。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 51.474,
+      "end": 54.731,
+      "label": "mandarin",
+      "text": "让更多运动爱好者共同参与进来，",
+      "score": 0.0043,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.009,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让更多运动爱好者共同参与进来。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 54.928,
+      "end": 58.831,
+      "label": "mandarin",
+      "text": "形成全民健身人人参与的良好氛围。",
+      "score": 0.0779,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0715,
+        "acoustic_dev": 0.15,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "形成全民健身、人人参与的良好氛围。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.111,
+      "end": 62.964,
+      "label": "mandarin",
+      "text": "当前，比赛筹备工作进入全面冲刺阶段，",
+      "score": 0.0154,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0184,
+        "acoustic_dev": 0.03,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当前比赛筹备工作进入全面冲刺阶段。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.224,
+      "end": 67.534,
+      "label": "mandarin",
+      "text": "组委会将努力创造一流环境，提供一流服务，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "组委会将努力创造一流环境，提供一流服务。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 67.781,
+      "end": 71.605,
+      "label": "mandarin",
+      "text": "让参赛者获得更优质的参赛体验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让参赛者获得更优质的参赛体验。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 71.605,
+      "end": 75.881,
+      "label": "mandarin",
+      "text": "本届比赛综合赛事规模及阳朔整体规划、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本届比赛综合赛事规模及阳朔整体规划。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 76.0,
+      "end": 78.377,
+      "label": "mandarin",
+      "text": "交通压力等多方面因素，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "交通压力等多方面因素。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 78.683,
+      "end": 81.003,
+      "label": "mandarin",
+      "text": "将赛道进行细微调整。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将赛道进行细微调整。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 81.429,
+      "end": 84.724,
+      "label": "guilin",
+      "text": "T转换区呢直接设置在观莲路，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7887,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "T一转换区呢，直接设置在关联路。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 84.939,
+      "end": 88.725,
+      "label": "mandarin",
+      "text": "骑行、跑步路线减少了长距离的绕行，",
+      "score": 0.0085,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0125,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "骑行、跑步路线减少了长距离的绕行。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 88.885,
+      "end": 92.048,
+      "label": "mandarin",
+      "text": "更有利于运动员水平的发挥，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更有利于运动员水平的发挥。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 92.165,
+      "end": 97.652,
+      "label": "mandarin",
+      "text": "也能让选手们感受到阳朔一步一景的城市发展新变化。",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也能让选手们感受到杨朔一步一景的城市发展新变化。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 97.739,
+      "end": 101.652,
+      "label": "mandarin",
+      "text": "今年是阳朔铁山举办的第七个年头，",
+      "score": 0.0017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年是阳朔铁山举办的第七个年头。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 101.887,
+      "end": 108.056,
+      "label": "mandarin",
+      "text": "历经多年的深耕发展，阳朔铁山已经成为了国际上知名赛事之一，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "历经多年的深耕发展，阳朔铁山已经成为了国际上知名赛事之一。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 108.383,
+      "end": 111.816,
+      "label": "mandarin",
+      "text": "更进一步彰显桂林特色旅游资源。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更进一步彰显桂林特色旅游资源。"
+      }
+    }
+  ]
+}

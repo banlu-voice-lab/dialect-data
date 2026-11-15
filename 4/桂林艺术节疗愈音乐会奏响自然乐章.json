@@ -1,0 +1,560 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林艺术节疗愈音乐会奏响自然乐章.wav",
+  "duration": 141.314,
+  "no_dialect": false,
+  "created_at": "2026-10-26T16:22:32",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.696,
+      "end": 10.098,
+      "label": "guilin",
+      "text": "这次桂林艺术节组委会联合QQ音乐疗愈计划特别推出了“遇见桂林”声动自然疗愈音乐会，",
+      "score": 0.6059,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5282,
+        "acoustic_dev": 0.97,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次桂林艺术节，组委会联合QQ音乐、廖越计划，特别推出了《乐见桂林》生动字演廖越音乐会。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 10.243,
+      "end": 15.791,
+      "label": "uncertain",
+      "text": "在桂林自然风光独特的风景区、桂海晴岚的天幕附近，",
+      "score": 0.47,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4114,
+        "acoustic_dev": 0.744,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在桂林自然风光独特的风景区，桂海晴岚的天沃湖举行。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 16.5,
+      "end": 22.702,
+      "label": "guilin",
+      "text": "本次音乐会QQ音乐特邀AI疗愈乐团透明听觉一耳得瑞游，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1101,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本场音乐会，QQ音乐特邀阿盖疗愈乐团，透明听觉，ear the real。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 22.917,
+      "end": 28.287,
+      "label": "mandarin",
+      "text": "通过钢琴等西洋乐器和竹笛等中国传统乐器的合奏，",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0124,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过钢琴等西洋乐器或竹笛等中国传统乐器的合奏。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 28.473,
+      "end": 33.498,
+      "label": "mandarin",
+      "text": "在山水之间打造一个沉浸式的自然疗愈空间。",
+      "score": 0.0009,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0275,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在山水之间，打造一个沉浸式的自然疗愈空间。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 33.949,
+      "end": 36.556,
+      "label": "mandarin",
+      "text": "在凉爽秋风的轻抚当中，",
+      "score": 0.2429,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1772,
+        "acoustic_dev": 0.291,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在凉爽秋风的情愫当中。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 36.556,
+      "end": 39.23,
+      "label": "guilin",
+      "text": "在幽远草地的拥抱当中，",
+      "score": 0.6571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.606,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在柔软草地里，拥抱当中。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 39.23,
+      "end": 42.89,
+      "label": "guilin",
+      "text": "观众打破听觉界限，合唱、合作，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3931,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.75,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "观众大婆听着，该先喝汤，喝粥。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 43.047,
+      "end": 48.94,
+      "label": "mandarin",
+      "text": "获得了盖压、充能、修复的全方位音乐疗愈体验。",
+      "score": 0.0984,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0287,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "获得了改呀、重润、修复的全方位音乐疗愈体验。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.941,
+      "end": 57.739,
+      "label": "mandarin",
+      "text": "我们把他们从未听到过的声音，用技术的手段让他们呈现出音乐的声音啊，所以这是我们这次非常大的一个特色啊。",
+      "score": 0.0095,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.021,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们把他们从未听到过的声音，用技术的手段让他们呈现出音乐的声音啊！所以这个是我们这次非常大的一个特色啊。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 57.739,
+      "end": 62.167,
+      "label": "mandarin",
+      "text": "此外呢，我们也采了桂林的五处特别著名的风景区，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此外呢，我们也采了桂林的五处特别著名的风景区。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 62.167,
+      "end": 66.928,
+      "label": "mandarin",
+      "text": "那通过AI的方式把这些音乐和电子音乐做了融合，",
+      "score": 0.0448,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0711,
+        "acoustic_dev": 0.086,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那通过 AI 的方式，把这些音乐和电子音乐做了融合。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 66.928,
+      "end": 71.391,
+      "label": "mandarin",
+      "text": "然后让我们感受到音乐和自然这样一种美好的融入。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0077,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后让我们感受到音乐和自然这样一种美好的融入。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 71.484,
+      "end": 78.665,
+      "label": "mandarin",
+      "text": "据了解，此次音乐会QQ音乐利用前沿AI科技与自然美学的融合创作，",
+      "score": 0.2052,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0778,
+        "acoustic_dev": 0.099,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "自/职",
+        "lexicon": "",
+        "text_free": "根据了解，此次音乐费QQ音乐利用前沿AI科技与职业美学的融合创作。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 78.959,
+      "end": 85.008,
+      "label": "mandarin",
+      "text": "通过音乐的形式赋予桂林更加丰富的艺术表达与人文内涵，",
+      "score": 0.084,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1101,
+        "acoustic_dev": 0.161,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过音乐的形式，赋予桂林更加丰富的艺术表达与人文内涵。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 85.39,
+      "end": 89.729,
+      "label": "mandarin",
+      "text": "为桂林的城市形象传播拓展了新的维度。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为桂林的城市形象传播拓展了新的维度。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 90.02,
+      "end": 94.71,
+      "label": "mandarin",
+      "text": "同时借助AI技术打造多样化的疗愈音乐体验，",
+      "score": 0.2546,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2799,
+        "acoustic_dev": 0.49,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，借助 AI 技术打造多样化的疗愈音乐体验。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 94.977,
+      "end": 99.86,
+      "label": "mandarin",
+      "text": "进一步提升了疗愈音乐在实际场景应用当中的效果，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进一步提升了疗愈音乐在实际场景应用当中的效果。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 100.214,
+      "end": 104.885,
+      "label": "mandarin",
+      "text": "成功让桂林的自然之声引入本届桂林艺术节。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0195,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成功将桂林的自然之声引入本届桂林艺术节。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 105.186,
+      "end": 110.329,
+      "label": "mandarin",
+      "text": "通过音乐的全新视角呈现桂林山水草木的生命力，",
+      "score": 0.0038,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0303,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过音乐的全新视角呈现桂林山水草木的生命力。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 110.329,
+      "end": 114.125,
+      "label": "mandarin",
+      "text": "让更多人遇见桂林的自然之美。",
+      "score": 0.0432,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0695,
+        "acoustic_dev": 0.083,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让更多人遇见桂林的自然之美。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 114.125,
+      "end": 117.683,
+      "label": "mandarin",
+      "text": "我们是希望说将科技、自然和人文都加在一起去做，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们是希望说，将科技、自然和人文都加在一起去做。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 117.683,
+      "end": 120.795,
+      "label": "mandarin",
+      "text": "然后就非常贴合这次的桂林艺术节的主题。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后就非常贴合这次的桂林艺术节的主题。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 120.795,
+      "end": 126.546,
+      "label": "mandarin",
+      "text": "以往其实大家疗愈音乐会呢，可能都会在那些剧院里面一个封闭的场景，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0266,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以往其实大家聊音乐会呢，可能都会在那些剧院里面一个封闭的场景。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 126.629,
+      "end": 128.945,
+      "label": "mandarin",
+      "text": "但是我们这次在桂林山水的这个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是我们这次在桂林山水的这个。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 129.076,
+      "end": 132.36,
+      "label": "mandarin",
+      "text": "呃露天的环境下，让大家直面的去感受，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，露天的环境下，让大家直面的去感受。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 132.76,
+      "end": 136.431,
+      "label": "mandarin",
+      "text": "既有音乐的疗愈，也会有自然环境的疗愈，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "既有音乐的疗愈，也会有自然环境的疗愈。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 136.431,
+      "end": 139.88,
+      "label": "mandarin",
+      "text": "就我们觉得这个是比较好的创新，也是第一次在桂林做这个项目，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就我们觉得这个是比较好的创新，也是第一次在桂林做这个项目。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 140.355,
+      "end": 141.314,
+      "label": "mandarin",
+      "text": "也希望以后能推广。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也希望以后能推广。"
+      }
+    }
+  ]
+}

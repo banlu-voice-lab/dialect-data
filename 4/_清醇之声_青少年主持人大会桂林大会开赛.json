@@ -1,0 +1,997 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_清醇之声_青少年主持人大会桂林大会开赛.wav",
+  "duration": 205.19,
+  "no_dialect": false,
+  "created_at": "2026-10-26T14:20:38",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.697,
+      "end": 4.231,
+      "label": "mandarin",
+      "text": "每位少年心里头都有一颗梦想的种子。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每每少年心里头都有一颗梦想的种子。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.231,
+      "end": 10.25,
+      "label": "guilin",
+      "text": "前几天，第四届青少联主持大会桂林大会正式开赛了。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5607,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天，第四届青春之声青少年组次人大飞桂林大飞正式开赛了。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.425,
+      "end": 12.919,
+      "label": "guilin",
+      "text": "一支花筒让梦想发声，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4959,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一直发痛，让梦想发生。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.919,
+      "end": 15.183,
+      "label": "mandarin",
+      "text": "一束追光足以爱闪耀。",
+      "score": 0.2817,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3553,
+        "acoustic_dev": 0.249,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一束追光，逐夜闪耀。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.412,
+      "end": 21.011,
+      "label": "mandarin",
+      "text": "今天我们再回来，我们就一起来看一下桂林未来优秀的主持人的表现吧。",
+      "score": 0.254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.362,
+        "acoustic_dev": 0.254,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "节目的最后呢，我们就一起来看一下桂林未来优秀的主持人们的表现吧。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.85,
+      "end": 27.514,
+      "label": "mandarin",
+      "text": "当天的比赛由桂林市融媒体中心主办，桂林广播电视台产业发展中心、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当天的比赛由桂林市融媒体中心主办，桂林广播电视台产业发展中心。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.66,
+      "end": 31.138,
+      "label": "mandarin",
+      "text": "桂林广播电视资料文化有限责任公司运营。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林广播电视资料文化有限责任公司运营。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.557,
+      "end": 35.919,
+      "label": "mandarin",
+      "text": "参赛选手按照年龄和年级分为幼儿组、少年组、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0044,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "参赛选手按照年龄和年级分为幼儿组、少年组。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.919,
+      "end": 38.852,
+      "label": "guilin",
+      "text": "青年组。比赛内容形式多样，",
+      "score": 0.728,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3873,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "年/莲",
+        "lexicon": "",
+        "text_free": "青莲组，比赛的用形式多样。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.015,
+      "end": 42.626,
+      "label": "mandarin",
+      "text": "包含自我介绍、即兴表达和模拟主持。",
+      "score": 0.1748,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0155,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "拟/力",
+        "lexicon": "",
+        "text_free": "包含自我介绍、即兴表达或魔力主持。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.054,
+      "end": 47.059,
+      "label": "mandarin",
+      "text": "每一项演出都旨在锤炼选手的综合素质，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0225,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每一项演出都旨在锤炼选手的综合素质。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.393,
+      "end": 50.14,
+      "label": "uncertain",
+      "text": "不断变化的话题和丰富的内容，",
+      "score": 0.5148,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3051,
+        "acoustic_dev": 0.99,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断变化的话题和丰富的内容。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 50.14,
+      "end": 54.735,
+      "label": "mandarin",
+      "text": "让大家都感受到了青少年们的活力与创意。",
+      "score": 0.1772,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0391,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "们/盟 年/联 青/秦",
+        "lexicon": "",
+        "text_free": "让大家都感受到了《秦少联盟》的活力与创意。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 55.171,
+      "end": 57.494,
+      "label": "mandarin",
+      "text": "运动少年永远向前，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0118,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "运动少年永远向前。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 57.494,
+      "end": 62.233,
+      "label": "mandarin",
+      "text": "观众朋友们大家好，欢迎大家收看本期的运动少年，",
+      "score": 0.0699,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2087,
+        "acoustic_dev": 0.134,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "观众朋友们，大家好，欢迎大家收看本期的《运动少年》。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.284,
+      "end": 67.061,
+      "label": "mandarin",
+      "text": "我是主持人陈梦茹。大国名片精彩呈现，",
+      "score": 0.168,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3097,
+        "acoustic_dev": 0.213,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是主持人陈鹏儒，大国名片精彩呈现。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 67.335,
+      "end": 70.066,
+      "label": "uncertain",
+      "text": "电视机前的观众朋友们大家好，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3193,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "电视机前的观众朋友们，大家好。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 70.121,
+      "end": 73.469,
+      "label": "mandarin",
+      "text": "欢迎收看新闻情报站剧大国名片，",
+      "score": 0.2894,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6692,
+        "acoustic_dev": 0.494,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "欢迎收看《新闻情报站之大国名片》。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 73.57,
+      "end": 77.622,
+      "label": "guilin",
+      "text": "我是主持人李伟彤。身为动，",
+      "score": 0.6759,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2507,
+        "acoustic_dev": 0.948,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "身/声",
+        "lexicon": "",
+        "text_free": "我是主持人李伟彤。声未动。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 77.622,
+      "end": 80.828,
+      "label": "guilin",
+      "text": "心为本，感受自然美景，",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.746,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "心怡远，感受自然美景。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 81.071,
+      "end": 85.064,
+      "label": "guilin",
+      "text": "品味人文景。大家好，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.7076,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "品味人文古迹。大家好。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 85.239,
+      "end": 88.757,
+      "label": "uncertain",
+      "text": "欢迎来到本期的一起去旅行栏目，",
+      "score": 0.5115,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.136,
+        "acoustic_dev": 0.858,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "欢迎来到新一期的“一起去旅行”栏目。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 88.855,
+      "end": 91.215,
+      "label": "mandarin",
+      "text": "我是主持人杨海哲。",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是主持人杨开哲。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 91.638,
+      "end": 95.957,
+      "label": "mandarin",
+      "text": "桂林赛区组织方精心安排了前期培训活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0097,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林赛区组织方精心安排了前期培训活动。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 96.208,
+      "end": 99.026,
+      "label": "mandarin",
+      "text": "由广播电视台资深主持人授课，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "由广播电视台资深主持人授课。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 99.258,
+      "end": 101.626,
+      "label": "mandarin",
+      "text": "不仅是提升了他们的专业技能，",
+      "score": 0.1766,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2983,
+        "acoustic_dev": 0.204,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅是提升了唐的专业技能。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 101.776,
+      "end": 104.643,
+      "label": "mandarin",
+      "text": "也为他们的演出打下了坚实的基础。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.01,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也为他们的演出打下了坚实的基础。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 104.95,
+      "end": 109.247,
+      "label": "mandarin",
+      "text": "通过这次的培训，表演者们的心性得到了极大的增强。",
+      "score": 0.1917,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0625,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.318,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "性/心",
+        "lexicon": "",
+        "text_free": "通过甄子的培训，把爷仔们的信心得到了极大的增强。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 109.247,
+      "end": 113.596,
+      "label": "guilin",
+      "text": "青少联主持人大会以助力青少年美育事业发展、",
+      "score": 0.6032,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9527,
+        "acoustic_dev": 0.715,
+        "seg_cer": 0.35,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "主/组 联/年",
+        "lexicon": "",
+        "text_free": "青少年组织应发挥：一助力青少年美育事业发展。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 113.741,
+      "end": 116.537,
+      "label": "mandarin",
+      "text": "培养主持人后备人才为宗旨，",
+      "score": 0.26,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0236,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.6,
+        "phon_examples": "旨/子 宗/种 主/组",
+        "lexicon": "",
+        "text_free": "培养组织，用后备人才为种子。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 116.776,
+      "end": 119.603,
+      "label": "mandarin",
+      "text": "以播音主持艺术素养为核心，",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0341,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以博音主持艺术素养为核心。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 119.852,
+      "end": 122.86,
+      "label": "mandarin",
+      "text": "通过活动提高青少年的普通话水平，",
+      "score": 0.011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0635,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过活动提高青少年的普通话水平。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 123.089,
+      "end": 126.819,
+      "label": "mandarin",
+      "text": "增强青少年语言表达与主持演讲能力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "增强青少年语言表达与主持演讲能力。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 127.083,
+      "end": 129.965,
+      "label": "mandarin",
+      "text": "这不仅是一次精彩的主持盛会，",
+      "score": 0.0106,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0626,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这不仅是一次精彩的主持盛会。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 130.197,
+      "end": 135.571,
+      "label": "mandarin",
+      "text": "更为青少年提供展示自我的舞台，展现他们风采的契机。",
+      "score": 0.0398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更为青少年提供展示自我的舞台，展现堂风采的契机。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 135.612,
+      "end": 139.64,
+      "label": "mandarin",
+      "text": "我之所以要来参加这个比赛，因为我热爱主持，",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我我之所以要来参加这个比赛，因为我热爱主持。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 139.88,
+      "end": 144.489,
+      "label": "mandarin",
+      "text": "我想把自己嗯最好的这一面展现给大家。",
+      "score": 0.0209,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.088,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我想把自己，嗯，最好的这一面展现给大家。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 145.2,
+      "end": 147.713,
+      "label": "uncertain",
+      "text": "然后我向他的一些经验就是，",
+      "score": 0.4005,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8357,
+        "acoustic_dev": 0.624,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后我上台的一些经验就是。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 148.026,
+      "end": 152.907,
+      "label": "mandarin",
+      "text": "嗯，你不需要去紧张，你上来的时候你眼睛就像放光一样，",
+      "score": 0.1251,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2468,
+        "acoustic_dev": 0.164,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，你不需要去紧张。你上来的时候，你眼焦，就像放光一样。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 153.795,
+      "end": 156.576,
+      "label": "mandarin",
+      "text": "你不要东张西望，就是一直看着，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "你不要东张西望，就是一直看着。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 156.685,
+      "end": 159.073,
+      "label": "mandarin",
+      "text": "不要去台下看这些评委，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不要去台下看这些评委。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 159.196,
+      "end": 163.757,
+      "label": "mandarin",
+      "text": "你只要一直目视着前方，勇敢就是讲完自己的就",
+      "score": 0.0058,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0507,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "你只要一直目视着前方，勇敢，就是讲完自己的就。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 163.909,
+      "end": 167.216,
+      "label": "mandarin",
+      "text": "可以了。对主持来说，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0137,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以了。对主持来说。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 167.216,
+      "end": 170.745,
+      "label": "mandarin",
+      "text": "我们我们可以去热爱它，喜欢它，",
+      "score": 0.2093,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3789,
+        "acoustic_dev": 0.267,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们，我们可以去热爱他，喜欢他。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 171.56,
+      "end": 174.66,
+      "label": "mandarin",
+      "text": "创造未来，对自己有帮助。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0104,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创造未来对自己有帮助。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 175.117,
+      "end": 179.96,
+      "label": "mandarin",
+      "text": "因为这个比赛它和其他比赛不同，我之前参加都是朗诵比赛，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0087,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为这个比赛，它和其他比赛不同。我之前参加都是朗诵比赛。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 179.96,
+      "end": 186.3,
+      "label": "mandarin",
+      "text": "这个是主持比赛。呃，我以前参加过的比赛有获得过很多的金奖，",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0149,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，这个是主持比赛。呃，我以前参加过的比赛有获得过很多的金奖。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 186.58,
+      "end": 191.175,
+      "label": "mandarin",
+      "text": "所以我就想来试一下。其实上台之前非常的紧张，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以我就想来试一下。其实上台之前非常的紧张。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 191.304,
+      "end": 195.189,
+      "label": "mandarin",
+      "text": "但是呢，发现上台之后，其实比台下练习的还要好。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是呢，发现上台之后，其实比台下练习的还要好。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 196.42,
+      "end": 198.952,
+      "label": "mandarin",
+      "text": "比赛经验就是不要特别紧张，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0112,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比赛经验就是不要特别紧张。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 199.15,
+      "end": 201.85,
+      "label": "uncertain",
+      "text": "每次我过于紧张就是表现不好，",
+      "score": 0.457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.076,
+        "acoustic_dev": 0.811,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每次我过于紧张，就是表情不好。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 201.85,
+      "end": 205.19,
+      "label": "mandarin",
+      "text": "但是只要我一放松，我就可以表现的特别好。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是只要我一放松，我就可以表现得特别好。"
+      }
+    }
+  ]
+}

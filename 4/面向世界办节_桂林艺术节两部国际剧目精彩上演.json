@@ -1,0 +1,294 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "面向世界办节_桂林艺术节两部国际剧目精彩上演.wav",
+  "duration": 72.387,
+  "no_dialect": false,
+  "created_at": "2026-10-26T18:00:45",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.219,
+      "end": 5.819,
+      "label": "mandarin",
+      "text": "来自瑞典和澳大利亚的两部剧目从二十六号开始和观众见面，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自瑞典和澳大利亚的两部剧目，从二十六号开始和观众见面。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.033,
+      "end": 8.795,
+      "label": "mandarin",
+      "text": "让人感受不一样的戏剧之美。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让人感受不一样的戏剧之美。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.82,
+      "end": 14.099,
+      "label": "mandarin",
+      "text": "七星公园的帐篷剧场体现了字言与英文的完美交融。",
+      "score": 0.2359,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1129,
+        "acoustic_dev": 0.414,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "七星公园的帐篷剧场体现了字眼与英文的完美交融。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.325,
+      "end": 19.853,
+      "label": "mandarin",
+      "text": "来自瑞典的剧目《土样中的鼻子》在这里与市民游客亲密相逢。《",
+      "score": 0.1028,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0237,
+        "acoustic_dev": 0.057,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自瑞典的巨木，土养种的鼻子，在这里与市民游客亲密相逢。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.245,
+      "end": 25.155,
+      "label": "guilin",
+      "text": "土样中的鼻子》是一部揭秘森林秘密的神奇表演，",
+      "score": 0.6657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2633,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "子/制",
+        "lexicon": "",
+        "text_free": "《土样中的秘制》是一部揭秘森林秘密的神奇表演。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.387,
+      "end": 31.161,
+      "label": "mandarin",
+      "text": "演员们和音乐家在舞台上攀爬、挖掘、平衡和种植，",
+      "score": 0.2486,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.085,
+        "acoustic_dev": 0.302,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "演员们或音乐家在舞台上攀爬、挖掘、平衡或终止。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.472,
+      "end": 36.488,
+      "label": "mandarin",
+      "text": "在小提琴梦幻而俏皮的音调当中探索高空、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在小提琴梦幻而俏皮的音调当中，探索高空。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.488,
+      "end": 38.943,
+      "label": "guilin",
+      "text": "大地，并通过语言、",
+      "score": 0.6506,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.6356,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "答题，并通过语言。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.943,
+      "end": 44.681,
+      "label": "mandarin",
+      "text": "音乐、杂技和游戏带领观众探索现实中的童话故事。",
+      "score": 0.0924,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0434,
+        "acoustic_dev": 0.136,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "音乐、杂技或游戏，带领观众探索现实中的童话故事。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 45.036,
+      "end": 50.046,
+      "label": "mandarin",
+      "text": "该剧还是第一次在中国翻译成中国剧本进行演出。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "该剧还是第一次在中国翻译成中国剧本进行演出。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 50.438,
+      "end": 56.072,
+      "label": "mandarin",
+      "text": "儿童戏剧《丛林奇幻探险》同样将连续在帐篷剧场演出。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "儿童喜剧《丛林奇番探险》同样将连续在帐篷剧场演出。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 56.371,
+      "end": 60.158,
+      "label": "mandarin",
+      "text": "演出团队来自澳大利亚的著名马戏团队。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "演出团队来自澳大利亚的著名马戏团队。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 60.394,
+      "end": 67.22,
+      "label": "mandarin",
+      "text": "这一部在国际上屡获殊荣的儿童剧已经拥有超过八年的世界巡演经验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一部在国际上屡获殊荣的儿童剧，已经拥有超过八年的世界巡演经验。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 67.486,
+      "end": 70.057,
+      "label": "mandarin",
+      "text": "这一次来到桂林参加艺术节，",
+      "score": 0.0861,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0508,
+        "acoustic_dev": 0.166,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一次来到桂林参加艺术节。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 70.057,
+      "end": 72.387,
+      "label": "mandarin",
+      "text": "这是该剧在中国的首演。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0094,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这是该剧在中国的首演。"
+      }
+    }
+  ]
+}

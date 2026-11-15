@@ -1,0 +1,503 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "旅游展展示世界级旅游城市建设成果 桂林本地旅游产品受关注.wav",
+  "duration": 131.928,
+  "no_dialect": false,
+  "created_at": "2026-10-26T15:47:27",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.243,
+      "end": 6.459,
+      "label": "mandarin",
+      "text": "第二十一届中国东盟博览会旅游展区突出展示文化旅游方面的资源、",
+      "score": 0.0426,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0589,
+        "acoustic_dev": 0.052,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第二十一，该中国东盟博览会旅游展区突出展示文化旅游方面的资源。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.459,
+      "end": 14.539,
+      "label": "mandarin",
+      "text": "产业、产品，充分展示了中国东盟旅游合作前景和桂林打造世界级旅游城市的结果。",
+      "score": 0.3353,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2324,
+        "acoustic_dev": 0.593,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产业产品，充分地展示了中国东盟旅游合作前景和桂林打造世界级旅游城市的成果。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 14.782,
+      "end": 17.56,
+      "label": "mandarin",
+      "text": "在一号馆国际文创商品馆、",
+      "score": 0.2078,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1704,
+        "acoustic_dev": 0.4,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在一号馆，国际文创商品馆。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.655,
+      "end": 23.933,
+      "label": "mandarin",
+      "text": "国际创新馆里面，就有一个桂林本地旅游产品品牌受到了大家的关注。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "国际创新馆里面就有一个桂林本地旅游产品品牌，受到了大家的关注。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.933,
+      "end": 32.372,
+      "label": "mandarin",
+      "text": "我们一起去看一下子。进入中国东盟博览会旅游展区的一号馆，就能够看到一个不只精美大气、",
+      "score": 0.0234,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.051,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们一起去看一下子。进入中国东盟博览会旅游展区的一号馆，就能够看到一个布置精美大气。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 32.372,
+      "end": 34.47,
+      "label": "mandarin",
+      "text": "颇有传统风格的展位，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0352,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "颇有传统风格的展位。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 34.686,
+      "end": 41.084,
+      "label": "mandarin",
+      "text": "这就是桂林泰源食品集团有限公司荔园品牌的参展展位。",
+      "score": 0.1443,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1196,
+        "acoustic_dev": 0.241,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这就是桂林泰源食品集团有限公司荔源品牌的参展展位。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 41.356,
+      "end": 44.079,
+      "label": "mandarin",
+      "text": "展位上颇具特色的抽奖活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0143,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "展位上颇具特色的抽奖活动。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 44.079,
+      "end": 59.103,
+      "label": "mandarin",
+      "text": "吸引了不少路人的眼球。除了抽奖，展位上陈列的国色金美糕点，也是吸引了不少人咨询和购买。",
+      "score": 0.1351,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0496,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.051,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "金/精",
+        "lexicon": "",
+        "text_free": "吸引了不少路人的眼球。除了抽奖，展位上陈列的国色精美糕点也是吸引了不少人咨询或购买。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 59.103,
+      "end": 64.36,
+      "label": "uncertain",
+      "text": "对，都可以买的。这是榴莲，",
+      "score": 0.4898,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.316,
+        "acoustic_dev": 0.854,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对，都可以买的。这个是榴莲。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 65.64,
+      "end": 67.921,
+      "label": "guilin",
+      "text": "这是蛋黄。非常感谢中国东盟博览会",
+      "score": 0.6419,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.4803,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非常感谢中国东盟博览会。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 68.193,
+      "end": 72.178,
+      "label": "mandarin",
+      "text": "旅游展提供这个平台，展示荔园桂雕糕",
+      "score": 0.1144,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0953,
+        "acoustic_dev": 0.165,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "旅游展提供这个平台，展示荔园桂花糕。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 72.272,
+      "end": 74.645,
+      "label": "mandarin",
+      "text": "这个桂林城市美食名片，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个桂林城市美食名片。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 74.846,
+      "end": 78.846,
+      "label": "mandarin",
+      "text": "让传统美食走出广西，走向世界。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让传统美食走出广西，走向世界。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 78.846,
+      "end": 85.868,
+      "label": "mandarin",
+      "text": "荔园品牌以其传统工艺与秘制配方，颇具本地特色的文化内涵与故事传承，",
+      "score": 0.0147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "梨园品牌以其传统工艺与秘制配方，颇具本地特色的文化内涵与故事传承。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 86.064,
+      "end": 89.088,
+      "label": "mandarin",
+      "text": "精益求精的匠人精神与品质追求，",
+      "score": 0.0809,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0923,
+        "acoustic_dev": 0.156,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "精益求精的匠人精神与品质追求。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 89.289,
+      "end": 95.44,
+      "label": "guilin",
+      "text": "历史悠久的文化传承和紧跟时代的创新融合与现代审美，",
+      "score": 0.5581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4096,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "历史悠久的文化传承，或紧追时代的创新融合，与现代审美。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 95.702,
+      "end": 98.512,
+      "label": "mandarin",
+      "text": "打造出了一系列地道的桂林美食。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造出了一系列地道的桂林美食。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 98.801,
+      "end": 107.037,
+      "label": "mandarin",
+      "text": "其中的桂发糕、状元饼、桂发酥、绣球酥等荔园系列糕点深受消费者的欢迎和喜爱。",
+      "score": 0.1733,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0079,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.242,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "酥/梳 酥/梳",
+        "lexicon": "",
+        "text_free": "其中的《圭发膏》、《状元饼》、《圭发梳》、《绣球梳》等梨园系列糕点，深受消费者的反映和喜爱。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 107.037,
+      "end": 110.185,
+      "label": "mandarin",
+      "text": "荔园桂雕糕已有一百七十多年历史，",
+      "score": 0.1786,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1336,
+        "acoustic_dev": 0.285,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "荔园桂花糕已有一百七十多年历史。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 110.399,
+      "end": 112.917,
+      "label": "mandarin",
+      "text": "列入自治区非物质文化遗产。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "列入自治区非物质文化遗产。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 113.235,
+      "end": 115.861,
+      "label": "guilin",
+      "text": "同时，作为非物质文化遗产传承人，",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1427,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，作为非物质文化遗产，全城人。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 115.993,
+      "end": 118.984,
+      "label": "mandarin",
+      "text": "肩负文化传承的责任与使命。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "肩负文化传承的责任与使命。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 119.118,
+      "end": 122.176,
+      "label": "uncertain",
+      "text": "因为荔园桂桂雕糕不仅",
+      "score": 0.4491,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2909,
+        "acoustic_dev": 0.776,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为荔园桂桂花糕不仅。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 122.286,
+      "end": 127.121,
+      "label": "mandarin",
+      "text": "是一道桂林美食，更承载着厚重的历史与情感。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是一道桂林美食，更承载着厚重的历史与情感。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 127.121,
+      "end": 131.928,
+      "label": "mandarin",
+      "text": "我们要在传承中创新，让这一非遗经历焕发青春活力。",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们要在全生中创新，让这一非遗技艺焕发青春活力。"
+      }
+    }
+  ]
+}

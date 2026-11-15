@@ -1,0 +1,1434 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "从桂林小子到拉力赛场_汽车赛事的平民化梦想之旅.wav",
+  "duration": 352.902,
+  "no_dialect": false,
+  "created_at": "2026-10-26T14:39:25",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.843,
+      "end": 4.519,
+      "label": "uncertain",
+      "text": "今天，我们桂林东盟和大家介绍一位新人",
+      "score": 0.392,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.451,
+        "acoustic_dev": 0.599,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天，我们的桂林蹦蹦和大家介绍一位新人。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.795,
+      "end": 19.295,
+      "label": "mandarin",
+      "text": "赛车选手毛汉子。二零二四年亚太汽车拉力锦标赛中国龙游拉力赛及二零二四年龙游中国汽车拉力锦标赛将于九月二十一号到二十二号",
+      "score": 0.1158,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "子/之",
+        "lexicon": "",
+        "text_free": "赛车神手毛汉之。二零二四年亚太汽车拉力锦标赛中国龙游拉力赛及二零二四年龙游中国汽车拉力锦标赛将于九月二十一号到二十二号。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 19.445,
+      "end": 22.22,
+      "label": "mandarin",
+      "text": "在浙江省龙游县举行。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在浙江省龙游县举行。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 22.367,
+      "end": 29.085,
+      "label": "mandarin",
+      "text": "赛事也是迎来了历史上中国最年轻的车手——我们桂林小伙子毛汉子。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赛事也是迎来了历史上中国最年轻的车手——我们桂林小伙子毛汉子。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 29.473,
+      "end": 38.984,
+      "label": "mandarin",
+      "text": "为了积极的做好备战，今年大二的他几乎是整个暑假都泡到在这个广西吉汉赛车场里面，",
+      "score": 0.0897,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0718,
+        "acoustic_dev": 0.077,
+        "seg_cer": 0.108,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了积极的做好备战，今年度大二的他几乎是整个楚家都泡到在这个广西吉安赛车场里面。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 39.092,
+      "end": 41.928,
+      "label": "mandarin",
+      "text": "天天都做到重复的练习。",
+      "score": 0.1371,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "天天都遭到重复的联系。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 42.254,
+      "end": 47.784,
+      "label": "mandarin",
+      "text": "毛汉子的出现不仅是一个年轻赛车手的成长历程，",
+      "score": 0.1646,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2153,
+        "acoustic_dev": 0.275,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "毛汉子的出圈，不仅是一个年轻赛车手的成长历程。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 48.022,
+      "end": 54.822,
+      "label": "mandarin",
+      "text": "更是映射出了汽车赛事逐步逐步走向平民化、的深刻变迁。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是映射出了汽车赛事逐步逐步走向平民化”的深刻变迁。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 60.656,
+      "end": 64.292,
+      "label": "mandarin",
+      "text": "在桂林吉汉赛车场，记者见到了毛汉子。",
+      "score": 0.0191,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0422,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在桂林吉汉赛车场，记者见到了毛汉子。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 64.621,
+      "end": 67.839,
+      "label": "guilin",
+      "text": "连日来，他身穿厚重的防火赛车服，",
+      "score": 0.6506,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0697,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "猎意虾塔身穿厚重的防火赛车服。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 67.992,
+      "end": 70.474,
+      "label": "mandarin",
+      "text": "在场上进行紧张的训练。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在场上进行紧张的训练。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 70.536,
+      "end": 77.199,
+      "label": "mandarin",
+      "text": "汽车红名尘土飞扬，他驾驶着赛车在蜿蜒曲折的赛道上疾驰，",
+      "score": 0.1787,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1631,
+        "acoustic_dev": 0.203,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "汽车轰鸣，尘土飞扬。他驾驶着山车，在蜿蜒曲折的山道上疾驰。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 77.395,
+      "end": 83.219,
+      "label": "mandarin",
+      "text": "漂移过弯，跳跃急进，每一个动作都透露出专业与激情。",
+      "score": 0.1416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "进/警",
+        "lexicon": "",
+        "text_free": "漂移过弯，跳跃机警，每一个动作都透露出专业与激情。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 83.219,
+      "end": 86.662,
+      "label": "mandarin",
+      "text": "夏天练车呀，还有就是跑比赛这种之类的，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夏天练车呀，还有就是跑比赛这种之类的。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 86.662,
+      "end": 93.308,
+      "label": "mandarin",
+      "text": "都是相对很辛苦的。但是呢，这些东西就是我们既然去玩了这个东西，那我们就必须得去克服。",
+      "score": 0.0361,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0087,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.079,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "都是相对很辛苦的，但是呢，这些东西就是我们既然是玩了这个东西，那么就必须得去克服。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 93.339,
+      "end": 96.87,
+      "label": "mandarin",
+      "text": "毛汉子出生在一个与赛车结缘的家庭，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0136,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "毛汉子出生在一个与赛车结缘的家庭。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 96.889,
+      "end": 102.805,
+      "label": "mandarin",
+      "text": "在父亲的熏陶下，毛汉子从小觉得赛车充满了好奇与向往。",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在父亲的熏陶下，毛汉子从小就得赛车，充满了好奇与向往。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 103.343,
+      "end": 107.277,
+      "label": "mandarin",
+      "text": "然而，和很多人印象中赛车运动的高门槛不同，",
+      "score": 0.0361,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0323,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然而，和好多人印象中赛车运动的高门槛不同。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 107.443,
+      "end": 112.633,
+      "label": "mandarin",
+      "text": "只要有梦想和坚持，平凡人也能在赛道上驰骋。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "只要有梦想和坚持，平凡人也能在赛道上驰骋。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 112.633,
+      "end": 116.16,
+      "label": "mandarin",
+      "text": "爱好相对来说的话，以前肯定是很贵的，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "爱好相对来说的话，以前肯定是很贵的。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 116.304,
+      "end": 118.84,
+      "label": "mandarin",
+      "text": "现在已经更加平民化了，",
+      "score": 0.1339,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2028,
+        "acoustic_dev": 0.257,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在已经，更加平民化了。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 118.84,
+      "end": 122.511,
+      "label": "guilin",
+      "text": "没有想象那么夸张。我们正常使用车都是改装件，",
+      "score": 0.5657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7697,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "没有想象中的那么夸张。我们正常使用车都是改装件。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 122.517,
+      "end": 125.291,
+      "label": "mandarin",
+      "text": "都是改装件，没有就是你说原厂这些东西，",
+      "score": 0.1882,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2412,
+        "acoustic_dev": 0.31,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "都是改装件，没有，就是说你说原厂这些东西。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 125.291,
+      "end": 128.389,
+      "label": "mandarin",
+      "text": "可能有一部分，有可能什么都没有。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可能有一部分，也有可能什么都没有。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 128.508,
+      "end": 130.992,
+      "label": "guilin",
+      "text": "如果说玩车能跑，玩车能用的话，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1664,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果说是完全能跑，完全能用的话。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 130.992,
+      "end": 136.674,
+      "label": "mandarin",
+      "text": "两万块以下是肯定肯定没有问题的。二零一六年年仅十二岁的毛汉子，",
+      "score": 0.0034,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0203,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "两万块以下是肯定肯定没有问题的。二零一六年，年仅十二岁的毛汉子。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 136.796,
+      "end": 141.515,
+      "label": "uncertain",
+      "text": "在父亲的指导下，正是他有了拉力赛车的实践。",
+      "score": 0.5,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3912,
+        "acoustic_dev": 0.517,
+        "seg_cer": 0.368,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "拉/哪 正/真",
+        "lexicon": "",
+        "text_free": "在父亲的指导下，真是踏入了哪里赛车的世界。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 141.547,
+      "end": 144.968,
+      "label": "mandarin",
+      "text": "起初，他面对的是技术上的挑战、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "起初，他面对的是技术上的挑战。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 144.968,
+      "end": 149.061,
+      "label": "mandarin",
+      "text": "体能上的考验以及外在的不盖与质疑。",
+      "score": 0.1981,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2126,
+        "acoustic_dev": 0.271,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "体能上的考验，以及外盖的不改与质疑。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 149.449,
+      "end": 153.006,
+      "label": "mandarin",
+      "text": "但正是这些困难激发了他内心的斗志。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但正是这些困难激发了他内心的斗志。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 153.129,
+      "end": 156.027,
+      "label": "mandarin",
+      "text": "他利用课余时间刻苦训练，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他利用课余时间刻苦训练。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 156.134,
+      "end": 159.767,
+      "label": "mandarin",
+      "text": "不断提升自己的驾驶技术和心理素质。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断提升自己的驾驶技术和心理素质。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 160.027,
+      "end": 165.983,
+      "label": "mandarin",
+      "text": "在短短一年的时间里头，他就在多个省级比赛中崭露头角，",
+      "score": 0.2216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1056,
+        "acoustic_dev": 0.124,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "省/审",
+        "lexicon": "",
+        "text_free": "在短短一年的时间里头，他就在多个审计比赛当中崭露头角。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 166.114,
+      "end": 168.947,
+      "label": "mandarin",
+      "text": "赢得了宝贵的经验和荣誉。",
+      "score": 0.2185,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2631,
+        "acoustic_dev": 0.34,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赢得了宝贵的经验或荣誉。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 168.947,
+      "end": 172.455,
+      "label": "mandarin",
+      "text": "很困难，很困难的事情。首先，第一是身高嘛，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很困难，很困难的事情。首先，第一是身高嘛。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 172.692,
+      "end": 175.713,
+      "label": "mandarin",
+      "text": "身高都是要拿各种各样的那种垫子啊，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "身高都是要拿各种各样的那种垫子啊。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 175.713,
+      "end": 179.11,
+      "label": "mandarin",
+      "text": "给它垫起来，垫到高，让我能看到，能让我看到为止。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给它垫起来，垫到高，让我能看到，能让我看到为止。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 179.11,
+      "end": 181.733,
+      "label": "mandarin",
+      "text": "还有就是油门啊这些地方我踩不到啊。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有就是油门啊，这些地方我踩不到啊。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 181.919,
+      "end": 184.225,
+      "label": "mandarin",
+      "text": "其实学起来还是相对挺简单的。",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其实学起来还是相对挺艰难的。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 184.655,
+      "end": 190.024,
+      "label": "guilin",
+      "text": "此次和毛汉志搭档参赛的是桂林在校学生金源，",
+      "score": 0.7114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9753,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "金/景 志/子",
+        "lexicon": "",
+        "text_free": "此次和毛汉子搭档参赛的是桂林职校学生景元。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 190.35,
+      "end": 195.356,
+      "label": "mandarin",
+      "text": "他担任领航员的职责。借助赛车这项运动的时间并不长，",
+      "score": 0.0944,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.092,
+        "acoustic_dev": 0.105,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他担因领航员的职责，借助赛车这一项运动的时间并不长。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 195.654,
+      "end": 198.26,
+      "label": "uncertain",
+      "text": "二零二二年才拿到驾照的金源，",
+      "score": 0.3881,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2347,
+        "acoustic_dev": 0.301,
+        "seg_cer": 0.538,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "金/警 年/脸",
+        "lexicon": "",
+        "text_free": "额领额额脸，才拿到驾照的警员。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 198.26,
+      "end": 202.317,
+      "label": "mandarin",
+      "text": "仅用了两年的时间就成为了一名专业赛车手。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "仅用了两年的时间，就成为了一名专业赛车手。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 202.536,
+      "end": 207.063,
+      "label": "mandarin",
+      "text": "他告诉记者，赛车运动并非遥不可及的高龄之法，",
+      "score": 0.1224,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1548,
+        "acoustic_dev": 0.191,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他告诉记者：“赛车运动并非遥不可及的高龄之发。”"
+      }
+    },
+    {
+      "id": 45,
+      "start": 207.063,
+      "end": 210.966,
+      "label": "guilin",
+      "text": "而是可以通过努力与热爱筑起的梦想。",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2211,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而是可以通过努力与业，逐击的梦想。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 211.415,
+      "end": 215.693,
+      "label": "mandarin",
+      "text": "近年来，随着社会媒体的发展和网络直播的兴起，",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0079,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，受到社会媒体的发展和网络直播的兴起。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 215.693,
+      "end": 218.445,
+      "label": "mandarin",
+      "text": "汽车赛事的关注度不断提高，",
+      "score": 0.0009,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0167,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "汽车赛事的关注度不断提高。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 218.744,
+      "end": 223.438,
+      "label": "mandarin",
+      "text": "越来越多的普通人开始关注并参与到这项运动当中来。",
+      "score": 0.0226,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0193,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "越来越多的普通人开始关注并参与到这一项运动当中来。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 223.848,
+      "end": 229.266,
+      "label": "uncertain",
+      "text": "赛车俱乐部、模拟赛车体验馆等新型业态的涌现，",
+      "score": 0.391,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5306,
+        "acoustic_dev": 0.708,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赛车俱乐部、模拟赛车体验馆等等，新型业态的涌现。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 229.468,
+      "end": 233.801,
+      "label": "mandarin",
+      "text": "更是为赛车文化的普及提供了有力支撑。",
+      "score": 0.1538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "车/策",
+        "lexicon": "",
+        "text_free": "更是为三策文化的普及提供了有力支撑。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 233.801,
+      "end": 239.711,
+      "label": "mandarin",
+      "text": "对于桂林来讲，我觉得其实是算得上是一个大家都可以来参与的门槛。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于桂林来讲，我觉得其实是算得上是一个大家都可以来参与的门槛。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 240.283,
+      "end": 244.386,
+      "label": "mandarin",
+      "text": "就是说，从我接触赛车到我成为一名",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是说，从我接触赛车到我成为一名。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 244.424,
+      "end": 246.969,
+      "label": "mandarin",
+      "text": "持证的车手，大概花了两万块钱。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "持证的车手大概花了两万块钱。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 247.577,
+      "end": 253.116,
+      "label": "mandarin",
+      "text": "汽车赛事的平民化过程离不开技术与规则的双重革新。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "汽车赛事的平民化过程离不开技术与规则的双重革新。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 253.391,
+      "end": 256.85,
+      "label": "mandarin",
+      "text": "随着赛车技术的不断进步和成本的降低，",
+      "score": 0.2359,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2326,
+        "acoustic_dev": 0.298,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "受到刹车技术的不断进步和成本的降低。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 257.046,
+      "end": 261.676,
+      "label": "mandarin",
+      "text": "越来越多的家庭能够承担得起参与赛车运动的费用。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "越来越多的家庭能够承担得起参与赛车运动的费用。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 261.832,
+      "end": 267.086,
+      "label": "mandarin",
+      "text": "同时，国际汽联等组织也在积极推动赛事规则的改革，",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，国际气联等组织也在积极推动赛事规则的改革。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 267.33,
+      "end": 272.34,
+      "label": "mandarin",
+      "text": "旨在降低参赛门槛，提高赛事的公平性和安全性。",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "旨在降低参赛门槛，提高赛事的公平性或安全性。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 272.66,
+      "end": 280.204,
+      "label": "mandarin",
+      "text": "根据了解，目前桂林至少参加过一次以上赛车运动的人次已经突破一千人，",
+      "score": 0.0295,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.065,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，目前桂林至少参加过一次以上赛车运动的营次已经突破一千营。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 280.386,
+      "end": 283.28,
+      "label": "guilin",
+      "text": "相对人口基数而言虽然不多，",
+      "score": 0.6962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3865,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "虽/水",
+        "lexicon": "",
+        "text_free": "相对人口基数而言，水盐不多。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 283.28,
+      "end": 287.87,
+      "label": "mandarin",
+      "text": "但对于这项运动似乎慢慢的开始有了群众基础。",
+      "score": 0.0236,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0485,
+        "acoustic_dev": 0.045,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但对于这项运动，似乎慢慢的开始有了群众基础。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 288.312,
+      "end": 295.115,
+      "label": "mandarin",
+      "text": "如今即将代表广西吉汉赛车队出征亚太汽车拉力锦标赛的毛汉志，",
+      "score": 0.0877,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0697,
+        "acoustic_dev": 0.074,
+        "seg_cer": 0.107,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如今即将代表广西籍汉赛车队出征亚太汽车拉力锦标赛的马汉之。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 295.381,
+      "end": 298.261,
+      "label": "mandarin",
+      "text": "已经站在了梦想的新起点上。",
+      "score": 0.1381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "新/行",
+        "lexicon": "",
+        "text_free": "已经站在了梦想的行起点上。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 298.738,
+      "end": 305.025,
+      "label": "mandarin",
+      "text": "虽然赛车运动逐渐平民，但是在专业赛事里面还是技术与财力的比拼。",
+      "score": 0.1631,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0085,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.138,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "民/明 虽/水",
+        "lexicon": "",
+        "text_free": "水岩赛车运动逐渐清明，但是在专业赛事里面，还是技术与财力的比拼。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 305.442,
+      "end": 310.166,
+      "label": "guilin",
+      "text": "这次参赛对毛汉志而言没得犯错的机会，",
+      "score": 0.6582,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7028,
+        "acoustic_dev": 0.945,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "志/子",
+        "lexicon": "没得",
+        "text_free": "这次参赛对毛汉子而言，没得犯错的机会。"
+      }
+    },
+    {
+      "id": 66,
+      "start": 310.426,
+      "end": 315.556,
+      "label": "mandarin",
+      "text": "不过他希望通过自己的努力能够激励更多人勇敢追梦，",
+      "score": 0.3791,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.518,
+        "acoustic_dev": 0.691,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不过，他希望通过自己的努力，能够激励更多的人勇敢追梦。"
+      }
+    },
+    {
+      "id": 67,
+      "start": 315.705,
+      "end": 320.109,
+      "label": "mandarin",
+      "text": "让赛车运动成为连接梦想与现实的桥梁。",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "仰山车运动成为连接梦想与现实的桥梁。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 320.109,
+      "end": 323.262,
+      "label": "guilin",
+      "text": "整个团队大概是十五个人这样子，",
+      "score": 0.5527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1972,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "整体团队大概是十五个人这样子。"
+      }
+    },
+    {
+      "id": 69,
+      "start": 324.644,
+      "end": 330.327,
+      "label": "mandarin",
+      "text": "然后我们就是说出去具体费用，大概是就是整个团队出去的费用，",
+      "score": 0.0665,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0848,
+        "acoustic_dev": 0.095,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后，我们就是说出去具体费用，大概就是整个团队出去的费用。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 331.524,
+      "end": 337.321,
+      "label": "mandarin",
+      "text": "大概是只有三十万这样子。三十万呢，然后我们所以说，因为这个费用相对偏低啊，",
+      "score": 0.016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0186,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.03,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大概是只有三十万这样子，三十万的。然后我们所以说，因为这个费用相对偏低啊。"
+      }
+    },
+    {
+      "id": 71,
+      "start": 337.321,
+      "end": 339.63,
+      "label": "guilin",
+      "text": "我们这个赢争比啊，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4534,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们这个零整比啊。"
+      }
+    },
+    {
+      "id": 72,
+      "start": 339.722,
+      "end": 343.121,
+      "label": "mandarin",
+      "text": "就是大概只有百分之二十，一点二这样子。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0155,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是大概只有百分之二十，零点二这样子。"
+      }
+    },
+    {
+      "id": 73,
+      "start": 343.121,
+      "end": 347.282,
+      "label": "mandarin",
+      "text": "我们出去跑就会说实话相对比较艰难一点点，",
+      "score": 0.3139,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4546,
+        "acoustic_dev": 0.604,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们出去跑，就会说实话，相对比较艰难一点点。"
+      }
+    },
+    {
+      "id": 74,
+      "start": 347.898,
+      "end": 350.474,
+      "label": "mandarin",
+      "text": "但是我们也会尽我们所能，",
+      "score": 0.2376,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2897,
+        "acoustic_dev": 0.377,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，但是我们也会尽我们所能。"
+      }
+    },
+    {
+      "id": 75,
+      "start": 350.474,
+      "end": 352.902,
+      "label": "mandarin",
+      "text": "就是尽可能的取得好成绩。",
+      "score": 0.2451,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3003,
+        "acoustic_dev": 0.391,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就说，尽可能的取得好成绩。"
+      }
+    }
+  ]
+}

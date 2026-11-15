@@ -1,0 +1,1016 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "新华社_解码山水之城桂林的文化自信样本.wav",
+  "duration": 241.076,
+  "no_dialect": false,
+  "created_at": "2026-10-26T15:35:24",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.651,
+      "label": "mandarin",
+      "text": "先来关注一下我们桂林的旅游生态建设。",
+      "score": 0.1269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "先/想",
+        "lexicon": "",
+        "text_free": "想来关注一下我们桂林的旅游生态建设。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.931,
+      "end": 6.385,
+      "label": "mandarin",
+      "text": "前几天新华社刊发题为《",
+      "score": 0.1135,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3809,
+        "acoustic_dev": 0.218,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天，新华社刊发题为。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.755,
+      "end": 13.242,
+      "label": "mandarin",
+      "text": "玉碧罗青忆阔产，改码山水之城桂林的文发自信样板的文章》，",
+      "score": 0.3428,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6503,
+        "acoustic_dev": 0.413,
+        "seg_cer": 0.28,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "玉碧罗青，意可禅。敢马山水之城，桂林的文化自信样本的文章。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.451,
+      "end": 16.268,
+      "label": "guilin",
+      "text": "从守护永驻史和远方、",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2996,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.556,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "驻/族 护/服",
+        "lexicon": "",
+        "text_free": "从收服庸族氏和远方。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.268,
+      "end": 18.805,
+      "label": "guilin",
+      "text": "传承全市自费玉万强、",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.0862,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "自/智",
+        "lexicon": "",
+        "text_free": "传承，诠释智慧与顽强。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 18.96,
+      "end": 22.459,
+      "label": "uncertain",
+      "text": "富能激活经济发展动能三个方面，",
+      "score": 0.3876,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0231,
+        "acoustic_dev": 0.683,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赋能激活经济发展动能三个方面。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 22.606,
+      "end": 27.892,
+      "label": "mandarin",
+      "text": "介绍了我们桂林在新的历史起点上厚植生态绿脉、",
+      "score": 0.1882,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1843,
+        "acoustic_dev": 0.076,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "植/自",
+        "lexicon": "",
+        "text_free": "介绍了我们桂林在新的历史起点上，后自生态绿美。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.892,
+      "end": 35.933,
+      "label": "mandarin",
+      "text": "传承文化根脉，以创新奋进之姿谱写出山水之城的当代发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0071,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "传承文化根脉，以创新奋进之姿，谱写出山水之城的当代发展。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.54,
+      "end": 44.645,
+      "label": "mandarin",
+      "text": "文章指出，桂林山水甲天下，",
+      "score": 0.1872,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5768,
+        "acoustic_dev": 0.36,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文章指出：“桂林山水甲天下。”"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.645,
+      "end": 47.0,
+      "label": "guilin",
+      "text": "玉碧罗青忆阔产。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4816,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "鱼比罗青，一科差。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.298,
+      "end": 49.546,
+      "label": "mandarin",
+      "text": "被誉为山水之城的桂林，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.079,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "被誉为“山水之城”的桂林。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 49.702,
+      "end": 53.187,
+      "label": "guilin",
+      "text": "以风光与厚重历史交融激荡，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1268,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一映风光与厚重历史交融激荡。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 53.328,
+      "end": 57.185,
+      "label": "mandarin",
+      "text": "铸就了城市开放包容自信的气质。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "铸就了城市开放包容、自信的气质。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 57.784,
+      "end": 60.489,
+      "label": "guilin",
+      "text": "守护永驻史和远方，",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.124,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.875,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.429,
+        "phon_examples": "史/私 驻/族 护/服",
+        "lexicon": "",
+        "text_free": "收服庸族，私获冤方。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 60.806,
+      "end": 67.225,
+      "label": "mandarin",
+      "text": "今天生活在漓江两岸的三百五十多万儿女格外珍惜这块山水宝地。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0453,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天生活在漓江两岸的三百五十多万儿女，格外珍惜这块山水宝地。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 67.3,
+      "end": 75.477,
+      "label": "mandarin",
+      "text": "桂林坚持生态立市，突出推进漓江流域山水林田湖草沙一体保护和修复。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0061,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林坚持生态立市，持续推进漓江流域山水林田湖草沙一体化保护和修复。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 75.963,
+      "end": 82.158,
+      "label": "mandarin",
+      "text": "自二零二二年起，将每年的四月二十五日定为漓江保护日，",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自二零二二年起，将每年的四月二十五日定为丽江保护日。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 82.305,
+      "end": 86.267,
+      "label": "mandarin",
+      "text": "守护漓江成为桂林儿女的行动自觉。",
+      "score": 0.1748,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "护/富",
+        "lexicon": "",
+        "text_free": "首富丽江成为桂林儿女的行动自觉。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 86.512,
+      "end": 90.364,
+      "label": "guilin",
+      "text": "文章提到，传承全市自费玉万强，",
+      "score": 0.7004,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3832,
+        "acoustic_dev": 0.943,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "自/智",
+        "lexicon": "",
+        "text_free": "文章提到：“传承全是智慧与顽强。”"
+      }
+    },
+    {
+      "id": 20,
+      "start": 90.519,
+      "end": 93.963,
+      "label": "mandarin",
+      "text": "桂林顺应自然、改造自然、利用自然，",
+      "score": 0.0016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0833,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林顺应自然，改造自然，利用自然。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 94.157,
+      "end": 98.459,
+      "label": "mandarin",
+      "text": "锻造了桂林的自费品格，为国家生存而战，",
+      "score": 0.1533,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2722,
+        "acoustic_dev": 0.14,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "锻造了桂林营的自费品格，为国家省城而战。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 98.459,
+      "end": 103.352,
+      "label": "mandarin",
+      "text": "为民族复兴而战，磨砺了桂林人的英勇顽强。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为民族复兴而战，磨砺了桂林鹰的英勇顽强。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 103.754,
+      "end": 108.26,
+      "label": "mandarin",
+      "text": "铭记历史，发扬红军精神和长征精神的信念，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "铭记历史，发扬红军精神和长征精神的信念。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 108.459,
+      "end": 111.138,
+      "label": "mandarin",
+      "text": "一直深植桂北人民心中。",
+      "score": 0.0968,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0932,
+        "acoustic_dev": 0.01,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一直深植国博人民心中。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 111.343,
+      "end": 114.933,
+      "label": "mandarin",
+      "text": "心怀信念，以笔为枪，以文聚力，",
+      "score": 0.2095,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2105,
+        "acoustic_dev": 0.095,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "心犯心念，以鼻为枪，以吻据力。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 115.085,
+      "end": 118.7,
+      "label": "mandarin",
+      "text": "文化的火种在桂林这一片热土燃烧。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0127,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文化的火种在桂林这一片盐土盐沙。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 118.961,
+      "end": 126.379,
+      "label": "mandarin",
+      "text": "今年西南巨展八十周年暨第八届全国话剧优秀剧目展演在桂林拉开帷幕，",
+      "score": 0.0442,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0198,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.097,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吉林西南剧展八十周年暨第八届全国话剧优秀剧目展演在桂林拉开帷幕。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 126.764,
+      "end": 130.473,
+      "label": "mandarin",
+      "text": "全国戏剧界再次相聚在八桂大地，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全国戏剧界再次相聚在八桂大地。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 130.845,
+      "end": 136.007,
+      "label": "mandarin",
+      "text": "回顾峥嵘岁月，向西南巨展和伟大民族精神致敬，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "回顾峥嵘岁月，向西南军展和伟大民族精神致敬。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 136.442,
+      "end": 143.393,
+      "label": "mandarin",
+      "text": "发扬红军长征精神，依靠红色故事、资源、资源和民族特色发展旅游业，",
+      "score": 0.0427,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.149,
+        "acoustic_dev": 0.051,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发扬红军长征精神，依靠红色故事、资源资源或民族特色，发展旅游业。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 143.622,
+      "end": 147.992,
+      "label": "mandarin",
+      "text": "老百姓们双手换来了今天的幸福生活。",
+      "score": 0.2455,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1619,
+        "acoustic_dev": 0.06,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "们/梦 姓/心",
+        "lexicon": "",
+        "text_free": "老婆心梦，双手翻来了今天的幸福生活。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 148.529,
+      "end": 152.178,
+      "label": "mandarin",
+      "text": "文章指出，富能激活经济发展动能。",
+      "score": 0.1469,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3828,
+        "acoustic_dev": 0.22,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文章指出：“赋能激活经济发展动能。”"
+      }
+    },
+    {
+      "id": 33,
+      "start": 152.616,
+      "end": 158.082,
+      "label": "mandarin",
+      "text": "桂林牢记总书记的嘱托，全力以赴推进世界级旅游城市建设。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林牢记总书记的嘱托，全力以赴推进世界级旅游城市建设。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 158.328,
+      "end": 165.421,
+      "label": "mandarin",
+      "text": "二零二三年九月，桂林世界级旅游城市建设发展规划正式获国务院批复，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0178,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二三年九月，桂林市级旅游城市建设发展规划正式获国务院批复。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 165.587,
+      "end": 169.016,
+      "label": "mandarin",
+      "text": "为桂林高质量发展注入强劲动能。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为桂林高质量发展注入强劲动能。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 169.496,
+      "end": 175.294,
+      "label": "mandarin",
+      "text": "做好山水大文章，必须主动识变、谋变、求变，",
+      "score": 0.1269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "识/思",
+        "lexicon": "",
+        "text_free": "做好山水大文章，必须主动思变、谋变、求变。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 175.459,
+      "end": 178.923,
+      "label": "mandarin",
+      "text": "以文化富能经济，激活发展新动能，",
+      "score": 0.0386,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0948,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以文化赋能经济，激活发展新动能。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 179.204,
+      "end": 184.295,
+      "label": "mandarin",
+      "text": "推动资源禀赋与历史人文、城市建设相融合。",
+      "score": 0.1116,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1057,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动自研兵服与历史人文城市建设相融合。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 184.541,
+      "end": 187.212,
+      "label": "mandarin",
+      "text": "一批高端文旅项目落户桂林，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一批高端文旅项目落户桂林。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 187.415,
+      "end": 192.499,
+      "label": "mandarin",
+      "text": "休闲度假、特色民宿、体育健身等等新业态蓬勃发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "休闲度假、特色民宿、体育健身等等新业态蓬勃发展。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 192.923,
+      "end": 198.614,
+      "label": "mandarin",
+      "text": "华为、比亚迪、格力电器等一批知名企业进驻桂林。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "华为、比亚迪、格力电器等一批知名企业进驻桂林。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 198.927,
+      "end": 201.286,
+      "label": "guilin",
+      "text": "深科技、领益智造、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5051,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "生物科技，另一制造。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 201.286,
+      "end": 206.722,
+      "label": "mandarin",
+      "text": "扬天电子等公司的产值超百亿元项目在桂林投产。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0319,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "扬天电子等公司的产值超百亿元项目，在桂林投产。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 206.78,
+      "end": 210.731,
+      "label": "mandarin",
+      "text": "桂林国际化、年轻态的城市形象持续提升，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0513,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林国际化、年轻态的城市形象持续提升。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 210.945,
+      "end": 214.076,
+      "label": "mandarin",
+      "text": "高水平举办桂林东盟博览会、旅游展、",
+      "score": 0.2399,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.717,
+        "acoustic_dev": 0.461,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高水平举办桂林东盟博览会旅游展。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 214.234,
+      "end": 216.989,
+      "label": "mandarin",
+      "text": "桂林艺术节等等重大活动。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林艺术节等等重大活动。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 217.351,
+      "end": 220.081,
+      "label": "uncertain",
+      "text": "车道国际航线陆续开通续航，",
+      "score": 0.4145,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.08,
+        "acoustic_dev": 0.724,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "车到国际航线，陆续开通续航。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 220.383,
+      "end": 224.214,
+      "label": "mandarin",
+      "text": "七十二小时、一百四十四小时过境免签、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.076,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "七十二小时，一百四十四小时过境免签。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 224.214,
+      "end": 227.305,
+      "label": "mandarin",
+      "text": "入境支付便利化等政策加持，",
+      "score": 0.2135,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1782,
+        "acoustic_dev": 0.072,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "境/今",
+        "lexicon": "",
+        "text_free": "如今支付便利化等政策加持。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 227.529,
+      "end": 230.021,
+      "label": "uncertain",
+      "text": "入境游市场快速升温，",
+      "score": 0.3806,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4643,
+        "acoustic_dev": 0.279,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "境/今",
+        "lexicon": "",
+        "text_free": "如今，有市场快速升温。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 230.28,
+      "end": 236.454,
+      "label": "mandarin",
+      "text": "依托千年古运河，桂林获得二零二六年世界运河大会举办权，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0087,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "依托千年古运河，桂林获得二零二六年世界运河大会举办权。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 236.834,
+      "end": 238.989,
+      "label": "mandarin",
+      "text": "走向世界级旅游城市。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走向世界级旅游城市。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 238.989,
+      "end": 241.076,
+      "label": "mandarin",
+      "text": "桂林蹄疾步稳。",
+      "score": 0.3122,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3506,
+        "acoustic_dev": 0.196,
+        "seg_cer": 0.833,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "林/岭",
+        "lexicon": "",
+        "text_free": "鬼岭体积不稳。"
+      }
+    }
+  ]
+}

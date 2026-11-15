@@ -1,0 +1,579 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "龙胜_侗族_姑巴_回娘家.wav",
+  "duration": 134.84,
+  "no_dialect": false,
+  "created_at": "2026-10-26T18:06:18",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.166,
+      "end": 11.429,
+      "label": "mandarin",
+      "text": "前几天，龙胜各族自治县罗江镇江口村出嫁的九十多名古巴身着侗族盛装，浩浩荡荡相约回娘家，",
+      "score": 0.1174,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.055,
+        "acoustic_dev": 0.018,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "治/子",
+        "lexicon": "",
+        "text_free": "前几天，龙胜国族子子县罗江镇江口村出嫁的九十多名古巴，身着侗族盛装，浩浩荡荡，相约飞娘家。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 11.636,
+      "end": 14.478,
+      "label": "guilin",
+      "text": "和久别的家人一起相亲，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.7997,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "或久别哩家人以及相亲。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 14.478,
+      "end": 16.933,
+      "label": "mandarin",
+      "text": "欢聚一堂，其乐融融。",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "反聚一堂，其乐融融。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.158,
+      "end": 21.56,
+      "label": "mandarin",
+      "text": "活动当天，当古巴踏入熟悉的侗寨大门，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0344,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动当天，当古巴踏入熟悉的东寨大门。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.739,
+      "end": 26.8,
+      "label": "mandarin",
+      "text": "沿着村寨小道巡游，娘家人们早早就在门前迎候，",
+      "score": 0.1948,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.093,
+        "acoustic_dev": 0.05,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "娘/梁 寨/在",
+        "lexicon": "",
+        "text_free": "沿着村在小道巡游，梁家人早早就在门前迎候。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 27.1,
+      "end": 29.751,
+      "label": "uncertain",
+      "text": "迫不及待地拥抱久别的女儿，",
+      "score": 0.5276,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7364,
+        "acoustic_dev": 0.602,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "女/吕",
+        "lexicon": "",
+        "text_free": "迫不及待地拥抱久别离的吕娥。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.032,
+      "end": 33.26,
+      "label": "guilin",
+      "text": "热情地扶了相亲，点响了花炮，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6773,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夜情侣赴了相亲，点响了发炮。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.26,
+      "end": 38.592,
+      "label": "uncertain",
+      "text": "烤了大鼓，用心思地热烈欢迎女儿们回娘家。",
+      "score": 0.4037,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5182,
+        "acoustic_dev": 0.415,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.111,
+        "phon_examples": "女/旅",
+        "lexicon": "",
+        "text_free": "考罗打鼓，用心思对热烈反应旅客们飞娘家。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.845,
+      "end": 42.32,
+      "label": "mandarin",
+      "text": "浓浓乡情亲情溢于言表。",
+      "score": 0.0558,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1593,
+        "acoustic_dev": 0.107,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "浓浓乡情亲情，溢于言表。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.32,
+      "end": 47.485,
+      "label": "mandarin",
+      "text": "我是从浙江赶回来的，平常回家的机会特别少，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是从浙江赶回来的。平常回家的机会特别少。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.485,
+      "end": 50.721,
+      "label": "mandarin",
+      "text": "所以这次的古巴回娘家活动",
+      "score": 0.0886,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0622,
+        "acoustic_dev": 0.024,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以，这次的姑八回娘家活动。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.999,
+      "end": 55.486,
+      "label": "mandarin",
+      "text": "对我来说非常的珍惜，早早就做好了准备。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对我来说，非常的珍惜，早早就做好了准备。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 55.648,
+      "end": 60.592,
+      "label": "mandarin",
+      "text": "今天带父亲出来一起看看这个热闹的场合，",
+      "score": 0.0159,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0699,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天带父亲出来，一起看看这个热闹的场合。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 60.817,
+      "end": 63.16,
+      "label": "mandarin",
+      "text": "让他开心一点，同时",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让他开心一点，同时。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.652,
+      "end": 69.596,
+      "label": "mandarin",
+      "text": "也通过这个活活动，能跟久别的姐妹们聊聊家常，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也通过这个合活动，能跟久别的姐妹们聊聊家常。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 69.835,
+      "end": 73.539,
+      "label": "mandarin",
+      "text": "这对我来说是最幸福的时刻。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这对我来说是最幸福的时刻。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 73.784,
+      "end": 79.967,
+      "label": "mandarin",
+      "text": "在活动期间，外嫁归乡的古巴们为家人们献上了接古巴、",
+      "score": 0.0795,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0342,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在活动期间，外嫁归乡的姑爸们为家人们献上了接姑爸。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 79.967,
+      "end": 82.614,
+      "label": "guilin",
+      "text": "久久重阳、相约回娘家、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.5909,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.556,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "九九重阳，想岳飞娘家。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 82.614,
+      "end": 89.087,
+      "label": "mandarin",
+      "text": "大侗戏等节目，最后大家手拉手跳起了欢快的侗族多耶，",
+      "score": 0.0994,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0136,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大动细等节目，最后大家手拉手跳起了欢快的动作多野。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 89.312,
+      "end": 94.166,
+      "label": "mandarin",
+      "text": "以此表达对父母和乡亲的敬意与感激。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以此表达对父母和乡亲的敬意与感激。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 94.382,
+      "end": 98.406,
+      "label": "mandarin",
+      "text": "一来到江口村，我发现江口村有很多红色标语，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一来到江口村，我发现江口村有很多红色标语。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 98.513,
+      "end": 105.354,
+      "label": "mandarin",
+      "text": "红色文化已经深入人心。接下来就是看着许多穿着侗族传统服饰的姐姐阿姨们，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "红色文化已经深入人心，接下来就是看着许多穿着侗族传统服饰的姐姐阿姨们。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 105.545,
+      "end": 108.138,
+      "label": "uncertain",
+      "text": "看到了他们的表演载歌载舞，",
+      "score": 0.4963,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1465,
+        "acoustic_dev": 0.954,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看到了他们的表演，载歌载舞。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 108.197,
+      "end": 111.177,
+      "label": "mandarin",
+      "text": "让我感受到了优秀传统文化的魅力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让我感受到了优秀传统文化的魅力。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 111.177,
+      "end": 113.972,
+      "label": "mandarin",
+      "text": "也看到了少数民族的热情和开朗。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也看到了少数民族的热情和开朗。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 113.972,
+      "end": 119.073,
+      "label": "mandarin",
+      "text": "古巴是侗族娘家兄弟对本家族姐妹的尊称，",
+      "score": 0.0278,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0396,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "古巴是东族娘家兄弟对本家族姐妹的尊称。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 119.428,
+      "end": 122.132,
+      "label": "mandarin",
+      "text": "通常指已经出嫁的姐妹。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通常指已经出嫁的姐妹。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 122.484,
+      "end": 128.786,
+      "label": "mandarin",
+      "text": "古巴回娘家习俗已经成为了侗族生活当中一道独特的人文风景，",
+      "score": 0.1745,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1248,
+        "acoustic_dev": 0.078,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "娘/良",
+        "lexicon": "",
+        "text_free": "古巴非良家习俗已经成为了栋族生活当中一道独特的人文风景。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 129.186,
+      "end": 132.532,
+      "label": "mandarin",
+      "text": "彰显了侗族古巴热情孝道、",
+      "score": 0.2209,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0587,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "族/筑",
+        "lexicon": "",
+        "text_free": "彰显了东筑古巴罗行小道。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 132.532,
+      "end": 134.84,
+      "label": "mandarin",
+      "text": "感恩父母的优良传统。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感恩父母的优良传统。"
+      }
+    }
+  ]
+}

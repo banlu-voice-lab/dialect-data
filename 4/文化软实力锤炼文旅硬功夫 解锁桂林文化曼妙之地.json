@@ -1,0 +1,1092 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "文化软实力锤炼文旅硬功夫 解锁桂林文化曼妙之地.wav",
+  "duration": 270.035,
+  "no_dialect": false,
+  "created_at": "2026-10-26T15:27:19",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.597,
+      "end": 6.538,
+      "label": "mandarin",
+      "text": "接下来来关注一下旅游。我们桂林作为首批国家历史文化名城，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接下来来关注一下旅游。我们桂林作为首批国家历史文化名城。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.656,
+      "end": 11.128,
+      "label": "mandarin",
+      "text": "如何让文化遗产散发持久的魅力呢？",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0218,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如何让文化遗产散发持久的魅力呢？"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.384,
+      "end": 13.954,
+      "label": "guilin",
+      "text": "接着走进独秀峰王城景区、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0578,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记者走进杜秀峰望城景区。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.954,
+      "end": 18.286,
+      "label": "mandarin",
+      "text": "龙胜龙脊大寨村和兴安林区博物馆，",
+      "score": 0.2311,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2263,
+        "acoustic_dev": 0.269,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙生龙，继大寨村或兴安林区博物馆。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.579,
+      "end": 23.131,
+      "label": "mandarin",
+      "text": "看一个古街区一家乡村民宿，一场历史展陈，",
+      "score": 0.0953,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1777,
+        "acoustic_dev": 0.183,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看一个古街区，一家乡村民宿，一场历史展陈。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.287,
+      "end": 25.88,
+      "label": "guilin",
+      "text": "如何吸引游客奔赴一城，",
+      "score": 0.6571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.672,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "诱惑吸引游客奔赴一座。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.417,
+      "end": 29.872,
+      "label": "guilin",
+      "text": "感受桂林文化的慢苗之地。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9676,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "甘肃桂林文化里，蛮妙之地。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.628,
+      "end": 36.431,
+      "label": "mandarin",
+      "text": "发端初生的桂林市正阳路东西巷逍遥路灯火辉煌，熙来攘往。",
+      "score": 0.3186,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3021,
+        "acoustic_dev": 0.402,
+        "seg_cer": 0.24,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发灯初上的桂林市曾阳路东西巷小窑楼，灯火辉煌，熙来攘往。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.814,
+      "end": 41.804,
+      "label": "guilin",
+      "text": "夜色当中，非遗传承人王继生演示的靖江王府迷汤、",
+      "score": 0.651,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5862,
+        "acoustic_dev": 0.901,
+        "seg_cer": 0.524,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.091,
+        "phon_examples": "生/身",
+        "lexicon": "",
+        "text_free": "夜色当中，飞翼传承银王姬，身染势力，竟将王府迷塔。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.804,
+      "end": 48.017,
+      "label": "guilin",
+      "text": "杨油影、杏子熬盐。刚刚体验完这个王府迷汤，我也知道了非物质文化遗产的一个魅力，",
+      "score": 0.5696,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5541,
+        "acoustic_dev": 0.844,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "杨友颖，行子昂眼。刚刚体验完这个网红密塔坡，也知道了非物质文化遗产的一个魅力。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.319,
+      "end": 55.064,
+      "label": "mandarin",
+      "text": "也是非常有意思值得推荐的。走进独秀峰王城景区，就走进了桂林历史文化之门。",
+      "score": 0.0139,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0129,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.03,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是非常有意思，值得推荐的。走进独秀峰望城景区，就走进了桂林历史文化之门。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 55.408,
+      "end": 60.616,
+      "label": "mandarin",
+      "text": "游客来到这里，看到的不是灵山的古迹片段的遗存，",
+      "score": 0.1435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0684,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "山/散",
+        "lexicon": "",
+        "text_free": "游客来到这里，看到的不是零散的古迹，片段的遗存。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 60.858,
+      "end": 64.504,
+      "label": "mandarin",
+      "text": "而是可以体验的完整王府生活。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而是可以体验的完整王府生活。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 64.855,
+      "end": 67.692,
+      "label": "uncertain",
+      "text": "桂林在一心一意的发展当中，",
+      "score": 0.5129,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5516,
+        "acoustic_dev": 0.84,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林在一心月艺的发展当中。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 67.799,
+      "end": 72.598,
+      "label": "mandarin",
+      "text": "完整保存了古城的格局肌理和生活风貌，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0277,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "完整保存了古城的格局、肌理和生活风貌。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 72.794,
+      "end": 76.096,
+      "label": "mandarin",
+      "text": "是古街区保持持久吸引力。",
+      "score": 0.181,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.135,
+        "acoustic_dev": 0.108,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "使骨干区保持持久吸引力。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 76.1,
+      "end": 79.772,
+      "label": "guilin",
+      "text": "名称被国家大力是合理利用的动态保护原则。",
+      "score": 0.6403,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4003,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.263,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "秉承对国家大遗址合理利用的动态保护原则。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 79.916,
+      "end": 83.495,
+      "label": "uncertain",
+      "text": "景区配合文物部门完成了靖江王府城门、",
+      "score": 0.3826,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.324,
+        "acoustic_dev": 0.44,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "靖/晋",
+        "lexicon": "",
+        "text_free": "景区配合文物部门完成了晋江王府城影门。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 83.495,
+      "end": 90.751,
+      "label": "mandarin",
+      "text": "城点、古学堂、城墙以及我们独秀峰山上的近两百多块摩崖石刻的文物保护修缮工程，",
+      "score": 0.156,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1727,
+        "acoustic_dev": 0.174,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "城运店、国学堂、城墙，以及我们独秀峰山上的近两百多块摩崖石刻的文物本体修缮工程。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 90.876,
+      "end": 94.61,
+      "label": "mandarin",
+      "text": "向游客展现了这部一千六百多年的实物史书。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0044,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "向游客展现了这部一千六百多年的食物史书。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 94.827,
+      "end": 100.122,
+      "label": "mandarin",
+      "text": "来到秀甲天下 的桂林，选一间特色民宿，让身心放松，",
+      "score": 0.1331,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1715,
+        "acoustic_dev": 0.172,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来到“休假天下”的桂林，选一间特色民宿，让身心放松。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 100.285,
+      "end": 103.381,
+      "label": "mandarin",
+      "text": "是好多游客向往的诗意生活。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是好多游客向往的诗意生活。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 103.728,
+      "end": 110.02,
+      "label": "mandarin",
+      "text": "地处桂北山区的龙脊镇大寨村就是乡村民宿发展的典型样本。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0286,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "地处贵北山区的龙吉镇大寨村，就是乡村民宿发展的典型样本。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 110.02,
+      "end": 116.395,
+      "label": "mandarin",
+      "text": "我想每天都在这里醒来。这是推开窗户就有那种走进油画的感觉。",
+      "score": 0.2738,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2263,
+        "acoustic_dev": 0.269,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "进/境",
+        "lexicon": "",
+        "text_free": "我想每天都在这里醒来，就是推开窗户，就有那种入境油画的感觉。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 116.719,
+      "end": 119.714,
+      "label": "uncertain",
+      "text": "这真的是呃很舒服。",
+      "score": 0.3912,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4392,
+        "acoustic_dev": 0.642,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就真的是，呃，很舒服。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 120.091,
+      "end": 124.621,
+      "label": "mandarin",
+      "text": "由于大山的阻隔，大寨村曾是贫困的代名词。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0082,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "由于大山的阻隔，大寨村曾是贫困的代名词。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 124.796,
+      "end": 130.94,
+      "label": "mandarin",
+      "text": "近年来，村民转变经营理念，引进专业民宿管家和大学生团队，",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0127,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，村民转变经营理念，引进专业民宿管家或大学生团队。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 131.183,
+      "end": 138.001,
+      "label": "mandarin",
+      "text": "在民宿的设计、装修、服务、运营、推广等软硬件细节上下功夫。",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在民宿的设计、装修、服务、运营、特光灯、软硬件细节上下功夫。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 138.373,
+      "end": 141.218,
+      "label": "guilin",
+      "text": "一批精品民宿应运而生，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.687,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一批精拼民俗，盈云而散。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 141.412,
+      "end": 145.064,
+      "label": "mandarin",
+      "text": "把大寨村的民宿推向二点零时代。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0734,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把大宅城的民宿推向二点零时代。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 145.064,
+      "end": 147.483,
+      "label": "mandarin",
+      "text": "从今年我们去招了几个大学生，",
+      "score": 0.308,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4106,
+        "acoustic_dev": 0.592,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从今年，我们去招了几个大学生。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 147.959,
+      "end": 152.293,
+      "label": "mandarin",
+      "text": "呃，我们是相当于一个做一个全新的开始，二点零的版本的开始。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，我们是相当于一个做一个全新的开始，二点零的版本的开始。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 152.489,
+      "end": 156.6,
+      "label": "mandarin",
+      "text": "无论是从经营方面，还有我们的服务方面，还有我们的这个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "无论是从经营方面，还有我们的服务方面，还有我们的这个。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 157.16,
+      "end": 162.561,
+      "label": "mandarin",
+      "text": "推广啊，拍摄无人机等等这些，我们都是全新把它啊加入进来了。",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0108,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推广啊，拍摄啊，无人机等等这些，我们都是全新把它啊加入进来了。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 163.162,
+      "end": 170.044,
+      "label": "mandarin",
+      "text": "这个也大大的提升了顾客在我们这里入住的一个啊舒适度，还有那个幸福感。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个也大大的提升了顾客在我们这里入住的一个啊舒适度，还有那个幸福感。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 170.282,
+      "end": 176.469,
+      "label": "mandarin",
+      "text": "二零二二年，大寨村被联合国世界旅游组织评为最佳旅游乡村，",
+      "score": 0.1176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0638,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "寨/宰",
+        "lexicon": "",
+        "text_free": "二零二二年，大宰村被联合国世界旅游组织评为最佳旅游乡村。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 176.832,
+      "end": 181.421,
+      "label": "mandarin",
+      "text": "依靠民宿产业，大寨村村民早已实现脱贫致富。",
+      "score": 0.0353,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0856,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "依靠民宿产业，大寨村村民早已经实现脱贫致富。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 181.702,
+      "end": 185.538,
+      "label": "mandarin",
+      "text": "超过百分之六十的家庭年收入超五十万元。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "超过百分之六十的家庭年收入超五十万元。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 185.538,
+      "end": 190.541,
+      "label": "mandarin",
+      "text": "生动讲述着全面深化改革的乡土故事。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "生动讲述着全面深化改革的乡土故事。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 191.239,
+      "end": 197.117,
+      "label": "mandarin",
+      "text": "在兴安，跨越两千多年的灵渠是中国文化重要的历史遗存，",
+      "score": 0.0997,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.12,
+        "acoustic_dev": 0.082,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在西安，跨越两千多年的陵区是中国文化重要的历史遗存。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 197.417,
+      "end": 201.046,
+      "label": "mandarin",
+      "text": "素有“世界古代水利建筑明珠”之称。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0136,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "素有“世界古代水利建筑明珠”之称。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 201.461,
+      "end": 210.893,
+      "label": "mandarin",
+      "text": "在灵渠博物馆讲解员唐娟丽正带领游客利用多媒体装置进行沉浸式的互动体验。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0302,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在陵区博物馆，讲解员唐娟丽正带领游客利用多媒体装置进行沉浸式的互动体验。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 210.893,
+      "end": 213.65,
+      "label": "mandarin",
+      "text": "我们力求努力提升观众的参观体验，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们力求努力提升观众的参观体验。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 213.692,
+      "end": 216.48,
+      "label": "mandarin",
+      "text": "观众可以通过我们的模型、视频、",
+      "score": 0.1126,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1967,
+        "acoustic_dev": 0.217,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "观众可以通过我们的模型视频。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 216.48,
+      "end": 220.478,
+      "label": "mandarin",
+      "text": "三维动画等，可以全方位的了解到灵渠的前世今生。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0203,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三维动画等，可以全方位地了解到灵渠的前世今生。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 220.507,
+      "end": 225.356,
+      "label": "mandarin",
+      "text": "今年上半年，灵渠博物馆接待游客二十一万余人次。",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年上半年，陵区博物馆接待游客二十一万余人次。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 225.5,
+      "end": 229.436,
+      "label": "mandarin",
+      "text": "一条焕发新时代生机与活力的智慧之渠、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一条焕发新时代生机与活力的智慧之渠。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 229.436,
+      "end": 232.143,
+      "label": "guilin",
+      "text": "联通之渠、文化之渠，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0685,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "连通之曲，文法之曲。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 232.143,
+      "end": 238.922,
+      "label": "uncertain",
+      "text": "呈现在世界面前。宜兴的山水风光与适宜的历史文化碰撞，",
+      "score": 0.4818,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4967,
+        "acoustic_dev": 0.743,
+        "seg_cer": 0.208,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呈现在世界面前，一英里山水风光与十亿的历史文化碰撞。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 239.098,
+      "end": 241.906,
+      "label": "mandarin",
+      "text": "不仅装点着游人的记忆空间，",
+      "score": 0.1812,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.23,
+        "acoustic_dev": 0.275,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅装点着游鹰的记忆空间。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 241.906,
+      "end": 245.353,
+      "label": "mandarin",
+      "text": "也激发了桂林旅游经济发展的活力。",
+      "score": 0.2076,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2674,
+        "acoustic_dev": 0.341,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也激发了桂林旅游经济发展活力。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 245.603,
+      "end": 248.416,
+      "label": "mandarin",
+      "text": "在世界级旅游城市建设进程中，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0642,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在世界级旅游城市建设进程中。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 248.62,
+      "end": 251.466,
+      "label": "uncertain",
+      "text": "桂林深入挖掘文化底蕴，",
+      "score": 0.4931,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6134,
+        "acoustic_dev": 0.948,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林深入挖掘文化底蕴。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 251.596,
+      "end": 258.163,
+      "label": "mandarin",
+      "text": "传承桂林文脉，着力把文化优势转化为高质量发展优势，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "传承桂林文脉，着力把文化优势转化为高质量发展优势。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 258.459,
+      "end": 261.283,
+      "label": "uncertain",
+      "text": "以文塑旅，以旅彰文，",
+      "score": 0.437,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3767,
+        "acoustic_dev": 0.533,
+        "seg_cer": 0.75,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一文速率，一率张文。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 261.527,
+      "end": 265.564,
+      "label": "mandarin",
+      "text": "推动文旅融合发展，文旅产业提档升级，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动文旅融合发展，文旅产业提档升级。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 265.83,
+      "end": 270.035,
+      "label": "guilin",
+      "text": "一城文化满城绿的风韵不断彰显。",
+      "score": 0.6025,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5217,
+        "acoustic_dev": 0.787,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "城/层",
+        "lexicon": "",
+        "text_free": "一层文化，满城六里风云，不断彰显。"
+      }
+    }
+  ]
+}

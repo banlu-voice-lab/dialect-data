@@ -1,0 +1,408 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "世界粮食日_让我们一起节约粮食.wav",
+  "duration": 82.856,
+  "no_dialect": false,
+  "created_at": "2026-10-26T14:22:33",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.506,
+      "end": 4.655,
+      "label": "mandarin",
+      "text": "十月十六号是世界粮食日。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十月十六号是世界粮食日。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.087,
+      "end": 10.299,
+      "label": "mandarin",
+      "text": "作为中国的每一位公民，都应该做到反对食品浪费，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为中国的每一位公民，都应该做到反对食品浪费。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.44,
+      "end": 14.371,
+      "label": "mandarin",
+      "text": "共同关注粮食安全，爱惜粮食，",
+      "score": 0.0057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0061,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同关注粮食安全，爱惜粮食。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.371,
+      "end": 16.99,
+      "label": "mandarin",
+      "text": "节约粮食，将中国粮食、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "节约粮食，将中国粮食。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.99,
+      "end": 20.138,
+      "label": "mandarin",
+      "text": "中国饭碗牢牢端在我们自己手上。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中国饭碗，牢牢端在我们自己手上。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.322,
+      "end": 24.938,
+      "label": "mandarin",
+      "text": "一颗玉米从播种到成熟",
+      "score": 0.0014,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一颗玉米，从播种到成熟。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.938,
+      "end": 29.977,
+      "label": "mandarin",
+      "text": "需要两个月以上，一株水稻则需要三到四个月，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "需要两个月以上，一株水稻则需要三到四个月。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.46,
+      "end": 32.84,
+      "label": "mandarin",
+      "text": "而一颗大豆则需要五个月。",
+      "score": 0.036,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0339,
+        "acoustic_dev": 0.069,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而一颗大豆则需要五个月。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.578,
+      "end": 36.175,
+      "label": "mandarin",
+      "text": "水稻作为重要粮食作物之一，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "水稻作为重要粮食作物之一。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 36.399,
+      "end": 40.472,
+      "label": "mandarin",
+      "text": "对于全球粮食安全起着至关重要的作用。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于全球粮食安全，起着至关重要的作用。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 42.026,
+      "end": 46.723,
+      "label": "mandarin",
+      "text": "在现代农业生产中，机械化水平不断提高，",
+      "score": 0.1394,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1287,
+        "acoustic_dev": 0.268,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在现代农业生产中，机械化水平不断提高。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.891,
+      "end": 51.178,
+      "label": "mandarin",
+      "text": "但传统的农耕方式仍然具有独特的魅力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但传统的农耕方式仍然具有独特的魅力。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.811,
+      "end": 57.811,
+      "label": "mandarin",
+      "text": "通过体验，我们可以更加深刻的理解农民辛勤劳作的艰辛，",
+      "score": 0.0533,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0323,
+        "acoustic_dev": 0.066,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过体验，我们可以更加深刻地理解农民辛勤劳作的艰辛。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.115,
+      "end": 60.464,
+      "label": "mandarin",
+      "text": "珍惜粮食的重要性。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "珍惜粮食的重要性。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 60.805,
+      "end": 63.807,
+      "label": "guilin",
+      "text": "种这水稻并不是一件很容易的事情，",
+      "score": 0.5505,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9474,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "种植水稻并不是一件很容易的事情。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 63.807,
+      "end": 65.88,
+      "label": "guilin",
+      "text": "从秋天开始播种，是以",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4774,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从秋天开始播种。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 66.379,
+      "end": 70.906,
+      "label": "guilin",
+      "text": "到夏天房子都种开，再到秋天我们才能获得丰收。",
+      "score": 0.6843,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7997,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "子/治",
+        "lexicon": "",
+        "text_free": "到夏天，防治病虫害；，再到秋天，我们才能获得丰收。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 71.145,
+      "end": 74.908,
+      "label": "mandarin",
+      "text": "所以我们希望大家能够珍惜粮食，",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0708,
+        "acoustic_dev": 0.147,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以我们希望大家能够珍惜粮食。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 75.285,
+      "end": 78.54,
+      "label": "mandarin",
+      "text": "一粥一饭当思来之不易。",
+      "score": 0.0458,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一周一饭，当思来之不易。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 78.803,
+      "end": 81.313,
+      "label": "mandarin",
+      "text": "让我们一起节约粮食，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让我们一起节约粮食。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 81.313,
+      "end": 82.856,
+      "label": "mandarin",
+      "text": "珍惜生活。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "珍惜生活。"
+      }
+    }
+  ]
+}

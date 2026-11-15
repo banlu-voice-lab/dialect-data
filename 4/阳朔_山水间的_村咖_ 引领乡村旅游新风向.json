@@ -1,0 +1,693 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "阳朔_山水间的_村咖_ 引领乡村旅游新风向.wav",
+  "duration": 162.468,
+  "no_dialect": false,
+  "created_at": "2026-10-26T17:50:01",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.275,
+      "end": 6.455,
+      "label": "mandarin",
+      "text": "现在咖啡店早已经成为了城市当中非常常见的休闲场所。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在咖啡店早已经成为了城市当中非常常见的休闲场所。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.644,
+      "end": 8.984,
+      "label": "guilin",
+      "text": "但是我们往前推一推，",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.0824,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是啊，我们往下推一推。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.135,
+      "end": 15.347,
+      "label": "guilin",
+      "text": "当这份城市风情融入宁静的村庄和田野之间到龙城客，",
+      "score": 0.7591,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1573,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.304,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "龙/农 静/近 宁/邻",
+        "lexicon": "",
+        "text_free": "当这一份城市风情融入邻近的村庄或田野之间，到农村去。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.561,
+      "end": 21.969,
+      "label": "mandarin",
+      "text": "人们一边欣赏田园风光，一边品尝咖啡，又是一种怎样的体验呢？",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "迎门一边欣赏田园风光，一边品尝咖啡，又是一种浪子的体验呢。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.135,
+      "end": 25.694,
+      "label": "mandarin",
+      "text": "记者来到坐落于玉龙河畔的一家咖啡馆，",
+      "score": 0.0062,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0209,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记者来到坐落于玉龙河畔的一家咖啡馆。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.694,
+      "end": 30.654,
+      "label": "mandarin",
+      "text": "并非豪华的装修，但是吸引众多的游客前来探访。",
+      "score": 0.0686,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并非好奢华的装修，但是吸引着众多的游客前来探访。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.116,
+      "end": 35.565,
+      "label": "mandarin",
+      "text": "店内简约的装修风格，门口一望无垠的旷野，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "店内简约的装修风格，门口一望无垠的旷野。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.876,
+      "end": 42.042,
+      "label": "mandarin",
+      "text": "楼顶露台的休闲卡座，成为了众多游客心中的诗和远方。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "楼顶露台的休闲卡座成为了众多游客心中的诗和远方。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 42.486,
+      "end": 47.672,
+      "label": "mandarin",
+      "text": "此外，咖啡馆还特意设置了带有地域特色的拍照标识，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此外，咖啡馆还特意设置了带有地域特色的拍照标识。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 47.865,
+      "end": 51.922,
+      "label": "mandarin",
+      "text": "为游客们提供了绝佳的拍照留念之地。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为游客们提供了绝佳的拍照留念之地。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 52.244,
+      "end": 55.952,
+      "label": "mandarin",
+      "text": "在这开，游客们不仅能够全身性的放松下来，",
+      "score": 0.2708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3096,
+        "acoustic_dev": 0.28,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "性/心",
+        "lexicon": "",
+        "text_free": "在这开，游客们不仅能够全身心的放松下来。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 56.133,
+      "end": 62.315,
+      "label": "mandarin",
+      "text": "就连每天在这里工作的咖啡师也感受到了前所未有的惬意与满足。",
+      "score": 0.0163,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就连每天在这边工作的咖啡师也感受到了前所未有的惬意与满足。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 62.647,
+      "end": 65.852,
+      "label": "mandarin",
+      "text": "我们不仅卖咖啡，更卖场景和体验，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们不仅卖咖啡，更卖场景和体验。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 65.852,
+      "end": 69.364,
+      "label": "mandarin",
+      "text": "能为游客提供独特的消费场景和体验，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能为游客提供独特的消费场景和体验。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 69.508,
+      "end": 74.237,
+      "label": "mandarin",
+      "text": "是我们的宗旨。游客们可以在这里享受山水田园风光，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是我们的宗旨。游客们可以在这里享受山水田园风光。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 74.237,
+      "end": 76.85,
+      "label": "mandarin",
+      "text": "享受片刻的宁静与安逸。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "享受片刻的宁静与安逸。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 77.406,
+      "end": 82.936,
+      "label": "guilin",
+      "text": "在相书上面看到这里非常的漂亮，所以我们想来这里看看、",
+      "score": 0.5771,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2898,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在小红书上面看到这里，非常的漂亮，所以我们想来这看看。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 82.936,
+      "end": 85.395,
+      "label": "mandarin",
+      "text": "拍拍照，欣赏一下美景。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拍拍照，欣赏一下美景。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 85.395,
+      "end": 89.408,
+      "label": "guilin",
+      "text": "这里夕阳非常漂亮。沿途而行，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8076,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这里夕阳非常漂亮。烟土恶性。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 89.408,
+      "end": 93.132,
+      "label": "mandarin",
+      "text": "独具特色的乡村咖啡馆如繁星点点，",
+      "score": 0.1359,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1636,
+        "acoustic_dev": 0.144,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "各具特色的乡村咖啡馆，又繁星点点。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 93.304,
+      "end": 96.787,
+      "label": "mandarin",
+      "text": "点缀在乡间小道旁。记者注意到，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "点缀在乡间小道旁。记者注意到。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 96.957,
+      "end": 103.5,
+      "label": "mandarin",
+      "text": "相比于市面上一些快销的连锁品牌推出的九块九一杯的平价咖啡，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "相比于市面上一些快销的连锁品牌推出的九块九一杯的平价咖啡。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 103.812,
+      "end": 106.155,
+      "label": "guilin",
+      "text": "这开咖啡的价格会高出不少，",
+      "score": 0.562,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0156,
+        "acoustic_dev": 0.934,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这台咖啡的价格非高出不少。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 106.155,
+      "end": 109.706,
+      "label": "mandarin",
+      "text": "一杯平均在二十到三十块钱之间，",
+      "score": 0.0007,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0095,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一杯平均在二十到三十块钱之间。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 110.008,
+      "end": 112.987,
+      "label": "mandarin",
+      "text": "但是依旧挡不住顾客人们",
+      "score": 0.1499,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0604,
+        "acoustic_dev": 0.049,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是依旧挡不住股客盈门。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 113.236,
+      "end": 116.647,
+      "label": "mandarin",
+      "text": "展现了乡村咖啡文化的独特价值。",
+      "score": 0.0041,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0164,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "展现了乡村咖啡文化的独特价值。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 117.163,
+      "end": 122.383,
+      "label": "mandarin",
+      "text": "事实上，这开只是阳朔乡村咖啡馆业潮当中的一个缩影。",
+      "score": 0.0482,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0667,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "事实上，这开只是阳朔乡村咖啡馆热潮当中的一个缩影。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 122.431,
+      "end": 126.32,
+      "label": "mandarin",
+      "text": "近年来，随着乡村旅游的不断发展与升级，",
+      "score": 0.331,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5829,
+        "acoustic_dev": 0.533,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，车道乡村旅游的不断发展与升级。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 126.475,
+      "end": 131.226,
+      "label": "mandarin",
+      "text": "越来越多的乡村咖啡店如雨后春笋般地涌现出来。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0056,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "越来越多的乡村咖啡店，如雨后春笋般地涌现出来。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 131.69,
+      "end": 135.171,
+      "label": "mandarin",
+      "text": "可以预见的是，随着乡村旅游的持续升温，",
+      "score": 0.3668,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4161,
+        "acoustic_dev": 0.378,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "持/次",
+        "lexicon": "",
+        "text_free": "可以预见的是，车道乡村旅游的次数升温。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 135.263,
+      "end": 141.638,
+      "label": "mandarin",
+      "text": "乡村咖啡店这一新兴业态将会迎来更加广阔的发展前景。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "乡村咖啡店这一新兴业态，将会迎来更加广阔的发展前景。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 142.073,
+      "end": 144.78,
+      "label": "mandarin",
+      "text": "这种独具魅力的乡村旅游体验，",
+      "score": 0.3298,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.692,
+        "acoustic_dev": 0.634,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这种独具魅力的乡村旅游体验。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 144.78,
+      "end": 149.501,
+      "label": "mandarin",
+      "text": "不仅为游客们提供了一个品味咖啡、欣赏美景的好去处，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅为游客们提供了一个品味咖啡、欣赏美景的好去处。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 149.834,
+      "end": 154.042,
+      "label": "mandarin",
+      "text": "更是成为了乡村旅游的新亮点和打卡圣地，",
+      "score": 0.1639,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.348,
+        "acoustic_dev": 0.315,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是成为了乡村旅游的新亮点和打卡圣地。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 154.366,
+      "end": 157.948,
+      "label": "mandarin",
+      "text": "也为当地的经济发展注入了新的活力，",
+      "score": 0.0073,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0231,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也为当地的经济发展注入了新的活力。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 158.178,
+      "end": 162.468,
+      "label": "mandarin",
+      "text": "书写着乡村旅游新篇章的绚丽篇章。",
+      "score": 0.0014,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.011,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "书写着乡村旅游新篇章的绚丽篇章。"
+      }
+    }
+  ]
+}

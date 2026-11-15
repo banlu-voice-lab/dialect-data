@@ -1,0 +1,427 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "中国剧协梅花奖艺术团广西专场演出在桂林上演.wav",
+  "duration": 108.122,
+  "no_dialect": false,
+  "created_at": "2026-10-26T14:25:38",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.217,
+      "label": "mandarin",
+      "text": "十月三十号夜晚，由中国戏剧家协会、广西壮族自治区党委宣传部、",
+      "score": 0.1246,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0648,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "四月三十号夜晚，由中国戏剧家协会广西壮族自治区党委宣传部。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.217,
+      "end": 10.75,
+      "label": "mandarin",
+      "text": "桂林市委市政府主办，桂林市戏剧创作研究中心、",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0086,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林市微市政府主办，桂林市戏剧创作研究中心。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.75,
+      "end": 21.399,
+      "label": "mandarin",
+      "text": "广西戏剧家协会承办的“山水有戏”桂林戏剧梅花奖艺术团广西专场演出在桂林大剧院精彩上演。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0521,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广西戏剧家谢飞承办的《山水有戏》，桂林西咸梅花奖艺术团广西专场演出，在桂林大剧院精彩上演。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 21.744,
+      "end": 26.4,
+      "label": "mandarin",
+      "text": "来自五省区的十二位梅花奖获得者同台献艺，",
+      "score": 0.1723,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0785,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.316,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自武胜区的四位美发奖获得者同台献艺。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 26.631,
+      "end": 31.359,
+      "label": "mandarin",
+      "text": "展现传统戏剧之美。为致敬西南剧展八十周年，",
+      "score": 0.0761,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0947,
+        "acoustic_dev": 0.1,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "展现传统戏剧之美，为致敬西南剧场八十周年。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 31.48,
+      "end": 39.542,
+      "label": "mandarin",
+      "text": "中国戏剧家协会梅花奖艺术团邀请一九四四年参演第一届西南剧展的广东、",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中国戏剧家协会美法奖艺术团邀请一九四四年参演第一届西南剧展的广东。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 39.542,
+      "end": 45.914,
+      "label": "mandarin",
+      "text": "湖南、江西、云南四省和广西本土的十二位梅花奖艺术家们，",
+      "score": 0.1657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1201,
+        "acoustic_dev": 0.172,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "湖南、江西、云南、四川和广西本土的十二位美法江艺术家们。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 46.18,
+      "end": 49.019,
+      "label": "mandarin",
+      "text": "用精湛的技艺、细腻的表演，",
+      "score": 0.1754,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1781,
+        "acoustic_dev": 0.337,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用精湛的技艺，细腻的表演。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 49.019,
+      "end": 54.355,
+      "label": "mandarin",
+      "text": "用活国剧种，为桂林艺术节量身定制本次专场演出。",
+      "score": 0.1486,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0584,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "种/总",
+        "lexicon": "",
+        "text_free": "荣获国剧总为桂林艺术节量身定制本次专场演出。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 54.688,
+      "end": 57.578,
+      "label": "mandarin",
+      "text": "一朵朵绽放在戏剧舞台上的梅花，",
+      "score": 0.031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0805,
+        "acoustic_dev": 0.06,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一朵朵绽放在戏剧舞台上的梅花。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 57.578,
+      "end": 62.687,
+      "label": "mandarin",
+      "text": "用一声声优美的唱腔，唱出了对戏剧艺术的坚定热爱，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0098,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用一声声优美的唱腔，唱出了对戏剧艺术的坚定热爱。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 62.785,
+      "end": 66.277,
+      "label": "mandarin",
+      "text": "唱出了对党和国家的满腔赤诚，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0126,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "唱出了对党和国家的满腔赤诚。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 66.508,
+      "end": 70.22,
+      "label": "mandarin",
+      "text": "也唱出了对人民群众的深厚情感。",
+      "score": 0.238,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.214,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要唱出啦对人民群众嘅深厚情感。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 70.22,
+      "end": 75.212,
+      "label": "guilin",
+      "text": "在专场的最后，戏过一程文化，满城路登场，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2232,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.412,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在转唱的最后，西郭一成门花满城路登场。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 75.57,
+      "end": 78.656,
+      "label": "guilin",
+      "text": "意欲以戏为名，引戏相聚。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6307,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.6,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以于以席为名，因席相局。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 78.805,
+      "end": 82.561,
+      "label": "guilin",
+      "text": "广大艺术工作者携手共绘一程文化、",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4369,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广大艺术工作者携手共飞，以成文化。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 82.561,
+      "end": 84.916,
+      "label": "mandarin",
+      "text": "满城路的时代画卷。",
+      "score": 0.059,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0608,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "满城绿的时代画卷。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 84.98,
+      "end": 90.6,
+      "label": "mandarin",
+      "text": "广西是我们非常喜欢的一个地方啊，承办了我们好多戏剧界的活动，比如说我们的梅花奖，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广西是我们非常喜欢的一个地方，啊，承办了我们好多戏剧界的活动，比如说我们的梅花奖。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 91.057,
+      "end": 93.567,
+      "label": "mandarin",
+      "text": "比如我们的戏剧节，我们都在广西举办过。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比如我们的戏剧节，我们都在广西举办过。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 93.567,
+      "end": 98.76,
+      "label": "mandarin",
+      "text": "但桂林我们还是第一次来，我们希望就是整合成这么一台啊优秀的演出，",
+      "score": 0.0177,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0612,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但桂林，我们还是第一次来，我们希望就是整合成这么一台，呃，优秀的演出。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 99.022,
+      "end": 102.536,
+      "label": "mandarin",
+      "text": "通过咱们现场观众的观看，还有包括通过我们网络的传播，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过咱们现场观众的观看，还有包括通过我们网络的传播。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 102.536,
+      "end": 108.122,
+      "label": "mandarin",
+      "text": "为桂林的戏剧节也增加一份亮点，也向八十年的西南剧展啊我们一个致敬。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为桂林的戏剧节也增加一份亮点，也向八十年的西南剧展啊，我们一个致敬。"
+      }
+    }
+  ]
+}

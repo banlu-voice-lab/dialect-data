@@ -1,0 +1,446 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "兴安漠川_金黄银杏绘秋景 乡村振兴添动能.wav",
+  "duration": 92.867,
+  "no_dialect": false,
+  "created_at": "2026-10-26T14:41:58",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.243,
+      "end": 3.434,
+      "label": "mandarin",
+      "text": "又到一年银杏叶泛黄的季节了，",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0056,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "又到一年银杏叶翻黄的季节了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.434,
+      "end": 12.666,
+      "label": "mandarin",
+      "text": "兴安县莫川乡的银杏林层层黄叶如约而至，新老游人也走进了当地旅游产品的供给，",
+      "score": 0.3122,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3208,
+        "acoustic_dev": 0.5,
+        "seg_cer": 0.114,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "兴安县木川乡的银杏林，层层枫叶如月而至，新老游人也注进了当地旅游产品的供给。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.846,
+      "end": 18.78,
+      "label": "uncertain",
+      "text": "为乡村振兴添动力。近日，记者走进莫川乡张家七村，",
+      "score": 0.5268,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4385,
+        "acoustic_dev": 0.888,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为乡村振兴添动能。今日记者走进磨川乡张家七村。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 19.005,
+      "end": 21.839,
+      "label": "mandarin",
+      "text": "古老的银杏树遍布乡间，",
+      "score": 0.1771,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2724,
+        "acoustic_dev": 0.341,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "古老的银杏树遍布乡间。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.128,
+      "end": 24.909,
+      "label": "guilin",
+      "text": "村舍被一堵堵银杏树包围着，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4812,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.583,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "城市被一兜兜隐形书包围着。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.131,
+      "end": 30.958,
+      "label": "mandarin",
+      "text": "微风穿过树枝，金黄的银杏叶飘落在屋檐与村道上，",
+      "score": 0.1723,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "金/警",
+        "lexicon": "",
+        "text_free": "威风传过树枝，警方的银星叶飘落在屋檐与车道上。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.303,
+      "end": 33.953,
+      "label": "mandarin",
+      "text": "把村子装点得如诗如画。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0991,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.6,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把橙子装点的又实又发。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.251,
+      "end": 37.82,
+      "label": "mandarin",
+      "text": "各地的游客慕名前来欣赏古树风姿，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "各地的游客慕名前来欣赏古树风姿。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.82,
+      "end": 40.443,
+      "label": "uncertain",
+      "text": "也让村民吃上了旅游饭。",
+      "score": 0.4778,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3181,
+        "acoustic_dev": 0.491,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "民/名",
+        "lexicon": "",
+        "text_free": "一样成名，吃上了旅游饭。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.783,
+      "end": 44.352,
+      "label": "mandarin",
+      "text": "啊，每当这个时候，呃，银杏叶泛黄的时候，",
+      "score": 0.0857,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.169,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哦，每当这个时候，呃，银杏叶往往的时候。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.383,
+      "end": 48.528,
+      "label": "uncertain",
+      "text": "很多游客到我们家家出来，呃，打卡游玩。",
+      "score": 0.5429,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4193,
+        "acoustic_dev": 0.824,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很多游客到我们江沙池来，嗯，打卡游玩。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 48.666,
+      "end": 51.07,
+      "label": "mandarin",
+      "text": "我就在家里开了一家农家乐，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我就在家里开了一家农家乐。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.383,
+      "end": 54.632,
+      "label": "mandarin",
+      "text": "今年又开搞了一个露营地，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年又开搞了一个露营地。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 54.632,
+      "end": 58.47,
+      "label": "mandarin",
+      "text": "让游客过来多多种的体验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让游客过来，多多种的体验。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 58.721,
+      "end": 63.175,
+      "label": "mandarin",
+      "text": "修建步行道、停车场，设置农产品展销摊位等等，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0169,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "修建步行道、停车场，设置农产品展销摊位等等。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 63.387,
+      "end": 65.741,
+      "label": "guilin",
+      "text": "村道基础设施不断的完善，",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1786,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "车道基础设施不断地完善。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 65.859,
+      "end": 68.886,
+      "label": "mandarin",
+      "text": "当地群众结合自身实际情况，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当地群众结合自身实际情况。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 68.886,
+      "end": 75.698,
+      "label": "mandarin",
+      "text": "发展乡村旅游产业。还有不少村民们也通过销售农产品的方式增加了收入，",
+      "score": 0.0559,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2016,
+        "acoustic_dev": 0.107,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发展乡村旅游产业，还有不少村民们也通过销售农产品的方式增加了收入。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 75.698,
+      "end": 78.14,
+      "label": "mandarin",
+      "text": "改善了生活。下一步，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0362,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "改善了生活。下一步。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 78.14,
+      "end": 82.839,
+      "label": "mandarin",
+      "text": "莫川乡将继续加大对银杏资源的保护和开发力度，",
+      "score": 0.37,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3469,
+        "acoustic_dev": 0.586,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "磨川乡将继续加大对隐性资源的保护和开发力度。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 83.098,
+      "end": 86.038,
+      "label": "mandarin",
+      "text": "不断丰富旅游产品和体验项目，",
+      "score": 0.2215,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2778,
+        "acoustic_dev": 0.358,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断丰富旅游产品或体验项目。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 86.195,
+      "end": 88.994,
+      "label": "guilin",
+      "text": "进一步打响银杏乡村文旅品牌，",
+      "score": 0.6607,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7224,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "建一部打响隐形乡村文旅品牌。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 89.187,
+      "end": 92.867,
+      "label": "mandarin",
+      "text": "为乡村振兴绘就更加绚丽的画卷。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1213,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为乡村振兴，废旧更加绚丽的画卷。"
+      }
+    }
+  ]
+}

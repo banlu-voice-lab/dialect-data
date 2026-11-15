@@ -1,0 +1,655 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "平乐_小月柿成撬动乡村振兴大杠杆.wav",
+  "duration": 144.183,
+  "no_dialect": false,
+  "created_at": "2026-10-26T14:58:19",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.304,
+      "end": 3.299,
+      "label": "uncertain",
+      "text": "眼下是岳氏卤熟上市的时节，",
+      "score": 0.4384,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6266,
+        "acoustic_dev": 0.415,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "上/丧 熟/宿",
+        "lexicon": "",
+        "text_free": "眼下是越是露宿丧尸的世界。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.474,
+      "end": 8.714,
+      "label": "mandarin",
+      "text": "平罗县结合本地实际，大力发展岳氏种植加工特色产业，",
+      "score": 0.1845,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0853,
+        "acoustic_dev": 0.01,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "植/子 种/粽",
+        "lexicon": "",
+        "text_free": "平罗县结合本地实际，大力发展粤式粽子加工特色产业。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.9,
+      "end": 12.857,
+      "label": "mandarin",
+      "text": "铺就出了一条条群众增收致富路。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "铺就出了一条条群众增收致富路。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.005,
+      "end": 15.533,
+      "label": "mandarin",
+      "text": "初冬流金，风景如画，",
+      "score": 0.0824,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.284,
+        "acoustic_dev": 0.158,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "初冬流金，风景如画。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.533,
+      "end": 19.061,
+      "label": "mandarin",
+      "text": "时下平罗岳氏逐步进入丰收期，",
+      "score": 0.3531,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7982,
+        "acoustic_dev": 0.544,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "时下，平罗乐事逐步进入丰收期。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 19.228,
+      "end": 22.171,
+      "label": "guilin",
+      "text": "种植户趁着晴好天气采收岳氏，",
+      "score": 0.6595,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1405,
+        "acoustic_dev": 0.8,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "户/夫 植/子",
+        "lexicon": "",
+        "text_free": "钟子夫趁到晴好天气，采收月诗。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 22.338,
+      "end": 24.718,
+      "label": "mandarin",
+      "text": "众多加工车间开足马力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "众多加工车间开足马力。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 25.003,
+      "end": 29.74,
+      "label": "mandarin",
+      "text": "平罗种植的全生态卤食食品正发往全国各地。",
+      "score": 0.068,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1234,
+        "acoustic_dev": 0.038,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平罗种植的全生态绿色食品正发往全国各地。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 29.74,
+      "end": 37.384,
+      "label": "mandarin",
+      "text": "我们柿饼加工企业紧紧围绕啊平罗县啊柿饼高质量发展的目标",
+      "score": 0.0169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们柿饼加工企业紧紧围绕啊平乐县啊柿饼高质量发展的目标。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.469,
+      "end": 40.06,
+      "label": "uncertain",
+      "text": "啊我们以坚持不掩饰、",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1557,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，我们以坚持不掩饰。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 40.074,
+      "end": 43.249,
+      "label": "guilin",
+      "text": "不包装啊坚持以传统的",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.628,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不抛双啊！坚持以传统的。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 43.412,
+      "end": 47.74,
+      "label": "mandarin",
+      "text": "工艺啊来生产这个柿饼啊直供到市场上。",
+      "score": 0.1526,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3262,
+        "acoustic_dev": 0.19,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "工艺啊，来生产这个食品啊，直供到市场上。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 47.74,
+      "end": 50.39,
+      "label": "mandarin",
+      "text": "为促进柿子产业可持续发展，",
+      "score": 0.1381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0088,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "柿/四",
+        "lexicon": "",
+        "text_free": "为促进四子产业可持续发展。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 50.541,
+      "end": 59.016,
+      "label": "mandarin",
+      "text": "平罗县加快柿子产业从传统手工制作模式向自动化、机械化、多元化模式转型升级，",
+      "score": 0.0672,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0203,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.147,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "屏幕先加快，数字产业从传统手工制作模式向自动化、机械化、多元化模式转型升级。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 59.267,
+      "end": 64.213,
+      "label": "mandarin",
+      "text": "产业发展进入了标准化、工业化生产的发展快车道。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产业发展进入了标准化、工业化生产的发展快车道。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 64.479,
+      "end": 68.304,
+      "label": "mandarin",
+      "text": "特别是去年以来，平罗县创新推出冰柿，",
+      "score": 0.3106,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4591,
+        "acoustic_dev": 0.29,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "特别是去年以来，拼多多先创新推出“饼式”。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 68.55,
+      "end": 71.994,
+      "label": "mandarin",
+      "text": "产品一经上市得到了广大消费者青睐。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0449,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产品一经上市，得到了广大消费者青睐。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 72.02,
+      "end": 78.287,
+      "label": "mandarin",
+      "text": "同月，平罗冰柿新品发布会现场签约交易达到八个亿。",
+      "score": 0.1597,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1192,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "柿/丝",
+        "lexicon": "",
+        "text_free": "同月，平乐冰丝新品发布会现场签约交易达到八个亿。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 78.549,
+      "end": 83.488,
+      "label": "mandarin",
+      "text": "平罗冰柿荣获全国名特优新产农产品称号。",
+      "score": 0.1016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0124,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平乐冰室荣获全国名特优新产品称号。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 83.82,
+      "end": 88.128,
+      "label": "mandarin",
+      "text": "今年，该县还举办平罗冰柿团标发布会，",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0598,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年，该县还举办平罗兵事团标发布会。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.478,
+      "end": 91.744,
+      "label": "mandarin",
+      "text": "发布平罗冰柿团体建设标准，",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0315,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发布《平罗兵事团体建设标准》。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 92.072,
+      "end": 99.314,
+      "label": "mandarin",
+      "text": "规定冰柿的质量要求及标签、标志、包装、运输、储存、保质期等要求，",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0275,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "规定并设立质量要求，及标签、标志、包装、运输、储存、保质期等等要求。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 99.613,
+      "end": 102.22,
+      "label": "guilin",
+      "text": "进一步的规范冰柿加工行业，",
+      "score": 0.6581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5212,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "柿/丝",
+        "lexicon": "",
+        "text_free": "进一步的规范冰丝加工行业。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 102.514,
+      "end": 104.732,
+      "label": "mandarin",
+      "text": "助推产业高质量发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "助推产业高质量发展。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 104.732,
+      "end": 108.732,
+      "label": "mandarin",
+      "text": "产业园竣工投产，以及冰柿团标的发布，",
+      "score": 0.1463,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3012,
+        "acoustic_dev": 0.171,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产业园竣工投产，以及兵事团标的发布。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 109.167,
+      "end": 112.931,
+      "label": "mandarin",
+      "text": "我们相信冰柿市场规模将会进一步扩大，",
+      "score": 0.2428,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6265,
+        "acoustic_dev": 0.415,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们相信，冰室市场规模将会进一步扩大。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 113.281,
+      "end": 116.375,
+      "label": "mandarin",
+      "text": "可有效推动柿子产业高质量发展，",
+      "score": 0.1327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0271,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "柿/四",
+        "lexicon": "",
+        "text_free": "可有效推动四子产业高质量发展。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 116.375,
+      "end": 119.328,
+      "label": "guilin",
+      "text": "把平罗冰柿产业做强做大，",
+      "score": 0.7031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3052,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "柿/丝",
+        "lexicon": "",
+        "text_free": "把平乐冰丝产业做强做大。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 119.447,
+      "end": 122.492,
+      "label": "mandarin",
+      "text": "早日成为全国柿子产业的标杆。",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "早日成为全国数字产业的标杆。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 122.634,
+      "end": 128.497,
+      "label": "mandarin",
+      "text": "在到平罗柿子品牌知名度、产业链、销路等多方面齐力发展，",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0422,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "车到平罗，狮子品牌知名度、产业链、销路等多方面齐力发展。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 128.73,
+      "end": 132.804,
+      "label": "mandarin",
+      "text": "小岳氏已经逐步打造成了百亿大市场，",
+      "score": 0.2088,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3883,
+        "acoustic_dev": 0.237,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "小月市已经逐步打造成为了百亿大市场。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 133.124,
+      "end": 136.132,
+      "label": "mandarin",
+      "text": "成为了撬动乡村振兴的大杠杆。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为了撬动乡村振兴的大杠杆。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 136.539,
+      "end": 140.502,
+      "label": "mandarin",
+      "text": "目前，平罗县的冰柿生产企业已经有六家，",
+      "score": 0.1433,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1145,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "柿/丝",
+        "lexicon": "",
+        "text_free": "目前，平罗县的冰丝生产企业已经有六家。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 140.714,
+      "end": 144.183,
+      "label": "mandarin",
+      "text": "预计冰柿年产量可以达到一万吨。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0056,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "预计冰室年产量可以达到一万吨。"
+      }
+    }
+  ]
+}

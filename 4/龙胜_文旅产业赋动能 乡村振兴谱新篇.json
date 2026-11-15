@@ -1,0 +1,1225 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "龙胜_文旅产业赋动能 乡村振兴谱新篇.wav",
+  "duration": 274.916,
+  "no_dialect": false,
+  "created_at": "2026-10-26T18:15:04",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.762,
+      "label": "mandarin",
+      "text": "龙胜各族自治县把文旅产业高质量发展作为实施乡村振兴战略的重头戏，",
+      "score": 0.0039,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0265,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙胜各族自治县把文旅产业高质量发展作为实施乡村振兴战略的重头戏。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.011,
+      "end": 10.754,
+      "label": "guilin",
+      "text": "不断提升龙旅游和发展水平，",
+      "score": 0.7176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6274,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "龙/农",
+        "lexicon": "",
+        "text_free": "不断提升农旅融合发展水平。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.892,
+      "end": 16.02,
+      "label": "mandarin",
+      "text": "走出一条可持续发展的文旅振兴乡村振兴之路。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0167,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走出一条可持续发展的文旅振兴、乡村振兴之路。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.665,
+      "end": 21.765,
+      "label": "mandarin",
+      "text": "秋水长天，一色金黄，入秋的美景如同一首无言的诗。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "秋水长天，一色金黄。入秋的美景，如同一首无言的诗。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.971,
+      "end": 26.337,
+      "label": "mandarin",
+      "text": "我现在呢，就在龙胜各族自治县的龙脊梯田景区。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我现在呢，就在龙胜各族自治县的龙脊梯田景区。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.488,
+      "end": 31.339,
+      "label": "mandarin",
+      "text": "进入十月，龙脊梯田迎来了一年中的最佳观景期，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进入十月，龙脊梯田迎来了一年中的最佳观景期。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.339,
+      "end": 34.732,
+      "label": "mandarin",
+      "text": "感觉特别好，风景如画。很久以前就想来了，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感觉特别好，风景如画。很久以前就想来了。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.827,
+      "end": 37.477,
+      "label": "mandarin",
+      "text": "这次也是终于圆梦了，如愿以偿了。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次也是终于圆梦了，如愿以偿了。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.693,
+      "end": 40.847,
+      "label": "uncertain",
+      "text": "呃，就是就是少数民族的衣服也很漂亮，",
+      "score": 0.5486,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6938,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，这是就是少数民族的衣服，也很漂亮。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.977,
+      "end": 44.787,
+      "label": "uncertain",
+      "text": "然后体验了就是呃这边的风景特别好，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6294,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后体验了，就是，呃，这边的风景特别好。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 45.121,
+      "end": 47.722,
+      "label": "mandarin",
+      "text": "很开心。我觉得这里非常美，",
+      "score": 0.0843,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1148,
+        "acoustic_dev": 0.162,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很开心。我觉得这里非常美。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.722,
+      "end": 50.041,
+      "label": "mandarin",
+      "text": "我听说现在是最佳观赏期，",
+      "score": 0.0763,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0603,
+        "acoustic_dev": 0.067,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "听说现在是最佳观赏期。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 50.041,
+      "end": 61.926,
+      "label": "mandarin",
+      "text": "金黄色的稻田太美了。位于龙脊梯田景区核心地带的龙脊镇大寨村牢牢把握水稻就是风景线，梯田就是金饭碗的底线，",
+      "score": 0.0373,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.082,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "金黄色的稻田太美了。位于龙吉体田景区核心地带的龙吉镇大寨村，牢牢把握水稻就是风景线，体田就是金饭碗的底线。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.176,
+      "end": 65.87,
+      "label": "mandarin",
+      "text": "在发展旅游业的同时，加强对梯田的保护，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在发展旅游业的同时，加强对梯田的保护。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 66.115,
+      "end": 70.51,
+      "label": "mandarin",
+      "text": "确保农业生产与旅游开发同步可持续发展，",
+      "score": 0.0071,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.03,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "确保农业生产与旅游开发同步可持续发展。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 70.917,
+      "end": 77.274,
+      "label": "mandarin",
+      "text": "成为广西首个入选联合国世界旅游组织最佳旅游乡村的村镇。",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0178,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为广西首个入选联合国世界旅游组织最佳旅游乡村的城镇。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 77.274,
+      "end": 81.608,
+      "label": "mandarin",
+      "text": "开发旅游后，村民们的生活发生了翻天覆地的变化。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "开发旅游后，村民们的生活发生了翻天覆地的变化。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 81.772,
+      "end": 86.384,
+      "label": "mandarin",
+      "text": "二零二三年，大寨村接待国内游客七十点八万人次，",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二三年，大寨村接待国内外游客七十点八万人次。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 86.454,
+      "end": 90.132,
+      "label": "mandarin",
+      "text": "直接带动村集体经济收入七百二十五万元。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "直接带动村集体经济收入七百二十五万元。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 90.132,
+      "end": 95.076,
+      "label": "mandarin",
+      "text": "大寨村的变化是龙胜文旅产业赋能乡村振兴的缩影。",
+      "score": 0.339,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1599,
+        "acoustic_dev": 0.241,
+        "seg_cer": 0.636,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.214,
+        "phon_examples": "兴/心 能/嫩 旅/女",
+        "lexicon": "",
+        "text_free": "大泽城的编发是龙生梦女产业，富嫩相称真心的树影。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.359,
+      "end": 97.88,
+      "label": "mandarin",
+      "text": "龙胜立足地方资源禀赋，",
+      "score": 0.2322,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0466,
+        "acoustic_dev": 0.043,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "资/支",
+        "lexicon": "",
+        "text_free": "龙生立足地方，支援兵富。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 97.88,
+      "end": 100.087,
+      "label": "mandarin",
+      "text": "积极发展文旅新业态，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "积极发展文旅新业态。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 100.31,
+      "end": 103.059,
+      "label": "uncertain",
+      "text": "依托全球重要农业文化遗产、",
+      "score": 0.4285,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3669,
+        "acoustic_dev": 0.604,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "依托全球中医药、农业文化遗产。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 103.217,
+      "end": 105.725,
+      "label": "uncertain",
+      "text": "中国品牌节庆示范基地、",
+      "score": 0.533,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5066,
+        "acoustic_dev": 0.849,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中国品牌建青示范基地。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 105.945,
+      "end": 109.162,
+      "label": "uncertain",
+      "text": "龙脊梯田国际文化旅游节等载体，",
+      "score": 0.4405,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3979,
+        "acoustic_dev": 0.659,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙吉体验国际文化旅游节等载体。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 109.316,
+      "end": 113.766,
+      "label": "uncertain",
+      "text": "推出洞联节、长发节、山夷节等民族节庆品牌，",
+      "score": 0.4641,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3166,
+        "acoustic_dev": 0.516,
+        "seg_cer": 0.389,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "推出东联街、长发街、三义街等民族街庆品牌。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 114.079,
+      "end": 116.938,
+      "label": "uncertain",
+      "text": "打造黄罗瑶寨、长发演艺、",
+      "score": 0.5386,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3826,
+        "acoustic_dev": 0.632,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "寨/灾",
+        "lexicon": "",
+        "text_free": "打造“防落窑灾，长发演绎”。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 117.125,
+      "end": 121.673,
+      "label": "mandarin",
+      "text": "红瑶民俗表演等多个常态化民俗演出项目，",
+      "score": 0.2085,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.251,
+        "acoustic_dev": 0.401,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "红瑶民俗表演等多个常态化民俗演出项目。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 122.036,
+      "end": 126.085,
+      "label": "mandarin",
+      "text": "让群众在家门口就能够获得旅游收益。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让群众在家门口就能够获得旅游收益。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 126.579,
+      "end": 130.604,
+      "label": "mandarin",
+      "text": "二零二三年，黄罗瑶寨累计接待游客十万人次，",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0113,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二三年，黄洛窑寨累计接待游客十万人次。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 130.779,
+      "end": 135.426,
+      "label": "mandarin",
+      "text": "及旅游歌舞表演收入达三百九十三点三一万元，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0103,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今旅游歌舞表演收入达三百九十三点三一万元。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 135.589,
+      "end": 138.375,
+      "label": "mandarin",
+      "text": "黄罗组集体收入超三十万元。",
+      "score": 0.1381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "罗/若",
+        "lexicon": "",
+        "text_free": "黄若组集体收入超三十万元。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 138.375,
+      "end": 144.454,
+      "label": "mandarin",
+      "text": "如今，当地还将红瑶民族书法的传统习俗与现代科技相结合，",
+      "score": 0.0366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0187,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如今，当地还将弘扬民族书法的传统习俗与现代科技相结合。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 144.747,
+      "end": 149.224,
+      "label": "guilin",
+      "text": "依托越国协作平台，引进投资一点二个亿，",
+      "score": 0.5738,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6319,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "依托月桂协作平台，引进投资一点二个亿。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 149.32,
+      "end": 151.944,
+      "label": "mandarin",
+      "text": "建设起中国长发科技馆，",
+      "score": 0.0169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0408,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "建设起中国长发科技馆。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 152.325,
+      "end": 157.126,
+      "label": "mandarin",
+      "text": "围绕长发这一主题，开发出红瑶陶米水洗发产品、",
+      "score": 0.0891,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0698,
+        "acoustic_dev": 0.083,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "围绕长发这一主题，开发出红药淘米水洗发产品。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 157.284,
+      "end": 162.605,
+      "label": "mandarin",
+      "text": "护肤面膜等产品，积极探索一二三产业融合发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "护肤面膜等产品，积极探索一二三产业融合发展。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 162.732,
+      "end": 168.541,
+      "label": "mandarin",
+      "text": "我们探索旅游公司加村集体经济加农户分红运营模式，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0088,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们探索旅游公司加村集体经济加农户分红运营模式。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 168.541,
+      "end": 172.737,
+      "label": "mandarin",
+      "text": "走出了一条种生态致富、米看长发歌舞表演、",
+      "score": 0.091,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.122,
+        "acoustic_dev": 0.175,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走出了一条种生态致富米，看长发歌舞表演。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 173.003,
+      "end": 175.761,
+      "label": "mandarin",
+      "text": "卖长发洗发护肤产品。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0075,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "卖长发、洗发、护肤产品。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 175.761,
+      "end": 178.961,
+      "label": "mandarin",
+      "text": "一二三产业融合发展的好路子。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一二三产业融合发展的好路子。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 179.239,
+      "end": 182.39,
+      "label": "mandarin",
+      "text": "今年以来，全县销售长发系列",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年以来，全县销售长发系列。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 182.538,
+      "end": 185.474,
+      "label": "mandarin",
+      "text": "洗发护肤产品零点九亿元。",
+      "score": 0.0011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0235,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "洗发护肤产品零点九亿元。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 185.702,
+      "end": 193.91,
+      "label": "mandarin",
+      "text": "近年来，龙胜深度融入桂林打造世界级旅游城市“一核一带两区”四域发展布局，",
+      "score": 0.0261,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0509,
+        "acoustic_dev": 0.05,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，龙胜深度融入桂林打造世界级旅游城市一核一带两区四域发展布局。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 194.254,
+      "end": 198.888,
+      "label": "uncertain",
+      "text": "争创国家级文化产业和旅游产业融合发展示范区，",
+      "score": 0.5418,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7474,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "争创国家级文化产业或旅游产业融合发展示范区。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 199.136,
+      "end": 206.638,
+      "label": "mandarin",
+      "text": "推进民族文化旅游示范区和龙脊梯田景区创国家五A级旅游景区建设，",
+      "score": 0.3702,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2906,
+        "acoustic_dev": 0.471,
+        "seg_cer": 0.138,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "龙/农",
+        "lexicon": "",
+        "text_free": "推进民族文化旅游示范区或农集体田景区，创国家五A级旅游景区建设。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 206.915,
+      "end": 210.113,
+      "label": "mandarin",
+      "text": "积极培育发展旅游加新业态，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0142,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "积极培育发展旅游加新业态。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 210.444,
+      "end": 213.306,
+      "label": "mandarin",
+      "text": "打造更多优质消费场景，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造更多优质消费场景。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 213.543,
+      "end": 218.35,
+      "label": "uncertain",
+      "text": "推出夜游、演艺、非遗、文创等业态产品，",
+      "score": 0.5206,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4177,
+        "acoustic_dev": 0.693,
+        "seg_cer": 0.467,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推出也有烟椅、非椅、稳床等业态产品。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 218.505,
+      "end": 223.091,
+      "label": "mandarin",
+      "text": "形成山水文化游、红色文化游、康养文化游、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "形成山水文化游、红色文化游、康养文化游。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 223.091,
+      "end": 226.368,
+      "label": "mandarin",
+      "text": "民族文化游的全域旅游发展格局。",
+      "score": 0.1363,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1717,
+        "acoustic_dev": 0.262,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "民族文化游的全域旅游发展格局。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 226.368,
+      "end": 229.386,
+      "label": "mandarin",
+      "text": "以建设桂林世界级旅游城市、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以建设桂林世界级旅游城市。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 229.386,
+      "end": 231.83,
+      "label": "mandarin",
+      "text": "民族文化旅游示范区为统领，",
+      "score": 0.301,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2688,
+        "acoustic_dev": 0.432,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "民族文化旅游示范区为铜南。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 231.83,
+      "end": 237.473,
+      "label": "mandarin",
+      "text": "进一步打造中外游客探访多姿多彩民族文化的",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进一步打造中外游客探访多姿多彩民族文化的。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 237.78,
+      "end": 241.601,
+      "label": "mandarin",
+      "text": "重要旅游目的地。二零二三年，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0102,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "重要旅游目的地。二零二三年。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 241.744,
+      "end": 244.91,
+      "label": "mandarin",
+      "text": "龙胜接待游客首次突破千万大关。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙胜接待游客首次突破千万大关。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 245.377,
+      "end": 248.408,
+      "label": "mandarin",
+      "text": "今年一到九月，龙胜接待游客",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年一到九月，龙胜接待游客。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 248.677,
+      "end": 252.357,
+      "label": "mandarin",
+      "text": "已达到九百二十一万人次。下一步，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "已达到九百二十一万人次。下一步。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 252.429,
+      "end": 256.588,
+      "label": "mandarin",
+      "text": "龙胜将持续擦亮全球重要农业文化遗产、",
+      "score": 0.0097,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0329,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙胜将持续擦亮全球重要农业文化遗产。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 256.799,
+      "end": 259.855,
+      "label": "mandarin",
+      "text": "世界最佳旅游乡村等金字招牌，",
+      "score": 0.0184,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0424,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "世界最佳旅游乡村等金字招牌。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 260.397,
+      "end": 263.53,
+      "label": "guilin",
+      "text": "持续打造一路稻花上龙脊、",
+      "score": 0.6447,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6385,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "持续打造，一路道化上龙级。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 264.183,
+      "end": 267.814,
+      "label": "mandarin",
+      "text": "一路梨花上南山、一湾碧水进温泉、",
+      "score": 0.1214,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1553,
+        "acoustic_dev": 0.233,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一路梨花上南山，一湾碧水进温泉。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 268.519,
+      "end": 271.777,
+      "label": "mandarin",
+      "text": "一路红歌唱侗乡等旅游精品线路，",
+      "score": 0.0346,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0602,
+        "acoustic_dev": 0.067,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一路红歌唱侗乡等旅游精品线路。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 272.236,
+      "end": 274.916,
+      "label": "uncertain",
+      "text": "促进龙文旅深度融合发展。",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6594,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "促进龙文旅深度融合发展。"
+      }
+    }
+  ]
+}

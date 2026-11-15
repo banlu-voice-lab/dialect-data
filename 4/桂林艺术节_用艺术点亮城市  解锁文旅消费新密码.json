@@ -1,0 +1,940 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林艺术节_用艺术点亮城市  解锁文旅消费新密码.wav",
+  "duration": 235.772,
+  "no_dialect": false,
+  "created_at": "2026-10-26T16:18:33",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.239,
+      "end": 9.401,
+      "label": "mandarin",
+      "text": "经过两年的时间探索，桂林艺术节已经成为了以文塑旅、文化引流、泛型旅游的重要载体，",
+      "score": 0.0338,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0494,
+        "acoustic_dev": 0.065,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经过两年的时间探索，桂林艺术节已经成为了以文塑旅、文化引流、泛型旅游的重要载体。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 9.644,
+      "end": 17.097,
+      "label": "guilin",
+      "text": "正在成为丰富文旅业态、打造世界级旅游城市的重要新事物。",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8368,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "正在成为丰富文旅业态、打造世界级旅游城市的标志性吸引物。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 17.197,
+      "end": 20.779,
+      "label": "mandarin",
+      "text": "金秋时节的桂林，到处都有艺术节的影子。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0076,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "金秋时节的桂林，到处都有艺术节的影子。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 21.102,
+      "end": 27.297,
+      "label": "mandarin",
+      "text": "两苏两届桂林艺术节的成功举办，让二零二四桂林艺术节蔚然成业，",
+      "score": 0.155,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0356,
+        "acoustic_dev": 0.044,
+        "seg_cer": 0.107,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "两/连",
+        "lexicon": "",
+        "text_free": "连续两届桂林艺术节的成功举办，让二零二四桂林艺术节蔚然显业。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 27.735,
+      "end": 30.014,
+      "label": "mandarin",
+      "text": "备受瞩目和期待。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "备受瞩目和期待。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 30.173,
+      "end": 34.319,
+      "label": "guilin",
+      "text": "多年来，桂林在山水旅游领域异香郁时代。",
+      "score": 0.6545,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0096,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多年来，桂林在山水旅游领域已享誉世界。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 34.346,
+      "end": 40.158,
+      "label": "mandarin",
+      "text": "如今，桂林艺术节为桂林世界级旅游城市拓展了一个文化空间，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如今，桂林艺术节为桂林世界级旅游城市拓展了一个文化空间。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 40.507,
+      "end": 43.929,
+      "label": "mandarin",
+      "text": "成为桂林旅游突围升级的新路径。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为桂林旅游突围升级的新路径。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 44.473,
+      "end": 48.182,
+      "label": "mandarin",
+      "text": "它集山水、艺术、青年、三者于一体，",
+      "score": 0.3328,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2086,
+        "acoustic_dev": 0.313,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "年/恋",
+        "lexicon": "",
+        "text_free": "它集山水、艺术、情恋三者于一体。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.43,
+      "end": 51.714,
+      "label": "guilin",
+      "text": "家天下的山水成为艺术节的平台，",
+      "score": 0.5583,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6173,
+        "acoustic_dev": 0.948,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夏天，下的山水成为艺术界的平台。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 52.016,
+      "end": 55.584,
+      "label": "mandarin",
+      "text": "高品质的艺术为桂林增添富有",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高品质的艺术为桂林增添富有。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 55.584,
+      "end": 61.646,
+      "label": "mandarin",
+      "text": "创造力的银文风景，让人们想来桂林的理由又多了一个。",
+      "score": 0.3077,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2034,
+        "acoustic_dev": 0.304,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "银/英",
+        "lexicon": "",
+        "text_free": "干燥丽的英文风景，让英们想来桂林的理由又多了一个。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 61.646,
+      "end": 64.124,
+      "label": "mandarin",
+      "text": "前段时间我也有幸去过，非常喜欢那个地方。",
+      "score": 0.0355,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.02,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前段时间我也是有幸去过，非常喜欢那个地方。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 64.134,
+      "end": 68.267,
+      "label": "mandarin",
+      "text": "让我们相约桂林，相约二零二四桂林艺术节。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让我们相约桂林，相约二零二四桂林艺术节。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 68.746,
+      "end": 75.768,
+      "label": "mandarin",
+      "text": "二青年一代的参与和成长，为桂林艺术节这座城市带来了青春的活力与魅力，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而青年一代的参与和成长，为桂林艺术界这座城市带来了青春的活力与魅力。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 75.93,
+      "end": 86.335,
+      "label": "mandarin",
+      "text": "阳光的希望与未来。由桂林艺术节组委会和中央戏剧学院发起的全球华语青年戏剧导演人才计划，",
+      "score": 0.0111,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.024,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "阳光的希望与未来，由桂林艺术节组委会和中央戏剧学院发起的全球华语青年戏剧导演英才计划。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 86.513,
+      "end": 90.969,
+      "label": "mandarin",
+      "text": "正在成为青年戏剧人才培养的重要阵地。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "正在成为青年戏剧人才培养的重要阵地。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 91.509,
+      "end": 95.465,
+      "label": "mandarin",
+      "text": "透过艺术节的影响，还培养了青年观众，",
+      "score": 0.22,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.209,
+        "acoustic_dev": 0.313,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "透过艺术借力影响，还培养了青年观众。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 95.701,
+      "end": 99.239,
+      "label": "uncertain",
+      "text": "让艺术成为年轻喜欢的生活方式。",
+      "score": 0.4539,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5285,
+        "acoustic_dev": 0.81,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让艺术成为年轻人喜欢的生活方式。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 99.652,
+      "end": 102.062,
+      "label": "mandarin",
+      "text": "二零二三桂林艺术节期间，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二三桂林艺术节期间。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 102.167,
+      "end": 105.404,
+      "label": "mandarin",
+      "text": "戏剧巡演与观众零距离接触，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "戏剧巡演与观众零距离接触。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 105.7,
+      "end": 108.018,
+      "label": "mandarin",
+      "text": "戏剧大巴穿行城市之中，",
+      "score": 0.3612,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1816,
+        "acoustic_dev": 0.271,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "行/新",
+        "lexicon": "",
+        "text_free": "戏剧大坝，全新城市之中。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 108.375,
+      "end": 112.355,
+      "label": "guilin",
+      "text": "艺术四季融合文创非遗表演，",
+      "score": 0.7349,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8239,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "四/事",
+        "lexicon": "",
+        "text_free": "艺术事迹，用或文创非遗表演。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 112.529,
+      "end": 118.026,
+      "label": "guilin",
+      "text": "各种新形式新样态吸引了越来越多的年轻关注艺术节。",
+      "score": 0.5796,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7843,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "各种新型式新样态吸引了越来越多的年轻人关注艺术界。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 118.21,
+      "end": 120.681,
+      "label": "uncertain",
+      "text": "今儿在艺术节的影响下，",
+      "score": 0.5061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4639,
+        "acoustic_dev": 0.71,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "金额在艺术界的影响下。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 120.681,
+      "end": 125.108,
+      "label": "mandarin",
+      "text": "走进剧场，走进桂林的历史和文化。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走进剧场，走进桂林的历史和文化。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 125.108,
+      "end": 128.03,
+      "label": "mandarin",
+      "text": "因为我是土生土长的桂林孩子嘛，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为我是土生土长的桂林孩子嘛。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 128.208,
+      "end": 131.606,
+      "label": "mandarin",
+      "text": "经常也到十字街这边、艺术馆这边来溜达。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经常也到十字街这边、艺术馆这边来溜达。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 131.606,
+      "end": 136.252,
+      "label": "mandarin",
+      "text": "然后呢，其实我一直都不太了解艺术馆的这个前世今生，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后呢？其实我一直都不太了解艺术馆的这个前世今生。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 136.44,
+      "end": 138.619,
+      "label": "mandarin",
+      "text": "也不了解桂剧的发展历程。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也不了解贵剧的发展历程。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 138.92,
+      "end": 143.426,
+      "label": "mandarin",
+      "text": "我来到这儿去看我们桂剧的这个历史的发展，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我来到这儿去看我们桂剧的这个历史的发展。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 143.426,
+      "end": 152.482,
+      "label": "mandarin",
+      "text": "我非常的感触。身为桂林人，我觉得我们年轻一代非常的有意义，能够把桂剧传承以及发扬光大下去。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我非常的感触，身为桂林人，我觉得我们年轻一代非常的有意义，能够把桂剧传承以及发扬光大下去。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 152.482,
+      "end": 159.42,
+      "label": "mandarin",
+      "text": "桂林艺术节带来了一系列丰富的艺术活动，满足了人民群众多样化、多层次、",
+      "score": 0.0895,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1001,
+        "acoustic_dev": 0.144,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林艺术节带来的一系列丰富的艺术活动，满足了人民群众多样化、多层次。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 159.42,
+      "end": 161.77,
+      "label": "mandarin",
+      "text": "多方面的精神文化需求，",
+      "score": 0.3491,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4393,
+        "acoustic_dev": 0.671,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多方面的精神文化需求。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 162.062,
+      "end": 165.993,
+      "label": "mandarin",
+      "text": "并在潜移默化当中改变了市民游客的习惯，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0072,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并在潜移默化当中改变了市民游客的习惯。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 166.347,
+      "end": 170.373,
+      "label": "guilin",
+      "text": "吃茶、看戏客正在成为风尚。",
+      "score": 0.6447,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2763,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吃茶来看戏，去正在成为风潮。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 170.837,
+      "end": 174.769,
+      "label": "mandarin",
+      "text": "艺术逐渐融入这座城市和当地人的生活。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0055,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "艺术逐渐融入这座城市和当地人的生活。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 175.226,
+      "end": 179.078,
+      "label": "mandarin",
+      "text": "两江四湖边，彩调、文创等非遗出不断。",
+      "score": 0.3026,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.116,
+        "acoustic_dev": 0.169,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "湖/府",
+        "lexicon": "",
+        "text_free": "两江四府边，扯钓文场等非遗演出不断。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 179.408,
+      "end": 184.752,
+      "label": "mandarin",
+      "text": "夜幕降临的滨江路，越来越多的街头艺影弹着吉他、助唱。",
+      "score": 0.1116,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0964,
+        "acoustic_dev": 0.138,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夜幕降临的滨江路，越来越多的街头艺人弹着吉他驻唱。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 185.041,
+      "end": 190.864,
+      "label": "mandarin",
+      "text": "周末中心广场的桂林国墟以年轻态、大众化、非明星的特点，",
+      "score": 0.2846,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2159,
+        "acoustic_dev": 0.324,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "周末，中心广场嘞桂林果树以年轻态、大众化、非明星嘞特点。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 190.864,
+      "end": 194.591,
+      "label": "mandarin",
+      "text": "进一步带动了桂林旅游活业经济发展。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0127,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进一步带动了桂林旅游和业经济发展。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 194.591,
+      "end": 201.219,
+      "label": "mandarin",
+      "text": "经过两年时间的打造，桂林艺术节已成为桂林特色文化，IP桂林经典，",
+      "score": 0.0077,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.017,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经过两年时间的打造，桂林艺术节已成为桂林特色文化IP，桂林经典。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 201.566,
+      "end": 205.686,
+      "label": "mandarin",
+      "text": "也成为桂林打造世界级旅游城市的一张新名片。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也成为桂林打造世界级旅游城市的一张新名片。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 206.229,
+      "end": 209.161,
+      "label": "mandarin",
+      "text": "今年呢，恰逢西南剧展八十周年，",
+      "score": 0.0446,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0627,
+        "acoustic_dev": 0.086,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年呢，恰逢西南剧展八十周年。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 209.453,
+      "end": 213.85,
+      "label": "mandarin",
+      "text": "我们也将继续延续和挖掘山水家的独特性，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们也将继续延续和挖掘山水家的独特性。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 214.024,
+      "end": 217.113,
+      "label": "mandarin",
+      "text": "持续做好戏剧家融合文章，",
+      "score": 0.0401,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0571,
+        "acoustic_dev": 0.077,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "持续做好戏剧家融合文章。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 217.393,
+      "end": 222.417,
+      "label": "mandarin",
+      "text": "发挥桂林艺术节作为文旅重要标志性吸引物的引流作用，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发挥桂林艺术节作为文旅重要标志性吸引物的引流作用。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 222.584,
+      "end": 228.77,
+      "label": "mandarin",
+      "text": "助力桂林实现山水旅游向山水加文化旅游的提档升级。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "助力桂林实现山水旅游向山水加文化旅游的提档升级。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 229.105,
+      "end": 235.772,
+      "label": "mandarin",
+      "text": "以桂林艺术节的成功举办，为打造桂林世界级旅游城市增光添彩。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以桂林艺术节的成功举办，为打造桂林世界级旅游城市增光添彩。"
+      }
+    }
+  ]
+}

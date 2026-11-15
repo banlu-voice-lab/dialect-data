@@ -1,0 +1,826 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "记录伟大时代 汇聚打造世界级旅游城市磅礴力量.wav",
+  "duration": 188.12,
+  "no_dialect": false,
+  "created_at": "2026-10-26T17:08:22",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.266,
+      "end": 3.434,
+      "label": "mandarin",
+      "text": "十一月八号是第二十五个记者节，",
+      "score": 0.0047,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0095,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十一月八号是第二十五个记者节。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.434,
+      "end": 7.882,
+      "label": "mandarin",
+      "text": "一直以来，我是广达新闻工作者，不忘初心，砥砺前行，",
+      "score": 0.1828,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2655,
+        "acoustic_dev": 0.31,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一直以来，我是广大新闻工作者，不忘初心，砥砺前行。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.076,
+      "end": 13.96,
+      "label": "mandarin",
+      "text": "用媒体的责任与担当，讲好一个又一个精彩的桂林故事，",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用媒体人的责任与担当，讲好一个又一个精彩的桂林故事。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.243,
+      "end": 18.991,
+      "label": "mandarin",
+      "text": "为打造世界级旅游城市营造出良好的舆论氛围，",
+      "score": 0.0002,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为打造世界级旅游城市，营造出良好的舆论氛围。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.097,
+      "end": 22.859,
+      "label": "mandarin",
+      "text": "汇聚起团结奋进的磅礴力量。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "汇聚起团结奋进的磅礴力量。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.12,
+      "end": 27.537,
+      "label": "mandarin",
+      "text": "刚刚闭幕的二零二四桂林艺术节取得了圆满成功。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "刚刚闭幕的二零二四桂林艺术节取得了圆满成功。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.878,
+      "end": 30.7,
+      "label": "mandarin",
+      "text": "桂林这座以山水闻名的城市，",
+      "score": 0.0044,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0091,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林这座以山水闻名的城市。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.7,
+      "end": 33.021,
+      "label": "uncertain",
+      "text": "这次以戏剧以艺术为名，",
+      "score": 0.4786,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7106,
+        "acoustic_dev": 0.832,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "再次以戏剧以艺术为名。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.178,
+      "end": 36.762,
+      "label": "mandarin",
+      "text": "向世界展现出同样丰厚的文化底蕴。",
+      "score": 0.0237,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0406,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "向世界展现出同样丰厚的文化底蕴。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.246,
+      "end": 41.426,
+      "label": "guilin",
+      "text": "艺术节国内外总足大略突破二十亿。",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9369,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.467,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "足/注",
+        "lexicon": "",
+        "text_free": "艺术界国内外总注册资本额二十一亿。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 41.769,
+      "end": 46.401,
+      "label": "mandarin",
+      "text": "这些成绩的背后，离不开广大新闻工作者的辛勤付出。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这些成绩的背后，离不开广大新闻工作者的辛勤付出。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.401,
+      "end": 49.996,
+      "label": "mandarin",
+      "text": "桂林市融媒体中心作为二零二四桂林艺术节的执行方，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林市融媒体中心作为二零二四桂林艺术节的执行方。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 50.114,
+      "end": 53.41,
+      "label": "mandarin",
+      "text": "中心人员呢，全员在岗，责任到岗，任务到人。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中心人员呢？全员在岗，责任到岗，任务到人。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.583,
+      "end": 57.144,
+      "label": "mandarin",
+      "text": "那今年桂林艺术节的宣发呢，可以说是亮点频出。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那今年桂林艺术节的宣发呢，可以说是亮点频出。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 57.324,
+      "end": 62.279,
+      "label": "mandarin",
+      "text": "艺术节的宣传呢，更好的让各国民众了解和感受大美桂林。",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "艺术节的宣传啊，更好的让各国民众了解和感受大美桂林。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.474,
+      "end": 64.759,
+      "label": "mandarin",
+      "text": "那面对世界级的传播资源，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那面对世界级的传播资源。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 64.76,
+      "end": 69.197,
+      "label": "mandarin",
+      "text": "为讲好打造桂林世界级旅游城市，贡献出我们的媒体力量。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为讲好打造桂林世界级旅游城市，贡献出我们的媒体力量。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 69.343,
+      "end": 76.117,
+      "label": "mandarin",
+      "text": "今年是桂林世界级旅游城市建设发展规划全面实施的开局之年。",
+      "score": 0.0379,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0085,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年是桂林市级旅游城市建设发展规划全面实施的开局之年。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 76.375,
+      "end": 78.927,
+      "label": "guilin",
+      "text": "紧紧围绕市委市政府重点工作，",
+      "score": 0.6374,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7128,
+        "acoustic_dev": 0.835,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "紧/京",
+        "lexicon": "",
+        "text_free": "京津冀要市委市政府重点工作。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 79.136,
+      "end": 88.315,
+      "label": "mandarin",
+      "text": "全市新闻工作者坚持用全面报道生动呈现桂林打造世界级旅游城市所取得的进展和成果，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全市新闻工作者坚持用全面报道，生动呈现桂林打造世界级旅游城市所取得的进展和成果。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.711,
+      "end": 93.953,
+      "label": "mandarin",
+      "text": "有思想、有温度、有品质的精品力作层出不穷，",
+      "score": 0.0001,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有思想、有温度、有品质的精品力作层出不穷。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 94.332,
+      "end": 99.522,
+      "label": "mandarin",
+      "text": "提升桂林知名度和美誉度的活动不断被策划实施。",
+      "score": 0.0042,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0088,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提升桂林知名度和美誉度的活动不断被策划实施。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 99.522,
+      "end": 104.22,
+      "label": "guilin",
+      "text": "我们行走在城市的表，用文化加旅游融合互动的形式，",
+      "score": 0.5616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.114,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们行走在城市地标，用文化加旅游融合互动的形式。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 104.22,
+      "end": 106.741,
+      "label": "guilin",
+      "text": "做了四多小时的融媒体直播。",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.529,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "做了四个多小时的融媒大直播。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 106.741,
+      "end": 110.247,
+      "label": "mandarin",
+      "text": "记者实时连线，也出场了很多高质量的采访。",
+      "score": 0.1254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "场/产",
+        "lexicon": "",
+        "text_free": "记者实时连线，也出产了很多高质量的采访。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 110.402,
+      "end": 114.874,
+      "label": "mandarin",
+      "text": "作为主持人和记者的那份职业的荣光瞬间点亮了每一个人。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为主持人和记者的那份职业的荣光，瞬间点亮了每一个人。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 115.129,
+      "end": 120.556,
+      "label": "mandarin",
+      "text": "我也相信这份责任和使命，也会不断的驱使着我们呃不忘初心，",
+      "score": 0.0953,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1579,
+        "acoustic_dev": 0.183,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我也相信，这份责任和使命也会不断的驱使着我们，呃，不忘初心。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 120.556,
+      "end": 124.937,
+      "label": "mandarin",
+      "text": "奋勇向前。今年更是新中国成立七十五周年，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "奋勇向前。今年更是新中国成立七十五周年。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 124.987,
+      "end": 127.622,
+      "label": "guilin",
+      "text": "使命召唤，任务在肩。",
+      "score": 0.6444,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.678,
+        "acoustic_dev": 0.794,
+        "seg_cer": 0.875,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "召/造 使/死",
+        "lexicon": "",
+        "text_free": "死命造反，引无再见。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 127.835,
+      "end": 132.256,
+      "label": "guilin",
+      "text": "我是国际新闻工作者，表示将深化主战改，",
+      "score": 0.5738,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8883,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是国际新闻工作者，表示将深化周转改。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 132.377,
+      "end": 136.994,
+      "label": "mandarin",
+      "text": "体现三贴近，当好践行四力的排头兵，",
+      "score": 0.066,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.06,
+        "acoustic_dev": 0.068,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "体现三贴近，当好践行思力的排头兵。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 137.264,
+      "end": 139.856,
+      "label": "guilin",
+      "text": "以忠实记录这个伟大的时代，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2881,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以重视记录这个伟大的时代。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 139.984,
+      "end": 146.662,
+      "label": "mandarin",
+      "text": "不断向世界讲好桂林，推进高水平开放和高质量发展的生动故事。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断向世界讲好桂林推进高水平开放和高质量发展的生动故事。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 146.662,
+      "end": 150.84,
+      "label": "mandarin",
+      "text": "作为一名记者，我希望大家通过我的镜头和文字，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为一名记者，我希望大家通过我的镜头和文字。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 151.137,
+      "end": 154.997,
+      "label": "mandarin",
+      "text": "看到在这片热土上辛勤耕耘的乡村奋斗者们。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看到在这片热土上辛勤耕耘的乡村奋斗者们。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 155.248,
+      "end": 157.24,
+      "label": "mandarin",
+      "text": "希望大家能够通过报道，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "希望大家能够通过报道。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 157.524,
+      "end": 162.36,
+      "label": "mandarin",
+      "text": "呃走进桂林，爱上桂林，去挖掘更多的啊这个我们",
+      "score": 0.0118,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0212,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，走进桂林，爱上桂林，去挖掘更多的啊，这个我们。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 162.69,
+      "end": 168.147,
+      "label": "mandarin",
+      "text": "桂林打造世界级旅游城市啊进程中的一些成果和一些良好的形象，",
+      "score": 0.0041,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0086,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林打造世界级旅游城市啊，进程中的一些成果和一些良好的形象。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 168.193,
+      "end": 174.018,
+      "label": "mandarin",
+      "text": "然后用我们的新媒体手段，然后把它推广出去，让市民游客都看到，让世界都看到。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后用我们的新媒体手段，然后把它推广出去，让市民游客都看到，让世界都看到。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 174.24,
+      "end": 177.867,
+      "label": "mandarin",
+      "text": "今后我也将牢记新闻工作者的职责和使命，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今后，我也将牢记新闻工作者的职责和使命。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 177.994,
+      "end": 180.377,
+      "label": "mandarin",
+      "text": "用镜头传递社会的声音。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用镜头传递社会的声音。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 180.548,
+      "end": 183.942,
+      "label": "mandarin",
+      "text": "记录时代的变迁，凝聚奋进的力量，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记录时代的变迁，凝聚奋进的力量。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 183.964,
+      "end": 188.12,
+      "label": "mandarin",
+      "text": "以实际行动助力桂林打造世界级旅游城市。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以实际行动助力桂林打造世界级旅游城市。"
+      }
+    }
+  ]
+}

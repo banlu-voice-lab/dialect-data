@@ -1,0 +1,978 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "焕新升级 桂林开创文旅融合新局面.wav",
+  "duration": 223.851,
+  "no_dialect": false,
+  "created_at": "2026-10-26T16:40:56",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.15,
+      "label": "mandarin",
+      "text": "今天我首先来关注一下桂林的旅游。",
+      "score": 0.1582,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2054,
+        "acoustic_dev": 0.128,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们首先来关注厦门桂林的旅游。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.469,
+      "end": 8.678,
+      "label": "mandarin",
+      "text": "桂林世界级旅游城市建设发展规划全面实施一年来，",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1226,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林市各级旅游城市建设发展规划全面实施一年来。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.813,
+      "end": 12.46,
+      "label": "guilin",
+      "text": "我市超前文化爆款催生旅游爆点，",
+      "score": 0.6506,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8689,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是巧借文发爆款，催生旅游爆点。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.644,
+      "end": 16.005,
+      "label": "mandarin",
+      "text": "以文化变现驱动旅游增值，",
+      "score": 0.0107,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.136,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以文化变现驱动旅游增值。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.005,
+      "end": 19.643,
+      "label": "mandarin",
+      "text": "推动文旅融合不断取得新成效。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动文旅融合，不断取得新成效。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.924,
+      "end": 28.816,
+      "label": "mandarin",
+      "text": "象鼻山是桂林城徽，是桂林山水的象征。",
+      "score": 0.0857,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0217,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "香碧山是桂林城北，是桂林山水的象征。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.126,
+      "end": 36.315,
+      "label": "mandarin",
+      "text": "景区全面免费开放以后，将门票经济彻底转型为全域旅游全方位产业发展态势。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "景区全面免费开放以后，将门票经济彻底转型为全域旅游全方位产业发展态势。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.798,
+      "end": 39.627,
+      "label": "mandarin",
+      "text": "二零二三年接待游客五百万人次，",
+      "score": 0.3284,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.53,
+        "acoustic_dev": 0.632,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二三年接待游客五百万人次。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.927,
+      "end": 42.904,
+      "label": "mandarin",
+      "text": "今年获评第一批桂林景点。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0136,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年获评第一批桂林景点。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 43.302,
+      "end": 46.69,
+      "label": "mandarin",
+      "text": "景区持续推进桂林景点的提质升级，",
+      "score": 0.218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.393,
+        "acoustic_dev": 0.419,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "景区持续推进桂林景点的提质升级。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.053,
+      "end": 49.569,
+      "label": "mandarin",
+      "text": "探索拓展文旅新消费增长点，",
+      "score": 0.053,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1883,
+        "acoustic_dev": 0.102,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "探索拓展文旅新消费增长点。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 49.866,
+      "end": 54.02,
+      "label": "uncertain",
+      "text": "加快推进梵香山景区金接待扩圈增量。",
+      "score": 0.4601,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4836,
+        "acoustic_dev": 0.56,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "金/经",
+        "lexicon": "",
+        "text_free": "加快推进梵香山景区经济带扩圈增量。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 54.431,
+      "end": 59.793,
+      "label": "mandarin",
+      "text": "国庆期间，象山景区在爱情岛上打造了音乐发放揭牌运营，",
+      "score": 0.1793,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2505,
+        "acoustic_dev": 0.198,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "国庆期间，香山景区在爱情岛上打造的音乐发放节拍运营。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.998,
+      "end": 63.815,
+      "label": "mandarin",
+      "text": "探索文旅翻新升级，又添新产品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0119,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "探索文旅翻新升级，又添新产品。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.2,
+      "end": 68.341,
+      "label": "mandarin",
+      "text": "构建独特的景区加音乐文化社交空间，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0191,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "构建独特的景区加音乐文化社交空间。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 68.441,
+      "end": 75.041,
+      "label": "mandarin",
+      "text": "赋予象山这个地标性的景区更多现代的文化和艺术内涵。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赋予象山这个地标性的景区更多现代的文化和艺术内涵。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 75.172,
+      "end": 78.819,
+      "label": "uncertain",
+      "text": "一年来，我市文旅新业态新说法层出不穷，",
+      "score": 0.4829,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3572,
+        "acoustic_dev": 0.364,
+        "seg_cer": 0.471,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.375,
+        "phon_examples": "新/行 新/行 年/连",
+        "lexicon": "耍",
+        "text_free": "一连来，我是问旅行，夜探行耍法层出不穷。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 79.054,
+      "end": 81.874,
+      "label": "uncertain",
+      "text": "新形象新理念持续彰显。",
+      "score": 0.4692,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4671,
+        "acoustic_dev": 0.534,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "持/此",
+        "lexicon": "",
+        "text_free": "新形象，新理念，此数彰显。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 82.108,
+      "end": 87.544,
+      "label": "guilin",
+      "text": "在阳朔县，祥云AS七百载鹰飞行联飞进桂林，",
+      "score": 0.717,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7676,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "联/年",
+        "lexicon": "",
+        "text_free": "在阳朔县，强云AS七百载运飞艇，今年飞进桂林。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 87.805,
+      "end": 90.204,
+      "label": "mandarin",
+      "text": "正式进驻桂林低空旅游市场，",
+      "score": 0.2871,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3842,
+        "acoustic_dev": 0.406,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "正式进驻桂林第一空旅游市场。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 90.432,
+      "end": 95.267,
+      "label": "mandarin",
+      "text": "将完善桂林低空旅游业态，助推旅游业多元化发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0071,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将完善桂林低空旅游业态，助推旅游业多元化发展。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 95.267,
+      "end": 99.899,
+      "label": "mandarin",
+      "text": "投入到桂林阳朔低空观光和体验飞行市场中，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "投入到桂林阳朔低空观光和体验飞行市场中。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 100.033,
+      "end": 103.56,
+      "label": "mandarin",
+      "text": "开发阳朔低空旅游新业态，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0651,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "开发，阳朔低空旅游新业态。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 104.28,
+      "end": 108.068,
+      "label": "mandarin",
+      "text": "为发展桂林低空旅游产业，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0146,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为发展桂林低空旅游产业。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 108.108,
+      "end": 111.413,
+      "label": "mandarin",
+      "text": "为打造世界旅游城市贡献自己的力量。",
+      "score": 0.0765,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1821,
+        "acoustic_dev": 0.092,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为打造世界旅游城市，贡献自己力量。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 111.48,
+      "end": 115.066,
+      "label": "mandarin",
+      "text": "持续做好文旅加文章，激发消费新活力。",
+      "score": 0.1957,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0141,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.438,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "持/次",
+        "lexicon": "",
+        "text_free": "次数走好，问旅家问账，激发消费新活力。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 115.275,
+      "end": 127.973,
+      "label": "mandarin",
+      "text": "我市不断推动文旅新质生产力，可建可用可琢磨，扩展湘江突破包围精品线路入选全国建党百年红色旅游百条旅游精品线路。",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是不断推动文旅新质生产力，可建、可用、可租摩。薛展翔将突破保卫精品线路，入选全国建党百年红色旅游百条旅游精品线路。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 128.307,
+      "end": 131.174,
+      "label": "uncertain",
+      "text": "桂林艺术节全程共享全民联动，",
+      "score": 0.3929,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.61,
+        "acoustic_dev": 0.756,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林艺术节全程共享，全民联动。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 131.396,
+      "end": 134.48,
+      "label": "mandarin",
+      "text": "展现国际化年轻态城市形象。",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0884,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "展现国际法年轻态、城市形象。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 134.962,
+      "end": 138.19,
+      "label": "guilin",
+      "text": "桂林景点平台建设取得突破性进展，",
+      "score": 0.7044,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7078,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "平/品",
+        "lexicon": "",
+        "text_free": "桂林经典品牌建设取得突破性进展。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 138.36,
+      "end": 142.619,
+      "label": "mandarin",
+      "text": "大力推动漓江遇龙河创建世界级旅游景区，",
+      "score": 0.0748,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1525,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大力推动丽江玉龙河创建世界级旅游景区。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 142.868,
+      "end": 147.439,
+      "label": "uncertain",
+      "text": "灵渠龙脊梯田景区创建国家五A级旅游景区，",
+      "score": 0.55,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6788,
+        "acoustic_dev": 0.862,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "另去龙脊梯田景区创建国家世界级旅游景区。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 147.768,
+      "end": 151.716,
+      "label": "mandarin",
+      "text": "安山旅游度假区成功创建国家级旅游度假区。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0957,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "鞍山旅游度假区成功创建国家级旅游度假区。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 152.129,
+      "end": 154.743,
+      "label": "mandarin",
+      "text": "在完善现代旅游业体系方面，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在完善现代旅游业体系方面。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 154.934,
+      "end": 157.311,
+      "label": "guilin",
+      "text": "我市大力培育休闲度假、",
+      "score": 0.5657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.268,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是大力培育休闲度假。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 157.311,
+      "end": 162.23,
+      "label": "mandarin",
+      "text": "康养、医美、电竞、时尚设计等新业态新模式。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "康养、医美、电竞、时尚设计等新业态新模式。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 162.564,
+      "end": 165.844,
+      "label": "mandarin",
+      "text": "桂林国际会展中心新馆顺利建成启用，",
+      "score": 0.1875,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.178,
+        "acoustic_dev": 0.086,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林国际飞机场重新行馆，顺利建成启用。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 166.213,
+      "end": 169.703,
+      "label": "guilin",
+      "text": "青兰山水美学度假酒店开业运营，",
+      "score": 0.5588,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7347,
+        "acoustic_dev": 0.949,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "晴岚山水美学度假酒店开业运营。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 170.06,
+      "end": 175.471,
+      "label": "mandarin",
+      "text": "古宋城文化休闲街区等一批文旅重大项目加快建设。",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0311,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "古宋城文化休闲景区等一批文旅重大项目加快建设。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 175.731,
+      "end": 180.963,
+      "label": "guilin",
+      "text": "遇龙河休闲体育旅游度假区、和平国家体育旅游示范基地，",
+      "score": 0.5771,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3625,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "玉龙河休闲体育旅游度假区获评国家体育旅游示范基地。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 181.319,
+      "end": 185.442,
+      "label": "mandarin",
+      "text": "我市先后获评国家级文化和旅游消费试点城市、",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是先后获评国家级文化和旅游消费试点城市。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 185.668,
+      "end": 192.404,
+      "label": "uncertain",
+      "text": "广西全域旅游示范市、全市十二个县市区和广西全域旅游示范区、",
+      "score": 0.4215,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4984,
+        "acoustic_dev": 0.583,
+        "seg_cer": 0.259,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广西全鱼旅游示范区，全市是我国县市区或广西全鱼旅游示范区。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 192.639,
+      "end": 195.087,
+      "label": "mandarin",
+      "text": "广西特色旅游名县称号，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0257,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广西特色旅游名县称号。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 195.393,
+      "end": 200.353,
+      "label": "mandarin",
+      "text": "入选国家级夜间文化和旅游消费集聚区三家。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "入选国家级夜间文化或旅游消费集聚区三家。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 200.53,
+      "end": 205.21,
+      "label": "mandarin",
+      "text": "吸引越来越多慕名而来的游客，将在千峰繁叶里、",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0472,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引越来越多慕名而来的游客，将在千峰梵野里。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 205.21,
+      "end": 207.743,
+      "label": "mandarin",
+      "text": "一水抱城流的诗情画意当中，",
+      "score": 0.2887,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.339,
+        "acoustic_dev": 0.335,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一水抱城流的事情，翻译当中。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 207.913,
+      "end": 210.647,
+      "label": "mandarin",
+      "text": "领略桂林本土文化的无穷魅力。",
+      "score": 0.0752,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0096,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "领略桂林本土文化嘞无穷魅力。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 211.052,
+      "end": 214.889,
+      "label": "mandarin",
+      "text": "上半年，全市接待游客七千八百零四万人次，",
+      "score": 0.0129,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1386,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "上半年全市接待游客七千八百零四万人次。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 215.137,
+      "end": 217.494,
+      "label": "guilin",
+      "text": "同比增长百分之十点五八，",
+      "score": 0.6616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.0107,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "同比增长百分之四点五八。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 217.768,
+      "end": 221.054,
+      "label": "mandarin",
+      "text": "实现旅游总收入九百四十七个亿，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现旅游总收入九百四十七个亿。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 221.28,
+      "end": 223.851,
+      "label": "mandarin",
+      "text": "同比增长百分之十二点二一。",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0129,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同比增长百分之十二点二亿。"
+      }
+    }
+  ]
+}

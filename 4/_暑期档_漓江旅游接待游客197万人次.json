@@ -1,0 +1,1491 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_暑期档_漓江旅游接待游客197万人次.wav",
+  "duration": 324.155,
+  "no_dialect": false,
+  "created_at": "2026-10-26T14:09:22",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.419,
+      "label": "mandarin",
+      "text": "今天我们继续盘点下我们的暑期旅游。",
+      "score": 0.1092,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2125,
+        "acoustic_dev": 0.1,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们继续盘点一下我们的初期旅游。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.763,
+      "end": 8.295,
+      "label": "mandarin",
+      "text": "丽江景区作为第一批正式发布的桂林经典品牌，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0162,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丽江景区作为第一批正式发布的桂林经典品牌。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.295,
+      "end": 14.287,
+      "label": "mandarin",
+      "text": "抓住机遇转型升级，让丽江旅游增添诸多新亮点与活力。",
+      "score": 0.142,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0673,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "型/新",
+        "lexicon": "",
+        "text_free": "抓住机遇，追新求变，让丽江旅游增添诸多新亮点与活力。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.683,
+      "end": 21.5,
+      "label": "mandarin",
+      "text": "七到八月的暑假期间，丽江游船和排筏接待游客一百九十七万人次，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0072,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "七到八月的暑假期间，丽江游船和派发接待游客一百九十七万人次。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.707,
+      "end": 26.62,
+      "label": "uncertain",
+      "text": "其中丽江精华段游览的热度那是持续攀升了。",
+      "score": 0.4864,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8435,
+        "acoustic_dev": 0.658,
+        "seg_cer": 0.316,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中，丽江景发段游览的夜度，那是奇树攀升呐。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.977,
+      "end": 30.5,
+      "label": "mandarin",
+      "text": "八月份以来都是接近满负荷运营状态，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "八月份以来，都是接近满负荷运营状态。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.546,
+      "end": 34.689,
+      "label": "mandarin",
+      "text": "单日最高接待游客达到了一点二八万人次。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0255,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但以最高接待游客达到了一点二八万人次。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.188,
+      "end": 38.658,
+      "label": "guilin",
+      "text": "暑期累计接待游客六十一万人次，",
+      "score": 0.5527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6371,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "初期累计接待游客六十一万人次。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.658,
+      "end": 41.72,
+      "label": "mandarin",
+      "text": "同比增长大概百分之十九点三",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0273,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同比增长大概百分之十九点三。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 45.034,
+      "end": 53.825,
+      "label": "guilin",
+      "text": "二。景游暑期尾声，在木盘山码头、珠江码头，一眼游人如织，",
+      "score": 0.658,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0741,
+        "acoustic_dev": 0.862,
+        "seg_cer": 0.478,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "织/渍 景/进",
+        "lexicon": "",
+        "text_free": "进入初期，卫生在磨盘山码头、珠江码头一眼油印油渍。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 54.155,
+      "end": 57.611,
+      "label": "mandarin",
+      "text": "来自全市各地的游客纷至沓来，",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自全世界各地的游客纷至沓来。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 57.634,
+      "end": 62.88,
+      "label": "mandarin",
+      "text": "一艘艘游船满载游客，准备开启游客们心驰神往的旅程。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一艘艘游船满载游客，准备开启游客们心驰神往的旅程。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 63.27,
+      "end": 69.136,
+      "label": "mandarin",
+      "text": "暑假期间，丽江风景名胜区重点打造的亲子游、规划游、溜山界游、",
+      "score": 0.0547,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1035,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "暑假期间，丽江风景名胜区重点打造的亲子游、规划游、游山解忧。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 69.257,
+      "end": 72.858,
+      "label": "mandarin",
+      "text": "游船文化游等特色游船异常火爆，",
+      "score": 0.3759,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5691,
+        "acoustic_dev": 0.415,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "油茶文化油灯特色油船，异常火爆。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 73.094,
+      "end": 77.45,
+      "label": "uncertain",
+      "text": "多元体验成新宠。围绕文化运景要求，",
+      "score": 0.5191,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9636,
+        "acoustic_dev": 0.764,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多元体联成新村，围绕文化云经要求。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 77.621,
+      "end": 84.033,
+      "label": "mandarin",
+      "text": "以沉浸式旅游为理念，从文心亲子时光到山水茶文化探索，",
+      "score": 0.3624,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3801,
+        "acoustic_dev": 0.248,
+        "seg_cer": 0.292,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.429,
+        "phon_examples": "水/邃 浸/经 沉/曾",
+        "lexicon": "",
+        "text_free": "以曾经是旅游为理念，从温馨亲子时光到深邃茶文化探索。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 84.244,
+      "end": 89.017,
+      "label": "guilin",
+      "text": "从景秀规划飘香到经典溜山界文化演绎，",
+      "score": 0.7514,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.6346,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.412,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "山/三 景/金",
+        "lexicon": "",
+        "text_free": "从金秋桂花飘香到经典《刘三姐》文化演绎。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 89.319,
+      "end": 91.583,
+      "label": "guilin",
+      "text": "以及长山歌抛绣球、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8888,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以及《长衫锅泡绣球》。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 91.583,
+      "end": 95.155,
+      "label": "mandarin",
+      "text": "互动打卡等主题活动，点燃游客热情。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0404,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "互动打卡等主题活动，点燃游客热情。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 95.172,
+      "end": 100.907,
+      "label": "mandarin",
+      "text": "每一款主题游船都以其独特的魅力和丰富的文化内涵，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0134,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每一款主题游船都以其独特的魅力和丰富的文化内涵。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 100.907,
+      "end": 105.204,
+      "label": "guilin",
+      "text": "吸引流量广泛。规划是桂林的规划是吧？",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.1882,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.688,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "量/连 引/颖",
+        "lexicon": "",
+        "text_free": "杨颖六连王妃，桂花是桂林的市花，是吧？啊。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 105.204,
+      "end": 108.954,
+      "label": "guilin",
+      "text": "啊，然后我们坐船，然后我们这个坐这个船还是规划好，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.414,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.409,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后还特别巧。然后我们这个坐的这个船还是桂花号。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 109.148,
+      "end": 114.259,
+      "label": "mandarin",
+      "text": "然后还挺，之后还反正也特别的好，然后还挺有氛围的。",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0213,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后还挺进来之后，还环境也特别的好，然后还挺有氛围的。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 114.259,
+      "end": 116.501,
+      "label": "mandarin",
+      "text": "第一次来这边旅游，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第一次来这边旅游。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 116.501,
+      "end": 120.056,
+      "label": "mandarin",
+      "text": "感觉桂林的山水都比较很美。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感觉桂林的山水都比较很美。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 120.111,
+      "end": 123.123,
+      "label": "mandarin",
+      "text": "然后像这样的游船，我们是第一次坐。",
+      "score": 0.1219,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0861,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后，像这样的油厂，我们也是第一次做。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 123.151,
+      "end": 125.786,
+      "label": "guilin",
+      "text": "其实在其他地方我们也坐过，",
+      "score": 0.6005,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1573,
+        "acoustic_dev": 0.935,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其实在其他地方啊，我们也做过啊。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 125.786,
+      "end": 131.416,
+      "label": "mandarin",
+      "text": "感觉这边的游玩啊、设施啊，还有服务啊，反正都很好，",
+      "score": 0.1435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0145,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "玩/网",
+        "lexicon": "",
+        "text_free": "感觉这边的，有网啊，设施啊，还有服务啊，反正都很好。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 131.416,
+      "end": 137.654,
+      "label": "guilin",
+      "text": "比较周到，反正很满意。还有这个游船是我最喜欢，哈哈哈哈哈，味道很好，哈哈哈哈哈。",
+      "score": 0.588,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0305,
+        "acoustic_dev": 0.823,
+        "seg_cer": 0.412,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比较多的，反正很满意。还有这个油茶，是我最喜欢喝的，味道很好。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 138.17,
+      "end": 142.19,
+      "label": "mandarin",
+      "text": "今年以来，丽江风景名胜区坚持守正创新，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0141,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年以来，丽江风景名胜区坚持守正创新。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 142.478,
+      "end": 145.543,
+      "label": "mandarin",
+      "text": "在延续三星级、中高端四星级、",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0476,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "再严肃，三星级，中高端四星级。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 145.543,
+      "end": 147.95,
+      "label": "guilin",
+      "text": "高端及私营定制游船、",
+      "score": 0.7481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2143,
+        "acoustic_dev": 0.985,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "私/使",
+        "lexicon": "",
+        "text_free": "高端即使用定制游船。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 148.238,
+      "end": 152.598,
+      "label": "mandarin",
+      "text": "休闲清水排筏等多样化旅游产品的框架下，",
+      "score": 0.0814,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2211,
+        "acoustic_dev": 0.108,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "休闲、清水、排发等多样化旅游产品的框架下。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 152.782,
+      "end": 158.176,
+      "label": "mandarin",
+      "text": "深化旅游市场需求，推出风格各异的特色主题游船，",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "深挖旅游市场需求，推出风格各异的特色主题游船。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 158.587,
+      "end": 162.91,
+      "label": "guilin",
+      "text": "繁衍以新船类装饰和主题鲜明特色服务，",
+      "score": 0.7191,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1798,
+        "acoustic_dev": 0.955,
+        "seg_cer": 0.471,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "明/民 新/兴",
+        "lexicon": "",
+        "text_free": "翻研宜兴传统装饰和主题选民特色服务。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 163.128,
+      "end": 166.72,
+      "label": "mandarin",
+      "text": "聚焦游船配套，培育流量爆点，",
+      "score": 0.2312,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3536,
+        "acoustic_dev": 0.225,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "聚焦油菜配套，培育流量宝点。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 166.72,
+      "end": 174.94,
+      "label": "mandarin",
+      "text": "不仅是游客满意，也助推各游船经营企业持续提升丽江旅游服务的远而见水平。",
+      "score": 0.0554,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0215,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.121,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅是游客满意，也助推过游船经营企业，持续提升丽江旅游服务的软硬件水平。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 174.94,
+      "end": 178.677,
+      "label": "mandarin",
+      "text": "啊，因为在经营的每条船都有特色。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0118,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，因为在经营的每一条船都有特色。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 178.677,
+      "end": 181.415,
+      "label": "mandarin",
+      "text": "我们企业自己啊，组客以后啊，",
+      "score": 0.3739,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5295,
+        "acoustic_dev": 0.38,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "组/主",
+        "lexicon": "",
+        "text_free": "我们企业自己来主客以后啊。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 181.415,
+      "end": 186.01,
+      "label": "uncertain",
+      "text": "啊，灵活这个全呃，服务跟质量有啊，",
+      "score": 0.3987,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6187,
+        "acoustic_dev": 0.459,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它灵活，这个拳，呃，无物跟质量有呃。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 186.01,
+      "end": 188.407,
+      "label": "mandarin",
+      "text": "装修的质量又好，有嗯，",
+      "score": 0.0832,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2803,
+        "acoustic_dev": 0.16,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "装修的质量又好，有嗯。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 188.471,
+      "end": 191.823,
+      "label": "guilin",
+      "text": "获得了嗯很好的社会效益，",
+      "score": 0.5616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.5175,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "获得了啊，嗯，很好的社会效益。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 191.855,
+      "end": 196.274,
+      "label": "mandarin",
+      "text": "呃，经济效益。社会效益方面呢，就是说这个假期来",
+      "score": 0.1752,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.381,
+        "acoustic_dev": 0.249,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "和经济效益、社会效益方面呢？就是说，这个假期以来。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 196.356,
+      "end": 199.398,
+      "label": "mandarin",
+      "text": "啊，我们特色村每家村每天都在开班，",
+      "score": 0.2135,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2985,
+        "acoustic_dev": 0.176,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，我们特色角每一条角每天都在开班。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 199.398,
+      "end": 202.148,
+      "label": "mandarin",
+      "text": "而且开都是满的，游客反响很好，",
+      "score": 0.1696,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3153,
+        "acoustic_dev": 0.191,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而且客都是满的，旅客反响很好。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 202.307,
+      "end": 205.975,
+      "label": "mandarin",
+      "text": "经济效益很好。我们企业呢，现在自己组客以后，",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0501,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经济效益很好。我们企业呢，现在自己组开以后。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 206.072,
+      "end": 208.886,
+      "label": "mandarin",
+      "text": "他每天可以开班，出航率高了，",
+      "score": 0.293,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2693,
+        "acoustic_dev": 0.15,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "航/韩",
+        "lexicon": "",
+        "text_free": "他每天可以开班，去韩愈高啦。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 208.886,
+      "end": 213.767,
+      "label": "mandarin",
+      "text": "以后呢，我们呢又进企业了啊啊，在特色村上面还要特别下功夫，",
+      "score": 0.1699,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.18,
+        "acoustic_dev": 0.071,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "了/呢",
+        "lexicon": "",
+        "text_free": "以后呢，我们呢，油田企业呢啊啊，在特色泉上面，还要特别下功夫。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 214.011,
+      "end": 216.286,
+      "label": "mandarin",
+      "text": "还要把这个特色村经营的更好。",
+      "score": 0.1055,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0096,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还要把这个特写镜头经营的更好。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 216.286,
+      "end": 219.157,
+      "label": "guilin",
+      "text": "运营优化，精线多时之美。",
+      "score": 0.7405,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4697,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "精/尽",
+        "lexicon": "",
+        "text_free": "运营优化，尽显多式之美。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 219.419,
+      "end": 222.713,
+      "label": "mandarin",
+      "text": "丽江风景名胜区目前还响应游客要求，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0155,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丽江风景名胜区目前还响应游客要求。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 222.955,
+      "end": 227.122,
+      "label": "mandarin",
+      "text": "创新性启动三星级游船经营管理改革，",
+      "score": 0.0857,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创新型启动三星及油船经营管理改革。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 227.367,
+      "end": 230.052,
+      "label": "mandarin",
+      "text": "调整并优化游船运营时间，",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0168,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "调整并优化流程，运营时间。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 230.234,
+      "end": 233.494,
+      "label": "mandarin",
+      "text": "增设磨盘山至阳朔下午航班，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0216,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "增设磨盘山至阳朔下午航班。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 233.77,
+      "end": 236.027,
+      "label": "uncertain",
+      "text": "阳朔至阳堤返航，",
+      "score": 0.381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5802,
+        "acoustic_dev": 0.425,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "羊说：“指羊蹄返航。”"
+      }
+    },
+    {
+      "id": 56,
+      "start": 236.374,
+      "end": 241.19,
+      "label": "mandarin",
+      "text": "开通阳朔至福利上午至下午多个时间段航线，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0944,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "开通阳朔至福利上午至下午多个时间段航线。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 241.442,
+      "end": 245.177,
+      "label": "mandarin",
+      "text": "打造了全天候多选择的游览线路。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造了全天候多选择的游览线路。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 245.275,
+      "end": 250.425,
+      "label": "mandarin",
+      "text": "同时，根据实时游客流量动态调整发船频次，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0121,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，根据实时游客流量动态调整发船频次。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 250.702,
+      "end": 255.185,
+      "label": "mandarin",
+      "text": "确保资源的高效利用与游客体验的持续优化。",
+      "score": 0.226,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0951,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.316,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "持/次",
+        "lexicon": "嘞",
+        "text_free": "戳包资源嘞高效利用与游客体验嘞次数优化。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 255.516,
+      "end": 258.934,
+      "label": "guilin",
+      "text": "聚焦服务个性化、购票网络化、",
+      "score": 0.6053,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0848,
+        "acoustic_dev": 0.871,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "聚焦服务国行法、购票网络法。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 258.934,
+      "end": 262.524,
+      "label": "mandarin",
+      "text": "营销智能化等要素，以科技赋能旅游，",
+      "score": 0.1748,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "能/冷",
+        "lexicon": "",
+        "text_free": "营销、制冷法等要素，以科技赋能旅游。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 262.606,
+      "end": 267.591,
+      "label": "mandarin",
+      "text": "统一票务管理平台的线上应用与OTA平台对接，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "统一票务管理平台的线上应用与OTA平台对接。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 268.006,
+      "end": 270.606,
+      "label": "guilin",
+      "text": "拓宽智慧营销的渠道，",
+      "score": 0.5839,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9311,
+        "acoustic_dev": 0.735,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "智/自",
+        "lexicon": "",
+        "text_free": "拓宽自费营销的渠道。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 270.792,
+      "end": 274.646,
+      "label": "mandarin",
+      "text": "让丽江的美景主打更多潜在游客。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0423,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让丽江的美景，主打更多潜在游客。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 274.804,
+      "end": 279.162,
+      "label": "mandarin",
+      "text": "暑假期间，丽江风景名胜区主动顺应暑期",
+      "score": 0.1827,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1487,
+        "acoustic_dev": 0.044,
+        "seg_cer": 0.529,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "许家几间，丽江风景明星区主动寻影许吉。"
+      }
+    },
+    {
+      "id": 66,
+      "start": 279.356,
+      "end": 283.003,
+      "label": "mandarin",
+      "text": "文旅市场消费特点和游客互动体验式需求，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0086,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文旅市场消费特点和游客互动体验式需求。"
+      }
+    },
+    {
+      "id": 67,
+      "start": 283.242,
+      "end": 286.026,
+      "label": "mandarin",
+      "text": "创新三星级游船经营管理改革，",
+      "score": 0.0749,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1092,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创新三星级油泉经营管理改革。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 286.332,
+      "end": 289.673,
+      "label": "mandarin",
+      "text": "打造了全天候多选择的游览线路，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0293,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造了全天候多选择的游览线路。"
+      }
+    },
+    {
+      "id": 69,
+      "start": 289.752,
+      "end": 292.37,
+      "label": "guilin",
+      "text": "让游客体验到互动时间段，",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2692,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让游客体验到不同时间段。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 292.37,
+      "end": 296.546,
+      "label": "mandarin",
+      "text": "有丽江的独特魅力，感受丽江的山水之美、",
+      "score": 0.1854,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3271,
+        "acoustic_dev": 0.201,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有漓江的独特的魅力，感受漓江的山水之美。"
+      }
+    },
+    {
+      "id": 71,
+      "start": 296.546,
+      "end": 299.105,
+      "label": "mandarin",
+      "text": "龙凤之美、生态之美。下一步，",
+      "score": 0.3243,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8049,
+        "acoustic_dev": 0.624,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙凤之美，生态之美。下一步。"
+      }
+    },
+    {
+      "id": 72,
+      "start": 299.107,
+      "end": 302.537,
+      "label": "mandarin",
+      "text": "我们将紧紧围绕党的二十届三中全会精神，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们将紧紧围绕党的二十届三中全会精神。"
+      }
+    },
+    {
+      "id": 73,
+      "start": 302.627,
+      "end": 305.395,
+      "label": "mandarin",
+      "text": "主动融入文旅深度融合，",
+      "score": 0.0135,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1287,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主动融入文旅深度融合。"
+      }
+    },
+    {
+      "id": 74,
+      "start": 305.395,
+      "end": 308.668,
+      "label": "mandarin",
+      "text": "发展星级生产力，以游客为中心，",
+      "score": 0.1539,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2045,
+        "acoustic_dev": 0.093,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发展星级商店，以游客为中心。"
+      }
+    },
+    {
+      "id": 75,
+      "start": 308.787,
+      "end": 313.922,
+      "label": "mandarin",
+      "text": "继续在旅游新产品、新、IP新体验等方面大胆创新，",
+      "score": 0.102,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3213,
+        "acoustic_dev": 0.196,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "继续在旅游新产品、新IP、新体验等方面大胆创新。"
+      }
+    },
+    {
+      "id": 76,
+      "start": 314.067,
+      "end": 316.799,
+      "label": "mandarin",
+      "text": "培育丰富的丽江旅游新业态。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "培育丰富的丽江旅游新业态。"
+      }
+    },
+    {
+      "id": 77,
+      "start": 317.037,
+      "end": 321.139,
+      "label": "mandarin",
+      "text": "提升丽江山水旅游格调品位和旅游品质，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0227,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提升丽江山水旅游格调品位和旅游品质。"
+      }
+    },
+    {
+      "id": 78,
+      "start": 321.139,
+      "end": 324.155,
+      "label": "mandarin",
+      "text": "全力推动丽江旅游向高质量发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全力推动丽江旅游向高质量发展。"
+      }
+    }
+  ]
+}

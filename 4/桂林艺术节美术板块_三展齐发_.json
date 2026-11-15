@@ -1,0 +1,465 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林艺术节美术板块_三展齐发_.wav",
+  "duration": 115.622,
+  "no_dialect": false,
+  "created_at": "2026-10-26T16:25:34",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.8,
+      "label": "guilin",
+      "text": "在到二零二四桂林艺术节的开幕，戏剧、音乐、",
+      "score": 0.6673,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3041,
+        "acoustic_dev": 0.87,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "四/师",
+        "lexicon": "",
+        "text_free": "在到鄂灵鄂师桂林艺术节的开幕，戏剧。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.12,
+      "end": 8.811,
+      "label": "mandarin",
+      "text": "美术各板块的展演项目先后与广大市民见面。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0153,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "美术国板块的展演项目先后与广大市民见面。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.088,
+      "end": 12.205,
+      "label": "guilin",
+      "text": "其中，美术板块迎来三展齐发：《",
+      "score": 0.6962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.346,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "展/涨",
+        "lexicon": "",
+        "text_free": "其中，美术板块迎来三涨七发。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.506,
+      "end": 18.157,
+      "label": "guilin",
+      "text": "指尖》《笔腿》布拉格演出设计与空间四年展、中国国家展，",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4644,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "之间，Between布拉格演出设计与空间四年展，中国国家展。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.412,
+      "end": 21.601,
+      "label": "mandarin",
+      "text": "由中国舞台美术学会组织，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "由中国舞台美术学会组织。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.601,
+      "end": 24.391,
+      "label": "mandarin",
+      "text": "这是该展览的国内首展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这是该展览的国内首展。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.707,
+      "end": 30.358,
+      "label": "mandarin",
+      "text": "以《指尖》为主题，设置可公操作的互动图像装置，",
+      "score": 0.2118,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1273,
+        "acoustic_dev": 0.315,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以指尖为主体，设置可公操作的活动图像装置。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.501,
+      "end": 33.298,
+      "label": "mandarin",
+      "text": "呈现经典中国舞台设计案例。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呈现经典中国舞台设计案例。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.547,
+      "end": 38.074,
+      "label": "mandarin",
+      "text": "参观者可以体验舞台设计场景在动静之间的变化，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "参观者可以体验舞台设计场景在动静之间的变化。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 38.251,
+      "end": 43.123,
+      "label": "mandarin",
+      "text": "也可以翻阅案例文献、扫描二维码观看演出视频。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也可以翻阅案例文献，扫描二维码观看演出视频。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.645,
+      "end": 52.155,
+      "label": "mandarin",
+      "text": "布拉格演出设计与空间四年展是世界上规模最大、历史最久、代表性最强的舞美展览，",
+      "score": 0.0392,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0178,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.086,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "布拉格演出设计与空间系列展是世界上规模最大、历史最久、代表性最强的五美展览。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.354,
+      "end": 55.857,
+      "label": "mandarin",
+      "text": "素有“世界舞美奥林匹克”之称。",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "素有“世界五美奥林匹克”之称。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 56.163,
+      "end": 64.021,
+      "label": "mandarin",
+      "text": "由中央戏剧学院舞台美术系带来的中央戏剧学院舞台美术系组织的青年作品展，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "由中央戏剧学院舞台美术系带来的《中央戏剧学院舞台美术系》组织的青年作品展。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 64.021,
+      "end": 74.008,
+      "label": "mandarin",
+      "text": "同样为国内首展。参展作品从三大类八个专业方向的历年学校留长毕业生优秀作品当中精选，",
+      "score": 0.0184,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0312,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.026,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同样为国内首展，参展作品从三大类、八个专业方向的历年学校留校毕业生优秀作品当中精选。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 74.362,
+      "end": 77.064,
+      "label": "mandarin",
+      "text": "主要集中在舞台服装设计、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主要集中在舞台服装设计。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 77.064,
+      "end": 80.54,
+      "label": "uncertain",
+      "text": "舞台化妆设计、舞台灯光设计、",
+      "score": 0.4663,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3126,
+        "acoustic_dev": 0.897,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "舞台化妆设计，舞台灯光设计。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 80.54,
+      "end": 84.988,
+      "label": "mandarin",
+      "text": "演艺影像设计等专业的教学成果展示。",
+      "score": 0.2307,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1509,
+        "acoustic_dev": 0.389,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "演绎影像设计等专业的教学成果展示。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 85.212,
+      "end": 91.701,
+      "label": "guilin",
+      "text": "星火相传，漓江画派二十年第二代青年美术作品展同步开展。",
+      "score": 0.6614,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5714,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "星/薪",
+        "lexicon": "",
+        "text_free": "薪火相传。丽江发拍二十年第二届青年美术作品展，同步开展。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 92.036,
+      "end": 96.404,
+      "label": "mandarin",
+      "text": "成立二十年来，漓江画派始终保持旺盛的生命力，",
+      "score": 0.2842,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1452,
+        "acoustic_dev": 0.371,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成立二十年来，丽江花拍始终保持着旺盛的生命力。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 96.589,
+      "end": 101.35,
+      "label": "mandarin",
+      "text": "在广西、全国乃至是东盟国家都有着深远的影响。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0146,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在广西，全国乃至是东盟国家，都有着深远的影响。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 101.585,
+      "end": 105.626,
+      "label": "mandarin",
+      "text": "如今，漓江画派已经成为了广西美术的代名词，",
+      "score": 0.3283,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1987,
+        "acoustic_dev": 0.539,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如今，丽江发派已经成为了广西美术的代名词。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 105.905,
+      "end": 108.348,
+      "label": "mandarin",
+      "text": "是广西文化的品牌之一。",
+      "score": 0.1118,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0431,
+        "acoustic_dev": 0.05,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "是广西文化嘞品牌之一。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 108.623,
+      "end": 111.832,
+      "label": "guilin",
+      "text": "本次画展展出的作品一百幅左右，",
+      "score": 0.5832,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3442,
+        "acoustic_dev": 0.996,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本次发行展出的作品一百幅左右。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 112.013,
+      "end": 115.622,
+      "label": "mandarin",
+      "text": "三项展览将持续到十一月三号。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三项展览将持续到十一月三号。"
+      }
+    }
+  ]
+}

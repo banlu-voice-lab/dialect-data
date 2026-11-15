@@ -1,0 +1,636 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_桂林经典_引熊本朋友点赞  盼两市友谊进一步加深.wav",
+  "duration": 135.403,
+  "no_dialect": false,
+  "created_at": "2026-10-26T14:12:56",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.614,
+      "end": 6.617,
+      "label": "guilin",
+      "text": "前几天，日本熊本市市长伊长率访问团到访桂林，",
+      "score": 0.5529,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4941,
+        "acoustic_dev": 0.687,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "市/四",
+        "lexicon": "",
+        "text_free": "前几天，一本《熊本十四章》一章，随访问团到访五桂林。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.617,
+      "end": 9.763,
+      "label": "mandarin",
+      "text": "走进桂林山水，了解桂林景点。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0151,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走进桂林山水，了解桂林景点。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.547,
+      "end": 15.206,
+      "label": "mandarin",
+      "text": "根据了解，日本熊本市访问团一行抵达桂林以后，",
+      "score": 0.3028,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1587,
+        "acoustic_dev": 0.206,
+        "seg_cer": 0.35,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "市/四",
+        "lexicon": "",
+        "text_free": "根据了解，一帮凶猛四方门团一行抵达桂林以后。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.342,
+      "end": 18.416,
+      "label": "mandarin",
+      "text": "先后前往桂林博物馆、靖江王府、",
+      "score": 0.0812,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.124,
+        "acoustic_dev": 0.156,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "先后前往桂林博物馆、靖江王府。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.416,
+      "end": 23.524,
+      "label": "guilin",
+      "text": "陈飞象鼻山、广西师范大学漓江等地参观考察，",
+      "score": 0.6787,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7664,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "陈/乘",
+        "lexicon": "",
+        "text_free": "乘飞向碧山，广西师范大学、丽江等地参观考察。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.82,
+      "end": 29.371,
+      "label": "mandarin",
+      "text": "打卡桂林山水，进一步感受桂林在城市规划、自然保护、",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0061,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打卡桂林山水，进一步感受桂林在城市规划、资源保护。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.371,
+      "end": 32.163,
+      "label": "mandarin",
+      "text": "人文建设等方面的努力与发展。",
+      "score": 0.1147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1218,
+        "acoustic_dev": 0.153,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "英文建设等方面的努力与发展。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.618,
+      "end": 35.892,
+      "label": "mandarin",
+      "text": "在品尝了桂林米粉和宫城油茶后，",
+      "score": 0.0679,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0185,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在品尝了桂林米粉和工程油茶后。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.892,
+      "end": 39.288,
+      "label": "mandarin",
+      "text": "称赞不已，被桂林美食所吸引。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "称赞不已，被桂林美食所吸引。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.688,
+      "end": 44.179,
+      "label": "mandarin",
+      "text": "在得知桂林正在打造桂林经典城市品牌以后，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在得知桂林正在打造桂林经典城市品牌以后。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.399,
+      "end": 50.177,
+      "label": "mandarin",
+      "text": "他们表示非常认可。桂林以桂林经典作为宣传手段的做法，",
+      "score": 0.1395,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1255,
+        "acoustic_dev": 0.158,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他们表示非常认可桂林以桂林景点作为宣传手段的走法。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.335,
+      "end": 55.18,
+      "label": "mandarin",
+      "text": "也让他们在今后的城市推广方面有了好的启发。",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0114,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也让他们在今后的城市推广方面有了好大的启发。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 55.18,
+      "end": 60.214,
+      "label": "mandarin",
+      "text": "呃，我知道。通过美食和美景等等对外宣传，",
+      "score": 0.2299,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2152,
+        "acoustic_dev": 0.287,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，もちろん，通过美食和美景等等对外宣传。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 60.214,
+      "end": 62.666,
+      "label": "mandarin",
+      "text": "这是一个特别有效的手段。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这是一个特别有效的手段。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 62.666,
+      "end": 66.451,
+      "label": "mandarin",
+      "text": "大家可以通过公共的宣传手段了解桂林，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0088,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家可以通过公共的宣传手段了解桂林。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 66.499,
+      "end": 73.571,
+      "label": "mandarin",
+      "text": "从而产生兴趣。我回去以后也会跟我的家人、朋友宣传桂林米粉和油茶。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从而产生兴趣。我回去以后也会跟我的家人朋友宣传桂林米粉和油茶。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 74.106,
+      "end": 78.74,
+      "label": "mandarin",
+      "text": "今年是桂林与熊本结为友好城市的历史五周年。",
+      "score": 0.0884,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0417,
+        "acoustic_dev": 0.038,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年是桂林与雄本结为友好城市的四十五周年。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 79.07,
+      "end": 81.99,
+      "label": "mandarin",
+      "text": "两市缔结友好城市关系以来，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "两市缔结友好城市关系以来。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 82.186,
+      "end": 85.126,
+      "label": "uncertain",
+      "text": "为要多个领域积极开展交流合作，",
+      "score": 0.4246,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.497,
+        "acoustic_dev": 0.691,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "围绕多个领域积极开展交流合作。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 85.368,
+      "end": 87.805,
+      "label": "mandarin",
+      "text": "尤其是在青少年交流领域，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "尤其是在青少年交流领域。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.073,
+      "end": 90.474,
+      "label": "guilin",
+      "text": "至今已经互派青少年代表团，",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8402,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "年/联 互/复 至/资",
+        "lexicon": "",
+        "text_free": "资金已经复派，清朝联代表团。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 90.572,
+      "end": 93.53,
+      "label": "guilin",
+      "text": "互访三十七批八百余人次。",
+      "score": 0.7031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9448,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "互/复",
+        "lexicon": "",
+        "text_free": "复方三十七批，八百余人次。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 93.943,
+      "end": 98.554,
+      "label": "mandarin",
+      "text": "不仅是增进了年轻一代的相互理解、相互尊重，",
+      "score": 0.172,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0471,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "进/敬",
+        "lexicon": "",
+        "text_free": "不仅是尊敬了年轻一代的相互理解、相互尊重。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 98.837,
+      "end": 103.121,
+      "label": "mandarin",
+      "text": "也为两市的友好交流事业培养了一批接班人，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也为两市的友好交流事业培养了一批接班人。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 103.449,
+      "end": 107.681,
+      "label": "mandarin",
+      "text": "为今后两市的深入互动奠定了良好基础。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为今后两市的深入互动奠定了良好基础。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 107.681,
+      "end": 113.334,
+      "label": "guilin",
+      "text": "说啥是他妈的马赛克了？我们会以两市结好四十五周年为契机，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.63,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.423,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们会以两世结好四十五周年为契机。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 113.334,
+      "end": 117.051,
+      "label": "mandarin",
+      "text": "以后不仅在经济方面加强交流合作，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以后不仅在经济方面加强交流合作。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 117.051,
+      "end": 121.493,
+      "label": "mandarin",
+      "text": "还要做一些青少年的交流和民间的交流活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还要做一些青少年的交流和民间的交流活动。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 121.654,
+      "end": 124.356,
+      "label": "mandarin",
+      "text": "两地青少年相互学习沟通，",
+      "score": 0.0377,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0657,
+        "acoustic_dev": 0.073,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "两地青少年相互学习沟通。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 124.356,
+      "end": 126.816,
+      "label": "mandarin",
+      "text": "让我们之间的友谊走得更远，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让我们之间的友谊走得更远。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 126.964,
+      "end": 130.213,
+      "label": "mandarin",
+      "text": "为今后的五十周年、六十周年、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为今后的五十周年、六十周年。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 130.213,
+      "end": 132.699,
+      "label": "mandarin",
+      "text": "一百周年，双方共同努力，",
+      "score": 0.0033,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0195,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一百周年，双方共同努力。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 132.83,
+      "end": 135.403,
+      "label": "mandarin",
+      "text": "让两市的关系更加紧密。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让两市的关系更加紧密。"
+      }
+    }
+  ]
+}

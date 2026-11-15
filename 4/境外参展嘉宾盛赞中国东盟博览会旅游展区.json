@@ -1,0 +1,1092 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "境外参展嘉宾盛赞中国东盟博览会旅游展区.wav",
+  "duration": 268.123,
+  "no_dialect": false,
+  "created_at": "2026-10-26T14:54:24",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.148,
+      "end": 4.85,
+      "label": "mandarin",
+      "text": "自二零一五年举办首届中国东盟博览会旅游展以来，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自二零一五年举办首届中国东盟博览会旅游展以来。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.85,
+      "end": 19.179,
+      "label": "mandarin",
+      "text": "主办方或承办方一直是致力于把这个展会打造成为中国与东盟旅游合作交流的国际性知名展会和面向世界的区域性旅游合作平台。",
+      "score": 0.01,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.006,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.018,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主办方或承办方一直是致力于把这个展会打造成为中国与东盟旅游合作交流的国际性知名展会，或面向世界的区域性旅游合作平台。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 19.301,
+      "end": 23.904,
+      "label": "mandarin",
+      "text": "历经多年的发展，旅游展跨越山海之远，",
+      "score": 0.0046,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0088,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "历经多年的发展，旅游展跨越山海之远。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 23.904,
+      "end": 28.181,
+      "label": "guilin",
+      "text": "成为畅通中国与东盟各国文化交融、",
+      "score": 0.581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.6574,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为了畅通中国与东盟各国文化交流。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 28.181,
+      "end": 30.759,
+      "label": "mandarin",
+      "text": "旅游业合作的重要平台。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "旅游业合作的重要平台。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 30.91,
+      "end": 35.746,
+      "label": "mandarin",
+      "text": "本届旅游展区一共吸引了四十三个国家和地区参展，",
+      "score": 0.0117,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0159,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本届旅游展区一共吸引了四十三个国家和地区参展。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 35.968,
+      "end": 40.566,
+      "label": "mandarin",
+      "text": "在境外参展方面，亚洲有十九个国家和地区参展，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在境外参展方面，亚洲有十九个国家和地区参展。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 40.678,
+      "end": 43.855,
+      "label": "mandarin",
+      "text": "其中东盟十国全部参展。",
+      "score": 0.219,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0317,
+        "acoustic_dev": 0.053,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "其中，东盟四国全部参战。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 44.095,
+      "end": 52.426,
+      "label": "mandarin",
+      "text": "菲律宾驻副总领事馆、菲律宾国家旅游局旅游领事雷亚斯已经是第六次到桂林参展。",
+      "score": 0.0261,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.057,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "菲律宾驻福州总领事馆、菲律宾国家旅游局旅游领事雷亚斯已经是第六次到桂林参展。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 52.611,
+      "end": 57.629,
+      "label": "mandarin",
+      "text": "他认为，中国东盟博览会旅游展是一个很好的平台和纽带，",
+      "score": 0.0766,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0616,
+        "acoustic_dev": 0.111,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他因为中国东盟博览会旅游展是一个很好的平台和纽带。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 57.838,
+      "end": 63.109,
+      "label": "mandarin",
+      "text": "中国与东盟各国之间每年通过这个平台进行资源互换，",
+      "score": 0.0105,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0147,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中国与东盟各国之间，每年通过这个平台进行资源互换。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 63.337,
+      "end": 66.146,
+      "label": "mandarin",
+      "text": "不仅加强了彼此之间的文化交流，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅加强了彼此之间的文化交流。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 66.27,
+      "end": 68.92,
+      "label": "mandarin",
+      "text": "也加深了各国之间的友谊。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也加深了各国之间的友谊。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 69.01,
+      "end": 71.612,
+      "label": "mandarin",
+      "text": "每一年参加中国东盟旅游展，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每一年参加中国东盟旅游展。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 71.68,
+      "end": 77.892,
+      "label": "mandarin",
+      "text": "我们的收获都非常的多，因为每次广西桂林政府都花了很多的心思，",
+      "score": 0.0192,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.007,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们的收获都非常得多，因为每次广西桂林政府都花了很多的心思。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 77.892,
+      "end": 83.5,
+      "label": "mandarin",
+      "text": "给我们很多曝光的机会，把菲律宾最新的旅游产品带给大家，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给我们很多曝光的机会，把菲律宾最新的旅游产品带给大家。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 83.5,
+      "end": 86.78,
+      "label": "guilin",
+      "text": "同时展会也会吸引很多的国际买家，",
+      "score": 0.581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3042,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，展会也会请很多的国际买家。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 87.133,
+      "end": 93.614,
+      "label": "mandarin",
+      "text": "菲律宾的买家也有机会能够跟我们当地的旅行社和旅游供应商们进行交流。",
+      "score": 0.0345,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0102,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "菲律宾的买家也有机会能够跟中国当地的旅行社和旅游供应商们进行交流。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 93.912,
+      "end": 96.497,
+      "label": "mandarin",
+      "text": "明年是中泰建交五十周年，",
+      "score": 0.0854,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0894,
+        "acoustic_dev": 0.164,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "明年是中泰建交五十周年。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 96.497,
+      "end": 100.83,
+      "label": "mandarin",
+      "text": "两国关系发展和人民友好必将迎来新的高潮。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "两国关系发展或人民友好必将迎来新的高潮。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 100.918,
+      "end": 104.44,
+      "label": "guilin",
+      "text": "泰国国家旅游局昆明办事处处长邱维兴",
+      "score": 0.5655,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4147,
+        "acoustic_dev": 0.792,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "兴/新",
+        "lexicon": "",
+        "text_free": "泰国国家旅游局昆明办事处处长邱伟新。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 105.099,
+      "end": 111.117,
+      "label": "mandarin",
+      "text": "通过参加这一次展会，提前为明年的盛大活动进行一个铺垫。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过参加这一次展会，提前为明年的盛大活动进行一个铺垫。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 111.526,
+      "end": 115.215,
+      "label": "mandarin",
+      "text": "自从中泰两国有永久免签政策实施以来，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自从中泰两国有永久免签政策实施以来。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 115.421,
+      "end": 118.641,
+      "label": "mandarin",
+      "text": "促进了中泰两国游客的互相交流。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "促进了中泰两国游客的互相交流。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 118.884,
+      "end": 121.188,
+      "label": "mandarin",
+      "text": "我们也希望通过这一次的活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们也希望通过这一次的活动。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 121.246,
+      "end": 124.441,
+      "label": "mandarin",
+      "text": "能够更多的向桂林的游客推广",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能够更多的向桂林的游客推广。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 124.648,
+      "end": 127.581,
+      "label": "mandarin",
+      "text": "宣传泰国的旅游资源。另外，",
+      "score": 0.0505,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0546,
+        "acoustic_dev": 0.097,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宣传泰国的旅游资源。另外。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 127.581,
+      "end": 133.02,
+      "label": "guilin",
+      "text": "每年不管是哪个国家的政府单位或是旅游机构也好，",
+      "score": 0.5808,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1048,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "哪个",
+        "text_free": "每一年，不管是哪个国家的政府单位，或是旅游机构也好。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 133.02,
+      "end": 135.86,
+      "label": "mandarin",
+      "text": "都会有不同的政策上的更新，",
+      "score": 0.0006,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "都会有不同的政策上的更新。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 135.967,
+      "end": 142.455,
+      "label": "mandarin",
+      "text": "所以我们也借此渠道来给桂林的游客朋友们知道我们更多的信息。",
+      "score": 0.0065,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0107,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以我们也借此渠道来给桂林的游客朋友们，知道我们更多的信息。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 142.455,
+      "end": 145.143,
+      "label": "mandarin",
+      "text": "二零二四年是老挝旅游年，",
+      "score": 0.0046,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0088,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二四年是老挝旅游年。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 145.143,
+      "end": 151.118,
+      "label": "mandarin",
+      "text": "老挝将通过担任东盟峰会主席国，主办二零二四年东盟旅游论坛，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老挝将通过担任东盟峰会主席国，主办二零二四年东盟旅游论坛。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 151.318,
+      "end": 154.091,
+      "label": "mandarin",
+      "text": "积极参加桂林旅游展区等活动，",
+      "score": 0.0024,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "积极参加桂林旅游展区等活动。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 154.236,
+      "end": 158.635,
+      "label": "mandarin",
+      "text": "吸引更多中国游客前往老挝观光游览。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引更多中国游客前往老挝观光游览。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 158.635,
+      "end": 160.867,
+      "label": "guilin",
+      "text": "我们每年我们都能感受到，",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.862,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们每一年，我们都能够感受到。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 161.075,
+      "end": 163.924,
+      "label": "guilin",
+      "text": "嗯，桂林的热情。通过这个展会，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6846,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，桂林的热情，中国这个展会。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 164.155,
+      "end": 172.994,
+      "label": "mandarin",
+      "text": "嗯，跟中国的这个旅游机构和相关的呃这个呃单位有了很深切的交流和沟通，同时通过这个平台呢，",
+      "score": 0.0331,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.015,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.049,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，跟中国的这个旅游机构和相关的呃这个呃单位有了很深切的交流和沟通，也同时通过这个平台呢。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 173.16,
+      "end": 179.93,
+      "label": "mandarin",
+      "text": "与东盟各国以及参与呃这个展会的各国的旅游机构有了更深入的交流和沟通。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "与东盟各国以及来参与呃这个展会的各国的旅游机构有了更深入的交流和互动。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 180.128,
+      "end": 183.271,
+      "label": "mandarin",
+      "text": "本届旅游展区在全球文旅业、",
+      "score": 0.0832,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0492,
+        "acoustic_dev": 0.087,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本该旅游展区在全球文旅业。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 183.271,
+      "end": 186.184,
+      "label": "uncertain",
+      "text": "会展业。都引发了积极反响。",
+      "score": 0.4511,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3711,
+        "acoustic_dev": 0.708,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非产业都引发了积极反响。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 186.483,
+      "end": 196.63,
+      "label": "mandarin",
+      "text": "一些东盟以外的其他亚洲国家以及欧洲、美洲、非洲等世界各国的旅游官方机构和企业也前来参展。",
+      "score": 0.0223,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.049,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一些东盟以外的其他亚洲国家，以及欧洲、美洲、非洲等世界各地的旅游官方机构或企业也前来参展。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 196.63,
+      "end": 203.278,
+      "label": "mandarin",
+      "text": "乌兹别克斯坦驻广州总领事馆代总领事巴赫迪约尔米尔扎也表示，",
+      "score": 0.0443,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0158,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "乌兹别克斯坦驻广州总领事馆代总领事巴赫蒂约尔米尔扎耶表示。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 203.494,
+      "end": 209.567,
+      "label": "mandarin",
+      "text": "希望今后能跟广西以及桂林之间开展更加切实的合作与交流。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "希望今后能跟广西以及桂林之间开展更加切实的合作与交流。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 209.567,
+      "end": 213.928,
+      "label": "mandarin",
+      "text": "我了解到，习近平总书记二零二一年来到广西的时候，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我了解到，习近平总书记二零二一年来到广西的时候。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 214.091,
+      "end": 217.18,
+      "label": "mandarin",
+      "text": "他选择了桂林作为他第一站的参观点，",
+      "score": 0.0006,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他选择了桂林作为他第一站的参观点。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 217.55,
+      "end": 221.941,
+      "label": "mandarin",
+      "text": "这也证明了中国政府对于桂林市的发展是非常重视的，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这也证明了中国政府对于桂林市的发展是非常重视的。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 222.49,
+      "end": 224.481,
+      "label": "mandarin",
+      "text": "特别是对于桂林旅游业的发展，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "特别是对于桂林旅游业的发展。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 224.84,
+      "end": 228.423,
+      "label": "mandarin",
+      "text": "还有其他一些行业的发展是非常重视的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有其他一些行业的发展是非常重视的。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 228.423,
+      "end": 232.805,
+      "label": "mandarin",
+      "text": "我们总领馆希望能够与桂林市开展更加切实、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们总领馆希望能够与桂林市开展更加切实。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 232.805,
+      "end": 237.09,
+      "label": "mandarin",
+      "text": "更加富有成效的一个合作，能够互相的进行宣传。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更加富有成效的一个合作，能够互相的进行宣传。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 237.551,
+      "end": 240.673,
+      "label": "mandarin",
+      "text": "日本熊本是桂林的国际友城，",
+      "score": 0.134,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0618,
+        "acoustic_dev": 0.111,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一本熊本是桂林的国际有城。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 240.673,
+      "end": 244.307,
+      "label": "mandarin",
+      "text": "多年来，熊本市一直积极参加旅游展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多年来，熊本市一直积极参加旅游展。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 244.307,
+      "end": 249.837,
+      "label": "mandarin",
+      "text": "我看到展位规模很大，有很多国家和地区的人都来参加了展会，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我看到展位规模很大，有很多国家和地区的人都来参加了展会。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 250.029,
+      "end": 256.095,
+      "label": "mandarin",
+      "text": "我受到很多启发。今年是熊本与桂林结为友好城市四十五周年，",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我受到很多启发。今年是雄本与桂林结为友好城市四十五周年。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 256.235,
+      "end": 260.081,
+      "label": "mandarin",
+      "text": "两市政府间和民间也都策划了很多交流活动。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "两市政府间和民间也都策划了很多交流活动。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 260.586,
+      "end": 264.258,
+      "label": "guilin",
+      "text": "作为熊本市在上海事务所的代表，",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4538,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为熊本市政府在上海事务所的代表。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 264.561,
+      "end": 268.123,
+      "label": "mandarin",
+      "text": "我会竭尽全力服务好两市的友好交流。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我会竭尽全力服务好两市的友好交流。"
+      }
+    }
+  ]
+}

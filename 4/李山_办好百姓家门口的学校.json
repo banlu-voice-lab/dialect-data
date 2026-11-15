@@ -1,0 +1,1035 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "李山_办好百姓家门口的学校.wav",
+  "duration": 225.313,
+  "no_dialect": false,
+  "created_at": "2026-10-26T15:55:28",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.813,
+      "end": 5.987,
+      "label": "mandarin",
+      "text": "好嘞，一起来关注一下桂林教师队伍的先进典型。",
+      "score": 0.119,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0488,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "好的，一起来关注一下我们桂林教师队伍的先进典型。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.31,
+      "end": 10.753,
+      "label": "mandarin",
+      "text": "桂林市第一中学党委书记李三二十多年来，",
+      "score": 0.1614,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0492,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "市/斯",
+        "lexicon": "",
+        "text_free": "格林斯第一中学党委书记李三二十多年来。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.753,
+      "end": 14.703,
+      "label": "uncertain",
+      "text": "秉持办好百姓家门口的学校的理念，",
+      "score": 0.5352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5695,
+        "acoustic_dev": 0.72,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "持/此",
+        "lexicon": "",
+        "text_free": "因此，办好百姓家门口的学校的理念。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.821,
+      "end": 17.793,
+      "label": "mandarin",
+      "text": "坚持从严治校、五育并举、",
+      "score": 0.256,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4002,
+        "acoustic_dev": 0.492,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坚持从严治校，五育并举。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.97,
+      "end": 21.512,
+      "label": "mandarin",
+      "text": "以生为本，通过融合发展教育教学，",
+      "score": 0.0189,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.061,
+        "acoustic_dev": 0.036,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以生为本，通过融合发展教育教学。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.661,
+      "end": 26.696,
+      "label": "mandarin",
+      "text": "一步一步实现自己教育教学的初心与使命。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一步一步实现自己教育教学的初心与使命。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.096,
+      "end": 31.839,
+      "label": "mandarin",
+      "text": "一九九一年，李三大学毕业，分配到桂林当老师，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一九九一年，李三大学毕业，分配到桂林当老师。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.024,
+      "end": 37.036,
+      "label": "mandarin",
+      "text": "先后在多个中学任教。不管在哪个学校、哪一个阶段，",
+      "score": 0.2073,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2422,
+        "acoustic_dev": 0.28,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "哪个",
+        "text_free": "先后在多个中学任教，不管在哪个学校，哪一国阶段。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.036,
+      "end": 40.366,
+      "label": "mandarin",
+      "text": "他坚守的教育教学初心都没变。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他坚守的教育教学初心都没变。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.885,
+      "end": 43.763,
+      "label": "mandarin",
+      "text": "在调到桂林市第一中学工作以来，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在调到桂林市第一中学工作以来。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.923,
+      "end": 46.757,
+      "label": "uncertain",
+      "text": "李三一直在思考、在探索、",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7784,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "李三一直在思考，在探索。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.086,
+      "end": 49.965,
+      "label": "mandarin",
+      "text": "努力把这一所老百姓眼里头的“",
+      "score": 0.0461,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1,
+        "acoustic_dev": 0.089,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "努力把这一所老百姓眼里头的。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 50.172,
+      "end": 54.416,
+      "label": "mandarin",
+      "text": "低”的学校，办成老百姓家门口的好学校。",
+      "score": 0.1901,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2243,
+        "acoustic_dev": 0.256,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "底学校办成老百姓家门口的好学校。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 54.416,
+      "end": 57.821,
+      "label": "mandarin",
+      "text": "一中这几年的这个成长来讲，发展来讲的话呢，",
+      "score": 0.2785,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3981,
+        "acoustic_dev": 0.489,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一中这几年的这个成长来讲呢，发展来讲的话呢。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 57.821,
+      "end": 61.917,
+      "label": "mandarin",
+      "text": "好像这几年发展的比较快一点，哎，一下子又成了示范性高中了，",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0226,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好像这几年发展的比较快一点，呃，一下子又成了示范性高中了。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.028,
+      "end": 64.685,
+      "label": "mandarin",
+      "text": "哎，一下初中的这个质量又提升起来了。",
+      "score": 0.0663,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.088,
+        "acoustic_dev": 0.073,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊！一下初中的这个质量又提升起来了。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 64.809,
+      "end": 67.417,
+      "label": "mandarin",
+      "text": "这几年，我们抓住了关键点，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这几年，我们抓住了关键点。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 67.821,
+      "end": 70.376,
+      "label": "mandarin",
+      "text": "一个就是示范性高中的这一个申报，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一个就是示范性高中的这一个申报。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 70.376,
+      "end": 74.148,
+      "label": "mandarin",
+      "text": "呃，在全校师生的共同努力上面，我们大家的基础比较好，",
+      "score": 0.0398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0291,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，在全校师生的共同努力上面，我们打下的基础比较好。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 74.297,
+      "end": 79.244,
+      "label": "mandarin",
+      "text": "所以呢一举拿下。啊，我们学校的老师们都很快就达成了一个共识，",
+      "score": 0.0507,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1065,
+        "acoustic_dev": 0.097,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以呢，一举拿下啊！我们学校的老师们都很快就达成了一个共识。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 79.566,
+      "end": 83.415,
+      "label": "mandarin",
+      "text": "就是只有教好学生，才能教好学生。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是，只有教好学生，才能教好学生。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 83.739,
+      "end": 90.142,
+      "label": "mandarin",
+      "text": "作为广西首批科技创新人才培养特色普通高中和课改样本学校，",
+      "score": 0.082,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0787,
+        "acoustic_dev": 0.06,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为广西首批科技创新人才培养特色普通高中或扩该样本学校。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 90.227,
+      "end": 97.989,
+      "label": "mandarin",
+      "text": "结合一中实际，李三与学校领导班子一起确立了学校优质加特色的发展目标，",
+      "score": 0.1571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0202,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "三/善 中/总",
+        "lexicon": "",
+        "text_free": "结合一总事迹，李善与学校领导班子一起确立了学校优质加特色的发展目标。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 98.326,
+      "end": 101.275,
+      "label": "mandarin",
+      "text": "提出了“严明治校、五育并举、",
+      "score": 0.0625,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0639,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提出了“严明治孝，五育并举”。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 101.317,
+      "end": 104.773,
+      "label": "guilin",
+      "text": "以生为本”和谐发展的办学理念，",
+      "score": 0.5552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8712,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以人为本，和谐发展的办学理念。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 105.084,
+      "end": 109.693,
+      "label": "mandarin",
+      "text": "并制定校本课程、开发与实施工作方案，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0112,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并制定校本课程，开发与实施工作方案。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 109.693,
+      "end": 113.916,
+      "label": "mandarin",
+      "text": "抓住科技创新人才培养和体教融合两个特色，",
+      "score": 0.0962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "抓住科技创新人才培养和提高用户两个特色。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 114.148,
+      "end": 118.094,
+      "label": "mandarin",
+      "text": "将党建与学校中心工作有机融合，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0259,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将党建与学校中心工作有机融合。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 118.094,
+      "end": 123.692,
+      "label": "mandarin",
+      "text": "优化管理，推动学校内涵发展和办学质量持续提升。",
+      "score": 0.0034,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0388,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "优化管理，推动学校内涵发展和办学质量持续提升。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 123.692,
+      "end": 128.238,
+      "label": "mandarin",
+      "text": "培养的学生最关键的一点就是要让他学会学习。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "培养的学生，最关键的一点就是要让他学会学习。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 128.682,
+      "end": 132.747,
+      "label": "mandarin",
+      "text": "有些孩子，特别是普通中学多数的孩子来讲，他的可能话呢，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0224,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有些孩子，特别是普通中学，多数的孩子来讲，他的可能话呢。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 132.869,
+      "end": 135.74,
+      "label": "mandarin",
+      "text": "他不懂为什么，他只问是什么。",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0153,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他不问为什么，他只问是什么。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 136.714,
+      "end": 139.728,
+      "label": "mandarin",
+      "text": "一个为什么，一个是什么，就是两种思维方式。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一个为什么，一个是什么，就是两种思维方式。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 139.962,
+      "end": 143.549,
+      "label": "mandarin",
+      "text": "我们在培养学生的时候，怎么样纠正他的这样的方式，",
+      "score": 0.2921,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3056,
+        "acoustic_dev": 0.365,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "么样",
+        "text_free": "我们在培养学的时候，怎么样纠正他的这样一种方式。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 143.65,
+      "end": 147.847,
+      "label": "mandarin",
+      "text": "让他形成一个探究学习的一种思维方式？",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让它形成一个探究学习的一种思维方式。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 147.847,
+      "end": 150.62,
+      "label": "guilin",
+      "text": "李三同志的话呢，他善于",
+      "score": 0.6287,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6597,
+        "acoustic_dev": 0.841,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "三/上",
+        "lexicon": "",
+        "text_free": "以上同志的话呢，他善于。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 151.059,
+      "end": 153.575,
+      "label": "guilin",
+      "text": "把方向、抓大局，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.6767,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把方向，重大局。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 154.549,
+      "end": 156.994,
+      "label": "uncertain",
+      "text": "善于沟通、讲原则、",
+      "score": 0.5194,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7772,
+        "acoustic_dev": 0.999,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "善于沟通，讲原则。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 157.071,
+      "end": 159.24,
+      "label": "guilin",
+      "text": "讲党性。呃，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8414,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "讲党性。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 159.367,
+      "end": 161.896,
+      "label": "mandarin",
+      "text": "把这一个党组织领导的",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把这个党组织领导的。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 162.25,
+      "end": 165.808,
+      "label": "mandarin",
+      "text": "校长负责制体制优势",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0061,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "校长负责制。体制优势。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 165.913,
+      "end": 169.019,
+      "label": "mandarin",
+      "text": "发挥到最佳的状态。作为校级领导，",
+      "score": 0.039,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0898,
+        "acoustic_dev": 0.075,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发挥到最佳的状态，作为校级领导。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 169.4,
+      "end": 174.41,
+      "label": "mandarin",
+      "text": "他善于精深立校，把教育强国",
+      "score": 0.0454,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0445,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他善于精神立校，把教育强国。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 174.419,
+      "end": 177.294,
+      "label": "mandarin",
+      "text": "与文化强校有机的结合，",
+      "score": 0.0124,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0518,
+        "acoustic_dev": 0.024,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "与文化强校有机的结合。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 177.571,
+      "end": 180.992,
+      "label": "guilin",
+      "text": "提出了从严治校、五育并举、",
+      "score": 0.6447,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1089,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提出了“从阴治孝，五欲并举”。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 181.63,
+      "end": 185.818,
+      "label": "mandarin",
+      "text": "以生为本。融合发展的教育教学理念。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以生为本。融合发展的教育教学理念。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 185.982,
+      "end": 189.827,
+      "label": "mandarin",
+      "text": "金秋开学，一中办学规模继续扩大，",
+      "score": 0.202,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1828,
+        "acoustic_dev": 0.2,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进秋开学，一中办学规模急速扩大。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 190.007,
+      "end": 195.456,
+      "label": "mandarin",
+      "text": "一批年轻教师也怀揣着激情与梦想走进一中校园。",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一批年轻教师也伴随着激情与梦想走进一中校园。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 195.81,
+      "end": 204.09,
+      "label": "mandarin",
+      "text": "在新教师入职培训中，李三把提高教师思想政治素质和职业道德水平摆在首要位置，",
+      "score": 0.1131,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.029,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "三/善",
+        "lexicon": "",
+        "text_free": "在新教师入职培训中，李善把提高教师思想政治素质和职业道德水平摆在首要位置。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 204.203,
+      "end": 207.725,
+      "label": "mandarin",
+      "text": "以办好百姓家门口的学校为目标，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以办好百姓家门口的学校为目标。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 207.897,
+      "end": 215.063,
+      "label": "mandarin",
+      "text": "激励党员教师，引导他们把初心使命落实到每项具体的教育教学任务上，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "激励党员教师，引导他们把初心使命落实到每项具体的教育教学任务上。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 215.289,
+      "end": 218.249,
+      "label": "mandarin",
+      "text": "体现到教育教学全过程，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0142,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "体现到教育教学全过程。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 218.523,
+      "end": 221.752,
+      "label": "guilin",
+      "text": "积极打造师德高尚、业务精湛、",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9738,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "积极打造，使得高尚业务精湛。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 221.752,
+      "end": 225.313,
+      "label": "mandarin",
+      "text": "结构合理、充满活力的教师队伍。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "结构合理、充满活力的教师队伍。"
+      }
+    }
+  ]
+}

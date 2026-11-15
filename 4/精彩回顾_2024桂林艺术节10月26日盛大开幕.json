@@ -1,0 +1,731 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "精彩回顾_2024桂林艺术节10月26日盛大开幕.wav",
+  "duration": 182.24,
+  "no_dialect": false,
+  "created_at": "2026-10-26T16:47:55",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.136,
+      "label": "mandarin",
+      "text": "今天我们的版路栏目啊，来和大家一起回顾一下二零二四桂林艺术节。",
+      "score": 0.0158,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们的八路栏目啊，来和大家一起回顾一下二零二四桂林艺术节。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.551,
+      "end": 12.219,
+      "label": "mandarin",
+      "text": "从十月二十六号开幕以后，二零二四桂林艺术节的各项展演活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0072,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从十月二十六号开幕以后，二零二四桂林艺术节的各项展演活动。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.219,
+      "end": 16.283,
+      "label": "mandarin",
+      "text": "让市民朋友们品尝了整整一周多的艺术大餐。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让市民朋友们品尝了整整一周多的艺术大餐。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.42,
+      "end": 25.377,
+      "label": "mandarin",
+      "text": "二十六号下午，二零二四桂林艺术节暨首届欧阳玉倩戏剧奖颁奖典礼在广西省立艺术馆举行。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0055,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二十六号下午，二零二四桂林艺术节暨首届欧阳予倩戏剧奖颁奖典礼在广西胜利艺术馆举行。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 25.707,
+      "end": 29.078,
+      "label": "mandarin",
+      "text": "今年是西南剧展举办八十周年，",
+      "score": 0.2531,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1363,
+        "acoustic_dev": 0.159,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "展/长",
+        "lexicon": "",
+        "text_free": "今年是西南局长举办八十周年。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 29.217,
+      "end": 32.769,
+      "label": "guilin",
+      "text": "本届艺术节以“辉煌玉倩”为主题，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7703,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本届艺术节以“废忘与前行”为主题。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 33.048,
+      "end": 37.362,
+      "label": "uncertain",
+      "text": "用新时代的艺术盛会向西南剧展致敬，",
+      "score": 0.4334,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3699,
+        "acoustic_dev": 0.494,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "展/长",
+        "lexicon": "",
+        "text_free": "用新时代的艺术生辉，向西南局长致敬。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.511,
+      "end": 40.24,
+      "label": "mandarin",
+      "text": "重现戏剧之城的辉煌。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "重现戏剧之城的辉煌。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 45.941,
+      "end": 53.099,
+      "label": "mandarin",
+      "text": "自治区党委常委、宣传部部长、桂林艺术节组委会名誉主任陈毅军出席开幕式，",
+      "score": 0.1343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.148,
+        "acoustic_dev": 0.176,
+        "seg_cer": 0.094,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自治区党委常委、宣传部部长、桂林艺术节组委会主任陈义军出席开幕式。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 53.3,
+      "end": 56.578,
+      "label": "mandarin",
+      "text": "并宣布二零二四桂林艺术节开幕。",
+      "score": 0.2455,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0282,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "林/灵 零/林",
+        "lexicon": "",
+        "text_free": "并宣布俄林俄斯鬼灵艺术节开幕。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 56.894,
+      "end": 60.46,
+      "label": "uncertain",
+      "text": "自治区人大常委会副主任、桂林市委书记、",
+      "score": 0.5427,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4895,
+        "acoustic_dev": 0.665,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "主/组",
+        "lexicon": "",
+        "text_free": "自治区永达常委、副组员、桂林市委书记。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 60.46,
+      "end": 64.038,
+      "label": "guilin",
+      "text": "桂林艺术节组委会名誉主任周江斌，",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4716,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.533,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "名/敏 组/朱",
+        "lexicon": "",
+        "text_free": "桂林艺术节，朱薇菲，敏于朱莹，周嘉斌。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 64.23,
+      "end": 68.398,
+      "label": "mandarin",
+      "text": "中央戏剧学院院长、桂林艺术节组委会主任、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中央戏剧学院院长、桂林艺术节组委会主任。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 68.496,
+      "end": 75.338,
+      "label": "guilin",
+      "text": "艺委会主席郝勇，国家戏剧家协会副终身干事陈忠文分别致辞，",
+      "score": 0.6009,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5717,
+        "acoustic_dev": 0.783,
+        "seg_cer": 0.346,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "忠/宗",
+        "lexicon": "",
+        "text_free": "易伟飞主席、好勇国际戏剧家协会副监事陈宗文分别致辞。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 75.563,
+      "end": 78.7,
+      "label": "mandarin",
+      "text": "希望桂林以举办艺术节为契机，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0218,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "希望桂林以举办艺术节为契机。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 78.7,
+      "end": 81.677,
+      "label": "mandarin",
+      "text": "让艺术之光在桂林熠熠生辉，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让艺术之光在桂林熠熠生辉。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 81.907,
+      "end": 86.547,
+      "label": "mandarin",
+      "text": "让戏剧艺术在新时代绽放更加绚丽的光芒。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让戏剧艺术在新时代绽放更加绚丽的光芒。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 86.674,
+      "end": 90.521,
+      "label": "mandarin",
+      "text": "在首届欧阳玉倩戏剧奖颁奖环节，",
+      "score": 0.358,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4183,
+        "acoustic_dev": 0.563,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在首届欧阳玉剑戏剧奖颁奖节。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 90.521,
+      "end": 96.373,
+      "label": "mandarin",
+      "text": "出席活动的嘉宾分别为最佳男女演员奖、最佳演出设计奖、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "出席活动的嘉宾分别为最佳男女演员奖、最佳演出设计奖。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 96.534,
+      "end": 100.954,
+      "label": "mandarin",
+      "text": "最佳编剧奖、最佳剧目奖获得者进行颁奖。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.588,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Z加B N局将Z加局母将获得者进行颁奖。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 101.285,
+      "end": 104.32,
+      "label": "mandarin",
+      "text": "随后上演的开幕大戏《戏剧春秋》，",
+      "score": 0.0564,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0538,
+        "acoustic_dev": 0.041,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前后上演的开幕大戏《戏剧春秋》。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 104.448,
+      "end": 109.293,
+      "label": "uncertain",
+      "text": "将西南剧展的落幕戏在原汁再现，",
+      "score": 0.518,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4989,
+        "acoustic_dev": 0.678,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "汁/子",
+        "lexicon": "",
+        "text_free": "将西南剧展的落幕戏在院子再现。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 109.647,
+      "end": 111.975,
+      "label": "mandarin",
+      "text": "让好戏永不落幕，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让好戏永不落幕。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 112.288,
+      "end": 118.184,
+      "label": "mandarin",
+      "text": "并向为中国抗战胜利作出重要贡献的戏剧界先贤致敬。",
+      "score": 0.1055,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0335,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并向为中国抗战胜利做出重要贡献的西局盖贤贤致敬。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 118.214,
+      "end": 124.988,
+      "label": "mandarin",
+      "text": "根据了解，二零二四桂林艺术节由自治区党委宣传部、自治区文化和旅游厅、",
+      "score": 0.159,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.129,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "四/市 零/林",
+        "lexicon": "",
+        "text_free": "根据了解，鄂林鄂市桂林艺术节由自治区党委宣传部、自治区文化和旅游厅。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 125.119,
+      "end": 129.239,
+      "label": "uncertain",
+      "text": "中共桂林市委、市委和桂林市人民政府、",
+      "score": 0.493,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5722,
+        "acoustic_dev": 0.783,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中共桂林市委员会或桂林市人民政府。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 129.239,
+      "end": 131.71,
+      "label": "mandarin",
+      "text": "中央戏剧学院联合主办，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中央戏剧学院联合主办。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 131.922,
+      "end": 136.18,
+      "label": "mandarin",
+      "text": "从十月二十六号到十一月三号为期九天。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从十月二十六号到十一月三号，为期九天。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 136.608,
+      "end": 143.414,
+      "label": "mandarin",
+      "text": "本届艺术节将重现中戏老院长欧阳玉倩创办广西省立艺术馆时，",
+      "score": 0.0409,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0347,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本届艺术节将重现中西老院长欧阳予倩创办广西省立艺术馆时。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 143.657,
+      "end": 148.164,
+      "label": "mandarin",
+      "text": "设戏剧、美术、音乐三个工作部的构架，",
+      "score": 0.0667,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.033,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是戏剧、美术、音乐三国工作部的构架。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 148.519,
+      "end": 150.957,
+      "label": "guilin",
+      "text": "构建起以戏剧为主题、",
+      "score": 0.5708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0766,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "构建起以戏剧为主体。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 151.137,
+      "end": 156.595,
+      "label": "mandarin",
+      "text": "以戏剧、音乐、美术三大门类为支撑的综合艺术节，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以戏剧、音乐、美术三大门类为支撑的综合艺术节。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 156.909,
+      "end": 159.686,
+      "label": "guilin",
+      "text": "延续山水间的办节特色，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.9512,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "严肃山水家的半截特色。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 159.901,
+      "end": 162.31,
+      "label": "mandarin",
+      "text": "以天地为幕，山水为台，",
+      "score": 0.1051,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0299,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以天地为母，山水为态。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 162.539,
+      "end": 165.89,
+      "label": "mandarin",
+      "text": "来自六个国家的四十八场精彩演出，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自六个国家的四十八场精彩演出。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 166.069,
+      "end": 172.227,
+      "label": "mandarin",
+      "text": "将在三剧场、东剧场、苏剧场和帐篷剧场当中精彩呈现。",
+      "score": 0.1208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0107,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "苏/书",
+        "lexicon": "",
+        "text_free": "将在三剧场、东剧场、书剧场和帐篷剧场当中精彩呈现。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 172.544,
+      "end": 177.404,
+      "label": "mandarin",
+      "text": "戏剧巡游等惠民演出也将在山水间轮番上演。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0223,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "戏剧巡游等惠民演出也将在山水间轮番上演。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 177.631,
+      "end": 182.24,
+      "label": "uncertain",
+      "text": "整个城市将成为一座美得为强的剧院。",
+      "score": 0.5486,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5547,
+        "acoustic_dev": 0.758,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "整座城市将成为一座没得围墙的剧院。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1035 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "赓续文化之脉 绽放城市之光__2024桂林艺术节圆满落幕.wav",
+  "duration": 285.639,
+  "no_dialect": false,
+  "created_at": "2026-10-26T17:16:48",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.253,
+      "end": 5.162,
+      "label": "guilin",
+      "text": "今天，我们继续来扯一下二零二四桂林艺术节的精彩版路。",
+      "score": 0.7176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3098,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "四/师 扯/测",
+        "lexicon": "",
+        "text_free": "今天我们继续来测一下鄂岭鄂师桂林艺术节的精彩半路。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.495,
+      "end": 9.715,
+      "label": "mandarin",
+      "text": "十一月三号，二零二四桂林艺术节圆满落幕了，",
+      "score": 0.1957,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.368,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "四/师",
+        "lexicon": "",
+        "text_free": "十一月三号，鄂岭鄂师桂林一书记圆满落幕了。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.862,
+      "end": 12.823,
+      "label": "mandarin",
+      "text": "为期九天的盛会精彩纷呈。",
+      "score": 0.26,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0105,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "呈/层 盛/身",
+        "lexicon": "",
+        "text_free": "为其九天的身费，精彩分层。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.065,
+      "end": 20.422,
+      "label": "mandarin",
+      "text": "来自桂林和世界各地的观众与山水间忆往昔岁月，赏山水之美，",
+      "score": 0.1498,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0631,
+        "acoustic_dev": 0.187,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自桂林和师干各地的观众，于山水间忆往昔岁月，赏山水之美。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.422,
+      "end": 34.994,
+      "label": "mandarin",
+      "text": "赴戏剧之约。在自治区党委宣传部的指导下，桂林市人民政府和中央戏剧学院精心筹备下，",
+      "score": 0.1247,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0137,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.054,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "心/行 精/进",
+        "lexicon": "",
+        "text_free": "赴戏剧之约。在自治区党委宣传部的指导下，桂林市人民政府和中央戏剧学院进行筹备下。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 35.185,
+      "end": 40.598,
+      "label": "mandarin",
+      "text": "十月二十六日，二零二四桂林艺术节在万众期待下启幕。",
+      "score": 0.1199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "四月二十六日，二零二四桂林艺术节在万众期待下启幕。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 40.598,
+      "end": 45.692,
+      "label": "mandarin",
+      "text": "二零二四桂林艺术节开幕。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二四，桂林艺术节开幕。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 45.692,
+      "end": 51.66,
+      "label": "uncertain",
+      "text": "二零二四桂林艺术节更加明确了山水间、戏剧间的办节特色，",
+      "score": 0.4072,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1817,
+        "acoustic_dev": 0.642,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二四桂林艺术节更加明确了山水家、戏剧家的半截特色。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 51.66,
+      "end": 54.805,
+      "label": "mandarin",
+      "text": "以及国际化、年轻态的办节理念。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以及国际法年轻态的办节理念。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 55.089,
+      "end": 57.197,
+      "label": "mandarin",
+      "text": "构建起以戏剧为主体、",
+      "score": 0.3596,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1691,
+        "acoustic_dev": 0.594,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "构建期以戏剧为主体。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 57.376,
+      "end": 62.685,
+      "label": "mandarin",
+      "text": "以戏剧、音乐、美术三大门类为支柱的综合艺术节。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0112,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以戏剧、音乐、美术三大门类为主，的综合艺术节。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 62.954,
+      "end": 67.213,
+      "label": "mandarin",
+      "text": "我们在山水中以天地为幕，山水为台，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们在山水中以天地为幕，山水为台。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 67.213,
+      "end": 69.568,
+      "label": "mandarin",
+      "text": "打造丰富多彩的艺术盛宴。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造丰富多彩的艺术盛宴。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 69.891,
+      "end": 74.186,
+      "label": "mandarin",
+      "text": "来自六个国家的艺术作品在山剧场、",
+      "score": 0.0925,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0608,
+        "acoustic_dev": 0.178,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自六个国家的艺术作品在山剧场。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 74.272,
+      "end": 78.996,
+      "label": "mandarin",
+      "text": "洞剧场、水剧场和帐篷剧场中轮番上演。",
+      "score": 0.0857,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0092,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "动剧场、数据场和帐篷剧场中轮番上演。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 79.736,
+      "end": 83.698,
+      "label": "mandarin",
+      "text": "整座城市将成为一座没有围墙的剧院。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "整座城市将成为一座没有围墙的剧院。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 84.007,
+      "end": 90.05,
+      "label": "mandarin",
+      "text": "这是一场跨越八十年的对话，以戏剧之名向历史致敬，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这是一场跨越八十年的对话，以戏剧之名向历史致敬。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 90.05,
+      "end": 92.92,
+      "label": "mandarin",
+      "text": "创办了一个崭新的戏剧节。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创办了一个崭新的戏剧节。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 94.395,
+      "end": 97.082,
+      "label": "mandarin",
+      "text": "一切都变了，一切",
+      "score": 0.2738,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1516,
+        "acoustic_dev": 0.527,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一切都变了，一切。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 97.299,
+      "end": 105.169,
+      "label": "mandarin",
+      "text": "又都没有变。我们依旧努力的以戏剧的方式为民族而书写，",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "又都没有变。我们依旧努力地以戏剧的方式为民族而书写。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 105.169,
+      "end": 109.573,
+      "label": "guilin",
+      "text": "为人民而创作。非忘自今，一勇前行，",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9696,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "今/景",
+        "lexicon": "",
+        "text_free": "为人民而创作。费王子景一拥前行。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 109.792,
+      "end": 119.354,
+      "label": "mandarin",
+      "text": "延续传承与创新。八十年前，西南剧展的落幕戏戏剧春秋还作为本届艺术节开幕演出，",
+      "score": 0.167,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.085,
+        "acoustic_dev": 0.271,
+        "seg_cer": 0.057,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "严肃传承与创新。八十年前，西南剧展的落幕戏《戏剧春秋》还作为本届艺术节开幕演出。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 119.624,
+      "end": 123.402,
+      "label": "mandarin",
+      "text": "诠释了在历史落幕的地方重新出发。",
+      "score": 0.1994,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0338,
+        "acoustic_dev": 0.074,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "释/死",
+        "lexicon": "",
+        "text_free": "全死了，在历史落幕的地方重新出发。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 123.736,
+      "end": 130.323,
+      "label": "mandarin",
+      "text": "参加过西南剧展的广东、湖南、江西、云南、广西五个省区没法将得主",
+      "score": 0.1363,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0153,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.185,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "展/长",
+        "lexicon": "",
+        "text_free": "参加过西南局长的广东、湖南、江西、云南、广西五个省区，梅花奖得主。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 130.547,
+      "end": 132.84,
+      "label": "mandarin",
+      "text": "受邀奉上精彩演出。",
+      "score": 0.0102,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0197,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "受邀奉上精彩演出。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 133.061,
+      "end": 140.798,
+      "label": "mandarin",
+      "text": "丽水丰演还讲述欧阳予倩先生在桂林筹建中国第一座专业话剧剧场，",
+      "score": 0.2419,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1119,
+        "acoustic_dev": 0.374,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "李水峰烟还讲述欧阳予倩先生在桂林筹建中国第一座专业话剧剧场。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 141.03,
+      "end": 143.88,
+      "label": "guilin",
+      "text": "并发起组织西南剧展的历史。",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5396,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并发起组织西南聚餐的历史。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 144.337,
+      "end": 147.743,
+      "label": "guilin",
+      "text": "戏剧领域专家组成新时代剧评团，",
+      "score": 0.5681,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2662,
+        "acoustic_dev": 0.967,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "戏剧领域专家组成新视影剧评团。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 147.961,
+      "end": 151.565,
+      "label": "mandarin",
+      "text": "对重点剧目进行观摩和及时点评。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对重点剧目进行观摩或及时点评。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 152.068,
+      "end": 161.55,
+      "label": "mandarin",
+      "text": "值得一提的是，首届欧阳予倩戏剧奖的揭晓表彰，对中国戏剧事业发展做出卓越贡献的青年团体、",
+      "score": 0.0728,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0453,
+        "acoustic_dev": 0.118,
+        "seg_cer": 0.025,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "值得一提的是，首届欧阳予倩戏剧奖的揭晓，表彰对中国戏剧事业发展作出卓越贡献的青年团体。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 161.933,
+      "end": 167.179,
+      "label": "uncertain",
+      "text": "戏剧美育公益性或亲子戏剧公益性等活动的开展，",
+      "score": 0.4504,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2291,
+        "acoustic_dev": 0.824,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "戏剧美育公益性或亲子戏剧公益营等活动的开展。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 167.437,
+      "end": 171.03,
+      "label": "mandarin",
+      "text": "加强了对青年戏剧观众群体的培养。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加强了对青年戏剧观众群体的培养。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 171.528,
+      "end": 174.502,
+      "label": "mandarin",
+      "text": "这还是一座没有围墙的剧院。",
+      "score": 0.0781,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "这还是一座没得围墙的剧院。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 174.991,
+      "end": 182.878,
+      "label": "mandarin",
+      "text": "来自六个国家的数百名艺术工作者带来了十八个剧目、四十八场精彩绝伦的演出。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自六个国家的数百名艺术工作者带来了十八个剧目、四十八场精彩绝伦的演出。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 183.048,
+      "end": 189.972,
+      "label": "mandarin",
+      "text": "在山剧场、洞剧场、书剧场和帐篷剧场等不同的空间精彩呈现。",
+      "score": 0.1366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "山/散",
+        "lexicon": "",
+        "text_free": "在散剧场、动剧场、书剧场和帐篷剧场等不同的空间，精彩呈现。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 190.386,
+      "end": 194.11,
+      "label": "mandarin",
+      "text": "艺术大讲堂以全媒体形式进行转播，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "艺术大讲堂以全媒体形式进行转播。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 194.323,
+      "end": 201.016,
+      "label": "mandarin",
+      "text": "线上线下观众在游船上、山水间聆听戏剧行业顶级专家的分享。",
+      "score": 0.0159,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0225,
+        "acoustic_dev": 0.03,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "线上线下观众在游船上、山水间，聆听戏剧行业顶级专家的分享。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 201.237,
+      "end": 209.933,
+      "label": "mandarin",
+      "text": "山水艺术四季戏剧巡游等活动也为广大观众带来戏剧与山水融合的非凡体验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "山水艺术四季、戏剧巡游等活动，也为广大观众带来戏剧与山水融合的非凡体验。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 210.223,
+      "end": 213.072,
+      "label": "mandarin",
+      "text": "来自世界各地的戏迷们在这里",
+      "score": 0.1672,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.063,
+        "acoustic_dev": 0.186,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自世界各地的西迷们，在这。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 213.488,
+      "end": 217.927,
+      "label": "mandarin",
+      "text": "观剧赏景，共赴山水间的艺术之旅。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0044,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "关注赏景，共赴山水间的艺术之旅。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 218.373,
+      "end": 222.962,
+      "label": "uncertain",
+      "text": "这是一场始于戏剧又不只于戏剧的艺术盛宴。",
+      "score": 0.5028,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1921,
+        "acoustic_dev": 0.682,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "始/死",
+        "lexicon": "",
+        "text_free": "这是一场死于戏剧，又不止于戏剧的艺术盛宴。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 223.364,
+      "end": 225.854,
+      "label": "guilin",
+      "text": "音乐和美术板块的加入，",
+      "score": 0.5558,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2698,
+        "acoustic_dev": 0.981,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "音乐或美术板块的加入。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 225.854,
+      "end": 228.653,
+      "label": "uncertain",
+      "text": "丰富了艺术节的文化维度。",
+      "score": 0.5254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2567,
+        "acoustic_dev": 0.93,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丰富了艺术界的文化维度。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 228.98,
+      "end": 232.617,
+      "label": "mandarin",
+      "text": "音乐板块以听得见的桂林山水为主题，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "音乐板块以听得见的桂林山水为主题。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 232.617,
+      "end": 236.302,
+      "label": "uncertain",
+      "text": "策划推出打造桂林之言之声系列活动。",
+      "score": 0.5486,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4413,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "策划推出“打造桂林之宴”之声系列活动。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 236.7,
+      "end": 241.454,
+      "label": "mandarin",
+      "text": "在美术板块，也为广大观众带来艺术新气象。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在美术板块，也为广大观众带来艺术新气象。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 241.454,
+      "end": 246.564,
+      "label": "uncertain",
+      "text": "今年的艺术节在赋能文旅融合中，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3258,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年的艺术节，在赋能文旅融合中。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 246.896,
+      "end": 254.168,
+      "label": "mandarin",
+      "text": "主客共享，更多的游客以诗与远方奔赴到了我们的桂林城。",
+      "score": 0.0467,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0188,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主客共享，更多的游客以视于远方，奔赴到了我们的桂林城。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 254.487,
+      "end": 257.84,
+      "label": "mandarin",
+      "text": "本届艺术节就要圆满的落幕，",
+      "score": 0.0194,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0243,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本届艺术节就要圆满的落幕。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 257.863,
+      "end": 260.655,
+      "label": "guilin",
+      "text": "但曲终人不散，",
+      "score": 0.7633,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2769,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "散/善",
+        "lexicon": "",
+        "text_free": "但曲中言不善。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 260.655,
+      "end": 264.942,
+      "label": "mandarin",
+      "text": "我们对艺术的热爱和追求永不止步。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们对艺术的热爱和追求，永不止步。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 265.009,
+      "end": 272.984,
+      "label": "mandarin",
+      "text": "截至十一月三号下午两点钟，二零二四桂林艺术节总曝光量突破二十一点六五亿，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "截至十一月三号下午两点钟，二零二四桂林艺术节总曝光量突破二十一点六五亿。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 273.283,
+      "end": 278.496,
+      "label": "mandarin",
+      "text": "比上一届翻了一番。越来越多人因为戏剧奔赴桂林，",
+      "score": 0.1248,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.077,
+        "acoustic_dev": 0.24,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比上一届翻了一番，越来越多人因为戏剧奔赴桂林。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 278.496,
+      "end": 285.639,
+      "label": "mandarin",
+      "text": "记住桂林，爱上桂林，享受这场音与自然和谐共生的戏剧盛宴。",
+      "score": 0.228,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0071,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.28,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.429,
+        "phon_examples": "自/之 林/零 林/零",
+        "lexicon": "",
+        "text_free": "记住归零，爱上归零，享受这场银与之银和谐共生的戏剧盛宴。"
+      }
+    }
+  ]
+}

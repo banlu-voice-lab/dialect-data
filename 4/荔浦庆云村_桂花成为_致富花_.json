@@ -1,0 +1,522 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "荔浦庆云村_桂花成为_致富花_.wav",
+  "duration": 118.963,
+  "no_dialect": false,
+  "created_at": "2026-10-26T17:00:27",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.869,
+      "end": 5.878,
+      "label": "mandarin",
+      "text": "金秋十月，桂花香。现在啊，正是我们桂林桂花盛开的时节。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "金秋十月，桂花香。现在啊，正是我们桂林桂花盛开的时节。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.189,
+      "end": 12.335,
+      "label": "mandarin",
+      "text": "这两天，荔浦市龙怀乡庆云村的黄金桂花是争相竞放。",
+      "score": 0.2254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0382,
+        "acoustic_dev": 0.085,
+        "seg_cer": 0.318,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "市/斯",
+        "lexicon": "",
+        "text_free": "这两天，利普斯龙湾乡青云村的黄金规范是争相竞放。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.582,
+      "end": 17.786,
+      "label": "guilin",
+      "text": "我们桂花就成了山城群众增收的致富花。",
+      "score": 0.5788,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1883,
+        "acoustic_dev": 0.685,
+        "seg_cer": 0.588,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "城/层 山/三",
+        "lexicon": "",
+        "text_free": "嗯，规范就成为了三层群众增收的支付化。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.023,
+      "end": 22.275,
+      "label": "uncertain",
+      "text": "那节目里最后呢，我们一起去桂花园里头去看一下子。",
+      "score": 0.4219,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1506,
+        "acoustic_dev": 0.535,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "那节目嘞最后嘞，我们一起去规划院里头去看一下子。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.809,
+      "end": 25.629,
+      "label": "mandarin",
+      "text": "桂花树是一种风景绿化树，",
+      "score": 0.1398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0842,
+        "acoustic_dev": 0.269,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂花树是一种风景绿化树。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.772,
+      "end": 28.355,
+      "label": "mandarin",
+      "text": "不管是公路旁还是公园里，",
+      "score": 0.0486,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0404,
+        "acoustic_dev": 0.094,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不管是公路旁还是公园里。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.355,
+      "end": 30.766,
+      "label": "mandarin",
+      "text": "总能够见到桂花树的身影。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "总能够见到桂花树的身影。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.956,
+      "end": 34.585,
+      "label": "mandarin",
+      "text": "而桂花也可以做桂花酒、桂花糕等等，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而桂花也可以做桂花酒、桂花糕等等。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.73,
+      "end": 38.141,
+      "label": "mandarin",
+      "text": "还可以提取紫罗兰酮等芳香成分，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0044,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还可以提取紫罗兰酮等芬香成分。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 38.141,
+      "end": 41.122,
+      "label": "mandarin",
+      "text": "加工成香料。十多年前，",
+      "score": 0.0696,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0504,
+        "acoustic_dev": 0.134,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加工成香料。十多年前。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 41.122,
+      "end": 45.663,
+      "label": "mandarin",
+      "text": "龙怀乡庆云村群众种植的桂花树备受市场欢迎，",
+      "score": 0.2801,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1077,
+        "acoustic_dev": 0.363,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙凤乡青云村群众种植的桂花树备受市场反映。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.036,
+      "end": 51.437,
+      "label": "mandarin",
+      "text": "光是一斗树就可以卖上四五千，甚至是近十万块钱。",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "光是一本书就可以卖上四五千，甚至是近十万块钱。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.702,
+      "end": 55.486,
+      "label": "mandarin",
+      "text": "在市场供过于求以后，当地群众发现，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在市场供过于求以后，当地群众发现。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 55.656,
+      "end": 59.848,
+      "label": "guilin",
+      "text": "养桂花树长大卖花也是一笔大买卖。",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.286,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让规划书长大卖发，也是一笔大买卖。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 60.152,
+      "end": 62.894,
+      "label": "guilin",
+      "text": "拆到桂花加工产业链里延长，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4618,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "测到规发加工产业链力延长。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.996,
+      "end": 68.11,
+      "label": "guilin",
+      "text": "使得桂花价格稳定。现在，层层随处可见桂花楼、",
+      "score": 0.7078,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5684,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.474,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.111,
+        "phon_examples": "层/城",
+        "lexicon": "",
+        "text_free": "使得规划价格稳定。现在城腾翠竹，可见规划路。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 68.11,
+      "end": 73.34,
+      "label": "uncertain",
+      "text": "桂花村。近年来，桂花价格确实可观，",
+      "score": 0.449,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2172,
+        "acoustic_dev": 0.801,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂花车。近年来，桂花价格确实可观。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 73.589,
+      "end": 77.234,
+      "label": "mandarin",
+      "text": "现在收购价二十元一斤。",
+      "score": 0.2225,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "斤/经",
+        "lexicon": "",
+        "text_free": "现在烧高价，二十元已经。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 77.687,
+      "end": 81.903,
+      "label": "mandarin",
+      "text": "很多村民每年卖桂花的收入",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0084,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很多村民每年卖桂花的收入。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 82.378,
+      "end": 85.252,
+      "label": "mandarin",
+      "text": "就有三至四万元。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就有三至四万元。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 85.252,
+      "end": 88.84,
+      "label": "mandarin",
+      "text": "外面的群众都说我们村是桂花村。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0122,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "外面的群众都说：“我们村是桂花村。”"
+      }
+    },
+    {
+      "id": 22,
+      "start": 89.245,
+      "end": 95.529,
+      "label": "mandarin",
+      "text": "随着天气慢慢变凉，群众种植在山岭上的桂花开始竞相开放，",
+      "score": 0.078,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0369,
+        "acoustic_dev": 0.08,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "车道天气慢慢变凉，群众种植在山岭上的桂花开始竞相开放。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 95.716,
+      "end": 99.746,
+      "label": "mandarin",
+      "text": "收购商也是闻香而动，纷纷进场收购。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "收购商也是闻香而动，纷纷进场收购。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 99.746,
+      "end": 103.094,
+      "label": "mandarin",
+      "text": "目前，庆云村的桂花有一千三百多亩，",
+      "score": 0.0017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0178,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，庆云村的桂花有一千三百多亩。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 103.505,
+      "end": 107.687,
+      "label": "mandarin",
+      "text": "产业已形成规模，村民不用愁卖不出去。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产业已形成规模，村民不用愁卖不出去。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 107.896,
+      "end": 113.48,
+      "label": "mandarin",
+      "text": "每年桂花成熟，村子里天天都有十多个收购商来抢着收，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每年桂花成熟，村子里天天都有十多个收购商来抢着收。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 113.58,
+      "end": 118.963,
+      "label": "mandarin",
+      "text": "价格也一天一个样。这样的情景让村民既开心又激动。",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "价格也一贴一个样，这样的情景让村民既开心又激动。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,940 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "旅游展参展商_借旅游展平台壮大旅游产品品牌.wav",
+  "duration": 247.806,
+  "no_dialect": false,
+  "created_at": "2026-10-26T15:44:04",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.051,
+      "end": 5.74,
+      "label": "mandarin",
+      "text": "一年一度的中国东盟博览会旅游展是旅游界的一大盛事。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一年一度的中国东盟博览会旅游展是旅游界的一大盛事。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.925,
+      "end": 12.828,
+      "label": "mandarin",
+      "text": "我是一些代表性知名旅游和旅游产品生产企业充分借助旅游展的契机，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0103,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是一些代表性知名旅游和旅游产品生产企业，充分借助旅游展的契机。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.828,
+      "end": 16.187,
+      "label": "mandarin",
+      "text": "带来了最新的旅游品牌项目和产品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "带来了最新的旅游品牌项目和产品。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.377,
+      "end": 19.89,
+      "label": "mandarin",
+      "text": "响应市场需求，扩大品牌知名度。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "响应市场需求，扩大品牌知名度。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.033,
+      "end": 25.728,
+      "label": "mandarin",
+      "text": "在位于国际会展中心一号馆的国际文创商品馆和旅游创新馆，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在位于国际会展中心一号馆的国际文创商品馆和旅游创新馆。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.996,
+      "end": 31.921,
+      "label": "mandarin",
+      "text": "桂林全州大笔头旅游开发有限公司的旅游产品颇受参展客商的欢迎，",
+      "score": 0.1361,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0865,
+        "acoustic_dev": 0.171,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林全州大鼻头旅游开发有限公司的旅游产品颇受参展客商的反映。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 32.255,
+      "end": 35.253,
+      "label": "mandarin",
+      "text": "前来咨询洽谈的客户络绎不绝。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前来咨询、洽谈的客户络绎不绝。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.656,
+      "end": 40.094,
+      "label": "uncertain",
+      "text": "近年来，大笔头国际旅游度假区推出了蒙冲乐园、",
+      "score": 0.5418,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4363,
+        "acoustic_dev": 0.954,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，大笔头国际旅游度假区推出了“梦中乐园”。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 40.284,
+      "end": 44.407,
+      "label": "guilin",
+      "text": "极速旱雪滑道、全地形越野车等项目；，",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5388,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "速/术",
+        "lexicon": "",
+        "text_free": "技术、汗血、发刀、全地形越野车等项目。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.633,
+      "end": 48.35,
+      "label": "guilin",
+      "text": "桂林青兰国际旅游度假区则是推出了山水奇景、",
+      "score": 0.6571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5295,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "威海晴岚国际旅游度假区则是推出了“山水骑行”。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.628,
+      "end": 51.748,
+      "label": "guilin",
+      "text": "直升机基地、野趣基地等项目。",
+      "score": 0.5581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9196,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "直升机基地、野球基地等项目。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.116,
+      "end": 56.183,
+      "label": "mandarin",
+      "text": "根据新媒体平台数据和入园客流量两方面显示，",
+      "score": 0.0686,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据新媒体平台数据和用户源客流量两方面显示。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 56.354,
+      "end": 65.653,
+      "label": "mandarin",
+      "text": "均取得了不俗的成绩。而这一切要归功于公司五年前与东盟博览会旅游展结下的深厚缘分。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "均取得了不俗的成绩，而这一切要归功于公司五年前与东盟博览会旅游展结下的深厚缘分。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 65.653,
+      "end": 70.84,
+      "label": "mandarin",
+      "text": "这这种东盟旅游展非常有意义，然后也非常给了我们企业一个很好的一个展示的平台。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这这种东盟旅游展非常有意义，然后也非常给了我们企业一个很好的一个展示的平台。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 71.005,
+      "end": 78.549,
+      "label": "mandarin",
+      "text": "像我们企业，我们景区也需要呃向全市、全市县展示我们这个桂林世界级世界级旅游城市，",
+      "score": 0.3758,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3012,
+        "acoustic_dev": 0.651,
+        "seg_cer": 0.081,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "像我们企业，我们景区也需要，呃，向全市、全世界展示我们这个桂林世界奇世界级旅游城市。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 78.549,
+      "end": 82.162,
+      "label": "mandarin",
+      "text": "包括作为一个旅游目的地的一个城市名片的一个产品。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "包括作为一个旅游目的地的一个城市名片的一个产品。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 82.265,
+      "end": 84.738,
+      "label": "mandarin",
+      "text": "然后，然如果如果单靠企业去宣传，",
+      "score": 0.074,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0459,
+        "acoustic_dev": 0.08,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后，那如果如果单靠企业去宣传。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 84.738,
+      "end": 94.013,
+      "label": "mandarin",
+      "text": "肯定是有限的力量。但是我们整个东盟博览会把这些所有的一些行业内的、市场内的集情集聚给大家一个很好的平台去展示、去宣传，",
+      "score": 0.1532,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1347,
+        "acoustic_dev": 0.279,
+        "seg_cer": 0.018,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "肯定是有限的力量，但是我们整个东盟博览会把这些所有的一些行业内的市场内的集群集聚，给大家一个很好的平台去展示去宣传。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 94.013,
+      "end": 97.772,
+      "label": "guilin",
+      "text": "这也是非常好的一个方面。我希望东盟旅游展能越办越好，",
+      "score": 0.6152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6965,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.208,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这也是非常好的一个方面。我希望东博刘组长，你能越办越好。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 97.8,
+      "end": 104.059,
+      "label": "mandarin",
+      "text": "越办越成功。除了旅游产品推陈出新外，我是一些文创旅游产品公司，",
+      "score": 0.3269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2069,
+        "acoustic_dev": 0.44,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就抱怨成功。除了旅游产品推陈出新之外，我市的一些文创旅游产品公司。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 104.059,
+      "end": 106.447,
+      "label": "mandarin",
+      "text": "也是瞄准了旅游展的平台，",
+      "score": 0.0153,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0234,
+        "acoustic_dev": 0.029,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是瞄准了旅游展的平台。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 106.676,
+      "end": 109.627,
+      "label": "mandarin",
+      "text": "向全球客商进行深度推广。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "向全球客商进行深度推广。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 109.956,
+      "end": 113.047,
+      "label": "guilin",
+      "text": "桂林作为桂林五大桂发产品之一，",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5081,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林作为桂林五大桂花产区之一。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 113.231,
+      "end": 117.044,
+      "label": "mandarin",
+      "text": "是全国最大的桂发产品集散地。",
+      "score": 0.1407,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是全国最大的感官规划产品集散地。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 117.357,
+      "end": 127.226,
+      "label": "mandarin",
+      "text": "值得一提的是，二零二三年十月，桂发糕制作技艺被列入第九批自治区级非物质文化遗产代表性项目名录。",
+      "score": 0.0312,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.068,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "值得一提的是，二零二三年十月，规划搞制作技艺被列入第九批自治区级非物质文化遗产代表性项目名录。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 127.556,
+      "end": 134.544,
+      "label": "mandarin",
+      "text": "桂发糕制作技艺第七代传承人传承并创新了桂发糕的制作技艺，",
+      "score": 0.0354,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0117,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂花糕制作技艺第七代传承人传承，并创新了桂花糕的制作技艺。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 134.854,
+      "end": 137.216,
+      "label": "uncertain",
+      "text": "创立了丽源桂发糕品牌。",
+      "score": 0.4053,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2406,
+        "acoustic_dev": 0.516,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创立了梨园桂花糕品牌。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 137.216,
+      "end": 143.632,
+      "label": "mandarin",
+      "text": "其精美的包装、与时俱进的制作技艺，让传统桂发糕焕发出新的生命力，",
+      "score": 0.042,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0193,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其精美的包装，与时俱进的制作技艺，让传统桂花糕散发出新的生命力。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 143.929,
+      "end": 148.918,
+      "label": "mandarin",
+      "text": "成为无数中外游客记住桂林味道的一道经典美食。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为无数中外游客记住桂林味道的一道经典美食。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 149.283,
+      "end": 154.904,
+      "label": "uncertain",
+      "text": "丽源有幸能够参加此次中国东盟旅游展感到非常荣幸，",
+      "score": 0.485,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4097,
+        "acoustic_dev": 0.895,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丽媛有幸能够参加此次中国东盟旅游展，感到非常荣幸。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 154.904,
+      "end": 161.451,
+      "label": "mandarin",
+      "text": "同时丽源品牌的伴手礼呢有幸能够成为中国东盟旅游展官方指定伴手礼。",
+      "score": 0.0147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，丽园品牌的伴手礼呢，有幸能够成为中国东盟旅游展官方指定伴手礼。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 161.72,
+      "end": 168.296,
+      "label": "mandarin",
+      "text": "通过此次活动，不仅是产品的展示，也是为了向更多人传播非遗文化，",
+      "score": 0.0163,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过此次活动，不仅是产品的展示，也是为了向更多人传播非遗混文化。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 168.296,
+      "end": 173.34,
+      "label": "mandarin",
+      "text": "尤其向年轻一代，从而实现非遗文化的活传承。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "尤其向年轻一代，从而实现非遗文化的活传承。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 173.34,
+      "end": 179.396,
+      "label": "mandarin",
+      "text": "我们非常期待下一届的中国东盟旅游展，相信它组织的会更加精彩。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们非常期待下一届的中国东盟旅游展，相信它组织的会更加精彩。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 179.81,
+      "end": 185.01,
+      "label": "mandarin",
+      "text": "在桂林旅游界人士看来。桂林的好山水就是一座富矿，",
+      "score": 0.0463,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0322,
+        "acoustic_dev": 0.049,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在桂林旅游该人士看来，桂林的好山水就是一座富矿。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 185.229,
+      "end": 188.314,
+      "label": "mandarin",
+      "text": "赋予了桂林旅游业丰富多样的资源。",
+      "score": 0.1771,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1362,
+        "acoustic_dev": 0.282,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赋予了桂林旅游该丰富多样的资源。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 188.611,
+      "end": 196.192,
+      "label": "mandarin",
+      "text": "桂林的山水甲天下，天然山泉水富含二十四种人体所需的微量元素，",
+      "score": 0.0045,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0142,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林的山水甲天下，天然山泉水富含二十四种人体所需的微量元素。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 196.487,
+      "end": 200.135,
+      "label": "mandarin",
+      "text": "具有同类产品无法比拟的高偏硅酸、",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "具有同类产品无法比拟的高片硅酸。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 200.287,
+      "end": 206.393,
+      "label": "mandarin",
+      "text": "低矿等特性。同时，采用国内先进设备和工艺技术制备，",
+      "score": 0.1321,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0881,
+        "acoustic_dev": 0.174,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "底矿等特性，同时采用国内先进设备和工艺技术设备。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 206.808,
+      "end": 210.572,
+      "label": "mandarin",
+      "text": "不仅是充分地保持了泉水的天然品味，",
+      "score": 0.2086,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1158,
+        "acoustic_dev": 0.236,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅是充分的保持了泉水的甜艳品味。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 210.748,
+      "end": 213.602,
+      "label": "mandarin",
+      "text": "又充分保障了泉水的饮用安全，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "又充分保障了泉水的饮用安全。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 213.916,
+      "end": 219.6,
+      "label": "mandarin",
+      "text": "因此成为本届东盟博览会旅游展的指定饮用水合作伙伴。",
+      "score": 0.0098,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0187,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因此，成为本届东盟博览会旅游展的指定饮用水合作伙伴。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 219.647,
+      "end": 222.691,
+      "label": "mandarin",
+      "text": "从二零二一年至今，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从二零二一年至今。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 222.691,
+      "end": 225.575,
+      "label": "mandarin",
+      "text": "我们已经连续参展四年，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0081,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们已经连续参展四年。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 225.881,
+      "end": 228.823,
+      "label": "mandarin",
+      "text": "这次更是作为参会的",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次更是作为参会的。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 229.054,
+      "end": 235.023,
+      "label": "mandarin",
+      "text": "指定用水亮相。这几天我们遇到了很多有潜力的合作伙伴，",
+      "score": 0.0016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0117,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "指定用水亮相。这几天，我们遇到了很多有潜力的合作伙伴。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 235.653,
+      "end": 239.9,
+      "label": "mandarin",
+      "text": "希望未来能够有更多合作的机会。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "希望未来能够有更多合作的机会。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 239.992,
+      "end": 243.446,
+      "label": "uncertain",
+      "text": "在此也祝贺东盟",
+      "score": 0.4121,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3642,
+        "acoustic_dev": 0.792,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在此，也祝贺东盟。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 243.755,
+      "end": 247.806,
+      "label": "mandarin",
+      "text": "东盟博览会旅游展取得圆满成功。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0056,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "东盟博览会旅游展取得圆满成功。"
+      }
+    }
+  ]
+}

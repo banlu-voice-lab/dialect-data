@@ -1,0 +1,579 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "参加2024_东盟伙伴_媒体合作周各国嘉宾在我市参观考察.wav",
+  "duration": 146.737,
+  "no_dialect": false,
+  "created_at": "2026-10-26T14:45:54",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.503,
+      "end": 3.631,
+      "label": "mandarin",
+      "text": "前几天，我们桂林来了一批特殊的客人，",
+      "score": 0.0093,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0192,
+        "acoustic_dev": 0.018,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天，我们桂林来了一批特殊的客人。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.631,
+      "end": 12.859,
+      "label": "mandarin",
+      "text": "他们是参加二零二四东盟伙伴媒体合作周的柬埔寨老挝缅甸泰国的多位重要嘉宾。",
+      "score": 0.0531,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0215,
+        "acoustic_dev": 0.027,
+        "seg_cer": 0.086,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时参加二零二四东盟伙伴媒体合作周的，柬埔寨、老挝、缅甸、泰国的多位重要嘉宾。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.98,
+      "end": 17.933,
+      "label": "mandarin",
+      "text": "这一队多国先遣队前往我市各县区进行调研，",
+      "score": 0.0347,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0315,
+        "acoustic_dev": 0.067,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一队多国先遣队前往我市各县区进行调研。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.101,
+      "end": 20.892,
+      "label": "mandarin",
+      "text": "领略大美桂林人文风光、",
+      "score": 0.0304,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0294,
+        "acoustic_dev": 0.058,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "领略大美桂林人文风光。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.338,
+      "end": 24.608,
+      "label": "guilin",
+      "text": "东盟伙伴，我们的桂林来往方便，",
+      "score": 0.6903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6328,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "林/灵",
+        "lexicon": "",
+        "text_free": "东盟伙伴，我们的精灵来往方便。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.722,
+      "end": 28.2,
+      "label": "guilin",
+      "text": "多熟悉多走动，之间的旅游经济当然",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5431,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "之/自",
+        "lexicon": "",
+        "text_free": "多熟悉，多走懂，自建立旅游经济。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.631,
+      "end": 31.082,
+      "label": "mandarin",
+      "text": "就会呈现蓬勃之势了。",
+      "score": 0.0545,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0166,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就会呈现蓬勃之势啦。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.703,
+      "end": 38.237,
+      "label": "mandarin",
+      "text": "参观团一行先后来到象山景区、王城景区、漓江景区、西街及我渡城，",
+      "score": 0.125,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0504,
+        "acoustic_dev": 0.143,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "参观团一行先后来到香山景区、王城景区、丽江景区、西街及我都城。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.469,
+      "end": 45.674,
+      "label": "mandarin",
+      "text": "对桂林的旅游产业经济发展、生态保护、乡村振兴等方面进行了考察调研。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对桂林的旅游产业、经济发展、生态保护、乡村振兴等方面进行了考察调研。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 45.95,
+      "end": 52.859,
+      "label": "mandarin",
+      "text": "参观当中，桂林美丽的风景和繁荣的旅游业让参观团的嘉宾们感受颇深。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "参观当中，桂林美丽的风景和繁荣的旅游业，让参观团的嘉宾们感受颇深。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 53.255,
+      "end": 57.272,
+      "label": "mandarin",
+      "text": "来到桂林，我非常开心。桂林的风景和别处不同。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来到桂林，我非常开心。桂林的风景和别处不同。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 57.28,
+      "end": 60.642,
+      "label": "mandarin",
+      "text": "我去过很多地方，包括亚洲、欧洲、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我去过很多地方，包括亚洲、欧洲。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 60.642,
+      "end": 65.602,
+      "label": "mandarin",
+      "text": "美国、澳大利亚，而桂林却因为它的山水显得如此不同。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "美国、澳大利亚，而桂林却因为它的山水显得如此不同。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 65.887,
+      "end": 70.84,
+      "label": "mandarin",
+      "text": "我会把这样优美、独特、神奇的景色介绍给柬埔寨的观众，",
+      "score": 0.0398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我会把这样优美、独特、神奇的景色介绍给节目寨的观众。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 70.942,
+      "end": 77.26,
+      "label": "mandarin",
+      "text": "我将告诉柬埔寨的朋友们，如果您愿意来桂林啊，看它的奇山秀水，",
+      "score": 0.0677,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.148,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我将告诉节目站的朋友们：如果您愿意来桂林啊，看他的奇山秀水。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 77.415,
+      "end": 80.738,
+      "label": "guilin",
+      "text": "想要体验人在画中的感觉，",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.9748,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "想要体验人的在画中游的感觉。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 80.825,
+      "end": 83.588,
+      "label": "mandarin",
+      "text": "欣赏像天堂一样优美的景色，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "欣赏像天堂一样优美的景色。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 83.764,
+      "end": 86.698,
+      "label": "mandarin",
+      "text": "那一定要来桂林。我打算回去之后",
+      "score": 0.2217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0743,
+        "acoustic_dev": 0.238,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那一定要来桂林。不大声回去之后。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 86.698,
+      "end": 89.922,
+      "label": "mandarin",
+      "text": "为桂林写一首歌啊，将中",
+      "score": 0.0293,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0289,
+        "acoustic_dev": 0.056,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为桂林写一首歌啊！将中。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 89.98,
+      "end": 96.371,
+      "label": "mandarin",
+      "text": "柬两国的历史人文交流连接起来，实现两国的双赢。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "简两国的历史人文交流连接起来，实现两国的双赢。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 96.632,
+      "end": 103.129,
+      "label": "mandarin",
+      "text": "在欣赏美丽风景的同时，考察团还详细了解了桂林乡村振兴的成果。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在欣赏美丽风景的同时，考察团还详细了解了桂林乡村振兴的成果。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 103.129,
+      "end": 109.009,
+      "label": "mandarin",
+      "text": "参观团一行还于十一月十一来到桂林国际融媒体中心参观座谈，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "参观团一行还于十一月十一来到桂林国际融媒体中心参观座谈。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 109.279,
+      "end": 118.758,
+      "label": "mandarin",
+      "text": "通过考察交流，进一步了解了桂林如何通过媒体宣传发挥桂林作为国际文化交流重要舞台的优势，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过考察交流，进一步了解了桂林如何通过媒体宣传发挥桂林作为国际文化交流重要舞台的优势。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 118.994,
+      "end": 123.143,
+      "label": "mandarin",
+      "text": "讲好新时代中国故事、广西故事、桂林故事，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "讲好新时代中国故事，广西故事，桂林故事。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 123.435,
+      "end": 126.476,
+      "label": "mandarin",
+      "text": "并讨论了双方如何加深合作交流，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并讨论了双方如何加深合作交流。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 126.645,
+      "end": 129.332,
+      "label": "mandarin",
+      "text": "实现同心协力、同频共振、",
+      "score": 0.281,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1499,
+        "acoustic_dev": 0.54,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现同心协力、同频共振。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 129.471,
+      "end": 135.73,
+      "label": "mandarin",
+      "text": "同向协行，讲好中国东盟携手推进现代化建设的时代故事，",
+      "score": 0.0872,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0475,
+        "acoustic_dev": 0.131,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同乡协行，讲好中国东盟携手推进现代化建设的时代故事。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 135.998,
+      "end": 140.696,
+      "label": "mandarin",
+      "text": "促进中国与东盟各国文化交流交融和价值共振，",
+      "score": 0.1966,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0983,
+        "acoustic_dev": 0.334,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "促进中国与东盟各国文化交流交融，或价值共振。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 140.98,
+      "end": 144.935,
+      "label": "mandarin",
+      "text": "推动中国东盟世代友好薪火相传，",
+      "score": 0.2755,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1472,
+        "acoustic_dev": 0.53,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动中国东盟世代友好薪火相传。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 144.935,
+      "end": 146.737,
+      "label": "mandarin",
+      "text": "实现发展共赢。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0118,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现发展共赢。"
+      }
+    }
+  ]
+}

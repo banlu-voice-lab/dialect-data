@@ -1,0 +1,864 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林艺术节_桂林向世界递出的人文新名片.wav",
+  "duration": 227.469,
+  "no_dialect": false,
+  "created_at": "2026-10-26T16:10:16",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.112,
+      "label": "mandarin",
+      "text": "今天，我们首先来关注一下我们的桂林艺术节。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们首先来关注一下我们的桂林艺术节。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.565,
+      "end": 8.788,
+      "label": "mandarin",
+      "text": "二零二四桂林艺术节已经正式的拉开了大幕。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二四，桂林艺术节已经正式地拉开了大幕。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.881,
+      "end": 12.041,
+      "label": "guilin",
+      "text": "我们桂林也将在这一周的时间里面，",
+      "score": 0.5505,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2355,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们桂林营也将在这一周的时间里面。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.041,
+      "end": 16.933,
+      "label": "guilin",
+      "text": "有幸观赏来自国内外的各种新品艺术展演。",
+      "score": 0.6708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9199,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "幸/心",
+        "lexicon": "",
+        "text_free": "有心观赏来自国内外的各种精品艺术展演。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.266,
+      "end": 22.412,
+      "label": "mandarin",
+      "text": "自创办之日起，桂林艺术节就展现出了它的国际范，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0118,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自创办之日起，桂林艺术节就展现出了它的国际范。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.7,
+      "end": 25.411,
+      "label": "guilin",
+      "text": "通过促进文明交流互鉴，",
+      "score": 0.5732,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3027,
+        "acoustic_dev": 0.674,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "互/覆",
+        "lexicon": "",
+        "text_free": "通过租金文明交流覆盖。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 25.521,
+      "end": 29.947,
+      "label": "mandarin",
+      "text": "走出一条立足新文化使命的办节路子。",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走出一条立足新文化使命的便捷路子。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.22,
+      "end": 39.358,
+      "label": "mandarin",
+      "text": "桂林艺术节从来不仅仅是一场戏剧盛会。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林艺术节从来不仅仅是一场戏剧盛会。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.689,
+      "end": 45.892,
+      "label": "mandarin",
+      "text": "其创办初衷是为世界级旅游城市打造世界级的文化旅游新产品、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其创办初衷是为世界级旅游城市打造世界级的文化旅游新产品。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 45.892,
+      "end": 49.79,
+      "label": "uncertain",
+      "text": "新业态、新品牌。从创办之日起，",
+      "score": 0.5191,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4424,
+        "acoustic_dev": 0.998,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "新业态、新品牌，从创办之日起。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 49.947,
+      "end": 53.361,
+      "label": "mandarin",
+      "text": "桂林艺术节就坚持高质量、高标准，",
+      "score": 0.003,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0143,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林艺术节就坚持高质量、高标准。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 53.547,
+      "end": 57.042,
+      "label": "mandarin",
+      "text": "努力比肩英国爱丁堡边缘艺术节、",
+      "score": 0.2199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0438,
+        "acoustic_dev": 0.074,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "努/鲁",
+        "lexicon": "",
+        "text_free": "鲁里比间，英国爱丁堡边缘艺术节。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.218,
+      "end": 62.606,
+      "label": "mandarin",
+      "text": "法国阿维尼翁戏剧节等国际一流艺术节庆活动，",
+      "score": 0.1229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "尼/利",
+        "lexicon": "",
+        "text_free": "法国阿维利翁戏剧节等国际一流艺术节庆活动。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.852,
+      "end": 67.072,
+      "label": "guilin",
+      "text": "并加强文化交流、促进文明互鉴的理念。",
+      "score": 0.5771,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4656,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "秉持加强文化交流，促进文明互鉴的理念。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 67.315,
+      "end": 70.912,
+      "label": "mandarin",
+      "text": "二零二二年，桂林艺术节举办主题论坛、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二二年，桂林艺术节举办主题论坛。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 70.912,
+      "end": 75.82,
+      "label": "mandarin",
+      "text": "艺术与城市国际艺术高峰论坛和主题艺术沙龙，",
+      "score": 0.1331,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1033,
+        "acoustic_dev": 0.212,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "艺术与城市国际艺术高峰论坛或主题艺术沙龙。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 76.021,
+      "end": 79.84,
+      "label": "mandarin",
+      "text": "当代中国青年戏剧导演的发展策略，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当代中国青年戏剧导演的发展策略。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 80.133,
+      "end": 88.133,
+      "label": "mandarin",
+      "text": "来自国内外多领域的知名艺术家学者为人们带来了一场极大的思想盛宴。",
+      "score": 0.0295,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0078,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.065,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自国内外多领域的知名艺术家、学者，为人们带来了一场激荡的思想盛宴。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 88.621,
+      "end": 96.993,
+      "label": "guilin",
+      "text": "法国著名爵士乐女歌手安玛在象鼻山前开启玫瑰人生香颂音乐会。",
+      "score": 0.6947,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4437,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.321,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.111,
+        "phon_examples": "女/旅",
+        "lexicon": "",
+        "text_free": "法国著名爵士乐旅歌手安娜在香槟山前开启玫瑰吟声，相送音乐费。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 97.298,
+      "end": 102.795,
+      "label": "mandarin",
+      "text": "二零二三年，桂林艺术节的“世界戏剧教育联盟校长论坛”上，",
+      "score": 0.1539,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1395,
+        "acoustic_dev": 0.296,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二三年，桂林艺术节的“世界戏剧教育联盟”校长论坛上。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 103.002,
+      "end": 107.28,
+      "label": "mandarin",
+      "text": "与会专家学者聚焦民族戏剧的建设与发展，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0097,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "与会专家学者聚焦民族戏剧的建设与发展。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 107.529,
+      "end": 109.985,
+      "label": "uncertain",
+      "text": "追溯历史、叩问当下、",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1943,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "追溯历史，叩问当下。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 109.985,
+      "end": 119.523,
+      "label": "mandarin",
+      "text": "展望未来。戏剧《樱桃园》《美第亚》《罗密欧与朱丽叶》等外国作品与桂林山水文化发生碰撞，",
+      "score": 0.028,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0134,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.057,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "展望未来，西居《樱桃园》《美第亚》《罗密欧与朱丽叶》等外国作品与桂林山水文化发生碰撞。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 119.749,
+      "end": 122.722,
+      "label": "mandarin",
+      "text": "激发无限灵感。三年来，",
+      "score": 0.0117,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0215,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "激发无限灵感。三年来。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 122.751,
+      "end": 125.125,
+      "label": "mandarin",
+      "text": "桂林艺术节共吸引了法国、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林艺术节共吸引了法国。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 125.125,
+      "end": 131.435,
+      "label": "mandarin",
+      "text": "日本、英国、瑞典、格鲁吉亚等十多个国家的演出团队前来参加，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "日本、英国、瑞典、格鲁吉亚等十多个国家的演出团队前来参加。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 131.752,
+      "end": 136.325,
+      "label": "mandarin",
+      "text": "形成了国际文化艺术交流互鉴的良好格局。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "形成了国际文化艺术交流互鉴的良好格局。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 136.478,
+      "end": 141.508,
+      "label": "mandarin",
+      "text": "引进来的同时，桂林艺术节也率先迈出了走出去的步伐。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "引进来的同时，桂林艺术节也率先迈出了走出去的步伐。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 141.928,
+      "end": 152.257,
+      "label": "mandarin",
+      "text": "二零二三年，桂林艺术节全球华语青年戏剧导演人才计划的两部微乐作品《西游记》和《大丹妈妈和他的孩子们》",
+      "score": 0.0632,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0137,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二三年，桂林艺术节全球法语青年戏剧导演银彩技法的两部微乐作品《西游记》和《大胆妈妈和他的孩子们》。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 152.423,
+      "end": 156.058,
+      "label": "mandarin",
+      "text": "在爱丁堡边缘艺术节上大放异彩，",
+      "score": 0.0041,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0153,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在爱丁堡边缘艺术节上大放异彩。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 156.234,
+      "end": 162.613,
+      "label": "mandarin",
+      "text": "荣获最佳导演奖、亚洲艺术特别剧目奖和特别表演奖。",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "荣获最佳导演奖、亚洲艺术特别剧目奖或特别表演奖。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 163.004,
+      "end": 166.566,
+      "label": "mandarin",
+      "text": "桂林艺术节成为了国内首个走出国门、",
+      "score": 0.3642,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2903,
+        "acoustic_dev": 0.646,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林艺术节成为了国内首国走出国门。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 166.566,
+      "end": 170.574,
+      "label": "mandarin",
+      "text": "举办国际专场推介会的中国艺术节。",
+      "score": 0.0856,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0323,
+        "acoustic_dev": 0.047,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "举办国际专场特展会的中国艺术节。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 171.068,
+      "end": 184.703,
+      "label": "mandarin",
+      "text": "二零二四年，《大丹妈妈和他的孩子们》以及全球华语青年戏剧导演人才计划遴选作品《冷血》精彩亮相第七届法国阿维尼翁戏剧节。",
+      "score": 0.2289,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1102,
+        "acoustic_dev": 0.228,
+        "seg_cer": 0.132,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "尼/利",
+        "lexicon": "",
+        "text_free": "二零二四年，大胆妈妈和他的孩子们，以及全球法语青年戏剧导演银彩计划遴选作品《冷血》，精彩亮相第七十八届法国阿维利翁戏剧节。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 184.712,
+      "end": 190.171,
+      "label": "mandarin",
+      "text": "向国外观众展示中国青年原创戏剧的全新面貌。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "向国外观众展示中国青年原创戏剧的全新面貌。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 190.55,
+      "end": 193.552,
+      "label": "mandarin",
+      "text": "正是这种不同文明之间的交流互鉴，",
+      "score": 0.0026,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "正是这种不同文明之间的交流互鉴。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 193.729,
+      "end": 197.562,
+      "label": "mandarin",
+      "text": "彰显了桂林艺术节舞台开放包容的气质，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "彰显了桂林艺术界舞台开放包容的气质。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 197.856,
+      "end": 201.569,
+      "label": "mandarin",
+      "text": "以及用桂林经典讲好中国故事、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0079,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以及用桂林经典讲好中国故事。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 201.569,
+      "end": 204.036,
+      "label": "mandarin",
+      "text": "世界故事的文化自信。",
+      "score": 0.1535,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1392,
+        "acoustic_dev": 0.295,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "世界故事的文化自信。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 204.036,
+      "end": 207.172,
+      "label": "mandarin",
+      "text": "桂林艺术节从国内走向国际，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0075,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林艺术节从国内走向国际。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 207.329,
+      "end": 210.925,
+      "label": "mandarin",
+      "text": "连续两年在英国和法国举办推介会，",
+      "score": 0.0597,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0613,
+        "acoustic_dev": 0.115,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "连续两年在英国和法国举办推介会。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 211.153,
+      "end": 214.515,
+      "label": "mandarin",
+      "text": "成为国际文化艺术交流的重要载体，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为国际文化艺术交流的重要载体。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 214.851,
+      "end": 217.231,
+      "label": "mandarin",
+      "text": "助力中国文化走出了国门。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "助力中国文化走出了国门。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 217.444,
+      "end": 221.643,
+      "label": "mandarin",
+      "text": "下一步，桂林将持续做好桂林艺术节，IP",
+      "score": 0.0715,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0712,
+        "acoustic_dev": 0.138,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下一步，桂林将持续做好桂林艺术节IP。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 221.834,
+      "end": 227.469,
+      "label": "mandarin",
+      "text": "将艺术节打造成为新时代对外交流合作的国家名片。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将艺术节打造成为新时代对外交流合作的国家名片。"
+      }
+    }
+  ]
+}

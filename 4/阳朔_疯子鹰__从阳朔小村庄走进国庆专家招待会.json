@@ -1,0 +1,997 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "阳朔_疯子鹰__从阳朔小村庄走进国庆专家招待会.wav",
+  "duration": 233.057,
+  "no_dialect": false,
+  "created_at": "2026-10-26T17:58:53",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.205,
+      "end": 4.095,
+      "label": "mandarin",
+      "text": "我们曾经去过在阳朔定居的一位外国友人，",
+      "score": 0.0513,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0549,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们曾经参观在阳朔定居的一位外国友人。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.095,
+      "end": 10.098,
+      "label": "mandarin",
+      "text": "也就是被当地人称作是“冯子英”的南非人伊恩·汉密尔顿·李班诺。",
+      "score": 0.1021,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0636,
+        "acoustic_dev": 0.027,
+        "seg_cer": 0.192,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也就是被当地人称作是“疯子营”的南非营伊恩·汉密尔顿的班路。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.396,
+      "end": 18.712,
+      "label": "mandarin",
+      "text": "这位扎根中国二十三年的老外，在保护古民居和促进乡村旅游发展方面是做出了好多贡献的。",
+      "score": 0.0117,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.026,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一位扎根中国二十三年的老外，在保护古民居和促进乡村旅游发展方面，是做出了好多贡献的。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.962,
+      "end": 26.278,
+      "label": "mandarin",
+      "text": "今年呢，他还受邀参加了庆祝中华人民共和国成立七十五周年外国专家招待会。",
+      "score": 0.0139,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0265,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.03,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年呢，他还受邀参加了庆祝中华人民共和国成立七十五周年。外国专家招待费。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 26.632,
+      "end": 31.922,
+      "label": "mandarin",
+      "text": "二零零二年，一次偶然的机会，伊恩来到了桂林阳朔旧县城。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0131,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零零二年，一次偶然的机会，伊恩来到了桂林阳朔旧县城。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 32.265,
+      "end": 37.589,
+      "label": "mandarin",
+      "text": "他看到阳朔古民居的时候，就像是发现了被岁月尘封的珍宝。",
+      "score": 0.1382,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "民/名",
+        "lexicon": "",
+        "text_free": "他看到杨朔古名句的时候，就像是发现了被岁月尘封的珍宝。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 37.857,
+      "end": 41.808,
+      "label": "mandarin",
+      "text": "这些古民居承载着历史的记忆、民族的智慧，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0125,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这些古民居承载着历史的记忆，民族的智慧。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 42.17,
+      "end": 45.092,
+      "label": "mandarin",
+      "text": "但是岁月的侵蚀让他们岌岌可危，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0187,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是岁月的侵蚀，让他们岌岌可危。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 45.413,
+      "end": 50.154,
+      "label": "mandarin",
+      "text": "这让他非常痛心。所以伊恩就做出了一个疯狂的决定，",
+      "score": 0.0787,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0781,
+        "acoustic_dev": 0.071,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这让他非常同情，所以伊恩就做出了一个疯狂的决定。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 50.154,
+      "end": 53.72,
+      "label": "mandarin",
+      "text": "留在阳朔，租下这些破败的古民居，",
+      "score": 0.2205,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1103,
+        "acoustic_dev": 0.169,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "租/住",
+        "lexicon": "",
+        "text_free": "留在阳朔，住下这些破败的古民居。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 53.921,
+      "end": 56.901,
+      "label": "mandarin",
+      "text": "并且一点一点亲自去修复他们。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并且一点一点亲自去修复他们。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 57.309,
+      "end": 60.833,
+      "label": "mandarin",
+      "text": "为此，他耗尽了所有的积蓄，甚至是贷了款，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为此，他耗尽了所有的积蓄，甚至是贷了款。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 61.209,
+      "end": 65.331,
+      "label": "mandarin",
+      "text": "一个人充当了设计师、装修工、老板等的角色。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一个人充当了设计师、装修工、老板等等角色。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 65.761,
+      "end": 69.082,
+      "label": "uncertain",
+      "text": "他也因此被村民们称之为“冯子”。",
+      "score": 0.4657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3055,
+        "acoustic_dev": 0.76,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他也因此被臣民们称之为“疯子”。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 69.082,
+      "end": 77.706,
+      "label": "mandarin",
+      "text": "我我现在就是很开心，因为就是我我有这个机会能把那么多房子保护了，呃，我我觉得自己很开心。",
+      "score": 0.08,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0338,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.175,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我我现在就是很开心，因为我就说：“哇，我有这个机会能把那么多房子保护了。”呃，我我就自己很开心。所以。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 77.706,
+      "end": 80.477,
+      "label": "uncertain",
+      "text": "所以现在做的我的目的，也就是要",
+      "score": 0.4522,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3001,
+        "acoustic_dev": 0.744,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在做的，我的目的也就是要。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 80.705,
+      "end": 82.941,
+      "label": "mandarin",
+      "text": "要把这个老房子保护。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要把这个老房子保护。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 83.199,
+      "end": 85.8,
+      "label": "mandarin",
+      "text": "呃，我觉得这个是人是要做，",
+      "score": 0.1395,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1431,
+        "acoustic_dev": 0.268,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，我觉得这个是人是要做。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 86.2,
+      "end": 88.52,
+      "label": "mandarin",
+      "text": "如果别人不做，那刚好我可以自己做，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果别人不做，那刚好我可以自己。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 88.657,
+      "end": 94.893,
+      "label": "mandarin",
+      "text": "我也很希望做这个事情。看到一栋栋破旧的古民居在冯子英的手下复活，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0297,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我也很希望做这个事情。看到一栋栋破旧的古民居在疯子的手下复活。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.067,
+      "end": 98.927,
+      "label": "guilin",
+      "text": "甚至是焕发出比之前更动人的魅力，",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5399,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "甚至是散发出比之前更动人的美丽。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 99.222,
+      "end": 103.062,
+      "label": "mandarin",
+      "text": "更多人开始关注阳朔古民居的魅力和价值，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0542,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更多人开始关注阳朔古民居的魅力和价值。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 103.062,
+      "end": 109.451,
+      "label": "mandarin",
+      "text": "也洋这一份跨国的情谊在古民居的一砖一瓦当中深深扎根。",
+      "score": 0.0448,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0714,
+        "acoustic_dev": 0.051,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也让这一份跨国的情谊，在古民居的一砖一瓦当中深深扎根。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 109.888,
+      "end": 115.316,
+      "label": "mandarin",
+      "text": "在他的影响下，好多人回到城里头修缮古民居、办起民宿、",
+      "score": 0.2905,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1884,
+        "acoustic_dev": 0.406,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在他的影响下，好多人飞到城里头修山谷民居，搬起民宿。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 115.532,
+      "end": 117.936,
+      "label": "mandarin",
+      "text": "发展乡村休闲旅游，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发展乡村休闲旅游。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 118.392,
+      "end": 120.794,
+      "label": "mandarin",
+      "text": "不仅发家致富，盖起了新房，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0077,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅发家致富，盖起了新房。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 120.794,
+      "end": 124.753,
+      "label": "mandarin",
+      "text": "更让承载着历史记忆的古民居焕发新活力，",
+      "score": 0.0056,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0581,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更让承载着历史记忆的古民居焕发新活力。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 125.013,
+      "end": 128.33,
+      "label": "mandarin",
+      "text": "为乡村振兴发展注入文化动力。",
+      "score": 0.0309,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0741,
+        "acoustic_dev": 0.059,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为乡村振兴发展注入文化动力。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 128.33,
+      "end": 132.46,
+      "label": "mandarin",
+      "text": "如今，冯子英还在用心经营着城里头的民宿，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0483,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如今，冯子颖还在用心经营着城里头的民宿。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 132.46,
+      "end": 137.264,
+      "label": "mandarin",
+      "text": "并继续投身古宅翻新和古城罗保护的工作当中。",
+      "score": 0.1062,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0639,
+        "acoustic_dev": 0.028,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并继续投身骨折翻新或古城路保护的工作当中。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 137.264,
+      "end": 139.863,
+      "label": "mandarin",
+      "text": "先看一下那个房子，他自己怎么样？",
+      "score": 0.3341,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2205,
+        "acoustic_dev": 0.503,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "么样",
+        "text_free": "先看一下那个房子，它自己怎么样。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 139.863,
+      "end": 143.814,
+      "label": "guilin",
+      "text": "呃，怎么能弄它更漂亮、",
+      "score": 0.5708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7277,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，怎么能弄出更漂亮？"
+      }
+    },
+    {
+      "id": 33,
+      "start": 143.884,
+      "end": 146.425,
+      "label": "guilin",
+      "text": "更舒服？呃，我也是，",
+      "score": 0.7633,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6678,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "更/跟",
+        "lexicon": "",
+        "text_free": "跟束缚，呃，我也是。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 146.443,
+      "end": 149.327,
+      "label": "mandarin",
+      "text": "我的想法都是，这个房子",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0363,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我的想法都是：这个房子。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 149.328,
+      "end": 152.092,
+      "label": "mandarin",
+      "text": "如果是一百五十年前，呃，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0298,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果是一百五十年前，呃。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 152.314,
+      "end": 159.688,
+      "label": "mandarin",
+      "text": "被呃起的，如果那个人起的这个房子，如果他金钱在这里，他会自己怎么弄它？",
+      "score": 0.3117,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1775,
+        "acoustic_dev": 0.372,
+        "seg_cer": 0.258,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "被呃气得，如果那个人气得这个房子，如果他今天在这里，他会自己这么弄他。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 159.773,
+      "end": 165.498,
+      "label": "mandarin",
+      "text": "在冯子英的眼里头，阳朔古民居是活到的历史，是无价的瑰宝。",
+      "score": 0.1382,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0363,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "英/银",
+        "lexicon": "",
+        "text_free": "在冯子银的眼里头，阳朔古民居是活到的历史，是吴家的瑰宝。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 165.855,
+      "end": 169.485,
+      "label": "mandarin",
+      "text": "他用行动诠释对这片土地的热爱，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0075,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他用行动诠释对这一片土地的热爱。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 169.634,
+      "end": 172.911,
+      "label": "guilin",
+      "text": "也自己深深融入了阳朔这个大家庭。",
+      "score": 0.581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3907,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让自己深深融入了杨朔这个大家庭。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 173.366,
+      "end": 181.148,
+      "label": "mandarin",
+      "text": "九月二十七号，冯子英受邀参加了庆祝中华人民共和国成立七十五周年外国专家招待会，",
+      "score": 0.1494,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0218,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.108,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "民/名 英/银",
+        "lexicon": "",
+        "text_free": "九月二十七号，冯子银受邀参加了庆祝中华一名共和国成立七十五周年，外国专家招待费。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 181.445,
+      "end": 190.873,
+      "label": "uncertain",
+      "text": "在迎宾大礼堂举行。他与在华工作的外国专家代表及配偶一起同心共贺盛世华诞。",
+      "score": 0.4119,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2279,
+        "acoustic_dev": 0.525,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "盛/申",
+        "lexicon": "",
+        "text_free": "在人民大会堂举行，他与在法工作的外国专家代表及配偶一起，同心共获申世法单。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 190.873,
+      "end": 193.832,
+      "label": "guilin",
+      "text": "今今年，呃，广西政府",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.111,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "政/增",
+        "lexicon": "",
+        "text_free": "今年，呃，广西增幅。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 194.239,
+      "end": 197.982,
+      "label": "uncertain",
+      "text": "给我打了电话，就是邀请我去去北京，",
+      "score": 0.4938,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3293,
+        "acoustic_dev": 0.832,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给我打的电话，只是邀请我去去北京。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 198.338,
+      "end": 200.529,
+      "label": "mandarin",
+      "text": "呃，去人民大会堂，",
+      "score": 0.3544,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1966,
+        "acoustic_dev": 0.43,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，去人们大会场。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 201.023,
+      "end": 204.129,
+      "label": "mandarin",
+      "text": "呃，吃饭发发生那么多那么好的事情。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，吃饭，发生那么多那么好的事情。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 204.129,
+      "end": 206.477,
+      "label": "uncertain",
+      "text": "去了北京，我玩了，还很开心。",
+      "score": 0.4192,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1302,
+        "acoustic_dev": 0.229,
+        "seg_cer": 0.545,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "去咗北京，或玩咗，好開心。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 206.477,
+      "end": 210.242,
+      "label": "mandarin",
+      "text": "我觉得那么好的呃机会，我没想到我自己会",
+      "score": 0.0943,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.066,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是那么好的，呃，机会，我没想到我自己会。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 210.745,
+      "end": 214.293,
+      "label": "guilin",
+      "text": "去。作为中外交流合作的桥梁纽带，",
+      "score": 0.5527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7828,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为中外交流合作的桥梁纽带。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 214.293,
+      "end": 217.297,
+      "label": "mandarin",
+      "text": "作为中国式现代化事业的建设者，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0109,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为中国式现代化事业的建设者。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 217.495,
+      "end": 220.742,
+      "label": "mandarin",
+      "text": "作为增进人民友谊的民间大使，",
+      "score": 0.0311,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0743,
+        "acoustic_dev": 0.06,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为增进人民友谊的民间大使。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 220.963,
+      "end": 226.421,
+      "label": "mandarin",
+      "text": "冯子英以实际行动在八桂大地上绽放着国际友谊之花，",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0149,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冯子颖以实际行动在八桂大地上绽放着国际友谊之花。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 226.65,
+      "end": 233.057,
+      "label": "mandarin",
+      "text": "也将为推动构建人类命运共同体做出新的更大贡献。",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也将为推动构建人类命运共同体作出新的更大贡献。"
+      }
+    }
+  ]
+}

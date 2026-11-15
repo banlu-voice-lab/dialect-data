@@ -1,0 +1,1035 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "改革_金钥匙_解锁_四个之地_  之三_桂林_居游共享之地更有品质更.wav",
+  "duration": 236.552,
+  "no_dialect": false,
+  "created_at": "2026-10-26T15:18:29",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.119,
+      "label": "mandarin",
+      "text": "今天我首先来关注一下我们桂林的城市建设。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0088,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们首先来关注一下我们桂林的城市建设。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.39,
+      "end": 8.38,
+      "label": "mandarin",
+      "text": "近年来，我市以改革创新城市管理模式，",
+      "score": 0.1791,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.177,
+        "acoustic_dev": 0.344,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，我市以改革创新城市管理模式。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.38,
+      "end": 12.673,
+      "label": "mandarin",
+      "text": "推动社会治理现代化和城市管理精细化，",
+      "score": 0.0129,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0238,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动社会治理现代化和城市管理精细化。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.796,
+      "end": 16.136,
+      "label": "mandarin",
+      "text": "让城市更有品质、更有温度。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让城市更有品质，更有温度。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.62,
+      "end": 28.078,
+      "label": "mandarin",
+      "text": "旅游新业态游客更加追求沉浸式旅游、更加注重在一座城市里体验感，",
+      "score": 0.1948,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1769,
+        "acoustic_dev": 0.344,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "旅游新业态，游客更加追求沉浸式旅游，更加注重在一座城市的体验感。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.375,
+      "end": 30.564,
+      "label": "mandarin",
+      "text": "如何满足游客的新需求？",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0095,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "又会满足游客的新需求。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.564,
+      "end": 33.259,
+      "label": "mandarin",
+      "text": "桂林从城市基础设施提升、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林从城市基础设施提升。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.259,
+      "end": 40.226,
+      "label": "mandarin",
+      "text": "公共服务提质入手，使得城市居民幸福感和外来游客体验感双提升。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "公共服务提质入手，使得城市居民幸福感和外来游客体验感双提升。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 40.269,
+      "end": 44.089,
+      "label": "mandarin",
+      "text": "这里是广西首个机场境外来宾支付示范区，",
+      "score": 0.0594,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0667,
+        "acoustic_dev": 0.114,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这里是广西首个机场境外来宾支付示范区。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.089,
+      "end": 48.273,
+      "label": "mandarin",
+      "text": "示范区里随处可见支持外卡消费的受理标识，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "示范区里随处可见支持外卡消费的受理标识。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.273,
+      "end": 51.686,
+      "label": "mandarin",
+      "text": "这边呢可以提供零钱包以及外币兑换的服务。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这边呢，可以提供零钱包以及外币兑换的服务。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 51.774,
+      "end": 54.593,
+      "label": "mandarin",
+      "text": "那么来到境外来宾支付服务中心，",
+      "score": 0.0997,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1038,
+        "acoustic_dev": 0.192,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么，来到境外来宾支付服务中心。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 54.6,
+      "end": 58.169,
+      "label": "mandarin",
+      "text": "还提供了贴心的外卡内绑应用服务指南。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还提供了贴心的外卡内绑应用服务指南。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.454,
+      "end": 62.513,
+      "label": "mandarin",
+      "text": "外宾们刚落地就能搞定在桂林的消费方式，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0103,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "外宾们刚落地就能搞定在桂林的消费方式。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 62.513,
+      "end": 65.258,
+      "label": "mandarin",
+      "text": "可以说是非常贴心的服务了。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以说是非常贴心的服务了。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 65.258,
+      "end": 67.974,
+      "label": "guilin",
+      "text": "帮助境外游客外卡内绑，",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5792,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "帮助境外游客外卡来帮。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 68.128,
+      "end": 72.557,
+      "label": "mandarin",
+      "text": "只是桂林为境外游客便捷旅游的其中一番。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "只是桂林为境外游客便捷旅游的其中一范。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 72.894,
+      "end": 80.668,
+      "label": "mandarin",
+      "text": "目前，桂林正在对境外游客游览过程当中便利性的痛点进行全方位全流程的梳理，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0049,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，桂林正在对境外游客游览过程当中便利性的痛点进行全方位、全流程的梳理。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.996,
+      "end": 85.9,
+      "label": "mandarin",
+      "text": "从航线的恢复、涉外场所配备外卡POS机，",
+      "score": 0.2428,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1795,
+        "acoustic_dev": 0.35,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从航线里恢复，设外场所配备外卡POS机。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 85.9,
+      "end": 88.734,
+      "label": "guilin",
+      "text": "到小雨中稀缺导游的配备、",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8692,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到小雨中，喜鹊导游的配备。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.875,
+      "end": 93.63,
+      "label": "mandarin",
+      "text": "景区门票预约等以前存在的问题都得以解决。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "景区门票预约等以前存在的问题，都得以解决。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 94.05,
+      "end": 100.755,
+      "label": "mandarin",
+      "text": "截止到七月十五号，桂林市文旅场景新增外卡POS机四百七十二台，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "截止到七月十五号，桂林市文旅场景新增外卡POS机四百七十二台。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 100.961,
+      "end": 104.891,
+      "label": "mandarin",
+      "text": "新增ATM机以及外币兑换点八个。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0116,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "新增ATM机以及外币兑换点八个。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 104.906,
+      "end": 110.081,
+      "label": "mandarin",
+      "text": "同时，桂林还专门针对境外游客青睐的热门旅游线路，",
+      "score": 0.0022,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，桂林还专门针对境外游客青睐的热门旅游线路。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 110.213,
+      "end": 113.003,
+      "label": "mandarin",
+      "text": "以一江一河一街为中心，",
+      "score": 0.2305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1822,
+        "acoustic_dev": 0.355,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以一江一河一改为中心。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 113.003,
+      "end": 116.947,
+      "label": "mandarin",
+      "text": "打造阳朔外籍人士支付便利型旅游休闲区。",
+      "score": 0.0932,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.051,
+        "acoustic_dev": 0.082,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造阳朔外籍人士致富便利型旅游休闲区。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 117.267,
+      "end": 121.286,
+      "label": "mandarin",
+      "text": "让游客在桂林体验语言通、数据通的同时，",
+      "score": 0.0292,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "洋游客在桂林体验语言通、数据通的同时。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 121.538,
+      "end": 127.578,
+      "label": "mandarin",
+      "text": "桂林还在路路通这一项基础性工程上精细化，宠爱游客。",
+      "score": 0.0596,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林还在路路通这一项基础性工程上，惊喜发宠爱游客。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 127.793,
+      "end": 133.436,
+      "label": "mandarin",
+      "text": "以前，象山公园二号门所在滨江路人行道进行拓宽改造，",
+      "score": 0.3788,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3244,
+        "acoustic_dev": 0.652,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以前，香山公园二号门所在的滨江路人行道进行拓宽改造。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 133.753,
+      "end": 142.173,
+      "label": "mandarin",
+      "text": "虽然这是一次微改造，但是让市民和游客都点赞这座城市在管理上的贴心与温度。",
+      "score": 0.1269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "虽/水",
+        "lexicon": "",
+        "text_free": "水岸这是一次微改造，但是让市民和游客都点赞。这座城市在管理上的贴心与温度。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 142.173,
+      "end": 146.097,
+      "label": "mandarin",
+      "text": "这以前啊，我们早上出来的时候，这边因为没有拆，就是很拥挤，",
+      "score": 0.1155,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0509,
+        "acoustic_dev": 0.081,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以前啊，我们带它出来的时候，这面因为没有拆，就是很拥挤。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 146.097,
+      "end": 149.275,
+      "label": "mandarin",
+      "text": "呃，就是游客过路往这里通过的时候就很不方便。",
+      "score": 0.0004,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0123,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，就是游客过路往这里通过的时候就很不方便。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 149.275,
+      "end": 151.585,
+      "label": "guilin",
+      "text": "呃，现在呢拆开以后啊，一出来以后，",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4957,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊！现在呢，是拆开以后啊，一出来以后。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 151.585,
+      "end": 155.02,
+      "label": "mandarin",
+      "text": "这边很宽阔，那个游客就出行就很便捷。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0083,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这边很宽阔，那个游客就是出行就很便捷。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 155.02,
+      "end": 160.074,
+      "label": "mandarin",
+      "text": "目前，桂林市五大景区连接项目第一阶段已经顺利竣工，",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，桂林市五大景区连接线项目第一阶段已经顺利竣工。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 160.364,
+      "end": 165.249,
+      "label": "mandarin",
+      "text": "市城管委等相关部门正着眼于城市精细化管理，",
+      "score": 0.0066,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.018,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "市城管委等相关部门正着眼于城市精细化管理。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 165.551,
+      "end": 167.965,
+      "label": "mandarin",
+      "text": "全力提升城市环境品质，",
+      "score": 0.0012,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.013,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全力提升城市环境品质。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 168.111,
+      "end": 171.123,
+      "label": "guilin",
+      "text": "让市民和游客居游共享。",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8011,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让市民和游客举友共享。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 171.168,
+      "end": 174.006,
+      "label": "mandarin",
+      "text": "目前，我委正牵头制定",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，我委正牵头制定。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 174.103,
+      "end": 178.643,
+      "label": "uncertain",
+      "text": "滨江路城市精细化管理示范街区实施方案，",
+      "score": 0.5088,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4809,
+        "acoustic_dev": 0.978,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "滨江路城市精细化管理示范街区实施方案。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 178.643,
+      "end": 181.978,
+      "label": "mandarin",
+      "text": "实现安全畅通、基础完善。",
+      "score": 0.106,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1096,
+        "acoustic_dev": 0.204,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现安全畅通，基础完善。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 182.123,
+      "end": 184.692,
+      "label": "mandarin",
+      "text": "环境优美，商业繁荣，",
+      "score": 0.0063,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0177,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "环境优美，商业繁荣。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 184.692,
+      "end": 187.027,
+      "label": "mandarin",
+      "text": "文化浓厚，管理规范，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文化浓厚，管理规范。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 187.25,
+      "end": 191.583,
+      "label": "mandarin",
+      "text": "文明有序，让市民的游客有更多的幸福感、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文明有序，让市民的游客有更多的幸福感。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 191.725,
+      "end": 194.84,
+      "label": "guilin",
+      "text": "获得感、安全感。这几年，",
+      "score": 0.6362,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4579,
+        "acoustic_dev": 0.93,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "获得感、安全感。走进里。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 194.84,
+      "end": 198.614,
+      "label": "guilin",
+      "text": "桂林以改革聚力量，以改革求突破，",
+      "score": 0.7157,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6218,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "林/岭",
+        "lexicon": "",
+        "text_free": "回岭一改革，举李梁一改革，求突破。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 198.797,
+      "end": 201.607,
+      "label": "uncertain",
+      "text": "持续推进宜居城市建设，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.1525,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "持续推进宜居城市建设。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 201.812,
+      "end": 211.524,
+      "label": "guilin",
+      "text": "探索居游共享之地。成功入围“十四五”全国第二批系统化全域推进海绵城市建设示范城市后，",
+      "score": 0.6442,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4624,
+        "acoustic_dev": 0.94,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "四/十 十/四",
+        "lexicon": "",
+        "text_free": "该所具有共享之地。成功入围四十五全国第二批系统化全域推进海绵城市建设示范城市后。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 211.827,
+      "end": 217.723,
+      "label": "mandarin",
+      "text": "桂林市去年以来共开工海绵城市项目九十七个，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林市去年以来，共开工海绵城市项目九十七个。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 217.954,
+      "end": 220.135,
+      "label": "mandarin",
+      "text": "竣工项目二十七个。",
+      "score": 0.2225,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "十/死",
+        "lexicon": "",
+        "text_free": "军工项目饿死七国。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 220.245,
+      "end": 226.592,
+      "label": "mandarin",
+      "text": "今年，桂林两个城中城改造项目成功获批城中城改造专项借款，",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年，桂林两个城中村改造项目成功获批城中村改造专项借款。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 226.91,
+      "end": 229.649,
+      "label": "mandarin",
+      "text": "授信额度三十一点一个亿。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "授信额度三十一点一个亿。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 229.904,
+      "end": 233.072,
+      "label": "mandarin",
+      "text": "桂林正在成为更有温度、更有质感、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林正在成为更有温度、更有质感。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 233.205,
+      "end": 236.552,
+      "label": "guilin",
+      "text": "诗意更浓、远方如家的城市。",
+      "score": 0.6991,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4167,
+        "acoustic_dev": 0.844,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "更/跟 诗/肆",
+        "lexicon": "",
+        "text_free": "肆意跟踪远方又假的城市。"
+      }
+    }
+  ]
+}
