@@ -1,0 +1,324 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "中秋 国庆双节出游消费提示.wav",
+  "duration": 62.066,
+  "no_dialect": false,
+  "created_at": "2026-10-28T01:58:45",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.373,
+      "label": "mandarin",
+      "text": "中秋国庆的长假忙就来了不？大家在双节肯定是要出去耍的，",
+      "score": 0.0766,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0833,
+        "sc_logprob": -0.1038,
+        "sc_delta": -0.0205,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "耍",
+        "text_free": "中秋国庆的长假忙着来了，不大家这双节肯定是要出去耍的。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.373,
+      "end": 7.56,
+      "label": "guilin",
+      "text": "但是出去耍的话，要提醒大家呢，要理性的消费不？",
+      "score": 0.6971,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4571,
+        "sc_logprob": -0.4545,
+        "sc_delta": 0.0026,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "耍",
+        "text_free": "但是说耍耍，也要提醒大家呢，要理性地消费。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.56,
+      "end": 13.469,
+      "label": "guilin",
+      "text": "因为我们哈挣钱也蛮难的，所以下面呢就帮大家整理了一份理性消费的提示：",
+      "score": 0.0143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0158,
+        "sc_logprob": -0.0119,
+        "sc_delta": 0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.031,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为我们啊，挣钱也蛮难的，所以下面呢，就帮大家整理了一份理性消费的提示。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.455,
+      "end": 18.93,
+      "label": "mandarin",
+      "text": "合理规划，密切的关注相关部门发布的出行提示信息，",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0459,
+        "sc_logprob": -0.0467,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "会规划密切的关注相关部门发布的出行提示信息。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.93,
+      "end": 21.824,
+      "label": "guilin",
+      "text": "关注天气情况，选择证照齐全、",
+      "score": 0.4062,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2658,
+        "sc_logprob": -0.2593,
+        "sc_delta": 0.0066,
+        "acoustic_dev": 0.516,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "证/增",
+        "lexicon": "",
+        "text_free": "关注天气情况，选择增照齐全。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.824,
+      "end": 25.089,
+      "label": "guilin",
+      "text": "信誉良好的旅行社，签订规范的旅游合同，",
+      "score": 0.0624,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0891,
+        "sc_logprob": -0.0881,
+        "sc_delta": 0.001,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "新与良好的旅行社签订规范的旅游合同。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 25.276,
+      "end": 30.5,
+      "label": "mandarin",
+      "text": "仔细的阅读合同的条款，提前的核对食宿预订信息等等。",
+      "score": 0.1494,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "sc_logprob": -0.0013,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "宿/数",
+        "lexicon": "",
+        "text_free": "仔细地阅读合同的条款，提前地核对实数预定信息等等。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.798,
+      "end": 35.32,
+      "label": "guilin",
+      "text": "理性购物，谨慎的选择旅游商品，避免冲动消费，",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0004,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "理性购物，谨慎地选择旅游商品，避免冲动消费。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.32,
+      "end": 39.1,
+      "label": "guilin",
+      "text": "应该在理解促销规则的情况下选择打折的商品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "sc_logprob": -0.0018,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "应该在理解促销规则的情况下，选择打折的商品。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.213,
+      "end": 44.769,
+      "label": "mandarin",
+      "text": "警惕赠送、低价、特价这些诱惑不实的虚假广告宣传，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0081,
+        "sc_logprob": -0.0111,
+        "sc_delta": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "警惕赠送、低价、特价这些诱惑，不实的虚假广告宣传。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.887,
+      "end": 47.566,
+      "label": "mandarin",
+      "text": "避免上当受骗。保留凭证，",
+      "score": 0.4765,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4077,
+        "sc_logprob": -0.4306,
+        "sc_delta": -0.0229,
+        "acoustic_dev": 0.916,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "避免上当受骗，保留凭证。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.6,
+      "end": 50.438,
+      "label": "mandarin",
+      "text": "注意保留购物的小票、交易合同、",
+      "score": 0.0016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0844,
+        "sc_logprob": -0.0965,
+        "sc_delta": -0.0121,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "注意保留购物的小票、交易合同。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 50.438,
+      "end": 52.751,
+      "label": "mandarin",
+      "text": "聊天记录或者快递单这些凭证，",
+      "score": 0.2055,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2233,
+        "sc_logprob": -0.2909,
+        "sc_delta": -0.0677,
+        "acoustic_dev": 0.395,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "聊天记录，或者快递单这些凭证。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 52.848,
+      "end": 58.449,
+      "label": "mandarin",
+      "text": "以免发生消费纠纷时候能够及时的通过正规渠道维护自身的权益。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0013,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以免发生消费纠纷，时候能够及时的通过正规渠道维护自身的权益。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 58.449,
+      "end": 62.066,
+      "label": "mandarin",
+      "text": "消费安全有品质、假期舒心又省心。",
+      "score": 0.7131,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.558,
+        "sc_logprob": -0.576,
+        "sc_delta": -0.018,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "省/身",
+        "lexicon": "",
+        "text_free": "消费安全有品质，家企舒心有身心。"
+      }
+    }
+  ]
+}

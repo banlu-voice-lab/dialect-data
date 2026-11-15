@@ -1,0 +1,345 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_健康问答_无糖碳酸饮料真的不会让人长胖吗_.wav",
+  "duration": 67.769,
+  "no_dialect": false,
+  "created_at": "2026-10-28T00:39:26",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.167,
+      "label": "mandarin",
+      "text": "现在呢，好多人呢，吃多了之后呢，就经常要要减肥。",
+      "score": 0.418,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1468,
+        "sc_logprob": -0.1759,
+        "sc_delta": -0.0291,
+        "acoustic_dev": 0.512,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "经/紧",
+        "lexicon": "",
+        "text_free": "现在呢，好多人呢，吃多了之后呢，就紧喊到要减肥。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.167,
+      "end": 5.24,
+      "label": "guilin",
+      "text": "那好多减肥的人呢，因为减肥呢，",
+      "score": 0.1218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0605,
+        "sc_logprob": -0.06,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.167,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那好多减肥的人呢，因为减肥。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 5.383,
+      "end": 9.383,
+      "label": "mandarin",
+      "text": "所以他就要控糖，所以呢，无糖的碳酸饮料呢，",
+      "score": 0.07,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0281,
+        "sc_logprob": -0.035,
+        "sc_delta": -0.0069,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以它就要空糖。所以呢，无糖的碳酸饮料呢。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 9.383,
+      "end": 13.655,
+      "label": "mandarin",
+      "text": "糖就特别喜欢喝。但是这种无糖饮料喝了之后，",
+      "score": 0.4246,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2114,
+        "sc_logprob": -0.2338,
+        "sc_delta": -0.0224,
+        "acoustic_dev": 0.77,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他就特别喜欢喝。但是这种无糖饮料喝了之后。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 13.655,
+      "end": 19.898,
+      "label": "mandarin",
+      "text": "真的是不长胖没有的。其实无糖碳酸饮料并不是真的一点不含糖。",
+      "score": 0.0521,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0276,
+        "sc_logprob": -0.0354,
+        "sc_delta": -0.0077,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "真的是不长胖苗的。其实无糖碳酸饮料并不是真的一点不含糖。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 19.898,
+      "end": 25.017,
+      "label": "mandarin",
+      "text": "根据食品安全国家标准与包装食品营养标签通则规定，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0056,
+        "sc_logprob": -0.0062,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据食品安全国家标准与包装食品营养标签通则规定。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 25.219,
+      "end": 28.374,
+      "label": "guilin",
+      "text": "每一百毫升或者一百克的食品当中，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "sc_logprob": -0.0029,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每一百毫升或者一百克的食品当中。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 28.524,
+      "end": 33.836,
+      "label": "guilin",
+      "text": "糖含量小于或者等于零点五克就可以称之为无糖。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "sc_logprob": -0.0014,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "糖含量小于或者等于零点五克，就可以称之为无糖。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.136,
+      "end": 36.86,
+      "label": "mandarin",
+      "text": "部分无糖碳酸饮料会用甜味剂，",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "sc_logprob": -0.0026,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "部分无糖碳酸饮料费用甜味剂。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 36.86,
+      "end": 42.493,
+      "label": "mandarin",
+      "text": "也就是我们大家经常讲的代糖来代替蔗糖等传统糖类，",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "sc_logprob": -0.0039,
+        "sc_delta": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也就是我们大家经常讲的“代汤”，来代替蔗糖等传统糖类。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 42.748,
+      "end": 46.119,
+      "label": "guilin",
+      "text": "这确实有利于控制人体能量摄入，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0101,
+        "sc_logprob": -0.0081,
+        "sc_delta": 0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这确实有利于控制人体能量摄入。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.119,
+      "end": 51.892,
+      "label": "guilin",
+      "text": "减轻身体代谢负担。但是，摄入甜味剂很容易让人产生饥饿感，",
+      "score": 0.1066,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0525,
+        "sc_logprob": -0.052,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.135,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感情、身体代谢负担，但是摄入甜味剂很容易让人产生饥饿感。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 52.05,
+      "end": 56.425,
+      "label": "mandarin",
+      "text": "而且食欲增强，稍不注意就可能吃的比平时更多，",
+      "score": 0.0421,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0281,
+        "sc_logprob": -0.0308,
+        "sc_delta": -0.0027,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而且食欲增强，稍不注意就可能吃得比平时更多。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 56.702,
+      "end": 58.961,
+      "label": "mandarin",
+      "text": "对减重起到反作用。",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对感重起到反作用。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 59.14,
+      "end": 61.821,
+      "label": "guilin",
+      "text": "所以，想要减重还是喝白开水吧，",
+      "score": 0.2996,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1291,
+        "sc_logprob": -0.1288,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.441,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以想要赶钟，还是喝白开水吧。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.001,
+      "end": 67.769,
+      "label": "guilin",
+      "text": "既能够很好的补充身体所需，又能够减少其他没得必要的能量的摄入。",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "sc_logprob": -0.0038,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "既能够很好的补充身体所需，又能够减少其他没得必要的能量的摄入。"
+      }
+    }
+  ]
+}

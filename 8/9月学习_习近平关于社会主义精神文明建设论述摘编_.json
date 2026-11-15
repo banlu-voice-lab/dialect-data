@@ -1,0 +1,492 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "9月学习_习近平关于社会主义精神文明建设论述摘编_.wav",
+  "duration": 115.114,
+  "no_dialect": false,
+  "created_at": "2026-10-28T00:28:57",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.235,
+      "label": "mandarin",
+      "text": "今天我们的学习是习近平关于社会主义精神文明建设论述的摘编专栏。",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0063,
+        "sc_logprob": -0.0064,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们要学习的是习近平关于社会主义精神文明建设论述的这篇专栏。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.407,
+      "end": 18.425,
+      "label": "mandarin",
+      "text": "我们去学习的是二零一七年十月十八号习近平在中国共产党第十九次全国代表大会上的报告《决胜全面建成小康社会，",
+      "score": 0.0261,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0166,
+        "sc_logprob": -0.0205,
+        "sc_delta": -0.0039,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们一起学习的是二零一七年十月十八号，习近平在中国共产党第十九次全国代表大会上的报告：决胜全面建成小康社会。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 18.425,
+      "end": 23.895,
+      "label": "guilin",
+      "text": "夺取新时代中国特色社会主义伟大胜利》的部分讲话内容。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "sc_logprob": -0.0013,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夺取新时代中国特色社会主义伟大胜利的部分讲话内容。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 24.52,
+      "end": 28.62,
+      "label": "mandarin",
+      "text": "用新时代中国特色社会主义思想武装全党，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "sc_logprob": -0.0012,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用新时代中国特色社会主义思想武装全党。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 28.821,
+      "end": 31.967,
+      "label": "mandarin",
+      "text": "思想建设是党的基础性建设。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0009,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "思想建设是党的基础性建设。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 31.967,
+      "end": 43.222,
+      "label": "guilin",
+      "text": "革命理想高于天。共产主义远大理想和中国特色社会主义共同理想是中国共产党人的精神支柱和政治灵魂，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0062,
+        "sc_logprob": -0.0056,
+        "sc_delta": 0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "革命理想高于天，共产主义远大理想和中国特色社会主义共同理想，是中国共产党人的精神支柱和政治灵魂。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 43.535,
+      "end": 47.131,
+      "label": "mandarin",
+      "text": "也是保持党的团结统一的思想基础。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是保持党内团结统一的思想基础。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 47.304,
+      "end": 52.071,
+      "label": "guilin",
+      "text": "要把坚持理想信念作为党的思想建设的首要任务，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "sc_logprob": -0.0026,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要把坚持理想信念作为党的思想建设的首要任务。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 52.344,
+      "end": 55.356,
+      "label": "mandarin",
+      "text": "教育引导全党牢记党的宗旨，",
+      "score": 0.0324,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0494,
+        "sc_logprob": -0.0761,
+        "sc_delta": -0.0268,
+        "acoustic_dev": 0.062,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "教育引导，全党牢记党的宗旨。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 55.54,
+      "end": 58.391,
+      "label": "guilin",
+      "text": "挺起共产党人的精神脊梁，",
+      "score": 0.7035,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6742,
+        "sc_logprob": -0.645,
+        "sc_delta": 0.0292,
+        "acoustic_dev": 0.965,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "精/谨",
+        "lexicon": "",
+        "text_free": "停起！共产党营的谨慎极量。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 58.466,
+      "end": 63.146,
+      "label": "mandarin",
+      "text": "解决好世界观、人生观、价值观这个总开关问题，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "sc_logprob": -0.0012,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "解决好世界观、人生观、价值观这个总开关问题。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 63.379,
+      "end": 72.499,
+      "label": "mandarin",
+      "text": "自觉做共产主义远大理想和中国特色社会主义共同理想的坚定信仰者和忠实实践者。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0006,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自觉做共产主义远大理想和中国特色社会主义共同理想的坚定信仰者和忠实实践者。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 72.836,
+      "end": 79.421,
+      "label": "mandarin",
+      "text": "弘扬马克思主义学风，推进两学一做学习教育常态化制度化，",
+      "score": 0.0036,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0111,
+        "sc_logprob": -0.0118,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "弘扬马克思主义学风，推进两学一做学习教育常态化制度化。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 79.592,
+      "end": 83.024,
+      "label": "mandarin",
+      "text": "以县处级以上领导干部为重点，",
+      "score": 0.1059,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1473,
+        "sc_logprob": -0.1633,
+        "sc_delta": -0.016,
+        "acoustic_dev": 0.204,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以县处级以上领导干部为重点。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 83.239,
+      "end": 87.455,
+      "label": "guilin",
+      "text": "在全党开展不忘初心牢记使命主题教育，",
+      "score": 0.2748,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.372,
+        "sc_logprob": -0.3702,
+        "sc_delta": 0.0018,
+        "acoustic_dev": 0.528,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在全党开展不忘初心、牢记使命主题教育。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 87.78,
+      "end": 90.736,
+      "label": "guilin",
+      "text": "用党的创新理论武装头脑，",
+      "score": 0.5616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9583,
+        "sc_logprob": -0.9359,
+        "sc_delta": 0.0224,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用党的创新理念武装头脑。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 90.945,
+      "end": 97.794,
+      "label": "mandarin",
+      "text": "推动全党更加自觉地为实现新时代党的历史使命不懈奋斗，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0002,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动全党更加自觉地为实现新时代党的历史使命不懈奋斗。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 98.141,
+      "end": 100.843,
+      "label": "guilin",
+      "text": "决胜全面建成小康社会，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.8113,
+        "sc_logprob": -2.6373,
+        "sc_delta": 0.1741,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "决胜全面建成小康社会。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 100.843,
+      "end": 104.461,
+      "label": "mandarin",
+      "text": "夺取新时代中国特色社会主义伟大胜利。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夺取新时代中国特色社会主义伟大胜利。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 104.647,
+      "end": 107.093,
+      "label": "mandarin",
+      "text": "二零一七年十月十八日，",
+      "score": 0.6657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7044,
+        "sc_logprob": -0.7207,
+        "sc_delta": -0.0163,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "二零一七年四月十八日。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 107.294,
+      "end": 110.222,
+      "label": "guilin",
+      "text": "习近平谈治国理政第三卷，",
+      "score": 0.0048,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0126,
+        "sc_logprob": -0.008,
+        "sc_delta": 0.0046,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "习近平谈治国理政第三卷。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 110.353,
+      "end": 112.901,
+      "label": "mandarin",
+      "text": "外文出版社二零二零年版，",
+      "score": 0.0207,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0338,
+        "sc_logprob": -0.043,
+        "sc_delta": -0.0092,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "外文出版社二零二零年版。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 113.089,
+      "end": 115.114,
+      "label": "guilin",
+      "text": "第四十九到五十页。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0002,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第四十九到五十页。"
+      }
+    }
+  ]
+}

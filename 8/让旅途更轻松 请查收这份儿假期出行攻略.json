@@ -1,0 +1,282 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "让旅途更轻松 请查收这份儿假期出行攻略.wav",
+  "duration": 51.227,
+  "no_dialect": false,
+  "created_at": "2026-10-28T04:32:12",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.662,
+      "label": "guilin",
+      "text": "这个假期啊，肯定好多人呢要选择出去耍了，在保暖祖国大好河山的同时，还能够放松心情，",
+      "score": 0.1606,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.034,
+        "sc_logprob": -0.0309,
+        "sc_delta": 0.0031,
+        "acoustic_dev": 0.084,
+        "seg_cer": 0.081,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "耍 咧",
+        "text_free": "这个假期啊，肯定好多人咧，要选择出去耍了。在饱览祖国大好河山的同时，还能够放松心情。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.662,
+      "end": 10.873,
+      "label": "mandarin",
+      "text": "享受旅途的愉快。那啷子才能给旅行做到更轻松呢？",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0061,
+        "sc_logprob": -0.0062,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "享受旅途的愉快，那啷子才能给旅行做到更轻松呢？"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.944,
+      "end": 14.569,
+      "label": "mandarin",
+      "text": "一，把衣服依次的卷起来，放克行李箱，",
+      "score": 0.4946,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2216,
+        "sc_logprob": -0.2375,
+        "sc_delta": -0.0159,
+        "acoustic_dev": 0.834,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一把衣服一次地卷起来，放克行李箱。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.569,
+      "end": 17.249,
+      "label": "mandarin",
+      "text": "能够最大的节省空间。第二，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0131,
+        "sc_logprob": -0.03,
+        "sc_delta": -0.017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能够最大的节省空间。第二。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.249,
+      "end": 21.912,
+      "label": "mandarin",
+      "text": "把身份证、社保卡这些证件存放到手机壳里面，防止丢失。",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把身份证、社保卡这证件存放到手机壳里面，防止丢失。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.231,
+      "end": 27.231,
+      "label": "mandarin",
+      "text": "第三，把备用的腰带卷起来，放到叠好的衬衣衣领里面，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "sc_logprob": -0.0025,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第三，把备用的腰带卷起来，放到叠好的衬衣衣领里面。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.231,
+      "end": 30.46,
+      "label": "mandarin",
+      "text": "这样子呢，能够平整衣领，又能够保护腰带。",
+      "score": 0.1345,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0116,
+        "sc_logprob": -0.0137,
+        "sc_delta": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "真的能够平正衣领，又能够保护腰带。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.843,
+      "end": 34.616,
+      "label": "mandarin",
+      "text": "第四呢，到了普通的景点旅游，可以先去网购买票，",
+      "score": 0.3047,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1074,
+        "sc_logprob": -0.1118,
+        "sc_delta": -0.0044,
+        "acoustic_dev": 0.377,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "第四咧，到了普通的景点旅游，可以先个网告买票。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.616,
+      "end": 37.736,
+      "label": "mandarin",
+      "text": "价格啊一般会比你去窗口排队要低点。",
+      "score": 0.4451,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1859,
+        "sc_logprob": -0.2103,
+        "sc_delta": -0.0245,
+        "acoustic_dev": 0.691,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "价格啊，一般菲比尼克窗口排队要低点。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.736,
+      "end": 40.511,
+      "label": "guilin",
+      "text": "第五，如果呢把孩子袜子搞湿了，",
+      "score": 0.4397,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1884,
+        "sc_logprob": -0.1849,
+        "sc_delta": 0.0034,
+        "acoustic_dev": 0.701,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "第五，如果咧，把孩子袜子搞湿了。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 40.511,
+      "end": 44.955,
+      "label": "mandarin",
+      "text": "可以加热以后的鹅卵石，把它放到孩子里面去，起到烘干的效果。",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0014,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以加热以后的鹅卵石，把它放到海子里面去，起到烘干的效果。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 45.323,
+      "end": 48.758,
+      "label": "mandarin",
+      "text": "第六，要带一点点退热消毒的药品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0102,
+        "sc_logprob": -0.0112,
+        "sc_delta": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第六，要带一点点退热消毒的药品。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 48.758,
+      "end": 51.227,
+      "label": "mandarin",
+      "text": "能够缓解旅途当中不时之需。",
+      "score": 0.1186,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0518,
+        "sc_logprob": -0.0528,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.155,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能够缓解旅途当中不适之需。"
+      }
+    }
+  ]
+}

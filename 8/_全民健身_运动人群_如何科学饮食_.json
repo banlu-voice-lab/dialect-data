@@ -1,0 +1,450 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_全民健身_运动人群_如何科学饮食_.wav",
+  "duration": 75.05,
+  "no_dialect": false,
+  "created_at": "2026-10-28T00:59:35",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.378,
+      "end": 4.687,
+      "label": "mandarin",
+      "text": "现在运动健身啊，已经成为了我们生活中一个使用率比较高的词了。",
+      "score": 0.0163,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "sc_logprob": -0.0036,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在运动健身呢，已经成为了我们生活中一个使用率比较高的词了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.847,
+      "end": 9.9,
+      "label": "mandarin",
+      "text": "那到底啷子通过合理、科学的在运动前后进行这个营养补充呢？",
+      "score": 0.1259,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0571,
+        "sc_logprob": -0.0609,
+        "sc_delta": -0.0038,
+        "acoustic_dev": 0.141,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那到底啷子能够合理、科学地在运动前后进行这个营养补充呢？"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.9,
+      "end": 15.542,
+      "label": "guilin",
+      "text": "好多人啊也特别的关注。今天呢，我们就通过图片来了解下子运动人群的饮食建议。",
+      "score": 0.1493,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0378,
+        "sc_logprob": -0.0313,
+        "sc_delta": 0.0065,
+        "acoustic_dev": 0.064,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "饮/影",
+        "lexicon": "",
+        "text_free": "好多人啊，也特别的关注。今天呢，我们就通过图片来了解下子运动型区的影视建议。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.486,
+      "end": 21.078,
+      "label": "mandarin",
+      "text": "运动前的饮食注意事项：饮食的时间呢，在运动前两个小时进行。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "sc_logprob": -0.0033,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "运动前的饮食注意事项：饮食的时间呢，在运动前两个小时进行。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.239,
+      "end": 25.473,
+      "label": "mandarin",
+      "text": "建议呢，选择有丰富碳水化合物、适量蛋白质的东西，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0103,
+        "sc_logprob": -0.013,
+        "sc_delta": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "建议呢，选择有丰富碳水化合物、适量蛋白质的东西。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.473,
+      "end": 28.214,
+      "label": "guilin",
+      "text": "来确保运动时的身体能量充足。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "sc_logprob": -0.0022,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来确保运动时的身体能量充足。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.585,
+      "end": 31.407,
+      "label": "mandarin",
+      "text": "打比方讲，像全麦的面包啊、蛋啊、",
+      "score": 0.0597,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0337,
+        "sc_logprob": -0.0409,
+        "sc_delta": -0.0071,
+        "acoustic_dev": 0.047,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打个比方讲，像全麦的面包啊，蛋啊。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.407,
+      "end": 34.279,
+      "label": "guilin",
+      "text": "香蕉啊。运动期间饮食注意事项呢，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5133,
+        "sc_logprob": -0.4983,
+        "sc_delta": 0.015,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "香蕉啊！运动期间饮食注意事项呢？"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.298,
+      "end": 37.301,
+      "label": "guilin",
+      "text": "还有就是运动过程当中要注意补水。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0219,
+        "sc_logprob": -0.0188,
+        "sc_delta": 0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有就是运动过程当中要注意补水。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.303,
+      "end": 40.126,
+      "label": "guilin",
+      "text": "建议运动三十分钟后呢，就开始喝水了，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0125,
+        "sc_logprob": -0.0104,
+        "sc_delta": 0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "建议运动三十分钟后呢，就开始喝水了。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 40.126,
+      "end": 42.667,
+      "label": "mandarin",
+      "text": "可以少喝点，每次两百毫升。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0004,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以少喝点，每次两百毫升。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 42.744,
+      "end": 45.156,
+      "label": "mandarin",
+      "text": "水温呢，就是十到四十度最好。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0179,
+        "sc_logprob": -0.0219,
+        "sc_delta": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "水温呢，就是十到四十度最好。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.156,
+      "end": 48.966,
+      "label": "guilin",
+      "text": "喝水呢，莫喝太多，最好呢不要喝五度以下的水。",
+      "score": 0.0035,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0236,
+        "sc_logprob": -0.0218,
+        "sc_delta": 0.0019,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "喝水呢，莫喝太多。最好呢，不要喝五度以下的水。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 49.388,
+      "end": 53.639,
+      "label": "guilin",
+      "text": "运动后的注意事项还有，运动结束之后呢，莫马上去吃东西，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0128,
+        "sc_logprob": -0.0102,
+        "sc_delta": 0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "运动后的注意事项还有：运动结束之后呢，莫马上去吃东西。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 53.639,
+      "end": 57.295,
+      "label": "mandarin",
+      "text": "建议啊隔一个小时后再吃。吃东西的食量呢，",
+      "score": 0.4607,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2435,
+        "sc_logprob": -0.271,
+        "sc_delta": -0.0275,
+        "acoustic_dev": 0.886,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "建议啊，隔一个小时后再吃。吃东西的食量呢？"
+      }
+    },
+    {
+      "id": 16,
+      "start": 57.295,
+      "end": 60.568,
+      "label": "mandarin",
+      "text": "应该是你正常餐饮的四分之一或者三分之一，",
+      "score": 0.0642,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0528,
+        "sc_logprob": -0.0557,
+        "sc_delta": -0.0029,
+        "acoustic_dev": 0.123,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "应该是你正常餐饮的四分之一，或者三分之一。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 60.814,
+      "end": 63.709,
+      "label": "guilin",
+      "text": "选择大约两千卡的热量食物，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0135,
+        "sc_logprob": -0.0131,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "选择大约两千卡的热量食物。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 63.709,
+      "end": 67.084,
+      "label": "mandarin",
+      "text": "在这个阶段补充，注意营养均衡的搭配。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0007,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在这个阶段，补充注意营养均衡的搭配。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 67.261,
+      "end": 69.985,
+      "label": "guilin",
+      "text": "而且呢，莫一种食物你就吃到饱，",
+      "score": 0.5163,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2171,
+        "sc_logprob": -0.2031,
+        "sc_delta": 0.0141,
+        "acoustic_dev": 0.781,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "而且咧，没一种食物，你就吃到饱。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 69.985,
+      "end": 72.575,
+      "label": "mandarin",
+      "text": "建议呢可以吃点麦片、玉米、",
+      "score": 0.3203,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1367,
+        "sc_logprob": -0.1541,
+        "sc_delta": -0.0173,
+        "acoustic_dev": 0.459,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "建议咧，可以吃点麦片、玉米。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 72.575,
+      "end": 75.05,
+      "label": "mandarin",
+      "text": "猕猴桃、香蕉，还有鸡胸肉这一些。",
+      "score": 0.0933,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.033,
+        "sc_logprob": -0.0522,
+        "sc_delta": -0.0192,
+        "acoustic_dev": 0.044,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "猕猴桃、香蕉，还有鸡胸鱼肉，这些。"
+      }
+    }
+  ]
+}

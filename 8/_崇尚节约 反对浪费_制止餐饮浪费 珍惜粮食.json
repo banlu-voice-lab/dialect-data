@@ -1,0 +1,450 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_崇尚节约 反对浪费_制止餐饮浪费 珍惜粮食.wav",
+  "duration": 86.943,
+  "no_dialect": false,
+  "created_at": "2026-10-28T01:03:30",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.113,
+      "end": 2.904,
+      "label": "mandarin",
+      "text": "我们经常都讲啊，衣食住行，",
+      "score": 0.1609,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0906,
+        "sc_logprob": -0.0934,
+        "sc_delta": -0.0028,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "住/足",
+        "lexicon": "",
+        "text_free": "我们经常都讲啊：“衣食足行。”"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.904,
+      "end": 6.271,
+      "label": "guilin",
+      "text": "那么这个食字啊，其中呢就占有很大的比重。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0401,
+        "sc_logprob": -0.0349,
+        "sc_delta": 0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么这个“十”字啊，其中呢，就占有很大的比重。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.649,
+      "end": 9.655,
+      "label": "mandarin",
+      "text": "自古以来，精添细粮、勤俭节约，",
+      "score": 0.2837,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5828,
+        "sc_logprob": -0.5945,
+        "sc_delta": -0.0117,
+        "acoustic_dev": 0.399,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自古以来，精天细量，勤俭节约。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 9.655,
+      "end": 11.903,
+      "label": "mandarin",
+      "text": "就是我们中华民族的一个传统美德。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "sc_logprob": -0.0011,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是我们中华民族的一个传统美德。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 12.042,
+      "end": 18.06,
+      "label": "mandarin",
+      "text": "但随着现在生活逐渐的好起来了，好多地方呢都出现了有些浪费食的东西这种现象。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0309,
+        "sc_logprob": -0.0316,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但说到现在，生活逐渐的好些了，好多地方呢都出现了有些浪费吃的东西这种现象。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 18.06,
+      "end": 21.02,
+      "label": "guilin",
+      "text": "那我们点哪子来杜绝浪费食物呢？",
+      "score": 0.2582,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.459,
+        "sc_logprob": -0.4055,
+        "sc_delta": 0.0535,
+        "acoustic_dev": 0.308,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们该啷子来杜绝浪费食物呢？"
+      }
+    },
+    {
+      "id": 7,
+      "start": 21.02,
+      "end": 30.692,
+      "label": "mandarin",
+      "text": "我们几个看着。从要求浪费之风无比狠刹，",
+      "score": 0.5047,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9415,
+        "sc_logprob": -0.9811,
+        "sc_delta": -0.0396,
+        "acoustic_dev": 0.663,
+        "seg_cer": 0.471,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从要求浪费之风，务必狠刹。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.837,
+      "end": 33.952,
+      "label": "guilin",
+      "text": "到要求厉行节约反对浪费，",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8271,
+        "sc_logprob": -1.7966,
+        "sc_delta": 0.0305,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到要求理性节约，反对浪费。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.188,
+      "end": 38.854,
+      "label": "mandarin",
+      "text": "作为人口大国的中国，粮食浪费量大，人均耕地少，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "sc_logprob": -0.0015,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为进口大国的中国，粮食浪费量大，人均耕地少。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 38.854,
+      "end": 45.7,
+      "label": "mandarin",
+      "text": "粮食生产和安全更是维护政治稳定和经济社会健康发展的首要战略问题。",
+      "score": 0.0147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0244,
+        "sc_logprob": -0.0249,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "粮食生产和安全更是维护政治稳定和经济社会健康发展的主要战略问题。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 45.999,
+      "end": 48.543,
+      "label": "guilin",
+      "text": "我们始终要有忧患意识，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "sc_logprob": -0.0032,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们始终要有忧患意识。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 48.722,
+      "end": 53.024,
+      "label": "mandarin",
+      "text": "提倡文明点餐，点餐从实际就餐需求出发，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "sc_logprob": -0.0009,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提倡文明点餐，点餐从实际就餐需求出发。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 53.303,
+      "end": 56.521,
+      "label": "mandarin",
+      "text": "不看面子和排场，用完再加餐，",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0189,
+        "sc_logprob": -0.0278,
+        "sc_delta": -0.0088,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不看面子或排场，用完再加餐。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 56.521,
+      "end": 59.141,
+      "label": "mandarin",
+      "text": "避免浪费，提倡光盘行动，",
+      "score": 0.0115,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0702,
+        "sc_logprob": -0.0744,
+        "sc_delta": -0.0043,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "避免浪费，提倡光盘行动。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 59.141,
+      "end": 62.357,
+      "label": "mandarin",
+      "text": "用不完的打包带走，一粥一饭，",
+      "score": 0.4,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0272,
+        "sc_logprob": -0.0379,
+        "sc_delta": -0.0107,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.417,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.4,
+        "phon_examples": "粥/走 完/忘",
+        "lexicon": "",
+        "text_free": "永不忘记，打包带走，一走一翻。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.357,
+      "end": 67.59,
+      "label": "mandarin",
+      "text": "当思来之不易。从光盘行动到遏制舌尖上的浪费，",
+      "score": 0.1515,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1151,
+        "sc_logprob": -0.1675,
+        "sc_delta": -0.0523,
+        "acoustic_dev": 0.055,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "思/时",
+        "lexicon": "",
+        "text_free": "当时来之不易，从光盘行动到遏制舌尖上的浪费。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 67.59,
+      "end": 70.914,
+      "label": "guilin",
+      "text": "厉行节约反对浪费八个字的背后，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.5069,
+        "sc_logprob": -2.4165,
+        "sc_delta": 0.0903,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "理性节约，反对浪费，把握自律背后。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 70.914,
+      "end": 76.249,
+      "label": "mandarin",
+      "text": "是中华民族的传统美德，也是我们每个人都能够身体力行的事。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "sc_logprob": -0.0012,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是中华民族的传统美德，也是我们每个人都能够身体力行的事。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 76.596,
+      "end": 80.732,
+      "label": "mandarin",
+      "text": "勤善待每一餐饭，认真对待每一颗粮食。",
+      "score": 0.2537,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0684,
+        "sc_logprob": -0.082,
+        "sc_delta": -0.0136,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.6,
+        "phon_examples": "真/征 善/三 勤/请",
+        "lexicon": "",
+        "text_free": "请三代每一餐饭，应征对待每一颗粮食。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 80.928,
+      "end": 83.721,
+      "label": "mandarin",
+      "text": "正如多年前巴马告诉我们的那样：",
+      "score": 0.618,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3997,
+        "sc_logprob": -1.4693,
+        "sc_delta": -0.0696,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "正如多年前爸妈告诉我的那样。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 83.811,
+      "end": 86.943,
+      "label": "mandarin",
+      "text": "吃好多，盛好多，莫浪费。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "sc_logprob": -0.0047,
+        "sc_delta": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吃好多，撑好多，莫浪费。"
+      }
+    }
+  ]
+}

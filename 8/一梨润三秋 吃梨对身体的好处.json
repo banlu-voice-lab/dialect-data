@@ -1,0 +1,492 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "一梨润三秋 吃梨对身体的好处.wav",
+  "duration": 86.994,
+  "no_dialect": false,
+  "created_at": "2026-10-28T01:55:29",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.049,
+      "end": 5.191,
+      "label": "guilin",
+      "text": "现在天气开始转冷了不，空气啊也变得相对的干燥起来。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0167,
+        "sc_logprob": -0.0163,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在天气开始转冷了，不，空气啊也变得相对的干燥起来。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.404,
+      "end": 9.195,
+      "label": "mandarin",
+      "text": "梨子清甜多汁，素有“天然矿泉水”、“",
+      "score": 0.2138,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5619,
+        "sc_logprob": -0.5932,
+        "sc_delta": -0.0314,
+        "acoustic_dev": 0.343,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "李子清甜多汁，素有“天然矿泉水”。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.195,
+      "end": 16.046,
+      "label": "guilin",
+      "text": "百果之宗”的美誉，非常适合秋季用来补充体内的水分和营养元素。",
+      "score": 0.1341,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0257,
+        "sc_logprob": -0.0247,
+        "sc_delta": 0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "宗/中",
+        "lexicon": "",
+        "text_free": "白果之中的美玉，非常适合秋季用来补充体内的水分和营养元素。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.274,
+      "end": 20.682,
+      "label": "mandarin",
+      "text": "那么秋天吃梨子会给你带来哪些好处呢？",
+      "score": 0.1538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0207,
+        "sc_logprob": -0.0235,
+        "sc_delta": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "子/枝",
+        "lexicon": "",
+        "text_free": "那么秋天吃荔枝会给你带来哪些好处呢？"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.282,
+      "end": 26.051,
+      "label": "guilin",
+      "text": "第一，润润燥。梨水分含量可以达到百分之九十以上，",
+      "score": 0.0871,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.117,
+        "sc_logprob": -0.1087,
+        "sc_delta": 0.0083,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第一，云纹皂，里水分含量可以达到百分之九十以上。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.169,
+      "end": 29.032,
+      "label": "guilin",
+      "text": "而且能够提供一定量的维生素C、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0904,
+        "sc_logprob": -0.0823,
+        "sc_delta": 0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而且能够提供一定量的维生素 C。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.032,
+      "end": 32.365,
+      "label": "guilin",
+      "text": "钾、镁，有“天然矿泉水”之称，",
+      "score": 0.1353,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2262,
+        "sc_logprob": -0.2171,
+        "sc_delta": 0.0091,
+        "acoustic_dev": 0.084,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "厦门有“天然矿泉水”之称。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.513,
+      "end": 35.231,
+      "label": "guilin",
+      "text": "可谓润燥佳品。第二，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.9522,
+        "sc_logprob": -3.9288,
+        "sc_delta": 0.0234,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.625,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可为云凿佳品，德。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.269,
+      "end": 39.5,
+      "label": "mandarin",
+      "text": "润肠通便。中国食物成分表的数据显示，",
+      "score": 0.169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0463,
+        "sc_logprob": -0.0554,
+        "sc_delta": -0.0091,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "肠/藏",
+        "lexicon": "",
+        "text_free": "蕴藏通变。中国食物成分表的数据显示。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.5,
+      "end": 42.734,
+      "label": "guilin",
+      "text": "梨的膳食纤维含量在百分之三左右，",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "sc_logprob": -0.0059,
+        "sc_delta": 0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "粒粒膳食纤维含量在百分之三左右。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 42.867,
+      "end": 46.3,
+      "label": "guilin",
+      "text": "个别品种可以达到百分之六、百分之九。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0001,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "个别品种可以达到百分之六、百分之九。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.538,
+      "end": 50.418,
+      "label": "guilin",
+      "text": "吃梨子的时候能够感受到那种硬扎扎的感觉，",
+      "score": 0.2699,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5496,
+        "sc_logprob": -0.5447,
+        "sc_delta": 0.0049,
+        "acoustic_dev": 0.334,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吃栗子的时候，能够感受到那种嗯炸炸的感觉。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 50.616,
+      "end": 56.337,
+      "label": "mandarin",
+      "text": "这就是梨果实当中有一种叫做石细胞的结构，",
+      "score": 0.0151,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1546,
+        "sc_logprob": -0.175,
+        "sc_delta": -0.0205,
+        "acoustic_dev": 0.029,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这就是梨果实当中有一种，叫做石细胞的结构。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 56.586,
+      "end": 59.27,
+      "label": "mandarin",
+      "text": "其中主要成分就是木质素，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0451,
+        "sc_logprob": -0.0563,
+        "sc_delta": -0.0112,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中主要成分就是木质素。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 59.353,
+      "end": 62.0,
+      "label": "guilin",
+      "text": "是不溶性膳食纤维的一种，",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3102,
+        "sc_logprob": -2.196,
+        "sc_delta": 0.1142,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "食/思 膳/三 性/心",
+        "lexicon": "",
+        "text_free": "是不用心、三思、显微的一种。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.232,
+      "end": 65.934,
+      "label": "guilin",
+      "text": "可以通过刺激肠道蠕动促进排便。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0006,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以通过刺激肠道蠕动，促进排便。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 66.316,
+      "end": 70.045,
+      "label": "mandarin",
+      "text": "第三，抗氧化。梨子含有芦元素、",
+      "score": 0.1685,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.347,
+        "sc_logprob": -0.3787,
+        "sc_delta": -0.0317,
+        "acoustic_dev": 0.178,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第三，抗氧化。栗子含有芦元酸。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 70.045,
+      "end": 72.401,
+      "label": "mandarin",
+      "text": "熊果苷、表儿茶素、",
+      "score": 0.1984,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2126,
+        "sc_logprob": -0.2581,
+        "sc_delta": -0.0455,
+        "acoustic_dev": 0.074,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "熊锅干，表鹅叉酥。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 72.527,
+      "end": 76.208,
+      "label": "mandarin",
+      "text": "原花青素等等丰富的酚类物质，",
+      "score": 0.1607,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1188,
+        "sc_logprob": -0.1229,
+        "sc_delta": -0.0041,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "远发、倾诉等等丰富的分类物质。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 76.471,
+      "end": 78.906,
+      "label": "mandarin",
+      "text": "具有抗过氧化的作用，",
+      "score": 0.544,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3453,
+        "sc_logprob": -1.3609,
+        "sc_delta": -0.0156,
+        "acoustic_dev": 0.948,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "具有抗过氧法的作用。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 79.1,
+      "end": 81.963,
+      "label": "guilin",
+      "text": "又富含甲基化的酚酸，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1023,
+        "sc_logprob": -0.1015,
+        "sc_delta": 0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "又富含甲基化的酚酸。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 81.99,
+      "end": 85.013,
+      "label": "guilin",
+      "text": "能更好的帮助代谢酚类物质，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4288,
+        "sc_logprob": -1.3778,
+        "sc_delta": 0.051,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其能更好地帮助代谢酚类物质。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 85.013,
+      "end": 86.994,
+      "label": "mandarin",
+      "text": "提高吸收利用率。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0009,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提高吸收利用率。"
+      }
+    }
+  ]
+}

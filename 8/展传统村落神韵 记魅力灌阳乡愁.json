@@ -1,0 +1,345 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "展传统村落神韵 记魅力灌阳乡愁.wav",
+  "duration": 72.54,
+  "no_dialect": false,
+  "created_at": "2026-10-28T02:25:58",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.207,
+      "end": 5.279,
+      "label": "mandarin",
+      "text": "在关阳县的文史镇，游客们呢上午游览了岳岭村古民居村落，",
+      "score": 0.0501,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1,
+        "sc_logprob": -0.1213,
+        "sc_delta": -0.0212,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在官阳县的文石镇，游客们呢，上午游览了岳岭村古民居村落。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.475,
+      "end": 8.86,
+      "label": "mandarin",
+      "text": "在岳岭古渡口体验了户外的烧烤、竹筏的漂流，",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0166,
+        "sc_logprob": -0.0176,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在岳岭古渡口体验了户外的烧烤，出发的漂流。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.011,
+      "end": 12.809,
+      "label": "guilin",
+      "text": "再来到玉溪油茶屋免费啊品尝了关阳油茶、",
+      "score": 0.2667,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5259,
+        "sc_logprob": -0.4916,
+        "sc_delta": 0.0344,
+        "acoustic_dev": 0.415,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "再去到玉溪油茶屋，免费啊品尝了灌阳油茶。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.369,
+      "end": 19.839,
+      "label": "mandarin",
+      "text": "文史的苦茶这些东西。下午呢打卡了唐代文学家柳宗元曾经游览过的文史石林，",
+      "score": 0.1554,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0527,
+        "sc_logprob": -0.0534,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.121,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "林/陵 石/四",
+        "lexicon": "",
+        "text_free": "文诗的苦茶这些东西，下午呢，打卡了唐代文学家柳宗元曾经游览过的文诗四陵。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.092,
+      "end": 25.466,
+      "label": "guilin",
+      "text": "感受了喀斯特地貌的奇观，游览了大湾村红旗军标语园、",
+      "score": 0.1253,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0844,
+        "sc_logprob": -0.084,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.261,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感受了卡斯特蒂毛的奇观，又来了大湾村红旗军标语夜。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.466,
+      "end": 28.999,
+      "label": "mandarin",
+      "text": "桂阳岸口红军岸、长征文化公园，",
+      "score": 0.5512,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0093,
+        "sc_logprob": -1.0927,
+        "sc_delta": -0.0833,
+        "acoustic_dev": 0.857,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "归岸暗口红军岸长征文化公园。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.999,
+      "end": 32.448,
+      "label": "guilin",
+      "text": "追寻了红色的记忆，也传承了红色精神。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "追寻了红色的记忆，也传承了红色精神。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.038,
+      "end": 42.38,
+      "label": "mandarin",
+      "text": "这个国庆假期啊，关阳县各乡镇联动推出了关阳国庆节展传统村落神韵及魅力关阳乡愁的活动，",
+      "score": 0.1229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0589,
+        "sc_logprob": -0.0605,
+        "sc_delta": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "神/盛",
+        "lexicon": "",
+        "text_free": "这个国庆假期啊，关阳县各乡镇联动推出了“关阳国庆节展传统村落盛韵暨魅力关阳乡愁”的活动。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 42.38,
+      "end": 47.896,
+      "label": "mandarin",
+      "text": "精彩纷呈的活动也给游客们在触摸关阳自然与人文之间的同时，",
+      "score": 0.0972,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1337,
+        "sc_logprob": -0.1366,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.057,
+        "seg_cer": 0.148,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "精彩纷呈的活动，也给游客们在触摸、观样、体验与人文之间的同时。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 47.896,
+      "end": 50.879,
+      "label": "guilin",
+      "text": "感受到了传统与时尚的相互交融。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "sc_logprob": -0.0015,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感受到了传统与时尚的相互交融。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 51.46,
+      "end": 54.093,
+      "label": "guilin",
+      "text": "听家人们说这里有一个美丽的景点，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3219,
+        "sc_logprob": -1.2008,
+        "sc_delta": 0.1211,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "听家人们说，这里有一个美丽的景点。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 54.093,
+      "end": 58.235,
+      "label": "guilin",
+      "text": "所以说今天特意带老婆孩子们过来游玩一下，",
+      "score": 0.0401,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1053,
+        "sc_logprob": -0.0781,
+        "sc_delta": 0.0272,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以说，今天特意带老婆和孩子们过来游玩一下。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 58.516,
+      "end": 60.959,
+      "label": "mandarin",
+      "text": "趁着中秋假期和国庆假期之际，",
+      "score": 0.5903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4181,
+        "sc_logprob": -1.4241,
+        "sc_delta": -0.006,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "趁着中秋佳节和国庆假期之际。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 61.307,
+      "end": 64.141,
+      "label": "mandarin",
+      "text": "在这个凉爽的一个地方，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在这个凉爽的一个地方。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.141,
+      "end": 68.113,
+      "label": "guilin",
+      "text": "我感觉到非常的一个开心，孩子们也玩耍的非常的愉快。",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0007,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "耍",
+        "text_free": "我感觉到非常的一个开心，孩子们也玩耍的非常的愉快。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 68.617,
+      "end": 72.54,
+      "label": "guilin",
+      "text": "然后整个假期的话，我感觉这个地方都是非常的优美。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0007,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后整个假期的话，我感觉这个地方都是非常的优美。"
+      }
+    }
+  ]
+}

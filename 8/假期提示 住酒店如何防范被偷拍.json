@@ -1,0 +1,429 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "假期提示 住酒店如何防范被偷拍.wav",
+  "duration": 70.941,
+  "no_dialect": false,
+  "created_at": "2026-10-28T02:08:18",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.209,
+      "end": 5.552,
+      "label": "mandarin",
+      "text": "中秋国庆双节一共是有八天的假期啊，真的喊做前所未有啊。",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0653,
+        "sc_logprob": -0.0667,
+        "sc_delta": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中秋国庆双节一共是有八天的假期啊，真的喊作前所未有啊。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.75,
+      "end": 8.94,
+      "label": "guilin",
+      "text": "那么住酒店呢，肯定是少不得了，但住酒店时候呢，",
+      "score": 0.1277,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1878,
+        "sc_logprob": -0.18,
+        "sc_delta": 0.0077,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "那么住酒店咧，肯定是少不得的。但住酒店时候咧。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.94,
+      "end": 13.015,
+      "label": "guilin",
+      "text": "我们应该啊要留个心眼，因为你住的房间呢，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0241,
+        "sc_logprob": -0.023,
+        "sc_delta": 0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们应该啊，要留个心眼，因为你住的房间呢。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.015,
+      "end": 15.8,
+      "label": "mandarin",
+      "text": "可能有的人别有用心，就偷偷",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0213,
+        "sc_logprob": -0.0229,
+        "sc_delta": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可能有里人别有用心，就偷偷。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.284,
+      "end": 18.851,
+      "label": "guilin",
+      "text": "的安装了摄像头，那恶心吧。",
+      "score": 0.5616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9298,
+        "sc_logprob": -0.8023,
+        "sc_delta": 0.1275,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "安装了摄像头，那恶心吧？"
+      }
+    },
+    {
+      "id": 6,
+      "start": 19.88,
+      "end": 22.147,
+      "label": "mandarin",
+      "text": "一、床所在位置的上方；",
+      "score": 0.5704,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8937,
+        "sc_logprob": -0.9123,
+        "sc_delta": -0.0186,
+        "acoustic_dev": 0.999,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一创所，在位置的上方。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 22.342,
+      "end": 25.824,
+      "label": "mandarin",
+      "text": "二、房顶的烟感器、空调孔这些位置；",
+      "score": 0.2612,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3911,
+        "sc_logprob": -0.3942,
+        "sc_delta": -0.0031,
+        "acoustic_dev": 0.314,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二、房顶的烟感器、空调控制位置。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 25.824,
+      "end": 28.208,
+      "label": "mandarin",
+      "text": "三、对着床的闹钟、音响、",
+      "score": 0.2507,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3018,
+        "sc_logprob": -0.3274,
+        "sc_delta": -0.0256,
+        "acoustic_dev": 0.192,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "音/影",
+        "lexicon": "",
+        "text_free": "三，对着床的闹钟影响。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 28.208,
+      "end": 30.673,
+      "label": "mandarin",
+      "text": "饮水机、空气净化器等设备；",
+      "score": 0.0825,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2771,
+        "sc_logprob": -0.3417,
+        "sc_delta": -0.0645,
+        "acoustic_dev": 0.159,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "饮水机、空气净化器等设备。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 30.728,
+      "end": 37.002,
+      "label": "mandarin",
+      "text": "四、酒店浴室里面的插座和内容量很大的洗发液、沐浴液的瓶子里面。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "sc_logprob": -0.0024,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "四酒店浴室里面的插座，和内容量很大的洗发液、沐浴液的瓶子里面。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 37.857,
+      "end": 41.348,
+      "label": "mandarin",
+      "text": "那我们应该啷子做呢？第一，选择正规的酒店，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0217,
+        "sc_logprob": -0.029,
+        "sc_delta": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那我们应该啷子做呢？第一，选择正规的酒店。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 41.348,
+      "end": 44.276,
+      "label": "mandarin",
+      "text": "避免入住非正规、管理混乱的酒店。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "避免入住非正规、管理混乱的酒店。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 44.515,
+      "end": 46.976,
+      "label": "mandarin",
+      "text": "第三，进入了房间之后，关灯、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0097,
+        "sc_logprob": -0.0188,
+        "sc_delta": -0.0091,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第三，进入了房间之后，关灯。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 46.976,
+      "end": 52.035,
+      "label": "mandarin",
+      "text": "拉起窗帘，在黑暗的环境当中检查地面或者墙面是否有亮点，",
+      "score": 0.0366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0072,
+        "sc_logprob": -0.008,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "垃圾窗帘在黑暗的环境当中，检查地面或者墙面是否有亮点。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 52.271,
+      "end": 55.706,
+      "label": "guilin",
+      "text": "如果有，就要排查是否有窃听设备存在。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果有，就要排查是否有窃听设备存在。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 55.866,
+      "end": 58.286,
+      "label": "mandarin",
+      "text": "三、用手指触碰镜面，",
+      "score": 0.1262,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3387,
+        "sc_logprob": -0.369,
+        "sc_delta": -0.0303,
+        "acoustic_dev": 0.243,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三，用手指触碰镜面。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 58.286,
+      "end": 61.819,
+      "label": "mandarin",
+      "text": "导引和手指间没有空气，就是双面镜。",
+      "score": 0.7252,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8993,
+        "sc_logprob": -0.9357,
+        "sc_delta": -0.0364,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "引/影",
+        "lexicon": "",
+        "text_free": "刀影和手指之间没有空隙，就是双面镜。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 61.945,
+      "end": 66.771,
+      "label": "mandarin",
+      "text": "四、市面上已经出现了反监听、监视的相关探测设备，",
+      "score": 0.0573,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2416,
+        "sc_logprob": -0.2647,
+        "sc_delta": -0.0231,
+        "acoustic_dev": 0.11,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "四，市面上已经出现了反监听监视的相关探测设备。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 66.771,
+      "end": 69.118,
+      "label": "guilin",
+      "text": "可以屏蔽发现监听信号，",
+      "score": 0.2883,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3418,
+        "sc_logprob": -0.3229,
+        "sc_delta": 0.0189,
+        "acoustic_dev": 0.247,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以评比、发现、鉴定信号。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 69.118,
+      "end": 70.941,
+      "label": "guilin",
+      "text": "也可以取得一定的保护效果。",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1338,
+        "sc_logprob": -0.1004,
+        "sc_delta": 0.0334,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也会取得一定力保护效果。"
+      }
+    }
+  ]
+}
