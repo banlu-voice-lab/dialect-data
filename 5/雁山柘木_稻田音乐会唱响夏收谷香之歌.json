@@ -1,0 +1,471 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "雁山柘木_稻田音乐会唱响夏收谷香之歌.wav",
+  "duration": 110.799,
+  "no_dialect": false,
+  "created_at": "2026-10-27T06:38:32",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.015,
+      "label": "mandarin",
+      "text": "前几天的一个傍晚，安山区泽木镇在魏家李村举办了“泽里问道”稻田音乐会。",
+      "score": 0.075,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1408,
+        "sc_logprob": -0.146,
+        "sc_delta": -0.0052,
+        "acoustic_dev": 0.087,
+        "seg_cer": 0.065,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天的一个傍晚，安山区泽木镇在魏家礼村举办了泽里文道稻田音乐会。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.234,
+      "end": 10.75,
+      "label": "guilin",
+      "text": "唱响《乡愁漫翻稻谷香》之歌，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9897,
+        "sc_logprob": -0.9844,
+        "sc_delta": 0.0053,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.636,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "唱响《下收满饭到故乡》之歌。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.75,
+      "end": 24.904,
+      "label": "guilin",
+      "text": "浪漫的很。此次乡间音乐会吸引了广大市民和游客前来观赏，",
+      "score": 0.0835,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.078,
+        "sc_logprob": -0.0724,
+        "sc_delta": 0.0057,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "浪漫得很。此次《相见音乐飞》吸引了广大市民和游客前来观赏。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 25.088,
+      "end": 28.864,
+      "label": "guilin",
+      "text": "体验在稻田间享受音乐的独特氛围。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0011,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "体验在稻田间享受音乐的独特氛围。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 29.106,
+      "end": 31.669,
+      "label": "guilin",
+      "text": "音乐会以泽木为题材，",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1681,
+        "sc_logprob": -0.9327,
+        "sc_delta": 0.2354,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "音乐会则以《泽母》为题材。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 31.812,
+      "end": 37.196,
+      "label": "mandarin",
+      "text": "以乡村振兴为背景的原创歌曲《泽啊泽中》拉开了序幕。",
+      "score": 0.1416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0087,
+        "sc_logprob": -0.0112,
+        "sc_delta": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "泽/这 泽/这",
+        "lexicon": "",
+        "text_free": "以乡村振兴为背景的原创歌曲《这啊这》中拉开了序幕。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 37.621,
+      "end": 41.798,
+      "label": "mandarin",
+      "text": "在希望的田野上，等一首首脍炙人口的歌曲，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "sc_logprob": -0.0011,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在希望的田野上，等一首首脍炙人口的歌曲。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 41.973,
+      "end": 46.423,
+      "label": "guilin",
+      "text": "如同山间清泉，为音乐会增添了一抹温馨，",
+      "score": 0.1807,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0475,
+        "sc_logprob": -0.0447,
+        "sc_delta": 0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "清/亲 山/三",
+        "lexicon": "",
+        "text_free": "如同三间亲眷为音乐会增添了一抹温馨。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 46.667,
+      "end": 49.271,
+      "label": "guilin",
+      "text": "唱响了乡村振兴的希望。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.019,
+        "sc_logprob": -0.0154,
+        "sc_delta": 0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "唱响了乡村振兴的希望。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 49.271,
+      "end": 53.361,
+      "label": "mandarin",
+      "text": "这一次是我们泽木镇举办的第三届",
+      "score": 0.3801,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5757,
+        "sc_logprob": -0.6917,
+        "sc_delta": -0.1161,
+        "acoustic_dev": 0.555,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一次已经是我们周木镇举办的第三届。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 53.544,
+      "end": 57.093,
+      "label": "mandarin",
+      "text": "这个“泽里问道”的一个稻田音乐会了。",
+      "score": 0.1974,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1247,
+        "sc_logprob": -0.1589,
+        "sc_delta": -0.0342,
+        "acoustic_dev": 0.07,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "泽/这",
+        "lexicon": "",
+        "text_free": "这个这里问到的一个稻田音乐会了。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 57.145,
+      "end": 61.193,
+      "label": "guilin",
+      "text": "那么这个音乐会的举办呢，我们的目的是有两个：",
+      "score": 0.0003,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0601,
+        "sc_logprob": -0.0445,
+        "sc_delta": 0.0156,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么，这个音乐会的举办呢？我们的目的是有两个。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 61.346,
+      "end": 66.446,
+      "label": "mandarin",
+      "text": "首先呢是让我们的市民知道我们体验我们的农耕文化，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0193,
+        "sc_logprob": -0.0201,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "首先呢，是让我们的市民知道我们体验我们的农耕文化。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 66.594,
+      "end": 73.307,
+      "label": "guilin",
+      "text": "同时呢也让我们的老百姓、让我们的小孩子知道我们的粮食来之不易。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0589,
+        "sc_logprob": -0.0561,
+        "sc_delta": 0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时呢，也让我们的，老百姓，让我们的小孩子，知道我们的粮食来之不易。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 73.495,
+      "end": 79.945,
+      "label": "mandarin",
+      "text": "呃，同时可以对我们泽木镇的呃这个旅游经济进行有一定的推动作用，",
+      "score": 0.1306,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0416,
+        "sc_logprob": -0.0441,
+        "sc_delta": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "镇/正",
+        "lexicon": "",
+        "text_free": "呃，同时可以对我们正不正的呃，这个旅游经济进行有一定的推动作用。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 79.945,
+      "end": 84.217,
+      "label": "guilin",
+      "text": "然后实现乡村振兴，让我们的老百姓在家门口吃上",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后实现乡村振兴，让我们的老百姓在家门口吃上。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 84.534,
+      "end": 90.507,
+      "label": "mandarin",
+      "text": "旅游饭。在音乐会间隙，现场的国内外乐迷们走进田间，",
+      "score": 0.1987,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.229,
+        "sc_logprob": -0.2346,
+        "sc_delta": -0.0056,
+        "acoustic_dev": 0.182,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有有范。在音乐会间隙，现场的国内外乐迷们走进天津。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 90.507,
+      "end": 93.337,
+      "label": "mandarin",
+      "text": "拿起镰刀割稻谷、扎稻草人，",
+      "score": 0.4486,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6388,
+        "sc_logprob": -0.6764,
+        "sc_delta": -0.0376,
+        "acoustic_dev": 0.623,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拿起镰刀，过刀股，扎稻草人。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 93.337,
+      "end": 98.519,
+      "label": "mandarin",
+      "text": "还在农民的讲解传授下学习踩大鼓等活动，",
+      "score": 0.5944,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9862,
+        "sc_logprob": -1.0293,
+        "sc_delta": -0.0431,
+        "acoustic_dev": 0.997,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还在农民的讲解传授下，学习踩打谷机等活动。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 98.717,
+      "end": 102.31,
+      "label": "mandarin",
+      "text": "亲身感受粮食生产的来之不易。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0115,
+        "sc_logprob": -0.014,
+        "sc_delta": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "亲身感受粮食生产的来之不易。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 102.31,
+      "end": 106.287,
+      "label": "mandarin",
+      "text": "我体验了一下大鼓，觉得农民伯伯很辛苦，",
+      "score": 0.6007,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8809,
+        "sc_logprob": -1.9128,
+        "sc_delta": -0.0319,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我体验了一下打谷机，觉得农民伯伯很辛苦。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 106.651,
+      "end": 110.799,
+      "label": "guilin",
+      "text": "我们要珍惜粮食，珍惜粒粒皆辛苦呀。",
+      "score": 0.1219,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0291,
+        "sc_logprob": -0.0235,
+        "sc_delta": 0.0056,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们要珍惜粮食，真是历历皆辛苦呀。"
+      }
+    }
+  ]
+}

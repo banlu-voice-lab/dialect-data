@@ -1,0 +1,282 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_公益广告_文明餐桌 从我做起.wav",
+  "duration": 47.419,
+  "no_dialect": false,
+  "created_at": "2026-10-27T01:36:32",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.36,
+      "label": "guilin",
+      "text": "爷爷，我要吃这个，这个，",
+      "score": 0.0433,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3554,
+        "sc_logprob": -0.2767,
+        "sc_delta": 0.0787,
+        "acoustic_dev": 0.083,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "爷爷，我要吃这个。这个。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.872,
+      "end": 5.72,
+      "label": "mandarin",
+      "text": "这个，还有这个，再加一个这个。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个，还有这个，再加一个这个。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.11,
+      "end": 10.086,
+      "label": "mandarin",
+      "text": "宝贝，一饱之需何必八珍九",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0538,
+        "sc_logprob": -0.0557,
+        "sc_delta": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宝贝，一宝之需，何必八珍九鼎？"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.531,
+      "end": 12.895,
+      "label": "mandarin",
+      "text": "鼎？爷爷，那我烧这两个菜吧。",
+      "score": 0.2701,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3563,
+        "sc_logprob": -1.3958,
+        "sc_delta": -0.0395,
+        "acoustic_dev": 0.36,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "爷爷，那我烧点两个菜吧。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 12.895,
+      "end": 17.836,
+      "label": "guilin",
+      "text": "好的，真乖。妈妈，妈妈，我吃完了，你看",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.037,
+        "sc_logprob": -0.036,
+        "sc_delta": 0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好的，真乖。妈妈，妈妈，我吃完了。你。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 18.19,
+      "end": 21.099,
+      "label": "mandarin",
+      "text": "我第一碗。宝贝，",
+      "score": 0.3619,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.044,
+        "sc_logprob": -2.1647,
+        "sc_delta": -0.1207,
+        "acoustic_dev": 0.55,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我第一名，宝贝。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 21.099,
+      "end": 25.498,
+      "label": "mandarin",
+      "text": "三餐之盘一定要一干二净哦。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "sc_logprob": -0.0025,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三餐之盘，一定要一干二净哦。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 25.615,
+      "end": 29.41,
+      "label": "mandarin",
+      "text": "嗯，好的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0016,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，好的。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.909,
+      "end": 34.693,
+      "label": "guilin",
+      "text": "厉行节约，反对浪费，是我们每个人的责任。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "sc_logprob": -0.0019,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "厉行节约，反对浪费，是我们每个人的责任。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 34.758,
+      "end": 37.267,
+      "label": "mandarin",
+      "text": "人人都行动起来，久久为功，",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0233,
+        "sc_logprob": -0.0258,
+        "sc_delta": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "人人都行动起来，久久围攻。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 37.267,
+      "end": 40.003,
+      "label": "mandarin",
+      "text": "坚持下去，餐桌上的",
+      "score": 0.0588,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0653,
+        "sc_logprob": -0.0843,
+        "sc_delta": -0.0189,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坚持下去，餐桌上。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 40.635,
+      "end": 45.313,
+      "label": "guilin",
+      "text": "消费盛开更加",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -15.2064,
+        "sc_logprob": -14.7947,
+        "sc_delta": 0.4117,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "盛开更加绚丽的文明之花。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.448,
+      "end": 47.419,
+      "label": "guilin",
+      "text": "绚丽的文明之花。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.0835,
+        "sc_logprob": -3.93,
+        "sc_delta": 0.1535,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": ""
+      }
+    }
+  ]
+}

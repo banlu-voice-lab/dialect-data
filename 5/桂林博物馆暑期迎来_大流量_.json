@@ -1,0 +1,471 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林博物馆暑期迎来_大流量_.wav",
+  "duration": 102.2,
+  "no_dialect": false,
+  "created_at": "2026-10-27T04:15:27",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.382,
+      "end": 8.615,
+      "label": "guilin",
+      "text": "暑假期间，桂林博物馆以其独特而丰富的文化活动，成为了连接历史与市民的桥梁。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "sc_logprob": -0.0016,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "暑假期间，桂林博物馆以其独特而丰富的文化活动，成为了连接历史与市民的桥梁。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 9.069,
+      "end": 14.992,
+      "label": "mandarin",
+      "text": "七月以来，桂林博物馆开展了以西兰剧展为主题的公益性研学活动，",
+      "score": 0.2157,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0501,
+        "sc_logprob": -0.0511,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.16,
+        "seg_cer": 0.107,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "兰/南",
+        "lexicon": "",
+        "text_free": "七月以来，桂林博物馆开展了以西南巨匠为主题的公益性研学活动。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 14.992,
+      "end": 17.812,
+      "label": "mandarin",
+      "text": "吸引了近四千人次的参与，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "sc_logprob": -0.0038,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引了近四千人次的参与。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.137,
+      "end": 20.7,
+      "label": "mandarin",
+      "text": "其中超过半数为青少年。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "sc_logprob": -0.0016,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中超过半数为青少年。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.899,
+      "end": 28.114,
+      "label": "mandarin",
+      "text": "通过制作式互动体验，开启了一场桂林城西剧抗战印记的寻觅之旅。",
+      "score": 0.273,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0833,
+        "sc_logprob": -0.0865,
+        "sc_delta": -0.0032,
+        "acoustic_dev": 0.279,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "制/自",
+        "lexicon": "",
+        "text_free": "通过自助式互动体验，开启了一场桂林城戏剧抗战印记的寻秘之旅。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.114,
+      "end": 31.735,
+      "label": "guilin",
+      "text": "呃，我们暑期的活动呢，特点呢就一个是",
+      "score": 0.6057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3698,
+        "sc_logprob": -0.3176,
+        "sc_delta": 0.0522,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哦，我们暑期的活动呢，特点那就有一个是。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.858,
+      "end": 36.12,
+      "label": "mandarin",
+      "text": "趣味性，啊，一个是我们结合我们这个红色文化，",
+      "score": 0.0007,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "sc_logprob": -0.0067,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "趣味性啊，一个是我们结合我们这个红色文化。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.403,
+      "end": 41.781,
+      "label": "guilin",
+      "text": "桂林的抗战文化，然后还有让它的操作性、互动性很强，",
+      "score": 0.0193,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0158,
+        "sc_logprob": -0.0131,
+        "sc_delta": 0.0027,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林的抗战文化，然后还有，让它的操作性互动性很强。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 42.045,
+      "end": 46.057,
+      "label": "guilin",
+      "text": "参与性很强，就是让这些观众们来到这里，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "参与性很强，就是让这些观众们来到这里。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 46.057,
+      "end": 49.371,
+      "label": "guilin",
+      "text": "他不管是感官上的，然后他也可以",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0005,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它不管是感官上的，然后它也可以。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 49.647,
+      "end": 56.354,
+      "label": "guilin",
+      "text": "通过操作，通过一些体验来呃加深对这段历史的一个了解，",
+      "score": 0.3412,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1781,
+        "sc_logprob": -0.1711,
+        "sc_delta": 0.007,
+        "acoustic_dev": 0.619,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过操作，通过一些体验，来呃加深对这一段历史的一个了解。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 56.354,
+      "end": 59.508,
+      "label": "guilin",
+      "text": "对抗战文化我们的一个深入的一个了解。",
+      "score": 0.0601,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0377,
+        "sc_logprob": -0.0297,
+        "sc_delta": 0.008,
+        "acoustic_dev": 0.115,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对抗战文化，我们的一个深入的一个了解。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 59.901,
+      "end": 64.54,
+      "label": "guilin",
+      "text": "暑假期间，桂林博物馆结合游票上的碑刻特展，",
+      "score": 0.6162,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.296,
+        "sc_logprob": -0.2741,
+        "sc_delta": 0.0218,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "出假期间，桂林博物馆结合邮票上的贝壳特展。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 64.54,
+      "end": 66.997,
+      "label": "guilin",
+      "text": "开展了两场科普教育活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0051,
+        "sc_logprob": -0.0044,
+        "sc_delta": 0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "开展了两场科普教育活动。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 67.2,
+      "end": 70.923,
+      "label": "guilin",
+      "text": "成为了暑期文化生活当中的一大亮点。",
+      "score": 0.0565,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0204,
+        "sc_logprob": -0.0201,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为了初期文化生活当中的一大亮点。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 71.212,
+      "end": 77.83,
+      "label": "mandarin",
+      "text": "为了使更多的市民游客能够自由的参观桂林博物馆，还取消了预约制度。",
+      "score": 0.0152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0006,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了使更多的市民游客能够自由地参观，桂林博物馆还取消了预约制度。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 78.049,
+      "end": 81.869,
+      "label": "guilin",
+      "text": "整个暑期累计近十五万印流量。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8998,
+        "sc_logprob": -0.8922,
+        "sc_delta": 0.0077,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中国初期累积近十五万银流量。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 81.869,
+      "end": 84.976,
+      "label": "guilin",
+      "text": "嗯，我们的初衷当然是我们博物馆的",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "sc_logprob": -0.0018,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，我们的初衷当然是我们博物馆的。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 85.874,
+      "end": 89.64,
+      "label": "guilin",
+      "text": "宣传我们的文化，一个传承，一个传播。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宣传我们的文化，一个传承，一个传播。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 89.66,
+      "end": 93.228,
+      "label": "mandarin",
+      "text": "我们通过一些活动，让孩子能够在活动中",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们通过一些活动，让孩子能够在活动中。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 93.681,
+      "end": 99.08,
+      "label": "guilin",
+      "text": "体验和呃看展，让他更加能够清晰的",
+      "score": 0.2358,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0992,
+        "sc_logprob": -0.097,
+        "sc_delta": 0.0022,
+        "acoustic_dev": 0.336,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "体验，和呃看展，让它更加能够清晰。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 99.443,
+      "end": 102.2,
+      "label": "mandarin",
+      "text": "理解到我们这个桂林深厚的一个文化。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0007,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "理解到我们这个桂林深厚的一个文化。"
+      }
+    }
+  ]
+}

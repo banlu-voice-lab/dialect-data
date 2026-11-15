@@ -1,0 +1,219 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "每日金句_习近平论坚持守正创新.wav",
+  "duration": 44.433,
+  "no_dialect": false,
+  "created_at": "2026-10-27T04:40:03",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.373,
+      "end": 8.773,
+      "label": "mandarin",
+      "text": "美艺京剧，今天我们来学习习近平二零二四年五月二十三号在企业或专家座谈会上的讲话。",
+      "score": 0.0594,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.038,
+        "sc_logprob": -0.0383,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.045,
+        "seg_cer": 0.079,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "美意警局，今天我们来学习习近平二零二四年五月二十三号在企业或专家座谈会上的讲话。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 9.064,
+      "end": 12.335,
+      "label": "mandarin",
+      "text": "习近平论坚持守正创新，",
+      "score": 0.5657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6503,
+        "sc_logprob": -1.7562,
+        "sc_delta": -0.1058,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "习近平能坚持守正创新。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.705,
+      "end": 16.447,
+      "label": "mandarin",
+      "text": "要坚持守正创新，改革无论怎么改，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "sc_logprob": -0.0065,
+        "sc_delta": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要坚持守正创新，改革无论怎么改。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.579,
+      "end": 20.349,
+      "label": "guilin",
+      "text": "坚持党的全面领导，坚持马克思主义，",
+      "score": 0.0534,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0758,
+        "sc_logprob": -0.0738,
+        "sc_delta": 0.0021,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坚持党的全面领导，坚持马克思主义。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.349,
+      "end": 23.123,
+      "label": "mandarin",
+      "text": "坚持中国特色社会主义道路，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坚持中国特色社会主义道路。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.354,
+      "end": 28.506,
+      "label": "guilin",
+      "text": "坚持人民民主专政等根本的东西绝对不能动摇。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "sc_logprob": -0.0013,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坚持人民民主专政等根本的东西，绝对不能动摇。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.962,
+      "end": 32.494,
+      "label": "mandarin",
+      "text": "同时要敢于创新，把该改的、",
+      "score": 0.0842,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0101,
+        "sc_logprob": -0.0128,
+        "sc_delta": -0.0027,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时要敢于创新，把改革的。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.494,
+      "end": 34.98,
+      "label": "guilin",
+      "text": "能改的改好、改到位。",
+      "score": 0.7329,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5538,
+        "sc_logprob": -0.5356,
+        "sc_delta": 0.0182,
+        "acoustic_dev": 0.833,
+        "seg_cer": 0.625,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能记得，记得到位。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.117,
+      "end": 37.805,
+      "label": "mandarin",
+      "text": "看准了就要坚定不移抓。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "sc_logprob": -0.0023,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看准了，就要坚定不移抓。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 38.296,
+      "end": 44.433,
+      "label": "mandarin",
+      "text": "习近平二零二四年五月二十三日在企业或专家座谈会上的讲话。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0072,
+        "sc_logprob": -0.0089,
+        "sc_delta": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "习近平二零二四年五月二十三日在企业或专家座谈会上的讲话。"
+      }
+    }
+  ]
+}

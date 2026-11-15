@@ -1,0 +1,471 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "漓江声乐艺术团_用歌声唱响对党和祖国的热爱.wav",
+  "duration": 122.31,
+  "no_dialect": false,
+  "created_at": "2026-10-27T04:52:18",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.477,
+      "label": "mandarin",
+      "text": "今天是七月一号，是我们伟大的中国共产党成立一百零三周年的纪念日。",
+      "score": 0.0474,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0046,
+        "sc_logprob": -0.0049,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天是七月一号，送伟大的中国共产党成立一百零三周年的纪念日。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.848,
+      "end": 10.386,
+      "label": "mandarin",
+      "text": "在我们党一百零三岁生日到来的时候，",
+      "score": 0.6057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2571,
+        "sc_logprob": -0.2579,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在我们等一百零三岁的生意到来的时候。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.503,
+      "end": 15.392,
+      "label": "mandarin",
+      "text": "桂林漓江声乐艺术团举办了第二期音乐沙龙活动，",
+      "score": 0.0357,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.021,
+        "sc_logprob": -0.0213,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.069,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林漓江声乐艺术团举办了第二期音乐沙龙活动。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.586,
+      "end": 20.44,
+      "label": "mandarin",
+      "text": "用歌声唱响对党和祖国以及家乡的热爱与",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "sc_logprob": -0.0023,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用歌声唱响对党和祖国以及家乡的热爱与。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.584,
+      "end": 38.918,
+      "label": "mandarin",
+      "text": "赞美。这次活动在悠扬婉转的歌声中拉开帷",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4411,
+        "sc_logprob": -0.4862,
+        "sc_delta": -0.0451,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次活动在有样板展的过程中拉开帷幕。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 38.92,
+      "end": 42.032,
+      "label": "mandarin",
+      "text": "幕。参加活动的团员们依次上台，",
+      "score": 0.3342,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1476,
+        "sc_logprob": -0.1609,
+        "sc_delta": -0.0133,
+        "acoustic_dev": 0.575,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "五，参加活动的团员们依次上台。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 42.28,
+      "end": 51.397,
+      "label": "mandarin",
+      "text": "以饱满的热情和专业的技巧演唱了《长城谣》《小白杨》《长江之歌》《我爱的塞北的雪》等经典曲目。",
+      "score": 0.0013,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0044,
+        "sc_logprob": -0.0049,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以饱满的热情和专业的技巧，演唱了《长城谣》、《小白杨》、《长江之歌》、《我爱的塞北的雪》等经典曲目。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 51.827,
+      "end": 54.937,
+      "label": "mandarin",
+      "text": "他们或深情款款，或激昂高亢，",
+      "score": 0.0045,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.006,
+        "sc_logprob": -0.0093,
+        "sc_delta": -0.0033,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他们或深情款款，或激昂高亢。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 55.208,
+      "end": 59.754,
+      "label": "mandarin",
+      "text": "用歌声诉说着对党和祖国的热爱与崇敬，",
+      "score": 0.032,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0192,
+        "sc_logprob": -0.0205,
+        "sc_delta": -0.0013,
+        "acoustic_dev": 0.062,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用歌声诉说着对党和祖国的热爱与崇敬。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 60.023,
+      "end": 64.492,
+      "label": "mandarin",
+      "text": "也传递出对美好生活的向往和对音乐的热爱。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "sc_logprob": -0.0018,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也传递出对美好生活的向往，和对音乐的热爱。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 64.913,
+      "end": 68.855,
+      "label": "mandarin",
+      "text": "这次活动不仅为团员们提供了学习交流的机会，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "sc_logprob": -0.001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次活动不仅为团员们提供了学习交流的机会。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 69.115,
+      "end": 74.016,
+      "label": "mandarin",
+      "text": "而且也让大家享受到了音乐所带来的美好与快乐。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0005,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而且也让大家享受到了音乐所带来的美好与快乐。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 74.228,
+      "end": 85.553,
+      "label": "mandarin",
+      "text": "同时，这也是桂林漓江声乐艺术团为推动地方文化艺术事业发展和丰富音乐爱好者精神文化生活所做出的积极贡献。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "sc_logprob": -0.0029,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，这也是桂林漓江声乐艺术团为推动地方文化艺术事业发展，和丰富音乐爱好者精神文化生活所做出的积极贡献。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 85.828,
+      "end": 90.152,
+      "label": "guilin",
+      "text": "平时我们都是以合唱的形式排练演出，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "sc_logprob": -0.0009,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平时我们都是以合唱的形式排练演出。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 91.05,
+      "end": 94.542,
+      "label": "mandarin",
+      "text": "这次有机会让我个人上台展示，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "sc_logprob": -0.0034,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次有机会让我个人上台展示。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 94.616,
+      "end": 98.937,
+      "label": "mandarin",
+      "text": "我觉得非常好，是对我平时学习的一个检验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我觉得非常好，是对我平时学习的一个检验。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 99.288,
+      "end": 103.383,
+      "label": "mandarin",
+      "text": "这次音乐沙龙活动给我们提供了一个展示平台，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "sc_logprob": -0.0019,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次音乐沙龙活动给我们提供了一个展示平台。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 103.383,
+      "end": 105.48,
+      "label": "mandarin",
+      "text": "锻炼了我们的胆量和台风，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "锻炼了我们的胆量和台风。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 105.558,
+      "end": 110.508,
+      "label": "guilin",
+      "text": "为我们以后参加更多的比赛打下了基础。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为我们以后参加更多的比赛打下了基础。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 110.789,
+      "end": 114.132,
+      "label": "guilin",
+      "text": "接下来，艺术团将继续积极排练，",
+      "score": 0.5903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1499,
+        "sc_logprob": -1.1314,
+        "sc_delta": 0.0185,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接下来，艺术团将技术积极排练。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 114.132,
+      "end": 117.138,
+      "label": "guilin",
+      "text": "为第三期沙龙活动做足准备。",
+      "score": 0.0137,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0104,
+        "sc_logprob": -0.0095,
+        "sc_delta": 0.0009,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为第三期沙龙活动做足准备。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 117.307,
+      "end": 122.31,
+      "label": "mandarin",
+      "text": "每一位团员都有展示所学、展示自我的机会。",
+      "score": 0.4307,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1262,
+        "sc_logprob": -0.1368,
+        "sc_delta": -0.0107,
+        "acoustic_dev": 0.489,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "所/说",
+        "lexicon": "",
+        "text_free": "让每一位团员都有展示、说说、展示自我的机会。"
+      }
+    }
+  ]
+}

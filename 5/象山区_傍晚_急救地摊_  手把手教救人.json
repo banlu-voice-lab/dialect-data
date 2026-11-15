@@ -1,0 +1,282 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "象山区_傍晚_急救地摊_  手把手教救人.wav",
+  "duration": 66.765,
+  "no_dialect": false,
+  "created_at": "2026-10-27T05:59:43",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.465,
+      "end": 6.263,
+      "label": "guilin",
+      "text": "前几天的一个夜晚，香山区创新举办第四期急救地摊活动。",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0064,
+        "sc_logprob": -0.0046,
+        "sc_delta": 0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天的一个夜晚，香山区创新举办第四期急救地毯活动。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.483,
+      "end": 10.215,
+      "label": "guilin",
+      "text": "急救地摊，它既不卖货，的也不吆喝，",
+      "score": 0.1166,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0154,
+        "sc_logprob": -0.0138,
+        "sc_delta": 0.0015,
+        "acoustic_dev": 0.036,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啤酒地摊，他既不卖货，的也不吆喝。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.215,
+      "end": 13.565,
+      "label": "guilin",
+      "text": "而是呢，免费的教大家急救知识，",
+      "score": 0.3281,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0541,
+        "sc_logprob": -0.0514,
+        "sc_delta": 0.0027,
+        "acoustic_dev": 0.191,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "是/死",
+        "lexicon": "咧",
+        "text_free": "饿死咧！免费的教大家急救知识。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.704,
+      "end": 27.327,
+      "label": "guilin",
+      "text": "传授救命的技能。活动当中，志愿者用通俗易懂的语言、生动的教学方式，向市民普及心肺复苏、AED使用等应急救护专业知识和技能，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "sc_logprob": -0.0017,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "传授救命的技能。活动当中，志愿者用通俗易懂的语言、生动的教学方式，向市民普及心肺复苏、AED使用等应急救护专业知识和技能。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 27.616,
+      "end": 31.128,
+      "label": "guilin",
+      "text": "手把手的指导市民进行急救技能操作，",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0096,
+        "sc_logprob": -0.0084,
+        "sc_delta": 0.0012,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "手把手地指导市民进行急救技能操作。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 31.128,
+      "end": 33.894,
+      "label": "guilin",
+      "text": "吸引了许多市民驻足学习。",
+      "score": 0.4007,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.199,
+        "sc_logprob": -0.1613,
+        "sc_delta": 0.0378,
+        "acoustic_dev": 0.771,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引了许多市民驻足学习。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 33.894,
+      "end": 40.286,
+      "label": "mandarin",
+      "text": "咱们想来体验一下，因为平时学的急救知识都是停留在文字上的，没有实地操作过。",
+      "score": 0.0134,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.029,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他们想来体验一下，因为平时学的急救知识都是停留在文字上的，没有实地操作过。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 40.367,
+      "end": 44.86,
+      "label": "guilin",
+      "text": "然后今天有幸可以来这里，然后学一下，我觉得这个活动很有意义。",
+      "score": 0.0169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0003,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后今天有幸可以来这里，然后学一下。我觉得这个活动很很有意义。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 44.86,
+      "end": 48.348,
+      "label": "guilin",
+      "text": "刚刚学这个真的很累，但是再累我也要学，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "刚刚学这个真的很累，但是再累我也要学。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.348,
+      "end": 53.833,
+      "label": "mandarin",
+      "text": "因为可以救人。此次活动由桂林市红十字会香山区举办，",
+      "score": 0.0965,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0433,
+        "sc_logprob": -0.0516,
+        "sc_delta": -0.0084,
+        "acoustic_dev": 0.147,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以为可以救人。此次活动由桂林市红十字会香山区举办。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 53.833,
+      "end": 58.179,
+      "label": "guilin",
+      "text": "四期急救地摊活动吸引了近两千人参与。",
+      "score": 0.2419,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.071,
+        "sc_logprob": -0.0703,
+        "sc_delta": 0.0007,
+        "acoustic_dev": 0.258,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "私企急救低碳活动吸引了近两千人参与。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 58.19,
+      "end": 64.529,
+      "label": "guilin",
+      "text": "我们希望通过这个活动，让更多的市民能够学到我们这个急救技能，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们希望通过这个活动，让更多的市民能够学到我们这个急救技能。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 64.596,
+      "end": 66.765,
+      "label": "mandarin",
+      "text": "能够帮助到更多需要帮助的人。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能够帮助到更多需要帮助的人。"
+      }
+    }
+  ]
+}
