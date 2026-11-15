@@ -1,0 +1,282 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_健康问答_青少年如何正确护眼.wav",
+  "duration": 61.599,
+  "no_dialect": false,
+  "created_at": "2026-10-28T08:30:34",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.68,
+      "end": 5.804,
+      "label": "guilin",
+      "text": "暑假时间长，天气热，青少年呢就容易出现生活不规律啊、",
+      "score": 0.4444,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1651,
+        "sc_logprob": -0.1532,
+        "sc_delta": 0.0119,
+        "acoustic_dev": 0.625,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "时间长，天气夜，青少年咧就容易出现生活不规律啊。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.804,
+      "end": 11.216,
+      "label": "guilin",
+      "text": "缺少户外活动啊，或者是长时间的近距离用眼等等这种情况，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0013,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "缺少户外活动啊，或者是长时间的近距离用眼等等这种情况。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.339,
+      "end": 15.243,
+      "label": "guilin",
+      "text": "所以就容易发生近视或者是近视程度加深。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以就容易发生近视，或者是近视程度加深。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.631,
+      "end": 19.74,
+      "label": "guilin",
+      "text": "那青少年应该如何正确的保护眼睛呢？",
+      "score": 0.0214,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0192,
+        "sc_logprob": -0.0177,
+        "sc_delta": 0.0015,
+        "acoustic_dev": 0.041,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那青少年应该如何正确的保护眼睛呢？"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.1,
+      "end": 25.004,
+      "label": "guilin",
+      "text": "一、增强户外活动，青少年建议每天一到两个小时的户外运动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一、增强户外活动。青少年建议每天一到两个小时的户外运动。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.004,
+      "end": 30.305,
+      "label": "guilin",
+      "text": "不管是阴天还是晴天，户外活动对于预防近视眼都能起到一定的作用。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0005,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不管是阴天还是晴天，户外活动对于预防近视眼都能起到一定的作用。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.556,
+      "end": 35.047,
+      "label": "guilin",
+      "text": "二、缓解视疲劳，选择不含防腐剂的人工泪液，",
+      "score": 0.0573,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0364,
+        "sc_logprob": -0.0308,
+        "sc_delta": 0.0057,
+        "acoustic_dev": 0.11,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二，缓解视疲劳，选择不含防腐剂的人工泪液。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.047,
+      "end": 41.266,
+      "label": "guilin",
+      "text": "人工泪液可以帮助润滑，不含激素和抗生素是比较安全的非处方药。",
+      "score": 0.0163,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "sc_logprob": -0.0029,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "人工泪液可以帮助润滑，不含激素或抗生素，是比较安全的非处方药。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.88,
+      "end": 45.811,
+      "label": "guilin",
+      "text": "三、注意室内的亮度，比如讲右手拿笔的话，",
+      "score": 0.5469,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2764,
+        "sc_logprob": -0.2747,
+        "sc_delta": 0.0017,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三，注意室内的亮度。比如将右手拿笔的话。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 45.811,
+      "end": 51.47,
+      "label": "guilin",
+      "text": "台灯等源需要放在左上方，同时呢需要保证室内背景的亮度和宽敞。",
+      "score": 0.0163,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "sc_logprob": -0.0093,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "台灯等源需要往在左上方，同时呢，需要保证室内背景的亮度和宽敞。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 51.47,
+      "end": 55.203,
+      "label": "guilin",
+      "text": "注意坐姿，保持眼部、书本和屏幕之间的距离，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2372,
+        "sc_logprob": -0.2072,
+        "sc_delta": 0.03,
+        "acoustic_dev": 0.913,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "坐/桌",
+        "lexicon": "",
+        "text_free": "注意：桌子保持眼部、书本或屏幕之间的距离。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 55.369,
+      "end": 57.978,
+      "label": "guilin",
+      "text": "不歪头，保持注意适当的休息。",
+      "score": 0.3314,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1499,
+        "sc_logprob": -0.1276,
+        "sc_delta": 0.0223,
+        "acoustic_dev": 0.564,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不埋头，保持注意，适当的休息。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 58.141,
+      "end": 61.599,
+      "label": "guilin",
+      "text": "注意以上的事项，做到科学用眼养护。",
+      "score": 0.161,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "sc_logprob": -0.004,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "事/思",
+        "lexicon": "",
+        "text_free": "注意以上的思想，做到科学用眼养护。"
+      }
+    }
+  ]
+}

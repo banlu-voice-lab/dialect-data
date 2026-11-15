@@ -1,0 +1,387 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_崇尚节约 反对浪费_食物正确保鲜 不浪费一物.wav",
+  "duration": 81.781,
+  "no_dialect": false,
+  "created_at": "2026-10-28T08:43:10",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.316,
+      "label": "guilin",
+      "text": "炎炎夏日，应该怎子保存食物？",
+      "score": 0.2094,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.072,
+        "sc_logprob": -0.0728,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.095,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "盐盐下移，应该啷子保存食物？"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.316,
+      "end": 5.951,
+      "label": "guilin",
+      "text": "我相信啊，这是困扰蛮多人的问题。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0357,
+        "sc_logprob": -0.0361,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我相信啊，这是困扰蛮多人的问题。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.175,
+      "end": 10.275,
+      "label": "guilin",
+      "text": "是不是就是把吃的东西放到冰箱里面就可以保鲜了呢？",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0099,
+        "sc_logprob": -0.0106,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是不是就是把吃的东西放到冰箱里面，就可以保鲜了呢？"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.58,
+      "end": 14.61,
+      "label": "guilin",
+      "text": "为了让大家在储存食物的时候不浪费，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "sc_logprob": -0.0048,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了让大家在储存食物的时候不浪费。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 14.61,
+      "end": 21.378,
+      "label": "guilin",
+      "text": "哎，今天我们就告诉大家一些正确的保鲜食品的小妙招，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0178,
+        "sc_logprob": -0.0176,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哎，今天我们就告诉大家一些正确的保鲜食品的小妙招。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.65,
+      "end": 27.56,
+      "label": "guilin",
+      "text": "让我们大家一起学起来吧。并不是所有食物都适合于放冰箱，",
+      "score": 0.084,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0623,
+        "sc_logprob": -0.055,
+        "sc_delta": 0.0074,
+        "acoustic_dev": 0.056,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让我们大家一起学起来吧。并不是所有食物都是活鱼，放冰箱。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.687,
+      "end": 30.978,
+      "label": "guilin",
+      "text": "比如香蕉、芒果、猕猴桃等热带水果，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "sc_logprob": -0.0015,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比如香蕉、芒果、猕猴桃等热带水果。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.293,
+      "end": 35.067,
+      "label": "guilin",
+      "text": "过低温保存反而会引起冷害，加速腐坏。",
+      "score": 0.3751,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2149,
+        "sc_logprob": -0.1982,
+        "sc_delta": 0.0167,
+        "acoustic_dev": 0.666,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "过低温保存反而会引起冷害，加速腐败。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.453,
+      "end": 42.461,
+      "label": "guilin",
+      "text": "刚做好的温热食物，应该等到它冷了接近常温的时候才可以放入冰箱，",
+      "score": 0.1524,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0796,
+        "sc_logprob": -0.0705,
+        "sc_delta": 0.0091,
+        "acoustic_dev": 0.125,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "刚做好嘞，文业食物应该等到它冷了、接近常温的时候，才可以放入冰箱。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.731,
+      "end": 49.134,
+      "label": "guilin",
+      "text": "要不然容易导致冰箱里的周围食物因为温度升高而滋生细菌。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0205,
+        "sc_logprob": -0.0251,
+        "sc_delta": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要不然，容易导致冰箱里的周围食物因为温度升高而滋生细菌。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 49.538,
+      "end": 51.94,
+      "label": "guilin",
+      "text": "食品保存要生熟分开，",
+      "score": 0.7143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2948,
+        "sc_logprob": -0.2588,
+        "sc_delta": 0.036,
+        "acoustic_dev": 0.986,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "熟/速",
+        "lexicon": "",
+        "text_free": "食品保存要迅速分开。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 51.94,
+      "end": 56.219,
+      "label": "guilin",
+      "text": "密封存放，还要警惕耐冷细菌，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0267,
+        "sc_logprob": -0.0261,
+        "sc_delta": 0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "密封存放，还要警惕耐冷细菌。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 56.219,
+      "end": 60.311,
+      "label": "guilin",
+      "text": "它们在冰箱冷藏室里面也能够生存繁殖。",
+      "score": 0.2862,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0609,
+        "sc_logprob": -0.067,
+        "sc_delta": -0.0061,
+        "acoustic_dev": 0.05,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "殖/子 生/神",
+        "lexicon": "",
+        "text_free": "躺在冰箱、冷藏室里面，也能够神称番子。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 60.602,
+      "end": 63.044,
+      "label": "guilin",
+      "text": "最常见的就是李斯特菌，",
+      "score": 0.5657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3741,
+        "sc_logprob": -0.2826,
+        "sc_delta": 0.0915,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最常见的就是李斯特军。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.293,
+      "end": 67.211,
+      "label": "guilin",
+      "text": "它是最致命的食源性病原体之一，",
+      "score": 0.6852,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2982,
+        "sc_logprob": -0.2881,
+        "sc_delta": 0.0101,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "食/四",
+        "lexicon": "",
+        "text_free": "它是最致命的四元性病原体之一。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 67.367,
+      "end": 71.665,
+      "label": "guilin",
+      "text": "因此存放在冰箱内的食物不能存放过久，",
+      "score": 0.1244,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1081,
+        "sc_logprob": -0.1166,
+        "sc_delta": -0.0085,
+        "acoustic_dev": 0.239,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因此，存放在冰箱内的食物不能存放过久。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 71.932,
+      "end": 75.234,
+      "label": "guilin",
+      "text": "也要定期对冰箱进行清洁消毒。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也要定期对冰箱进行清洁消毒。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 75.407,
+      "end": 81.781,
+      "label": "guilin",
+      "text": "了解食物保鲜要点，不浪费任何一物，健康度过炎炎夏日。",
+      "score": 0.0795,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.011,
+        "sc_logprob": -0.0114,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "了解食物保鲜要点，不浪费，因祸益物，健康度过炎炎夏意。"
+      }
+    }
+  ]
+}

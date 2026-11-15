@@ -1,0 +1,471 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "什么是_秋乏__如何缓解_.wav",
+  "duration": 72.389,
+  "no_dialect": false,
+  "created_at": "2026-10-28T09:39:50",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.857,
+      "label": "mandarin",
+      "text": "现在天气是由热转凉，",
+      "score": 0.4322,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5219,
+        "sc_logprob": -0.6072,
+        "sc_delta": -0.0854,
+        "acoustic_dev": 0.831,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在天气是由热转凉。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.857,
+      "end": 6.858,
+      "label": "guilin",
+      "text": "好多人呢就出现了，哎呀，感觉一身的凉完了，",
+      "score": 0.243,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2794,
+        "sc_logprob": -0.2477,
+        "sc_delta": 0.0317,
+        "acoustic_dev": 0.418,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好多人呢，就出现了：“哎呀，感觉一身都凉完了。”"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.858,
+      "end": 9.828,
+      "label": "guilin",
+      "text": "啊，注意力又不集中等等这些情况，",
+      "score": 0.0717,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0778,
+        "sc_logprob": -0.094,
+        "sc_delta": -0.0162,
+        "acoustic_dev": 0.075,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，注意力有不集中等等这些情况。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 9.955,
+      "end": 12.457,
+      "label": "guilin",
+      "text": "这就是我们经常讲的秋乏。",
+      "score": 0.2926,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2703,
+        "sc_logprob": -0.2929,
+        "sc_delta": -0.0226,
+        "acoustic_dev": 0.403,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这就是我们经常讲的“囚法”。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 12.582,
+      "end": 15.573,
+      "label": "guilin",
+      "text": "那如何缓解这种秋乏呢？",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0063,
+        "sc_logprob": -0.0091,
+        "sc_delta": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.6,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那如何反感这种求法呢？我们。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 15.573,
+      "end": 17.727,
+      "label": "guilin",
+      "text": "我们今天一起来了解一下。",
+      "score": 0.0232,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0598,
+        "sc_logprob": -0.052,
+        "sc_delta": 0.0079,
+        "acoustic_dev": 0.045,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们今天一起来了解一下。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 17.891,
+      "end": 21.069,
+      "label": "guilin",
+      "text": "我们可以来试一下这些方法：一、有氧运动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0101,
+        "sc_logprob": -0.0135,
+        "sc_delta": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们可以来试一下这些方法：一、有氧运动。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 21.069,
+      "end": 25.822,
+      "label": "guilin",
+      "text": "跑步、打拳、跳绳、登山等运动可以促进人体神经、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0257,
+        "sc_logprob": -0.0265,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "跑步、打拳、跳绳、登山等运动，可以促进人体神经。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 25.822,
+      "end": 28.039,
+      "label": "guilin",
+      "text": "心血管和呼吸系统的健康，",
+      "score": 0.5616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.838,
+        "sc_logprob": -0.7377,
+        "sc_delta": 0.1003,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "心血管或呼吸系统的健康。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 28.039,
+      "end": 30.385,
+      "label": "mandarin",
+      "text": "起到改秋乏的效果。二、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.6561,
+        "sc_logprob": -3.8328,
+        "sc_delta": -0.1767,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "起到该求法的效果，呃。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 30.385,
+      "end": 36.131,
+      "label": "guilin",
+      "text": "科学的午睡，午睡前要少吃那些油腻的食物，减少肠胃的负担。",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "sc_logprob": -0.0034,
+        "sc_delta": 0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "科学的午睡，午睡前啊，要少吃那些油腻的食物，减少肠胃的负担。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 36.131,
+      "end": 40.219,
+      "label": "guilin",
+      "text": "吃完中饭以后呢，就莫马上睡觉，而且午睡时间莫太长，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "sc_logprob": -0.0045,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吃完中饭以后呢，就莫马上睡觉，而且午睡时间莫太长。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 40.219,
+      "end": 42.586,
+      "label": "guilin",
+      "text": "十分钟到三十分钟就得了。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0005,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十分钟到三十分钟就得了。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 42.656,
+      "end": 46.585,
+      "label": "guilin",
+      "text": "第三呢，多晒晒太阳，适当的增加阳光的照射，",
+      "score": 0.0578,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0415,
+        "sc_logprob": -0.0591,
+        "sc_delta": -0.0176,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第三呢，多晒下子太阳，适当的增加阳光的照射。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 46.585,
+      "end": 49.248,
+      "label": "guilin",
+      "text": "可以有效的抑制褪黑激素的分泌，",
+      "score": 0.3577,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4008,
+        "sc_logprob": -0.3956,
+        "sc_delta": 0.0052,
+        "acoustic_dev": 0.625,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以有效地抑制褪黑激素的分泌。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 49.248,
+      "end": 53.126,
+      "label": "guilin",
+      "text": "改善因心情的郁闷。第四呢，要多伸懒腰，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0211,
+        "sc_logprob": -0.0244,
+        "sc_delta": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "改善因心情的郁闷。第四呢，要多伸懒腰。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 53.274,
+      "end": 56.129,
+      "label": "guilin",
+      "text": "下午工作学习时间长了，伸个懒腰呢，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下午工作学习时间长了，伸个懒腰的。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 56.129,
+      "end": 58.65,
+      "label": "guilin",
+      "text": "马上你会感觉神清气爽，舒服了。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0104,
+        "sc_logprob": -0.0133,
+        "sc_delta": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "马上你会感觉神清气爽、舒服了。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 58.688,
+      "end": 64.323,
+      "label": "guilin",
+      "text": "第五，冷水洗脸，用冷水洗脸也能够有效的解除秋乏的不适感。",
+      "score": 0.2919,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2601,
+        "sc_logprob": -0.2335,
+        "sc_delta": 0.0266,
+        "acoustic_dev": 0.386,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第五，冷水洗脸。用冷水洗脸也能够有效地赶出头发的不适感。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 64.36,
+      "end": 67.532,
+      "label": "guilin",
+      "text": "第六，要注意饮食，可以适当的喝点绿茶、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0128,
+        "sc_logprob": -0.0229,
+        "sc_delta": -0.0101,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第六，要注意饮食，可以适当的喝点绿茶。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 67.532,
+      "end": 70.263,
+      "label": "guilin",
+      "text": "咖啡，绿茶呢在预防秋乏的同时，",
+      "score": 0.6303,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.632,
+        "sc_logprob": -0.6111,
+        "sc_delta": 0.0208,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "咖啡。绿茶咧，在预防秋发的同时。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 70.263,
+      "end": 72.389,
+      "label": "guilin",
+      "text": "还可以起到防秋燥的作用。",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0019,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还可以起到防臭藻的作用。"
+      }
+    }
+  ]
+}

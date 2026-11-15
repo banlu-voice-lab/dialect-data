@@ -1,0 +1,387 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "9月 _崇尚节约 反对浪费_过期物品先别丢__变废为宝_大有用_.wav",
+  "duration": 70.94,
+  "no_dialect": false,
+  "created_at": "2026-10-28T08:15:52",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.117,
+      "end": 6.43,
+      "label": "guilin",
+      "text": "浪费这个问题啊，我们经常都在扯。面对浪费的行为呢，我们应该从身边的点点滴滴来做起，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "sc_logprob": -0.0029,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "浪费这个问题啊，我们经常都在扯。面对浪费的行为呢，我们应该从身边的点点滴滴来做起。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.43,
+      "end": 10.552,
+      "label": "guilin",
+      "text": "杜绝浪费。正所谓喊做物尽其用才是简。",
+      "score": 0.4388,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3707,
+        "sc_logprob": -0.3656,
+        "sc_delta": 0.0051,
+        "acoustic_dev": 0.536,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "杜绝浪费，这首被喊作“无尽启用”才是简。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.633,
+      "end": 14.34,
+      "label": "guilin",
+      "text": "哪怕是过期的东西啊，它都还会有它的新的用途的不？",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0427,
+        "sc_logprob": -0.0441,
+        "sc_delta": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哪怕是国企的东西啊，它都还会有它的新的用途的，不。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.375,
+      "end": 17.169,
+      "label": "guilin",
+      "text": "今天呢，我们大家来分析一下这些小技能。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0231,
+        "sc_logprob": -0.0235,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天呢，我们大家来分析一下这小技能。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.633,
+      "end": 24.558,
+      "label": "guilin",
+      "text": "过期牛奶啷子用呢？皮肤晒伤之后呢，可以拿冰牛奶来敷脸，这样子呢，可以起到镇静皮肤、",
+      "score": 0.2021,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0585,
+        "sc_logprob": -0.0609,
+        "sc_delta": -0.0024,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.306,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.222,
+        "phon_examples": "牛/流 牛/流",
+        "lexicon": "",
+        "text_free": "果气流呢？啷子用呢？皮肤还伤伤之后呢，可以拿冰流呢来敷脸，真的呢，可以起到镇静皮肤。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.558,
+      "end": 27.326,
+      "label": "guilin",
+      "text": "赶返黑色素的成绩。第二呢，",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2046,
+        "sc_logprob": -1.2372,
+        "sc_delta": -0.0327,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "素/数",
+        "lexicon": "",
+        "text_free": "干饭和色数的成绩。第二呢？"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.326,
+      "end": 32.047,
+      "label": "guilin",
+      "text": "就是拿来浇花，有明显酸腐味的过期牛奶是可以拿来浇花的。",
+      "score": 0.1382,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0071,
+        "sc_logprob": -0.0072,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "牛/榴",
+        "lexicon": "",
+        "text_free": "就是拿来浇花，有明显酸腐味的过气榴呢，是可以拿来浇花的。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.159,
+      "end": 36.34,
+      "label": "guilin",
+      "text": "那过期的啤酒又啷子用呢？一可以拿来擦玻璃，",
+      "score": 0.0722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0083,
+        "sc_logprob": -0.0089,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那锅器的啤酒有啷子用呢？一可以拿来擦玻璃。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.34,
+      "end": 38.866,
+      "label": "guilin",
+      "text": "用啤酒擦玻璃啊，玻璃会特别的亮。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "sc_logprob": -0.0018,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用啤酒擦玻璃啊！玻璃会特别的亮。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 38.866,
+      "end": 41.361,
+      "label": "guilin",
+      "text": "第二呢，可以去除冰箱的异味，",
+      "score": 0.6362,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9666,
+        "sc_logprob": -0.9753,
+        "sc_delta": -0.0087,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "第二咧，可以去除冰箱异味。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 41.428,
+      "end": 44.897,
+      "label": "guilin",
+      "text": "擦冰箱的时候啊，用点点啤酒可以去除除异味。",
+      "score": 0.0576,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.089,
+        "sc_logprob": -0.0822,
+        "sc_delta": 0.0068,
+        "acoustic_dev": 0.064,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "擦冰箱的时候啊，用点点啤酒，可以去污除异味。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 45.183,
+      "end": 47.584,
+      "label": "guilin",
+      "text": "那过期的面霜乳液啷子用呢？",
+      "score": 0.1666,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0647,
+        "sc_logprob": -0.0783,
+        "sc_delta": -0.0136,
+        "acoustic_dev": 0.024,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "那国旗的面霜乳液，啷子用咧？"
+      }
+    },
+    {
+      "id": 13,
+      "start": 47.743,
+      "end": 51.862,
+      "label": "guilin",
+      "text": "一可以护理头发，把过期的面霜啊涂到发尾，",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "sc_logprob": -0.0053,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一可以护理头发，把国旗的面霜啊涂到发尾。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 51.862,
+      "end": 55.171,
+      "label": "guilin",
+      "text": "可以起到护发的作用。二保养皮具，",
+      "score": 0.1842,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1871,
+        "sc_logprob": -0.1603,
+        "sc_delta": 0.0268,
+        "acoustic_dev": 0.229,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "会起到护发的作用。二，保养皮具。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 55.171,
+      "end": 57.706,
+      "label": "guilin",
+      "text": "把它涂到你的钱包、包包啊呢，",
+      "score": 0.5152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5109,
+        "sc_logprob": -0.4839,
+        "sc_delta": 0.0269,
+        "acoustic_dev": 0.771,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把它吐到你的钱包、包包里。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 57.706,
+      "end": 63.119,
+      "label": "guilin",
+      "text": "能够起到保养皮具的作用。一粥一饭，当思来之不易；",
+      "score": 0.1871,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0247,
+        "sc_logprob": -0.0413,
+        "sc_delta": -0.0166,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "思/时 粥/走",
+        "lexicon": "",
+        "text_free": "能够起到保养皮具的作用。一走一翻，当时难之不易。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 63.119,
+      "end": 66.241,
+      "label": "guilin",
+      "text": "半丝半缕，恒念物力维艰。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0379,
+        "sc_logprob": -0.0237,
+        "sc_delta": 0.0142,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.7,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "半死半绿，横年无力为奸。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 66.612,
+      "end": 70.94,
+      "label": "guilin",
+      "text": "唯有物尽其用，才能从根源头有效的减少浪费。",
+      "score": 0.2355,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.238,
+        "sc_logprob": -0.2035,
+        "sc_delta": 0.0346,
+        "acoustic_dev": 0.314,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "唯有物尽其用，才能从供应源头有效地减少浪费。"
+      }
+    }
+  ]
+}

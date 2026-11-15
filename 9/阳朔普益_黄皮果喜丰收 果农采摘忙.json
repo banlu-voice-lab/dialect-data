@@ -1,0 +1,429 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "阳朔普益_黄皮果喜丰收 果农采摘忙.wav",
+  "duration": 75.452,
+  "no_dialect": false,
+  "created_at": "2026-10-28T13:40:16",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.725,
+      "label": "guilin",
+      "text": "这两天我们去杨树河看子，除了西安的葡萄丰收了，杨树的黄皮果呢也是丰收了。",
+      "score": 0.1855,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1538,
+        "sc_logprob": -0.1354,
+        "sc_delta": 0.0184,
+        "acoustic_dev": 0.117,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们去阳朔去看下子。除了西安的葡萄丰收了，阳朔的放皮果呢也是丰收了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.725,
+      "end": 10.085,
+      "label": "guilin",
+      "text": "一眼望过去啊，到处的果树啊都挂满了金灿灿的黄皮果，",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0199,
+        "sc_logprob": -0.0201,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一眼望过去啊，到处的果树啊，都挂满了金灿灿的放皮果。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.085,
+      "end": 14.032,
+      "label": "guilin",
+      "text": "长得是特别的好。果农们呢也在忙到采摘装筐，",
+      "score": 0.3886,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.259,
+        "sc_logprob": -0.2858,
+        "sc_delta": -0.0268,
+        "acoustic_dev": 0.44,
+        "seg_cer": 0.421,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "涨得是特别的好，股东们呢也在忙着猜测状况。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.256,
+      "end": 16.948,
+      "label": "guilin",
+      "text": "一筐筐黄皮果呢也达到丰收的喜悦，",
+      "score": 0.4194,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3405,
+        "sc_logprob": -0.3329,
+        "sc_delta": 0.0075,
+        "acoustic_dev": 0.689,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一筐筐放苹果呢，也达到丰收的喜悦。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.948,
+      "end": 22.386,
+      "label": "guilin",
+      "text": "准备销往全国各地。杨树县普义乡刘公村种的黄皮果呢，",
+      "score": 0.6638,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4316,
+        "sc_logprob": -0.4001,
+        "sc_delta": 0.0315,
+        "acoustic_dev": 0.969,
+        "seg_cer": 0.522,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "准备销往全国各地。阳朔县铺一项六工程中的防壁锅呢。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.386,
+      "end": 25.025,
+      "label": "mandarin",
+      "text": "有好多年了。经过品种不断的改良，",
+      "score": 0.0784,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1444,
+        "sc_logprob": -0.1955,
+        "sc_delta": -0.0512,
+        "acoustic_dev": 0.088,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好多年了，经过品种不断的改良。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 25.025,
+      "end": 28.927,
+      "label": "guilin",
+      "text": "现在啊培育出了鸡心黄皮果、无籽黄皮果、",
+      "score": 0.5234,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.324,
+        "sc_logprob": -0.3248,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.639,
+        "seg_cer": 0.529,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "心/兴",
+        "lexicon": "",
+        "text_free": "现在培育出了即兴放屁锅，无籽放屁锅。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 28.927,
+      "end": 33.495,
+      "label": "guilin",
+      "text": "甜黄皮果等品种。果农廖志刚种的黄皮果呢有十八年了，",
+      "score": 0.0621,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1172,
+        "sc_logprob": -0.1301,
+        "sc_delta": -0.0129,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "甜放皮果这品种，果农廖志刚种的放皮果呢，有十八年了。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.495,
+      "end": 35.817,
+      "label": "guilin",
+      "text": "今年又是一个丰收年。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0005,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年又是一个丰收年。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.868,
+      "end": 39.905,
+      "label": "guilin",
+      "text": "黄皮果呢是我们两广著名的岭南佳果之一，",
+      "score": 0.127,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1142,
+        "sc_logprob": -0.1315,
+        "sc_delta": -0.0174,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.278,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "放屁锅呢，是我们两广著名的岭南家锅之一。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 39.905,
+      "end": 42.882,
+      "label": "guilin",
+      "text": "地域适应力强，成活率高，便于管理，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0079,
+        "sc_logprob": -0.009,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "地域适应力强，存活率高，便于管理。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 42.882,
+      "end": 45.971,
+      "label": "guilin",
+      "text": "而且呢有很高的营养价值和药用价值，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0675,
+        "sc_logprob": -0.0642,
+        "sc_delta": 0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而且呢，有很高的营养价值和药用价值。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.971,
+      "end": 48.348,
+      "label": "guilin",
+      "text": "目前市场前景啊是非常的好的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0114,
+        "sc_logprob": -0.0122,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前市场前景啊是非常的好的。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 48.377,
+      "end": 52.135,
+      "label": "guilin",
+      "text": "近两年黄皮果呢又成为了饮品界的宠儿，",
+      "score": 0.6007,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5329,
+        "sc_logprob": -0.4867,
+        "sc_delta": 0.0462,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近两年，防闭锅呢，又成为了饮品界的宠儿。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 52.135,
+      "end": 56.142,
+      "label": "guilin",
+      "text": "具有当地特色的小众水果，今年这个势头啊特别的猛。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "sc_logprob": -0.0022,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "具有当地特色的小众水果。今年这个势头啊，特别的猛。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 56.319,
+      "end": 62.277,
+      "label": "guilin",
+      "text": "这一个月内，不同规模的茶饮品牌都集中上架了和黄皮果相关的新品。",
+      "score": 0.0315,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.006,
+        "sc_logprob": -0.0068,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一个月内，不同规模的餐饮品牌都集中上架了和放皮果相关的新品。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 62.277,
+      "end": 65.968,
+      "label": "guilin",
+      "text": "所以呢普义乡在这抢抓时机，以党建为引领，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4808,
+        "sc_logprob": -1.4797,
+        "sc_delta": 0.0011,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.556,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "水猎捕鱼项目内的抢抓时机，以当剑为引领。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 65.968,
+      "end": 69.21,
+      "label": "guilin",
+      "text": "线上搭建一村一店的网络销售平台，",
+      "score": 0.1219,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1006,
+        "sc_logprob": -0.0962,
+        "sc_delta": 0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "线上大街，一城一点的网络销售平台。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 69.349,
+      "end": 72.731,
+      "label": "guilin",
+      "text": "线下呢和这些奶茶店签订了销售合同，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0613,
+        "sc_logprob": -0.0563,
+        "sc_delta": 0.0049,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "线下呢，和这些奶茶店签订了销售合同。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 72.919,
+      "end": 75.452,
+      "label": "guilin",
+      "text": "打造普义黄皮果双重的销路。",
+      "score": 0.5167,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3393,
+        "sc_logprob": -0.3157,
+        "sc_delta": 0.0236,
+        "acoustic_dev": 0.686,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造铺一防皮锅双重的小路。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "2023_中国人游中国秋游广西_黄金季宣传推介暨粤桂旅游产品对接会在.wav",
+  "duration": 96.69,
+  "no_dialect": false,
+  "created_at": "2026-10-28T07:59:26",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.203,
+      "end": 9.078,
+      "label": "guilin",
+      "text": "昨晚上，我们桂林呢就举行了二零二三中国游中国秋游广西黄金季宣传推介及粤桂旅游产品的对接会。",
+      "score": 0.0932,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0574,
+        "sc_logprob": -0.0565,
+        "sc_delta": 0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.116,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "出发者，我们桂林咧，就举行了二零二三中国游中国秋游广西黄金季宣传推介及月桂旅游产品的对接会。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 9.323,
+      "end": 11.864,
+      "label": "guilin",
+      "text": "那么国庆中秋的长假旅游工作，",
+      "score": 0.6255,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2144,
+        "sc_logprob": -1.1996,
+        "sc_delta": 0.0148,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么，国庆中秋的厂家旅游工作啊。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.864,
+      "end": 14.085,
+      "label": "guilin",
+      "text": "已经进入了最后的冲刺阶段。",
+      "score": 0.2017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0681,
+        "sc_logprob": -0.0715,
+        "sc_delta": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.583,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "冲/从",
+        "lexicon": "",
+        "text_free": "并坠入了最后的从此隔断。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.534,
+      "end": 22.579,
+      "label": "guilin",
+      "text": "这次活动以广东省旅行社行业协会二零二三年会暨广东百强旅行社走进桂林活动为契机，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "sc_logprob": -0.0052,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次活动以广东省旅行社行业协会二零二三年会暨广东百强旅行社走进桂林活动为契机。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.7,
+      "end": 26.183,
+      "label": "guilin",
+      "text": "以桂林为重点城市开展两广文化的交流，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0659,
+        "sc_logprob": -0.075,
+        "sc_delta": -0.0091,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以桂林为重点城市，开展两广文化的交流。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.452,
+      "end": 31.42,
+      "label": "guilin",
+      "text": "重点向广东展示推介广西秋季文化旅游特色产品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "sc_logprob": -0.0048,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "重点向广东展示推介广西秋季文化旅游特色产品。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.42,
+      "end": 35.648,
+      "label": "guilin",
+      "text": "巩固拓展粤港澳大湾区跨省旅游的客源市场，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "sc_logprob": -0.0017,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "巩固拓展粤港澳大湾区跨省旅游的客源市场。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.049,
+      "end": 41.09,
+      "label": "guilin",
+      "text": "引客入桂。推介会推荐了赏秋景、踏秋巡社游、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.725,
+        "sc_logprob": -0.7298,
+        "sc_delta": -0.0048,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.611,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因客入归推荐会推荐了《商丘经》，《塔丘寻舍友》。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.603,
+      "end": 46.471,
+      "label": "guilin",
+      "text": "庆丰收节庆民俗游等等广西十条秋季的精品旅游线路，",
+      "score": 0.3927,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3805,
+        "sc_logprob": -0.3557,
+        "sc_delta": 0.0248,
+        "acoustic_dev": 0.446,
+        "seg_cer": 0.261,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "青峰首、接青民俗游等等，广西四条秋季的精品旅游线路。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 46.471,
+      "end": 49.252,
+      "label": "guilin",
+      "text": "也推出了仙境山水逍遥游之旅、",
+      "score": 0.4179,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.603,
+        "sc_logprob": -0.5786,
+        "sc_delta": 0.0244,
+        "acoustic_dev": 0.804,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也推出了《仙境山水逍遥游之旅》。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 49.252,
+      "end": 53.724,
+      "label": "guilin",
+      "text": "亲子度假之旅等等六条桂林游资的特色线路。",
+      "score": 0.1951,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1598,
+        "sc_logprob": -0.1373,
+        "sc_delta": 0.0224,
+        "acoustic_dev": 0.09,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "资/质",
+        "lexicon": "",
+        "text_free": "亲子度假之旅等等六条桂林优质的特色线路。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 54.255,
+      "end": 57.74,
+      "label": "guilin",
+      "text": "广东省旅行社行业协会分别和桂林市、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1036,
+        "sc_logprob": -0.0797,
+        "sc_delta": 0.024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广东省旅行社行业协会分别和桂林市。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.74,
+      "end": 63.551,
+      "label": "guilin",
+      "text": "贺州市、锦绣瑶族自治县等等旅游协会签订了战略合作协议，",
+      "score": 0.1913,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1472,
+        "sc_logprob": -0.1732,
+        "sc_delta": -0.026,
+        "acoustic_dev": 0.07,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "治/紫",
+        "lexicon": "",
+        "text_free": "亳州市锦绣瑶族紫县等等旅游协会签订了战略合作协议。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 63.602,
+      "end": 65.934,
+      "label": "guilin",
+      "text": "推动了实现资源共享、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.019,
+        "sc_logprob": -0.0221,
+        "sc_delta": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动了实现资源共享。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 65.934,
+      "end": 68.434,
+      "label": "guilin",
+      "text": "政策互惠、产业共推。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0779,
+        "sc_logprob": -0.0982,
+        "sc_delta": -0.0203,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "政策互惠，产业共推。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 68.434,
+      "end": 72.445,
+      "label": "guilin",
+      "text": "当天还举办了粤桂旅游产品的对接会，",
+      "score": 0.202,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2767,
+        "sc_logprob": -0.2992,
+        "sc_delta": -0.0224,
+        "acoustic_dev": 0.279,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当天啊，还举办了月桂旅游产品的对接会。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.663,
+      "end": 77.154,
+      "label": "guilin",
+      "text": "各地文旅企业推出的系列秋季旅游产品和优惠政策。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "sc_logprob": -0.0021,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "各地文旅企业推出的系列秋季旅游产品和优惠政策。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 77.31,
+      "end": 83.626,
+      "label": "guilin",
+      "text": "据了解，广西百强旅行社走进桂林活动还将组织开展考察采线，",
+      "score": 0.4848,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5989,
+        "sc_logprob": -0.6077,
+        "sc_delta": -0.0088,
+        "acoustic_dev": 0.797,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，广西白墙旅行社走进桂林活动还将组织开展考察、采鲜。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 83.728,
+      "end": 90.997,
+      "label": "guilin",
+      "text": "围绕着红色历史文化研学游与银文风物的自驾逍遥游主题开展体验之旅，",
+      "score": 0.3597,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.463,
+        "sc_logprob": -0.4578,
+        "sc_delta": 0.0052,
+        "acoustic_dev": 0.578,
+        "seg_cer": 0.129,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "围绕着红色历史文化的研学游，与人文风物的自驾小游主题，开展体验之旅。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 91.077,
+      "end": 93.933,
+      "label": "guilin",
+      "text": "挖掘互利双赢的合作契机，",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.903,
+        "sc_logprob": -2.8492,
+        "sc_delta": 0.0538,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "挖掘狐狸双赢的合作契机。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 93.933,
+      "end": 96.69,
+      "label": "guilin",
+      "text": "也吸引更多的广东游客到桂旅游。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0129,
+        "sc_logprob": -0.0137,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也吸引更多的广东游客到归旅游。"
+      }
+    }
+  ]
+}
