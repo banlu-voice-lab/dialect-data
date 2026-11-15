@@ -1,0 +1,387 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "我市驰援海南医疗队凯旋__琼_尽全力 _桂_在坚持.wav",
+  "duration": 91.731,
+  "no_dialect": false,
+  "created_at": "2026-10-31T03:35:31",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.111,
+      "end": 8.29,
+      "label": "guilin",
+      "text": "八月三十号上午，我市驰援海南抗击疫情医疗队的医务工作人员凯旋归来。",
+      "score": 0.1215,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0257,
+        "sc_logprob": -0.0241,
+        "sc_delta": 0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.129,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "驰/慈",
+        "lexicon": "",
+        "text_free": "八月三十号上午，我市慈源海南康济疫情医疗队的医务工作人员凯旋归来。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.428,
+      "end": 13.712,
+      "label": "guilin",
+      "text": "市委、市政府及有关单位在机场举行欢迎仪式，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0162,
+        "sc_logprob": -0.0136,
+        "sc_delta": 0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "市委市政府及有关单位在机场举行欢迎仪式。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 13.831,
+      "end": 16.527,
+      "label": "guilin",
+      "text": "热烈欢迎他们平安回家。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0232,
+        "sc_logprob": -0.0119,
+        "sc_delta": 0.0114,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "热烈欢迎他们平安回家。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 21.94,
+      "end": 28.544,
+      "label": "mandarin",
+      "text": "当天上午十一点左右，我市援琼医疗队员乘坐的飞机缓缓驶入停机坪。",
+      "score": 0.0946,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.009,
+        "sc_logprob": -0.0093,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.207,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当天上午十一点左右，我是元琼医疗队员乘坐的飞机，返返失育停机坪。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 28.779,
+      "end": 35.178,
+      "label": "mandarin",
+      "text": "参加仪式的市委市政府领导、工作人员以及队员所属医院的领导、同事，",
+      "score": 0.0767,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0544,
+        "sc_logprob": -0.0652,
+        "sc_delta": -0.0108,
+        "acoustic_dev": 0.057,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "参加仪式的市委市政府领导、工作人员以及该院所属医院的领导同志。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 35.178,
+      "end": 39.951,
+      "label": "mandarin",
+      "text": "早已经等候在此。得到家乡人民的问候和敬意，",
+      "score": 0.5922,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7089,
+        "sc_logprob": -0.7384,
+        "sc_delta": -0.0295,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "早就已经等候在此，带到家乡移民的问候和敬意。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 40.065,
+      "end": 44.74,
+      "label": "mandarin",
+      "text": "用暖心的横幅和标语，交织出一片扑面而来的热情。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0093,
+        "sc_logprob": -0.0106,
+        "sc_delta": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用暖心的横幅或标语，交织出一片扑面而来的热情。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 45.149,
+      "end": 48.452,
+      "label": "mandarin",
+      "text": "在海南疫情吃紧最关键的时刻，",
+      "score": 0.031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0552,
+        "sc_logprob": -0.0646,
+        "sc_delta": -0.0094,
+        "acoustic_dev": 0.06,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在海南疫情吃紧最关键的时刻。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 48.658,
+      "end": 52.095,
+      "label": "mandarin",
+      "text": "市委市政府组织桂林医学院附属医院、",
+      "score": 0.1416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1083,
+        "sc_logprob": -0.1092,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.272,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "市委市政府组织桂林医学院附属医院。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 52.232,
+      "end": 57.046,
+      "label": "mandarin",
+      "text": "自治区南溪山医院、桂林市人民医院三家医疗单位，",
+      "score": 0.1923,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0637,
+        "sc_logprob": -0.078,
+        "sc_delta": -0.0142,
+        "acoustic_dev": 0.094,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "南/兰",
+        "lexicon": "",
+        "text_free": "自治区兰西山医院、桂林市人民医院三家医疗单位。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 57.254,
+      "end": 62.06,
+      "label": "mandarin",
+      "text": "分别选派业务骨干加入广西援琼医疗队，",
+      "score": 0.2176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.119,
+        "sc_logprob": -0.1467,
+        "sc_delta": -0.0276,
+        "acoustic_dev": 0.315,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "分别宣派业务骨干加入广西元琼医疗队。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 62.06,
+      "end": 68.18,
+      "label": "mandarin",
+      "text": "紧急驰援海南。我市一百零二名援琼医疗队员主动请缨，",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0218,
+        "sc_logprob": -0.0285,
+        "sc_delta": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "紧急驰援海南。我是一百零二名援琼医疗队员，主动请缨。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 68.192,
+      "end": 72.468,
+      "label": "guilin",
+      "text": "逆行出征，于八月十一号奔赴抗疫一线，",
+      "score": 0.1571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0262,
+        "sc_logprob": -0.0255,
+        "sc_delta": 0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "逆/离",
+        "lexicon": "",
+        "text_free": "离行出征，于八月十一号奔赴抗议一线。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 72.596,
+      "end": 75.385,
+      "label": "mandarin",
+      "text": "历经十九天的日夜奋战，",
+      "score": 0.5657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4176,
+        "sc_logprob": -0.4336,
+        "sc_delta": -0.016,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "历经十九天的一夜奋战。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 75.385,
+      "end": 81.547,
+      "label": "mandarin",
+      "text": "圆满完成海口市会展中心方舱医院六七号舱的各项战役任务。",
+      "score": 0.1527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0206,
+        "sc_logprob": -0.0238,
+        "sc_delta": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "舱/场 舱/产",
+        "lexicon": "",
+        "text_free": "圆满完成海口市会展中心房产医院六七号场的各项战役任务。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 81.74,
+      "end": 85.15,
+      "label": "mandarin",
+      "text": "全体医疗队员以不辱使命的实际行动，",
+      "score": 0.0293,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0543,
+        "sc_logprob": -0.0563,
+        "sc_delta": -0.0019,
+        "acoustic_dev": 0.056,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全体医疗队员以不辱使命的实际行动。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 85.269,
+      "end": 87.823,
+      "label": "mandarin",
+      "text": "充分体现了新时代白衣天使、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0005,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "充分体现了新时代白衣天使。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 87.927,
+      "end": 91.731,
+      "label": "mandarin",
+      "text": "广西桂林人的责任担当和精神风貌。",
+      "score": 0.4552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2298,
+        "sc_logprob": -0.2455,
+        "sc_delta": -0.0157,
+        "acoustic_dev": 0.758,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广西桂林营的责任担当或精神风貌。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "叠彩区_小区环境大变脸 整洁新颜成常态.wav",
+  "duration": 75.534,
+  "no_dialect": false,
+  "created_at": "2026-10-31T02:14:27",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.218,
+      "end": 2.721,
+      "label": "mandarin",
+      "text": "在常态化创城工作中啊，",
+      "score": 0.2751,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3414,
+        "sc_logprob": -0.3453,
+        "sc_delta": -0.0039,
+        "acoustic_dev": 0.529,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在常态化创城工作中啊。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.833,
+      "end": 5.416,
+      "label": "guilin",
+      "text": "叠翠区呢积极联动社区、",
+      "score": 0.6571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1271,
+        "sc_logprob": -1.9738,
+        "sc_delta": 0.1532,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "地产局呢，积极联动社区。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 5.416,
+      "end": 8.078,
+      "label": "mandarin",
+      "text": "小区居民一道发力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0006,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "小区居民一道发力。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 8.166,
+      "end": 11.527,
+      "label": "guilin",
+      "text": "共同营造整洁卫生的生活环境。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同营造整洁卫生的生活环境。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 11.77,
+      "end": 15.58,
+      "label": "mandarin",
+      "text": "居民们表示啊，真正的清新干净的环境，",
+      "score": 0.418,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3912,
+        "sc_logprob": -0.4437,
+        "sc_delta": -0.0525,
+        "acoustic_dev": 0.639,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "居民们表示：“啊，城市里清新干净的环境。”"
+      }
+    },
+    {
+      "id": 6,
+      "start": 15.58,
+      "end": 19.627,
+      "label": "mandarin",
+      "text": "将会在今后的日子里啊，持续的保持下去。",
+      "score": 0.164,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "sc_logprob": -0.004,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "子/志",
+        "lexicon": "",
+        "text_free": "将会在今后的意志里啊，持续地保持下去。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 20.126,
+      "end": 23.927,
+      "label": "mandarin",
+      "text": "陆地华庭小区由于管理权限的不明确，",
+      "score": 0.0976,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.137,
+        "sc_logprob": -0.1421,
+        "sc_delta": -0.0051,
+        "acoustic_dev": 0.078,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "绿地法庭小区由于管理权限的不明确。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 24.062,
+      "end": 27.604,
+      "label": "guilin",
+      "text": "使得小区积累了卫生死角、随意停车、",
+      "score": 0.4925,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5308,
+        "sc_logprob": -0.4926,
+        "sc_delta": 0.0382,
+        "acoustic_dev": 0.947,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "使得小区积累了卫生死角，随意停车。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 27.745,
+      "end": 30.19,
+      "label": "mandarin",
+      "text": "私拉飞线等一系列的问题。",
+      "score": 0.1113,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1624,
+        "sc_logprob": -0.206,
+        "sc_delta": -0.0436,
+        "acoustic_dev": 0.134,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "撕拉、飞线等一系列的问题。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 30.19,
+      "end": 36.937,
+      "label": "guilin",
+      "text": "在创城常态化工作当中，陆地社区、保联单位、职能部门以及小区居民团结一心，",
+      "score": 0.0714,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0503,
+        "sc_logprob": -0.0485,
+        "sc_delta": 0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.156,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在长城长乐发工作当中，陆地社区、保练单位、职能部门以及小区居民团结一心。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 37.093,
+      "end": 40.395,
+      "label": "guilin",
+      "text": "一同动手对小区进行了集中整改，",
+      "score": 0.021,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.12,
+        "sc_logprob": -0.1024,
+        "sc_delta": 0.0176,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一同动手，对小区进行了集中整改。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 40.561,
+      "end": 43.416,
+      "label": "mandarin",
+      "text": "让小区的整治面貌焕然一新。",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "sc_logprob": -0.0041,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让小区的景色面貌焕然一新。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 43.416,
+      "end": 51.872,
+      "label": "guilin",
+      "text": "我们也积极发动，就是陆地陆地华庭的物业和我们陆地华庭的居民们一起投入到我们的队伍中来，",
+      "score": 0.0669,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "sc_logprob": -0.0034,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.146,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们也积极发动，就是卢迪卢迪华庭的物业和我们卢迪华庭的居民们一起投入到我们的队伍中来。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 51.872,
+      "end": 55.407,
+      "label": "guilin",
+      "text": "真正做到全民参与，真正做到创城为民、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "sc_logprob": -0.0053,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "真正做到全民参与，真正做到创城为民。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 55.407,
+      "end": 58.202,
+      "label": "mandarin",
+      "text": "创城靠民、创城惠民。下一步，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0833,
+        "sc_logprob": -0.0929,
+        "sc_delta": -0.0096,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创城靠民，创城惠民。下一步。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 58.202,
+      "end": 61.239,
+      "label": "mandarin",
+      "text": "叠翠区还将把创城为民、创城靠民、",
+      "score": 0.6209,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4548,
+        "sc_logprob": -0.523,
+        "sc_delta": -0.0682,
+        "acoustic_dev": 0.779,
+        "seg_cer": 0.643,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.222,
+        "phon_examples": "民/名 民/名",
+        "lexicon": "",
+        "text_free": "电车局还将把长城美名、长城考名。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 61.239,
+      "end": 66.158,
+      "label": "mandarin",
+      "text": "创城惠民的工作要求，持续投入到常态化创城当中，",
+      "score": 0.1496,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0301,
+        "sc_logprob": -0.0371,
+        "sc_delta": -0.007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "民/明",
+        "lexicon": "",
+        "text_free": "创程费明的工作要求，持续投入到常态化创程当中。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 66.354,
+      "end": 68.846,
+      "label": "guilin",
+      "text": "把创城工作做深、做透、",
+      "score": 0.7157,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7702,
+        "sc_logprob": -0.6376,
+        "sc_delta": 0.1325,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.778,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "城/层",
+        "lexicon": "",
+        "text_free": "八层层工作：轴身、轴头。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 68.846,
+      "end": 74.28,
+      "label": "mandarin",
+      "text": "做扎实，对这个小区或是对我们辖区以常态化创城的标准，",
+      "score": 0.398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2767,
+        "sc_logprob": -0.3348,
+        "sc_delta": -0.0581,
+        "acoustic_dev": 0.386,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "实/死 扎/砸",
+        "lexicon": "扎实",
+        "text_free": "遭砸死。对这个小区，或是对我们辖区，以常态化创城的标准。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 74.364,
+      "end": 75.534,
+      "label": "guilin",
+      "text": "继续我们的工作。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0042,
+        "sc_logprob": -0.0035,
+        "sc_delta": 0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "继续我们的工作。"
+      }
+    }
+  ]
+}

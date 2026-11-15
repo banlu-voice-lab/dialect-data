@@ -1,0 +1,429 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "市委老干部局举办_乐为桂林 多彩金秋_离退休干部声乐演唱比赛.wav",
+  "duration": 77.059,
+  "no_dialect": false,
+  "created_at": "2026-10-31T02:36:24",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.218,
+      "end": 4.25,
+      "label": "guilin",
+      "text": "为了进一步的丰富市里的退休干部的精神文化生活，",
+      "score": 0.5823,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7328,
+        "sc_logprob": -0.6814,
+        "sc_delta": 0.0514,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了进一步的丰富我市一地退休干部的精神文化生活。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.25,
+      "end": 9.98,
+      "label": "guilin",
+      "text": "头发子呢，喜迎二十大，永远跟党走离退休干部声乐演唱比赛呢，",
+      "score": 0.5673,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2189,
+        "sc_logprob": -0.2101,
+        "sc_delta": 0.0088,
+        "acoustic_dev": 0.829,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "子/之",
+        "lexicon": "",
+        "text_free": "说法之呢，喜迎二十大，永远跟党走，离退休干部声乐演唱比赛呢。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.98,
+      "end": 12.243,
+      "label": "guilin",
+      "text": "在市老干活动中心也举行了。",
+      "score": 0.2281,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0548,
+        "sc_logprob": -0.0538,
+        "sc_delta": 0.001,
+        "acoustic_dev": 0.173,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "市/四",
+        "lexicon": "",
+        "text_free": "在四老干活动中心也举行了。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.54,
+      "end": 14.873,
+      "label": "mandarin",
+      "text": "老干部们呢，都是积极的参与。",
+      "score": 0.016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0193,
+        "sc_logprob": -0.0233,
+        "sc_delta": -0.004,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老干部们呢，都是积极的参与。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 14.873,
+      "end": 17.738,
+      "label": "mandarin",
+      "text": "我们俩一起去现场，去听子他们的歌声。",
+      "score": 0.0331,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0138,
+        "sc_logprob": -0.0146,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们俩一起去现场，去听下子他们的歌声。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 19.334,
+      "end": 23.185,
+      "label": "mandarin",
+      "text": "这次活动啊，由各单位选送的二十六名老干部参加。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "sc_logprob": -0.0043,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次活动啊，由各单位选送的二十六名老干部参加。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 23.33,
+      "end": 27.811,
+      "label": "mandarin",
+      "text": "老干部们呢，用洪亮的歌声，歌颂了祖国的大好河山，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0044,
+        "sc_logprob": -0.0044,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老干部们呢，用洪亮的歌声歌颂了祖国的大好河山。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.811,
+      "end": 30.633,
+      "label": "mandarin",
+      "text": "歌颂党，歌唱现在幸福的生活，",
+      "score": 0.5293,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1891,
+        "sc_logprob": -0.1998,
+        "sc_delta": -0.0107,
+        "acoustic_dev": 0.71,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "郭松纲，郭昌现在幸福的生活。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.71,
+      "end": 34.976,
+      "label": "mandarin",
+      "text": "唱响社会主义的旋律，比如讲像把一切献给党，",
+      "score": 0.2717,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0653,
+        "sc_logprob": -0.0683,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.215,
+        "seg_cer": 0.421,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "常想设为注意力旋律，比如讲：“想把一切献给党。”"
+      }
+    },
+    {
+      "id": 10,
+      "start": 34.976,
+      "end": 38.072,
+      "label": "mandarin",
+      "text": "战士为国守安详，我爱你中国，",
+      "score": 0.265,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0543,
+        "sc_logprob": -0.0553,
+        "sc_delta": -0.001,
+        "acoustic_dev": 0.171,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "战/暂",
+        "lexicon": "",
+        "text_free": "暂时为国守安详，我爱你中国。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 38.072,
+      "end": 43.139,
+      "label": "guilin",
+      "text": "领航等等，表达了广大离退休干部对党和国家的热爱。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0098,
+        "sc_logprob": -0.0096,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "领航等等，表达了广大离退休干部对党和国家的热爱。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 44.0,
+      "end": 47.175,
+      "label": "mandarin",
+      "text": "今天我听了以后，我觉得我们老干部，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我听了以后，我觉得我们老干部。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 47.204,
+      "end": 51.802,
+      "label": "mandarin",
+      "text": "呃，这个还是有实力的，呃，各个都是很激情，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0007,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，这个还是有实力的，呃，个个都是很激情。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 52.091,
+      "end": 55.761,
+      "label": "mandarin",
+      "text": "呃，歌唱我们共产党，歌唱伟大的祖国，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0111,
+        "sc_logprob": -0.0112,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，歌唱我们共产党，歌唱伟大的祖国。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 56.005,
+      "end": 58.62,
+      "label": "guilin",
+      "text": "这个喜迎二十大，啊，永远跟党走。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0097,
+        "sc_logprob": -0.0093,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个“喜迎二十大”啊，永远跟党走。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 59.58,
+      "end": 63.019,
+      "label": "mandarin",
+      "text": "经过了激烈的角逐，评选出了一二三等奖。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0077,
+        "sc_logprob": -0.0084,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经过了激烈的角逐，评选出了一二三等奖。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 63.271,
+      "end": 66.305,
+      "label": "mandarin",
+      "text": "这次活动呢，也得到了广大离退休干部的好评。",
+      "score": 0.0722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "sc_logprob": -0.0034,
+        "sc_delta": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次活动呢，也得到了广大地铁修干部的好评。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 66.459,
+      "end": 71.747,
+      "label": "mandarin",
+      "text": "为热爱唱歌的离退休干部也搭建起了一个展示自己风采的舞台，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为热爱唱歌的离退休干部，也搭建起了一个展示自己风采的舞台。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 71.927,
+      "end": 75.075,
+      "label": "guilin",
+      "text": "展现了广大离退休干部昂扬向上、",
+      "score": 0.001,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0121,
+        "sc_logprob": -0.0097,
+        "sc_delta": 0.0024,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "展现了广大离退休干部昂扬向上。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 75.075,
+      "end": 77.059,
+      "label": "mandarin",
+      "text": "劳有所为的精神风貌。",
+      "score": 0.0556,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0139,
+        "sc_logprob": -0.0158,
+        "sc_delta": -0.0019,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老有所为的精神风貌。"
+      }
+    }
+  ]
+}

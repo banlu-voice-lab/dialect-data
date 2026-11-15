@@ -1,0 +1,429 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "恭城大营村_黑皮冬瓜大丰收 产业致富劲头足.wav",
+  "duration": 87.173,
+  "no_dialect": false,
+  "created_at": "2026-10-31T03:15:10",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.347,
+      "end": 3.529,
+      "label": "guilin",
+      "text": "现在呢，可到是冬瓜的采摘季节，",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0082,
+        "sc_logprob": -0.0056,
+        "sc_delta": 0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在呢，看到是冬瓜的采摘季节。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.71,
+      "end": 9.74,
+      "label": "mandarin",
+      "text": "在工程瑶族自治县梨木镇大营村冬瓜种植基地里面，",
+      "score": 0.577,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2185,
+        "sc_logprob": -0.2216,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.761,
+        "seg_cer": 0.318,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "自/支",
+        "lexicon": "",
+        "text_free": "在拱城窑组，支持些梨木镇、大营村冬瓜种植基地里面。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.74,
+      "end": 13.197,
+      "label": "guilin",
+      "text": "瓜农们呢就忙到采摘、搬运、装车，",
+      "score": 0.4762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.161,
+        "sc_logprob": -0.16,
+        "sc_delta": 0.001,
+        "acoustic_dev": 0.531,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "广东们咧，就忙到载着搬运装车。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.264,
+      "end": 16.273,
+      "label": "guilin",
+      "text": "到处啊是一派丰收忙碌的景象。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0154,
+        "sc_logprob": -0.0148,
+        "sc_delta": 0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到处啊，是一派丰收忙碌的景象。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.669,
+      "end": 20.438,
+      "label": "guilin",
+      "text": "肖武娟是当地的村党支部书记，",
+      "score": 0.6255,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6888,
+        "sc_logprob": -1.6099,
+        "sc_delta": 0.0788,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "小武居然是当地的村党支部书记。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.438,
+      "end": 24.256,
+      "label": "mandarin",
+      "text": "他是村里头最早一批带头种植冬瓜的农户，",
+      "score": 0.0282,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0295,
+        "sc_logprob": -0.0341,
+        "sc_delta": -0.0045,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他是城里头最早一批带头种植冬瓜的农户。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.463,
+      "end": 29.26,
+      "label": "guilin",
+      "text": "种植面积从最初的十几亩地扩大到现在的一百多亩。",
+      "score": 0.0697,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0617,
+        "sc_logprob": -0.0573,
+        "sc_delta": 0.0044,
+        "acoustic_dev": 0.134,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "种植面积从最初的十几亩地，扩大到现在的一百多亩。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 29.286,
+      "end": 32.655,
+      "label": "guilin",
+      "text": "这一个产业主要是因为这个产量高啊，",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0269,
+        "sc_logprob": -0.0237,
+        "sc_delta": 0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "的这个产业主要是因为这个产量高啊。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 32.655,
+      "end": 40.28,
+      "label": "mandarin",
+      "text": "那个成本比较低啊，就像今年的话，价格也卖到了六毛到九毛啊，收益比较可观啊。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0004,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那个成本比较低，呃，金项今年的话，价格也卖到了六毛到九毛，啊，收益比较可观，啊。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.336,
+      "end": 50.619,
+      "label": "mandarin",
+      "text": "然后主要是发现这一个产业有这一特点，所以就是鼓励了老百姓多种植啊这一产业，所以从去年的一百亩发展到了三百亩。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "sc_logprob": -0.0017,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后主要是发现这一个产业有这一特点，所以就是鼓励了老百姓多种植啊。这一产业，所以从去年的一百亩发展到了三百亩。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 50.644,
+      "end": 56.263,
+      "label": "guilin",
+      "text": "大营村种植的冬瓜品种个头大、品质好，而且耐运输、耐储存，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0115,
+        "sc_logprob": -0.0102,
+        "sc_delta": 0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大营村种植的冬瓜品种个头大，品质好，而且耐运输、耐储存。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 56.457,
+      "end": 59.491,
+      "label": "guilin",
+      "text": "深受江苏、上海等地客商的青睐。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "sc_logprob": -0.0017,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "深受江苏、上海等地客商的青睐。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 59.765,
+      "end": 62.155,
+      "label": "guilin",
+      "text": "附近群众也可以前来务工。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "附近群众也可以前来务工。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.463,
+      "end": 65.334,
+      "label": "mandarin",
+      "text": "种植基地不仅让唐学到了种植技术，",
+      "score": 0.7724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7059,
+        "sc_logprob": -0.7545,
+        "sc_delta": -0.0486,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "植/子 植/子",
+        "lexicon": "",
+        "text_free": "种子基地不仅杨堂说到了种子技术。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 65.486,
+      "end": 68.704,
+      "label": "guilin",
+      "text": "还让唐实现了顾家挣钱、两不误。",
+      "score": 0.3236,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0828,
+        "sc_logprob": -0.0793,
+        "sc_delta": 0.0035,
+        "acoustic_dev": 0.218,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "挣/增",
+        "lexicon": "",
+        "text_free": "还让唐实现了“股价增钱”两步舞。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 69.014,
+      "end": 72.772,
+      "label": "mandarin",
+      "text": "近年来，工程瑶族自治县立足生态产业优势，",
+      "score": 0.2713,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0697,
+        "sc_logprob": -0.0728,
+        "sc_delta": -0.0031,
+        "acoustic_dev": 0.166,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "治/子",
+        "lexicon": "",
+        "text_free": "近年来，工程要逐子县立足生态产业优势。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.862,
+      "end": 75.896,
+      "label": "mandarin",
+      "text": "整合土地资源，大力发展冬瓜、",
+      "score": 0.426,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.178,
+        "sc_logprob": -0.1878,
+        "sc_delta": -0.0098,
+        "acoustic_dev": 0.599,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "综合利用土地资源，大力发展冬瓜。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 75.896,
+      "end": 79.507,
+      "label": "mandarin",
+      "text": "芋头、茄子、辣椒等绿色蔬菜种植产业，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "sc_logprob": -0.0027,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "芋头、茄子、辣椒等绿色蔬菜种植产业。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 79.675,
+      "end": 82.845,
+      "label": "mandarin",
+      "text": "逐步形成农民增收、农业增效、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0102,
+        "sc_logprob": -0.0133,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "逐步形成农民增收、农业增效。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 82.845,
+      "end": 87.173,
+      "label": "mandarin",
+      "text": "农村繁荣、乡城振兴同步发展的新格局。",
+      "score": 0.3454,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1805,
+        "sc_logprob": -0.2442,
+        "sc_delta": -0.0636,
+        "acoustic_dev": 0.609,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "农村繁荣，乡村振兴，同步发展的新格局。"
+      }
+    }
+  ]
+}
