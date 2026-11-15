@@ -1,0 +1,492 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "春季养生吃_五鲜_ 助阳气生发.wav",
+  "duration": 101.61,
+  "no_dialect": false,
+  "created_at": "2026-10-29T19:55:47",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.849,
+      "label": "mandarin",
+      "text": "古人讲究不食不食，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5847,
+        "sc_logprob": -1.6484,
+        "sc_delta": -0.0637,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "古印讲究“不识不识”。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.025,
+      "end": 6.92,
+      "label": "guilin",
+      "text": "意思啊就是讲不是时节长出来的东西不吃，",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9433,
+        "sc_logprob": -1.7721,
+        "sc_delta": 0.1712,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "意思啊，就是讲，不是世界长出来的东西。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.525,
+      "end": 10.805,
+      "label": "mandarin",
+      "text": "在春天要吃当季、当令、",
+      "score": 0.2395,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2245,
+        "sc_logprob": -0.218,
+        "sc_delta": 0.0066,
+        "acoustic_dev": 0.073,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "令/林 吃/此",
+        "lexicon": "",
+        "text_free": "在春天，要此当季，当林。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.805,
+      "end": 13.477,
+      "label": "mandarin",
+      "text": "当地所产出来的果蔬",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "sc_logprob": -0.0037,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当地所产出来的果蔬。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 13.779,
+      "end": 18.169,
+      "label": "mandarin",
+      "text": "啊，寒热温凉之性合乎自己的体质，",
+      "score": 0.4474,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8095,
+        "sc_logprob": -0.7824,
+        "sc_delta": 0.0271,
+        "acoustic_dev": 0.473,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "性/心",
+        "lexicon": "",
+        "text_free": "啊，涵养温良之心，呵护自己的体质。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 18.253,
+      "end": 21.815,
+      "label": "guilin",
+      "text": "身子才能够更好的补精益气，",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1108,
+        "sc_logprob": -1.9456,
+        "sc_delta": 0.1652,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "精/尽",
+        "lexicon": "",
+        "text_free": "这样子才能够更好地补尽义气。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 21.815,
+      "end": 24.529,
+      "label": "mandarin",
+      "text": "养人健康，不受邪害。",
+      "score": 0.1637,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.257,
+        "sc_logprob": -0.2618,
+        "sc_delta": -0.0048,
+        "acoustic_dev": 0.095,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "养盈健康，不受陷害。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 25.067,
+      "end": 30.773,
+      "label": "mandarin",
+      "text": "时令水果草莓，草莓可润肺健脾、益气补血，",
+      "score": 0.1954,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.235,
+        "sc_logprob": -0.2401,
+        "sc_delta": -0.0051,
+        "acoustic_dev": 0.08,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "时/四",
+        "lexicon": "",
+        "text_free": "四灵水果：草莓。草莓可润肺、健脾、益气、补血。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 31.041,
+      "end": 35.611,
+      "label": "mandarin",
+      "text": "而且富含的氨基酸、果糖、胡萝卜素等等营养成分，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0013,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而且富含的氨基酸、果糖、胡萝卜素等等营养成分。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.768,
+      "end": 38.136,
+      "label": "mandarin",
+      "text": "容易被人体消化吸收，",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0334,
+        "sc_logprob": -0.0308,
+        "sc_delta": 0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "容易被液体消化吸收。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 38.298,
+      "end": 40.723,
+      "label": "mandarin",
+      "text": "特别适合春天养生食用。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0009,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "特别适合春天养生食用。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 40.974,
+      "end": 47.356,
+      "label": "mandarin",
+      "text": "时令蔬菜韭菜，韭菜有春香夏辣秋苦冬天之说，",
+      "score": 0.1481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1179,
+        "sc_logprob": -0.1197,
+        "sc_delta": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "令/林",
+        "lexicon": "",
+        "text_free": "市林蔬菜韭菜。韭菜有春香夏辣秋苦冬天之说。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 47.356,
+      "end": 50.811,
+      "label": "mandarin",
+      "text": "以春秋为最好。韭菜性温，",
+      "score": 0.7755,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5687,
+        "sc_logprob": -1.6793,
+        "sc_delta": -0.1106,
+        "acoustic_dev": 0.991,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "性/新 春/存",
+        "lexicon": "",
+        "text_free": "以存酒为最好。韭菜新闻。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 50.811,
+      "end": 53.682,
+      "label": "mandarin",
+      "text": "具有补肾助阳、益肝健胃、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0112,
+        "sc_logprob": -0.0141,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "具有补肾助阳、益肝健胃。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 53.682,
+      "end": 58.737,
+      "label": "mandarin",
+      "text": "滋汗固涩等作用，是补充人体阳气的最佳食材。",
+      "score": 0.1555,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0192,
+        "sc_logprob": -0.0195,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "滋/止",
+        "lexicon": "",
+        "text_free": "止汗、固色等作用，是补充人体氧气的最佳食材。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 59.043,
+      "end": 67.009,
+      "label": "mandarin",
+      "text": "时令野菜荠菜，荠菜含有蛋白质、膳食纤维、胡萝卜素、钙、铁等成分，",
+      "score": 0.1352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "sc_logprob": -0.0026,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "令/林",
+        "lexicon": "",
+        "text_free": "市林野菜荠菜，荠菜含有蛋白质、膳食纤维、胡萝卜素、钙、铁等成分。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 67.412,
+      "end": 71.03,
+      "label": "mandarin",
+      "text": "荠菜味甘性平，具有清肝调脾、",
+      "score": 0.1933,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1237,
+        "sc_logprob": -0.1234,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "性/新",
+        "lexicon": "",
+        "text_free": "题材微感新平，具有情感调皮。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 71.03,
+      "end": 75.019,
+      "label": "mandarin",
+      "text": "活血利水、降压明目的功效。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0985,
+        "sc_logprob": -0.0595,
+        "sc_delta": 0.039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活血利水、降压明目”的功效。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 75.162,
+      "end": 80.296,
+      "label": "guilin",
+      "text": "时令蔬菜春笋，竹笋味甘、微寒、无毒，",
+      "score": 0.5961,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2751,
+        "sc_logprob": -1.1902,
+        "sc_delta": 0.0849,
+        "acoustic_dev": 0.791,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.1,
+        "phon_examples": "令/林",
+        "lexicon": "",
+        "text_free": "市林选为纯生，主生为甘，味寒无毒。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 80.296,
+      "end": 84.579,
+      "label": "mandarin",
+      "text": "具有清热化痰、益气活胃等功效。",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.018,
+        "sc_logprob": -0.019,
+        "sc_delta": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "具有清热发痰、益气和胃等功效。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 84.835,
+      "end": 91.296,
+      "label": "mandarin",
+      "text": "春笋当中多种维生素和胡萝卜素含量比白菜含量高一倍多。",
+      "score": 0.0366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0115,
+        "sc_logprob": -0.0145,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "层层当中，多种维生素和胡萝卜素含量比白菜含量高一倍多。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 91.66,
+      "end": 97.131,
+      "label": "mandarin",
+      "text": "时令点心春卷，春卷里头包含了春天新鲜的蔬菜，",
+      "score": 0.1529,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1381,
+        "sc_logprob": -0.1454,
+        "sc_delta": -0.0072,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "时/四",
+        "lexicon": "",
+        "text_free": "四灵点心春卷，春卷里头包含了春天新鲜的蔬菜。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 97.337,
+      "end": 101.61,
+      "label": "mandarin",
+      "text": "不仅营养价值高，又有迎接新春之意。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "sc_logprob": -0.0017,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅营养价值高，又有迎接新春之意。"
+      }
+    }
+  ]
+}

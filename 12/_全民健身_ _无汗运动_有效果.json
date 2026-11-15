@@ -1,0 +1,387 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_全民健身_ _无汗运动_有效果.wav",
+  "duration": 70.901,
+  "no_dialect": false,
+  "created_at": "2026-10-29T17:25:12",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.051,
+      "label": "mandarin",
+      "text": "锻炼身体不一定要满身大汗才有效果，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "sc_logprob": -0.0075,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "锻炼身体不一定要满身大汗才有效果。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.051,
+      "end": 7.688,
+      "label": "mandarin",
+      "text": "无汗运动也能够练出健康的体魄，",
+      "score": 0.0783,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0203,
+        "sc_logprob": -0.0274,
+        "sc_delta": -0.007,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "武汉运动也能够练出健康的体魄。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.949,
+      "end": 16.73,
+      "label": "mandarin",
+      "text": "特别是适合像辣椒妹这样子啊不经常锻炼的人啊，还有一些呃肥胖人员或者是年纪比较大的人群，",
+      "score": 0.2626,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0788,
+        "sc_logprob": -0.0767,
+        "sc_delta": 0.0021,
+        "acoustic_dev": 0.259,
+        "seg_cer": 0.098,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "子/至",
+        "lexicon": "",
+        "text_free": "特别是适合香辣椒妹，甚至啊，不经常锻炼的人啊，还有一些呃肥胖人员，或者是年纪比较大的人群。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.908,
+      "end": 19.551,
+      "label": "mandarin",
+      "text": "这些无汗运动建议大家",
+      "score": 0.4962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2087,
+        "sc_logprob": -0.2102,
+        "sc_delta": -0.0016,
+        "acoustic_dev": 0.778,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这些武汉运动建议大家。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.684,
+      "end": 22.671,
+      "label": "mandarin",
+      "text": "一起试一试。快步走，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2751,
+        "sc_logprob": -0.2966,
+        "sc_delta": -0.0215,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一起试一试，快步走。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.846,
+      "end": 27.068,
+      "label": "mandarin",
+      "text": "快步走对增强心脏活力、血管的弹性有好处，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0063,
+        "sc_logprob": -0.0071,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "快步走对增强心脏活力、血管的弹性有好处。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.293,
+      "end": 30.477,
+      "label": "mandarin",
+      "text": "可以根据个人情况选择速度和距离。",
+      "score": 0.1904,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0617,
+        "sc_logprob": -0.0671,
+        "sc_delta": -0.0054,
+        "acoustic_dev": 0.19,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以根据过硬情况选择速度或距离。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.671,
+      "end": 34.247,
+      "label": "mandarin",
+      "text": "游泳，游泳是一项全身参与的运动，",
+      "score": 0.003,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0155,
+        "sc_logprob": -0.0165,
+        "sc_delta": -0.001,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "游泳，游泳是一项全身参与的运动。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.392,
+      "end": 36.698,
+      "label": "mandarin",
+      "text": "有益心血管和关节健康，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "sc_logprob": -0.0018,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有益心血管和关节健康。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 36.937,
+      "end": 42.917,
+      "label": "mandarin",
+      "text": "对防止或者减轻老年人的动脉硬化和心血管病有良好的作用。",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0126,
+        "sc_logprob": -0.0133,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于防止或者减轻老年人的动脉硬化和心血管病，有良好的作用。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.28,
+      "end": 47.447,
+      "label": "mandarin",
+      "text": "太极拳，太极拳既能够修身又能养性，",
+      "score": 0.2464,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1326,
+        "sc_logprob": -0.1147,
+        "sc_delta": 0.0178,
+        "acoustic_dev": 0.474,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "太极拳。太极拳既能够修身，又能养性。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.572,
+      "end": 51.975,
+      "label": "mandarin",
+      "text": "是非常好的有氧运动，有助于降低血压、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是非常好的有氧运动，有助于降低血压。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.975,
+      "end": 54.636,
+      "label": "mandarin",
+      "text": "增强心肺功能。骑行，",
+      "score": 0.4455,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2283,
+        "sc_logprob": -0.2617,
+        "sc_delta": -0.0334,
+        "acoustic_dev": 0.857,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "增强心肺功能，骑行。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 54.943,
+      "end": 57.699,
+      "label": "mandarin",
+      "text": "如果选择外出骑自行车锻炼，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0057,
+        "sc_logprob": -0.0042,
+        "sc_delta": 0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果选择外出骑自行车锻炼。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 57.831,
+      "end": 61.91,
+      "label": "mandarin",
+      "text": "速度以每小时八公里至十五公里最适宜。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0004,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "速度以每小时八公里至十五公里，最适宜。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.357,
+      "end": 66.707,
+      "label": "mandarin",
+      "text": "家务劳动，拖地、擦窗户、洗车等等家务劳动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "sc_logprob": -0.0024,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "家务劳动：拖地、擦窗户、洗车等等家务劳动。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 66.83,
+      "end": 69.229,
+      "label": "mandarin",
+      "text": "能够锻炼关节和肌肉，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "sc_logprob": -0.0035,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能够锻炼关节和肌肉。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 69.229,
+      "end": 70.901,
+      "label": "mandarin",
+      "text": "有益身心健康。",
+      "score": 0.0655,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0456,
+        "sc_logprob": -0.0707,
+        "sc_delta": -0.0251,
+        "acoustic_dev": 0.126,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有益身心健康。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "灵川大境_欢唱瑶乡美 舞动民族魂.wav",
+  "duration": 95.561,
+  "no_dialect": false,
+  "created_at": "2026-10-29T21:59:51",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.309,
+      "end": 4.719,
+      "label": "mandarin",
+      "text": "这一天啊，在临川县大井瑶族乡松江村委那块呢，",
+      "score": 0.2754,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.15,
+        "sc_logprob": -0.1806,
+        "sc_delta": -0.0306,
+        "acoustic_dev": 0.249,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "族/竹",
+        "lexicon": "",
+        "text_free": "这一天啊，在临川县大井窑竹乡松江村委那块呢。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.719,
+      "end": 7.173,
+      "label": "mandarin",
+      "text": "瑶族同胞啊是齐聚一堂，",
+      "score": 0.7114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6204,
+        "sc_logprob": -0.5826,
+        "sc_delta": 0.0378,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "族/主",
+        "lexicon": "",
+        "text_free": "窑主同胞啊，是齐聚一堂。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.173,
+      "end": 9.912,
+      "label": "mandarin",
+      "text": "大家呢都穿着盛装，唱歌跳舞，",
+      "score": 0.2088,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.12,
+        "sc_logprob": -0.1184,
+        "sc_delta": 0.0016,
+        "acoustic_dev": 0.178,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "大家咧都穿了盛装，唱歌跳舞。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 9.912,
+      "end": 17.212,
+      "label": "mandarin",
+      "text": "用优美的音符、动人的舞姿和炽热的感情，尽情的挥洒心中对于三月三的喜悦和激情，",
+      "score": 0.0131,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0139,
+        "sc_logprob": -0.0122,
+        "sc_delta": 0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.029,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用优美的音符、动人的舞姿和炽热的感情，尽情地挥洒心中对于三月三的喜悦和激情。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.322,
+      "end": 22.75,
+      "label": "mandarin",
+      "text": "也共同庆祝三月三的到来。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0004,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也共同庆祝三月三的到来。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.51,
+      "end": 29.388,
+      "label": "mandarin",
+      "text": "在茶园里头，穿着瑶族服饰的瑶胞们一边唱山歌，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.042,
+        "sc_logprob": -0.0419,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在茶园里头，穿着瑶族服饰的瑶胞们一边唱山歌。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.388,
+      "end": 33.035,
+      "label": "mandarin",
+      "text": "一边摘茶叶，大家跳到竹竿舞、跑绣球，",
+      "score": 0.323,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2322,
+        "sc_logprob": -0.2231,
+        "sc_delta": 0.0091,
+        "acoustic_dev": 0.445,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一边折茶叶，大家跳到竹竿屋泡绣球。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.035,
+      "end": 36.7,
+      "label": "mandarin",
+      "text": "参加板鞋竞速，现场氛围啊特别的好，",
+      "score": 0.4819,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2797,
+        "sc_logprob": -0.2583,
+        "sc_delta": 0.0215,
+        "acoustic_dev": 0.559,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "速/树 竞/金",
+        "lexicon": "",
+        "text_free": "参加板海金树现场氛围啊，特别的好。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.7,
+      "end": 40.509,
+      "label": "mandarin",
+      "text": "尽情的享受了这一场属于瑶乡的文化盛宴。",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4828,
+        "sc_logprob": -0.4417,
+        "sc_delta": 0.0411,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "尽情地享受到这一场属于遥乡的文法盛宴。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.82,
+      "end": 44.54,
+      "label": "mandarin",
+      "text": "我们今天利用农闲时间",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0108,
+        "sc_logprob": -0.0077,
+        "sc_delta": 0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们今天利用农闲时间。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.971,
+      "end": 48.578,
+      "label": "mandarin",
+      "text": "在这里唱山歌、跳竹竿，",
+      "score": 0.4773,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4305,
+        "sc_logprob": -0.4209,
+        "sc_delta": 0.0097,
+        "acoustic_dev": 0.918,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在这里唱山歌，跳竹竿。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 48.607,
+      "end": 51.778,
+      "label": "mandarin",
+      "text": "欢度三月三，非常的开心，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0452,
+        "sc_logprob": -0.0369,
+        "sc_delta": 0.0083,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "欢度三月三，非常的开心。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 52.058,
+      "end": 54.682,
+      "label": "mandarin",
+      "text": "好像又回到了我们小时候",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好像又回到了我们小时候。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 54.78,
+      "end": 57.575,
+      "label": "mandarin",
+      "text": "过节一样。今天我们在这个茶园",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.045,
+        "sc_logprob": -0.0576,
+        "sc_delta": -0.0125,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "过节一样，今天我们在这个茶园。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 57.82,
+      "end": 63.373,
+      "label": "mandarin",
+      "text": "采茶、唱山歌，唱出了对这个新生活的美好向往。",
+      "score": 0.0767,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0877,
+        "sc_logprob": -0.0845,
+        "sc_delta": 0.0032,
+        "acoustic_dev": 0.101,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "采茶唱山歌，唱出来对这个新生活的美好向往。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 63.559,
+      "end": 67.737,
+      "label": "mandarin",
+      "text": "精彩的三月三民俗活动，展现了瑶乡传统文化的魅力，",
+      "score": 0.2072,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1789,
+        "sc_logprob": -0.1542,
+        "sc_delta": 0.0248,
+        "acoustic_dev": 0.319,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "精彩的三月三民俗活动展现了耀湘传统文化的魅力。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 67.737,
+      "end": 70.276,
+      "label": "mandarin",
+      "text": "也展现了瑶乡人民奋进新征程、",
+      "score": 0.7633,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4737,
+        "sc_logprob": -0.4887,
+        "sc_delta": -0.015,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "民/名 展/彰",
+        "lexicon": "",
+        "text_free": "也彰显了遥想一名奋进新征程。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 70.276,
+      "end": 72.656,
+      "label": "mandarin",
+      "text": "建功新时代的精气神。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0364,
+        "sc_logprob": -0.0412,
+        "sc_delta": -0.0048,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "建功新时代的精气神。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 72.79,
+      "end": 77.247,
+      "label": "mandarin",
+      "text": "我们大井瑶族乡大力传承和挖掘少数民族文化，",
+      "score": 0.2296,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1752,
+        "sc_logprob": -0.1841,
+        "sc_delta": -0.0089,
+        "acoustic_dev": 0.31,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们大庆尧都乡大力传承和挖掘少数民族文化。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 77.247,
+      "end": 80.749,
+      "label": "mandarin",
+      "text": "在新年、壮族三月三这类重大节日，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0009,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在新年、壮族三月三这类重大节日。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 81.008,
+      "end": 85.94,
+      "label": "mandarin",
+      "text": "组织群众体验民俗活动，让大家体会到民族文化的魅力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "组织群众体验民俗活动，让大家体会到民族文化的魅力。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 85.94,
+      "end": 90.437,
+      "label": "mandarin",
+      "text": "下一步，我们将持续推出民族民俗文化精品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下一步，我们将持续推出民族民俗文化精品。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 90.47,
+      "end": 95.561,
+      "label": "mandarin",
+      "text": "推动我乡文化事业、文化产业和文旅融合的繁荣发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0009,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动我乡文化事业、文化产业和文旅融合的繁荣发展。"
+      }
+    }
+  ]
+}

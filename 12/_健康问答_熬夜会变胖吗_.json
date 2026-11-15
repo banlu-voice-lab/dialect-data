@@ -1,0 +1,303 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_健康问答_熬夜会变胖吗_.wav",
+  "duration": 60.575,
+  "no_dialect": false,
+  "created_at": "2026-10-29T17:13:51",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.013,
+      "end": 4.73,
+      "label": "mandarin",
+      "text": "熬夜啊，是当今社会当中普遍存在的一种现象了。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "sc_logprob": -0.0032,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "熬夜啊，是当今社会当中普遍存在的一种现象了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.893,
+      "end": 7.886,
+      "label": "mandarin",
+      "text": "有些人甚至已经是熬成了习惯。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "sc_logprob": -0.0047,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有些人甚至已经是熬成了习惯。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.24,
+      "end": 10.545,
+      "label": "mandarin",
+      "text": "熬夜可以完成更多的事情，",
+      "score": 0.0152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0206,
+        "sc_logprob": -0.0172,
+        "sc_delta": 0.0034,
+        "acoustic_dev": 0.029,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "熬夜可以完成更多的事情。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.545,
+      "end": 14.098,
+      "label": "mandarin",
+      "text": "但是啊，也会对自己的身体健康带来损害。",
+      "score": 0.1107,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0665,
+        "sc_logprob": -0.068,
+        "sc_delta": -0.0015,
+        "acoustic_dev": 0.213,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是啊，也会对自己的身体健康带来损害。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 14.3,
+      "end": 16.662,
+      "label": "mandarin",
+      "text": "那长期熬夜，我和你讲啊，",
+      "score": 0.1687,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0944,
+        "sc_logprob": -0.1005,
+        "sc_delta": -0.0061,
+        "acoustic_dev": 0.324,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那长期熬夜，我和你讲啊。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 16.662,
+      "end": 24.261,
+      "label": "mandarin",
+      "text": "还有可能长肥哦。说到生活节奏的加快，社会竞争越来越激烈，压力也就越来越大，",
+      "score": 0.0728,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.015,
+        "sc_logprob": -0.0179,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.152,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有可能涨费哦。随着生活节奏的加快，社会竞争越来越激烈，压力也越来越大。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.454,
+      "end": 27.487,
+      "label": "mandarin",
+      "text": "需要经常熬夜，但是又担心会长肥。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0002,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "需要经常熬夜，但是又担心会长肥。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.791,
+      "end": 34.0,
+      "label": "mandarin",
+      "text": "那熬夜会长肥没有呢？现在好多人都在运用各种各样的方式进行减肥，",
+      "score": 0.0019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0142,
+        "sc_logprob": -0.0138,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那熬夜会长肥没有呢？现在好多人都在运用各种各样的方式进行减肥。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.156,
+      "end": 38.781,
+      "label": "mandarin",
+      "text": "但其实熬夜也会在无形之中给人造成肥胖，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.007,
+        "sc_logprob": -0.0081,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但其实熬夜也会在无形之中给人造成肥胖。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.02,
+      "end": 42.193,
+      "label": "mandarin",
+      "text": "这就是好多人始终减不下来的原因。",
+      "score": 0.2442,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.116,
+        "sc_logprob": -0.118,
+        "sc_delta": -0.002,
+        "acoustic_dev": 0.411,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这就是好多人始终赶不下来的原因。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 42.57,
+      "end": 50.122,
+      "label": "mandarin",
+      "text": "人在睡眠的时候，身体会分泌好多变瘦的激素来帮助身体当中的脂肪的分解，",
+      "score": 0.0143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0124,
+        "sc_logprob": -0.0096,
+        "sc_delta": 0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.031,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "人在睡眠的时候，身体会分泌好多变少的激素，来帮助身体当中的脂肪的分解。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.345,
+      "end": 54.58,
+      "label": "mandarin",
+      "text": "但是长时间的熬夜就会导致内分泌出现紊乱，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0061,
+        "sc_logprob": -0.0053,
+        "sc_delta": 0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是长时间的熬夜就会导致内分泌出现紊乱。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 54.703,
+      "end": 57.1,
+      "label": "mandarin",
+      "text": "所以脂肪就出现了堆积，",
+      "score": 0.1219,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0719,
+        "sc_logprob": -0.0811,
+        "sc_delta": -0.0092,
+        "acoustic_dev": 0.234,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以脂肪就出现了堆积。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 57.305,
+      "end": 60.575,
+      "label": "mandarin",
+      "text": "这也就更加容易出现肥胖。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这也就更加容易出现肥胖。"
+      }
+    }
+  ]
+}

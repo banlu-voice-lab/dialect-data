@@ -1,0 +1,471 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "平乐同安_首批五指毛桃喜迎丰收.wav",
+  "duration": 113.631,
+  "no_dialect": false,
+  "created_at": "2026-10-29T19:10:17",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 9.774,
+      "label": "mandarin",
+      "text": "平罗县同安镇盘活闲置土地，将五指毛桃等中药材产业作为农民增收致富的特色产业重点培育，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0081,
+        "sc_logprob": -0.0082,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平乐县通安镇盘活闲置土地，将五指毛桃等中药材产业作为农民增收致富的特色产业重点培育。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 10.004,
+      "end": 13.548,
+      "label": "mandarin",
+      "text": "推动村集体经济收入再度造血。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0285,
+        "sc_logprob": -0.031,
+        "sc_delta": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动城集体经济收入再度造血。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 14.435,
+      "end": 19.723,
+      "label": "mandarin",
+      "text": "近日，记者走进平罗县同安镇平山村五指毛桃产业基地，",
+      "score": 0.2274,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1564,
+        "sc_logprob": -0.1406,
+        "sc_delta": 0.0159,
+        "acoustic_dev": 0.399,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近日，记者走进平乐县同安镇平山村五指毛桃产业基地。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 19.883,
+      "end": 23.712,
+      "label": "mandarin",
+      "text": "看到挖掘机正在地里头割挖着五指毛桃，",
+      "score": 0.3056,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1061,
+        "sc_logprob": -0.1022,
+        "sc_delta": 0.0038,
+        "acoustic_dev": 0.233,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "指/子",
+        "lexicon": "",
+        "text_free": "看到挖掘机正在地里头狗挖着屋子茅草。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 24.081,
+      "end": 27.747,
+      "label": "guilin",
+      "text": "种植户将挖出来的作物进行清理、",
+      "score": 0.443,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2937,
+        "sc_logprob": -0.2105,
+        "sc_delta": 0.0833,
+        "acoustic_dev": 0.852,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "种植户将挖出来的作物进行清理。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 27.747,
+      "end": 32.202,
+      "label": "mandarin",
+      "text": "捆扎、装车，田间地头一片丰收的场景。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "sc_logprob": -0.0025,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "捆扎装车，田间地头一片丰收的场景。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 32.603,
+      "end": 36.562,
+      "label": "mandarin",
+      "text": "蒋财旺是平山村五指毛桃基地的负责人，",
+      "score": 0.6276,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3436,
+        "sc_logprob": -0.3376,
+        "sc_delta": 0.006,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "蒋才旺是平山城五只毛套基地的负责人。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.929,
+      "end": 41.094,
+      "label": "mandarin",
+      "text": "他从二零二一年的二月份开始种植五指毛桃，",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "sc_logprob": -0.0007,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他从二零二一年的二月份开始种植五只毛桃。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.384,
+      "end": 44.594,
+      "label": "mandarin",
+      "text": "仅两年的时间就有了第一批收成。",
+      "score": 0.0585,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0696,
+        "sc_logprob": -0.0475,
+        "sc_delta": 0.0221,
+        "acoustic_dev": 0.113,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "仅两年的时间，就有了第一批收成。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.723,
+      "end": 53.227,
+      "label": "mandarin",
+      "text": "这几年我在广东没事做，我看到人家种五指毛桃，我回来这两年种五指毛桃，种了一百几十亩，",
+      "score": 0.1241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "sc_logprob": -0.0058,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "指/子 指/子",
+        "lexicon": "",
+        "text_free": "这几年我在广东没事做，我看到人家种五子毛桃，我回来这两年种五子毛桃，种了一百几十亩。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 53.562,
+      "end": 57.59,
+      "label": "mandarin",
+      "text": "今天又收入了，叫人家挖挖了一千五百块。",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0156,
+        "sc_logprob": -0.012,
+        "sc_delta": 0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天有收入了，叫人家挖挖了一千五百克。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 58.07,
+      "end": 62.039,
+      "label": "mandarin",
+      "text": "同安镇的高山土质非常适合种植五指毛桃，",
+      "score": 0.0045,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0381,
+        "sc_logprob": -0.0561,
+        "sc_delta": -0.018,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同安镇的高山土质非常适合种植五指毛桃。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 62.249,
+      "end": 65.294,
+      "label": "mandarin",
+      "text": "种出来的产品产量高、品质好，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8275,
+        "sc_logprob": -0.822,
+        "sc_delta": 0.0055,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "种出来的产品产量高，品质好。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 65.647,
+      "end": 69.062,
+      "label": "mandarin",
+      "text": "还没开挖就有不少收购商慕名而来。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "sc_logprob": -0.0018,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还没开挖，就有不少收购商慕名而来。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 69.314,
+      "end": 76.239,
+      "label": "mandarin",
+      "text": "通过合作社模式经营，该项产业也为当地村民带来土地租金和就业岗位。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "sc_logprob": -0.0017,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过合作社模式经营，该项产业也为当地村民带来土地租金和就业岗位。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 76.606,
+      "end": 79.099,
+      "label": "guilin",
+      "text": "如今五指毛桃喜迎丰收，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5385,
+        "sc_logprob": -0.4494,
+        "sc_delta": 0.0891,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如今，五指毛桃喜迎丰收。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 79.299,
+      "end": 83.011,
+      "label": "mandarin",
+      "text": "每亩收益最高可以达到两万块钱。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "sc_logprob": -0.001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每亩收益最高可以达到两万块钱。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 83.011,
+      "end": 89.651,
+      "label": "mandarin",
+      "text": "如今发展中药材种植正成为同安镇群众增收致富的新路子，",
+      "score": 0.0814,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0829,
+        "sc_logprob": -0.084,
+        "sc_delta": -0.001,
+        "acoustic_dev": 0.157,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如今，发展中药材种植正成为同安镇群众增收致富的新路子。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 89.918,
+      "end": 97.351,
+      "label": "mandarin",
+      "text": "乡村振兴的新引擎。该镇将技术与合作社加基地加农户的发展模式，",
+      "score": 0.1906,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1276,
+        "sc_logprob": -0.1313,
+        "sc_delta": -0.0038,
+        "acoustic_dev": 0.304,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "乡村振兴的新引擎。该镇将技术、一合作社、基地、加农户的发展模式。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 97.662,
+      "end": 105.569,
+      "label": "mandarin",
+      "text": "借助当地村委力量，因地制宜引导村民发展适合本地的中药材产业种植，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.013,
+        "sc_logprob": -0.0126,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "借助当地成为力量，因地制宜引导村民发展适合本地的中药材产业种植。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 105.569,
+      "end": 111.047,
+      "label": "mandarin",
+      "text": "拓宽农户增收渠道，推动村集体经济收入再度造血，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0329,
+        "sc_logprob": -0.0265,
+        "sc_delta": 0.0064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拓宽农户增收渠道，推动村集体经济收入再度造血。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 111.275,
+      "end": 113.631,
+      "label": "mandarin",
+      "text": "有效助力乡村振兴。",
+      "score": 0.278,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1976,
+        "sc_logprob": -0.1545,
+        "sc_delta": 0.0431,
+        "acoustic_dev": 0.535,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有效助力乡村振兴。"
+      }
+    }
+  ]
+}
