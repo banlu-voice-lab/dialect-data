@@ -1,0 +1,513 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "普及地质灾害知识 增强防灾减灾意识.wav",
+  "duration": 133.69,
+  "no_dialect": false,
+  "created_at": "2026-10-29T11:07:09",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.218,
+      "end": 3.677,
+      "label": "mandarin",
+      "text": "为了提高对雨季地质灾害的应急能力啊，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "sc_logprob": -0.0019,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了提高对雨季地质灾害的应急能力啊。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.677,
+      "end": 15.337,
+      "label": "mandarin",
+      "text": "头两天呢，由市自然资源局和工程瑶族自治县主办的二零二三年度地质灾害应急演练及防书包地质灾害防治知识进校园活动啊，",
+      "score": 0.053,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0245,
+        "sc_logprob": -0.0241,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.069,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "头两天呢，由市自然资源局和工程瑶族自治县主办的二零二三年度地质灾害应急演练暨防暑包、地质灾害防治知识进校园活动啊。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 15.337,
+      "end": 17.98,
+      "label": "mandarin",
+      "text": "也在工程第三中心小学举行了。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0049,
+        "sc_logprob": -0.0046,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也在工程第三中心小学举行了。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.677,
+      "end": 28.506,
+      "label": "mandarin",
+      "text": "这次的演练模拟场景是在连续遭遇了强降雨天气之后，监测员在对校园北面山体进行常规监测时，",
+      "score": 0.0763,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0224,
+        "sc_logprob": -0.0206,
+        "sc_delta": 0.0018,
+        "acoustic_dev": 0.061,
+        "seg_cer": 0.098,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最能的演练模拟场景是在连续遭遇了强降雨天气之后，检测员在对校园北面山体进行常规检测时。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 28.506,
+      "end": 36.271,
+      "label": "mandarin",
+      "text": "发现多处裂缝。工程瑶族自治县第三中心小学一个班级的学生在操场上体育课时，",
+      "score": 0.2356,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0512,
+        "sc_logprob": -0.0499,
+        "sc_delta": 0.0013,
+        "acoustic_dev": 0.176,
+        "seg_cer": 0.206,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "治/子",
+        "lexicon": "",
+        "text_free": "发现多处裂缝。工程遥组子县第三中心小学一个班级的学生在操场上踢过时。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 36.271,
+      "end": 39.721,
+      "label": "mandarin",
+      "text": "突发山体滑坡，一个学生在撤离时呢，",
+      "score": 0.3479,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1598,
+        "sc_logprob": -0.1471,
+        "sc_delta": 0.0127,
+        "acoustic_dev": 0.61,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "突发山体滑坡，一个学生在撤离时候呢。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 39.721,
+      "end": 41.824,
+      "label": "mandarin",
+      "text": "一下子没小心，就板断了骨头。",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "sc_logprob": -0.0059,
+        "sc_delta": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一下子没小心，就扳断了骨头。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 42.159,
+      "end": 51.509,
+      "label": "mandarin",
+      "text": "险情发生之后呢，地质灾害应急避险工作领导小组第一时间就启动了突发性地质灾害应急预案，",
+      "score": 0.0047,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0094,
+        "sc_logprob": -0.0087,
+        "sc_delta": 0.0007,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "险情发生之后呢，地质灾害应急避险工作领导小组第一时间就启动了突发性地质灾害应急预案。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 51.699,
+      "end": 54.131,
+      "label": "mandarin",
+      "text": "联动多个部门来处置险情，",
+      "score": 0.4792,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2176,
+        "sc_logprob": -0.2038,
+        "sc_delta": 0.0138,
+        "acoustic_dev": 0.842,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "联动多部门来处置险情。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 54.194,
+      "end": 57.339,
+      "label": "mandarin",
+      "text": "快速的组织危险区域内的人员撤离，",
+      "score": 0.0675,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0396,
+        "sc_logprob": -0.0402,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.13,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "快速的组织危险区域内的人员撤离。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 57.339,
+      "end": 60.689,
+      "label": "mandarin",
+      "text": "采取了有效的措施，也保障了师生的安全。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "采取了有效的措施，也保障了师生的安全。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 61.199,
+      "end": 64.558,
+      "label": "mandarin",
+      "text": "在演练过程当中啊，技术人员迅速的到场，",
+      "score": 0.146,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0774,
+        "sc_logprob": -0.0678,
+        "sc_delta": 0.0096,
+        "acoustic_dev": 0.281,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在演练过程当中啊，技术人员迅速的到场。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 64.558,
+      "end": 69.533,
+      "label": "mandarin",
+      "text": "有条不紊的开展了山体监测的调查和现场的撤费工作，",
+      "score": 0.2901,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0779,
+        "sc_logprob": -0.0708,
+        "sc_delta": 0.0071,
+        "acoustic_dev": 0.283,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "撤/测",
+        "lexicon": "",
+        "text_free": "有条不紊地开展了山体监测的调查和现场的测绘工作。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 69.653,
+      "end": 73.1,
+      "label": "mandarin",
+      "text": "并及时的把现场情况反馈指挥长，",
+      "score": 0.1787,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.046,
+        "sc_logprob": -0.0637,
+        "sc_delta": -0.0177,
+        "acoustic_dev": 0.155,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并及时地把线上情况反馈指挥长。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 73.1,
+      "end": 76.892,
+      "label": "mandarin",
+      "text": "为指挥部科学决策也提供了有力的支持。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "sc_logprob": -0.0025,
+        "sc_delta": 0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为指挥部科学决策也提供了有力的支持。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 76.892,
+      "end": 87.167,
+      "label": "mandarin",
+      "text": "通过本次应急演练，全面增强人民群众应对突发性地质灾害的防范避险意识和自救互救的能力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0007,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过本次应急演练，全面增强人民群众应对突发性地质灾害的防范、避险意识和自救、互救的能力。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 87.342,
+      "end": 90.826,
+      "label": "mandarin",
+      "text": "最大限度减轻地质灾害造成的损失，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0006,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最大限度减轻地质灾害造成的损失。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 91.063,
+      "end": 98.377,
+      "label": "mandarin",
+      "text": "切实提高各个单位应对突发性地质灾害的快速反应和应急处置能力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "切实提高各个单位应对突发性地质灾害的快速反应和应急处置能力。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 98.434,
+      "end": 110.135,
+      "label": "mandarin",
+      "text": "应急演练结束之后啊，省林科地质大队地质灾害专家也为广大师生和各乡镇地质灾害点的监测员进行了专业知识的培训和讲解。",
+      "score": 0.1584,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0229,
+        "sc_logprob": -0.0234,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.093,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "林/零",
+        "lexicon": "",
+        "text_free": "应急演练结束之后啊，三幺零和地质大队地质灾害专家也为广大师生和各乡镇地质灾害点的监测人员进行了专业知识的培训和讲解。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 110.389,
+      "end": 116.441,
+      "label": "mandarin",
+      "text": "同时呢，主办方也给学生们发放了地质灾害防治科普知识宣传册，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0011,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时呢，主办方也给学生们发放了地质灾害防治科普知识宣传册。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 116.441,
+      "end": 122.751,
+      "label": "mandarin",
+      "text": "并赠送了防书包。地质灾害事关人民群众的财产与生命安全，",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "sc_logprob": -0.0024,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并赠送了黄书包。地质灾害事关人民群众的财产与生命安全。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 122.844,
+      "end": 127.043,
+      "label": "mandarin",
+      "text": "小学生是祖国的未来。通过我们的专业知识，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "小学生是祖国的未来。通过我们的专业知识。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 127.053,
+      "end": 131.173,
+      "label": "mandarin",
+      "text": "给我们的花朵播下了科学防范灾害的种子，",
+      "score": 0.0146,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0142,
+        "sc_logprob": -0.0175,
+        "sc_delta": -0.0032,
+        "acoustic_dev": 0.028,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给我们的花朵播下了科学防范灾害的种子。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 131.173,
+      "end": 133.69,
+      "label": "mandarin",
+      "text": "提升了师生们的防灾避险能力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提升了师生们的防灾避险能力。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "全州_香瓜产业助力乡村振兴.wav",
+  "duration": 77.761,
+  "no_dialect": false,
+  "created_at": "2026-10-29T09:43:11",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.227,
+      "end": 6.054,
+      "label": "mandarin",
+      "text": "在我们个泉州，看样子泉州县就围绕着一乡一品、一村一品的特色农业发展思路，",
+      "score": 0.2491,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1227,
+        "sc_logprob": -0.119,
+        "sc_delta": 0.0037,
+        "acoustic_dev": 0.319,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接着我们去泉州看子。泉州现在就围绕着一乡一品、一村一品的特色农业发展思路。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.15,
+      "end": 9.201,
+      "label": "mandarin",
+      "text": "因地制宜的就发展了香瓜的种植，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0144,
+        "sc_logprob": -0.0182,
+        "sc_delta": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因地制宜的，就发展了香瓜的种植。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.365,
+      "end": 14.439,
+      "label": "mandarin",
+      "text": "也为当地的农民增收致富、实现乡村振兴提供了一个新引擎。",
+      "score": 0.0081,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0303,
+        "sc_logprob": -0.0397,
+        "sc_delta": -0.0094,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也为当地的农民增收致富，实现乡村振兴提供了一个新引擎。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.786,
+      "end": 18.05,
+      "label": "mandarin",
+      "text": "现在啊，正是泉州县香瓜上市的时节。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0208,
+        "sc_logprob": -0.0252,
+        "sc_delta": -0.0044,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在啊，正是泉州县香瓜上市的时节。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.05,
+      "end": 23.238,
+      "label": "mandarin",
+      "text": "我们记者呢，最近在石塘镇的福寿村蒋春艳的十亩瓜棚里面看到，",
+      "score": 0.511,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2066,
+        "sc_logprob": -0.1881,
+        "sc_delta": 0.0185,
+        "acoustic_dev": 0.595,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "十/四 春/村",
+        "lexicon": "",
+        "text_free": "用记者呢，最近在石塘镇的福寿村蒋村堰的四某瓜棚里面看到。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.238,
+      "end": 25.977,
+      "label": "mandarin",
+      "text": "大棚里面是绿意盎然、生机勃勃。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0113,
+        "sc_logprob": -0.0123,
+        "sc_delta": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大棚的面是绿意盎然，生机勃勃。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.553,
+      "end": 30.94,
+      "label": "mandarin",
+      "text": "县乡科技特派员呢，也在细心的指导他的管护技术。",
+      "score": 0.1496,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0119,
+        "sc_logprob": -0.0126,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "护/伏",
+        "lexicon": "",
+        "text_free": "现象科技特派员呢，也在细心的指导他的光伏技术。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.78,
+      "end": 38.324,
+      "label": "mandarin",
+      "text": "今年以来啊，泉州县把香瓜产业作为民富增收、推进乡村振兴的特色产业来打造，",
+      "score": 0.1319,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0337,
+        "sc_logprob": -0.0293,
+        "sc_delta": 0.0044,
+        "acoustic_dev": 0.027,
+        "seg_cer": 0.121,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "民/名",
+        "lexicon": "",
+        "text_free": "今年以来啊，泉州县把香瓜产业作为名副其实推进乡村振兴的特色产业来打造。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.324,
+      "end": 40.757,
+      "label": "mandarin",
+      "text": "坚持早知道县、提早育苗、",
+      "score": 0.7113,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.4478,
+        "sc_logprob": -3.4577,
+        "sc_delta": -0.01,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.8,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "知/子",
+        "lexicon": "",
+        "text_free": "坚持“糟子当先，体糟于妙”。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.757,
+      "end": 43.573,
+      "label": "mandarin",
+      "text": "提前规划，充分利用科技的手段，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "sc_logprob": -0.0009,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提前规划，充分利用科技的手段。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.573,
+      "end": 46.17,
+      "label": "mandarin",
+      "text": "采取实施大棚覆盖地膜、",
+      "score": 0.2448,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1688,
+        "sc_logprob": -0.1849,
+        "sc_delta": -0.0161,
+        "acoustic_dev": 0.471,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "采取实施大棚覆盖地膜。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.217,
+      "end": 50.206,
+      "label": "mandarin",
+      "text": "水肥一体化的措施，规模化、标准化的来种香瓜。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0044,
+        "sc_logprob": -0.0042,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "水费一体化的措施，规模化、标准化的来种香瓜。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 50.308,
+      "end": 53.847,
+      "label": "mandarin",
+      "text": "由于管理到位，出产的香瓜品质好、口感好，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "sc_logprob": -0.0008,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "由于管理到位，出产的香瓜品质好，口感好。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.847,
+      "end": 56.46,
+      "label": "mandarin",
+      "text": "也得到了市场和广大消费者的认可。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也得到了市场和广大消费者认可。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 56.98,
+      "end": 59.709,
+      "label": "mandarin",
+      "text": "我们第一批瓜呢，这个呢，质量也好，",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3549,
+        "sc_logprob": -0.3091,
+        "sc_delta": 0.0458,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们第一笔挂呢，这个呢，质量也好。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 59.86,
+      "end": 62.678,
+      "label": "mandarin",
+      "text": "嗯，口感也好，又甜又脆又香的瓜。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0015,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，口感也好，又甜又脆又香的瓜。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 62.928,
+      "end": 66.115,
+      "label": "mandarin",
+      "text": "我们批发去给水果店的是九块钱一斤，",
+      "score": 0.222,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1387,
+        "sc_logprob": -0.1382,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.372,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们批发去给水果店的是九块钱斤。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 67.122,
+      "end": 71.779,
+      "label": "mandarin",
+      "text": "不值小路。目前全县香瓜种植面积达到了一点五万亩，",
+      "score": 0.5984,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.327,
+        "sc_logprob": -0.3373,
+        "sc_delta": -0.0102,
+        "acoustic_dev": 0.991,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，全县香瓜种植面积达到了一点五万亩。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 71.779,
+      "end": 75.118,
+      "label": "mandarin",
+      "text": "直接为种植户带来了一点二亿的经济收入，",
+      "score": 0.177,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "sc_logprob": -0.0103,
+        "sc_delta": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.278,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "植/子",
+        "lexicon": "",
+        "text_free": "直接为中子湖带来了一点恶意的经济收入。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 75.118,
+      "end": 77.761,
+      "label": "mandarin",
+      "text": "有效的夯实了乡村振兴的基础。",
+      "score": 0.4675,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2785,
+        "sc_logprob": -0.244,
+        "sc_delta": 0.0345,
+        "acoustic_dev": 0.831,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有效地夯实了乡村振兴的基础。"
+      }
+    }
+  ]
+}

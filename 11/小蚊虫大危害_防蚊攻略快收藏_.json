@@ -1,0 +1,429 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "小蚊虫大危害_防蚊攻略快收藏_.wav",
+  "duration": 81.089,
+  "no_dialect": false,
+  "created_at": "2026-10-29T10:48:30",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.266,
+      "end": 3.816,
+      "label": "mandarin",
+      "text": "夏天除了去游泳，夏天还有个特别烦的事情呢，",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0342,
+        "sc_logprob": -0.0335,
+        "sc_delta": 0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夏天除了去游泳，夏天还有一个特别烦的事情呢。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.816,
+      "end": 8.436,
+      "label": "guilin",
+      "text": "就是啷子个防这些蚊子。哎，叮以后啷子把它消肿止痒？",
+      "score": 0.4322,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7285,
+        "sc_logprob": -0.6093,
+        "sc_delta": 0.1191,
+        "acoustic_dev": 0.449,
+        "seg_cer": 0.636,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.154,
+        "phon_examples": "啷/让 啷/让",
+        "lexicon": "",
+        "text_free": "就是让这个放在文字，哎，顶以后，让这把它小中之养。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.436,
+      "end": 11.464,
+      "label": "mandarin",
+      "text": "今天呢，我们也收集了一些科学的防蚊攻略，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "sc_logprob": -0.003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天呢，我们也收集了一些科学的防蚊攻略。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.464,
+      "end": 14.905,
+      "label": "mandarin",
+      "text": "和大家一起分享一下。物理驱蚊的方法，",
+      "score": 0.2289,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5456,
+        "sc_logprob": -0.5433,
+        "sc_delta": 0.0023,
+        "acoustic_dev": 0.275,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "和大家一起分享一下，无理取文的方法。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 14.905,
+      "end": 19.212,
+      "label": "mandarin",
+      "text": "用浅色的衣服、纱窗、蚊帐，这样呢把蚊子和人隔开。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0373,
+        "sc_logprob": -0.0364,
+        "sc_delta": 0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用浅色的衣服、纱窗、蚊帐，之类的把蚊子和影隔开。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 19.36,
+      "end": 23.253,
+      "label": "mandarin",
+      "text": "化学驱蚊呢，就可以选用电蚊香、驱蚊贴、",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1776,
+        "sc_logprob": -0.2039,
+        "sc_delta": -0.0263,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.625,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "法学取文呢，就归选用电文箱取文帖。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 23.253,
+      "end": 27.447,
+      "label": "mandarin",
+      "text": "花露水这些东西。那叮之后啷子消肿止痒呢？",
+      "score": 0.5851,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9773,
+        "sc_logprob": -0.961,
+        "sc_delta": 0.0164,
+        "acoustic_dev": 0.686,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.273,
+        "phon_examples": "止/子 子/只 露/入",
+        "lexicon": "",
+        "text_free": "发入水这东西，来顶之后，两只小中子养的。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.684,
+      "end": 31.52,
+      "label": "mandarin",
+      "text": "冷敷啊，就是最简单的办法。不管你是拿冷水冲，",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0083,
+        "sc_logprob": -0.0112,
+        "sc_delta": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冷敷啊，就是最简单的办法。不管你是那冷水虫。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 31.52,
+      "end": 35.574,
+      "label": "mandarin",
+      "text": "还是拿冰块敷，都可以减轻局部的胀痛感。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "sc_logprob": -0.0012,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还是拿冰块敷，都可以减轻局部的胀痛感。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.574,
+      "end": 37.911,
+      "label": "mandarin",
+      "text": "如果是持续的红肿而且痒，",
+      "score": 0.7147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2504,
+        "sc_logprob": -1.2985,
+        "sc_delta": -0.0481,
+        "acoustic_dev": 0.947,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "肿/棕",
+        "lexicon": "",
+        "text_free": "如果是赤树的红棕，而且养。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 37.911,
+      "end": 44.129,
+      "label": "mandarin",
+      "text": "可以局部呢涂一些抗组胺成分的软膏，减轻皮肤炎症而且止痒。",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "sc_logprob": -0.0034,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以局部的涂一些抗组胺成分的软膏，减轻皮肤炎症，而且止痒。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 44.129,
+      "end": 53.071,
+      "label": "mandarin",
+      "text": "如果那个皮肤还口烂了啷搞呢？如果它烂的面积比较小，而且没得明显的出血，在屋里呢就可以用安尔碘来擦子消毒，",
+      "score": 0.1562,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2156,
+        "sc_logprob": -0.2153,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得 屋里",
+        "text_free": "如果那个皮肤哎口烂了，啷搞呢？如果他烂的面积比较小，而且没得明显的出血，这物流呢，就可以用氨二碘来擦拭消毒。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 53.071,
+      "end": 55.404,
+      "label": "mandarin",
+      "text": "然后呢贴些创可贴，保持干燥。",
+      "score": 0.4785,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8996,
+        "sc_logprob": -0.8645,
+        "sc_delta": 0.0351,
+        "acoustic_dev": 0.612,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "腌好的铁西创口贴保持干燥。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 55.658,
+      "end": 58.526,
+      "label": "guilin",
+      "text": "如果口烂地方红肿而且特别痒，",
+      "score": 0.6607,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3695,
+        "sc_logprob": -1.296,
+        "sc_delta": 0.0735,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有个口难的地方，红肿，而且特别痒。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 58.526,
+      "end": 61.609,
+      "label": "guilin",
+      "text": "那就要去医院了不？这些防蚊的谣言，",
+      "score": 0.6689,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2996,
+        "sc_logprob": -1.2303,
+        "sc_delta": 0.0693,
+        "acoustic_dev": 0.993,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打到去医院了不？这些访问的谣言。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 61.609,
+      "end": 64.089,
+      "label": "mandarin",
+      "text": "千万莫信。谣言一，",
+      "score": 0.2808,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4897,
+        "sc_logprob": -0.4955,
+        "sc_delta": -0.0059,
+        "acoustic_dev": 0.222,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "信/行",
+        "lexicon": "",
+        "text_free": "千万莫行，谣言一。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 64.239,
+      "end": 70.006,
+      "label": "mandarin",
+      "text": "蚊子呢偏某种血型，真相呢是蚊子的定位靠二氧化碳、",
+      "score": 0.1039,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2025,
+        "sc_logprob": -0.1552,
+        "sc_delta": 0.0474,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文字呢，偏爱某种血型。真相呢，是文字的定位靠二氧化碳。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 70.006,
+      "end": 72.996,
+      "label": "mandarin",
+      "text": "热量、挥发性的化学物质的。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6839,
+        "sc_logprob": -1.8398,
+        "sc_delta": -0.1559,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "野良非法性的法学物质类。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 73.513,
+      "end": 77.673,
+      "label": "mandarin",
+      "text": "谣言二，维生素B一泡水能够防蚊子，",
+      "score": 0.1181,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2971,
+        "sc_logprob": -0.3101,
+        "sc_delta": -0.013,
+        "acoustic_dev": 0.039,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "耀眼蛾，维生素 B 一泡水能够防蚊子。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 77.707,
+      "end": 81.089,
+      "label": "mandarin",
+      "text": "真相什么呢？真相啊是根本没得效果。",
+      "score": 0.0705,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0856,
+        "sc_logprob": -0.083,
+        "sc_delta": 0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "真相什么呢？真相啊，是根本没的效果。"
+      }
+    }
+  ]
+}

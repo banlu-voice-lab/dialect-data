@@ -1,0 +1,282 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "荔浦_鲜嫩桑果枝头挂  果农增收游客欢.wav",
+  "duration": 66.61,
+  "no_dialect": false,
+  "created_at": "2026-10-29T12:25:59",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.2,
+      "label": "mandarin",
+      "text": "进入到了五月，那么鲜美多汁、清甜可口的桑葚果呢，",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0203,
+        "sc_logprob": -0.017,
+        "sc_delta": 0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进入到了五月，那么鲜美多汁、清甜可口的桑葚果。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.344,
+      "end": 11.805,
+      "label": "mandarin",
+      "text": "也进入了一个成熟的采摘期。荔浦市青山镇青云村的桑葚果园就吸引了好多游客慕名而来，",
+      "score": 0.1241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0213,
+        "sc_logprob": -0.0279,
+        "sc_delta": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "桑/赏",
+        "lexicon": "",
+        "text_free": "也进入了一个成熟的采摘期。荔浦市青山镇青云村的赏樱果园，就吸引了好多游客，慕名而来。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.805,
+      "end": 20.447,
+      "label": "mandarin",
+      "text": "摘桑葚、吃果子。在青山镇青云村的龙江屯桑葚果园，我们记者看到一排排长得特别好的桑葚果，",
+      "score": 0.1938,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "sc_logprob": -0.0055,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.205,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.429,
+        "phon_examples": "桑/赏 桑/赏 桑/赏",
+        "lexicon": "",
+        "text_free": "这个赏胜吃果子。在青山镇青云村的龙江屯赏胜果园，我们记者看到一排排长得特别好的赏胜果。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 20.447,
+      "end": 24.879,
+      "label": "mandarin",
+      "text": "游客们呢也在有讲有笑的在果园里面摘果子、吃果子。",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0402,
+        "sc_logprob": -0.0389,
+        "sc_delta": 0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "游客们呢，也在有奖有笑的在果园里面摘果子、吃果子。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 25.365,
+      "end": 29.1,
+      "label": "mandarin",
+      "text": "我去年总共种了一十五亩桑果山，",
+      "score": 0.2154,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0643,
+        "sc_logprob": -0.0606,
+        "sc_delta": 0.0037,
+        "acoustic_dev": 0.096,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "山/桑",
+        "lexicon": "",
+        "text_free": "我去年总共种了一十五亩长果桑。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 29.1,
+      "end": 34.208,
+      "label": "mandarin",
+      "text": "到现在陆陆续续成熟了，有很多朋友从朋友圈看到我的",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到现在，陆陆续续成熟了。有很多朋友从朋友圈看到我的。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 34.587,
+      "end": 41.945,
+      "label": "mandarin",
+      "text": "桑果园后，在空余时间带上小孩朋友过来体验一下采摘果",
+      "score": 0.1381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0402,
+        "sc_logprob": -0.0476,
+        "sc_delta": -0.0074,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "桑/上",
+        "lexicon": "",
+        "text_free": "上果园后，再空余时间带上小孩朋友过来体验一下采摘果。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 42.175,
+      "end": 45.407,
+      "label": "guilin",
+      "text": "果园的乐趣。近年来啊，",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0703,
+        "sc_logprob": -0.9395,
+        "sc_delta": 0.1308,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "果园的乐趣。今天来啊。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 45.407,
+      "end": 50.536,
+      "label": "mandarin",
+      "text": "荔浦市是积极的发展了乡村休闲游、农业观光、自助体验等等模式，",
+      "score": 0.1341,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0341,
+        "sc_logprob": -0.0325,
+        "sc_delta": 0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "市/四",
+        "lexicon": "",
+        "text_free": "一步四是积极的发展了乡村休闲游、农业观光、自助体验等等模式。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 50.536,
+      "end": 55.58,
+      "label": "mandarin",
+      "text": "全域旅游是蓬勃的发展。青山镇毗邻荔浦市区，交通便利。",
+      "score": 0.1258,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0529,
+        "sc_logprob": -0.0541,
+        "sc_delta": -0.0012,
+        "acoustic_dev": 0.051,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全域旅游是蓬勃的发展，城乡人毗邻，离不市区交通便利。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 55.58,
+      "end": 59.136,
+      "label": "mandarin",
+      "text": "到了周末、放假时候呢，各地应景的水果园呢，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0402,
+        "sc_logprob": -0.0421,
+        "sc_delta": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到了周末放假时候呢，各地应景的水果园呢。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 59.136,
+      "end": 61.82,
+      "label": "mandarin",
+      "text": "都是吸引了市民游客的一个好地方。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "sc_logprob": -0.0013,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "都是吸引了市民游客的一个好地方。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 61.936,
+      "end": 66.61,
+      "label": "mandarin",
+      "text": "大家呢可以约自己的家人、朋友一起去体验园里面去摘水果。",
+      "score": 0.0216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0506,
+        "sc_logprob": -0.0467,
+        "sc_delta": 0.0039,
+        "acoustic_dev": 0.041,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家呢，可以约自己的家人、朋友一起去体验园里面去摘水果。"
+      }
+    }
+  ]
+}

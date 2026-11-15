@@ -1,0 +1,387 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "全州咸水镇_红叶烂漫 _枫_光正好.wav",
+  "duration": 74.911,
+  "no_dialect": false,
+  "created_at": "2026-10-29T09:46:28",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.095,
+      "label": "mandarin",
+      "text": "近年来，泉州县蛟川村实现红枫规模化、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6758,
+        "sc_logprob": -0.6568,
+        "sc_delta": 0.019,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.438,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，泉州仙桥穿城，实现红枫鬼魔发。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.095,
+      "end": 8.705,
+      "label": "mandarin",
+      "text": "标准化种植，拓展延伸红枫产业链以及附加值，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "sc_logprob": -0.005,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "标准化种植，拓展延伸红枫产业链以及附加值。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.853,
+      "end": 13.721,
+      "label": "mandarin",
+      "text": "走出了一条复活蛟川村四季的产业振兴之路。",
+      "score": 0.3844,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1179,
+        "sc_logprob": -0.1322,
+        "sc_delta": -0.0143,
+        "acoustic_dev": 0.434,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "四/世",
+        "lexicon": "",
+        "text_free": "走出了一条复活胶川城世纪的产业振兴之路。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.847,
+      "end": 18.155,
+      "label": "mandarin",
+      "text": "连一来，仙水镇蛟川村的立桥红枫苗木基地，",
+      "score": 0.4106,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1127,
+        "sc_logprob": -0.123,
+        "sc_delta": -0.0103,
+        "acoustic_dev": 0.413,
+        "seg_cer": 0.389,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "连/年",
+        "lexicon": "",
+        "text_free": "年以来，县水镇交产成立立桥红枫苗木基地。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.285,
+      "end": 20.777,
+      "label": "mandarin",
+      "text": "成片的枫木灿烂盛开，",
+      "score": 0.2483,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.037,
+        "sc_logprob": -0.0409,
+        "sc_delta": -0.0039,
+        "acoustic_dev": 0.111,
+        "seg_cer": 0.111,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成片嘅枫木，灿烂盛开。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.777,
+      "end": 23.231,
+      "label": "mandarin",
+      "text": "灿若云霞，风情万种，",
+      "score": 0.4488,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1482,
+        "sc_logprob": -0.168,
+        "sc_delta": -0.0197,
+        "acoustic_dev": 0.555,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "残月云下，风情万种。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 23.469,
+      "end": 27.255,
+      "label": "mandarin",
+      "text": "艳丽的色彩在风中炫耀开来，令人沉醉，",
+      "score": 0.6356,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1982,
+        "sc_logprob": -0.1961,
+        "sc_delta": 0.0022,
+        "acoustic_dev": 0.755,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "沉/成 令/淋",
+        "lexicon": "",
+        "text_free": "艳丽的色彩在风中渲染开来，淋映成醉。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.482,
+      "end": 31.089,
+      "label": "mandarin",
+      "text": "为春意增添了一抹绚烂的色彩。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "sc_logprob": -0.0023,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为春意增添了一抹绚烂的色彩。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 31.089,
+      "end": 35.214,
+      "label": "mandarin",
+      "text": "我从事红枫种植行业呢，已二十三年，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0056,
+        "sc_logprob": -0.0057,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我从事红枫种植行业呢，已二十三年。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.604,
+      "end": 38.993,
+      "label": "mandarin",
+      "text": "目前基地总面积大概是两百亩左右，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "sc_logprob": -0.0029,
+        "sc_delta": 0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前基地总面积大概是两百亩左右。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 39.263,
+      "end": 43.733,
+      "label": "mandarin",
+      "text": "种植红枫品种大概是目前是六十个左右。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0085,
+        "sc_logprob": -0.0083,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "种植红枫品种大概是目前是六十个左右。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 43.733,
+      "end": 48.908,
+      "label": "mandarin",
+      "text": "现在的销售渠道主要是通过互联网销往全国各地，",
+      "score": 0.2152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1129,
+        "sc_logprob": -0.114,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.414,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在的销售渠道主要是通过互联网销往全国各地。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 49.355,
+      "end": 53.26,
+      "label": "mandarin",
+      "text": "呃，价格还目前还非常可观。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "sc_logprob": -0.0031,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，价格还目前还非常可观。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.26,
+      "end": 57.502,
+      "label": "mandarin",
+      "text": "连片的红枫为翠绿的山峰涂上一抹灿烂的红色，",
+      "score": 0.0477,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0103,
+        "sc_logprob": -0.0098,
+        "sc_delta": 0.0006,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "连片的红枫为车路的山峰涂上一抹灿烂的红色。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 57.806,
+      "end": 65.198,
+      "label": "mandarin",
+      "text": "在温暖阳光的照射下，映衬出了一幅火红艳丽、生机勃勃的斑斓画卷，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "sc_logprob": -0.0031,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在温暖阳光的照射下，映衬出了一幅火红艳丽、生机勃勃的斑斓画卷。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 65.384,
+      "end": 68.642,
+      "label": "mandarin",
+      "text": "吸引了不少游客前来观光游玩。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "sc_logprob": -0.0047,
+        "sc_delta": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引了不少游客前来观光游玩。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 68.642,
+      "end": 72.727,
+      "label": "mandarin",
+      "text": "我们是从桂林到泉州这个来看这个风景，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "sc_logprob": -0.0061,
+        "sc_delta": 0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们是从桂林到泉州这边来看这个风景。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 73.368,
+      "end": 74.911,
+      "label": "mandarin",
+      "text": "真的是实在是美。",
+      "score": 0.0518,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0343,
+        "sc_logprob": -0.0396,
+        "sc_delta": -0.0053,
+        "acoustic_dev": 0.1,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "真的是实在是美。"
+      }
+    }
+  ]
+}
