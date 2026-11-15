@@ -1,0 +1,492 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "三伏天吃冰解暑有禁忌.wav",
+  "duration": 85.588,
+  "no_dialect": false,
+  "created_at": "2026-10-29T02:08:21",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.291,
+      "label": "mandarin",
+      "text": "天气热了，三伏天也来了，大家呢都喜欢个吃点冰棒啊，喝点冰水。",
+      "score": 0.0527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "sc_logprob": -0.0019,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "天气夜了，散步天也来了。大家呢，都喜欢个吃点冰棒啊，喝点冰水。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.291,
+      "end": 7.857,
+      "label": "mandarin",
+      "text": "这些冷饮啊是可以吃点的，但是呢，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0377,
+        "sc_logprob": -0.0363,
+        "sc_delta": 0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这些冷饮啊是可以吃的点的，但是呢。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.857,
+      "end": 12.024,
+      "label": "mandarin",
+      "text": "千万莫吃多。而且吃冷饮的有些糖尿病患者，",
+      "score": 0.2984,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1253,
+        "sc_logprob": -0.1391,
+        "sc_delta": -0.0139,
+        "acoustic_dev": 0.35,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "千万莫吃多，而且吃了你嘞，有些糖尿病患者。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.024,
+      "end": 14.903,
+      "label": "mandarin",
+      "text": "或者是长胖的，还有老年人和小朋友，",
+      "score": 0.161,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0176,
+        "sc_logprob": -0.0165,
+        "sc_delta": 0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "长/站",
+        "lexicon": "",
+        "text_free": "或者是站旁的，还有老年人和小朋友。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 14.903,
+      "end": 18.3,
+      "label": "mandarin",
+      "text": "这些人群啊，尤其要注意在吃冷饮方面呢，",
+      "score": 0.2698,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0935,
+        "sc_logprob": -0.0995,
+        "sc_delta": -0.0061,
+        "acoustic_dev": 0.223,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "吃/次",
+        "lexicon": "",
+        "text_free": "这些人群啊，尤其要注意这次冷饮方面呢。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 18.3,
+      "end": 21.717,
+      "label": "mandarin",
+      "text": "一定要记到，免得呢影响自己的身体健康。",
+      "score": 0.0669,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0187,
+        "sc_logprob": -0.0221,
+        "sc_delta": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "一定要记到，免得嘞影响自己的身体健康。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 22.273,
+      "end": 26.792,
+      "label": "mandarin",
+      "text": "糖尿病患者和肥胖人群，由于冷饮含糖量比较高，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.006,
+        "sc_logprob": -0.0068,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "糖尿病患者或肥胖人群，由于冷饮含糖量比较高。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 26.792,
+      "end": 30.005,
+      "label": "mandarin",
+      "text": "糖尿病患者吃了之后呢，就会导致血糖升高，",
+      "score": 0.0897,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0564,
+        "sc_logprob": -0.055,
+        "sc_delta": 0.0014,
+        "acoustic_dev": 0.075,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "糖尿病患者吃了肉呢，就会导致血糖升高。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.005,
+      "end": 32.738,
+      "label": "mandarin",
+      "text": "加重病情。如果胖人吃多冷饮呢，",
+      "score": 0.265,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.112,
+        "sc_logprob": -0.1146,
+        "sc_delta": -0.0026,
+        "acoustic_dev": 0.297,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "加重病情。如果胖龄吃多冷饮咧。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 32.738,
+      "end": 36.412,
+      "label": "mandarin",
+      "text": "会更加的胖，而且容易诱发脂肪肝。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "会更加的胖，而且容易诱发脂肪肝。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 36.42,
+      "end": 38.999,
+      "label": "guilin",
+      "text": "老人家和小朋友这一类人群呢，",
+      "score": 0.6255,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3475,
+        "sc_logprob": -1.2309,
+        "sc_delta": 0.1166,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老人家和小白爷这一类人群的。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 38.999,
+      "end": 42.558,
+      "label": "mandarin",
+      "text": "体质比较弱，你在短时间里面吃了大量冷饮之后，",
+      "score": 0.0518,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0626,
+        "sc_logprob": -0.0524,
+        "sc_delta": 0.0101,
+        "acoustic_dev": 0.1,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "体质比较弱，你在短时间里面吃了大量冷饮之后。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 42.558,
+      "end": 48.314,
+      "label": "mandarin",
+      "text": "胃肠突然间受凉，进行刺激了肠黏膜，就引起肠胃不规则的收缩，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "sc_logprob": -0.0057,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "胃肠突然间受凉，进行刺激了肠黏膜，就引起肠胃不规则的收缩。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 48.409,
+      "end": 51.324,
+      "label": "mandarin",
+      "text": "就容易出现肚子痛、拉肚子这些症状。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0014,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就容易出现肚子痛、拉肚子这些症状。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 51.564,
+      "end": 55.791,
+      "label": "mandarin",
+      "text": "慢性胃炎、结肠炎以及食指肠溃疡等等病患者呢，",
+      "score": 0.0425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0581,
+        "sc_logprob": -0.0604,
+        "sc_delta": -0.0022,
+        "acoustic_dev": 0.082,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "慢性胃炎、结肠炎以及食指肠溃疡等等病患者呢？"
+      }
+    },
+    {
+      "id": 16,
+      "start": 55.791,
+      "end": 58.276,
+      "label": "mandarin",
+      "text": "这一类人群的消化系统啊比较差，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "sc_logprob": -0.001,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一类蚓群的消化系统啊，比较差。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 58.441,
+      "end": 61.783,
+      "label": "mandarin",
+      "text": "冷饮吃了之后呢，就容易刺激到胃肠黏膜，",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.027,
+        "sc_logprob": -0.0286,
+        "sc_delta": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冷饮吃了之后呢，就用于刺激到胃肠黏膜。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 61.783,
+      "end": 64.349,
+      "label": "mandarin",
+      "text": "加重病情。那么像冠心病、",
+      "score": 0.0212,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0479,
+        "sc_logprob": -0.0689,
+        "sc_delta": -0.021,
+        "acoustic_dev": 0.041,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加重病情。那么像冠心病。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 64.349,
+      "end": 68.131,
+      "label": "mandarin",
+      "text": "高血压患者这一类人群，如果大量的食用冷饮之后呢，",
+      "score": 0.5815,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2573,
+        "sc_logprob": -0.2568,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.878,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高血压患者这一类人群，如果大量地使用冷凝咒的。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 68.131,
+      "end": 72.917,
+      "label": "mandarin",
+      "text": "也会刺激到肠道，导致血管急剧的收缩，血压升高，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "sc_logprob": -0.0015,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也会刺激到肠道，导致血管急剧的收缩，血压升高。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 72.917,
+      "end": 75.599,
+      "label": "mandarin",
+      "text": "加重病情，诱发脑淤血、",
+      "score": 0.3525,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1827,
+        "sc_logprob": -0.1827,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.58,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加重病情，诱发脑溢血。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 75.599,
+      "end": 83.11,
+      "label": "mandarin",
+      "text": "咽炎、支气管炎的患者，在冷饮刺激下，这一部分人可能呢是给咽炎加重了，或者诱发咳嗽这些症状。",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "sc_logprob": -0.0036,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "炎炎支气管炎的患者在冷饮刺激下，这一部分人可能呢是给炎炎加重了，或者诱发咳嗽这些症状。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 83.11,
+      "end": 85.588,
+      "label": "mandarin",
+      "text": "所以，合理饮食要科学、孝熟。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.524,
+        "sc_logprob": -0.5479,
+        "sc_delta": -0.0238,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以，火力因素要科学消除。"
+      }
+    }
+  ]
+}

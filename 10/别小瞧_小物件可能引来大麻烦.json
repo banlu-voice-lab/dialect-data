@@ -1,0 +1,408 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "别小瞧_小物件可能引来大麻烦.wav",
+  "duration": 79.324,
+  "no_dialect": false,
+  "created_at": "2026-10-29T02:35:52",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.685,
+      "label": "mandarin",
+      "text": "生活当中有一些常见的小物品，如果你稍微不留心啊，有可能就会对孩子造成伤害。",
+      "score": 0.1403,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "sc_logprob": -0.0014,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.088,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "子/纸",
+        "lexicon": "",
+        "text_free": "生活当中有一些常见的小物品，如果你稍微不留心啊，有可能就会对百叶纸造成伤害。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.876,
+      "end": 11.781,
+      "label": "mandarin",
+      "text": "所以啊，当老子娘的一定要当心这些小东西，",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1092,
+        "sc_logprob": -0.1167,
+        "sc_delta": -0.0075,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以啊，当老子娘的一定要当心这些小东西。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.954,
+      "end": 16.053,
+      "label": "mandarin",
+      "text": "可能会被儿童误吸入气管里头不？",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.084,
+        "sc_logprob": -0.0749,
+        "sc_delta": 0.0091,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可能会被儿童误吸入器官里头不？"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.053,
+      "end": 21.815,
+      "label": "mandarin",
+      "text": "容易被误食进入气管的异物有花生、瓜子、果冻、",
+      "score": 0.223,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1573,
+        "sc_logprob": -0.1552,
+        "sc_delta": 0.002,
+        "acoustic_dev": 0.121,
+        "seg_cer": 0.474,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用于被误食进入器官的异物，有发生刮伤、割洞。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.815,
+      "end": 24.487,
+      "label": "mandarin",
+      "text": "玻璃球、橡皮擦、笔帽等等。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "sc_logprob": -0.0028,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "玻璃球、橡皮塔、笔帽等等。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.812,
+      "end": 27.186,
+      "label": "mandarin",
+      "text": "气管出现异物的症状，",
+      "score": 0.4544,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4878,
+        "sc_logprob": -0.4355,
+        "sc_delta": 0.0523,
+        "acoustic_dev": 0.679,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "器官出现异物的症状。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.467,
+      "end": 32.279,
+      "label": "mandarin",
+      "text": "进入气管的异物会引起剧烈的呛咳、憋气、",
+      "score": 0.1819,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1104,
+        "sc_logprob": -0.0803,
+        "sc_delta": 0.0301,
+        "acoustic_dev": 0.042,
+        "seg_cer": 0.765,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "仅有其管理义务，非因其剧烈的强可别起。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.279,
+      "end": 37.788,
+      "label": "mandarin",
+      "text": "呼吸困难，甚至是窒息。有时候经过阵发性咳嗽以后，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0131,
+        "sc_logprob": -0.0175,
+        "sc_delta": -0.0044,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呼吸困难，甚至是窒息。有时候经过阵发性咳嗽以后。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.788,
+      "end": 40.012,
+      "label": "mandarin",
+      "text": "异物可能会贴于气管壁，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9171,
+        "sc_logprob": -0.8747,
+        "sc_delta": 0.0424,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.7,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一无可能会天与地相比。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.142,
+      "end": 43.933,
+      "label": "mandarin",
+      "text": "或者是卡在支气管分支当中不动。",
+      "score": 0.1653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "sc_logprob": -0.0024,
+        "sc_delta": 0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "支/子",
+        "lexicon": "",
+        "text_free": "或者是卡在直气管分子当中不动。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.145,
+      "end": 47.586,
+      "label": "mandarin",
+      "text": "这个时候不适的症状会暂时缓解，",
+      "score": 0.5146,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6723,
+        "sc_logprob": -0.6216,
+        "sc_delta": 0.0507,
+        "acoustic_dev": 0.99,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个时候，不适的症状会暂时缓解。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.844,
+      "end": 51.573,
+      "label": "mandarin",
+      "text": "但是在活动以后，异物又会影响呼吸，",
+      "score": 0.2398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1486,
+        "sc_logprob": -0.124,
+        "sc_delta": 0.0246,
+        "acoustic_dev": 0.107,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "呼/复",
+        "lexicon": "",
+        "text_free": "但是在活动以后，义务又会影响复习。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.573,
+      "end": 54.188,
+      "label": "mandarin",
+      "text": "重新引起咳嗽或呼吸困难。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0006,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "重新引起咳嗽或呼吸困难。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 54.686,
+      "end": 58.335,
+      "label": "mandarin",
+      "text": "气管异物的诊治，如果出现呼吸困难、",
+      "score": 0.3014,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2299,
+        "sc_logprob": -0.1798,
+        "sc_delta": 0.0501,
+        "acoustic_dev": 0.244,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "诊/整",
+        "lexicon": "",
+        "text_free": "器官异物的整治，如果出现呼吸困难。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 58.47,
+      "end": 62.033,
+      "label": "mandarin",
+      "text": "口唇青紫等窒息缺氧表现，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "sc_logprob": -0.0024,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "口唇青紫等窒息缺氧表现。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.033,
+      "end": 66.03,
+      "label": "mandarin",
+      "text": "可以先采取海姆立克急救法或心肺复苏。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "sc_logprob": -0.0043,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以先采取海姆立克急救法或心肺复苏。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 66.201,
+      "end": 70.35,
+      "label": "mandarin",
+      "text": "缓解以后，家长应该及时带孩子去医院就诊，",
+      "score": 0.647,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7031,
+        "sc_logprob": -0.6873,
+        "sc_delta": 0.0158,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.278,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "返家以后，家长应该及时带八爷仔去医院就诊。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 70.552,
+      "end": 75.722,
+      "label": "mandarin",
+      "text": "以免延误治疗。提醒家长加强对幼儿的看护，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0854,
+        "sc_logprob": -0.0891,
+        "sc_delta": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以免延误治疗，提醒家长加强对幼儿的看护。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 75.825,
+      "end": 79.324,
+      "label": "mandarin",
+      "text": "及时纠正孩子的一些不良生活习惯。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "sc_logprob": -0.0015,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "及时纠正摆爷仔的一些不良生活习惯。"
+      }
+    }
+  ]
+}

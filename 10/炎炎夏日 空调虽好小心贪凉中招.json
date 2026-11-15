@@ -1,0 +1,450 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "炎炎夏日 空调虽好小心贪凉中招.wav",
+  "duration": 77.65,
+  "no_dialect": false,
+  "created_at": "2026-10-29T04:02:09",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.616,
+      "label": "mandarin",
+      "text": "夏意炎炎又到了空调发挥作用的时候了。",
+      "score": 0.2514,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1974,
+        "sc_logprob": -0.2362,
+        "sc_delta": -0.0388,
+        "acoustic_dev": 0.277,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下一眼眼，又到了空调发挥作用的时候了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.616,
+      "end": 5.64,
+      "label": "mandarin",
+      "text": "好多人啊，吹了空调之后，哎呦，",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0434,
+        "sc_logprob": -0.0453,
+        "sc_delta": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好多人啊，吹了空调之后，哎。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.12,
+      "end": 12.051,
+      "label": "mandarin",
+      "text": "又是头昏啦，鼻子又堵气喘不得气啦，甚至是还有关节酸痛的症状，",
+      "score": 0.0169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0522,
+        "sc_logprob": -0.0482,
+        "sc_delta": 0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "又是头昏啦，鼻子又堵起，喘不得气啦，甚至是还有关节酸痛的症状。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.23,
+      "end": 14.902,
+      "label": "mandarin",
+      "text": "甚至还有什么全身没得力气。",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0091,
+        "sc_logprob": -0.0117,
+        "sc_delta": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "甚至还有什么全身没得力气。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 14.904,
+      "end": 18.632,
+      "label": "mandarin",
+      "text": "我和你讲，这些都是空调病的表现。",
+      "score": 0.5296,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4932,
+        "sc_logprob": -0.515,
+        "sc_delta": -0.0218,
+        "acoustic_dev": 0.893,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我会你讲，这些啊都是空调病的表现。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 18.926,
+      "end": 22.78,
+      "label": "mandarin",
+      "text": "预防空调病有哪些注意事项？",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "sc_logprob": -0.0031,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "预防空调冰有哪些注意事项？"
+      }
+    },
+    {
+      "id": 7,
+      "start": 22.78,
+      "end": 24.76,
+      "label": "mandarin",
+      "text": "你了解没有呢？一、",
+      "score": 0.82,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5446,
+        "sc_logprob": -0.5529,
+        "sc_delta": -0.0082,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.714,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "你瞭解咩啦？"
+      }
+    },
+    {
+      "id": 8,
+      "start": 24.809,
+      "end": 29.517,
+      "label": "mandarin",
+      "text": "不管是太热还是太冷，在空调房里面都不要待太长的时间，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "sc_logprob": -0.0008,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不管是太热还是太冷，在空调房里面都不要待太长的时间。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 29.742,
+      "end": 32.75,
+      "label": "mandarin",
+      "text": "最好两个小时左右开窗换气一次，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0646,
+        "sc_logprob": -0.0745,
+        "sc_delta": -0.0099,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最好两个小时左右开窗换气一次。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 32.912,
+      "end": 35.24,
+      "label": "mandarin",
+      "text": "让新鲜的空气流通。二、",
+      "score": 0.4574,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.44,
+        "sc_logprob": -0.5913,
+        "sc_delta": -0.1514,
+        "acoustic_dev": 0.782,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让新鲜的空气流通。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 35.512,
+      "end": 38.134,
+      "label": "mandarin",
+      "text": "剧烈运动或者是大量出汗以后，",
+      "score": 0.1541,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2069,
+        "sc_logprob": -0.3092,
+        "sc_delta": -0.1024,
+        "acoustic_dev": 0.296,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "剧烈运动，或者是大量出汗以后。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 38.134,
+      "end": 40.244,
+      "label": "mandarin",
+      "text": "不要马上进入空调房间，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不要马上进入空调房间。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 40.434,
+      "end": 43.087,
+      "label": "mandarin",
+      "text": "免得张开的毛孔骤然收缩，",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8468,
+        "sc_logprob": -0.9177,
+        "sc_delta": -0.0709,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "收/搜 骤/走",
+        "lexicon": "",
+        "text_free": "面得张开的毛孔，走眼搜鼠。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 43.087,
+      "end": 45.809,
+      "label": "mandarin",
+      "text": "从而受凉导致生病。三、",
+      "score": 0.2413,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1936,
+        "sc_logprob": -0.1858,
+        "sc_delta": 0.0078,
+        "acoustic_dev": 0.269,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从而数量导致生病。三"
+      }
+    },
+    {
+      "id": 15,
+      "start": 46.071,
+      "end": 48.529,
+      "label": "mandarin",
+      "text": "空调温度不要设置的太低，",
+      "score": 0.2827,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2872,
+        "sc_logprob": -0.2478,
+        "sc_delta": 0.0393,
+        "acoustic_dev": 0.464,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "空调温度不要设置得太低。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 48.73,
+      "end": 55.264,
+      "label": "mandarin",
+      "text": "一般来讲，建议在白天气温比较高的时候，温度可以设置在二十六度左右；",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一般来讲，建议在白天气温比较高的时候，温度可以设置在二十六度左右。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 55.264,
+      "end": 61.451,
+      "label": "mandarin",
+      "text": "夜晚气温比较低的时候，可以适当的调高到二十七或者是二十八度。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0005,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夜晚气温比较低的时候，可以适当的调高到二十七或者是二十八度。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 61.451,
+      "end": 64.714,
+      "label": "mandarin",
+      "text": "四、定期清理空调，消毒房间，",
+      "score": 0.1791,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.23,
+        "sc_logprob": -0.2484,
+        "sc_delta": -0.0185,
+        "acoustic_dev": 0.344,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "四，定期清理空调，消毒房间。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 64.95,
+      "end": 69.6,
+      "label": "mandarin",
+      "text": "帮助杀灭空调装置当中或空气当中的微生物。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "sc_logprob": -0.0029,
+        "sc_delta": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "帮助杀灭空调装置当中或空气当中的微生物。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 69.68,
+      "end": 72.707,
+      "label": "mandarin",
+      "text": "五、严禁在空调房里抽烟，",
+      "score": 0.7114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7826,
+        "sc_logprob": -0.7745,
+        "sc_delta": 0.0081,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "禁/睛",
+        "lexicon": "",
+        "text_free": "五眼睛在空调房里抽烟。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 72.933,
+      "end": 77.65,
+      "label": "mandarin",
+      "text": "同时每天坚持适量的户外运动，提高免疫力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，每天坚持适量的户外运动，提高免疫力。"
+      }
+    }
+  ]
+}

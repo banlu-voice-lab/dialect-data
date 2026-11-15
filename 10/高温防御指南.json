@@ -1,0 +1,429 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "高温防御指南.wav",
+  "duration": 74.882,
+  "no_dialect": false,
+  "created_at": "2026-10-29T05:30:09",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.066,
+      "label": "mandarin",
+      "text": "气温高，湿度大，时不时啊还下点雷阵雨，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "sc_logprob": -0.0013,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "气温高，湿度大，时不时啊，还下点雷阵雨。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.15,
+      "end": 6.852,
+      "label": "mandarin",
+      "text": "这就是现在天气的特点。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0002,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这就是现在天气的特点。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.129,
+      "end": 11.299,
+      "label": "mandarin",
+      "text": "高温天气在室外工作，安全是最为重要的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "sc_logprob": -0.0044,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高温天气在室外工作，安全是最为重要的。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.301,
+      "end": 15.574,
+      "label": "mandarin",
+      "text": "所以今天我们就送大家一份高温防御指南。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0007,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以今天我们就送大家一份高温防御指南。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.716,
+      "end": 21.184,
+      "label": "mandarin",
+      "text": "高温呢是指最高气温达到了三十五摄氏度以上的天气现象。",
+      "score": 0.0549,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0075,
+        "sc_logprob": -0.0075,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高温呐，是指最高气温达到了三十五、四十度以上的天气现象。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.324,
+      "end": 24.487,
+      "label": "mandarin",
+      "text": "持续高温天气呢会给人呢感觉到不舒服，",
+      "score": 0.4081,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1553,
+        "sc_logprob": -0.1122,
+        "sc_delta": 0.0431,
+        "acoustic_dev": 0.489,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "持/此",
+        "lexicon": "",
+        "text_free": "此处高温天气呢，会给人呢感觉到不舒服。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.487,
+      "end": 26.619,
+      "label": "mandarin",
+      "text": "工作效率降低，疾病频发，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0141,
+        "sc_logprob": -0.0125,
+        "sc_delta": 0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "工作效率降低，疾病频发。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 26.797,
+      "end": 30.296,
+      "label": "mandarin",
+      "text": "所以有效的防暑措施是绝对少不得的。",
+      "score": 0.0165,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0409,
+        "sc_logprob": -0.0383,
+        "sc_delta": 0.0026,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以，有效的防暑措施是绝对少不得的。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.738,
+      "end": 34.944,
+      "label": "mandarin",
+      "text": "盛夏时候呢气温一般都会接近甚至是超过三十七摄氏度，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0328,
+        "sc_logprob": -0.0329,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "盛夏时候呢，气温一般都会接近，甚至是超过三十七摄氏度。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.2,
+      "end": 40.337,
+      "label": "mandarin",
+      "text": "这个时候皮肤呢不但不能够散热，反而呢从环境当中吸收热量，",
+      "score": 0.0357,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0333,
+        "sc_logprob": -0.0356,
+        "sc_delta": -0.0023,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个时候皮肤呢，不但不能够散液，反而呢从环境当中吸收液量。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 40.337,
+      "end": 43.882,
+      "label": "mandarin",
+      "text": "给打赤膊只会感觉更热。想要穿得凉爽，",
+      "score": 0.2141,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1222,
+        "sc_logprob": -0.1403,
+        "sc_delta": -0.0181,
+        "acoustic_dev": 0.357,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给打赤膊啊，只会感觉更热。想要穿得凉爽。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 43.882,
+      "end": 46.769,
+      "label": "mandarin",
+      "text": "就必须考虑到衣服里面有吸风、",
+      "score": 0.1054,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0668,
+        "sc_logprob": -0.0726,
+        "sc_delta": -0.0059,
+        "acoustic_dev": 0.135,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就必须考虑到衣服里面有西风。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 46.769,
+      "end": 50.2,
+      "label": "mandarin",
+      "text": "鼓风的作用，所以夏天衣服呢要穿得宽松点。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0179,
+        "sc_logprob": -0.0175,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "补缝的作用，所以夏天衣服呢，要穿得宽松点。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 50.485,
+      "end": 53.0,
+      "label": "mandarin",
+      "text": "牛仔裤、紧身衣则就会受限了。",
+      "score": 0.1894,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0508,
+        "sc_logprob": -0.0556,
+        "sc_delta": -0.0048,
+        "acoustic_dev": 0.071,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "牛仔裤、紧身衣，这些就会收钱了。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 53.185,
+      "end": 56.399,
+      "label": "mandarin",
+      "text": "淡盐水、绿豆汤是这个季节最好的东西。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0219,
+        "sc_logprob": -0.0211,
+        "sc_delta": 0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "蛋盐水、绿豆汤是这个季节最好的东西。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 56.703,
+      "end": 59.978,
+      "label": "mandarin",
+      "text": "冰棒和冷饮呢尽量呢可以少吃一点点，",
+      "score": 0.1029,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0825,
+        "sc_logprob": -0.0697,
+        "sc_delta": 0.0128,
+        "acoustic_dev": 0.198,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冰棒和冷饮呢，尽量呢可以少吃一点点。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 59.978,
+      "end": 65.232,
+      "label": "mandarin",
+      "text": "但是呢千万莫去吃太多。平时呢呢也要注意午休，保证睡眠的时间，",
+      "score": 0.3104,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.166,
+        "sc_logprob": -0.1541,
+        "sc_delta": 0.0119,
+        "acoustic_dev": 0.532,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是呢，千万莫克吃太多。平时呢，也要注意午休，保证睡眠的时间。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 65.284,
+      "end": 67.82,
+      "label": "mandarin",
+      "text": "还应该尽量的减少户外活动，",
+      "score": 0.0391,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0518,
+        "sc_logprob": -0.0425,
+        "sc_delta": 0.0093,
+        "acoustic_dev": 0.075,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还应该尽量的减少户外活动。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 67.82,
+      "end": 71.552,
+      "label": "mandarin",
+      "text": "特别是在早上十点到下午四点这期间，",
+      "score": 0.1286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "sc_logprob": -0.0034,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "特别是在早上四点到下午四点这期间。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 71.552,
+      "end": 74.882,
+      "label": "mandarin",
+      "text": "如果外出啊一定要注意防暑防晒。",
+      "score": 0.1916,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1251,
+        "sc_logprob": -0.1264,
+        "sc_delta": -0.0013,
+        "acoustic_dev": 0.368,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果外出啊，一定要注意防暑防晒。"
+      }
+    }
+  ]
+}
