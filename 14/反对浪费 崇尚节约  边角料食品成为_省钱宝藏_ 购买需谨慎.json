@@ -1,0 +1,513 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "反对浪费 崇尚节约  边角料食品成为_省钱宝藏_ 购买需谨慎.wav",
+  "duration": 101.086,
+  "no_dialect": false,
+  "created_at": "2026-10-30T11:05:20",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.107,
+      "end": 6.529,
+      "label": "mandarin",
+      "text": "近年来，反对浪费、崇尚节约的消费理念开始在年轻人当中流行起来了。",
+      "score": 0.0158,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "sc_logprob": -0.003,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年来，反对浪费、崇尚节约的消费理念，开始在年轻人当中流行起来了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.749,
+      "end": 10.715,
+      "label": "mandarin",
+      "text": "价格便宜的边角料食品进入了大家的视野，",
+      "score": 0.0708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1026,
+        "sc_logprob": -0.0979,
+        "sc_delta": 0.0047,
+        "acoustic_dev": 0.087,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "价格便宜的边角料饰品进入了大家的视野。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.839,
+      "end": 16.436,
+      "label": "mandarin",
+      "text": "成为了一些人的省钱保障，也成为了不少电商平台的热销品。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0331,
+        "sc_logprob": -0.0313,
+        "sc_delta": 0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为了一些人的省钱保障，也成为了不少电商平台的热销品。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.784,
+      "end": 20.207,
+      "label": "mandarin",
+      "text": "蛋糕边角料口味和正常的蛋糕一样的，",
+      "score": 0.2654,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2609,
+        "sc_logprob": -0.2512,
+        "sc_delta": 0.0098,
+        "acoustic_dev": 0.4,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "蛋糕变个料口味，和正常的蛋糕一样的。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.401,
+      "end": 23.654,
+      "label": "guilin",
+      "text": "边角料油铺虽然这个形状不好看，",
+      "score": 0.5349,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4517,
+        "sc_logprob": -0.3992,
+        "sc_delta": 0.0525,
+        "acoustic_dev": 0.777,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "边个了，玉璞虽然这个形状不好看。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.654,
+      "end": 26.687,
+      "label": "guilin",
+      "text": "但是有着和正常油铺一样的口感。",
+      "score": 0.618,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8944,
+        "sc_logprob": -1.7326,
+        "sc_delta": 0.1618,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是啊，有着和正常鱼不一样的口感。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.883,
+      "end": 32.222,
+      "label": "mandarin",
+      "text": "下面呢，我就来和大家介绍一下有关边角料食品的问题。",
+      "score": 0.0398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "sc_logprob": -0.0079,
+        "sc_delta": 0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下面呢，我就来为大家介绍一下有关边过料食品的问题。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.9,
+      "end": 40.326,
+      "label": "mandarin",
+      "text": "边角料食品一般指用制作食品时切割、剪裁下来的零碎材料制作成的食品，",
+      "score": 0.0147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0229,
+        "sc_logprob": -0.0236,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "边过料食品一般指用制作食品时切割、剪裁下来的零碎材料制作成的食品。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 40.669,
+      "end": 44.72,
+      "label": "mandarin",
+      "text": "商家将这些边角料重新制作成食品出售，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0216,
+        "sc_logprob": -0.0224,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "商家将这些边角料重新制作成食品出售。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.954,
+      "end": 48.116,
+      "label": "guilin",
+      "text": "不仅可以有效减少损失、降低成本，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1639,
+        "sc_logprob": -1.14,
+        "sc_delta": 0.0239,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅可以有效减少损失，降低成本。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.383,
+      "end": 50.629,
+      "label": "mandarin",
+      "text": "避免食品资源的浪费，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0199,
+        "sc_logprob": -0.0173,
+        "sc_delta": 0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "避免食品资源的浪费。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.865,
+      "end": 56.845,
+      "label": "mandarin",
+      "text": "而且对消费者来讲，购买边角料零食不失为一种省钱的好办法。",
+      "score": 0.1867,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0797,
+        "sc_logprob": -0.0922,
+        "sc_delta": -0.0125,
+        "acoustic_dev": 0.042,
+        "seg_cer": 0.269,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "食/四",
+        "lexicon": "",
+        "text_free": "而且，对消费者来讲，购买苹果幺零四不是唯一一种省钱的好办法。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.09,
+      "end": 60.004,
+      "label": "mandarin",
+      "text": "但是边角料食品也存在着一些问题：",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0371,
+        "sc_logprob": -0.037,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是，变过了食品也存在着一些问题。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 60.171,
+      "end": 64.1,
+      "label": "mandarin",
+      "text": "一、边角料食品可能存在三无产品的问题；",
+      "score": 0.3751,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2925,
+        "sc_logprob": -0.2995,
+        "sc_delta": -0.0071,
+        "acoustic_dev": 0.463,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一，变过了食品可能存在生物产品的问题。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.221,
+      "end": 70.309,
+      "label": "mandarin",
+      "text": "二、边角料食品价格和正常食品价格相差不大，甚至高了蛮多。",
+      "score": 0.0731,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二，变过了食品价格，或正常食品价格相差不大，甚至高了蛮多。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 70.502,
+      "end": 73.849,
+      "label": "mandarin",
+      "text": "因此，在选购边角料食品的同时，",
+      "score": 0.3878,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3672,
+        "sc_logprob": -0.3618,
+        "sc_delta": 0.0054,
+        "acoustic_dev": 0.61,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因此，在选购边过料饰品的同时。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 73.985,
+      "end": 78.284,
+      "label": "mandarin",
+      "text": "一定要注意：第一，不要盲目跟风购买网红产品；",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "sc_logprob": -0.0091,
+        "sc_delta": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一定要注意：第一，不要盲目跟风购买网红产品。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 78.446,
+      "end": 83.804,
+      "label": "mandarin",
+      "text": "第二，在购买边角料食品的时候，应该要注意产品标签信息；",
+      "score": 0.1136,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1133,
+        "sc_logprob": -0.109,
+        "sc_delta": 0.0043,
+        "acoustic_dev": 0.109,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第二，在购买变光料饰品的时候，应该要注意产品标签信息。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 84.031,
+      "end": 86.557,
+      "label": "guilin",
+      "text": "第三，对比价格；第四，",
+      "score": 0.2257,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2779,
+        "sc_logprob": -0.2327,
+        "sc_delta": 0.0451,
+        "acoustic_dev": 0.434,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第三，对比价格。第四。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 86.713,
+      "end": 89.627,
+      "label": "mandarin",
+      "text": "针对商家出售的不合格食品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0046,
+        "sc_logprob": -0.0044,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "针对商家出售的不合格食品。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 89.837,
+      "end": 92.856,
+      "label": "mandarin",
+      "text": "消费者应该严格举报，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "消费者应该严格举报。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 92.856,
+      "end": 95.519,
+      "label": "mandarin",
+      "text": "以维护自身的合法权益。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0083,
+        "sc_logprob": -0.0193,
+        "sc_delta": -0.011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以维护自身的合法权益。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 95.85,
+      "end": 99.67,
+      "label": "mandarin",
+      "text": "大家在购买边角料食品的时候，一定要马亮眼睛，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5642,
+        "sc_logprob": -0.5928,
+        "sc_delta": -0.0286,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家在购买变过了饰品的时候，一定要麻亮眼睛。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 99.67,
+      "end": 101.086,
+      "label": "mandarin",
+      "text": "认真甄别。",
+      "score": 0.7743,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5642,
+        "sc_logprob": -0.6387,
+        "sc_delta": -0.0745,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "认真鉴别。"
+      }
+    }
+  ]
+}

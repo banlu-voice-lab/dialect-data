@@ -1,0 +1,261 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_反对浪费 崇尚节约_剩饭料理__脆米饼.wav",
+  "duration": 49.557,
+  "no_dialect": false,
+  "created_at": "2026-10-30T09:01:03",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.258,
+      "end": 5.213,
+      "label": "mandarin",
+      "text": "反对浪费，崇尚节约，节约粮食呢，一直是我们的传统美德啊！",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.027,
+        "sc_logprob": -0.0273,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "反对浪费，崇尚节约。节约粮食呢，一直是我们的传统美德啊。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.213,
+      "end": 9.842,
+      "label": "mandarin",
+      "text": "希望大家呢，可以一起来遵循，并且保持代代相传。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0258,
+        "sc_logprob": -0.0233,
+        "sc_delta": 0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让大家呢可以一起来遵循，并且保持代代相传。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.169,
+      "end": 14.225,
+      "label": "mandarin",
+      "text": "那大家都会讲啊，吃不完呢米饭丢了去又太可惜了，",
+      "score": 0.523,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2876,
+        "sc_logprob": -0.2844,
+        "sc_delta": 0.0033,
+        "acoustic_dev": 0.964,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那大家都会讲啊：“吃不完的米饭丢了去，又太可惜了。”"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.29,
+      "end": 19.019,
+      "label": "mandarin",
+      "text": "那啷子搞呢？今天呢，就和大家分享一个简单的剩饭料理。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "sc_logprob": -0.005,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那啷子搞呢？今天呢，就和大家分享一个简单的剩饭料理。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.019,
+      "end": 22.601,
+      "label": "mandarin",
+      "text": "如果屋里面有孩子的，我们可可以带他一起来做。",
+      "score": 0.6743,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.415,
+        "sc_logprob": -0.4095,
+        "sc_delta": 0.0055,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "屋里",
+        "text_free": "如果屋面有爬山的，我们可以带他一起来走。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.594,
+      "end": 31.31,
+      "label": "mandarin",
+      "text": "没吃完的剩饭呢，我们把加点料子，",
+      "score": 0.0152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0424,
+        "sc_logprob": -0.0449,
+        "sc_delta": -0.0025,
+        "acoustic_dev": 0.029,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "没吃完的剩饭呢，我们把加点料子。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.31,
+      "end": 34.17,
+      "label": "mandarin",
+      "text": "加点海苔碎、芝麻、花生碎，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0164,
+        "sc_logprob": -0.0227,
+        "sc_delta": -0.0063,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加点海苔碎、芝麻、花生碎。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.17,
+      "end": 37.0,
+      "label": "mandarin",
+      "text": "用手呢把它拌均匀，搓圆压扁，",
+      "score": 0.0265,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0481,
+        "sc_logprob": -0.0546,
+        "sc_delta": -0.0065,
+        "acoustic_dev": 0.051,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用手呢，把它拌均匀，搓圆压扁。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.235,
+      "end": 41.922,
+      "label": "mandarin",
+      "text": "平底锅放点点油，小火呢把这个米饼煎起脆脆的，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0209,
+        "sc_logprob": -0.0245,
+        "sc_delta": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平底锅放点点油，小火呢，把这个米饼煎起，脆脆的。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.922,
+      "end": 44.302,
+      "label": "mandarin",
+      "text": "再撒点坚果，又香又脆。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "sc_logprob": -0.0012,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "再撒点坚果，又香又脆。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.302,
+      "end": 47.517,
+      "label": "guilin",
+      "text": "我们呢也不用担心这米饭吃不完浪费了，",
+      "score": 0.3303,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2014,
+        "sc_logprob": -0.1855,
+        "sc_delta": 0.0159,
+        "acoustic_dev": 0.635,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们呢，也不用担心这米饭吃不完浪费了。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.517,
+      "end": 49.557,
+      "label": "mandarin",
+      "text": "我们一起来做光盘行动。",
+      "score": 0.7514,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2982,
+        "sc_logprob": -0.3019,
+        "sc_delta": -0.0037,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一起来做光盘行动。"
+      }
+    }
+  ]
+}

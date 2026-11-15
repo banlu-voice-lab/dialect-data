@@ -1,0 +1,513 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_健康问答_居家隔离期间怎么吃_.wav",
+  "duration": 87.819,
+  "no_dialect": false,
+  "created_at": "2026-10-30T08:38:50",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.161,
+      "end": 4.061,
+      "label": "mandarin",
+      "text": "在这个疫情期间啊，好多人在物流呢都会备一些常用的药，",
+      "score": 0.0875,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.06,
+        "sc_logprob": -0.055,
+        "sc_delta": 0.005,
+        "acoustic_dev": 0.168,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在这个疫情期间啊，好多人在物流呢，都会备一些常用的药。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.061,
+      "end": 8.096,
+      "label": "mandarin",
+      "text": "甚至呢买了点钙片啊、维生素C来补充点营养。",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0517,
+        "sc_logprob": -0.0455,
+        "sc_delta": 0.0062,
+        "acoustic_dev": 0.135,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "甚至呢，买了点钙片啊，维生素C来补充点营养。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.14,
+      "end": 12.859,
+      "label": "mandarin",
+      "text": "但是啷子来提高免疫力，或者讲一旦你感染了这个新冠病毒之后，",
+      "score": 0.0033,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0195,
+        "sc_logprob": -0.0191,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是，啷子来提高免疫力？或者讲，一旦你感染了这个新冠病毒之后。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.859,
+      "end": 16.38,
+      "label": "mandarin",
+      "text": "居家隔离期间要吃点什么东西才合适呢？",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "sc_logprob": -0.0024,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "居家隔离期间要吃点什么东西才合适呢？"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.38,
+      "end": 20.5,
+      "label": "mandarin",
+      "text": "下面呢，我们一起去聊点子。首先，要补充蛋白质，",
+      "score": 0.3652,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1472,
+        "sc_logprob": -0.1427,
+        "sc_delta": 0.0045,
+        "acoustic_dev": 0.517,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下面呢，我们去聊个啥子。首先要补充蛋白质。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.5,
+      "end": 22.936,
+      "label": "guilin",
+      "text": "每餐呢都要摄取优质的蛋白质，",
+      "score": 0.5552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6669,
+        "sc_logprob": -0.648,
+        "sc_delta": 0.019,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每一餐呢，都要摄取优质的蛋白质。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 22.936,
+      "end": 25.713,
+      "label": "mandarin",
+      "text": "对于修复细胞和组织尤其重要。",
+      "score": 0.0873,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.043,
+        "sc_logprob": -0.0703,
+        "sc_delta": -0.0273,
+        "acoustic_dev": 0.1,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于修复细胞或组织尤其重要。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 25.883,
+      "end": 28.448,
+      "label": "mandarin",
+      "text": "可以吃鱼、肉、蛋、豆、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "sc_logprob": -0.0061,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以吃鱼、肉、蛋、豆。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 28.448,
+      "end": 35.594,
+      "label": "mandarin",
+      "text": "奶之类，补充维生素B，可以维持身体正常的生理代谢以及上呼吸道黏膜的湿润度，",
+      "score": 0.1372,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0772,
+        "sc_logprob": -0.0716,
+        "sc_delta": 0.0056,
+        "acoustic_dev": 0.237,
+        "seg_cer": 0.03,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "奶类补充维生素 B，可以维持身体正常的生理代谢，以及上呼吸道黏膜的湿润度。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.653,
+      "end": 38.105,
+      "label": "mandarin",
+      "text": "有助于确诊之后恢复身体。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0115,
+        "sc_logprob": -0.0126,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有助于确诊之后恢复身体。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 38.105,
+      "end": 40.775,
+      "label": "mandarin",
+      "text": "也可以吃点橙子、柑子之类的水果，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "sc_logprob": -0.0018,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也可以吃点橙子、柑子之类的水果。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 40.775,
+      "end": 46.78,
+      "label": "mandarin",
+      "text": "补充维生素C，对于白细胞的功能有帮助，可以帮助抵御病菌，强化免疫系统。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "sc_logprob": -0.0018,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "补充维生素 C 对于白细胞的功能有帮助，可以帮助抵御病菌，强化免疫系统。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 46.872,
+      "end": 49.204,
+      "label": "mandarin",
+      "text": "确诊之后呢，可以吃点橘子、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0163,
+        "sc_logprob": -0.0172,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "确诊之后呢，可以吃点橘子。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 49.204,
+      "end": 51.733,
+      "label": "mandarin",
+      "text": "枣子、番茄、柠檬这些。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "sc_logprob": -0.0051,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "枣子、番茄、柠檬这些。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 51.79,
+      "end": 57.911,
+      "label": "mandarin",
+      "text": "补充维生素D，对于入侵性的细菌感染具有先天免疫防御的关键作用，",
+      "score": 0.0552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0445,
+        "sc_logprob": -0.0371,
+        "sc_delta": 0.0074,
+        "acoustic_dev": 0.106,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "补充维生素D，对于入侵性的细菌感染，具有先天免疫防御的关键作用。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 58.043,
+      "end": 63.818,
+      "label": "mandarin",
+      "text": "具有活化免疫细胞的功能，可以通过摄取乳制品或深海鱼类来补充。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0012,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "具有活化免疫细胞的功能，可以通过摄取乳制品或深海鱼类来补充。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 64.18,
+      "end": 69.18,
+      "label": "mandarin",
+      "text": "补充欧米伽三脂肪酸，可以帮助身体减缓发炎的状况，",
+      "score": 0.0599,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0367,
+        "sc_logprob": -0.0352,
+        "sc_delta": 0.0015,
+        "acoustic_dev": 0.075,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "补充欧米伽三脂肪酸，可以协助身体减缓发炎的状况。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 69.18,
+      "end": 72.453,
+      "label": "mandarin",
+      "text": "降低氧化的压力，还可以降低脂肪肝，",
+      "score": 0.0567,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0305,
+        "sc_logprob": -0.0243,
+        "sc_delta": 0.0062,
+        "acoustic_dev": 0.05,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "降低氧化的压力，还可以降低脂肪感。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 72.453,
+      "end": 75.534,
+      "label": "mandarin",
+      "text": "降低体质。也可以通过吃亚麻籽油、",
+      "score": 0.0252,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.03,
+        "sc_logprob": -0.033,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.048,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "降低体质，也可以通过吃亚麻籽油。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 75.534,
+      "end": 78.092,
+      "label": "mandarin",
+      "text": "紫苏油、鲑鱼、鱼油、",
+      "score": 0.2522,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1392,
+        "sc_logprob": -0.1434,
+        "sc_delta": -0.0042,
+        "acoustic_dev": 0.485,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "紫苏油、鲑鱼鱼油。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 78.092,
+      "end": 80.662,
+      "label": "mandarin",
+      "text": "核桃这些补充相应的能量。",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0106,
+        "sc_logprob": -0.0092,
+        "sc_delta": 0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "核桃则补充相应的能量。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 80.776,
+      "end": 83.957,
+      "label": "mandarin",
+      "text": "如果没有足够的热量，身体呢恢复的就会更慢。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "sc_logprob": -0.0031,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果没有足够的热量，身体呢，恢复的就会更慢。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 84.148,
+      "end": 86.412,
+      "label": "mandarin",
+      "text": "也可以吃点红薯，吃点糙米饭，",
+      "score": 0.1381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "sc_logprob": -0.0029,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "糙/炒",
+        "lexicon": "",
+        "text_free": "也可以吃点红薯，吃点炒米饭。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 86.435,
+      "end": 87.819,
+      "label": "mandarin",
+      "text": "吃点土豆这些东西。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0004,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吃点土豆这些东西。"
+      }
+    }
+  ]
+}

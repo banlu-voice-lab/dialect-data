@@ -1,0 +1,492 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "冬季静电扰人_如何防范_.wav",
+  "duration": 86.195,
+  "no_dialect": false,
+  "created_at": "2026-10-30T11:00:37",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.119,
+      "end": 4.592,
+      "label": "mandarin",
+      "text": "进入冬季以来，好多人都会被这个静电困扰。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "sc_logprob": -0.0038,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进入冬季以来，好多人都会被这个静电困扰。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.592,
+      "end": 6.779,
+      "label": "mandarin",
+      "text": "脱衣服的时候啊，噼里啪啦的；",
+      "score": 0.0495,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0104,
+        "sc_logprob": -0.0121,
+        "sc_delta": -0.0017,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "脱衣服的时候啊，噼啪啦的。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.958,
+      "end": 11.507,
+      "label": "mandarin",
+      "text": "和别个肢体接触的时候呢，也是“呼”碰一下就触电。",
+      "score": 0.2361,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1075,
+        "sc_logprob": -0.113,
+        "sc_delta": -0.0056,
+        "acoustic_dev": 0.41,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "和别个肢体接触的时候呢，也是哦，碰一下就触电。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.797,
+      "end": 14.679,
+      "label": "mandarin",
+      "text": "那做什么冬季容易产生静电？",
+      "score": 0.2476,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0873,
+        "sc_logprob": -0.0903,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.33,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那做什么冬季用衣产生静电？"
+      }
+    },
+    {
+      "id": 5,
+      "start": 14.679,
+      "end": 18.207,
+      "label": "mandarin",
+      "text": "这个静电有什么好的解决方法没有呢？",
+      "score": 0.0751,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0411,
+        "sc_logprob": -0.0328,
+        "sc_delta": 0.0083,
+        "acoustic_dev": 0.144,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个静电有什么好的解决方法没有呢？"
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.039,
+      "end": 23.501,
+      "label": "mandarin",
+      "text": "生活当中，静电多以接触性静电为主，",
+      "score": 0.1219,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0049,
+        "sc_logprob": -0.0057,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "生活当中，景点多以接触性景点为主。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 23.501,
+      "end": 27.315,
+      "label": "mandarin",
+      "text": "就是那些不带电物体接触带有静电物体时候，",
+      "score": 0.541,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2419,
+        "sc_logprob": -0.2652,
+        "sc_delta": -0.0233,
+        "acoustic_dev": 0.948,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是那些不带电物体接触，带有静电物体受。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.315,
+      "end": 30.995,
+      "label": "mandarin",
+      "text": "电荷从高电势处移动到低电势处，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0003,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "电荷从高电势处移动到低电势处。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.995,
+      "end": 33.804,
+      "label": "mandarin",
+      "text": "就像水往低处流一样。于是呢，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "sc_logprob": -0.0018,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就像水往低处流一样，于是呢。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 33.804,
+      "end": 38.698,
+      "label": "mandarin",
+      "text": "不带电的物体就产生了电。空气当中啊，本来就充满了电荷，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "sc_logprob": -0.0023,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不带电的物体就产生了电，空气当中啊，本来就充满了电荷。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 38.725,
+      "end": 41.964,
+      "label": "mandarin",
+      "text": "而冬季空气比较干燥，电荷不易流通，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "sc_logprob": -0.0028,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而冬季空气比较干燥，电荷不易流通。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 42.076,
+      "end": 44.413,
+      "label": "mandarin",
+      "text": "导致空气当中电荷密度大。",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0008,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "保持空气当中电荷密度大。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 44.413,
+      "end": 47.02,
+      "label": "mandarin",
+      "text": "一旦有摩擦呢，就容易产生静电。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一旦有摩擦呢，就容易产生静电。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 47.253,
+      "end": 50.22,
+      "label": "mandarin",
+      "text": "那静电有什么好解决的办法没有呢？首先，",
+      "score": 0.0318,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "sc_logprob": -0.0082,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那静电有什么好解决的办法没有的？首先。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 50.22,
+      "end": 54.46,
+      "label": "mandarin",
+      "text": "室内一定要保持一定的湿度，除了经常通风换气之外，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "sc_logprob": -0.0028,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "室内一定要保持一定的湿度，除了经常通风换气之外。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 54.46,
+      "end": 56.983,
+      "label": "mandarin",
+      "text": "要勤拖地、勤洒水，或者呢，",
+      "score": 0.2629,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0393,
+        "sc_logprob": -0.0352,
+        "sc_delta": 0.0041,
+        "acoustic_dev": 0.137,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "勤/清 勤/清",
+        "lexicon": "",
+        "text_free": "要清拖地，清洒水，或者呢？"
+      }
+    },
+    {
+      "id": 17,
+      "start": 56.983,
+      "end": 61.553,
+      "label": "mandarin",
+      "text": "放点花花草草。尽可能避免使用化纤类的地毯、",
+      "score": 0.3798,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1413,
+        "sc_logprob": -0.151,
+        "sc_delta": -0.0098,
+        "acoustic_dev": 0.545,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "放点花花草草，尽可能避免使用花钱卖的地摊。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 61.553,
+      "end": 66.068,
+      "label": "mandarin",
+      "text": "窗帘和塑料质地的物品，也尽量避免穿化纤类的衣服。",
+      "score": 0.0992,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0127,
+        "sc_logprob": -0.0131,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "床垫和塑料质地的饰品，也尽量避免穿化纤味的衣服。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 66.276,
+      "end": 69.558,
+      "label": "mandarin",
+      "text": "洗衣服时候呢，可以使用防静电的洗涤剂，",
+      "score": 0.4018,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1464,
+        "sc_logprob": -0.1586,
+        "sc_delta": -0.0121,
+        "acoustic_dev": 0.566,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "洗衣服手呢，可以使用防静电的洗臂机。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 69.558,
+      "end": 73.554,
+      "label": "mandarin",
+      "text": "使用保湿性能比较好的护肤品，以保证皮肤的水分。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "sc_logprob": -0.0007,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "使用保湿性能比较好的护肤品，以保证皮肤的水分。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 73.554,
+      "end": 79.87,
+      "label": "mandarin",
+      "text": "勤洗澡、勤换衣服，也能够有效的消除人体表面聚集的电荷和带电的尘埃。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "sc_logprob": -0.0021,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "勤洗澡、勤翻衣服，也能够有效地消除人体表面聚集的电荷和带电的尘埃。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 80.135,
+      "end": 83.665,
+      "label": "mandarin",
+      "text": "在摸门把手和水龙头的前呢，先拿手去摸子墙，",
+      "score": 0.2772,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1266,
+        "sc_logprob": -0.12,
+        "sc_delta": 0.0066,
+        "acoustic_dev": 0.487,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在摸门把手和水龙头的前呢，先拿手去摸下子墙。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 83.793,
+      "end": 86.195,
+      "label": "mandarin",
+      "text": "把体内的静电先把它放出去。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "sc_logprob": -0.0012,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把体内的静电，先把它放出去。"
+      }
+    }
+  ]
+}

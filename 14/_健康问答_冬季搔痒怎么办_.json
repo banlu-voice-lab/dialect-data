@@ -1,0 +1,471 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_健康问答_冬季搔痒怎么办_.wav",
+  "duration": 88.255,
+  "no_dialect": false,
+  "created_at": "2026-10-30T08:12:54",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.328,
+      "end": 6.852,
+      "label": "mandarin",
+      "text": "现在是冬天嘛，冬天呢就特别的干燥，好多人家都会觉得一身都痒，到处个抠，到处个抓，",
+      "score": 0.0542,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0706,
+        "sc_logprob": -0.0629,
+        "sc_delta": 0.0077,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.057,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在是冬天嘛，冬天呢就特别的干燥，好多人呢都会觉得啊，一身都痒，到处个抠，到处个抓。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.903,
+      "end": 10.696,
+      "label": "mandarin",
+      "text": "尤其是老人家养的时候呢，甚至呢会影响他睡眠，",
+      "score": 0.0467,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0624,
+        "sc_logprob": -0.0574,
+        "sc_delta": 0.005,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "尤其是老人家养的时候呢，甚至呢会影响到睡眠。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.696,
+      "end": 13.301,
+      "label": "mandarin",
+      "text": "啷子搞呢？今天我们几个聊这样子。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0473,
+        "sc_logprob": -1.119,
+        "sc_delta": -0.0717,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，老师讲的，今天啊，我们去聊杆子。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.854,
+      "end": 16.286,
+      "label": "mandarin",
+      "text": "一饮食宜清淡，",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1599,
+        "sc_logprob": -2.1577,
+        "sc_delta": 0.0021,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "饮/影",
+        "lexicon": "",
+        "text_free": "一影视一清单。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.481,
+      "end": 18.929,
+      "label": "mandarin",
+      "text": "多吃新鲜水果蔬菜，",
+      "score": 0.0005,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0171,
+        "sc_logprob": -0.0197,
+        "sc_delta": -0.0026,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多吃新鲜水果蔬菜。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 18.929,
+      "end": 22.687,
+      "label": "mandarin",
+      "text": "不吃辣椒、葱、姜、蒜等辛辣食物。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0008,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不吃辣椒、葱、姜、蒜等辛辣食物。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 22.954,
+      "end": 27.233,
+      "label": "mandarin",
+      "text": "海鲜、牛羊肉根据自身情况酌情食用。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0153,
+        "sc_logprob": -0.0164,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "海鲜、牛羊肉根据自身情况酌情使用。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.446,
+      "end": 30.173,
+      "label": "guilin",
+      "text": "二洗澡次数不宜太勤，",
+      "score": 0.4176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8265,
+        "sc_logprob": -0.7176,
+        "sc_delta": 0.1089,
+        "acoustic_dev": 0.803,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二洗澡次数不宜太勤。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.468,
+      "end": 33.381,
+      "label": "mandarin",
+      "text": "冬天一般三到五天洗一次，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冬天一般三到五天洗一次。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 33.54,
+      "end": 36.405,
+      "label": "mandarin",
+      "text": "水温控制在三十五度左右，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "sc_logprob": -0.0003,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "水温控制在三十五度左右。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 36.65,
+      "end": 39.797,
+      "label": "mandarin",
+      "text": "不用肥皂、香皂等碱性物品。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0004,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不用肥皂、香皂等碱性物品。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 40.134,
+      "end": 44.702,
+      "label": "mandarin",
+      "text": "洗浴的时候不宜用搓澡巾用力的搓擦皮肤。",
+      "score": 0.0093,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0342,
+        "sc_logprob": -0.0295,
+        "sc_delta": 0.0046,
+        "acoustic_dev": 0.018,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "洗浴的时候，不宜用搓澡巾用力的搓擦皮肤。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.021,
+      "end": 51.242,
+      "label": "mandarin",
+      "text": "三保湿孕妇应该用不含添加剂、不含防腐剂的护肤品，",
+      "score": 0.0698,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1114,
+        "sc_logprob": -0.1181,
+        "sc_delta": -0.0067,
+        "acoustic_dev": 0.094,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三，保持孕妇应该用不含添加剂、不含防腐剂的护肤品。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 51.529,
+      "end": 54.531,
+      "label": "mandarin",
+      "text": "洗完澡以后全身涂润肤霜。",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0004,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "洗完澡以后，全身涂孕妇霜。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 54.689,
+      "end": 60.374,
+      "label": "mandarin",
+      "text": "第四贴身衣服应该柔软舒适，以棉制品为佳，",
+      "score": 0.0196,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0543,
+        "sc_logprob": -0.0573,
+        "sc_delta": -0.003,
+        "acoustic_dev": 0.038,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第四，贴身衣服应该柔软舒适，以棉制品为佳。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 60.486,
+      "end": 64.255,
+      "label": "mandarin",
+      "text": "宽松为宜，并保持干净清洁。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0008,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宽松为宜，并保持干净清洁。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 64.482,
+      "end": 67.743,
+      "label": "guilin",
+      "text": "五心情舒畅，适当运动，",
+      "score": 0.1772,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3601,
+        "sc_logprob": -0.3318,
+        "sc_delta": 0.0283,
+        "acoustic_dev": 0.341,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "五，心情舒畅，适当运动。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 67.923,
+      "end": 70.28,
+      "label": "mandarin",
+      "text": "规律作息，劳逸结合，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0085,
+        "sc_logprob": -0.0098,
+        "sc_delta": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "规律作息，劳逸结合。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 70.527,
+      "end": 73.74,
+      "label": "mandarin",
+      "text": "可以打太极拳、练八段锦等等。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "sc_logprob": -0.001,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以打太极拳，练八段锦等等。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 74.08,
+      "end": 77.17,
+      "label": "mandarin",
+      "text": "六控制室内温度、湿度，",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.4124,
+        "sc_logprob": -2.4938,
+        "sc_delta": -0.0815,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.889,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "湿/死 内/雷 室/死 制/子",
+        "lexicon": "",
+        "text_free": "六，孔子死，雷闻读死读。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 77.395,
+      "end": 82.824,
+      "label": "mandarin",
+      "text": "冬季室内温度宜保持在二十摄氏度到二十二摄氏度，",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "sc_logprob": -0.0008,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冬季室内温度以保持在二十摄氏度到二十二摄氏度。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 83.125,
+      "end": 88.255,
+      "label": "mandarin",
+      "text": "湿度控制在百分之四十到百分之五十之间为好。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "sc_logprob": -0.002,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "湿度控制在百分之四十到百分之五十之间为好。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_健康问答_寒冷冬日_如何预防感冒_.wav",
+  "duration": 75.405,
+  "no_dialect": false,
+  "created_at": "2026-10-30T08:34:27",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.21,
+      "end": 3.988,
+      "label": "mandarin",
+      "text": "冬季天气寒冷，也是感冒的高发期。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冬季天气寒冷，也是感冒的高发期。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.988,
+      "end": 7.315,
+      "label": "mandarin",
+      "text": "那么冬季啷子预防感冒？",
+      "score": 0.2236,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0346,
+        "sc_logprob": -0.0277,
+        "sc_delta": 0.007,
+        "acoustic_dev": 0.062,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "子/止",
+        "lexicon": "",
+        "text_free": "那么冬季，防止预防感冒。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.315,
+      "end": 10.764,
+      "label": "mandarin",
+      "text": "感冒发炎了，应该要注意哪些问题呢？",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "sc_logprob": -0.0017,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感冒发炎了，应该要注意哪些问题呢？"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.764,
+      "end": 14.574,
+      "label": "mandarin",
+      "text": "我们一起来了解一下如何预防感冒。",
+      "score": 0.0139,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0258,
+        "sc_logprob": -0.03,
+        "sc_delta": -0.0041,
+        "acoustic_dev": 0.027,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们一起来了解一下如何预防感冒。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.015,
+      "end": 19.376,
+      "label": "mandarin",
+      "text": "首先，注意保暖，增强局部御寒能力和抵抗力，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0084,
+        "sc_logprob": -0.021,
+        "sc_delta": -0.0125,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "首先，注意保暖，增强局部御寒能力或抵抗力。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 19.588,
+      "end": 22.313,
+      "label": "mandarin",
+      "text": "不要太过劳累，积极锻炼身体。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "sc_logprob": -0.0007,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不要太过劳累，积极锻炼身体。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 22.48,
+      "end": 25.945,
+      "label": "mandarin",
+      "text": "运动以后注意补水，保持膳食均衡，",
+      "score": 0.6853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5102,
+        "sc_logprob": -0.5282,
+        "sc_delta": -0.0179,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "食/四 膳/三",
+        "lexicon": "",
+        "text_free": "运动以后注意补水，保持三四均衡。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 25.945,
+      "end": 29.617,
+      "label": "mandarin",
+      "text": "饮食清淡，多吃五谷杂粮、蔬菜水果，",
+      "score": 0.0004,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0193,
+        "sc_logprob": -0.0205,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "饮食清淡，多吃五谷杂粮、蔬菜水果。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 29.904,
+      "end": 34.488,
+      "label": "mandarin",
+      "text": "保持良好的睡眠习惯。每天夜晚十一点钟左右睡觉，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0093,
+        "sc_logprob": -0.0089,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "保持良好的睡眠习惯，每天夜晚十一点钟左右睡觉。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 34.788,
+      "end": 39.278,
+      "label": "mandarin",
+      "text": "睡觉的时候注意保暖。睡前不饮咖啡和浓茶，",
+      "score": 0.442,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2194,
+        "sc_logprob": -0.2243,
+        "sc_delta": -0.0049,
+        "acoustic_dev": 0.801,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "睡觉的时候注意保暖，睡前不饮咖啡或浓茶。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 39.477,
+      "end": 42.949,
+      "label": "mandarin",
+      "text": "保持心情舒畅，注意情绪疏导，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0008,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "保持心情舒畅，注意情绪疏导。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 42.949,
+      "end": 45.854,
+      "label": "guilin",
+      "text": "学会听轻松愉快的音乐，",
+      "score": 0.4179,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1761,
+        "sc_logprob": -0.1115,
+        "sc_delta": 0.0647,
+        "acoustic_dev": 0.628,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "说：“飞听轻松愉快的音乐。”"
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.854,
+      "end": 50.406,
+      "label": "mandarin",
+      "text": "或者是运动减压。保证每天充足的饮水量，",
+      "score": 0.4305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2132,
+        "sc_logprob": -0.2107,
+        "sc_delta": 0.0025,
+        "acoustic_dev": 0.776,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "或者是运动感压，保证每天充足的饮水量。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 50.609,
+      "end": 53.691,
+      "label": "mandarin",
+      "text": "勤洗手，流水洗手三十秒以上。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.019,
+        "sc_logprob": -0.0179,
+        "sc_delta": 0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "勤洗手，流水洗手三十秒以上。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 54.021,
+      "end": 56.849,
+      "label": "guilin",
+      "text": "洗完以后用纸擦干或者是烘干。",
+      "score": 0.5552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3969,
+        "sc_logprob": -0.3607,
+        "sc_delta": 0.0362,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "洗饭以后，用纸擦干，或者是烘干。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 57.09,
+      "end": 60.673,
+      "label": "mandarin",
+      "text": "勤开窗通风，保证室内空气流通。",
+      "score": 0.1352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "sc_logprob": -0.0023,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "勤/请",
+        "lexicon": "",
+        "text_free": "请开窗通风，保证室内空气流通。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 60.879,
+      "end": 64.415,
+      "label": "mandarin",
+      "text": "身体如果有不舒服的情况，及时就医。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "身体如果有不舒服的情况，及时就医。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 64.63,
+      "end": 68.838,
+      "label": "mandarin",
+      "text": "感冒发炎注意哪些？不能够多吃鸡蛋，",
+      "score": 0.1082,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0712,
+        "sc_logprob": -0.0717,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.208,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感冒发炎，注意哪些？不能够多吃鸡蛋。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 68.838,
+      "end": 71.554,
+      "label": "mandarin",
+      "text": "不宜喝茶，不宜多喝冷饮，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "sc_logprob": -0.0042,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不宜喝茶，不宜多喝冷饮。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 71.684,
+      "end": 75.405,
+      "label": "mandarin",
+      "text": "不宜多食蜂蜜，不宜多吃辛辣。",
+      "score": 0.1806,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.106,
+        "sc_logprob": -0.1056,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.347,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不宜多食蜂蜜，不宜多吃辛辣。"
+      }
+    }
+  ]
+}

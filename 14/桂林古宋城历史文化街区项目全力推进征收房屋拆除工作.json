@@ -1,0 +1,366 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林古宋城历史文化街区项目全力推进征收房屋拆除工作.wav",
+  "duration": 80.46,
+  "no_dialect": false,
+  "created_at": "2026-10-30T12:16:13",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 9.751,
+      "label": "mandarin",
+      "text": "为确保桂林打造世界级旅游城市文旅示范项目——桂林古宋城历史文化街区项目按照时间节点有序推进，",
+      "score": 0.0213,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0372,
+        "sc_logprob": -0.0369,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.047,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为确保桂林打造世界级旅游城市文旅示范项目，桂林古宋城历史文发展区项目按照时间节点有序推进。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 9.915,
+      "end": 15.175,
+      "label": "mandarin",
+      "text": "今年以来，项目的工作人员全力推进征收房屋拆除工作。",
+      "score": 0.1398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0394,
+        "sc_logprob": -0.0438,
+        "sc_delta": -0.0044,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "年/连",
+        "lexicon": "",
+        "text_free": "连以来，项目的工作人员全力推进征收房屋拆除工作。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 21.727,
+      "end": 24.615,
+      "label": "mandarin",
+      "text": "记者从该项目指挥部了解到，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "sc_logprob": -0.0102,
+        "sc_delta": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记者从该项目指挥部了解到。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 24.615,
+      "end": 31.657,
+      "label": "mandarin",
+      "text": "截止到十二月七号，桂林古宋城历史文化街区项目已经拆除十栋六十一户、",
+      "score": 0.1276,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0082,
+        "sc_logprob": -0.0081,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.097,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "截止到十二月七号，桂林古宋城历史文发展区项目已经拆除四栋六十一户。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 31.657,
+      "end": 33.93,
+      "label": "mandarin",
+      "text": "搬空三百九十八户。",
+      "score": 0.2143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "sc_logprob": -0.0044,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "户/伏",
+        "lexicon": "",
+        "text_free": "半空三百九十八伏。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 33.93,
+      "end": 36.619,
+      "label": "mandarin",
+      "text": "进入常态化疫情管理下，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0267,
+        "sc_logprob": -0.0282,
+        "sc_delta": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进入常态化疫情管理下。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 36.619,
+      "end": 41.012,
+      "label": "mandarin",
+      "text": "我们立即加大人力物力进行复工复产，",
+      "score": 0.0489,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0896,
+        "sc_logprob": -0.0877,
+        "sc_delta": 0.0019,
+        "acoustic_dev": 0.094,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们立即加大人力物力进行复工复产。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 41.231,
+      "end": 45.046,
+      "label": "guilin",
+      "text": "在安全生产前提下抢工期、",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0967,
+        "sc_logprob": -0.9405,
+        "sc_delta": 0.1562,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在安全生产前提下，抢工期。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 45.046,
+      "end": 49.357,
+      "label": "mandarin",
+      "text": "赶进度，为把前一段时间因疫情耽误的时间抢回来，",
+      "score": 0.1823,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.182,
+        "sc_logprob": -0.1954,
+        "sc_delta": -0.0134,
+        "acoustic_dev": 0.267,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赶进度。微博前一段时间因疫情耽误的时间抢回来。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 49.519,
+      "end": 51.67,
+      "label": "guilin",
+      "text": "把落下的进度追回来，",
+      "score": 0.4812,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4816,
+        "sc_logprob": -0.3917,
+        "sc_delta": 0.09,
+        "acoustic_dev": 0.828,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把拉下的进度追回来。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 51.825,
+      "end": 54.534,
+      "label": "mandarin",
+      "text": "项目指挥部根据工程建设实际，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0257,
+        "sc_logprob": -0.0227,
+        "sc_delta": 0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "项目指挥部根据工程建设实际。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 54.672,
+      "end": 57.283,
+      "label": "mandarin",
+      "text": "发出冲刺四季度的号召，",
+      "score": 0.6571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7118,
+        "sc_logprob": -0.7674,
+        "sc_delta": -0.0556,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发出“冲刺四级独立”号召。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.463,
+      "end": 61.485,
+      "label": "mandarin",
+      "text": "在科学落实好疫情防控措施的情况之下，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "sc_logprob": -0.0061,
+        "sc_delta": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在科学落实好疫情防控措施的情况之下。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 61.485,
+      "end": 64.974,
+      "label": "mandarin",
+      "text": "紧盯关键环节，抢抓施工黄金期，",
+      "score": 0.0041,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0436,
+        "sc_logprob": -0.0483,
+        "sc_delta": -0.0047,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "紧盯关键环节，抢抓施工黄金期。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.974,
+      "end": 70.675,
+      "label": "mandarin",
+      "text": "强化统筹调度，采取调整进度计划、增加机械设备、",
+      "score": 0.078,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0961,
+        "sc_logprob": -0.1035,
+        "sc_delta": -0.0074,
+        "acoustic_dev": 0.106,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "强化统筹调度，采取调整进度计划，增加机盖设备。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 70.675,
+      "end": 74.88,
+      "label": "guilin",
+      "text": "加人加班加点、多处作业、同时施工等方法，",
+      "score": 0.3764,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3709,
+        "sc_logprob": -0.3607,
+        "sc_delta": 0.0102,
+        "acoustic_dev": 0.62,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加印、加班、加点、多出作业、同时施工等方法。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 74.88,
+      "end": 80.46,
+      "label": "mandarin",
+      "text": "抓质量、抢进度，努力确保按期完成征收房屋拆除工作。",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "sc_logprob": -0.0025,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "抓质量、抢进度，努力确保安期完成征收房屋拆除工作。"
+      }
+    }
+  ]
+}

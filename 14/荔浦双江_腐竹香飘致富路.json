@@ -1,0 +1,261 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "荔浦双江_腐竹香飘致富路.wav",
+  "duration": 50.676,
+  "no_dialect": false,
+  "created_at": "2026-10-30T12:31:22",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.209,
+      "end": 3.845,
+      "label": "mandarin",
+      "text": "在荔浦市双江镇永平村小城村屯啊，",
+      "score": 0.1683,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1069,
+        "sc_logprob": -0.1509,
+        "sc_delta": -0.044,
+        "acoustic_dev": 0.148,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在宁波市双江镇永平村小城村头啊。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.845,
+      "end": 6.254,
+      "label": "mandarin",
+      "text": "就有到腐竹加工的一个传统。",
+      "score": 0.1492,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1048,
+        "sc_logprob": -0.1203,
+        "sc_delta": -0.0155,
+        "acoustic_dev": 0.14,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就有到辅助加工的一个传统。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.254,
+      "end": 12.37,
+      "label": "mandarin",
+      "text": "马上元旦和春节就要来了嘛，你去村子里面看，着到处都是腐竹加工的工厂，而且呢，",
+      "score": 0.0935,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0723,
+        "sc_logprob": -0.083,
+        "sc_delta": -0.0107,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.088,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "马上元旦和春节就要来了嘛！你去村子里面看着，到处都是辅助加工的工厂，而且咧。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.37,
+      "end": 18.101,
+      "label": "mandarin",
+      "text": "热气腾腾，热火朝天，村民呢都忙到在做腐竹，一派是繁忙的景象。",
+      "score": 0.0879,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0224,
+        "sc_logprob": -0.0224,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.192,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "夜气腾腾，烟火朝天，村民呢都忙得在做辅助，一派是繁忙的景象。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.309,
+      "end": 24.103,
+      "label": "mandarin",
+      "text": "双江镇永平村小城村屯是腐竹生产的一个专业村，",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.055,
+        "sc_logprob": -0.0676,
+        "sc_delta": -0.0126,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "双江镇永平村小城村屯是辅助生产的一个专业村。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.259,
+      "end": 29.814,
+      "label": "mandarin",
+      "text": "纯手工加工的腐竹呢，以色泽金黄、营养丰富、口感好远近闻名。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "sc_logprob": -0.006,
+        "sc_delta": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "纯手工加工的腐竹呢，以色泽金黄、营养丰富、口感好，远近闻名。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.318,
+      "end": 33.868,
+      "label": "mandarin",
+      "text": "有二十多年腐竹加工经验的何松九洪江啊，",
+      "score": 0.4448,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.203,
+        "sc_logprob": -0.2089,
+        "sc_delta": -0.006,
+        "acoustic_dev": 0.488,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "经/近",
+        "lexicon": "",
+        "text_free": "有二十多年，辅主加工近年的火松酒红浆啊。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.039,
+      "end": 36.809,
+      "label": "guilin",
+      "text": "之前小城村呢主要是种点水稻，",
+      "score": 0.5552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1914,
+        "sc_logprob": -1.114,
+        "sc_delta": 0.0774,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "之前小城镇呢，主要是种点水稻。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.809,
+      "end": 40.379,
+      "label": "mandarin",
+      "text": "增收的渠道比较单一。上个世纪九十年代，",
+      "score": 0.1269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0293,
+        "sc_logprob": -0.0614,
+        "sc_delta": -0.032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "增/征",
+        "lexicon": "",
+        "text_free": "征收的渠道比较单一。上个世纪九十年代。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.379,
+      "end": 44.452,
+      "label": "guilin",
+      "text": "随着小城村两户人家首先搭起了腐竹加工厂之后，",
+      "score": 0.6288,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3638,
+        "sc_logprob": -0.3499,
+        "sc_delta": 0.0139,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.238,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "随着小镇村两户营业，首先搭起了辅助加工厂之后。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.452,
+      "end": 48.446,
+      "label": "mandarin",
+      "text": "村里面的人啊也都跟到一起搞起了腐竹的加工厂，",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.058,
+        "sc_logprob": -0.0638,
+        "sc_delta": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "城里面的人啊，也都跟到一起搞起了辅助的加工厂。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 48.446,
+      "end": 50.676,
+      "label": "mandarin",
+      "text": "这样子呢就走上了致富的路。",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0216,
+        "sc_logprob": -0.0189,
+        "sc_delta": 0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "真的呢，就走上了致富的路。"
+      }
+    }
+  ]
+}
