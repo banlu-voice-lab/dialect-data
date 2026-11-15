@@ -1,0 +1,712 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_遇见金龙桔祥中国年_ 洋网红齐聚遇龙村体验2025跨年狂欢活动.wav",
+  "duration": 247.179,
+  "no_dialect": false,
+  "created_at": "2026-10-26T08:59:36",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.144,
+      "end": 11.692,
+      "label": "mandarin",
+      "text": "前几天，一群来自美国、柬埔寨、泰国、摩洛哥、巴基斯坦等国家的知名外国网红留学生和杨朔当地的民众一同欢庆，",
+      "score": 0.1221,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0398,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "庆/亲",
+        "lexicon": "",
+        "text_free": "前几天，一群来自美国、柬埔寨、泰国、摩洛哥、巴基斯坦等等国家的十二名外国网红留学生，和阳朔当地的民众一同返亲。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 11.904,
+      "end": 16.696,
+      "label": "mandarin",
+      "text": "感受中国新年与现代活力交织的独特魅力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感受中国新年与现代活力交织的独特魅力。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 16.846,
+      "end": 20.255,
+      "label": "mandarin",
+      "text": "活动当天，杨朔玉龙村张灯结彩，",
+      "score": 0.1957,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.538,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "龙/荣",
+        "lexicon": "",
+        "text_free": "活动当天，杨烁、于荣琛、张东健参。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 20.394,
+      "end": 23.332,
+      "label": "mandarin",
+      "text": "喜庆的红灯笼照亮了古朴的村落。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "喜庆的红灯笼照亮了古朴的城道。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.538,
+      "end": 28.777,
+      "label": "mandarin",
+      "text": "杨网红们刚踏入村庄就被这浓郁的节日氛围所吸引，",
+      "score": 0.0671,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3938,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "阳光红门刚踏入村庄，就被这浓郁的节日氛围所吸引。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 29.087,
+      "end": 32.558,
+      "label": "mandarin",
+      "text": "他们亲自参与到京剧美食的制作当中，",
+      "score": 0.0631,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4034,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他们亲自参与到警局美食的制作当中。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 32.844,
+      "end": 35.493,
+      "label": "mandarin",
+      "text": "在厨师的悉心指导下，",
+      "score": 0.2101,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2253,
+        "acoustic_dev": 0.209,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在厨师的细心指导之下。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.627,
+      "end": 38.115,
+      "label": "mandarin",
+      "text": "学习挑选京剧食材、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0567,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "学习挑选京剧食材。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.115,
+      "end": 41.749,
+      "label": "mandarin",
+      "text": "切片腌制、调味炒制等等全过程，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0471,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "切片、腌制、调味、炒制等等全过程。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.146,
+      "end": 45.962,
+      "label": "mandarin",
+      "text": "共同品尝色香味俱全的京剧菜系，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0115,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同品尝色香味俱全的京剧菜系。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 46.302,
+      "end": 50.728,
+      "label": "mandarin",
+      "text": "每口都满溢着中国乡村的质朴风味。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3557,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每一口都满一座中国乡村的质朴风味。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.997,
+      "end": 53.641,
+      "label": "uncertain",
+      "text": "TodayI   .       .  , ' ?     . ,            .  ,    .           .，，，，。，。，。          .             ,  ,        . '      .    .   .、、，，，，，。，，，。 '     .  ,          .     ,  .    '    .           .  ,        .    .     .    ,      .    ,  ,   .   ,    ! 、，、、，、、。、，，。。reallylikeitToday",
+      "score": 0.4029,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.4633,
+        "acoustic_dev": 0.506,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Lecturer at Green University for the twenty third."
+      }
+    },
+    {
+      "id": 13,
+      "start": 54.711,
+      "end": 59.092,
+      "label": "guilin",
+      "text": "IcamewithsomeinternationalexperienceYang",
+      "score": 0.66,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -7.6392,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Tonight I came with some of our international students to experience."
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.147,
+      "end": 63.523,
+      "label": "guilin",
+      "text": "Shuowhat'stodayOneexperienceistraveling",
+      "score": 0.66,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -7.295,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Yesterday, course today, when we experienced the."
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.6,
+      "end": 77.583,
+      "label": "mandarin",
+      "text": "abroadRightthisareaoftravelingabroadisrightisaveryfantasticoneAlltodayIreallylikeitAndwehaveexperiencemakingsomefoodwithlocalYang",
+      "score": 0.3598,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1178,
+        "acoustic_dev": 0.423,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Ride the scenery of the Dragon Boat Festival. Ride is a very fantastic one. All the students they really like it, and we also experience making some food with the."
+      }
+    },
+    {
+      "id": 16,
+      "start": 78.637,
+      "end": 93.755,
+      "label": "mandarin",
+      "text": "Shuo傍晚时分夕阳的余晖为玉龙村的山水勾勒出了一层朦胧的金边一条金色巨龙在玉龙河中蜿蜒前行甚至倒映在清澈的水面上熠熠生辉",
+      "score": 0.008,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.018,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "傍晚时分，夕阳的余晖为玉龙城的山水勾勒出了一层朦胧的金边。一条金色巨龙在玉龙河中蜿蜒前行，甚至倒映在清澈的水面上，熠熠生辉。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 94.081,
+      "end": 98.634,
+      "label": "mandarin",
+      "text": "外国友人们坐在竹筏上体验金龙游弋的快感",
+      "score": 0.1481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0099,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "金/惊",
+        "lexicon": "",
+        "text_free": "外国友人们坐在竹筏上体验惊龙游鱼的快感。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 98.897,
+      "end": 102.105,
+      "label": "mandarin",
+      "text": "仿佛开启了一场穿越时空的对话",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "仿佛开启了一场穿越时空的对话。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 102.402,
+      "end": 105.842,
+      "label": "mandarin",
+      "text": "古老的传说与现代气息交织碰撞",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "古老的传说与现代气息交织碰撞。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 106.149,
+      "end": 117.837,
+      "label": "mandarin",
+      "text": "独特的地域文化与丝丝缕缕的摩洛巧言融入了外国人的心间TodayIloveuhcultureofChinaandIlikeitAnd",
+      "score": 0.222,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0077,
+        "acoustic_dev": 0.156,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "独特的地域文化有丝丝缕缕的脉络，悄然拥有了美国人的心间。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 118.231,
+      "end": 123.367,
+      "label": "mandarin",
+      "text": "IwanttoknowmoreaboutChineseculturebecauseofhistoricalplaces",
+      "score": 0.287,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5343,
+        "acoustic_dev": 0.283,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "I want to know more about the Chinese culture because it's also a historical place."
+      }
+    },
+    {
+      "id": 22,
+      "start": 124.235,
+      "end": 128.06,
+      "label": "guilin",
+      "text": "historicalmomentsandIcametospendmy",
+      "score": 0.6222,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.2215,
+        "acoustic_dev": 0.927,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Historical moments, and I came to there in order."
+      }
+    },
+    {
+      "id": 23,
+      "start": 129.159,
+      "end": 131.9,
+      "label": "guilin",
+      "text": "NewYearI'mexcitedtocome",
+      "score": 0.66,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -6.4902,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "My New Year time, so that I decided to came in order to."
+      }
+    },
+    {
+      "id": 24,
+      "start": 132.2,
+      "end": 142.226,
+      "label": "mandarin",
+      "text": "towatchitMyemotionsarewonderfulIlikeit这些年轻活泼的外国朋友们还学习了三国桂剧京剧等等中国传统文化",
+      "score": 0.0156,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4805,
+        "acoustic_dev": 0.03,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这些年轻活泼的外国朋友们还学习了三国、桂剧、京剧等等中国传统文化。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 142.487,
+      "end": 146.632,
+      "label": "mandarin",
+      "text": "并在夜间与当地村民围炉而坐煮茶品茗",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并在夜间与当地村民围炉恶作，煮茶品茗。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 146.884,
+      "end": 150.195,
+      "label": "mandarin",
+      "text": "体验中式慢生活的宁静与雅致",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0287,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "体验中式慢生活的宁静与雅致。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 150.606,
+      "end": 155.838,
+      "label": "mandarin",
+      "text": "伴随着乐器弹唱共同唱起大家耳熟能详的中外歌曲",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "伴随着乐器弹唱，共同唱起大家耳熟能详的中外歌曲。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 156.175,
+      "end": 158.814,
+      "label": "mandarin",
+      "text": "大家以乐为媒以国为友",
+      "score": 0.2096,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9363,
+        "acoustic_dev": 0.139,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家以药为美，以国为忧。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 159.03,
+      "end": 165.314,
+      "label": "mandarin",
+      "text": "中外文化交流融合的生动实践在这一刻得到了充分彰显",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0212,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中外文化交流融合的生动实践，在这一刻得到了充分彰显。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 165.748,
+      "end": 173.795,
+      "label": "mandarin",
+      "text": "TodayI'msohappytobehereAtfirstwecamehereandwearelearning",
+      "score": 0.263,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3417,
+        "acoustic_dev": 0.236,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Today I am so happy to be here. At first, it was we we came here and we are."
+      }
+    },
+    {
+      "id": 31,
+      "start": 174.68,
+      "end": 179.749,
+      "label": "guilin",
+      "text": "thetraditionalcultureIwasthebigcrowdsohappyAndIthink",
+      "score": 0.66,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.98,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Traditional clothes. I wore the big, pro, was so heavy."
+      }
+    },
+    {
+      "id": 32,
+      "start": 182.632,
+      "end": 191.499,
+      "label": "mandarin",
+      "text": "it'salittlebitsimilarSimilartoourcountrydressbecausewehavesuchlikethesethingsAfterthatwewentto",
+      "score": 0.1942,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7904,
+        "acoustic_dev": 0.104,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "It's a little bit similar similar to our country dress because we have such like these things. After that, we went to."
+      }
+    },
+    {
+      "id": 33,
+      "start": 191.907,
+      "end": 206.996,
+      "label": "mandarin",
+      "text": "todothedragonboatsItwassogoodItwaslikesorelaxingYouhearthewaterandthentherewerethosefireworksItwassoexcitingsogoodandsobeautifulHappyNewYear",
+      "score": 0.2021,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8533,
+        "acoustic_dev": 0.119,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "To do the dragon boat, it was so good. It was like so relaxing. You hear the water, and then there were those fireworks. It was so exciting, so good, and so beautiful. Happy New Year."
+      }
+    },
+    {
+      "id": 34,
+      "start": 207.232,
+      "end": 220.087,
+      "label": "mandarin",
+      "text": "XinNianKuaiLa本次跨年活动以遇见金龙吉祥中国年为主题按照山水有情山间有戏祖国有彩的阳朔国际文化IP打造",
+      "score": 0.1927,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.575,
+        "acoustic_dev": 0.053,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "新年快乐！本次跨年活动以“遇见金龙，吉祥中国年”为主题，按照“山水有情，三街有戏，祖国有彩”的阳朔国际文化IP打造。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 220.406,
+      "end": 225.725,
+      "label": "mandarin",
+      "text": "响应阳朔国际化乡土味青年范的国际传播主线",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1165,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "响应杨朔国际发乡土味青年范的国际传播主线。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 226.001,
+      "end": 236.026,
+      "label": "mandarin",
+      "text": "通过开展形式多样内容丰富的活动让中外网红与广大游客和市民领略阳朔特有的文化风情",
+      "score": 0.0117,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.026,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过开展形式多样、内容丰富的活动，让中外网红与广大游客或市民领略阳朔特有的文化风情。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 236.395,
+      "end": 247.179,
+      "label": "mandarin",
+      "text": "把阳朔世界级的文旅品牌向全世界进行深度展示阳美丽的桂林山水与悠久的非遗文化交相辉映",
+      "score": 0.0669,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0145,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.146,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把《阳朔诗歌集》的文旅品牌向全诗歌进行深度展示，让美丽的桂林山水与悠久的非遗文化交相辉映。"
+      }
+    }
+  ]
+}

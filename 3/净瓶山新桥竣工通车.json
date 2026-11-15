@@ -1,0 +1,883 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "净瓶山新桥竣工通车.wav",
+  "duration": 216.126,
+  "no_dialect": false,
+  "created_at": "2026-10-26T09:31:07",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.133,
+      "end": 6.619,
+      "label": "mandarin",
+      "text": "这一段时间啊，我们桂林最大的喜事就是金平山新桥正式竣工通车。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一段时间啊，我们桂林最大的喜事就是金平山新桥正式竣工通车。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.913,
+      "end": 11.089,
+      "label": "mandarin",
+      "text": "十一月二十九号，金平山新桥正式竣工通车，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十一月二十九号，金平山新桥正式竣工通车。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.2,
+      "end": 14.92,
+      "label": "mandarin",
+      "text": "以崭新的姿态横跨于漓江之上。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以崭新的姿态横跨于漓江之上。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.21,
+      "end": 20.664,
+      "label": "mandarin",
+      "text": "金平山桥是连接象山区和七星区的重要通道之一，",
+      "score": 0.1435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "金平三桥是连接香山区和七星区的重要通道之一。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.884,
+      "end": 23.823,
+      "label": "guilin",
+      "text": "它不仅是见证了我们桂林的交通发展，",
+      "score": 0.6057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4832,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它不仅是见证老挝桂林的交通发展。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.997,
+      "end": 27.011,
+      "label": "mandarin",
+      "text": "更是城市发展的重要标志。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是城市发展的重要标志。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 32.74,
+      "end": 39.609,
+      "label": "mandarin",
+      "text": "拆到金平山新桥的通车，打破了市区城南与城东之间的交通瓶颈，",
+      "score": 0.1339,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0112,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "新/行",
+        "lexicon": "",
+        "text_free": "车到金平山行桥的通车，打破了市区城南与城东之间的交通瓶颈。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 39.919,
+      "end": 44.048,
+      "label": "mandarin",
+      "text": "不仅给桂林市民带来了出行上的快速与便捷，",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅给桂林市民带来了出行上的宽松与便捷。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 44.251,
+      "end": 47.97,
+      "label": "mandarin",
+      "text": "也极大地缓解早晚高峰期的交通压力。",
+      "score": 0.3774,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7707,
+        "acoustic_dev": 0.616,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也将极大的缓解早晚高峰期的交通压力。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.372,
+      "end": 52.598,
+      "label": "mandarin",
+      "text": "根据了解，金平山老桥建于上世纪八十年代，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，金平仓老桥建于上世纪八十年代。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 52.791,
+      "end": 57.601,
+      "label": "mandarin",
+      "text": "宽不过二十米，双向四车道且急非分行。",
+      "score": 0.2498,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4033,
+        "acoustic_dev": 0.316,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宽不过二十米，双向四车道，且极为分形。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 57.887,
+      "end": 61.621,
+      "label": "mandarin",
+      "text": "随着城市的发展，桂林交通量快速增长，",
+      "score": 0.0527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1412,
+        "acoustic_dev": 0.101,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "随着城市的发展，桂林交通量快速增长。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 61.909,
+      "end": 65.996,
+      "label": "guilin",
+      "text": "金平山老桥因桥宽只于两车道路，",
+      "score": 0.6021,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0451,
+        "acoustic_dev": 0.84,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "车/侧",
+        "lexicon": "",
+        "text_free": "金平山老桥因桥宽遮于两侧道路。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 66.224,
+      "end": 69.149,
+      "label": "mandarin",
+      "text": "上下班高峰期拥堵情况比较明显，",
+      "score": 0.0151,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0526,
+        "acoustic_dev": 0.029,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "上下班高峰期拥堵情况比较明显。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 69.462,
+      "end": 73.112,
+      "label": "mandarin",
+      "text": "荷载能力已经没法满足实际需求。",
+      "score": 0.3552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5456,
+        "acoustic_dev": 0.432,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "核查能力已经没了办法，满足实际需求。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 73.291,
+      "end": 80.385,
+      "label": "mandarin",
+      "text": "为此，桂林市政府做出了沿金平山桥旧址走向拆除重建的决定。",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0108,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为此，桂林市政府作出了沿金平山桥旧址走向，拆除重建的决定。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 80.712,
+      "end": 83.498,
+      "label": "mandarin",
+      "text": "经过一千多个日夜的奋战，",
+      "score": 0.066,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0745,
+        "acoustic_dev": 0.047,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经过一千多个一夜的奋战。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 83.718,
+      "end": 88.288,
+      "label": "mandarin",
+      "text": "金平山新桥在市直各有关部门的高效协同、",
+      "score": 0.0494,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1334,
+        "acoustic_dev": 0.095,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "金平山新桥在市直各有关部门的高效协同。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 88.288,
+      "end": 97.101,
+      "label": "mandarin",
+      "text": "全力保障下，总建八局二公司带领各施工单位，高标准、高质量地完成了工程建设任务，",
+      "score": 0.0131,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0097,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.029,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全力保障下，总监八局二公司带领各施工单位，高标准、高质量地完成了工程建设任务。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 97.31,
+      "end": 100.839,
+      "label": "mandarin",
+      "text": "创造了桂林桥梁建设的新纪录。",
+      "score": 0.1712,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0191,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "新/行",
+        "lexicon": "",
+        "text_free": "创造了桂林桥梁建设的行记录。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 100.839,
+      "end": 104.67,
+      "label": "mandarin",
+      "text": "金平山桥新桥是目前桂林市区内最宽的桥梁，",
+      "score": 0.1602,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0455,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "金明三桥新桥是目前桂林市区内最宽的桥梁。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 105.073,
+      "end": 108.36,
+      "label": "mandarin",
+      "text": "也是市内已建成的同类桥梁中跨径最大的桥梁。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是室内已建成的同类桥梁中，跨境最大的桥梁。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 109.086,
+      "end": 114.288,
+      "label": "mandarin",
+      "text": "要求层次高，施工难度大，期间我们克服了桂林喀斯特地貌、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要求层次高，施工难度大。期间，我们克服了桂林喀斯特地貌。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 114.378,
+      "end": 116.732,
+      "label": "mandarin",
+      "text": "极端复杂的地下施工环境",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "极端复杂的地下施工环境。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 117.142,
+      "end": 119.378,
+      "label": "mandarin",
+      "text": "和极端天气影响等困难，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "和极端天气影响等困难。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 119.389,
+      "end": 123.657,
+      "label": "mandarin",
+      "text": "向桂林市全体市民交出了一份满意的答卷。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "向桂林市全体市民交出了一份满意的答卷。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 123.657,
+      "end": 135.047,
+      "label": "mandarin",
+      "text": "如今，一座崭新的桥梁飞架于漓江之上，将更好地承担起连通桂林市区城南与城东之间的交通大道——金吉大道功能。",
+      "score": 0.1195,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "金/经",
+        "lexicon": "",
+        "text_free": "如今，一座崭新的桥梁飞架于漓江之上，将更好地承担起连通桂林市区城南与城东之间的交通大道、经济大道功能。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 135.402,
+      "end": 139.907,
+      "label": "mandarin",
+      "text": "新建桥梁及引道全长一千零一十六米，",
+      "score": 0.0155,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0534,
+        "acoustic_dev": 0.03,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "新建桥梁及引道全长一千零一十六米。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 140.245,
+      "end": 144.936,
+      "label": "mandarin",
+      "text": "主桥长三百二十米，桥梁断面宽五十米，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主桥长三百二十米，桥梁断面宽五十米。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 145.306,
+      "end": 149.779,
+      "label": "mandarin",
+      "text": "双向六车道，设计时速为六十千米每小时，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "双向六车道，设计时速为六十千米每小时。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 150.026,
+      "end": 155.914,
+      "label": "guilin",
+      "text": "并设有非机动车道、应急道、时间急非分离过行车道，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4367,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并设有非机动车道、人行道，实现机非分离，各行其道。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 156.16,
+      "end": 159.016,
+      "label": "mandarin",
+      "text": "市民出行更加安全顺畅。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "市民出行更加安全顺畅。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 159.016,
+      "end": 162.62,
+      "label": "uncertain",
+      "text": "大桥没多宽呢，可能就三四台一般那么大吧。",
+      "score": 0.395,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4761,
+        "acoustic_dev": 0.375,
+        "seg_cer": 0.389,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "小桥没多宽咧，可能就像新桥一半那么大吧。我。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 162.62,
+      "end": 166.178,
+      "label": "guilin",
+      "text": "我照了几几年的桥，通车肯定高兴啦。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2042,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走了几十年，这条桥，通车了，肯定高兴啦。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 166.178,
+      "end": 168.44,
+      "label": "guilin",
+      "text": "这玩意儿方便多了，对不对？",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5712,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就啊，游的方便多了，对不对？"
+      }
+    },
+    {
+      "id": 36,
+      "start": 168.44,
+      "end": 172.137,
+      "label": "uncertain",
+      "text": "新桥现在跑起来特别宽敞漂亮，",
+      "score": 0.4708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0424,
+        "acoustic_dev": 0.838,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "金桥现在跑起来特别宽敞漂亮。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 172.34,
+      "end": 178.406,
+      "label": "mandarin",
+      "text": "然后也很舒坦。呃，现在不用担心拥堵的问题，以后上下班",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后也很舒坦，呃，现在不用担心拥堵的问题，以后上下班。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 178.722,
+      "end": 183.077,
+      "label": "mandarin",
+      "text": "也就更方便了。交通是现代化城市的开路先锋。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也就更方便了。交通是现代化城市的开路先锋。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 183.254,
+      "end": 187.515,
+      "label": "mandarin",
+      "text": "近年来，桂林市不断加快综合立体交通网建设，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，桂林市不断加快综合立体交通网建设。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 187.822,
+      "end": 193.196,
+      "label": "mandarin",
+      "text": "在北通南畅、东拓西联、内外循环的路网大格局基础上，",
+      "score": 0.1034,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1138,
+        "acoustic_dev": 0.079,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在贯通南昌东拓西连、内外循环的路网大格局基础上。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 193.448,
+      "end": 196.26,
+      "label": "mandarin",
+      "text": "以打造世界级旅游城市为契机，",
+      "score": 0.0207,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0658,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以打造世界级旅游城市为契机。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 196.51,
+      "end": 199.108,
+      "label": "mandarin",
+      "text": "持续加强交通基础设施建设，",
+      "score": 0.0166,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.056,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "持续加强交通基础设施建设。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 199.367,
+      "end": 203.058,
+      "label": "mandarin",
+      "text": "积极推进畅通泛都项目实施。",
+      "score": 0.0983,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0691,
+        "acoustic_dev": 0.043,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "积极推进畅通反堵项目实施。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 203.55,
+      "end": 207.651,
+      "label": "mandarin",
+      "text": "桂林四通八达的交通优势更加凸显，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林四通八达的交通优势更加凸显。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 208.047,
+      "end": 210.231,
+      "label": "guilin",
+      "text": "交通提速形成气势，",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4454,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "交通提速形成启示。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 210.409,
+      "end": 216.126,
+      "label": "mandarin",
+      "text": "有力地促进了桂林打造世界级旅游城市和全市经济社会发展。",
+      "score": 0.0015,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0205,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有力地促进了桂林打造世界级旅游城市和全市经济社会发展。"
+      }
+    }
+  ]
+}

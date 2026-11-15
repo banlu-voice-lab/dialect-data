@@ -1,0 +1,541 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "龙胜_载歌载舞欢度侗年节.wav",
+  "duration": 112.79,
+  "no_dialect": false,
+  "created_at": "2026-10-26T12:33:06",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.299,
+      "label": "uncertain",
+      "text": "农历的十一月初一是龙胜各族自治县的冬连节。",
+      "score": 0.5067,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4636,
+        "acoustic_dev": 0.562,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "治/子 自/之",
+        "lexicon": "",
+        "text_free": "农历的十一月初一是龙生各族之子先的冬练节。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.299,
+      "end": 9.236,
+      "label": "mandarin",
+      "text": "这一天，龙胜的各族同胞身着华丽的民族服装，",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一天，龙生的国族同胞身着华丽的民族服装。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.236,
+      "end": 12.215,
+      "label": "mandarin",
+      "text": "载歌载舞，共同欢度传统佳节。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0634,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三国、三吴共同反渡，传统佳节。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.489,
+      "end": 15.652,
+      "label": "uncertain",
+      "text": "这天，我们一起去龙胜，去耍一下子。",
+      "score": 0.482,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5337,
+        "acoustic_dev": 0.662,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "耍",
+        "text_free": "最后啊，我们一起去龙胜去耍一下子。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.796,
+      "end": 19.179,
+      "label": "uncertain",
+      "text": "冬连节作为侗族重要的节日之一，",
+      "score": 0.463,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4102,
+        "acoustic_dev": 0.487,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "族/柱",
+        "lexicon": "",
+        "text_free": "冬连接作为冬柱重要的结义之一。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 19.179,
+      "end": 24.229,
+      "label": "mandarin",
+      "text": "于二零一一年被正式列入国家级非物质文化遗产名录。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "于二零一一年被正式列入国家级非物质文化遗产名录。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.585,
+      "end": 30.596,
+      "label": "mandarin",
+      "text": "在这一天，龙胜的各族同胞像是石榴籽一样紧紧抱团在一起，",
+      "score": 0.1382,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0668,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "龙/农",
+        "lexicon": "",
+        "text_free": "在这一天，农生的国族同胞像是石榴籽一样紧紧抱团在一起。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.855,
+      "end": 33.103,
+      "label": "guilin",
+      "text": "手足相亲，守望相助。",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2945,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.625,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "助/族",
+        "lexicon": "",
+        "text_free": "收族相亲，收亡相族。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.378,
+      "end": 36.455,
+      "label": "uncertain",
+      "text": "无论是苗瑶、侗壮等少数民族，",
+      "score": 0.3902,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.493,
+        "acoustic_dev": 0.604,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "无论是苗瑶东庄等少数民族。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 36.455,
+      "end": 38.998,
+      "label": "mandarin",
+      "text": "还是汉族同胞，都齐聚一堂，",
+      "score": 0.0001,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0671,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还是汉族同胞，都齐聚一堂。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 39.135,
+      "end": 43.632,
+      "label": "mandarin",
+      "text": "共同展示出团结一家亲的民族大融合场面。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同展示着团结一家亲的民族大融合场面。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 44.045,
+      "end": 47.313,
+      "label": "mandarin",
+      "text": "当天，在龙胜各族自治县民族广场上，",
+      "score": 0.0489,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.092,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当天，在龙胜国族自治县民族广场上。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 47.554,
+      "end": 50.038,
+      "label": "guilin",
+      "text": "歌声嘹亮，人头攒动，",
+      "score": 0.556,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4142,
+        "acoustic_dev": 0.492,
+        "seg_cer": 0.5,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "歌声嘹亮，音调传统。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 50.184,
+      "end": 52.536,
+      "label": "guilin",
+      "text": "情景剧、琵琶、芦笙、",
+      "score": 0.7633,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.798,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "情/秦",
+        "lexicon": "",
+        "text_free": "秦警局，琵琶芦笙。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 52.536,
+      "end": 54.994,
+      "label": "mandarin",
+      "text": "民族舞蹈、侗寨大歌、",
+      "score": 0.3685,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4893,
+        "acoustic_dev": 0.599,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "民族舞蹈，东寨大歌。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 54.994,
+      "end": 57.877,
+      "label": "guilin",
+      "text": "夺叶等精彩节目轮番上演。",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9591,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多演等精彩节目，轮番上演。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 58.121,
+      "end": 61.117,
+      "label": "mandarin",
+      "text": "每一个节目都是一场文化的盛宴。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每一个节目都是一场文化的盛宴。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 61.353,
+      "end": 65.09,
+      "label": "mandarin",
+      "text": "包拯雕龙、广南草龙也是亮相其中，",
+      "score": 0.3699,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3445,
+        "acoustic_dev": 0.393,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "拯/镇",
+        "lexicon": "",
+        "text_free": "宝镇雕龙、广南草龙也是亮相其中。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 65.312,
+      "end": 69.622,
+      "label": "mandarin",
+      "text": "全方位的演绎了龙胜丰富多彩的民族文化魅力。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0163,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全方位地演绎了龙省丰富多彩的民族文化魅力。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 69.622,
+      "end": 73.58,
+      "label": "mandarin",
+      "text": "今天是我们少数民族的一个传统节日，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天是我们少数民族的一个传统节日。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 73.58,
+      "end": 76.439,
+      "label": "mandarin",
+      "text": "各民族载歌载舞，欢聚一堂，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "各民族载歌载舞，欢聚一堂。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 76.439,
+      "end": 82.443,
+      "label": "mandarin",
+      "text": "欢度佳节。我们作为代表队也很荣幸能够来参加这次活动。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "欢度佳节，我们作为代表队也很荣幸能够来参加这次活动。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 82.745,
+      "end": 85.947,
+      "label": "mandarin",
+      "text": "我们准备的节目是《美丽的龙胜》。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们准备的节目是《美丽的龙胜》。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 86.174,
+      "end": 92.009,
+      "label": "mandarin",
+      "text": "此次冬连节的举办，不仅为龙胜各族群众提供了一个欢聚交流的平台，",
+      "score": 0.1288,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.172,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "龙/农",
+        "lexicon": "",
+        "text_free": "此次冬练节的举办，不仅为农生贵族群众提供了一个反聚交流的平台。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 92.287,
+      "end": 98.641,
+      "label": "mandarin",
+      "text": "也为各民族优秀传统文化的繁荣发展注入了生机和活力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0077,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也为各民族优秀传统文化的繁荣发展注入了生机和活力。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 98.934,
+      "end": 102.203,
+      "label": "guilin",
+      "text": "当天还有特色农产品竹龙展销会，",
+      "score": 0.6098,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7613,
+        "acoustic_dev": 0.984,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当天还有特色农产品“猪龙展”消费。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 102.41,
+      "end": 108.173,
+      "label": "mandarin",
+      "text": "地域特色鲜明、生活气息浓郁的土特产美食集中亮相，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "地域特色鲜明、生活气息浓郁的土特产美食集中亮相。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 108.44,
+      "end": 112.79,
+      "label": "guilin",
+      "text": "各种佳食的商品备受群众和游客们的青睐。",
+      "score": 0.5965,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7383,
+        "acoustic_dev": 0.952,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "货真价实的商品备受群众和游客们的青睐。"
+      }
+    }
+  ]
+}

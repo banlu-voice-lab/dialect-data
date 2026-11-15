@@ -1,0 +1,560 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "冬日阳朔_感受漓江山水间的诗意与浪漫.wav",
+  "duration": 125.151,
+  "no_dialect": false,
+  "created_at": "2026-10-26T09:23:09",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.459,
+      "end": 10.016,
+      "label": "mandarin",
+      "text": "接下来我们来关注一下旅游。冬天的阳朔依然是美丽不干，吸引着来自全市乃至各地的游客朋友。",
+      "score": 0.2497,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0954,
+        "acoustic_dev": 0.348,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接下来我们来关注一下旅游。冬天的阳朔依然是魅力不减，吸引着来自全世界各地的游客朋友。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 10.252,
+      "end": 13.729,
+      "label": "guilin",
+      "text": "在这里，不管是国内的旅行爱好者，",
+      "score": 0.5527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2915,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在这块，不管是国内的旅行爱好者。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 13.729,
+      "end": 20.2,
+      "label": "mandarin",
+      "text": "还是海外的朋友，都能够找到了一份属于自己的美景和美好。",
+      "score": 0.1966,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0677,
+        "acoustic_dev": 0.237,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还是海外的朋友，都能够找到那份属于自己的宁静和美好。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 20.82,
+      "end": 24.559,
+      "label": "mandarin",
+      "text": "十月的阳朔，青山绿水依然美丽。",
+      "score": 0.1097,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0273,
+        "acoustic_dev": 0.076,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十月的阳朔，青山绿水，一眼美丽。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 24.747,
+      "end": 28.593,
+      "label": "guilin",
+      "text": "中午一点多的漓江龙头山码头，游船游至，",
+      "score": 0.6495,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2417,
+        "acoustic_dev": 0.934,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "至/子",
+        "lexicon": "",
+        "text_free": "中午一点多，离漓江龙头山码头游船入子。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.912,
+      "end": 35.05,
+      "label": "mandarin",
+      "text": "来自各地游客乘坐游船从桂林顺漓江而下到达阳朔，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0083,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自各地游客乘坐游船，从桂林顺漓江而下，到达阳朔。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 35.258,
+      "end": 39.22,
+      "label": "mandarin",
+      "text": "期待着开启一段深度的山水探索之旅。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "期待着开启一段深度的山水探索之旅。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 39.22,
+      "end": 45.348,
+      "label": "mandarin",
+      "text": "然后都说阳朔的美景特别多，所以就从桂林旅游完了结束以后呢，就到阳朔来。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后都说阳朔的美景特别多，所以就从桂林旅游完了，结束以后呢，就到阳朔来。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 45.392,
+      "end": 48.317,
+      "label": "mandarin",
+      "text": "然后今天呢是坐了我们的四星游船，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0044,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后今天呢，是坐了我们的四星游船。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.42,
+      "end": 54.04,
+      "label": "mandarin",
+      "text": "呃，乘船体验感觉特别好。然后沿途呢介绍景区的呃内容也特别丰富。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，乘船体验感觉特别好。然后沿途呢，介绍景区的呃内容也特别丰富。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 54.326,
+      "end": 60.186,
+      "label": "mandarin",
+      "text": "呃，整体来说呢，对我们漓江沿线的这个景色还是特别让我们陶醉的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，整体来说呢，对我们漓江沿线的这个景色，还是特别让我们陶醉的。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 60.336,
+      "end": 63.866,
+      "label": "mandarin",
+      "text": "呃，下次有机会也会带家人继续来我们阳朔来旅游。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，下次有机会也会带家人继续来我们阳朔来旅游。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 64.074,
+      "end": 67.44,
+      "label": "guilin",
+      "text": "去年冬天，一场小沙塘局的旅游业潮，",
+      "score": 0.5615,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.249,
+        "acoustic_dev": 0.963,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "去年冬天，一场小沙塘局的旅游夜茶。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 67.44,
+      "end": 70.974,
+      "label": "guilin",
+      "text": "杨哈尔滨的王女士看到了阳朔的风景，",
+      "score": 0.7129,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6039,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "滨/病",
+        "lexicon": "",
+        "text_free": "杨浩的病的王女士看到了杨硕的风景。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 71.262,
+      "end": 75.601,
+      "label": "mandarin",
+      "text": "于是在今年冬天，她决定亲自来看一看。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "于是，在今年冬天，他决定亲自来看一看。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 75.601,
+      "end": 78.36,
+      "label": "mandarin",
+      "text": "个人觉得会比电视上看上去更好一点，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "个人觉得会比电视上看上去更好一点。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 78.6,
+      "end": 81.899,
+      "label": "mandarin",
+      "text": "就是喜欢的还是自己亲自来看一下吧。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是喜欢的，还是自己亲自来看一下吧。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 81.899,
+      "end": 84.614,
+      "label": "mandarin",
+      "text": "就是不愧为桂林山水甲天下，",
+      "score": 0.0104,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0133,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是不愧为桂林山水甲天下。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 84.614,
+      "end": 87.587,
+      "label": "mandarin",
+      "text": "名不虚传。不仅是国内的游客，",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0327,
+        "acoustic_dev": 0.098,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "名不虚传。不仅是国内的游客。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 87.587,
+      "end": 90.868,
+      "label": "mandarin",
+      "text": "国外的旅游也被这里的美景所打动。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0071,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "国外的旅游也被这口的美景所打动。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 91.16,
+      "end": 94.745,
+      "label": "mandarin",
+      "text": "非常喜欢这次旅行，给我们很大的惊喜。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非常喜欢这次旅行，给我们很大的惊喜。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 94.745,
+      "end": 97.862,
+      "label": "mandarin",
+      "text": "坐游船很舒适，很惬意，沿途风景很好。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坐游船很舒适，很惬意，沿途风景很好。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 98.407,
+      "end": 104.253,
+      "label": "mandarin",
+      "text": "从国内外游客的共同声音当中，我们可以感受到大家对阳朔的喜爱。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从国内外游客的共同声音当中，我们可以感受到大家对阳朔的喜爱。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 104.519,
+      "end": 106.892,
+      "label": "uncertain",
+      "text": "不论是迷人的山水画卷，",
+      "score": 0.439,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1754,
+        "acoustic_dev": 0.668,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不论是民营的山水画卷。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 107.021,
+      "end": 109.553,
+      "label": "mandarin",
+      "text": "还是淳朴的风土人情，",
+      "score": 0.017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0165,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还是淳朴的风土人情。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 109.706,
+      "end": 112.056,
+      "label": "mandarin",
+      "text": "亦或是舒适的旅行体验，",
+      "score": 0.1209,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0664,
+        "acoustic_dev": 0.232,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "亦或是舒适的旅行体验。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 112.196,
+      "end": 114.871,
+      "label": "guilin",
+      "text": "阳朔都用它独有的方式，",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9411,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "杨朔都用他独有的方式。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 115.0,
+      "end": 118.792,
+      "label": "mandarin",
+      "text": "让每一位到访的游客留下了深刻的印象。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让每一位到访的游客留下了深刻的印象。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 118.993,
+      "end": 125.151,
+      "label": "mandarin",
+      "text": "未来，期待着愈发的阳朔，成为更多游客的心灵栖居之地。",
+      "score": 0.0449,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0299,
+        "acoustic_dev": 0.086,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "未来期待着愈发的阳朔，成为更多游客的心灵栖居之地。"
+      }
+    }
+  ]
+}

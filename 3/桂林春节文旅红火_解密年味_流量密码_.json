@@ -1,0 +1,1244 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林春节文旅红火_解密年味_流量密码_.wav",
+  "duration": 297.481,
+  "no_dialect": false,
+  "created_at": "2026-10-26T10:50:59",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.178,
+      "label": "mandarin",
+      "text": "今天是正月十三，年味不干。",
+      "score": 0.227,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0897,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "年/连",
+        "lexicon": "",
+        "text_free": "今天是正月十三，连尾补干。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.178,
+      "end": 7.018,
+      "label": "mandarin",
+      "text": "今天我们一起来回顾下我们桂林热闹的春节。",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0163,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们一起来回顾下午桂林热闹的春节。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.452,
+      "end": 10.006,
+      "label": "mandarin",
+      "text": "春节期间，桂林大街小巷、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "春节期间，桂林大街小巷。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.006,
+      "end": 16.456,
+      "label": "mandarin",
+      "text": "景点景区、商场、电影院都挤满了出门感受年味的市民游客。",
+      "score": 0.0632,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0599,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经典景区商超电影院都挤满了，出门感受年味的市民游客。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.779,
+      "end": 22.156,
+      "label": "mandarin",
+      "text": "火热的街头景象，不仅是释放出了桂林文旅市场活力满满的讯号，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0205,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "火热的街头景象，不仅是释放出了桂林文旅市场活力满满的讯号。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.384,
+      "end": 27.0,
+      "label": "mandarin",
+      "text": "更是显现出了我们桂林世界级旅游城市里崭新气",
+      "score": 0.0349,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0761,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是显现出了我们桂林世界级旅游城市的崭新气。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.42,
+      "end": 40.082,
+      "label": "guilin",
+      "text": "象。还在除夕夜，央视十连春晚上演桂林田心村的山水田园风光影像，",
+      "score": 0.6296,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2258,
+        "acoustic_dev": 0.991,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还在除夕夜，央视摄联春晚上一段桂林天心城的山水田园风光影像。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 40.222,
+      "end": 42.629,
+      "label": "uncertain",
+      "text": "吸引了全国人民的目光，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.0367,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引了全国人民的目光。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 42.924,
+      "end": 45.807,
+      "label": "mandarin",
+      "text": "堪称新春桂林第一彩蛋。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0162,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "堪称新春桂林第一彩蛋。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 46.151,
+      "end": 53.417,
+      "label": "mandarin",
+      "text": "在接下来的时间里面，烟火表演、民俗展示、非遗体验、山水旅拍等等文旅大餐，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0094,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在接下来的时间里面，烟火表演、民俗展示、非遗体验、山水旅拍等等文旅大餐。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 53.704,
+      "end": 56.824,
+      "label": "mandarin",
+      "text": "更是让中外游客大呼过瘾。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0125,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "耿世阳中外游客大呼国音。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 57.269,
+      "end": 64.11,
+      "label": "mandarin",
+      "text": "大年初一开始，央视玉龙河水面上蜿蜒的金龙，便霸屏了国内社交媒体。",
+      "score": 0.0394,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0642,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大年初一开始，阳朔玉龙河水面上蜿蜒的金龙便霸屏了国内社交媒体。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 64.458,
+      "end": 69.351,
+      "label": "mandarin",
+      "text": "在网友们的分享里面，金龙巡游、玉山水剪影、",
+      "score": 0.1616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2417,
+        "acoustic_dev": 0.164,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在网友们的分享里面，“锦龙寻游”与“山水剪影”。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 69.476,
+      "end": 72.921,
+      "label": "mandarin",
+      "text": "交响飞影、惊现中国式浪漫，",
+      "score": 0.3432,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3557,
+        "acoustic_dev": 0.26,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "惊/尽",
+        "lexicon": "",
+        "text_free": "交响飞鹰，尽显中国式浪漫。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 73.229,
+      "end": 77.538,
+      "label": "guilin",
+      "text": "杨远福迎剪金红雁、一睹迎剪盛世雁，",
+      "score": 0.7255,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7711,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.733,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.182,
+        "phon_examples": "世/死 金/惊",
+        "lexicon": "",
+        "text_free": "杨远赴人间，惊红颜；一度人间生死宴。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 77.674,
+      "end": 80.117,
+      "label": "mandarin",
+      "text": "成为了游客切身感受的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为了游客切身感受的。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 80.378,
+      "end": 84.682,
+      "label": "mandarin",
+      "text": "还有大年初一绽放在漓江之上的烟花大秀，",
+      "score": 0.1571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2313,
+        "acoustic_dev": 0.156,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有大年初一展放在丽江纸上的烟花大秀。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 84.876,
+      "end": 90.126,
+      "label": "mandarin",
+      "text": "璀璨的烟火在夜空当中编织出一幅幅壮丽画卷，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "璀璨的烟火在夜空当中编织出一幅幅壮丽画卷。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 90.385,
+      "end": 93.829,
+      "label": "mandarin",
+      "text": "吸引近二十万观众现场观看。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引近二十万观众现场观看。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 93.829,
+      "end": 96.484,
+      "label": "mandarin",
+      "text": "这个烟花秀跟我们桂林的山水，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个烟花秀跟我们桂林的山水。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 96.61,
+      "end": 99.139,
+      "label": "mandarin",
+      "text": "然后呼应成一道美丽的图画。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后呼应成一道美丽的图画。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 99.194,
+      "end": 101.814,
+      "label": "mandarin",
+      "text": "今天过来这边看的话，太值得了。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天过来这边看的话，太值得了。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 101.814,
+      "end": 104.038,
+      "label": "mandarin",
+      "text": "真的，这个烟花放出来非常的精彩，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0083,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "真的，这个烟花放出来非常的精彩。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 104.049,
+      "end": 108.105,
+      "label": "mandarin",
+      "text": "然后觉得跟我们桂林的山水结合起来也是美轮美奂，",
+      "score": 0.0228,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0508,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后我觉得，跟我们桂林的山水结合起来，也是美轮美奂。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 108.208,
+      "end": 114.82,
+      "label": "mandarin",
+      "text": "让小朋友也很喜欢。不仅是桂林市区龙胜龙脊梯田的火把巡游烟火秀，",
+      "score": 0.0971,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1242,
+        "acoustic_dev": 0.066,
+        "seg_cer": 0.138,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后小朋友也很喜欢。不仅是桂林市区，龙胜龙脊体天的火把巡游、烟火秀。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 115.042,
+      "end": 117.92,
+      "label": "mandarin",
+      "text": "给游客带来不一样的梯田景色；",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给游客带来不一样的梯田景色。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 118.303,
+      "end": 122.977,
+      "label": "mandarin",
+      "text": "全州大碧头国际旅游度假区的泡温泉、寻宝游戏、",
+      "score": 0.0499,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0557,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "泉州大笔头国际旅游度假区的泡温泉寻宝游戏。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 123.181,
+      "end": 126.006,
+      "label": "guilin",
+      "text": "非遗系列、老新村系列活动，",
+      "score": 0.728,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1629,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "新/行",
+        "lexicon": "",
+        "text_free": "或一系列“老行村”系列活动。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 126.253,
+      "end": 128.73,
+      "label": "mandarin",
+      "text": "带来康养旅游新体验；",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "带来康养旅游新体验。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 128.826,
+      "end": 132.493,
+      "label": "mandarin",
+      "text": "一个个以山水为幕布的迎新春活动，",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0311,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一个个以山水为目的的迎新春活动。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 132.658,
+      "end": 136.241,
+      "label": "mandarin",
+      "text": "充分展示出桂林山水旅游名城的魅力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0165,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "充分展示出桂林山水旅游名城的魅力。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 136.517,
+      "end": 140.438,
+      "label": "mandarin",
+      "text": "为文旅提档升级注入发展新动能。",
+      "score": 0.0386,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0599,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为文旅提档升级注入发展新动力。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 141.009,
+      "end": 144.967,
+      "label": "mandarin",
+      "text": "大年初六央视特别节目《来我家乡过大年》，",
+      "score": 0.1349,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2319,
+        "acoustic_dev": 0.156,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大年出炉！央视特别节目《来我家乡过大年》。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 145.16,
+      "end": 149.115,
+      "label": "mandarin",
+      "text": "还报道东丽古城热闹的年节场景，",
+      "score": 0.3432,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.304,
+        "acoustic_dev": 0.217,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "年/廉 闹/老",
+        "lexicon": "",
+        "text_free": "还报道：东丽古城夜老的廉洁场景。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 149.403,
+      "end": 153.068,
+      "label": "mandarin",
+      "text": "巡年味、品美食、看大戏、耍非遗。",
+      "score": 0.3056,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2019,
+        "acoustic_dev": 0.131,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "年/练",
+        "lexicon": "耍",
+        "text_free": "训练威品美食，看大戏，耍非遗。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 153.435,
+      "end": 162.481,
+      "label": "mandarin",
+      "text": "通过直播镜头，这一场热闹的年味大戏，让观众沉浸式的体验在桂林过春节的独特魅力。",
+      "score": 0.0127,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.028,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过直播镜头，这一场热闹的年味大戏，让观众沉浸式地体验在桂林过春节的独特魅力。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 163.008,
+      "end": 165.272,
+      "label": "uncertain",
+      "text": "作为首个非遗版春节，",
+      "score": 0.3866,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6986,
+        "acoustic_dev": 0.548,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为首个非一般春节。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 165.662,
+      "end": 170.606,
+      "label": "mandarin",
+      "text": "都秀峰王城景区以点亮桂林祈福中国为主题，",
+      "score": 0.2626,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5371,
+        "acoustic_dev": 0.412,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "杜修峰、王城景区以“点亮桂林，祈福中国”为主题。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 170.606,
+      "end": 173.971,
+      "label": "guilin",
+      "text": "精心策划了万人王府迷塔体验、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2538,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "精心策划了观影《王夫密塔提连》。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 174.111,
+      "end": 179.31,
+      "label": "mandarin",
+      "text": "手工剪纸等非遗及展示等一系列非遗主题活动。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0359,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "手工剪纸等非遗技艺展示等一系列非遗主题活动。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 179.633,
+      "end": 183.04,
+      "label": "mandarin",
+      "text": "让市民游客在游山玩水的同时，",
+      "score": 0.1888,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0461,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "民/名",
+        "lexicon": "",
+        "text_free": "杨氏名游客在游山玩水的同时。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 183.196,
+      "end": 186.04,
+      "label": "mandarin",
+      "text": "领略桂林非遗文化的独特魅力。",
+      "score": 0.0752,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "领略桂林非遗文化嘞独特魅力。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 186.41,
+      "end": 191.315,
+      "label": "mandarin",
+      "text": "永福县举行了状元巡游、龙狮送福巡游活动，",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0328,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "永福县举行了庄园巡游、龙狮送福巡游活动。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 191.558,
+      "end": 196.893,
+      "label": "mandarin",
+      "text": "为当地群众和游客带来了一场精彩的传统文化盛宴。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为当地群众和游客带来了一场精彩的传统文化盛宴。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 197.412,
+      "end": 204.217,
+      "label": "mandarin",
+      "text": "荔浦市举行了舞龙舞狮、社神消子扎排等巡游等等非遗巡游活动，",
+      "score": 0.3547,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2947,
+        "acoustic_dev": 0.209,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.375,
+        "phon_examples": "子/纸 神/生 市/斯",
+        "lexicon": "",
+        "text_free": "利普斯举行了舞龙舞狮、十二生肖纸扎、排灯巡游等等非遗巡游活动。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 204.448,
+      "end": 207.501,
+      "label": "mandarin",
+      "text": "为新春佳节增添喜庆气氛。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为新春佳节增添喜庆气氛。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 208.029,
+      "end": 215.116,
+      "label": "mandarin",
+      "text": "永创国际旅游度假区举办了非遗灯会、国风演绎、非遗花花秀等等活动，",
+      "score": 0.0315,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "永昌国际旅游度假区举办了非遗灯会、国风演绎、非遗火花秀等等活动。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 215.365,
+      "end": 219.445,
+      "label": "uncertain",
+      "text": "吸引了广大市民游客前去打卡留念。",
+      "score": 0.4802,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5503,
+        "acoustic_dev": 0.423,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "念/莲 民/名 市/四",
+        "lexicon": "",
+        "text_free": "吸引了光达四名游客前去打卡榴莲。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 219.445,
+      "end": 222.348,
+      "label": "mandarin",
+      "text": "城墙上我们挂上了巨幅对联，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "城墙上，我们挂上了巨幅对联。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 222.348,
+      "end": 225.773,
+      "label": "mandarin",
+      "text": "热烈欢迎来自五湖四海的游客来到桂林。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "热烈欢迎来自五湖四海的游客来到桂林。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 225.773,
+      "end": 228.023,
+      "label": "mandarin",
+      "text": "我们的五福神巡游王城，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0209,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们的五福神巡游王城。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 228.095,
+      "end": 233.253,
+      "label": "mandarin",
+      "text": "向市民表达美好祝愿，让人体验和传承王府蜜态的非遗技艺，",
+      "score": 0.0849,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1567,
+        "acoustic_dev": 0.093,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "向市民表达美好祝愿，万人体验和传承王府秘态的非遗技艺。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 233.253,
+      "end": 246.694,
+      "label": "mandarin",
+      "text": "也寓意着有福同享。值得一提的是，桂林博物馆、桂林美术馆、灵渠博物馆等等文博单位也举办了一系列特色展览展出和民俗文化体验活动。",
+      "score": 0.008,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.018,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也寓意着有福同享。值得一提的是，桂林博物馆、桂林美术馆、灵渠博物馆等等文博单位，也举办了一系列特色展览、展出或民俗文化体验活动。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 247.168,
+      "end": 251.823,
+      "label": "guilin",
+      "text": "桂林博物馆编排起联为就在博物馆第七季，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8034,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林博物馆便开启《连伟救灾博物馆》第七集。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 252.013,
+      "end": 255.122,
+      "label": "guilin",
+      "text": "四时如意，桂博贺岁，",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2437,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.625,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "四/事",
+        "lexicon": "",
+        "text_free": "事事如意，贵薄活岁。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 255.259,
+      "end": 261.658,
+      "label": "mandarin",
+      "text": "灵蛇献瑞，社联生肖文物图片联展等社联新春体验活动，",
+      "score": 0.275,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1686,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.348,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "蛇/色 灵/鳞",
+        "lexicon": "",
+        "text_free": "鳞色鲜锐，涉猎生肖文物图片、联展等涉猎新春体验活动。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 262.131,
+      "end": 264.629,
+      "label": "guilin",
+      "text": "让联为吹到文化传播，",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6113,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让连微吹到文化传播。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 264.829,
+      "end": 268.812,
+      "label": "mandarin",
+      "text": "浸润城市。桂海碑林博物馆举办了",
+      "score": 0.141,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1446,
+        "acoustic_dev": 0.083,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "浸润城市。国海柏林博物馆举办的。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 269.08,
+      "end": 272.402,
+      "label": "uncertain",
+      "text": "桂林石刻中的春夏秋冬联展、",
+      "score": 0.4929,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0872,
+        "acoustic_dev": 0.875,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林石刻中的春夏秋冬临展。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 272.811,
+      "end": 276.012,
+      "label": "guilin",
+      "text": "工艺塔碑体验等特色活动，",
+      "score": 0.5527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9451,
+        "acoustic_dev": 0.755,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "公益塔杯体联等特色活动。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 276.161,
+      "end": 280.086,
+      "label": "mandarin",
+      "text": "成为老市民游客读懂桂林的文化窗口。",
+      "score": 0.1289,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2757,
+        "acoustic_dev": 0.193,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为了市民游客读懂桂林的文化窗口。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 280.428,
+      "end": 283.898,
+      "label": "mandarin",
+      "text": "文化成为这个春节最浓郁的色彩。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文化成为这个春节最浓郁的色彩。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 283.898,
+      "end": 286.334,
+      "label": "mandarin",
+      "text": "那我觉得春节来博物馆",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那我觉得春节来博物馆。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 286.381,
+      "end": 290.298,
+      "label": "mandarin",
+      "text": "就是参观，也是一个与众不同的过春节的一种方式。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是参观也是一个与众不同的过春节的一种方式。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 290.298,
+      "end": 297.481,
+      "label": "mandarin",
+      "text": "通过这个展览，可以让我们感受到呃，七十年前跟现在的变化是非常大的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过这个展览，可以让我们感受到：呃，七十年前跟现在的变化是非常大的。"
+      }
+    }
+  ]
+}

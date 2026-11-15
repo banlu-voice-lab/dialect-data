@@ -1,0 +1,408 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "永福_瑶乡腊月打糍粑 山村里的春节味.wav",
+  "duration": 95.415,
+  "no_dialect": false,
+  "created_at": "2026-10-26T11:09:22",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.19,
+      "end": 5.335,
+      "label": "mandarin",
+      "text": "这段时间啊，国县乡村年味变得是更加的浓了。",
+      "score": 0.0802,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0494,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这段时间啊，各县乡村面貌变得是更加的浓了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.335,
+      "end": 7.978,
+      "label": "mandarin",
+      "text": "永福的糍粑、龙胜的豆腐酿等等，",
+      "score": 0.2014,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2717,
+        "acoustic_dev": 0.387,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "永福的糍粑，龙胜的豆腐，酿等等。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.207,
+      "end": 13.497,
+      "label": "mandarin",
+      "text": "这些传统的年食总能够勾起人们的年味记忆。",
+      "score": 0.0516,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0441,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这些传统的电视总能够勾起人们的年味记忆。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.622,
+      "end": 19.723,
+      "label": "mandarin",
+      "text": "打糍粑是永福县宝里镇和顺村三顺屯瑶族同胞的传统习俗。",
+      "score": 0.1366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0401,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "顺/孙 顺/孙",
+        "lexicon": "",
+        "text_free": "打糍粑是永福县宝里镇和孙村三孙屯瑶族同胞的传统习俗。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.948,
+      "end": 24.343,
+      "label": "mandarin",
+      "text": "每年腊月，当地群众就开始扶朋泛友打糍粑。",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0151,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每年腊月，当地群众就开始扶棚翻油打糍粑。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.634,
+      "end": 31.423,
+      "label": "mandarin",
+      "text": "永福县的非物质文化遗产“防子子糍粑”在糍粑当中加入了防子子成分，",
+      "score": 0.2286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0793,
+        "acoustic_dev": 0.065,
+        "seg_cer": 0.207,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "子/之 子/织 子/之 子/织",
+        "lexicon": "",
+        "text_free": "永福县的非物质文化遗产纺织之糍粑，在糍粑当中加入了纺织之成分。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.812,
+      "end": 35.305,
+      "label": "guilin",
+      "text": "既可增加美观，又可以防叶谢火，",
+      "score": 0.5903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.638,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "既可增加美观，又可以防野泄火。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.483,
+      "end": 38.143,
+      "label": "mandarin",
+      "text": "是永福人喜爱的特色美食。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0331,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是永福人喜爱的特色美食。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.586,
+      "end": 43.888,
+      "label": "mandarin",
+      "text": "此外，和顺瑶族村民的特色小米糍粑、玉米糍粑、",
+      "score": 0.1962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0174,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "民/名 族/主",
+        "lexicon": "",
+        "text_free": "此外，和顺窑主成名的特色小米糍粑、玉米糍粑。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 43.888,
+      "end": 47.404,
+      "label": "mandarin",
+      "text": "木薯糍粑也是别具滋味。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "木薯糍粑也是别具滋味。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.698,
+      "end": 52.067,
+      "label": "mandarin",
+      "text": "当人们把熟糯米饭倒入特制的石臼当中，",
+      "score": 0.2773,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2353,
+        "acoustic_dev": 0.326,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当一门把熟糯米饭倒入特制的食胶当中。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.176,
+      "end": 55.593,
+      "label": "mandarin",
+      "text": "便有村民两两一组在石臼边站好，",
+      "score": 0.2261,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1875,
+        "acoustic_dev": 0.246,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "便有臣民两两一组，在市九边站好。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 55.644,
+      "end": 60.364,
+      "label": "mandarin",
+      "text": "先是用力捶打，一直到把糯米饭捣得看不到饭粒，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0063,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "先是用力捶打，一直到把糯米饭捣得看不到饭粒。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 60.511,
+      "end": 63.318,
+      "label": "guilin",
+      "text": "大家再搬着山锅交错用力，",
+      "score": 0.728,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.0034,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "大家在伴着三锅交错用力。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.318,
+      "end": 66.368,
+      "label": "mandarin",
+      "text": "将米团捶成完全的烂泥状，",
+      "score": 0.1416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0312,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "泥/粒",
+        "lexicon": "",
+        "text_free": "将米团捶成完全的烂粒状。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 66.597,
+      "end": 71.738,
+      "label": "mandarin",
+      "text": "将其转移到做糍粑的台板上，交给早早等待的妇女们。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将其转移到做糍粑的台板上，交给早早等待的妇女们。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.009,
+      "end": 74.772,
+      "label": "guilin",
+      "text": "糍粑在她们手中甩打按压，",
+      "score": 0.6447,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7032,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "糍粑在他们的手中摔打、按压。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 74.888,
+      "end": 80.206,
+      "label": "mandarin",
+      "text": "最终成为一枚枚软乎乎、糯叽叽的圆饼状的糍粑。",
+      "score": 0.0686,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0137,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这种成为一枚枚圆乎乎、糯叽叽的圆饼状的糍粑。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.523,
+      "end": 84.886,
+      "label": "mandarin",
+      "text": "糍粑是和顺村老百姓过年必备的食品之一，",
+      "score": 0.291,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2014,
+        "acoustic_dev": 0.27,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "顺/孙",
+        "lexicon": "",
+        "text_free": "糍粑是和孙承老百姓过年必备的食品之一。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 85.018,
+      "end": 89.459,
+      "label": "mandarin",
+      "text": "也是瑶族习俗当中拜年时候的送礼佳品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0272,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是瑶族习俗当中拜年时候的送礼佳品。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 89.666,
+      "end": 95.415,
+      "label": "mandarin",
+      "text": "寓意着将团圆和睦的祝福传递给亲朋好友。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "寓意着将团圆和目的祝福传递给亲朋好友。"
+      }
+    }
+  ]
+}

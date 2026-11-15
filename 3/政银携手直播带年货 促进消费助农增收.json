@@ -1,0 +1,1339 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "政银携手直播带年货 促进消费助农增收.wav",
+  "duration": 308.524,
+  "no_dialect": false,
+  "created_at": "2026-10-26T10:06:26",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.429,
+      "end": 2.9,
+      "label": "guilin",
+      "text": "还有一锅里边就出息了。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4046,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有一个礼拜就除夕了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.9,
+      "end": 5.697,
+      "label": "mandarin",
+      "text": "现在的年味啊，是浓得发不开。",
+      "score": 0.1976,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0168,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "浓/龙",
+        "lexicon": "",
+        "text_free": "现在的年尾啊，是龙的发不开。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 5.902,
+      "end": 8.379,
+      "label": "mandarin",
+      "text": "前几天，桂林市委网信办、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0088,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天，桂林市委网信办。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 8.379,
+      "end": 16.06,
+      "label": "mandarin",
+      "text": "共青团市委、桂林银行桂林分行联合举办了桂味年夜饭、吃出团圆味、",
+      "score": 0.0722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1151,
+        "acoustic_dev": 0.076,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共青团市委、桂林银行桂林分行联合举办了“归位年夜饭，吃出团圆味”。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.06,
+      "end": 19.844,
+      "label": "uncertain",
+      "text": "年货节直播活动，邀请了灵川炭巷、",
+      "score": 0.4627,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4977,
+        "acoustic_dev": 0.446,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "灵/临 年/联",
+        "lexicon": "",
+        "text_free": "联货节直播活动，邀请了临川檀香。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.28,
+      "end": 25.569,
+      "label": "mandarin",
+      "text": "灵桂飞仙等地的政府人员和驻村第一书记来到直播间，",
+      "score": 0.2516,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2587,
+        "acoustic_dev": 0.215,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "灵/临",
+        "lexicon": "",
+        "text_free": "临桂、飞仙等地的政府人员和驻城第一书记来到直播间。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 25.764,
+      "end": 28.388,
+      "label": "guilin",
+      "text": "通过这个年货直播的形式，",
+      "score": 0.573,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8112,
+        "acoustic_dev": 0.75,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "年/联",
+        "lexicon": "",
+        "text_free": "通过这个联合直播的形式。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 28.388,
+      "end": 30.443,
+      "label": "guilin",
+      "text": "大大地增添了过年的气息，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3435,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大力增添国力人的气息。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.602,
+      "end": 34.786,
+      "label": "mandarin",
+      "text": "也为农民带来了真真切切的经济效益。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "又为农民带来了真真切切的经济效益。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.964,
+      "end": 50.079,
+      "label": "mandarin",
+      "text": "在直播现场，飞仙板鸭、龙胜瑶鸡、灌阳方冠面条、平乐烤肉等桂林本地耳熟能详的土特产摆满了一桌，",
+      "score": 0.1757,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1463,
+        "acoustic_dev": 0.106,
+        "seg_cer": 0.195,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "仙/香",
+        "lexicon": "",
+        "text_free": "在直播现场，飞香板鸭、龙升鸭鸡、官阳坊官面条、平罗扣肉等桂林本地耳熟能详的土特产摆满了一桌。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 50.313,
+      "end": 53.037,
+      "label": "mandarin",
+      "text": "营造出浓浓的年节烟火气。",
+      "score": 0.182,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.233,
+        "acoustic_dev": 0.19,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "营造出浓浓的银尖烟火气。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 53.305,
+      "end": 59.196,
+      "label": "mandarin",
+      "text": "来自桂林银行的工作人员、桂林银行龙城普惠金融综合服务店负责人，",
+      "score": 0.2158,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2057,
+        "acoustic_dev": 0.164,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "龙/农",
+        "lexicon": "",
+        "text_free": "来自桂林银行的工作人员，桂林银行农村普惠金融综合服务点负责人。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 59.392,
+      "end": 63.75,
+      "label": "uncertain",
+      "text": "以及我市多个县区的乡村振兴干部和驻村第一书记，",
+      "score": 0.5057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8351,
+        "acoustic_dev": 0.773,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以及我是多个县区的乡镇干部和驻城第一书记。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 63.964,
+      "end": 68.839,
+      "label": "guilin",
+      "text": "以年货推荐官的身份共品桂味年夜饭，",
+      "score": 0.7185,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6941,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.812,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.154,
+        "phon_examples": "品/平 年/联",
+        "lexicon": "",
+        "text_free": "以联合特监管理身份，公平归位林业犯。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 68.839,
+      "end": 75.386,
+      "label": "mandarin",
+      "text": "共推桂味好物，为积极拓展桂林各区县小吃、土特产等产品的销路，",
+      "score": 0.1046,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.064,
+        "acoustic_dev": 0.027,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "奉推桂味好物，为积极拓展桂林各区鲜小吃、土特产等产品嘞销路。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 75.535,
+      "end": 81.241,
+      "label": "mandarin",
+      "text": "打造特色农产品品牌。桂林银行桂林分行立足灵桂、灵川、",
+      "score": 0.1398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0197,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "灵/临 灵/临",
+        "lexicon": "",
+        "text_free": "打造特色农产品品牌。桂林银行桂林分行立足临桂、临川。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 81.241,
+      "end": 83.764,
+      "label": "guilin",
+      "text": "全州、灌阳等多个县区，",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3969,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "泉州、关阳等多个县区。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 83.957,
+      "end": 88.044,
+      "label": "mandarin",
+      "text": "为广大消费者准备了六十多款的农特产品，",
+      "score": 0.1254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0245,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "农/龙",
+        "lexicon": "",
+        "text_free": "为广大消费者准备了六十多款的龙特产品。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 88.258,
+      "end": 91.512,
+      "label": "mandarin",
+      "text": "以满足不同群体的过年消费需求。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以满足不同群体的过年消费需求。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 91.719,
+      "end": 95.278,
+      "label": "mandarin",
+      "text": "我们两河镇政府与桂林银行全州支行",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们两河镇政府与桂林银行泉州支行。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.362,
+      "end": 100.418,
+      "label": "mandarin",
+      "text": "进行党建结对共建，通过桂林银行网络直播间、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0074,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进行党建结对共建，通过桂林银行网络直播间。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 100.418,
+      "end": 102.894,
+      "label": "guilin",
+      "text": "天天开心团、食堂趴、",
+      "score": 0.5771,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.6645,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "天天开军团，食堂趴。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 102.894,
+      "end": 106.016,
+      "label": "mandarin",
+      "text": "年货节等优质的线上线下",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "年货节等优质的线上线下。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 106.098,
+      "end": 109.098,
+      "label": "mandarin",
+      "text": "销售资源，为我们村销售",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "销售资源，为我们村销售。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 109.38,
+      "end": 113.806,
+      "label": "mandarin",
+      "text": "甜糯玉米七百多份，金怀面六百多份，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0087,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "甜糯玉米七百多份，金淮面六百多份。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 113.806,
+      "end": 116.294,
+      "label": "uncertain",
+      "text": "真正地做到了助力乡村振兴，",
+      "score": 0.3869,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7296,
+        "acoustic_dev": 0.671,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "真正的做到了助力乡村振兴。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 116.793,
+      "end": 119.949,
+      "label": "mandarin",
+      "text": "为农民增收致富。非常感谢桂林银行。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为农民增收致富，非常感谢桂林银行。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 120.257,
+      "end": 122.92,
+      "label": "mandarin",
+      "text": "今天参加这个直播，啊，",
+      "score": 0.0875,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1096,
+        "acoustic_dev": 0.071,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天参加这个直播啊！嗯。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 122.92,
+      "end": 125.684,
+      "label": "mandarin",
+      "text": "除了把我们塘下的知名度提高，",
+      "score": 0.1029,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.241,
+        "acoustic_dev": 0.198,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "除了把我们塘下的知名度提高。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 125.684,
+      "end": 128.855,
+      "label": "mandarin",
+      "text": "把我们塘下的农副产品推荐给各位以外，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0121,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把我们堂下的农副产品推荐给各位以外。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 129.084,
+      "end": 131.974,
+      "label": "mandarin",
+      "text": "啊，我们也通过这种模式，",
+      "score": 0.0256,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0874,
+        "acoustic_dev": 0.049,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，我们也通过这种模式。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 132.234,
+      "end": 136.106,
+      "label": "mandarin",
+      "text": "让我们更多的产品走向桂林，",
+      "score": 0.0002,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0369,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让我们更多的产品走向桂林。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 136.106,
+      "end": 140.06,
+      "label": "mandarin",
+      "text": "啊，走向广西，走向我们全中国，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，走向广西，走向我们全中国。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 140.165,
+      "end": 143.61,
+      "label": "mandarin",
+      "text": "啊，让更多的朋友了解我们塘下，了解我们灵川。",
+      "score": 0.1722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0361,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "灵/临",
+        "lexicon": "",
+        "text_free": "啊，让更多的朋友了解我们，谈一下，了解我们临川。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 143.61,
+      "end": 148.302,
+      "label": "mandarin",
+      "text": "直播间里头搞的优惠活动引起消费者火热追捧，",
+      "score": 0.095,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.18,
+        "acoustic_dev": 0.139,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "直播间里头过的优惠活动，引起消费者火热追捧。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 148.569,
+      "end": 155.161,
+      "label": "mandarin",
+      "text": "关于桂林美食和特色农产品的风土人情也引发线上观众热议。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "关于桂林美食和特色农产品的风土人情，也引发线上观众热议。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 155.387,
+      "end": 159.944,
+      "label": "mandarin",
+      "text": "值得一提的是，本次直播活动在参与人次、下单数据、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "值得一提的是，本次直播活动在参与人次、下单数据。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 159.944,
+      "end": 163.402,
+      "label": "mandarin",
+      "text": "互动频次等方面均远超预期，",
+      "score": 0.119,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1216,
+        "acoustic_dev": 0.082,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "互动品质等方面，均远超预期。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 163.611,
+      "end": 168.078,
+      "label": "mandarin",
+      "text": "实现了产品推广和地域文化推广的多重效果，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现了产品推广和地域文化推广的多重效果。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 168.078,
+      "end": 173.144,
+      "label": "mandarin",
+      "text": "有效助力桂林各区县好物辐射广西，走向全国。",
+      "score": 0.2846,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4586,
+        "acoustic_dev": 0.408,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有效助力桂林国先驱好物辐射广西，走向全国。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 173.144,
+      "end": 178.11,
+      "label": "mandarin",
+      "text": "很荣幸作为第一书记参加桂林银行的年货直播节活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很荣幸作为第一书记参加桂林银行的年货直播节活动。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 178.11,
+      "end": 181.28,
+      "label": "mandarin",
+      "text": "这是群众喜闻乐见的方式和渠道，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这是群众喜闻乐见的方式和渠道。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 181.378,
+      "end": 186.486,
+      "label": "mandarin",
+      "text": "一方面可以向。广大消费者分享和呈现我们优质的农特产品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0086,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一方面，可以向广大消费者分享和呈现我们优质的农特产品。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 186.59,
+      "end": 191.676,
+      "label": "mandarin",
+      "text": "另一方面也是最重要的，可以促进农特产品的销售和推广，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "另一方面也是最重要的，可以促进农特产品的销售和推广。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 191.676,
+      "end": 196.02,
+      "label": "mandarin",
+      "text": "带动村民就业增收，联农带农助力乡村振兴。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "带动村民就业增收，联农带农，助力乡村振兴。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 196.02,
+      "end": 199.294,
+      "label": "guilin",
+      "text": "今年以来，我们会仙通过这个政企银合作，",
+      "score": 0.5738,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2262,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年以来了，我们会先通过这个政企银合作。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 199.294,
+      "end": 203.715,
+      "label": "uncertain",
+      "text": "然后推出了提升我们三提升我们会仙的农产品的附加值，",
+      "score": 0.5475,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9353,
+        "acoustic_dev": 0.87,
+        "seg_cer": 0.208,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "又推出了提升我们，想提升我们慧鑫的农产品的附加值。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 203.978,
+      "end": 207.498,
+      "label": "uncertain",
+      "text": "一是我们跟丽源粮油推出我们会仙湿地的大米，",
+      "score": 0.4078,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7105,
+        "acoustic_dev": 0.652,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是我们跟丽源粮油推出了我们汇仙湿地的大米。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 207.898,
+      "end": 212.708,
+      "label": "mandarin",
+      "text": "然后跟桂农牧业合作推出了我们桂牛会仙板鸭，",
+      "score": 0.2789,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2643,
+        "acoustic_dev": 0.22,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "牛/柳",
+        "lexicon": "",
+        "text_free": "然后跟桂柳木业合作，推出了我们桂柳汇鲜板鸭。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 212.827,
+      "end": 218.0,
+      "label": "mandarin",
+      "text": "对，我们就是想通过这样的方式，能够把我们会仙的农产品的品牌做出来，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0055,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对我们就是想通过这样的方式，能够把我们贵姓的农产品的品牌做出来。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 218.0,
+      "end": 229.706,
+      "label": "guilin",
+      "text": "做的更好，能走得更远。此次桂威联业方此次团员为桂林沃物联合节直播，是桂林银行桂林分行联合节系列活动当中的一方，",
+      "score": 0.5865,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7272,
+        "acoustic_dev": 0.668,
+        "seg_cer": 0.373,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.316,
+        "phon_examples": "方/番 联/年 联/年 林/零 方/饭 联/年",
+        "lexicon": "",
+        "text_free": "做得更好，能走得更远。此次“贵为年夜饭”播出团圆味，二零二五年货节直播是桂林银行桂林分行年货节系列活动当中的一番。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 229.954,
+      "end": 233.483,
+      "label": "mandarin",
+      "text": "也是桂林银行助农增收的切实举措。",
+      "score": 0.1748,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "增/征",
+        "lexicon": "",
+        "text_free": "也是桂林银行主动征收的切实举措。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 233.744,
+      "end": 238.119,
+      "label": "mandarin",
+      "text": "近年来，桂林银行紧扣做好科技金融、绿色金融、",
+      "score": 0.0412,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0706,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，桂林银行紧扣走好科技金融、绿色金融。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 238.21,
+      "end": 243.163,
+      "label": "mandarin",
+      "text": "普惠金融、养老金融、数字金融五篇大文章的目标，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0246,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "普惠金融、养老金、数字金融五篇大文章的目标。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 243.53,
+      "end": 247.645,
+      "label": "mandarin",
+      "text": "深耕乡村金融，聚焦乡村特色产业，",
+      "score": 0.0004,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0372,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "深耕乡村金融，聚焦乡村特色产业。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 247.746,
+      "end": 251.449,
+      "label": "mandarin",
+      "text": "不断加大涉农主体的金融支持力度，",
+      "score": 0.0033,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0431,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断加大涉农主体的金融支持力度。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 251.613,
+      "end": 256.965,
+      "label": "guilin",
+      "text": "为各类市场主体提供全方位深层次有温度的金融服务，",
+      "score": 0.6598,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3814,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "类/内",
+        "lexicon": "",
+        "text_free": "为国内市场主体提供全方位、深层次、有温度的金融服务。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 257.145,
+      "end": 261.904,
+      "label": "mandarin",
+      "text": "用心用情用力为乡村振兴赋能增色。",
+      "score": 0.104,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2431,
+        "acoustic_dev": 0.2,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用心、用情、用力，为乡村振兴赋能增色。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 262.007,
+      "end": 264.438,
+      "label": "mandarin",
+      "text": "此次我们联合市委网信办、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此次我们联合市委网信办。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 264.618,
+      "end": 267.183,
+      "label": "uncertain",
+      "text": "团市委举办联合节直播活动，",
+      "score": 0.5494,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0525,
+        "acoustic_dev": 0.983,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "团市委举办联货节直播活动。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 267.216,
+      "end": 271.43,
+      "label": "mandarin",
+      "text": "不仅是我们在金融赋能乡村振兴领域的一次积极探索，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅是我们在金融赋能乡村振兴领域的一次积极探索。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 271.43,
+      "end": 275.513,
+      "label": "mandarin",
+      "text": "更是我们与乡镇代表、驻村第一书记紧密合作，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是我们与乡镇代表、驻村第一书记紧密合作。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 275.513,
+      "end": 278.898,
+      "label": "mandarin",
+      "text": "共同推进乡村振兴发展的具体实践。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同推进乡村振兴发展的具体实践。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 278.898,
+      "end": 283.646,
+      "label": "mandarin",
+      "text": "通过此次直播，我们希望推动各乡镇农产品出村进城，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过此次直播，我们希望推动各乡镇农产品出村进城。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 283.742,
+      "end": 290.009,
+      "label": "mandarin",
+      "text": "走向我们联业方的餐桌，将乡村优质农产品和传统文化推向更广阔的舞台。",
+      "score": 0.2694,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2266,
+        "acoustic_dev": 0.184,
+        "seg_cer": 0.161,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "方/饭 联/年",
+        "lexicon": "",
+        "text_free": "走上咱们年夜饭的餐桌，将乡村优质农产品和传统文化推向更广阔的舞台。"
+      }
+    },
+    {
+      "id": 66,
+      "start": 290.066,
+      "end": 292.376,
+      "label": "mandarin",
+      "text": "同时，我们也希望通过这样的方式，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，我们也希望通过这样的方式。"
+      }
+    },
+    {
+      "id": 67,
+      "start": 292.454,
+      "end": 296.091,
+      "label": "mandarin",
+      "text": "拓宽我们农产品的销售渠道，打响我们桂威品牌，",
+      "score": 0.1904,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3241,
+        "acoustic_dev": 0.278,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拓宽我们农产品的销售渠道，打响我们贵位品牌。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 296.091,
+      "end": 298.928,
+      "label": "mandarin",
+      "text": "助力乡村经济多元化的发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "助力乡村经济多元化的发展。"
+      }
+    },
+    {
+      "id": 69,
+      "start": 298.928,
+      "end": 304.43,
+      "label": "mandarin",
+      "text": "未来，我们桂林银行桂林分行将进一步帮助老百姓更好的实现增收致富，",
+      "score": 0.0152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "未来，我们桂林银行桂林分行将进一步帮助老百姓更好地实现增收致富。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 304.43,
+      "end": 308.524,
+      "label": "mandarin",
+      "text": "为全面推进乡村振兴提供有力的金融支撑。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为全面推进乡村振兴提供有力的金融支撑。"
+      }
+    }
+  ]
+}

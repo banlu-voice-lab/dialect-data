@@ -1,0 +1,446 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "龙胜_古法榨茶油 年味_油_然而生.wav",
+  "duration": 105.064,
+  "no_dialect": false,
+  "created_at": "2026-10-26T12:27:20",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.649,
+      "end": 7.67,
+      "label": "mandarin",
+      "text": "这一段时间啊，龙胜瓢里镇的古法榨茶油厂也是迎来了一年当中最忙碌的时刻，",
+      "score": 0.0277,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0241,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.061,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一段时间啊，龙胜朴里镇的古发榨茶油厂也是迎来了一年当中最忙碌的时刻。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.67,
+      "end": 10.49,
+      "label": "mandarin",
+      "text": "年味更是油然而生。",
+      "score": 0.3714,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2013,
+        "acoustic_dev": 0.286,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "年/连",
+        "lexicon": "",
+        "text_free": "连维更是有言而生。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.849,
+      "end": 15.709,
+      "label": "mandarin",
+      "text": "每年的这个时候，乡亲们就会把晒干的山茶籽送到榨油厂，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每年的这个时候，乡亲们就会把晒干的山茶籽送到榨油厂。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.709,
+      "end": 20.694,
+      "label": "mandarin",
+      "text": "期待着用最传统的方式，把它转化为珍贵的茶油。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0347,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "期待着用这一传统的方式，把它转化为珍贵的茶油。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.011,
+      "end": 24.7,
+      "label": "mandarin",
+      "text": "在油厂里面，到处都是榨油师傅忙碌的身影，",
+      "score": 0.1508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "影/音 身/声",
+        "lexicon": "",
+        "text_free": "在油厂里面，到处都是榨油师傅忙碌的声音。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.7,
+      "end": 29.18,
+      "label": "uncertain",
+      "text": "烘烤茶籽、点击碾粉、木蒸蒸熟、压制茶饼、",
+      "score": 0.5293,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.354,
+        "acoustic_dev": 0.55,
+        "seg_cer": 0.562,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "蒸/诊 蒸/诊 碾/脸",
+        "lexicon": "",
+        "text_free": "红烤叉子，点击脸粉，目诊诊数，压制叉饼。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.18,
+      "end": 32.215,
+      "label": "uncertain",
+      "text": "压榨取油，一系列程序过后，",
+      "score": 0.4458,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2841,
+        "acoustic_dev": 0.429,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "榨/杂",
+        "lexicon": "",
+        "text_free": "亚杂区有一系列程序过后。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.215,
+      "end": 38.15,
+      "label": "mandarin",
+      "text": "色泽金黄透亮，散发着淡雅清香的新鲜山茶油汩汩流出。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0197,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "色泽金黄透亮，散发着淡雅清香的新鲜山茶油，汩汩流出。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.55,
+      "end": 44.81,
+      "label": "mandarin",
+      "text": "工序虽然繁琐，但是承载着当地人对传统工艺的坚守与热爱。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "工序虽然繁琐，但是承载着当地人对传统工艺的坚守与热爱。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 45.173,
+      "end": 50.932,
+      "label": "mandarin",
+      "text": "前来榨油的村民告诉记者，每年春节前，他都会带到茶籽来这个榨油。",
+      "score": 0.0611,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0489,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.107,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前来榨油的村民告诉记者：“每年春节前，他都会带到车子来这里榨油。”"
+      }
+    },
+    {
+      "id": 11,
+      "start": 51.196,
+      "end": 55.66,
+      "label": "mandarin",
+      "text": "他的印象里面，山茶油不仅仅是一种食用油，",
+      "score": 0.1595,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0084,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "它的印象里面，三叉油不仅仅是一种食用油。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 55.66,
+      "end": 58.156,
+      "label": "mandarin",
+      "text": "更是家乡年味的象征。",
+      "score": 0.2016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0097,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "年/脸",
+        "lexicon": "",
+        "text_free": "更是家乡脸美的象征。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 58.156,
+      "end": 61.56,
+      "label": "guilin",
+      "text": "我拿四百斤茶籽也榨出来，慢慢一点一点的，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3386,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.778,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那四百斤，差得也差去了，蛮满意的。也。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 61.88,
+      "end": 66.414,
+      "label": "mandarin",
+      "text": "那也榨油过年，这个气啊，有点茶油过年才像过年的样子嘛。",
+      "score": 0.3142,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2369,
+        "acoustic_dev": 0.348,
+        "seg_cer": 0.292,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有炸油过年，这个去啊，要点炸油过年，才去像过年的样子嘛。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 66.458,
+      "end": 72.04,
+      "label": "mandarin",
+      "text": "而另外一边，榨油厂的文忠才师傅也是忙得不亦乐乎。",
+      "score": 0.0623,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0117,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而另一边，榨油厂的文中财师傅也是忙得不亦乐乎。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 72.04,
+      "end": 75.44,
+      "label": "uncertain",
+      "text": "我们从每年十一月份就开始榨油，",
+      "score": 0.5404,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5284,
+        "acoustic_dev": 0.851,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们从每年十一月份初日开始加油。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 75.803,
+      "end": 78.28,
+      "label": "mandarin",
+      "text": "一直榨到过年，因为",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0354,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以及再到过年，因为。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 78.752,
+      "end": 81.9,
+      "label": "guilin",
+      "text": "他们过年要用这个茶油来炸炸豆腐、",
+      "score": 0.6419,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6364,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看哥哥呀，要用这个茶油来炸炸豆腐。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 82.03,
+      "end": 87.24,
+      "label": "guilin",
+      "text": "搞炸扣肉过年，所以每一年他们要在过年之前来榨油，",
+      "score": 0.6239,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2627,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "搞炸扣油过年。现在每一年，他都要在过年之前来炸油。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 87.394,
+      "end": 91.48,
+      "label": "mandarin",
+      "text": "这样才有好过年。现在一天基本上八百到一千斤。",
+      "score": 0.0686,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0091,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一样会说好过年。现在一天基本上八百到一千斤。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 91.48,
+      "end": 96.581,
+      "label": "uncertain",
+      "text": "象征着传统工艺的榨油坊还分布在龙胜的好多个村庄，",
+      "score": 0.4444,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3641,
+        "acoustic_dev": 0.567,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "龙/农",
+        "lexicon": "",
+        "text_free": "像这种传统工艺的榨油坊，还分布在农村的好多个村庄。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 96.829,
+      "end": 100.252,
+      "label": "mandarin",
+      "text": "他们用纯正的味道和质朴的情怀，",
+      "score": 0.1254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1024,
+        "acoustic_dev": 0.116,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "糖用纯正的味道和质朴的情怀。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 100.411,
+      "end": 105.064,
+      "label": "mandarin",
+      "text": "让古老的山茶油文化得以传承与延续。",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让古老的陕茶油文化得以传承与延续。"
+      }
+    }
+  ]
+}

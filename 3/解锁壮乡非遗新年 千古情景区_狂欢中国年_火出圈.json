@@ -1,0 +1,826 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "解锁壮乡非遗新年 千古情景区_狂欢中国年_火出圈.wav",
+  "duration": 187.209,
+  "no_dialect": false,
+  "created_at": "2026-10-26T11:43:00",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.262,
+      "end": 2.92,
+      "label": "mandarin",
+      "text": "还有二十天就要过年了，这一段时间，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0191,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有二十天就要过年了，这一段时间。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.172,
+      "end": 6.83,
+      "label": "mandarin",
+      "text": "桂林的节庆活动啊，可以说是越来越火热。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0083,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林的节庆活动啊，可以讲是越来越火热。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.027,
+      "end": 11.088,
+      "label": "mandarin",
+      "text": "元旦当天，桂林千古情景区狂欢中国年，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0348,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "元旦当天，桂林千古情景区狂欢中国年。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.088,
+      "end": 13.984,
+      "label": "mandarin",
+      "text": "开放探营，火舞狂翻、",
+      "score": 0.3181,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7872,
+        "acoustic_dev": 0.502,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "开放滩营，火舞狂翻。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 13.984,
+      "end": 21.554,
+      "label": "mandarin",
+      "text": "龙狮迎宾、壮象飞、祭祀、新年飞影、乐飞等等一系列的活动陆续开展，",
+      "score": 0.3177,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4783,
+        "acoustic_dev": 0.255,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.1,
+        "phon_examples": "影/音",
+        "lexicon": "",
+        "text_free": "龙狮迎宾、装箱非遗集市、行莲非遗音乐会等等一系列的活动，陆续开展。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.658,
+      "end": 25.26,
+      "label": "mandarin",
+      "text": "吸引了大量游客前来参与体验。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引大量游客前来参与体验。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 25.627,
+      "end": 31.189,
+      "label": "guilin",
+      "text": "千古情景区狂欢中国年，感受壮韵新年正趣大开放时，",
+      "score": 0.5868,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1866,
+        "acoustic_dev": 0.821,
+        "seg_cer": 0.409,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "千古情景区狂翻中国年，解说装运新年，正确打开方式。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.429,
+      "end": 34.431,
+      "label": "guilin",
+      "text": "一路有戏非遗展示、西京武术、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2708,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一路有戏，非一展事，喜景无数。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.508,
+      "end": 38.678,
+      "label": "guilin",
+      "text": "开门迎宾的彩事、土福喜迎八方客，",
+      "score": 0.5914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0973,
+        "acoustic_dev": 0.749,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "迎/引",
+        "lexicon": "",
+        "text_free": "开门迎宾的才是屠夫，吸引八方客。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 38.921,
+      "end": 41.483,
+      "label": "mandarin",
+      "text": "阳朔古城街巷叫卖声、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1586,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "阳朔古城，街巷叫卖声。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 41.483,
+      "end": 43.892,
+      "label": "guilin",
+      "text": "勾勒出一幅连俗画卷，",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4672,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.556,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "俗/术",
+        "lexicon": "",
+        "text_free": "勾勒出一副脸，术法圈。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 44.032,
+      "end": 46.168,
+      "label": "guilin",
+      "text": "壮乡大油茶、桂林螺粉、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.065,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.556,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "装香打油茶，桂林罗芳。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 46.597,
+      "end": 52.683,
+      "label": "mandarin",
+      "text": "妙笔写春，还有古法琉璃、打年糕、奇山灯非遗互动，",
+      "score": 0.0652,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2055,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "妙笔写春，还有古法琉璃打年糕、砌山等非遗互动。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 52.825,
+      "end": 55.863,
+      "label": "mandarin",
+      "text": "让游客深度感受壮乡风情。",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让游客深度感受庄巷风情。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 56.014,
+      "end": 59.944,
+      "label": "guilin",
+      "text": "让大家沉浸在流动的新年狂欢当中，",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7502,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "年/恋 新/行 浸/经 沉/曾",
+        "lexicon": "",
+        "text_free": "让大家曾经在流动里行恋狂翻当中。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 59.944,
+      "end": 64.583,
+      "label": "mandarin",
+      "text": "氛围非常好。然后在那个阳朔古镇那边也有很多的表演，",
+      "score": 0.0354,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.196,
+        "acoustic_dev": 0.03,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "氛围非常好。然后在那个阳朔古村那边，也有很多的表演。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 64.583,
+      "end": 68.064,
+      "label": "mandarin",
+      "text": "民族的伞秀，还有猜歌迷啊，这个猜这个，",
+      "score": 0.1286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0436,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "伞/闪",
+        "lexicon": "",
+        "text_free": "民族的闪秀，还有猜歌迷啊，这个猜这个。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 68.15,
+      "end": 71.777,
+      "label": "mandarin",
+      "text": "还有什么？猜灯谜这些活动都非常精彩。",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0087,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那什么，猜灯谜这些活动都非常精彩。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 71.777,
+      "end": 74.775,
+      "label": "mandarin",
+      "text": "活动还带来了非遗变脸表演、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1368,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动还带来了非遗变脸表演。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 74.775,
+      "end": 78.079,
+      "label": "mandarin",
+      "text": "盖头变脸、八头变脸、国粹变脸等等，",
+      "score": 0.2411,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4248,
+        "acoustic_dev": 0.213,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "改头变脸，拔头变脸，过嘴变脸等等。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 78.383,
+      "end": 82.304,
+      "label": "mandarin",
+      "text": "这些精彩独特的表演引得游客阵阵惊呼，",
+      "score": 0.0568,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1659,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这些精彩绝伦的表演，引得游客阵阵惊呼。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 82.434,
+      "end": 86.072,
+      "label": "mandarin",
+      "text": "变脸艺术的魅力展现了淋漓尽致。",
+      "score": 0.098,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0662,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "别恋艺术的魅力展现得淋漓尽致。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 86.072,
+      "end": 90.542,
+      "label": "mandarin",
+      "text": "非常细节，非常棒。我觉得最深刻的还是刚在那个里边跳舞",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非常细腻，非常棒。我觉得最深刻的还是刚刚在那个里边跳舞。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 90.989,
+      "end": 93.775,
+      "label": "mandarin",
+      "text": "啊，然后在他们那个狮子那个，哈",
+      "score": 0.3647,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8676,
+        "acoustic_dev": 0.566,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，然后对他们那个狮子，那个raf。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 94.2,
+      "end": 98.184,
+      "label": "mandarin",
+      "text": "哈，在那个项目，因为我感觉刚那个环境就特别特别有感觉，",
+      "score": 0.0982,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2575,
+        "acoustic_dev": 0.079,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "做那个项目，因为我感觉刚刚那个环境就特别特别有感觉。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 98.35,
+      "end": 104.214,
+      "label": "mandarin",
+      "text": "呃，很感觉很靠近，就是直直之前古代那个呃时候，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0134,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，很感觉很靠近，就是直直前古代那个呃时候。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 104.214,
+      "end": 110.198,
+      "label": "mandarin",
+      "text": "是吧？大油茶，哎，其实我我觉得那个特别特别棒，因为它也是算是养生的吧？",
+      "score": 0.0152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0152,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是吧？打油茶，哎，其实我我觉得那个特别特别棒，因为它也是算是养生的吧。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 110.198,
+      "end": 113.858,
+      "label": "mandarin",
+      "text": "对，我特别喜欢养生，而且那个那个油茶特别香，",
+      "score": 0.0722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0173,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哦对，我特别希望养生，而且那个那个油茶特别香。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 113.886,
+      "end": 116.789,
+      "label": "mandarin",
+      "text": "味道非常好。呃，非遗的文化，",
+      "score": 0.1,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3996,
+        "acoustic_dev": 0.192,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "味道非常好，呃，非遗的文化。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 116.789,
+      "end": 120.06,
+      "label": "mandarin",
+      "text": "呃，我觉得我觉得特别好，对，呃，我觉得就是对，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0738,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，我觉得，我觉得特别好。对，呃，我觉得就是跟。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 120.151,
+      "end": 125.601,
+      "label": "mandarin",
+      "text": "应该对要保持，就是自自己国家的文化，我觉得是一个应该的事情，非常好的事情。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "应该对，要保持就是自自己国家的文化。我觉得是一个应该的事情，非常好的事情。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 125.601,
+      "end": 131.097,
+      "label": "mandarin",
+      "text": "到了夜晚，烟火节火舞狂翻的非遗火焰燃动全场，",
+      "score": 0.1785,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2581,
+        "acoustic_dev": 0.079,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到了夜晚，渔火节火舞狂欢的飞焰火焰沿东全场。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 131.44,
+      "end": 135.525,
+      "label": "mandarin",
+      "text": "孙悟空腾云驾雾，金箍棒化作水上火符，",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0099,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "孙悟空腾云驾雾，金箍棒发作，水上火斧。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 135.838,
+      "end": 139.825,
+      "label": "guilin",
+      "text": "李岩从小打铁花表演、金花飞剑、",
+      "score": 0.7157,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7785,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.538,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "从/冲",
+        "lexicon": "",
+        "text_free": "烈焰冲霄，打铁发表演金发飞溅。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 140.037,
+      "end": 142.917,
+      "label": "mandarin",
+      "text": "金龙火凤、夜空盘旋、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0076,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "金龙火凤，夜空盘旋。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 143.072,
+      "end": 148.111,
+      "label": "mandarin",
+      "text": "力量奇惊共舞，让游客观众大饱眼福。",
+      "score": 0.2757,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.529,
+        "acoustic_dev": 0.296,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "力量激情公武，让游客观众大饱眼福。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 148.111,
+      "end": 151.752,
+      "label": "uncertain",
+      "text": "非常的震撼，让我感受就说来这里非常的值得，",
+      "score": 0.3857,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6149,
+        "acoustic_dev": 0.364,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "让/然",
+        "lexicon": "",
+        "text_free": "非常的震撼，然后感受到了，就说来这里非常的值得。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 152.168,
+      "end": 159.046,
+      "label": "mandarin",
+      "text": "非常有文化啊。就是主要是从小就要培养起吧，从小培养起，然后",
+      "score": 0.282,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5837,
+        "acoustic_dev": 0.339,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非遗的文化呀，就是主要是从小教培养起吧，从小教培养起，然后。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 159.277,
+      "end": 164.871,
+      "label": "mandarin",
+      "text": "让他们有这种，就说把老一代那些思想啊，可以好的东西啊，可以传承下去。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让他们有这种，就说把老一代的那些思念啊，可以好多东西啊，可以传承下去。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 164.871,
+      "end": 175.339,
+      "label": "mandarin",
+      "text": "非常热闹非凡，真的，很多人又看了一些关于千古情之前那那那个网上看到一些视频，然后今年是身临其境的来感受了一下，",
+      "score": 0.0832,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.251,
+        "acoustic_dev": 0.074,
+        "seg_cer": 0.098,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非常热闹非凡，真的很多人有看了一些关于千古情之前在视那个网上看的一些视频，然后今天是身临其境的来感受了一下。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 175.479,
+      "end": 180.686,
+      "label": "mandarin",
+      "text": "感觉也很精彩。哦，也没有让我失望，还是感觉嗯有所收获的。",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感觉也很精彩，嗯，也没有让我失望，还是感觉嗯有所收获的。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 181.292,
+      "end": 184.513,
+      "label": "mandarin",
+      "text": "我会介绍到全国各地的朋友，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我会介绍到全国各地的朋友。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 184.553,
+      "end": 187.209,
+      "label": "mandarin",
+      "text": "希望都可以来我们扬州观看一下《千古情》。",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "希望都可以来我们阳朔观看一下千古情。"
+      }
+    }
+  ]
+}

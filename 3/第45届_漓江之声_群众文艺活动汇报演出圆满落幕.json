@@ -1,0 +1,427 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "第45届_漓江之声_群众文艺活动汇报演出圆满落幕.wav",
+  "duration": 110.615,
+  "no_dialect": false,
+  "created_at": "2026-10-26T11:34:26",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.713,
+      "end": 11.326,
+      "label": "mandarin",
+      "text": "前几天，桂林市第四十五届漓江之声群众文艺活动汇报演出在桂林山水公园成功的落下了帷幕。",
+      "score": 0.0343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.075,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天，桂林市第四十五届漓江之声群众文艺活动飞豹演出，在桂林山水公园成功地落下了帷幕。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 11.517,
+      "end": 15.912,
+      "label": "mandarin",
+      "text": "下面呢，我们就一起去现场去看一下精彩的文艺节目。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0132,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下面呢，我们就一起去现场去看一下精彩的文艺节目。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 16.35,
+      "end": 19.247,
+      "label": "mandarin",
+      "text": "作为我市群众文化经典品牌，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为我市群众文化经典品牌。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 19.402,
+      "end": 22.14,
+      "label": "uncertain",
+      "text": "漓江之声历经四十五年辉煌，",
+      "score": 0.3903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6481,
+        "acoustic_dev": 0.531,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丽江之声历经四十五年飞放。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.345,
+      "end": 27.581,
+      "label": "mandarin",
+      "text": "通过百姓创、百姓演、百姓看、百姓乐方式，",
+      "score": 0.1784,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1114,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.438,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过百行床、百行烟、百行看、百行罗方式。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 27.782,
+      "end": 32.427,
+      "label": "mandarin",
+      "text": "搭建群众能参与、广参与、乐参与的文化平台。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "搭建群众能参与、广参与、乐参与的文化平台。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 32.788,
+      "end": 35.878,
+      "label": "guilin",
+      "text": "本届漓江之声经过评选和审定，",
+      "score": 0.6317,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9138,
+        "acoustic_dev": 0.776,
+        "seg_cer": 0.846,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.273,
+        "phon_examples": "经/进 声/身 之/自",
+        "lexicon": "",
+        "text_free": "本给李将自身进过平宣或山顶。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.062,
+      "end": 38.738,
+      "label": "guilin",
+      "text": "共评出优秀组织奖十一过，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4542,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "公平出优秀组织奖，是一个。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.854,
+      "end": 44.018,
+      "label": "guilin",
+      "text": "组织奖六过，一等奖二十二过，二等奖三十二过，",
+      "score": 0.7185,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1834,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.684,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.154,
+        "phon_examples": "织/子 组/朱",
+        "lexicon": "",
+        "text_free": "朱子将鲁国，一登将二十俄国，二登将三十俄国。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.018,
+      "end": 47.949,
+      "label": "mandarin",
+      "text": "三等奖五十五过，以及创作奖、舞蹈奖、",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0347,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三等奖五十五个，以及创作奖、普导奖。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.076,
+      "end": 52.12,
+      "label": "mandarin",
+      "text": "小巴叶奖。其中的一等奖节目涵盖音乐、",
+      "score": 0.3271,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5165,
+        "acoustic_dev": 0.409,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "小巴夜将，其中的一等奖节目涵盖银。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.529,
+      "end": 59.448,
+      "label": "mandarin",
+      "text": "舞蹈、戏剧、小品、曲艺、少儿才艺、广场舞、合唱等六大类别，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "舞蹈、戏剧、小品、曲艺、少儿才艺、广场舞、合唱等六大类别。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 59.677,
+      "end": 63.826,
+      "label": "mandarin",
+      "text": "充分展现桂林群众文艺多元与繁荣。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "充分展现桂林群众文艺多元与繁荣。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 64.212,
+      "end": 70.168,
+      "label": "mandarin",
+      "text": "当天夜晚，四十个形式多样、精彩纷呈的节目逐一登场。",
+      "score": 0.1208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "当天夜晚，四四个形式多样、精彩纷呈的节目逐一登场。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 70.481,
+      "end": 76.84,
+      "label": "uncertain",
+      "text": "群舞《踏古鹅行》、莲舞《月国行》以灵动舞姿展现家乡风情；",
+      "score": 0.4345,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6753,
+        "acoustic_dev": 0.556,
+        "seg_cer": 0.318,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "群舞踏鼓乐行，练鼓乐歌行，以灵动舞姿展现家乡风景。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 77.08,
+      "end": 80.56,
+      "label": "mandarin",
+      "text": "中诗朗诵《倾听漓江的诉说》，",
+      "score": 0.369,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5084,
+        "acoustic_dev": 0.402,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中，石朗送群听丽江的诉说。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 80.56,
+      "end": 84.042,
+      "label": "mandarin",
+      "text": "深情倾诉对桂林这片土地的热爱；",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0092,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "申请起诉对桂林这片土地的严案。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 84.385,
+      "end": 89.711,
+      "label": "guilin",
+      "text": "少儿群舞在他乡的异子和广场舞家乡的味道，",
+      "score": 0.7514,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3444,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.368,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "子/址 少/扫",
+        "lexicon": "",
+        "text_free": "扫恶群舞，在他乡的遗址或广场舞，假乡的微道。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 89.711,
+      "end": 92.642,
+      "label": "mandarin",
+      "text": "则诠释对家乡的眷恋和赞美。",
+      "score": 0.21,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "则/这",
+        "lexicon": "",
+        "text_free": "这全是对假象的眷恋和赞美。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 93.114,
+      "end": 98.154,
+      "label": "uncertain",
+      "text": "侗族器乐合奏《动音新选》与少儿侗歌《多嘎》、",
+      "score": 0.4509,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5924,
+        "acoustic_dev": 0.479,
+        "seg_cer": 0.706,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "奏/周 族/筑",
+        "lexicon": "",
+        "text_free": "东筑起越国周，东引新选与少鄂东国，多加。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 98.439,
+      "end": 103.75,
+      "label": "mandarin",
+      "text": "中华儿女心相连等节目共同唱响盛世的欢歌。",
+      "score": 0.2817,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3051,
+        "acoustic_dev": 0.214,
+        "seg_cer": 0.263,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "心/形",
+        "lexicon": "",
+        "text_free": "《中华儿女形象联灯节目》共同唱响盛世的翻歌。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 104.109,
+      "end": 110.615,
+      "label": "mandarin",
+      "text": "活动最后，一首重唱《我和我的祖国》将全场气氛推向高潮。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0228,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动最后，一首重唱《我和我的祖国》将全场气氛推向高潮。"
+      }
+    }
+  ]
+}

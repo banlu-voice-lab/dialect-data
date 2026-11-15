@@ -1,0 +1,598 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "灵川海洋_百万株银杏披金衣 迎来最佳观赏期.wav",
+  "duration": 129.67,
+  "no_dialect": false,
+  "created_at": "2026-10-26T11:31:22",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.326,
+      "end": 5.548,
+      "label": "mandarin",
+      "text": "这一段时间气温骤降，我们桂林啊开始感受到了冬天的寒冷。",
+      "score": 0.0366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这一段时间，气温骤降，桂林啊，开始感受到了冬天的寒冷。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.833,
+      "end": 14.59,
+      "label": "mandarin",
+      "text": "天虽然是越来越冷，但是临川县海洋乡的百万株银杏迎来了它的最佳观赏期，",
+      "score": 0.1526,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0445,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "株/组",
+        "lexicon": "",
+        "text_free": "天水依然是越来越冷，但是临川县海洋乡的白湾组银杏迎来了唐的最佳观赏期。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 14.661,
+      "end": 19.543,
+      "label": "mandarin",
+      "text": "绚丽的色彩构成了一幅美丽的冬季生态画卷。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "绚丽的色彩构成了一幅美丽的冬季生态画卷。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 20.033,
+      "end": 25.693,
+      "label": "mandarin",
+      "text": "眼下，临川县海洋乡的百万株银杏树迎来了最佳观赏期，",
+      "score": 0.0281,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0334,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "眼下，临川县海洋乡的百万株银杏树迎来了最佳观赏季。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 26.004,
+      "end": 29.668,
+      "label": "mandarin",
+      "text": "在纷纷细雨当中，银杏叶随风摇曳，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在纷纷细雨当中，银杏叶吹风摇曳。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 29.965,
+      "end": 33.225,
+      "label": "mandarin",
+      "text": "近旁的树叶与远处连绵的青山、",
+      "score": 0.2468,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2507,
+        "acoustic_dev": 0.339,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "金黄的树叶与远处连绵的青山。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 33.329,
+      "end": 36.95,
+      "label": "uncertain",
+      "text": "近处古朴的村居相映成趣，",
+      "score": 0.5348,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5067,
+        "acoustic_dev": 0.721,
+        "seg_cer": 0.636,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进出古朴的城区，相应城区。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.253,
+      "end": 41.604,
+      "label": "mandarin",
+      "text": "共同编织出了一幅冬意锦绣田园风光图景。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0174,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同编织出了一幅东夷锦绣田园风光图景。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 42.148,
+      "end": 47.432,
+      "label": "mandarin",
+      "text": "冬意景色的生态美景也吸引了好多市民游客前来打卡，",
+      "score": 0.1453,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1591,
+        "acoustic_dev": 0.203,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "东邑景色的生态美景也吸引了好多市民游客前来打卡。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 47.616,
+      "end": 50.532,
+      "label": "mandarin",
+      "text": "记录下眼前的美景。我经常过来的，",
+      "score": 0.2194,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0995,
+        "acoustic_dev": 0.114,
+        "seg_cer": 0.643,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吉鲁霞烟钱了没？经我正常过来的。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 50.532,
+      "end": 53.064,
+      "label": "guilin",
+      "text": "我一路上看了很多地方，",
+      "score": 0.5657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0726,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我一路上看看很多地方。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 53.064,
+      "end": 57.56,
+      "label": "mandarin",
+      "text": "这个地方是最漂亮的，有新的银杏树啊，有古老的啊，",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个地方是最漂亮的，有新的银杏树啊，有古老的。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.792,
+      "end": 59.88,
+      "label": "guilin",
+      "text": "挺不错的。去年那个银杏，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9009,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "挺不错的。去年买过一套。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 60.201,
+      "end": 66.676,
+      "label": "mandarin",
+      "text": "真的是的银杏树好漂亮。所以呢，今年呢，我就带着我一帮朋友过来看到。",
+      "score": 0.0631,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0227,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.138,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "觉得自己银杏树好漂亮，所以呢，今年呢，我就带着我一帮朋友过来看到。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 66.676,
+      "end": 71.184,
+      "label": "guilin",
+      "text": "去年还要漂亮，我这帮朋友看到都挺开心，",
+      "score": 0.5738,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6942,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比去年还要漂亮。我这帮朋友看到的挺开心。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 71.403,
+      "end": 73.911,
+      "label": "guilin",
+      "text": "不虚此行。今年来，",
+      "score": 0.6837,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6183,
+        "acoustic_dev": 0.887,
+        "seg_cer": 0.571,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "今/警",
+        "lexicon": "",
+        "text_free": "不许起行，警铃来。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 73.911,
+      "end": 78.243,
+      "label": "guilin",
+      "text": "临川县海洋乡充分发掘利用当地丰富的旅游资源，",
+      "score": 0.561,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6909,
+        "acoustic_dev": 0.995,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "阳朔县海洋乡充分发掘利用当地丰富的旅游资源。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 78.498,
+      "end": 81.166,
+      "label": "mandarin",
+      "text": "打造了一批独具特色的旅游项目，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造了一批独具特色的旅游项目。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 81.442,
+      "end": 85.466,
+      "label": "guilin",
+      "text": "进一步打响照亮银杏乡城文旅品牌，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.431,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进一步打响“走量隐形乡村文旅品牌”。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 85.718,
+      "end": 88.793,
+      "label": "mandarin",
+      "text": "推动乡村旅游产业高质量发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动乡村旅游产业高质量发展。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.901,
+      "end": 93.317,
+      "label": "mandarin",
+      "text": "银杏节期间，我们通过举办庆丰收趣味比赛、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0124,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "银杏节期间，我们通过举办庆丰收趣味比赛。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 93.317,
+      "end": 95.737,
+      "label": "mandarin",
+      "text": "星空露营、乡村音乐会、",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1071,
+        "acoustic_dev": 0.126,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "星空露营，乡村音乐会。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 95.737,
+      "end": 98.423,
+      "label": "mandarin",
+      "text": "艺术写生等系列银杏文化活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "艺术写生等系列银杏文化活动。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 98.579,
+      "end": 103.18,
+      "label": "mandarin",
+      "text": "让游客在艺术的氛围中感受海洋银杏的独特魅力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让游客在艺术的氛围中感受海洋银杏的独特魅力。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 103.18,
+      "end": 108.39,
+      "label": "mandarin",
+      "text": "临川县海洋乡是全国人均占有银杏最多的地方之一，",
+      "score": 0.1457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0076,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "杏/心",
+        "lexicon": "",
+        "text_free": "临川县海洋乡是全国银军占有银心最多的地方之一。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 108.62,
+      "end": 111.489,
+      "label": "mandarin",
+      "text": "被誉为“天下银杏第一乡”。",
+      "score": 0.1371,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0228,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "被誉为“天下隐形第一香”。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 111.769,
+      "end": 114.518,
+      "label": "uncertain",
+      "text": "这里有银杏树一百多万株，",
+      "score": 0.4779,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5862,
+        "acoustic_dev": 0.839,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这块有银杏树一百多万株。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 114.715,
+      "end": 119.939,
+      "label": "mandarin",
+      "text": "其中光是百年以上的野生银杏树就有一点七万余株。",
+      "score": 0.0608,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0063,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "其中，光是百年以上嘞野生银杏树，就有一点七万余株。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 120.185,
+      "end": 122.96,
+      "label": "mandarin",
+      "text": "据统计，每年银杏节期间，",
+      "score": 0.1914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0078,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "银/影",
+        "lexicon": "",
+        "text_free": "据统计，每年影星节期间。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 123.109,
+      "end": 126.054,
+      "label": "mandarin",
+      "text": "海洋乡接待游客六十余万人次，",
+      "score": 0.0765,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1216,
+        "acoustic_dev": 0.147,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "海洋乡接待游客六十余万人次。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 126.245,
+      "end": 129.67,
+      "label": "mandarin",
+      "text": "带动产业收入超过一千两百万元。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "带动产业收入超过一千两百万元。"
+      }
+    }
+  ]
+}

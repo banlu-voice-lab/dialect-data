@@ -1,0 +1,617 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "漓江渔火映阳朔 非遗狂欢共此时.wav",
+  "duration": 165.974,
+  "no_dialect": false,
+  "created_at": "2026-10-26T11:27:44",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.783,
+      "label": "mandarin",
+      "text": "今天我们首先来关注一下漓江渔火节。",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们首先来关注一下丽江玉火节。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.088,
+      "end": 11.804,
+      "label": "mandarin",
+      "text": "十二月二十七号夜晚，阳朔的二十四届漓江渔火节在桂林千古情景区开幕了。",
+      "score": 0.0143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.031,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十二月二十七号夜晚，阳朔第二十四届漓江渔火节在桂林千古情景区开幕了。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.048,
+      "end": 17.155,
+      "label": "mandarin",
+      "text": "本届渔火节以“渔火浪漫里沃非遗狂欢阳朔”为主题，",
+      "score": 0.1306,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2134,
+        "acoustic_dev": 0.084,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "本届渔火节以“渔火浪漫的我，非遗狂欢洋奢”为主题。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.341,
+      "end": 23.429,
+      "label": "guilin",
+      "text": "以祖孙女大中华四代风的组建开展丰富多彩的活动，",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2535,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "组/主 四/时 女/律 祖/主",
+        "lexicon": "",
+        "text_free": "以主旋律、大众化、时代风的主线，开展丰富多彩的活动。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.599,
+      "end": 28.17,
+      "label": "mandarin",
+      "text": "让游客和市民领略当地特有的文化风情，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让游客或市民领略当地特有的文化风情。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.352,
+      "end": 32.78,
+      "label": "mandarin",
+      "text": "为阳朔旅游高质量发展添导出增光添彩。",
+      "score": 0.167,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1442,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "增/争",
+        "lexicon": "",
+        "text_free": "为阳朔旅游高质量发展先导区争光添彩。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 38.361,
+      "end": 43.159,
+      "label": "mandarin",
+      "text": "当天下午，喜庆的龙狮迎宾表演拉开了活动序幕。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当天下午，喜庆的龙狮迎宾表演拉开了活动序幕。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 43.386,
+      "end": 45.809,
+      "label": "mandarin",
+      "text": "随后，主持人宣读表扬名单，",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1341,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "赛后主持评选度表扬名单。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 46.006,
+      "end": 48.574,
+      "label": "guilin",
+      "text": "对十佳景区产业发展能手、",
+      "score": 0.7393,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0209,
+        "acoustic_dev": 0.994,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "对四家警局产业发展能手。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.697,
+      "end": 53.808,
+      "label": "mandarin",
+      "text": "十佳苗木花卉产业发展能手等获奖者进行了表彰。",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0082,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是将苗木、花卉产业发展能手等获奖者进行了表彰。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 54.104,
+      "end": 59.698,
+      "label": "uncertain",
+      "text": "同时，进行还有阳朔金菊苗木花卉文旅项目签约仪式。",
+      "score": 0.5192,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6417,
+        "acoustic_dev": 0.566,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "金/警 朔/所",
+        "lexicon": "",
+        "text_free": "同时进行的还有杨所警局苗木花费文旅项目签约仪式。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 60.152,
+      "end": 64.48,
+      "label": "mandarin",
+      "text": "在开幕式演出上，广西民歌与绝世经典同台，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0221,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在开幕式演出上，广西民歌与绝世经典同台。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 64.667,
+      "end": 67.111,
+      "label": "mandarin",
+      "text": "开启奇妙的音乐之旅。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "开启奇妙的音乐之旅。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 67.372,
+      "end": 70.158,
+      "label": "guilin",
+      "text": "南岭二重唱、百里金菊香、",
+      "score": 0.6628,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9434,
+        "acoustic_dev": 0.906,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "南/烂",
+        "lexicon": "",
+        "text_free": "烂柳二重唱，百里金菊香。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 70.305,
+      "end": 77.159,
+      "label": "mandarin",
+      "text": "南美夜情、桑巴等歌舞表演唱出了阳朔人对金菊丰收的喜悦和骄傲，",
+      "score": 0.2408,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2206,
+        "acoustic_dev": 0.092,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "金/京 南/兰",
+        "lexicon": "",
+        "text_free": "《兰梅夜晴桑巴》等歌舞表演，唱出了杨淑英对京剧丰收的喜悦和骄傲。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 77.509,
+      "end": 81.196,
+      "label": "mandarin",
+      "text": "舞出了四代大同的繁荣与热情。",
+      "score": 0.2078,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2031,
+        "acoustic_dev": 0.072,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "四/世",
+        "lexicon": "",
+        "text_free": "舞出了世界大同的繁荣与热情。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 81.196,
+      "end": 84.14,
+      "label": "guilin",
+      "text": "阳人们在欢快的节奏当中，",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1155,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "羊营们在欢快的节奏当中。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 84.14,
+      "end": 87.624,
+      "label": "mandarin",
+      "text": "感受到不同文化交流与融合。",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感受到不同文化哩交流与融合。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 87.624,
+      "end": 90.36,
+      "label": "mandarin",
+      "text": "都大家都知道嘛，桂林山水甲天下，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0791,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "都大家都知道吗？桂林山水甲天下。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 90.728,
+      "end": 99.56,
+      "label": "mandarin",
+      "text": "但是呢，阳朔山水甲桂林。所以我们就从桂林开车到的阳朔，而且第一次来到这儿，就正好赶上咱们这个渔火节，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是呢，阳朔山水甲桂林，所以我们就从桂林开车到的阳朔，而且第一次来到这儿，就正好赶上咱们这个渔火节。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 99.727,
+      "end": 102.36,
+      "label": "mandarin",
+      "text": "觉得挺惊讶，而且非常幸运。嗯",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0347,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "觉得挺惊讶，而且非常幸运。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 102.705,
+      "end": 109.56,
+      "label": "mandarin",
+      "text": "嗯，感觉这个氛围是非常非常热情的，而且这种少数民族的这个呃风俗人情很特别。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，感觉这个氛围是非常非常热情的，而且这种少数民族的这个呃风土人情很特别。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 109.849,
+      "end": 112.677,
+      "label": "uncertain",
+      "text": "第一次来就是对阳朔，然后",
+      "score": 0.5498,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9355,
+        "acoustic_dev": 0.897,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "第一次来，就是桂林阳朔，然后。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 112.796,
+      "end": 118.2,
+      "label": "guilin",
+      "text": "就是进来以后，感觉好像呀就像一幅画一样，就是上图片，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.4508,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.478,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是今天来游玩，感到自己很漂亮，就像一幅画一样，就是在图片。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 118.352,
+      "end": 122.44,
+      "label": "guilin",
+      "text": "比起上图片就是一模一样。然后今天参加这个节日，",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.027,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每次刷图片就是一模一样。然后今天参加这个节日。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 122.721,
+      "end": 125.707,
+      "label": "mandarin",
+      "text": "这个蛮震撼的。",
+      "score": 0.2304,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2723,
+        "acoustic_dev": 0.15,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "觉得，蛮震撼的。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 125.707,
+      "end": 130.894,
+      "label": "mandarin",
+      "text": "千古情景区揭幕内容及非遗展示吸引了众多观众的目光，",
+      "score": 0.0569,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1713,
+        "acoustic_dev": 0.036,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "千古情景区节目内容及非遗展示吸引了众多观众的目光。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 131.077,
+      "end": 133.644,
+      "label": "mandarin",
+      "text": "尤其是川剧变脸、打铁花、",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "尤其是穿猪边脸，打铁发。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 133.811,
+      "end": 144.532,
+      "label": "mandarin",
+      "text": "阳朔鸬鹚捕鱼习俗等节目，更是让人们深刻体会到了丰富的非物质文化遗产和阳朔独特的地域文化魅力。",
+      "score": 0.0104,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0165,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.023,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "阳朔鸬鹚捕鱼习俗等等节目，更是让人们深刻体会到了丰富的非物质文化遗产和阳朔独特的地域文化魅力。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 144.644,
+      "end": 149.064,
+      "label": "mandarin",
+      "text": "二万间的烟火盛典也是点亮了县城的夜空，",
+      "score": 0.1466,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3026,
+        "acoustic_dev": 0.184,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而晚间的烟火盛典也是点亮了县城的夜空。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 149.166,
+      "end": 157.721,
+      "label": "mandarin",
+      "text": "璀璨夺目。当天夜晚还举行了阳朔金菊和阳朔八锅十大名菜美食品鉴活动，",
+      "score": 0.3287,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4019,
+        "acoustic_dev": 0.296,
+        "seg_cer": 0.226,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "十/四 金/景",
+        "lexicon": "",
+        "text_free": "璀璨夺目。当天夜晚还举行了杨朔景区和杨朔爬过四大名菜美食品鉴活动。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 157.983,
+      "end": 165.974,
+      "label": "mandarin",
+      "text": "让游客们在品味美食的同时，感受到阳朔人民的热情好客和深厚的文化底蕴。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让游客们在品味美食的同时，感受到阳朔人民的热情好客和深厚的文化底蕴。"
+      }
+    }
+  ]
+}

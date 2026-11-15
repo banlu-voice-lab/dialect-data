@@ -1,0 +1,921 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "歌唱桂林的新歌_好日子天天放在歌里过_在网上广泛传唱.wav",
+  "duration": 202.488,
+  "no_dialect": false,
+  "created_at": "2026-10-26T11:06:38",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.34,
+      "end": 7.509,
+      "label": "guilin",
+      "text": "这段时间，一首在网上被广泛传唱的歌曲《好日子天天放在过里过》，",
+      "score": 0.6711,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3617,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.148,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "子/直",
+        "lexicon": "",
+        "text_free": "这段时间啊，一首在网上被广泛传唱的歌曲，好一直天天放在锅里过。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.743,
+      "end": 14.769,
+      "label": "mandarin",
+      "text": "不仅是让海外侨胞通过歌曲深入了解了桂林厚重历史和山水美景，",
+      "score": 0.0919,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1432,
+        "acoustic_dev": 0.051,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅是让海外侨胞通过过去深入了解老挝桂林厚重历史和山水美景。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 15.027,
+      "end": 17.821,
+      "label": "mandarin",
+      "text": "更是深深的触动了海外华人华侨，",
+      "score": 0.0497,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1971,
+        "acoustic_dev": 0.096,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是深深的触动了海外华人华侨。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.821,
+      "end": 23.676,
+      "label": "mandarin",
+      "text": "全泉爱国之情。桂林山水甲天下，林世英为之神往。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0807,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拳拳爱国之情。桂林山水甲天下，林世英为之神往。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.945,
+      "end": 29.335,
+      "label": "mandarin",
+      "text": "作为一名长期工作生活在桂林、热爱桂林的侨务工作者，",
+      "score": 0.0137,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.113,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为一名长期工作生活在桂林，热爱桂林的侨务工作者。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 29.335,
+      "end": 34.339,
+      "label": "mandarin",
+      "text": "市委统战部市侨务办公室侨务工作科科长邱世勇，",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0295,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "市委统战部是侨务办公室侨务工作科科长邱世勇。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 34.534,
+      "end": 37.531,
+      "label": "mandarin",
+      "text": "怀着对桂林的满腔热爱与自豪，",
+      "score": 0.2273,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1548,
+        "acoustic_dev": 0.061,
+        "seg_cer": 0.538,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "林/灵",
+        "lexicon": "",
+        "text_free": "烦躁得闺灵的，满腔怨哀与自豪。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.712,
+      "end": 41.876,
+      "label": "mandarin",
+      "text": "创作了《好日子天天放在过里过》的歌词。",
+      "score": 0.2956,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2677,
+        "acoustic_dev": 0.154,
+        "seg_cer": 0.562,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.222,
+        "phon_examples": "词/吃 子/只",
+        "lexicon": "",
+        "text_free": "创作了好一只甜甜，放在锅里，锅里锅吃。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.945,
+      "end": 44.534,
+      "label": "mandarin",
+      "text": "桂林，这是一片",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林，这是一篇。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.668,
+      "end": 47.071,
+      "label": "guilin",
+      "text": "沉淀着千年历史文化的土地，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.264,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "沉淀着千年历史文化的厚度。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.491,
+      "end": 51.971,
+      "label": "uncertain",
+      "text": "万瑞一波古老而深邃的典籍，",
+      "score": 0.4258,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7188,
+        "acoustic_dev": 0.526,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宛如一波古老而深邃的电击。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.309,
+      "end": 56.059,
+      "label": "mandarin",
+      "text": "每一夜都写满了岁月的传奇。",
+      "score": 0.0676,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1499,
+        "acoustic_dev": 0.057,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每一页都写满了岁月的传奇。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 56.801,
+      "end": 59.593,
+      "label": "mandarin",
+      "text": "桂林的山水，更是大自然",
+      "score": 0.1005,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1022,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "古镇的山水，更是大自然。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.752,
+      "end": 63.253,
+      "label": "guilin",
+      "text": "馈赠的绝世珍宝。它的美，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4746,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可以成立角色分包，他的妹。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.644,
+      "end": 66.772,
+      "label": "guilin",
+      "text": "不仅仅是那江若青罗带，",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4824,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅仅是那江浙青绿带。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 67.296,
+      "end": 70.477,
+      "label": "guilin",
+      "text": "山如碧玉，山的秀丽，",
+      "score": 0.7053,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2694,
+        "acoustic_dev": 0.98,
+        "seg_cer": 0.875,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "山/三",
+        "lexicon": "",
+        "text_free": "三如比喻：站立、修理。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 70.888,
+      "end": 74.529,
+      "label": "mandarin",
+      "text": "更有着一种能穿透灵魂的神韵。",
+      "score": 0.2032,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0316,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "神/声",
+        "lexicon": "",
+        "text_free": "哽咽着一种能穿透灵魂的声音。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 75.191,
+      "end": 77.81,
+      "label": "mandarin",
+      "text": "对于居住在海外的侨胞们",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0135,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于旅居在海外的侨胞们。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 78.178,
+      "end": 82.86,
+      "label": "mandarin",
+      "text": "来说，桂林是他们心中深深眷恋的根。",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来说，规定是他们心中深深眷恋的根。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 83.53,
+      "end": 87.529,
+      "label": "mandarin",
+      "text": "我深知，他们对故乡的思念，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0599,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我深知，他们对故乡的思念。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 87.827,
+      "end": 90.45,
+      "label": "mandarin",
+      "text": "犹如江水滔滔不绝，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "犹如江水滔滔不绝。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 90.897,
+      "end": 94.131,
+      "label": "mandarin",
+      "text": "对祖国的眷恋，恰似青山",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对祖国的眷恋，恰似青山。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 94.314,
+      "end": 98.172,
+      "label": "mandarin",
+      "text": "巍巍不动。非常幸运的是，在遥远的比利时，",
+      "score": 0.0807,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0447,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "微微不懂。非常幸运的是，在遥远的比利时。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 98.333,
+      "end": 103.389,
+      "label": "mandarin",
+      "text": "有一位名字喊作陈友才样，漳州的海外侨胞，",
+      "score": 0.2099,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3928,
+        "acoustic_dev": 0.257,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有一位名字喊做“陈友才”、“杨党州”的海外侨胞。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 103.633,
+      "end": 109.339,
+      "label": "mandarin",
+      "text": "他来到桂林采访以后，对桂林民族、爱情、山水、地方美食、",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他来到桂林参观以后，对桂林民族、爱情、山水、地方美食。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 109.339,
+      "end": 111.878,
+      "label": "guilin",
+      "text": "人文和地貌合一的秀美，",
+      "score": 0.6571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3507,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "英文或地貌或一的秀美。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 112.026,
+      "end": 115.745,
+      "label": "mandarin",
+      "text": "就如同烙印一般，深深的刻在了他的心上。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就如同烙印一般，深深的刻在了他的心上。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 116.211,
+      "end": 119.852,
+      "label": "mandarin",
+      "text": "他对祖籍国的眷恋，对桂林的挚爱，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0083,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他对祖籍国的眷恋，对桂林的挚爱。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 120.006,
+      "end": 122.556,
+      "label": "mandarin",
+      "text": "在内心深处澎湃涌动。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在内心深处澎湃涌动。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 122.991,
+      "end": 126.14,
+      "label": "mandarin",
+      "text": "当他看到邱世勇写的歌词的时候，",
+      "score": 0.361,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6946,
+        "acoustic_dev": 0.506,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当他看到裘士用写的歌词的时候。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 126.14,
+      "end": 128.224,
+      "label": "mandarin",
+      "text": "仿佛是找到了情感的共鸣。",
+      "score": 0.1831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "鸣/民",
+        "lexicon": "",
+        "text_free": "仿佛是找到了情感的公民。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 128.504,
+      "end": 131.006,
+      "label": "mandarin",
+      "text": "他积极地为歌词谱曲，",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0493,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他积极地为国词谱曲。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 131.006,
+      "end": 135.473,
+      "label": "mandarin",
+      "text": "用音符刻诉说他心中对桂林的那份深情。",
+      "score": 0.0807,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0329,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用隐伏去诉说他心中对桂林的那份深情。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 135.473,
+      "end": 138.449,
+      "label": "mandarin",
+      "text": "随着这首歌的广泛传播，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0134,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "随着这首歌的广泛传播。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 138.582,
+      "end": 141.475,
+      "label": "uncertain",
+      "text": "我也收到了许多侨胞的反馈，",
+      "score": 0.3892,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8111,
+        "acoustic_dev": 0.602,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我也收到了许多钱包的反馈。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 142.531,
+      "end": 147.131,
+      "label": "mandarin",
+      "text": "他们纷纷表示，这首歌就像一条情感的丝线，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他们纷纷表示：“这首歌就像一条情感的丝线。”"
+      }
+    },
+    {
+      "id": 37,
+      "start": 147.881,
+      "end": 153.023,
+      "label": "mandarin",
+      "text": "在他们远离家乡的岁月里，给他们带去了慰藉和力量。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在他们远离家乡的岁月里，给他们带去了危机和力量。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 153.844,
+      "end": 157.654,
+      "label": "mandarin",
+      "text": "有一位在海外生活多年的老侨胞对我说，",
+      "score": 0.2097,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0999,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "生/深",
+        "lexicon": "",
+        "text_free": "有一位在海外深有读业的老校包对我说。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 158.509,
+      "end": 162.397,
+      "label": "uncertain",
+      "text": "每当听到《好日子天天放在过里过》时，",
+      "score": 0.4051,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9548,
+        "acoustic_dev": 0.721,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每当听到“好日子天天放在锅里过”时。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 162.887,
+      "end": 166.297,
+      "label": "mandarin",
+      "text": "眼前就浮现出桂林的山水画卷，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "眼前就浮现出桂林的山水画卷。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 166.945,
+      "end": 170.406,
+      "label": "mandarin",
+      "text": "那些童年里在桂林的记忆，",
+      "score": 0.0872,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2844,
+        "acoustic_dev": 0.168,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那些童年里，在桂林的记忆。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 171.051,
+      "end": 178.94,
+      "label": "mandarin",
+      "text": "便如潮水般涌来。《好日子天天放在过里过》已经成为了一个独特的文化符号。",
+      "score": 0.0953,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1658,
+        "acoustic_dev": 0.07,
+        "seg_cer": 0.129,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "典入潮水般涌来，好意子天天放在锅里过，已经成为了一个独特的文化符号。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 179.233,
+      "end": 181.95,
+      "label": "mandarin",
+      "text": "它承载着桂林的独特魅力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它承载着桂林的独特魅力。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 181.95,
+      "end": 185.034,
+      "label": "mandarin",
+      "text": "饱含着侨胞们的深情厚谊。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0676,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "包含着桥宝门的深情厚谊。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 185.325,
+      "end": 190.596,
+      "label": "mandarin",
+      "text": "每一次的传唱，都像是侨胞与祖国的一次深情拥抱，",
+      "score": 0.2596,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2339,
+        "acoustic_dev": 0.126,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "唱/舱",
+        "lexicon": "",
+        "text_free": "每一次的船舱，都像是桥堡与主祭过的一次深情拥抱。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 190.851,
+      "end": 194.609,
+      "label": "mandarin",
+      "text": "让海外侨胞与祖国的联系更加紧密，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让海外侨胞与祖国的联系更加紧密。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 194.812,
+      "end": 198.676,
+      "label": "mandarin",
+      "text": "也让更多的人感受到桂林的无限魅力，",
+      "score": 0.2715,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7142,
+        "acoustic_dev": 0.522,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也让更多的人感受到桂林的无限魅力。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 198.928,
+      "end": 202.488,
+      "label": "mandarin",
+      "text": "感受到中法文化的博大精深。",
+      "score": 0.0382,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0814,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感受到中华文化的博大精深。"
+      }
+    }
+  ]
+}

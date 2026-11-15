@@ -1,0 +1,503 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "12月再闻桂花香 近30年来头一回.wav",
+  "duration": 108.285,
+  "no_dialect": false,
+  "created_at": "2026-10-26T08:14:38",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.141,
+      "end": 3.448,
+      "label": "mandarin",
+      "text": "虽然大雪节气已经过去了三天，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0104,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "虽然大雪节气已经过去了三天。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.448,
+      "end": 8.968,
+      "label": "mandarin",
+      "text": "但是呢，这段时间我们桂林啊，可以讲依然是秋意盎然呐。",
+      "score": 0.0406,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0119,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是呢，这段时间我们桂林啊，可以讲已经是秋意盎然呐。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.207,
+      "end": 13.314,
+      "label": "mandarin",
+      "text": "这几天我们桂林的空气当中再次弥漫着桂花香。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这几天，我们桂林的空气当中再次弥漫着桂花香。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.678,
+      "end": 19.469,
+      "label": "mandarin",
+      "text": "记者了解到，这已经是今年秋桂迎来的第三轮开放了不？",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0164,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记者了解到，这已经是今年秋季迎来的第三轮开放了。不"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.813,
+      "end": 23.737,
+      "label": "mandarin",
+      "text": "十二月份还能够看到桂花有规模的盛开，",
+      "score": 0.0453,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0537,
+        "acoustic_dev": 0.087,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十二月份还能够看到桂花，有规模的盛开。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.737,
+      "end": 27.224,
+      "label": "uncertain",
+      "text": "这也是近三十年来的头一回不？",
+      "score": 0.411,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3308,
+        "acoustic_dev": 0.655,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这也是近三十年来的头一飞波。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.24,
+      "end": 31.363,
+      "label": "guilin",
+      "text": "在靖江王府片区历史文化旅游休闲街区，",
+      "score": 0.6469,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6582,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "靖/金",
+        "lexicon": "",
+        "text_free": "在金江王府片区，历史文化、旅游休闲街区。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.585,
+      "end": 34.698,
+      "label": "mandarin",
+      "text": "桂花树的枝头开出淡黄色的花朵，",
+      "score": 0.2661,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1383,
+        "acoustic_dev": 0.261,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "规划疏理枝头，开出淡黄色的花朵。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.016,
+      "end": 38.034,
+      "label": "mandarin",
+      "text": "走在旁边就能够闻到浓郁的香气。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走在旁边，就能够闻到浓郁的香气。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 38.296,
+      "end": 41.628,
+      "label": "mandarin",
+      "text": "中山中路、解放西路、中山南路等路段，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0055,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中山中路、解放西路、中山南路等路段。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 41.628,
+      "end": 44.22,
+      "label": "guilin",
+      "text": "开花的桂花树也不在少数。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6838,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "开发的规划书也不在少数。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 44.501,
+      "end": 47.102,
+      "label": "guilin",
+      "text": "桂花树枝条上桂花成串，",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7763,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.6,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "枝/字",
+        "lexicon": "",
+        "text_free": "规划数字，条上规划成串。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 47.102,
+      "end": 50.059,
+      "label": "uncertain",
+      "text": "一眼望起过去都是淡雅的小花。",
+      "score": 0.491,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3398,
+        "acoustic_dev": 0.674,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一眼望去，过去都是单牙的小发。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 50.384,
+      "end": 52.696,
+      "label": "mandarin",
+      "text": "记者从园林部门了解到，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记者从园林部门了解到。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 52.696,
+      "end": 57.871,
+      "label": "mandarin",
+      "text": "目前该头盛开的桂花基本都是属于秋桂当中的银桂。",
+      "score": 0.0356,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0445,
+        "acoustic_dev": 0.068,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，该头盛开的桂花基本都是属于秋桂当中的银桂。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 58.06,
+      "end": 61.9,
+      "label": "mandarin",
+      "text": "十二月的桂林还能够看到秋桂盛开，",
+      "score": 0.0829,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0603,
+        "acoustic_dev": 0.101,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十二月的桂林，还能够看到球桂盛开。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 61.9,
+      "end": 66.657,
+      "label": "mandarin",
+      "text": "的确是蛮少见。促使桂花开花的主要因素是日照变短、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "的确是蛮少见。促使桂花开花的主要因素是日照变短。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 66.657,
+      "end": 71.052,
+      "label": "mandarin",
+      "text": "合适的温度和湿度。这一次到了十二月桂花再度开花，",
+      "score": 0.014,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0243,
+        "acoustic_dev": 0.027,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "合适的温度和湿度。这一次到了十二月，桂花再度开花。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 71.052,
+      "end": 74.76,
+      "label": "mandarin",
+      "text": "是因为前面两次的花芽没有完全发育成花苞，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是因为前面两次的花芽没有完全发育成花苞。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 75.13,
+      "end": 77.24,
+      "label": "mandarin",
+      "text": "而最近的早晚温差比较大，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而最近的早晚温差比较大。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 77.317,
+      "end": 81.018,
+      "label": "mandarin",
+      "text": "晚上有持续多日的低于二十摄氏度的低温，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "晚上有持续多日的低于二十摄氏度的低温。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 81.018,
+      "end": 83.246,
+      "label": "mandarin",
+      "text": "白天温度又能达到二十多摄氏度，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "白天温度又能达到二十多摄氏度。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 83.246,
+      "end": 89.115,
+      "label": "mandarin",
+      "text": "空气湿度也相对高了点，这样的条件促使花芽快速发育成花苞开放。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "空气湿度也相对高了点，这样的条件促使花芽快速发育成花苞，开放。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 89.234,
+      "end": 96.996,
+      "label": "mandarin",
+      "text": "目前，桂林市区桂花种植量大概有二十万株，每年开花都给人一种此起彼伏的感觉。",
+      "score": 0.0471,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0175,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.088,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，桂林市区规划种植量大概有二十万株，每年开发都给人一种此起彼伏的感觉。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 97.274,
+      "end": 103.708,
+      "label": "mandarin",
+      "text": "如果接下来的这一段时间桂林持续出现适宜桂花再次开放的气候条件，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果接下来的这一段时间，桂林持续出现适宜桂花再次开放的气候条件。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 103.939,
+      "end": 108.285,
+      "label": "mandarin",
+      "text": "可能桂林的桂花还会给市民游客带来惊喜。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "可能桂林的规划，还会给市民游客带来惊喜。"
+      }
+    }
+  ]
+}

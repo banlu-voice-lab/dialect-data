@@ -1,0 +1,712 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "我市新增广西制造业单项冠军示范企业5家.wav",
+  "duration": 179.082,
+  "no_dialect": false,
+  "created_at": "2026-10-26T09:55:52",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.877,
+      "end": 3.399,
+      "label": "mandarin",
+      "text": "收到半路看，快乐常相伴。",
+      "score": 0.0856,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0528,
+        "acoustic_dev": 0.077,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "收到半路刊，快乐常相伴。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.399,
+      "end": 8.301,
+      "label": "mandarin",
+      "text": "观众朋友，大家好，我是辣椒妹，欢迎你准时收看我们今天的半路节目。",
+      "score": 0.0163,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "听众朋友，大家好，我是辣椒妹。欢迎你准时收看我们今天的《半路节目》。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.602,
+      "end": 11.977,
+      "label": "mandarin",
+      "text": "今天我们首先来关注一下我们桂林的工业。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们首先来关注一下我们桂林的工业。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.259,
+      "end": 19.343,
+      "label": "mandarin",
+      "text": "前几天啊，自治区发布了二零二四年度广西制造业单项冠军示范企业名单，",
+      "score": 0.0147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天啊，自治区发布了二零二四年广西制造业单项冠军示范企业名单。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.532,
+      "end": 22.46,
+      "label": "mandarin",
+      "text": "我们桂林呢有五家企业上榜了。",
+      "score": 0.2565,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1927,
+        "acoustic_dev": 0.349,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "我们桂林嘞，有五家企业上榜了。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.703,
+      "end": 28.824,
+      "label": "mandarin",
+      "text": "截至目前，全市共有广西制造业单项冠军示范企业三十三家，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "截至目前，全市共有广西制造业单项冠军示范企业三十三家。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.015,
+      "end": 32.289,
+      "label": "mandarin",
+      "text": "列广西各设区市第一。",
+      "score": 0.3652,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1752,
+        "acoustic_dev": 0.315,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "设/色",
+        "lexicon": "",
+        "text_free": "列广西国色区市第一。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 38.297,
+      "end": 43.244,
+      "label": "mandarin",
+      "text": "此次上榜的五家企业分别是桂林橡胶设计院有限公司、",
+      "score": 0.0253,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0384,
+        "acoustic_dev": 0.049,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此次上榜的五家企业分别是：桂林橡胶设计院有限公司。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 43.441,
+      "end": 46.227,
+      "label": "mandarin",
+      "text": "桂林电气科学研究院有限公司、",
+      "score": 0.3266,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3364,
+        "acoustic_dev": 0.628,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林电气科学研究院有限公司。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 46.413,
+      "end": 48.677,
+      "label": "mandarin",
+      "text": "桂林航天电子有限公司、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林航天电子有限公司。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.927,
+      "end": 56.867,
+      "label": "mandarin",
+      "text": "桂林法洛维基因药业股份有限公司以及广西桂林法海家居用品有限公司的主流产品。",
+      "score": 0.1287,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0166,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "洛/诺",
+        "lexicon": "",
+        "text_free": "桂林法诺威基因药业股份有限公司，以及广西桂林法海家居用品有限公司的主流产品。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 57.204,
+      "end": 66.696,
+      "label": "mandarin",
+      "text": "其中，桂林橡胶设计院的橡胶冷媒料挤出机是生产高性能织物型轮胎的关键工艺技术设备，",
+      "score": 0.1255,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0304,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.237,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中，桂林香蕉设计原理、香蕉冷味料挤出机是生产高性能植物线轮胎的关键工艺技术设备。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 67.059,
+      "end": 70.561,
+      "label": "mandarin",
+      "text": "突破发达国家卡紧的关键技术难题。",
+      "score": 0.1066,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0886,
+        "acoustic_dev": 0.146,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "突破发达国家卡紧之关键技术难题。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 70.995,
+      "end": 76.449,
+      "label": "mandarin",
+      "text": "桂林航天电子公司的特种继电器则是填补了国内空白。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林航天电子公司的特种继电器，则是填补了国内空白。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 76.817,
+      "end": 81.938,
+      "label": "guilin",
+      "text": "法洛维公司的银表皮肤生长因子凝胶异于清创，",
+      "score": 0.6988,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5603,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "洛/诺",
+        "lexicon": "",
+        "text_free": "法诺威公司的引标皮肤生长因子凝胶，一语清创。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 82.138,
+      "end": 85.651,
+      "label": "mandarin",
+      "text": "为国内首个上市的同类产品。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为国内首个上市的同类产品。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 86.04,
+      "end": 90.792,
+      "label": "mandarin",
+      "text": "这些企业深耕桂林，科创能力持续提升。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0133,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这些企业深耕桂林，科创能力持续提升。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 90.865,
+      "end": 96.289,
+      "label": "mandarin",
+      "text": "投资一点五、一点七个亿来建我们三法洛维的三期扩产项目，",
+      "score": 0.1772,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1162,
+        "acoustic_dev": 0.2,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "投资一点五、一点七个亿，来建我们三华为的三期扩展项目。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 96.422,
+      "end": 100.035,
+      "label": "uncertain",
+      "text": "里面包括我们异氟凝胶药品的扩产，",
+      "score": 0.3962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3148,
+        "acoustic_dev": 0.586,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "里面包括我们一副凝胶药品的扩散。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 100.05,
+      "end": 107.561,
+      "label": "mandarin",
+      "text": "还有我们一个重要的产品，就是我们一个药械组合，也是医美的一个非常重要的产品的研发工作。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有我们一个重要的产品，就是我们一个药械组合，也是医美的一个非常重要的产品的研发工作。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 107.561,
+      "end": 113.74,
+      "label": "mandarin",
+      "text": "投产以后，我们整个现在的园区大概在产值将达到十五个亿。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "投产以后，我们整个现在的园区大概在产值将达到十五个亿。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 113.74,
+      "end": 118.383,
+      "label": "mandarin",
+      "text": "在这些企业当中，均拥有多项核心发明专利、",
+      "score": 0.0552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0679,
+        "acoustic_dev": 0.106,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在这些企业当中，均拥有多项核心发明专利。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 118.534,
+      "end": 123.783,
+      "label": "mandarin",
+      "text": "实用新型专利等等，产品质量均优于行业标准，",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "使用新型专利等等，产品质量均优于行业标准。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 123.938,
+      "end": 126.648,
+      "label": "mandarin",
+      "text": "补齐国内相关技术的短板，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "补齐国内相关技术的短板。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 126.648,
+      "end": 130.544,
+      "label": "guilin",
+      "text": "同时产学研深度融合优势明显。",
+      "score": 0.5883,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5256,
+        "acoustic_dev": 0.996,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，产学研深度合作优势明显。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 130.544,
+      "end": 132.934,
+      "label": "mandarin",
+      "text": "我们搭建了大量的这个科研的平台，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们搭建了大量的这个科研的平台。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 132.934,
+      "end": 135.874,
+      "label": "uncertain",
+      "text": "像有呃技国家级的技术中心啊，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5308,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "像有呃，技国家级的技术中心啊。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 135.892,
+      "end": 140.879,
+      "label": "mandarin",
+      "text": "呃这个还有广西的一些省级的这些呃研究的这些平台。",
+      "score": 0.0257,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0388,
+        "acoustic_dev": 0.049,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，这个还有广西的一些省级的这些呃，研究的这些平台。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 140.979,
+      "end": 146.673,
+      "label": "mandarin",
+      "text": "通过这些平台，把很多的这些原先的研究成果变成了产业化的一些成果。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过这些平台，把很多的这些原先的研究成果变成了产业化的一些成果。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 146.927,
+      "end": 151.856,
+      "label": "mandarin",
+      "text": "目前，我市三十三家获评广西制造业单项冠军的企业，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，我市三十三家获评广西制造业单项冠军的企业。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 152.046,
+      "end": 156.13,
+      "label": "guilin",
+      "text": "在各自细分领域具备较强的核心竞争力，",
+      "score": 0.5738,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6216,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在国资细分领域，具备较强的核心竞争力。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 156.403,
+      "end": 159.647,
+      "label": "mandarin",
+      "text": "已经逐步成为桂林造的杰出代表。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0056,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "已经逐步成为桂林造的杰出代表。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 159.927,
+      "end": 163.378,
+      "label": "mandarin",
+      "text": "近年来，我市通过出台一系列政策，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，我市通过出台一系列政策。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 163.574,
+      "end": 167.089,
+      "label": "mandarin",
+      "text": "加强服务，创造良好的发展环境，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加强服务，创造良好的发展环境。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 167.27,
+      "end": 172.319,
+      "label": "mandarin",
+      "text": "引导工业企业长期专注于细分产品市场的创新、",
+      "score": 0.2022,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2133,
+        "acoustic_dev": 0.389,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "引导工业企业长期专注于细分产品市场的创新。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 172.507,
+      "end": 175.651,
+      "label": "guilin",
+      "text": "产品质量提升和品牌培育，",
+      "score": 0.5616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1905,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产品质量提升，或品牌培育。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 175.817,
+      "end": 179.082,
+      "label": "mandarin",
+      "text": "实现专精特新创新发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0102,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现专精特新创新发展。"
+      }
+    }
+  ]
+}

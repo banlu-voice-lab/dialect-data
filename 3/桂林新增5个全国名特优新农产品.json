@@ -1,0 +1,541 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林新增5个全国名特优新农产品.wav",
+  "duration": 129.631,
+  "no_dialect": false,
+  "created_at": "2026-10-26T10:42:14",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.757,
+      "end": 7.07,
+      "label": "mandarin",
+      "text": "那总结完了工业，接着来我们再来介绍一点我们桂林农业发展的新成果。",
+      "score": 0.0336,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1035,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那总结完了工业，接下来我们再来介绍一点我们桂林农业发展的新成果。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.346,
+      "end": 17.502,
+      "label": "mandarin",
+      "text": "年底，国家农业农村部农产品质量安全中心公示，二零二四年第三批全国名特优新农产品名录，",
+      "score": 0.0469,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "年底，国家农业农村部农产品质量安全中心公示2024年第三批全国名特优新农产品名录。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 17.782,
+      "end": 21.968,
+      "label": "mandarin",
+      "text": "全国呢一共有七百八十二个产品入选，",
+      "score": 0.0757,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1655,
+        "acoustic_dev": 0.091,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全国呢，一期有七百八十二个产品入选。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 22.132,
+      "end": 24.934,
+      "label": "mandarin",
+      "text": "其中我市就有桂林罗汉果、",
+      "score": 0.3292,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.774,
+        "acoustic_dev": 0.633,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中，我市就有桂林罗汉果。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 25.071,
+      "end": 27.574,
+      "label": "guilin",
+      "text": "啊这个灵川米香红茶、",
+      "score": 0.7216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5843,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "灵/临",
+        "lexicon": "",
+        "text_free": "啊，这个临川蜜香红茶。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 27.709,
+      "end": 33.89,
+      "label": "mandarin",
+      "text": "全州的河法鱼、资源的红提，还有平乐柿子五个农产品上榜了。",
+      "score": 0.2335,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4098,
+        "acoustic_dev": 0.308,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "泉州的合法鱼、紫源的红提，还有平乐狮子，五个农产品上榜了。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 34.529,
+      "end": 41.381,
+      "label": "mandarin",
+      "text": "全国名特优新农产品是指在特定区域原则上以县域为单位内生产，",
+      "score": 0.0163,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0318,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全国名特优新农产品是指在特定区域，原则上以县域为单位的生产。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 41.55,
+      "end": 44.236,
+      "label": "guilin",
+      "text": "具备一定生产规模和商品量，",
+      "score": 0.5581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3889,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "具备一定生产规模或商品量。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 44.467,
+      "end": 48.792,
+      "label": "mandarin",
+      "text": "具有显著地域特征和独特营养品质特色，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "具有显著地域特征或独特营养品质特色。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.997,
+      "end": 52.163,
+      "label": "mandarin",
+      "text": "有稳定的供应量和消费市场，",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有稳定的供应量或消费市场。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 52.442,
+      "end": 55.42,
+      "label": "guilin",
+      "text": "公众认知度和美誉度高，",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7842,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "知/资",
+        "lexicon": "",
+        "text_free": "公众薪资读或美誉度高。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 55.42,
+      "end": 63.302,
+      "label": "mandarin",
+      "text": "并且经农业农村部农产品质量安全中心登录公告或核发证书的农产品。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0118,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并且经农业农村部农产品质量安全中心登录公告或合法证书的农产品。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 63.639,
+      "end": 67.128,
+      "label": "mandarin",
+      "text": "全国名特优新农产品证书长期有效，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0193,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全国名特优新农产品证书长期有效。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 67.315,
+      "end": 70.285,
+      "label": "mandarin",
+      "text": "并实行年度确认制度。",
+      "score": 0.3323,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2559,
+        "acoustic_dev": 0.171,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "制/字 年/连",
+        "lexicon": "",
+        "text_free": "并实行连读、错音字读。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 70.285,
+      "end": 74.964,
+      "label": "mandarin",
+      "text": "灵川米香红茶原生茶叶生长在高海拔山区，",
+      "score": 0.1254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "灵/临",
+        "lexicon": "",
+        "text_free": "临川米香红茶原生茶叶生长在高海拔山区。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 75.243,
+      "end": 80.296,
+      "label": "mandarin",
+      "text": "境内山高林密，常年云雾缭绕，昼夜温差大，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "境内山高林密，常年云雾缭绕，昼夜温差大。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 80.388,
+      "end": 86.45,
+      "label": "mandarin",
+      "text": "茶叶种植区植被覆盖率高，富含大量的有机质和矿物质。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0085,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "茶叶种植区植被覆盖率高，富含大量的有机质和矿物质。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 86.958,
+      "end": 90.966,
+      "label": "mandarin",
+      "text": "全州县河法鱼养殖于稻田浅水层中，",
+      "score": 0.3188,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4886,
+        "acoustic_dev": 0.379,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "泉州县霍发于养殖于稻田浅水层中。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 91.186,
+      "end": 95.582,
+      "label": "mandarin",
+      "text": "以浮游生物、稻花及落入水中的稻粒为食。",
+      "score": 0.0807,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0094,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以浮游生物、刀发及落入水中的刀粒为食。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 96.012,
+      "end": 98.577,
+      "label": "guilin",
+      "text": "全州河法鱼体型较短，",
+      "score": 0.6396,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0982,
+        "acoustic_dev": 0.922,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "泉州佛法于体性较短。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 98.819,
+      "end": 104.8,
+      "label": "mandarin",
+      "text": "腹大头小，背部及体侧呈金黄色或者青黄色。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "腹大头小，背部及体侧呈金黄色或者青黄色。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 104.851,
+      "end": 108.895,
+      "label": "mandarin",
+      "text": "资源红提果穗大，呈长圆锥形，",
+      "score": 0.0175,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1018,
+        "acoustic_dev": 0.034,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "资源红提果穗大，呈长圆锥形。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 109.406,
+      "end": 112.955,
+      "label": "mandarin",
+      "text": "果粒呈卵圆形，果皮紫红色，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "果粒呈卵圆形，果皮紫红色。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 112.955,
+      "end": 117.643,
+      "label": "mandarin",
+      "text": "带有部分青色。平乐县属于中亚热带季风气候，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "带有部分青色。平乐县属于中亚热带季风气候。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 117.878,
+      "end": 121.196,
+      "label": "mandarin",
+      "text": "全年冬短夏长，气候条件优越，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全年冬短夏长，气候条件优越。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 121.359,
+      "end": 125.321,
+      "label": "mandarin",
+      "text": "有利于柿子糖分等营养成分大量积聚，",
+      "score": 0.0947,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1451,
+        "acoustic_dev": 0.072,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有利于狮子糖分等营养成分大量集聚。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 125.523,
+      "end": 127.805,
+      "label": "mandarin",
+      "text": "造就柿子糖分含量高、",
+      "score": 0.2017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0124,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "分/风",
+        "lexicon": "",
+        "text_free": "造就师资，唐风汉两高。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 127.892,
+      "end": 129.631,
+      "label": "uncertain",
+      "text": "营养丰富的特点。",
+      "score": 0.4379,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0084,
+        "acoustic_dev": 0.842,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "营养丰富的特点。"
+      }
+    }
+  ]
+}

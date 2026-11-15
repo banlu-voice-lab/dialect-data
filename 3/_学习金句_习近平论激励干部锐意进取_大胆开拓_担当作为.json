@@ -1,0 +1,142 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_学习金句_习近平论激励干部锐意进取_大胆开拓_担当作为.wav",
+  "duration": 43.548,
+  "no_dialect": false,
+  "created_at": "2026-10-26T08:28:25",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.684,
+      "end": 10.379,
+      "label": "mandarin",
+      "text": "警以警句。今天我们来学习习近平二零二四年四月二十三日在新时代推动西部大开发座谈会上的讲话。",
+      "score": 0.0213,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0135,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.047,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "精益警句。今天我们来学习习近平二零二四年四月二十三日在新时代推动西部大开发座谈会上的讲话。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 11.204,
+      "end": 16.803,
+      "label": "mandarin",
+      "text": "习近平论激励干部锐意进取、大胆开拓、担当作为，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0118,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "习近平能激励干部锐意进取、大胆开拓、担当作为。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 17.227,
+      "end": 21.896,
+      "label": "mandarin",
+      "text": "打造忠诚、干净、担当的高素质专业化干部队伍，",
+      "score": 0.0434,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0344,
+        "acoustic_dev": 0.083,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造忠诚、干净、担当的高素质专业化干部队伍。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 22.276,
+      "end": 25.292,
+      "label": "uncertain",
+      "text": "建立健全考核激励制度，",
+      "score": 0.4916,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1558,
+        "acoustic_dev": 0.569,
+        "seg_cer": 0.7,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "制/自",
+        "lexicon": "",
+        "text_free": "检历检全，考核及理自读。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 25.606,
+      "end": 30.516,
+      "label": "mandarin",
+      "text": "关心关爱基层干部，特别是条件艰苦地区干部，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "关心关爱基层干部，特别是条件艰苦地区干部。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 30.886,
+      "end": 34.124,
+      "label": "uncertain",
+      "text": "激励干部锐意进取、大胆开拓、",
+      "score": 0.3959,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2038,
+        "acoustic_dev": 0.761,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "激励干部锐意进取，大胆开拓。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 34.124,
+      "end": 43.548,
+      "label": "mandarin",
+      "text": "担当作为。习近平二零二四年四月二十三日在新时代推动西部大开发座谈会上的讲话。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "担当作为。习近平二零二四年四月二十三日在新时代推动西部大开发座谈会上的讲话。"
+      }
+    }
+  ]
+}

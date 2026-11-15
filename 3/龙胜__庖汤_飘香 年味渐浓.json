@@ -1,0 +1,636 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "龙胜__庖汤_飘香 年味渐浓.wav",
+  "duration": 138.258,
+  "no_dialect": false,
+  "created_at": "2026-10-26T12:24:15",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.962,
+      "end": 3.96,
+      "label": "mandarin",
+      "text": "距离春节只有十几天了，这一段时间，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0282,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "距离春节只有十几天了，这一段时间。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.089,
+      "end": 6.489,
+      "label": "mandarin",
+      "text": "年味可以讲是越来越浓。",
+      "score": 0.0457,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0223,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "年味可以将是越来越浓。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.68,
+      "end": 10.496,
+      "label": "guilin",
+      "text": "杀年猪就是这一饭块的新年序曲，",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0729,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "猪/组",
+        "lexicon": "",
+        "text_free": "杀年组就是最欢快的新年序曲。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.759,
+      "end": 13.554,
+      "label": "guilin",
+      "text": "在农村杀年猪吃泡汤，",
+      "score": 0.7216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6802,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "农/龙",
+        "lexicon": "",
+        "text_free": "在龙胜杀年猪，吃泡汤。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 13.809,
+      "end": 16.46,
+      "label": "mandarin",
+      "text": "年味好像已经悬到了半空中。",
+      "score": 0.2014,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0875,
+        "acoustic_dev": 0.048,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "年/连",
+        "lexicon": "",
+        "text_free": "连微好像已经悬到了半空中。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 17.143,
+      "end": 25.953,
+      "label": "mandarin",
+      "text": "吹到清晨的第一缕阳光透过薄雾，江底乡江底村老吴组杨章勇屋里头已经开始热闹起来了。",
+      "score": 0.193,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1798,
+        "acoustic_dev": 0.202,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "屋里",
+        "text_free": "吹到清晨的第一缕阳光透过薄雾，江底乡江底村老屋组，阳光涌屋里头，已经开始热闹起来了。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.225,
+      "end": 29.604,
+      "label": "guilin",
+      "text": "亲戚朋友以及邻里陆陆叔叔的到来，",
+      "score": 0.6419,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.333,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "亲朋好友以及邻里陆陆续续的到来。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 29.849,
+      "end": 34.704,
+      "label": "mandarin",
+      "text": "帮忙准备杀年猪，大家脸上都挂到期待的笑容。",
+      "score": 0.1464,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0841,
+        "acoustic_dev": 0.043,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "猪/祖",
+        "lexicon": "",
+        "text_free": "帮忙准备杀年祖，大家脸上都挂到期待的笑容。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.704,
+      "end": 39.555,
+      "label": "mandarin",
+      "text": "不止期待泡汤的美味，更是期待新年团聚的到来。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不止期待泡汤的美味，更是期待新年团聚的到来。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.706,
+      "end": 43.056,
+      "label": "mandarin",
+      "text": "今年我养了一百多头猪，快过年了，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年我养了一百多头猪，快过年了。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.222,
+      "end": 45.44,
+      "label": "mandarin",
+      "text": "今天叫亲戚朋友过来",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天叫亲戚朋友过来。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 45.571,
+      "end": 48.046,
+      "label": "mandarin",
+      "text": "到我家里面杀猪吃泡汤，",
+      "score": 0.0532,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.12,
+        "acoustic_dev": 0.102,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到我家里面杀猪吃，泡汤。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 48.232,
+      "end": 50.803,
+      "label": "mandarin",
+      "text": "是吧？大家现在快过年了嘛，",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0084,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是啊，大家现在快过年了嘛。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 50.954,
+      "end": 54.296,
+      "label": "uncertain",
+      "text": "大家聚在一起开心开心，迎接新的一年。",
+      "score": 0.482,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5838,
+        "acoustic_dev": 0.872,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家再聚在一起，开心开心，迎接新的一年。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 54.302,
+      "end": 57.129,
+      "label": "uncertain",
+      "text": "架起火，烧好热水，到了时辰，",
+      "score": 0.4454,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3166,
+        "acoustic_dev": 0.429,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "辰/成",
+        "lexicon": "",
+        "text_free": "加起火，烧好热水，倒了十成。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 57.129,
+      "end": 59.709,
+      "label": "mandarin",
+      "text": "杨章勇邀起几个有经验的村民，",
+      "score": 0.106,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0996,
+        "acoustic_dev": 0.069,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "杨长勇邀请几个有经验的村民。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 59.874,
+      "end": 63.75,
+      "label": "mandarin",
+      "text": "就开始准备杀年猪了。扯尾巴，捆猪脚，",
+      "score": 0.2929,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2112,
+        "acoustic_dev": 0.254,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "年/连",
+        "lexicon": "",
+        "text_free": "就开始准备杀连珠了，扯尾巴，捆猪脚。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 63.75,
+      "end": 68.054,
+      "label": "mandarin",
+      "text": "按猪身，几个大汉合力把年猪按到案板高头，",
+      "score": 0.26,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0205,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.389,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.571,
+        "phon_examples": "猪/足 年/链 身/声 猪/足",
+        "lexicon": "",
+        "text_free": "按足声，结果大汉合力把链足按到鞍板高头。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 68.142,
+      "end": 72.736,
+      "label": "mandarin",
+      "text": "手起刀落间，年猪被分成了大小不一的肉块，",
+      "score": 0.177,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.278,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "年/链",
+        "lexicon": "",
+        "text_free": "手机掉落间，链珠被分成了大小不一的玉块。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 73.048,
+      "end": 76.589,
+      "label": "mandarin",
+      "text": "有的用来烤腊肉，有的用来灌香肠。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有的用来烤腊肉，有的用来关香肠。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 77.049,
+      "end": 86.406,
+      "label": "mandarin",
+      "text": "接下来就是泡汤的制作，新鲜的猪肉被切过成一高一高的，和猪骨头、猪小肠等等一起放到大锅里面，",
+      "score": 0.0334,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0265,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.073,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接下来就是泡汤的制作。新鲜的猪肉被切裹成一糕一糕的，和猪骨头、猪小肠等等一起放到大锅里面。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 86.668,
+      "end": 88.973,
+      "label": "mandarin",
+      "text": "加入清水和各种香料，",
+      "score": 0.2586,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2991,
+        "acoustic_dev": 0.4,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加入清水或各种香料。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 89.145,
+      "end": 91.73,
+      "label": "mandarin",
+      "text": "没得好久，锅中就开始沸腾，",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0154,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "没得好久，锅中就开始沸腾。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 91.89,
+      "end": 97.762,
+      "label": "mandarin",
+      "text": "油香四溢，再加上腌制过的猪肉、猪血、猪肝以及蔬菜，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "油香四溢，再加上腌制过的猪肉、猪血、猪肝以及蔬菜。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 97.94,
+      "end": 101.585,
+      "label": "mandarin",
+      "text": "一桌一腾腾的泡汤就制作完成了。",
+      "score": 0.0502,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0786,
+        "acoustic_dev": 0.034,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一桌热腾腾的泡汤就制作完成了。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 102.089,
+      "end": 105.994,
+      "label": "mandarin",
+      "text": "一顿杀猪饭不仅是一种家乡味道，",
+      "score": 0.2019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2922,
+        "acoustic_dev": 0.388,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一顿杀猪饭不仅是一种家乡味道。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 106.122,
+      "end": 112.496,
+      "label": "mandarin",
+      "text": "还承载了浓浓的年味。一碗热气腾腾的泡汤，将乡亲们聚拢在一起，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0099,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还承载了浓浓的年味。一碗热气腾腾的泡汤，将乡亲们聚拢在一起。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 112.79,
+      "end": 115.209,
+      "label": "guilin",
+      "text": "既是对新老一年的犒赏，",
+      "score": 0.8617,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.0693,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.6,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.167,
+        "phon_examples": "新/醒",
+        "lexicon": "",
+        "text_free": "只是对醒了一年嘅考生。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 115.356,
+      "end": 120.669,
+      "label": "mandarin",
+      "text": "也是亲戚朋友分享收获、共话家常的幸福时刻。",
+      "score": 0.2245,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1345,
+        "acoustic_dev": 0.127,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "常/藏",
+        "lexicon": "",
+        "text_free": "也是亲朋好友分享收获、共发家藏的幸福时刻。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 120.969,
+      "end": 127.411,
+      "label": "mandarin",
+      "text": "正直的气氛当中，农村人用他们独特的方式迎接新年的到来，",
+      "score": 0.1382,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0583,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "农/龙",
+        "lexicon": "",
+        "text_free": "正直的气氛当中，龙生营用他们独特的方式迎接新年的到来。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 127.411,
+      "end": 130.675,
+      "label": "mandarin",
+      "text": "传递着对未来的美好祝愿。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "传递着对未来的美好祝愿。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 130.675,
+      "end": 137.077,
+      "label": "mandarin",
+      "text": "今天我们主持家里面杀猪，叫我们一起回来帮忙，大家一起团聚一下，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们侄子家里面杀猪，叫我们一起回来帮忙，大家一起团聚一下。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 137.077,
+      "end": 138.258,
+      "label": "mandarin",
+      "text": "开开心心。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "开开心心。"
+      }
+    }
+  ]
+}

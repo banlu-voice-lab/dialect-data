@@ -1,0 +1,1016 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "全市春节文旅市场火热有序_游客接待超835万人次 收入超92亿.wav",
+  "duration": 236.848,
+  "no_dialect": false,
+  "created_at": "2026-10-26T09:19:24",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.215,
+      "end": 4.996,
+      "label": "guilin",
+      "text": "春节长假，我市游费措施、吃宿惠民、",
+      "score": 0.7377,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.4443,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.929,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.231,
+        "phon_examples": "民/明 宿/疏 吃/词",
+        "lexicon": "",
+        "text_free": "纯洁厂家，我是有非错事，词疏非明。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.172,
+      "end": 12.269,
+      "label": "mandarin",
+      "text": "文旅市场正常有序。凭借独特的山水风光与丰富的民俗文化活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "文旅市场正常有序，凭借独特的山水风光与丰富的民俗文化活动。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.387,
+      "end": 15.372,
+      "label": "mandarin",
+      "text": "吸引了大量游客。根据测算，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0244,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引了大量游客。根据测算。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.372,
+      "end": 17.849,
+      "label": "guilin",
+      "text": "二零二五年春节假日期间，",
+      "score": 0.7633,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.431,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "年/联 零/林",
+        "lexicon": "",
+        "text_free": "俄林俄乌联春节假溢期间。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.002,
+      "end": 23.58,
+      "label": "mandarin",
+      "text": "全市共接待游客超过了八百三十五点八一万人次，",
+      "score": 0.0047,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0387,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全市共接待游客超过了八百三十五点八一万人次。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.823,
+      "end": 28.449,
+      "label": "mandarin",
+      "text": "实现了旅游总收入超九十二点四零亿元。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现了旅游总收入超九十二点四零亿元。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.282,
+      "end": 32.942,
+      "label": "mandarin",
+      "text": "今年春节假日期间，阳朔旅游持续火爆。",
+      "score": 0.2554,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1257,
+        "acoustic_dev": 0.166,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "持/次",
+        "lexicon": "",
+        "text_free": "今年春节假期期间，阳朔旅游次数火爆。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.115,
+      "end": 38.08,
+      "label": "mandarin",
+      "text": "阳朔交警对主要交通干道实施了科学的交通分流方案，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "阳朔交警对主要交通干道实施了科学的交通分流方案。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.391,
+      "end": 42.582,
+      "label": "mandarin",
+      "text": "在重点路段增设临时交通标识和引导人员，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0242,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在重点路段增设临时交通标识或引导人员。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 43.001,
+      "end": 49.744,
+      "label": "mandarin",
+      "text": "对阳朔县遇龙河国家级旅游度假区大中型客车采取临时交通管控。",
+      "score": 0.0354,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0366,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对阳朔县玉龙湖国家级旅游度假区，大中型客车采取临时交通管控。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 50.035,
+      "end": 55.58,
+      "label": "mandarin",
+      "text": "同时，对重要交通拥堵路段进行临时疏散分流，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，对重要交通拥堵路段进行临时疏散分流。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 55.942,
+      "end": 58.392,
+      "label": "mandarin",
+      "text": "有效的缓解了交通拥堵状况，",
+      "score": 0.1863,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1916,
+        "acoustic_dev": 0.285,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有效地缓解了交通拥堵状况。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 58.64,
+      "end": 61.417,
+      "label": "mandarin",
+      "text": "确保游客能够顺畅出行。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "确保游客能够顺畅出行。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 61.579,
+      "end": 67.008,
+      "label": "mandarin",
+      "text": "在景区管理方面，阳朔充分运用“爱游阳朔”智慧文旅平台，",
+      "score": 0.0665,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1046,
+        "acoustic_dev": 0.128,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在景区管理方面，阳朔充分运用“爱游阳朔”智慧文旅平台。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 67.384,
+      "end": 72.481,
+      "label": "mandarin",
+      "text": "通过大数据分析游客流量，及时调整售票、检票速度，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0336,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过大数据分析游客流量，及时调整售票、检票速度。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 72.741,
+      "end": 75.482,
+      "label": "mandarin",
+      "text": "避免游客长时间排队等待。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "避免游客长时间排队等待。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 75.926,
+      "end": 78.494,
+      "label": "guilin",
+      "text": "各景区还利用智能监控设备，",
+      "score": 0.6962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9984,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "景/金",
+        "lexicon": "",
+        "text_free": "国金区还利用智能监控设备。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 78.671,
+      "end": 83.198,
+      "label": "mandarin",
+      "text": "实时监测景区内的安全状况和游客动态，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0099,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实时监测景区内的安全状况和游客动态。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 83.524,
+      "end": 87.465,
+      "label": "mandarin",
+      "text": "一旦发现异常情况，迅速做出响应。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一旦发现异常情况，迅速走出响应。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 87.954,
+      "end": 90.715,
+      "label": "uncertain",
+      "text": "阳朔还推出一系列文旅融合活动，",
+      "score": 0.4294,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4217,
+        "acoustic_dev": 0.7,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "杨爽还推出一系列文旅融合活动。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 90.932,
+      "end": 94.293,
+      "label": "mandarin",
+      "text": "为游客的春节假期增添更多乐趣。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为游客的春节假期增添更多乐趣。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 94.852,
+      "end": 98.879,
+      "label": "uncertain",
+      "text": "漓江景区和遇龙河景区春节气氛浓厚。",
+      "score": 0.5354,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4825,
+        "acoustic_dev": 0.81,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丽江景区或玉龙或景区，春节气氛浓厚。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 99.195,
+      "end": 102.717,
+      "label": "mandarin",
+      "text": "桂林千古情景区以“狂欢中国年”为主题，",
+      "score": 0.0421,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0481,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林千古情景区以“狂翻中国年”为主题。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 102.998,
+      "end": 107.037,
+      "label": "mandarin",
+      "text": "推出十多项传统文化体验活动和特色演出，",
+      "score": 0.1121,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.126,
+        "acoustic_dev": 0.167,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推出十多项传统文化体验活动或特色演出。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 107.342,
+      "end": 111.843,
+      "label": "mandarin",
+      "text": "让中外游客领略到极具壮乡风情的中国年。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让中外游客领略到极具装相风情的中国年。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 112.461,
+      "end": 116.481,
+      "label": "mandarin",
+      "text": "大型山水实景演出《印象刘三姐》震撼开演，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0148,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大型山水实景演出《印象刘三姐》震撼开演。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 116.788,
+      "end": 122.105,
+      "label": "uncertain",
+      "text": "景区举办的首届“新石文化节”也吸引了众多游客前来观看。",
+      "score": 0.511,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4971,
+        "acoustic_dev": 0.836,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "景区举办的首个影视文化节，也是吸引了众多游客前来观看。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 122.582,
+      "end": 125.262,
+      "label": "mandarin",
+      "text": "传统与现代相辅交融，",
+      "score": 0.2047,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0911,
+        "acoustic_dev": 0.104,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "辅/互",
+        "lexicon": "",
+        "text_free": "传统与现代相互交融。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 125.461,
+      "end": 128.507,
+      "label": "mandarin",
+      "text": "为游客带来了别具一格的体验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为游客带来了别具一格的体验。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 128.941,
+      "end": 133.585,
+      "label": "mandarin",
+      "text": "金龙巡游活动将传统民俗与现代元素结合，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0274,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "锦龙巡游活动将传统民俗与现代元素结合。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 133.959,
+      "end": 137.578,
+      "label": "guilin",
+      "text": "为游客送上了一春节的新春祝福。",
+      "score": 0.618,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8806,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为游客送上了诚挚的新春祝福。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 137.97,
+      "end": 144.075,
+      "label": "mandarin",
+      "text": "春节假期，阳朔县接待旅游总人数一百四十九点五二万人次，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0244,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "春节假期，阳朔县接待旅游总人数一百四十九点五二万人次。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 144.43,
+      "end": 146.81,
+      "label": "mandarin",
+      "text": "同比增长百分之四点九五，",
+      "score": 0.3507,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4074,
+        "acoustic_dev": 0.674,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同比增长百分之四点九五。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 146.998,
+      "end": 149.886,
+      "label": "mandarin",
+      "text": "旅游总消费二十一点四六亿元，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0236,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "旅游总消费二十一点四六亿元。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 149.886,
+      "end": 152.315,
+      "label": "mandarin",
+      "text": "同比增长百分之六点零八。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同比增长百分之六点零八。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 152.827,
+      "end": 158.917,
+      "label": "mandarin",
+      "text": "在兴安县，当地结合自身特色，推出丰富多彩的春节旅游产品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0056,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在兴安县，当地结合自身特色，推出丰富多彩的春节旅游产品。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 159.273,
+      "end": 161.473,
+      "label": "mandarin",
+      "text": "精心组织旅游文化活动，",
+      "score": 0.2643,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2666,
+        "acoustic_dev": 0.42,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "精心组织旅游文法活动。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 161.683,
+      "end": 166.198,
+      "label": "mandarin",
+      "text": "吸引大量游客前来兴安畅享春节假期。",
+      "score": 0.0933,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0721,
+        "acoustic_dev": 0.069,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引大量游客前来兴安，畅享纯洁假期。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 166.532,
+      "end": 172.449,
+      "label": "mandarin",
+      "text": "根据统计，春节期间，兴安共接待游客六十七点二一万人次，",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0108,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据统计，春节期间，西安共接待游客六十七点二一万人次。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 172.692,
+      "end": 175.582,
+      "label": "mandarin",
+      "text": "同比增长百分之十三点一二。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同比增长百分之十三点一二。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 175.969,
+      "end": 180.214,
+      "label": "mandarin",
+      "text": "根据了解，春节前，桂林文旅就积极开展推介，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，春节前，桂林文旅就积极开展推介。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 180.537,
+      "end": 188.557,
+      "label": "mandarin",
+      "text": "引导和鼓励旅游景区、乡村旅游区面向全国游客出台门票免费或者打折优惠政策，",
+      "score": 0.1105,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1371,
+        "acoustic_dev": 0.187,
+        "seg_cer": 0.029,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "引导或鼓励旅游景区、乡村旅游区面向全国游客出台门票免费或者打折优惠政策。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 188.93,
+      "end": 193.198,
+      "label": "mandarin",
+      "text": "并在官方网站、微博、微信公众号上提前发布，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并在官方网站、微博、微信公众号上提前发布。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 193.637,
+      "end": 196.654,
+      "label": "guilin",
+      "text": "诚意十足迎接八方游客。",
+      "score": 0.7114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5917,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "诚/衬",
+        "lexicon": "",
+        "text_free": "衬衣十足，迎接八方游客。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 196.809,
+      "end": 202.354,
+      "label": "mandarin",
+      "text": "为了让市民游客度过一个欢乐、祥和、安全、健康的春节，",
+      "score": 0.088,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.061,
+        "acoustic_dev": 0.049,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了让市民游客度过一个繁闹、强和、安全、健康的春节。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 202.746,
+      "end": 206.489,
+      "label": "uncertain",
+      "text": "我市文旅部门建立健全假一旅游工作机制，",
+      "score": 0.5454,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7953,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我市文旅部门建立健全假日旅游工作机制。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 206.77,
+      "end": 208.996,
+      "label": "mandarin",
+      "text": "严格落实值班有关要求，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "严格落实值班有关要求。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 209.347,
+      "end": 212.416,
+      "label": "uncertain",
+      "text": "做好假一文化旅游市场秩序检查、",
+      "score": 0.5381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5724,
+        "acoustic_dev": 0.972,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "做好假日文化旅游市场秩序检查。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 212.699,
+      "end": 215.144,
+      "label": "guilin",
+      "text": "旅游投诉应急处置工作，",
+      "score": 0.6288,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4688,
+        "acoustic_dev": 0.785,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "诉/熟",
+        "lexicon": "",
+        "text_free": "略有投熟，应急处置工作。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 215.502,
+      "end": 225.971,
+      "label": "mandarin",
+      "text": "督促文旅企事业单位开展安全隐患排查和整改，确保全市文化旅游场所正常有序开放运营和安全稳定。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "督促文旅企事业单位开展安全隐患排查和整改，确保全市文化旅游场所正常有序开放运营和安全稳定。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 226.329,
+      "end": 231.724,
+      "label": "mandarin",
+      "text": "春节假期八天，我市文化或旅游市场总体正常有序，",
+      "score": 0.0311,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0436,
+        "acoustic_dev": 0.018,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "春节假期八天，我市文化和旅游市场总体正常有序。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 231.963,
+      "end": 234.525,
+      "label": "mandarin",
+      "text": "无重大旅游服务质量投诉，",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0251,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "五重大旅游服务质量投诉。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 234.525,
+      "end": 236.848,
+      "label": "uncertain",
+      "text": "无旅游安全责任事故。",
+      "score": 0.5053,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3572,
+        "acoustic_dev": 0.584,
+        "seg_cer": 0.778,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "事/死",
+        "lexicon": "",
+        "text_free": "五六安全，泽阴死骨。"
+      }
+    }
+  ]
+}

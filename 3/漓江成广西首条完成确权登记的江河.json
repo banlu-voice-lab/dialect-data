@@ -1,0 +1,389 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "漓江成广西首条完成确权登记的江河.wav",
+  "duration": 103.013,
+  "no_dialect": false,
+  "created_at": "2026-10-26T11:23:00",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.541,
+      "end": 8.081,
+      "label": "mandarin",
+      "text": "接着我们来关注一下漓江。现在我们的漓江已经正式完成了自然资源的确权登记，",
+      "score": 0.093,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0508,
+        "acoustic_dev": 0.075,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接着我们来关注一下丽江。现在我们的丽江已经正式完成了自然资源地球权登记。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.081,
+      "end": 11.691,
+      "label": "mandarin",
+      "text": "标志着漓江有了自然资源合法身份证。",
+      "score": 0.0571,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "标志着丽江有了自研资源合法身份证。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.966,
+      "end": 15.321,
+      "label": "mandarin",
+      "text": "据悉，这是广西首条完成登记的水流，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "据悉，这是广西首条完成登记的水流。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.551,
+      "end": 25.838,
+      "label": "mandarin",
+      "text": "为漓江水资源保护与合理开发利用以及推动打造桂林世界级旅游城市提供了坚实的产权支撑。",
+      "score": 0.0114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.025,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为丽江水资源保护与合理开发利用，以及推动打造桂林世界级旅游城市，提供了坚实的产权支撑。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 26.316,
+      "end": 31.098,
+      "label": "mandarin",
+      "text": "二零二零年五月，自治区自然资源厅、自治区水利厅、",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二二年五月，自治区自然资源厅、自治区水利厅。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 31.098,
+      "end": 36.23,
+      "label": "mandarin",
+      "text": "桂林市政府正式启动漓江水流自然资源的确权登记工作。",
+      "score": 0.1225,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0359,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林市政府正式启动漓江水流资源、地球权等级工作。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 36.57,
+      "end": 46.421,
+      "label": "guilin",
+      "text": "自治区自然资源厅组织技术单位构建了漓江籍图表文书为一体的的确权登记数据库，",
+      "score": 0.6089,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.34,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.194,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自治区自然资源厅组织技术单位，构建了丽江地图、标文、书为一体的地球权等级数据库。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 46.742,
+      "end": 51.324,
+      "label": "mandarin",
+      "text": "划清了全民所有与集体所有边界线六百四十四条，",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0172,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发清了全民所有与集体所有边界线六百四十四条。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 51.725,
+      "end": 54.891,
+      "label": "mandarin",
+      "text": "不同集体之间边界线四十七条，",
+      "score": 0.254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1372,
+        "acoustic_dev": 0.421,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不同机体之间边界线四十七条。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 55.153,
+      "end": 58.188,
+      "label": "mandarin",
+      "text": "设置界址点两千六百八十二个，",
+      "score": 0.1703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "址/子",
+        "lexicon": "",
+        "text_free": "设置盖子点两千六百八十二个。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 58.709,
+      "end": 61.311,
+      "label": "uncertain",
+      "text": "界址线两千六百八十二条，",
+      "score": 0.5095,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1889,
+        "acoustic_dev": 0.628,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "址/子",
+        "lexicon": "",
+        "text_free": "盖子线两千六百八十二条。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 61.606,
+      "end": 63.879,
+      "label": "guilin",
+      "text": "解决了权属交叉重叠、",
+      "score": 0.6862,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2549,
+        "acoustic_dev": 0.892,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "属/速",
+        "lexicon": "",
+        "text_free": "解决了全速交叉充电。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 64.113,
+      "end": 67.323,
+      "label": "guilin",
+      "text": "地类认定不一、边界不清等问题，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.45,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "地雷影定不移，边改不清的问题。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 67.584,
+      "end": 72.717,
+      "label": "mandarin",
+      "text": "梳理并制定了审核流程、审核要点以及审核意见，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "梳理并制定了审核流程、审核要点以及审核意见。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 73.025,
+      "end": 78.753,
+      "label": "mandarin",
+      "text": "通过内部、外部、线上、线下相结合的方式开展综合审查，",
+      "score": 0.1284,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0937,
+        "acoustic_dev": 0.247,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过内部、外部、线上、线下相结合的方式，开展综合审查。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 78.977,
+      "end": 83.937,
+      "label": "mandarin",
+      "text": "确保了登记成果的现实性、完整性或准确性。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "确保了登记成果的现实性、完整性或准确性。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 84.391,
+      "end": 87.399,
+      "label": "guilin",
+      "text": "在漓江水流自然资源的户口本上，",
+      "score": 0.5644,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2405,
+        "acoustic_dev": 0.834,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在丽江水流自言自语的户口本上。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 87.534,
+      "end": 91.973,
+      "label": "mandarin",
+      "text": "明确了漓江水流自然资源所有权为全民所有，",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0117,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "明确了漓江水流资源所有权为全民所有。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 92.362,
+      "end": 96.812,
+      "label": "mandarin",
+      "text": "自然资源部代表国家行使所有者职责，",
+      "score": 0.011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0373,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自然资源部代表国家行使所有者职责。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 97.042,
+      "end": 103.013,
+      "label": "mandarin",
+      "text": "广西壮族自治区人民政府代表国家代理行使所有者职责。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广西壮族自治区人民政府代表国家，代理行使所有者职责。"
+      }
+    }
+  ]
+}

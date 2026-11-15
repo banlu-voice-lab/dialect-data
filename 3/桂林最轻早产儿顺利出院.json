@@ -1,0 +1,1111 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林最轻早产儿顺利出院.wav",
+  "duration": 241.097,
+  "no_dialect": false,
+  "created_at": "2026-10-26T10:59:08",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.901,
+      "label": "mandarin",
+      "text": "二月十四号，胎龄二十五周、",
+      "score": 0.0893,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0516,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二月十四号，台陵二十五周。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.901,
+      "end": 7.872,
+      "label": "mandarin",
+      "text": "体重只有九两多的超低体重早产儿玲玲，",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "体重只有九两多的超低体重早产儿，零零。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.004,
+      "end": 11.011,
+      "label": "mandarin",
+      "text": "在市妇幼保健院顺利出院了。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在市妇幼保健院顺利出院了。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.243,
+      "end": 16.192,
+      "label": "mandarin",
+      "text": "这是桂林目前为止出生体重最轻的超早产儿。",
+      "score": 0.0722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这是桂林目前为止出生体重最轻的潮州产鹅。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.659,
+      "end": 23.897,
+      "label": "mandarin",
+      "text": "摆在上演的生命奇迹，离不开妇幼保健院新生儿科医护团队的不懈努力。",
+      "score": 0.1959,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1499,
+        "acoustic_dev": 0.069,
+        "seg_cer": 0.533,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "八爷在上演里生命奇迹，离不开富有保监员，心生恶念，衣服突然掉里，不懈努力。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.126,
+      "end": 27.222,
+      "label": "mandarin",
+      "text": "画面里面这个可爱的宝宝就是玲玲。",
+      "score": 0.0274,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.122,
+        "acoustic_dev": 0.053,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "画面里面，这个可爱的宝宝就是玲玲。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.42,
+      "end": 32.7,
+      "label": "mandarin",
+      "text": "经过医护人员四个月的精心救治与悉心呵护，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经过医护人员四个月的精心救治与悉心呵护。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.7,
+      "end": 35.762,
+      "label": "mandarin",
+      "text": "宝宝的体重已经达到了三千一百八十克，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宝宝的体重已经达到了三千一百八十克。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.916,
+      "end": 39.591,
+      "label": "mandarin",
+      "text": "身高四十八厘米，达到了出院标准。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0074,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "身高四十八厘米，达到了出院标准。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.679,
+      "end": 44.04,
+      "label": "guilin",
+      "text": "好了，好了二十多天，不是四个月，四个月是出生。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.4741,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.526,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "跑跑它跑了二十多天，就是十月四号，这是出。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.587,
+      "end": 47.18,
+      "label": "guilin",
+      "text": "他怎么？他这样为什么低啊？",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -5.994,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.909,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打不过啊，好像没什么敌一样。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.18,
+      "end": 51.149,
+      "label": "mandarin",
+      "text": "因为他小了，因为四四四百多克，",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0243,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为太小了，因为四四四百多克。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.25,
+      "end": 55.252,
+      "label": "mandarin",
+      "text": "不到一斤。在医护人员的紧急抢救下，",
+      "score": 0.014,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0774,
+        "acoustic_dev": 0.027,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不到一斤，在医护人员的紧急抢救下。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 55.252,
+      "end": 59.701,
+      "label": "mandarin",
+      "text": "胎龄二十五周加一天、体重仅四百七十克的玲玲，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0266,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "采龄二十五周加一天，体重仅四百七十克的玲玲。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 59.878,
+      "end": 63.318,
+      "label": "mandarin",
+      "text": "带着重重挑战来到了这个世界。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0312,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "带着重重挑战来到了这个世界。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 63.822,
+      "end": 67.602,
+      "label": "mandarin",
+      "text": "作为医院目前首次体重最低的超早产儿，",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0219,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为医院目前收治体重最低的超早产儿。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 67.772,
+      "end": 70.692,
+      "label": "mandarin",
+      "text": "玲玲救治过程当中的每一个环节，",
+      "score": 0.2026,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3771,
+        "acoustic_dev": 0.201,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "零零纠治过程当中的每一个环节。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 70.692,
+      "end": 74.822,
+      "label": "mandarin",
+      "text": "都考验着医护团队的专业素养与应变能力。",
+      "score": 0.1641,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0128,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "护/服",
+        "lexicon": "",
+        "text_free": "都考量着衣服团队哩专业素养与应变能力。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 75.356,
+      "end": 80.518,
+      "label": "mandarin",
+      "text": "刚出生的时候，玲玲整个身体和成人的巴掌差不多大小，",
+      "score": 0.1484,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.06,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "成/陈",
+        "lexicon": "",
+        "text_free": "刚出生的时候，玲玲整个身体和陈莹的巴掌差不多大小。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 80.922,
+      "end": 84.227,
+      "label": "mandarin",
+      "text": "他那个手臂啊，还没得成人的芝麻粗，",
+      "score": 0.0916,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1012,
+        "acoustic_dev": 0.041,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "他那个手臂啊，还没得成形的，芝麻粗。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 84.533,
+      "end": 87.66,
+      "label": "mandarin",
+      "text": "皮肤呈现半透明胶冻状，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "皮肤呈现半透明胶冻状。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 87.66,
+      "end": 93.61,
+      "label": "mandarin",
+      "text": "血管隐约可见。由于早产，玲玲的自主呼吸微弱，",
+      "score": 0.171,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0824,
+        "acoustic_dev": 0.03,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "产/餐",
+        "lexicon": "",
+        "text_free": "血管隐约可见。由于早餐零零的自主呼吸微弱。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 93.61,
+      "end": 98.593,
+      "label": "mandarin",
+      "text": "而且全身皮肤青紫。按照提前预定好的抢救方案，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0075,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而且全身皮肤青紫，按照提前预定好的抢救方案。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 98.593,
+      "end": 101.621,
+      "label": "guilin",
+      "text": "我们将玲玲置于无水台保暖，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.0245,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们将明年置于辐射台保暖。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 102.272,
+      "end": 108.043,
+      "label": "mandarin",
+      "text": "进行保温、气管插管与体注和镇压通气等措施。",
+      "score": 0.2482,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1236,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.263,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "镇/正 注/组",
+        "lexicon": "",
+        "text_free": "进行保温、气管、茶管与梯组盒正压通气等措施。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 108.175,
+      "end": 110.961,
+      "label": "mandarin",
+      "text": "在医护团队的全力拼搏下，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在医护团队的全力拼搏下。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 110.961,
+      "end": 116.144,
+      "label": "mandarin",
+      "text": "玲玲成功复苏，随后迅速被转入ICU展开救治。",
+      "score": 0.0001,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0317,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "玲玲成功复苏，随后迅速被转入NSU展开救治。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 116.27,
+      "end": 119.271,
+      "label": "mandarin",
+      "text": "为了给玲玲创造最大的生存机会，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0199,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了给玲玲创造最大的生存机会。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 119.504,
+      "end": 124.443,
+      "label": "mandarin",
+      "text": "医护团队通过深入了解胎儿在母亲子宫内生长的过程，",
+      "score": 0.0225,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1057,
+        "acoustic_dev": 0.043,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "医护团队通过深入了解胎儿在母亲子宫内生长的过程。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 124.689,
+      "end": 127.19,
+      "label": "mandarin",
+      "text": "结合国内外最新的规范指南，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "结合国内外最新的规范指南。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 127.388,
+      "end": 133.051,
+      "label": "mandarin",
+      "text": "归纳出了最适合超低出生体重儿的综合救治方案，",
+      "score": 0.1444,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.149,
+        "acoustic_dev": 0.068,
+        "seg_cer": 0.238,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "鬼拿出了这十盒超低出生体重儿的综合救治方案。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 133.354,
+      "end": 136.114,
+      "label": "mandarin",
+      "text": "将温和救治理念纳入其中，",
+      "score": 0.2188,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4797,
+        "acoustic_dev": 0.261,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将文化救治理念纳入其中。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 136.6,
+      "end": 140.25,
+      "label": "mandarin",
+      "text": "将必要的干预措施精简到最少，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0083,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将必要的干预措施精简到最少。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 140.341,
+      "end": 142.567,
+      "label": "guilin",
+      "text": "采用技术化轻柔护理，",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9508,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "护/富",
+        "lexicon": "",
+        "text_free": "采用既抒发情又富理。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 142.687,
+      "end": 146.169,
+      "label": "mandarin",
+      "text": "将对玲玲的干预尽可能的消除。",
+      "score": 0.0704,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0314,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将对玲玲的干咬尽可能地消除。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 146.169,
+      "end": 148.779,
+      "label": "mandarin",
+      "text": "这个过程中，我们克服了",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个过程中，我们克服了。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 148.791,
+      "end": 153.224,
+      "label": "mandarin",
+      "text": "呼吸、感染、营养等重重难关，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0189,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呼吸、感染、营养等重重难关。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 153.224,
+      "end": 157.346,
+      "label": "mandarin",
+      "text": "通过及时气管内注入肺泡表面活性物质，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过及时气管内注入肺泡表面活性物质。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 157.659,
+      "end": 161.066,
+      "label": "mandarin",
+      "text": "运用温和逐步撤机等策略，",
+      "score": 0.053,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2066,
+        "acoustic_dev": 0.102,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "运用温和、逐步撤机等策略。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 161.066,
+      "end": 164.845,
+      "label": "mandarin",
+      "text": "确保每一步治疗都精准有效。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "确保每一步治疗都精准有效。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 164.845,
+      "end": 168.46,
+      "label": "mandarin",
+      "text": "玲玲先后经历了呼吸管、营养管、",
+      "score": 0.2092,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0514,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "呼/腹",
+        "lexicon": "",
+        "text_free": "玲玲先后经历了腹泻关、营养关。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 168.46,
+      "end": 172.438,
+      "label": "uncertain",
+      "text": "肝炎管、循环管、防胆管、贫血管、",
+      "score": 0.4703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8755,
+        "acoustic_dev": 0.491,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "贫/平",
+        "lexicon": "",
+        "text_free": "单眼管、循环管、房胆管、平血管。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 172.64,
+      "end": 176.095,
+      "label": "guilin",
+      "text": "十万莫激光手术等等层层难关，",
+      "score": 0.7088,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1108,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "万/网",
+        "lexicon": "",
+        "text_free": "视网膜激光手术等等，层层难关。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 176.331,
+      "end": 182.05,
+      "label": "mandarin",
+      "text": "一路披荆斩棘。在闯关一百二十个日夜之后，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一路披荆斩棘，在闯关一百二十个一夜之后。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 182.05,
+      "end": 185.087,
+      "label": "mandarin",
+      "text": "顽强的林林成功创造了生命奇迹，",
+      "score": 0.26,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3445,
+        "acoustic_dev": 0.182,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "林/玲 林/玲",
+        "lexicon": "",
+        "text_free": "顽强的玲玲成功创造了生命奇迹。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 185.244,
+      "end": 188.945,
+      "label": "mandarin",
+      "text": "终于迎来了与家人大团圆的时刻。",
+      "score": 0.0094,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0623,
+        "acoustic_dev": 0.018,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "终于迎来了与家人大团圆的时刻。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 188.945,
+      "end": 192.431,
+      "label": "mandarin",
+      "text": "孩子从出生巴掌那么大，到现在手臂那么长了，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "孩子从出生，巴掌那么大，到现在手臂那么长了。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 192.817,
+      "end": 196.133,
+      "label": "mandarin",
+      "text": "现在和孩子在一起，每天在一起，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0075,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在和孩子在一起，每天在一起。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 196.32,
+      "end": 199.312,
+      "label": "guilin",
+      "text": "我们充满快乐、开心，",
+      "score": 0.5511,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6643,
+        "acoustic_dev": 0.95,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我的充满快乐、开心。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 199.642,
+      "end": 202.439,
+      "label": "mandarin",
+      "text": "是对未未来也是很有希望。",
+      "score": 0.0929,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0638,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是对未来也是很有希望。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 204.313,
+      "end": 207.815,
+      "label": "mandarin",
+      "text": "在这里要真心感谢医院的医护人员",
+      "score": 0.0059,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0509,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在这里要真心感谢医院的医护人员。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 208.597,
+      "end": 211.482,
+      "label": "mandarin",
+      "text": "对孩子的照顾和关心，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对孩子的照顾和关心。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 212.44,
+      "end": 215.022,
+      "label": "guilin",
+      "text": "给予了我们快乐、",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.9751,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给予的我们快乐。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 215.022,
+      "end": 222.503,
+      "label": "mandarin",
+      "text": "幸福、希望。林林的救治成功啊，是我们医护工作者不忘初心、全力以赴的结果，",
+      "score": 0.0556,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0689,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.097,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "幸福，希望。啊，明明的救治成功啊，是我们医护工作者不忘初心，全力以赴的结果。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 222.687,
+      "end": 225.037,
+      "label": "mandarin",
+      "text": "也是医患之间彼此信任、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0096,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是医患之间彼此信任。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 225.037,
+      "end": 232.903,
+      "label": "mandarin",
+      "text": "携手同行的有力见证，更是新生儿科救治技术和诊疗理念不断提升的具体体现。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "携手同行的有力见证，更是新生儿科救治技术和诊疗理念不断提升的具体体现。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 232.923,
+      "end": 237.217,
+      "label": "mandarin",
+      "text": "未来我们新生儿科将不断总结成功经验，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "未来，我们新生儿科将不断总结成功经验。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 237.217,
+      "end": 241.097,
+      "label": "mandarin",
+      "text": "尽全力为更多的早产天使保驾护航。",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0186,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "尽全力为更多的澡堂天使保驾护航。"
+      }
+    }
+  ]
+}

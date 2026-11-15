@@ -1,0 +1,503 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_村咖_开启乡村旅游新潮流.wav",
+  "duration": 170.073,
+  "no_dialect": false,
+  "created_at": "2026-10-26T08:33:54",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.356,
+      "label": "mandarin",
+      "text": "在距离阳朔县城不远的白沙镇下塘寨村，",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0498,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在距离阳朔县城不远的白沙镇下塘镇。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.356,
+      "end": 8.979,
+      "label": "mandarin",
+      "text": "旧房改造的咖啡屋和户外的风光融为一体，",
+      "score": 0.1508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0149,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "户/富",
+        "lexicon": "",
+        "text_free": "旧房改造的咖啡屋和富湾的风光融为一体。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.159,
+      "end": 13.419,
+      "label": "mandarin",
+      "text": "稻花和咖啡的香气变得更加沁人心脾。",
+      "score": 0.2017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0327,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "沁/轻",
+        "lexicon": "",
+        "text_free": "刀法和咖啡的香气变得更加轻盈、鲜皮。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.793,
+      "end": 22.501,
+      "label": "mandarin",
+      "text": "作为名胜在外的地球村，中西结合的农旅产业让阳朔稻田里的咖啡名声是越来越响亮。",
+      "score": 0.0635,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0276,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.139,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为名声在外的地球城，中西结合的农旅产业样样说，稻田里的咖啡名声是越来越响亮。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.703,
+      "end": 25.938,
+      "label": "mandarin",
+      "text": "下面呢，我们就去下塘寨村看一下子。",
+      "score": 0.1924,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3151,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "耍",
+        "text_free": "下面呢，我们就去下趟这城，去耍一下子。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.436,
+      "end": 32.906,
+      "label": "mandarin",
+      "text": "法国游客伊丽莎白此行的目的地便是下塘寨村的一家“晨咖”，",
+      "score": 0.193,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1736,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.24,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "晨/城 寨/在",
+        "lexicon": "",
+        "text_free": "法国游客伊丽莎白此行的目的地便是下榻在城里一家城卡。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 33.257,
+      "end": 38.059,
+      "label": "mandarin",
+      "text": "他和朋友游游兴致地体验了国道、大道、古镇、",
+      "score": 0.3512,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6954,
+        "acoustic_dev": 0.314,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.111,
+        "phon_examples": "兴/心",
+        "lexicon": "",
+        "text_free": "他和朋友要有心智的体验了，过道、打道谷等。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 38.059,
+      "end": 45.18,
+      "label": "mandarin",
+      "text": "中国传统农耕文化，实地的感受了美丽乡村的田园风光和丰收的快乐。 ,  , , ,  ,  , ,   ,   ,   .     , , ,     ,     . ,  ,  .  . 。，，，、。，。，。，。，。，，。，，，，，。，。。，，，，。，。，，，。，。",
+      "score": 0.1399,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5369,
+        "acoustic_dev": 0.269,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中国传统农耕文化，实地的感受了美丽乡村的田园风光和丰收的快乐。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 45.18,
+      "end": 48.36,
+      "label": "guilin",
+      "text": "Verylikeverygoodveryveryverylike",
+      "score": 0.66,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -7.7003,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Yes, we really like the city. It's very good."
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.801,
+      "end": 51.072,
+      "label": "guilin",
+      "text": "soveryveryvery",
+      "score": 0.66,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.3669,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Super! Super."
+      }
+    },
+    {
+      "id": 11,
+      "start": 51.477,
+      "end": 60.614,
+      "label": "guilin",
+      "text": "beautifulplaceveryfriendlypeoplesoveryinterestingIwouldliketovisituhriceso",
+      "score": 0.6199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.8263,
+        "acoustic_dev": 0.923,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "Like so, here a very beautiful place, very friendly people. So very interesting. In our country, we don't have rice. So."
+      }
+    },
+    {
+      "id": 12,
+      "start": 60.873,
+      "end": 65.32,
+      "label": "guilin",
+      "text": "IsitforplantssoveryinterestingformeUhverygoodvery",
+      "score": 0.66,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -8.1625,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "English",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "I see it for the first time, so it's very interesting for me. Maracuy is very."
+      }
+    },
+    {
+      "id": 13,
+      "start": 65.838,
+      "end": 74.124,
+      "label": "mandarin",
+      "text": "tastyVeryinteresting哈哈把咖啡馆搬进稻田镇子里消费心长景让人耳目一新",
+      "score": 0.3454,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5578,
+        "acoustic_dev": 0.275,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "子/致",
+        "lexicon": "",
+        "text_free": "咖啡馆搬进稻田，精致的消费新场景让人耳目一新。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 74.402,
+      "end": 80.027,
+      "label": "mandarin",
+      "text": "既可以享受一杯咖啡的清闲时光又能够亲近自然回归乡土",
+      "score": 0.2097,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.39,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.24,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "自/之 亲/倾 清/琴",
+        "lexicon": "",
+        "text_free": "既可以享受一杯咖啡的琴弦时光，又能够倾尽之言，回归乡土。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 80.4,
+      "end": 95.679,
+      "label": "mandarin",
+      "text": "在到社交平台关于此类旅行方式的分享内容越来越多前来打卡的顾客也是接踵而至来这边我们就觉得这个氛围确实是非常非常好的然后跟我们这边的咖啡店就有很",
+      "score": 0.0193,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0799,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "扯到社交平台，关于此类旅行方式的分享内容越来越多，前来打卡的顾客也是接踵而至。来这边，我们就觉得这个氛围确实是非常非常好的。然后跟我们街边的咖啡店就有很多。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 95.679,
+      "end": 100.009,
+      "label": "mandarin",
+      "text": "明显的不一样首先它有一个很大的院子然后供很多人来打",
+      "score": 0.0773,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9926,
+        "acoustic_dev": 0.114,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很明显的不一样。首先，它有一个很大的院子，然后供很多人来打。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 100.266,
+      "end": 105.226,
+      "label": "mandarin",
+      "text": "卡拍照对于我们年轻人来说确实是感觉有很大的吸引力",
+      "score": 0.2632,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1108,
+        "acoustic_dev": 0.433,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打卡拍照，对于我们年轻人来说，确实是感觉很有很大的吸引力。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 105.303,
+      "end": 110.32,
+      "label": "mandarin",
+      "text": "我在城市长大然后我们从小也是在城市里非常能够见到这样的",
+      "score": 0.2773,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8922,
+        "acoustic_dev": 0.37,
+        "seg_cer": 0.185,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我在城市长大，然后我们的学校也是在城市里，很少能够见到这样的。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 110.474,
+      "end": 120.559,
+      "label": "mandarin",
+      "text": "呃一个非常美丽的田园风光然后在这儿发现很多的景景点包括麦田包括城市的墙呃这个咖啡店墙都是",
+      "score": 0.0312,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4205,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.068,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，一个非常美丽的田园风光。然后在这儿，我发现很多的景，呃景点，包括麦田，包括城市的墙，呃，这个咖啡店的墙都是。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 120.835,
+      "end": 129.719,
+      "label": "mandarin",
+      "text": "非常容易出片的所以感觉在这里游玩体验是很好沿到玉龙河畔而行独具特色的乡村咖啡馆点缀其中",
+      "score": 0.0532,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0487,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.116,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非常容易出片的，所以感觉在这里游玩体验是很好。演到《玉龙河畔恶行》，颇具特色的香橙咖啡馆点缀其中。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 130.023,
+      "end": 133.34,
+      "label": "mandarin",
+      "text": "晨咖经济在山水之间遍地开花",
+      "score": 0.2537,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0316,
+        "acoustic_dev": 0.125,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "晨/城",
+        "lexicon": "",
+        "text_free": "城卡经济在山水之间遍地开发。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 133.704,
+      "end": 148.31,
+      "label": "mandarin",
+      "text": "近年来阳朔县因地制宜大力发展乡村旅游深化乡村内在潜力激活乡村美丽经济让乡村旅游更加丰富多彩过来坐一个喝一个咖啡然",
+      "score": 0.0586,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7695,
+        "acoustic_dev": 0.05,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，阳朔县因地制宜，大力发展乡村旅游，深挖乡村内在潜力，激活乡村美丽经济，让乡村旅游更加丰富多彩。过来坐一坐，喝一喝咖啡，然后。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 148.31,
+      "end": 150.76,
+      "label": "mandarin",
+      "text": "后赏一下这个玉龙河畔的风景",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后赏一下这个玉龙河畔的风景。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 151.237,
+      "end": 154.943,
+      "label": "mandarin",
+      "text": "阳朔这边的这个风景确实比较美像北京那边现在",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0328,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "阳朔这边的这个风景确实比较美，像北京那边现在。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 155.144,
+      "end": 165.765,
+      "label": "mandarin",
+      "text": "呃基本上是已经冬天了都是这种光秃秃的所以来到咱们这儿看到这个呃满是满眼的这个绿色是比较呃特别的一个地儿然后",
+      "score": 0.0086,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0194,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.019,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，基本上是已经冬天了，都是这种光秃秃的。所以来到咱们这儿，看到这个呃，满是满眼的这个绿色，还是比较呃特别的一个地儿。然后。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 165.87,
+      "end": 170.073,
+      "label": "mandarin",
+      "text": "来这里游玩的话也是感觉到身心比较愉悦",
+      "score": 0.225,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7683,
+        "acoustic_dev": 0.335,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，来这里游玩的话，也是感觉到，呃，身心比较愉悦。"
+      }
+    }
+  ]
+}

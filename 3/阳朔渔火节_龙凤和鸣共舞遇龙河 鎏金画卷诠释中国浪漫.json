@@ -1,0 +1,997 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "阳朔渔火节_龙凤和鸣共舞遇龙河 鎏金画卷诠释中国浪漫.wav",
+  "duration": 227.341,
+  "no_dialect": false,
+  "created_at": "2026-10-26T12:20:07",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.339,
+      "label": "mandarin",
+      "text": "十二月二十八号夜晚，丽江玉火节的重头戏——金龙巡游、凤凰火明活动，",
+      "score": 0.1939,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1046,
+        "acoustic_dev": 0.185,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十二月二十八号夜晚，丽江渔火街的重头戏——“金龙巡游”，风风火火，名活动。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.339,
+      "end": 9.595,
+      "label": "mandarin",
+      "text": "在玉龙桥码头举行。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在玉龙桥码头举行。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.747,
+      "end": 14.48,
+      "label": "mandarin",
+      "text": "活动现场一系列富含民俗特色的活动轮番上演，",
+      "score": 0.1331,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1407,
+        "acoustic_dev": 0.256,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动现场一系列富含民俗特色的活动轮番上演。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.772,
+      "end": 17.976,
+      "label": "mandarin",
+      "text": "包括金龙仪式、祭龙祈福仪式、",
+      "score": 0.191,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0416,
+        "acoustic_dev": 0.06,
+        "seg_cer": 0.583,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "包括青龙一师、金龙七福一师。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.106,
+      "end": 21.136,
+      "label": "guilin",
+      "text": "玉火及玉鹰扑玉表演、",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1307,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "鹰/音",
+        "lexicon": "",
+        "text_free": "渔火即语音捕鱼表演。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.136,
+      "end": 23.574,
+      "label": "mandarin",
+      "text": "汉服表演、篝火狂欢、",
+      "score": 0.369,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3696,
+        "acoustic_dev": 0.71,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "汉服表演，篝火狂欢。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 23.574,
+      "end": 29.208,
+      "label": "guilin",
+      "text": "侗族大歌等等。今天是我第一次在中国体验节日，",
+      "score": 0.5963,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5015,
+        "acoustic_dev": 0.971,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙组打鼓等等。今天是我第一次在中国体验节日。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 29.314,
+      "end": 34.14,
+      "label": "mandarin",
+      "text": "所以看到龙船游行、舞狮和这里所有各种各样的活动都很特别。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以看到龙船游行，舞狮和这里所有各种各样的活动都很特别。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 34.335,
+      "end": 39.312,
+      "label": "mandarin",
+      "text": "这里的自然风景也很美，我们在美国没有这样的陡峭的山脉和喀斯特地貌，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这里的自然风景也很美。我们在美国没有这样的陡峭的山脉和喀斯特地貌。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.599,
+      "end": 41.88,
+      "label": "mandarin",
+      "text": "所以我很高兴来到这里看到自然景观。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以我很高兴来到这里，看到自然景观。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 42.339,
+      "end": 46.14,
+      "label": "mandarin",
+      "text": "我希望在这里徒步或者攀岩，我真的很喜欢阳朔。",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我希望在这里徒步或者攀岩。我真的很喜欢杨朔。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.14,
+      "end": 49.581,
+      "label": "mandarin",
+      "text": "谢谢你们的热情友好，这里的每个人都很棒。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "谢谢你们的热情友好。这里的每个人都很棒。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 49.743,
+      "end": 53.819,
+      "label": "mandarin",
+      "text": "我期待会很有趣，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0075,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我期待会很有趣。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.962,
+      "end": 57.141,
+      "label": "mandarin",
+      "text": "因为我从你们给的宣传广告上看到了照片，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为我从你们给的宣传广告上看到了照片。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 57.141,
+      "end": 59.994,
+      "label": "mandarin",
+      "text": "看起来十分好看，尤其是灯光，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看起来十分好看，尤其是灯光。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 59.994,
+      "end": 63.409,
+      "label": "mandarin",
+      "text": "有很多灯，看起来就像一条长长的龙，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有很多灯，看起来就像一条长长的龙。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 63.659,
+      "end": 66.392,
+      "label": "mandarin",
+      "text": "所以我很期待能够观看金龙巡游。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以我很期待能够观看《金龙巡游》。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 66.54,
+      "end": 70.576,
+      "label": "mandarin",
+      "text": "夜幕低垂，玉龙河畔银潮涌动，热闹非凡。",
+      "score": 0.2017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0096,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "闹/老",
+        "lexicon": "",
+        "text_free": "夜幕低垂，鱼龙活喷，阴潮涌动，夜老非凡。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 70.831,
+      "end": 73.7,
+      "label": "guilin",
+      "text": "在绚丽的烟花、花炮长空，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9664,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "侧道绚丽的烟花，划破长空。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 73.7,
+      "end": 82.236,
+      "label": "mandarin",
+      "text": "由六十八张竹筏首尾相连组成的近千米长的金色巨龙蜿蜒巡游在玉龙河上，",
+      "score": 0.0789,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0604,
+        "acoustic_dev": 0.097,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "由六十八张竹筏索尾相连组成的近千米长的金色巨龙，蜿蜒巡游在鱼龙河上。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 82.484,
+      "end": 85.642,
+      "label": "mandarin",
+      "text": "云雾缭绕间，仿佛是穿越梦境。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "云雾缭绕间，仿佛是穿越梦境。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 85.852,
+      "end": 89.126,
+      "label": "mandarin",
+      "text": "与阳朔的绝美山水交相辉映，",
+      "score": 0.0702,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0426,
+        "acoustic_dev": 0.062,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "与杨朔的绝美山水交相辉映。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 89.126,
+      "end": 94.841,
+      "label": "mandarin",
+      "text": "编织出一幅东银西泼的自然与文化交融的壮丽图景。",
+      "score": 0.2204,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.076,
+        "acoustic_dev": 0.128,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "银/瀛",
+        "lexicon": "",
+        "text_free": "编织出一幅东瀛新破的字眼与文化交融的壮丽图景。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 95.138,
+      "end": 101.749,
+      "label": "mandarin",
+      "text": "与此同时，凤凰展翅高飞，熠熠生辉的金龙与绚丽夺目的火凤凰相遇，",
+      "score": 0.1316,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0102,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.179,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "生/神",
+        "lexicon": "",
+        "text_free": "与此同时，凤凰展翅高飞，意意神飞的锦龙与绚丽夺目的火凤凰相遇。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 101.893,
+      "end": 106.341,
+      "label": "mandarin",
+      "text": "共同演绎了一幅龙凤呈祥的美好画面。",
+      "score": 0.016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.027,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同演绎了一幅龙凤呈祥的美好画面。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 106.341,
+      "end": 112.42,
+      "label": "mandarin",
+      "text": "我是从上海自驾途经到阳朔这边的，然后听到这边有歌舞的声音，",
+      "score": 0.0169,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是从上海自驾途径到阳朔这边的，然后听到这边有歌舞的声音。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 112.65,
+      "end": 116.84,
+      "label": "mandarin",
+      "text": "来到了玉龙河边，看到这里美丽的山水景色。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来到了玉龙河边，看到这里美丽的山水景色。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 117.336,
+      "end": 126.546,
+      "label": "mandarin",
+      "text": "呃，一看当地有这个传统传统的那个节日活动，然后当地的人也非常热情的好客，邀请我去他们家吃饭。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，一看当地有这个传统传统的那个节日活动，然后当地的人也非常热情的好客，邀请我去他们家吃饭。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 126.546,
+      "end": 129.746,
+      "label": "uncertain",
+      "text": "下午，呃，已经在他们那边喝了茶，",
+      "score": 0.3858,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3518,
+        "acoustic_dev": 0.674,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下午我呃已经在他们那边喝了茶。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 129.871,
+      "end": 133.132,
+      "label": "mandarin",
+      "text": "然后，呃，活动结束以后，我就过去了，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后，呃，活动结束以后，我就要过去了。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 133.132,
+      "end": 138.114,
+      "label": "mandarin",
+      "text": "很荣幸来到那个阳朔参加一年一度的那个玉火节，希望未来还能在这里",
+      "score": 0.0432,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0387,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很荣幸来到那个阳朔，参加一年一度的那个渔火节。希望未来还能在这里。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 138.34,
+      "end": 141.347,
+      "label": "mandarin",
+      "text": "和大家一起度过这个欢快的节日。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "和大家一起度过这个欢快的节日。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 141.573,
+      "end": 147.143,
+      "label": "mandarin",
+      "text": "我是这样的，特地慕名而来，今天看到了金龙巡游，感觉非常的震撼，非常的壮观，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是浙江的，特地慕名而来。今天看到了金龙巡游，感觉非常的震撼，非常的壮观。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 147.143,
+      "end": 151.1,
+      "label": "mandarin",
+      "text": "包括今天的烟花秀，让我感到感觉到非常的惊艳，不虚此行。",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "包括今天的烟花秀，也让我感到感觉到非常的惊艳，不虚此行。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 151.314,
+      "end": 158.147,
+      "label": "mandarin",
+      "text": "阳朔的自然风光和传统玉鹰扑玉表演是当天夜晚玉火节的一大亮点。",
+      "score": 0.2957,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.222,
+        "acoustic_dev": 0.417,
+        "seg_cer": 0.172,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "阳朔的自然风光和传统渔影捕鱼表演是当天夜晚渔火节的一大亮点。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 158.411,
+      "end": 163.931,
+      "label": "mandarin",
+      "text": "勤劳的渔民星星点点的渔火，展示的玉鹰和朦胧的山水，",
+      "score": 0.1611,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.11,
+        "acoustic_dev": 0.195,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "勤劳的渔民，星星点点的渔火，展翅的鱼影，和朦胧的山水。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 164.119,
+      "end": 170.063,
+      "label": "mandarin",
+      "text": "十二位身穿华美汉服的俊俏佳人乘坐竹筏缓缓而来，",
+      "score": 0.0377,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0481,
+        "acoustic_dev": 0.072,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十二位身穿华美汉服的俊俏佳人，乘坐竹筏缓缓而来。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 170.301,
+      "end": 174.394,
+      "label": "mandarin",
+      "text": "构成了一幅生动鲜活的中国山水画。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "构成了一幅生动鲜活的中国山水画。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 174.413,
+      "end": 178.263,
+      "label": "guilin",
+      "text": "作为宁桂林人，我很荣幸参加本次玉火节，",
+      "score": 0.6276,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1564,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为一名桂林人，我很荣幸参加本次的渔火节。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 178.263,
+      "end": 182.016,
+      "label": "mandarin",
+      "text": "这是我第二次参加，每次都有不同的感受。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这是我第二次参加，每一次都有不同的感受。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 182.016,
+      "end": 185.515,
+      "label": "mandarin",
+      "text": "与去年不同，这一次我作为一名汉服模特，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "与去年不同，这一次我作为一名汉服模特。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 185.515,
+      "end": 189.939,
+      "label": "mandarin",
+      "text": "乘坐在竹排上，身着我们中国传统服饰汉服，",
+      "score": 0.1132,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1214,
+        "acoustic_dev": 0.218,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "乘坐在竹排上，身着我们中国传统服饰汉服。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 189.939,
+      "end": 192.453,
+      "label": "mandarin",
+      "text": "向大家展示汉服的美。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "向大家展示汉服的美。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 192.453,
+      "end": 197.282,
+      "label": "guilin",
+      "text": "金龙群游凤坊河名作为本该浴火节的重头戏，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3185,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.368,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "金龙巡游，风放火明，作为本届渔火节的重头戏。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 197.444,
+      "end": 200.31,
+      "label": "mandarin",
+      "text": "凭借独特的民俗文化魅力，",
+      "score": 0.0116,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0228,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "凭借独特的民俗文化魅力。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 200.31,
+      "end": 204.187,
+      "label": "mandarin",
+      "text": "不仅吸引了大量游客，促进文旅消费升级，",
+      "score": 0.09,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0989,
+        "acoustic_dev": 0.173,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅吸引了大量游客，促进文旅消费升级。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 204.187,
+      "end": 206.922,
+      "label": "uncertain",
+      "text": "提升文化旅游品牌形象，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.4638,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提升文化旅游品牌形象。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 207.085,
+      "end": 211.852,
+      "label": "mandarin",
+      "text": "有力推动文化旅游产业迈向高质量发展新征程，",
+      "score": 0.0013,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0128,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有力推动文化旅游产业迈向高质量发展新征程。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 212.314,
+      "end": 216.183,
+      "label": "mandarin",
+      "text": "更生动展现了阳朔深厚的文化底蕴，",
+      "score": 0.0299,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0405,
+        "acoustic_dev": 0.057,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更生动展现了阳朔深厚的文化底蕴。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 216.524,
+      "end": 220.279,
+      "label": "mandarin",
+      "text": "为文化传承与经济发展注入活力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为文化传承与经济发展注入活力。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 220.52,
+      "end": 223.791,
+      "label": "uncertain",
+      "text": "稳步推进建设阳朔先导区、",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5178,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "稳步推进建设阳朔先导区。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 223.791,
+      "end": 227.341,
+      "label": "guilin",
+      "text": "建功桂林市旅城目标的实现。",
+      "score": 0.6177,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4024,
+        "acoustic_dev": 0.775,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "市/思",
+        "lexicon": "",
+        "text_free": "监工桂林，思旅程目标的实现。"
+      }
+    }
+  ]
+}

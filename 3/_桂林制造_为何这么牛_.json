@@ -1,0 +1,2878 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_桂林制造_为何这么牛_.wav",
+  "duration": 688.519,
+  "no_dialect": false,
+  "created_at": "2026-10-26T08:51:18",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.685,
+      "end": 3.24,
+      "label": "guilin",
+      "text": "收到板路看快乐，城乡板跟着我。",
+      "score": 0.72,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3177,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "板路",
+        "text_free": "收到板路刊，快乐畅享板。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.53,
+      "end": 7.477,
+      "label": "mandarin",
+      "text": "大家好，我是辣椒妹，欢迎你收看我们今天的板路节目。",
+      "score": 0.0608,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "板路",
+        "text_free": "大家好，我是辣椒妹，欢迎你收看我们今天的半路节目。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.691,
+      "end": 11.551,
+      "label": "mandarin",
+      "text": "今天是腊月二十八，加成龙年的倒数第二天了。",
+      "score": 0.1481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "成/辰",
+        "lexicon": "",
+        "text_free": "今天是腊月二十八，甲辰龙年的倒数第二天了。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.804,
+      "end": 15.025,
+      "label": "mandarin",
+      "text": "明天就是除夕，后天就是蛇年春节了，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "明天就是除夕，后天就是蛇年春节了。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.025,
+      "end": 17.416,
+      "label": "guilin",
+      "text": "马上啊就要过大年了不？",
+      "score": 0.7633,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5375,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "年/脸",
+        "lexicon": "",
+        "text_free": "马上啊，就要给我打脸了！不。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 17.575,
+      "end": 22.946,
+      "label": "mandarin",
+      "text": "那年终我们来为我们桂林制造取得的成绩做一个总结。",
+      "score": 0.0008,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0198,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那年终，我们来为我们桂林制造取得的成绩做一个总结。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 23.382,
+      "end": 29.678,
+      "label": "guilin",
+      "text": "今年来，我市多个巧得、想出的大的桂林制造成果连创全国第一，",
+      "score": 0.6255,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9459,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，我市多个交得响、输得倒的桂林制造成果，连创全国第一。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 29.813,
+      "end": 32.353,
+      "label": "mandarin",
+      "text": "成为了除鲁水青山之外，",
+      "score": 0.3715,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5397,
+        "acoustic_dev": 0.627,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为了除绿水青山之外。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 32.353,
+      "end": 36.485,
+      "label": "mandarin",
+      "text": "桂林向世界递出的一张崭新名片。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0114,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林向世界递出的一张崭新名片。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 36.756,
+      "end": 39.916,
+      "label": "mandarin",
+      "text": "这背后是桂林坚持创新驱动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这背后是桂林坚持创新驱动。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 40.059,
+      "end": 44.22,
+      "label": "mandarin",
+      "text": "大力支持引导企业走专精特新发展之路，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大力支持引导企业走专精特新发展之路。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 44.22,
+      "end": 46.393,
+      "label": "mandarin",
+      "text": "构建现代化产业体系，",
+      "score": 0.0174,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0464,
+        "acoustic_dev": 0.034,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "构建现代化产业体系。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 46.584,
+      "end": 50.586,
+      "label": "mandarin",
+      "text": "加快形成新质生产力的生动实践。",
+      "score": 0.0137,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0405,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加快形成新质生产力的生动实践。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 50.914,
+      "end": 53.375,
+      "label": "uncertain",
+      "text": "桂林制造为什么那么牛鬼？",
+      "score": 0.5289,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.798,
+        "acoustic_dev": 0.937,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林制造，做什么那么牛？鬼！"
+      }
+    },
+    {
+      "id": 15,
+      "start": 53.375,
+      "end": 55.655,
+      "label": "mandarin",
+      "text": "我们一起来探寻答案。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们一起来探寻答案。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.66,
+      "end": 65.464,
+      "label": "mandarin",
+      "text": "船舶推进器被誉为船舶的心脏，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "船舶推进器被誉为船舶的心脏。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 65.464,
+      "end": 68.679,
+      "label": "mandarin",
+      "text": "它通过不断的旋转来克服水的阻力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它通过不断的旋转来克服水的阻力。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 68.679,
+      "end": 71.548,
+      "label": "mandarin",
+      "text": "推动船舶前进。现如今，",
+      "score": 0.0049,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0265,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动船舶前进。现如今。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 71.57,
+      "end": 76.897,
+      "label": "mandarin",
+      "text": "在漓江上行驶的许多游船上都装载着一颗桂林制造的心脏，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在漓江上行驶的许多游船上都装载着一颗桂林制造的心脏。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 77.188,
+      "end": 81.379,
+      "label": "mandarin",
+      "text": "那就是由桂林亿驰船舶科技生产的直叶推进器。",
+      "score": 0.0686,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0092,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那就是由桂林一池船舶科技生产的直译推进器。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 81.906,
+      "end": 87.225,
+      "label": "mandarin",
+      "text": "在它的推动下，船舶能够轻松实现三百六十度轻松转向，",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在他的推动下，船舶能够轻松实现三百六十度轻松转向。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 87.329,
+      "end": 89.903,
+      "label": "mandarin",
+      "text": "还能完成平移、定位、",
+      "score": 0.14,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2425,
+        "acoustic_dev": 0.269,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还能完成平移定位。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 89.903,
+      "end": 92.803,
+      "label": "mandarin",
+      "text": "原地回转以及各种高难度的动作。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "原地回转以及各种高难度的动作。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 93.38,
+      "end": 99.784,
+      "label": "guilin",
+      "text": "直叶推进器是桂林亿驰船舶科技有限公司苗振市场科研攻坚",
+      "score": 0.6607,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8885,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "志一推进器是桂林仪器船舶科技有限公司瞄准市场，克难攻坚。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 99.888,
+      "end": 103.917,
+      "label": "mandarin",
+      "text": "历经数十年研发的国家专利新型产品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0138,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "历经数十年研发的国家专利新型产品。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 104.031,
+      "end": 109.082,
+      "label": "mandarin",
+      "text": "一举打破了德国公司在该领域长达数十年的垄断。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一举打破了德国公司在该领域长达数十年的垄断。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 109.529,
+      "end": 113.244,
+      "label": "mandarin",
+      "text": "如今已经在广西、新疆、浙江等地的游船、",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0157,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如今已经在广西、新疆、浙江等地里游船。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 113.244,
+      "end": 119.091,
+      "label": "mandarin",
+      "text": "公务船、海上渡轮、特种工程船等船只当中得到广泛应用。",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "公务船、海上渡轮、特种工程船等船只当中得到广泛使用。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 119.091,
+      "end": 126.067,
+      "label": "mandarin",
+      "text": "国外的产品呢，他们都是采用的是一些呃齿轮和连杆这样的一个比较复杂的结构。",
+      "score": 0.0134,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.029,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "国外的产品呢，他们都是采用的是一些呃，凸轮和连杆这样的一个比较复杂的结构。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 126.067,
+      "end": 132.133,
+      "label": "mandarin",
+      "text": "我们发明的这个专利的是一个呃新型齿轮的结构，相比国外的产品，",
+      "score": 0.1368,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0257,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.107,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "新/行",
+        "lexicon": "",
+        "text_free": "我们发明的这个专利呢，是一个呃行星齿轮的结构，相比国外的产品。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 132.133,
+      "end": 135.212,
+      "label": "mandarin",
+      "text": "我们的产品在运行的时候更加的稳定，",
+      "score": 0.0785,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1441,
+        "acoustic_dev": 0.151,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们的产品，在运行的时候更加的稳定。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 135.56,
+      "end": 138.599,
+      "label": "mandarin",
+      "text": "呃更加具有这个普及的这个前景。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0084,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，更加具有这个普及的这个前景。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 138.599,
+      "end": 144.547,
+      "label": "mandarin",
+      "text": "我们的这个直叶，我讲啊，它能够相对于传统的这个螺旋桨的船型来讲，",
+      "score": 0.0505,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0237,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们的这个直翼舵桨啊，它能够相对于传统的这个螺旋桨的船型来讲。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 144.66,
+      "end": 148.837,
+      "label": "mandarin",
+      "text": "它能够提高百分之二十的这样的一个效率，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它能够提高百分之二十的，这样的一个效率。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 148.967,
+      "end": 154.218,
+      "label": "mandarin",
+      "text": "也就是说，这等同于我们获得了百分之二十的这个节能的这个性能，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也就是说，这等同于我们获得了百分之二十的这个节能的这个性能。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 154.343,
+      "end": 158.398,
+      "label": "mandarin",
+      "text": "这个是非常了不起的一件事情。在专门领域细分市场，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个是非常了不起的一件事情，在专门领域细分市场。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 158.563,
+      "end": 162.813,
+      "label": "mandarin",
+      "text": "形成了独特的优势，是桂林工业发展的一大亮点。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "形成了独特的优势，是桂林工业发展的一大亮点。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 163.562,
+      "end": 165.996,
+      "label": "guilin",
+      "text": "我市一批具有代表性的中小企业，",
+      "score": 0.5527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6403,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是一批具有代表性的中小企业。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 166.318,
+      "end": 168.721,
+      "label": "mandarin",
+      "text": "普遍具有专业化、精细化、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "普遍具有专业化、精细化。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 168.886,
+      "end": 172.989,
+      "label": "mandarin",
+      "text": "特色化、新颖化等特征，他们创新能力强，",
+      "score": 0.011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0362,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "特色化、新颖化等特征，他们创新能力强。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 173.27,
+      "end": 177.593,
+      "label": "mandarin",
+      "text": "主导产品市场占有率高，掌握着关键的核心技术，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主导产品市场占有率高，掌握着关键的核心技术。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 177.84,
+      "end": 181.519,
+      "label": "mandarin",
+      "text": "企业经营效益好，是行业中的一线冠军。",
+      "score": 0.273,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3638,
+        "acoustic_dev": 0.415,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "企业经营效益好，是行业中的隐形冠军。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 181.879,
+      "end": 185.827,
+      "label": "guilin",
+      "text": "第一，专精特新用力超投细分市场，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8293,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "答案一：专精特新，勇立潮头，细分市场。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 185.827,
+      "end": 192.006,
+      "label": "mandarin",
+      "text": "抢占蓝海领域。桂林制造之所以这么牛的第一个答案就在于，",
+      "score": 0.1256,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0302,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "蓝/南",
+        "lexicon": "",
+        "text_free": "抢占南海领域。桂林制造之所以这么牛的，第一个答案就在于。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 192.214,
+      "end": 197.953,
+      "label": "mandarin",
+      "text": "桂林大型企业虽然不多，但是中小企业的发展却特别精、",
+      "score": 0.1982,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0803,
+        "acoustic_dev": 0.074,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "精/紧 虽/水",
+        "lexicon": "",
+        "text_free": "桂林大型企业水源不多，但是中小企业的发展却特别紧。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 197.953,
+      "end": 201.654,
+      "label": "mandarin",
+      "text": "特别好。从二零二四年统计情况看，",
+      "score": 0.0063,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0287,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "特别好。从二零二四年统计情况看。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 201.654,
+      "end": 204.409,
+      "label": "mandarin",
+      "text": "桂林全市大型企业不超过十家，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林全市大型企业不超过十家。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 204.694,
+      "end": 209.338,
+      "label": "mandarin",
+      "text": "累计培育专精特新中小企业确有一百三十九家，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "累计培育专精特新中小企业，确有一百三十九家。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 209.338,
+      "end": 217.518,
+      "label": "mandarin",
+      "text": "排全区第三；累计培育专精特新小巨人企业二十三家和重点小巨人企业十三家，",
+      "score": 0.0139,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.03,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "排全区第三，累计培育专精特新小巨人企业二十三家，或重点小巨人企业十三家。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 217.661,
+      "end": 222.353,
+      "label": "mandarin",
+      "text": "均排全区第一。其中，专精特新小巨人企业、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0132,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "均排全区第一。其中，专精特新小巨人企业。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 222.353,
+      "end": 229.971,
+      "label": "mandarin",
+      "text": "重点小巨人企业在全区的占比分别达到百分之二十五点三和百分之五十六点五，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "重点小巨人企业在全区的占比分别达到百分之二十五点三和百分之五十六点五。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 230.346,
+      "end": 234.297,
+      "label": "mandarin",
+      "text": "重点小巨人数量在全区的占比超过半数。",
+      "score": 0.0356,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0325,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "重点小巨婴数量在全区的占比超过半数。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 234.802,
+      "end": 243.899,
+      "label": "mandarin",
+      "text": "在专精特新赛道上，一批先进的桂林制造上天下水取得了好多当之无愧的国内第一。",
+      "score": 0.0094,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0335,
+        "acoustic_dev": 0.018,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在专精特新赛道上，一批先进的桂林制造，上天下水，取得了好多当之无愧的国内第一。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 244.381,
+      "end": 254.785,
+      "label": "mandarin",
+      "text": "十一月二十一号，桂林航空一家配备中国首条民用航空主型轮胎的空客A二三零飞机在桂林试飞成功，",
+      "score": 0.0334,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0198,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "十一月二十一号，桂林航空一架配备中国首条民用航空支线轮胎的空客 A 二三零飞机在桂林试飞成功。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 255.274,
+      "end": 260.12,
+      "label": "guilin",
+      "text": "加上去年试飞成功的B七三七二具飞机轮胎，",
+      "score": 0.5708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8503,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加上去年试飞成功的 B 七三七 N G 飞机轮胎。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 260.508,
+      "end": 268.763,
+      "label": "mandarin",
+      "text": "中国中法研制的民用航空轮胎已经可以覆盖国内绝对总量大概百分之八十的规模。",
+      "score": 0.1147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0105,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.114,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "制/资",
+        "lexicon": "",
+        "text_free": "中国中法合资的民用航空轮胎已经可以覆盖国内机队总量大概百分之八十的规模。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 268.813,
+      "end": 274.659,
+      "label": "guilin",
+      "text": "所以说我们现在生产线有四万条年产量啊，目前我们中国的",
+      "score": 0.5903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.715,
+        "acoustic_dev": 0.837,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "四/十",
+        "lexicon": "",
+        "text_free": "所以说，我们现在新的生产线有十万条年产量啊！目前我们中国的。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 274.68,
+      "end": 278.109,
+      "label": "mandarin",
+      "text": "所有的飞机需要轮胎大概就是二十五万条左右，",
+      "score": 0.2934,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4512,
+        "acoustic_dev": 0.52,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所有的飞机需要的轮胎，大概就是二十五万条左右。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 278.288,
+      "end": 283.714,
+      "label": "mandarin",
+      "text": "我们这个生产线第一期四万条，二期三期加在一起三三十万条的生产线，",
+      "score": 0.2071,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0947,
+        "acoustic_dev": 0.091,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "四/十",
+        "lexicon": "",
+        "text_free": "我们这个新生产线，第一期十万条，二期、三期、加特期三三十万条的生产线。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 283.779,
+      "end": 289.917,
+      "label": "mandarin",
+      "text": "能够满足在任何异常情况下中国航空界需要轮胎的所有的需求。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能够满足在任何异常情况下，中国航空界需要轮胎的所有的需求。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 290.094,
+      "end": 293.725,
+      "label": "mandarin",
+      "text": "桂林制造这么牛的第二个关键我认为",
+      "score": 0.0402,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0829,
+        "acoustic_dev": 0.077,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林制造这么牛的第二个关键，我认为。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 293.725,
+      "end": 297.86,
+      "label": "guilin",
+      "text": "是为了科技创新、与产业创新融合发展，",
+      "score": 0.5771,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.0509,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是围绕科技创新与产业创新融合发展。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 298.017,
+      "end": 300.536,
+      "label": "mandarin",
+      "text": "将生产要素创新性配置，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0143,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将生产要素创新性配置。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 300.814,
+      "end": 303.572,
+      "label": "guilin",
+      "text": "坚持产业主题、科技大题、",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.7044,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "坚持产业出题，科技答题。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 303.583,
+      "end": 306.871,
+      "label": "mandarin",
+      "text": "瞄准市场、苦练内功、久久为功。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "瞄准市场，苦练内功，久久为功。"
+      }
+    },
+    {
+      "id": 66,
+      "start": 307.224,
+      "end": 311.319,
+      "label": "mandarin",
+      "text": "桂林工业是中国高温高压装备行业的老兵，",
+      "score": 0.135,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1938,
+        "acoustic_dev": 0.211,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林硅业是中国高温高压装备行业的老兵。"
+      }
+    },
+    {
+      "id": 67,
+      "start": 311.44,
+      "end": 314.134,
+      "label": "mandarin",
+      "text": "有着近四十年的制造经验，",
+      "score": 0.0019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0217,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有着近四十年的制造经验。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 314.441,
+      "end": 319.464,
+      "label": "guilin",
+      "text": "但是整三组炉面顶压机一直是国内一块空白，",
+      "score": 0.7269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7258,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.316,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "三/山",
+        "lexicon": "",
+        "text_free": "但是，中山路路面顶叶压机一直是国内的一块空白。"
+      }
+    },
+    {
+      "id": 69,
+      "start": 319.687,
+      "end": 324.386,
+      "label": "mandarin",
+      "text": "此前技术一直被德国和日本牢牢的握在手里。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此前，技术一直被德国和日本牢牢地握在手里。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 324.386,
+      "end": 329.064,
+      "label": "mandarin",
+      "text": "嗯，这个当时南方科大那边老师他只是给了一个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，这个当时，南方科大那边老师，他只是给了一个。"
+      }
+    },
+    {
+      "id": 71,
+      "start": 329.772,
+      "end": 333.735,
+      "label": "mandarin",
+      "text": "照片，嗯，一个照片模型给我们，",
+      "score": 0.2145,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3007,
+        "acoustic_dev": 0.339,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "照片，嗯，一一个照片模型给我们。"
+      }
+    },
+    {
+      "id": 72,
+      "start": 333.735,
+      "end": 337.614,
+      "label": "mandarin",
+      "text": "要我们就按这个来做，所以这些技术资料",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0055,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要我们就按这个来做，所以这些技术资料。"
+      }
+    },
+    {
+      "id": 73,
+      "start": 337.859,
+      "end": 340.552,
+      "label": "mandarin",
+      "text": "全是我们自己看了那个一张照片，就是",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0368,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全是我们自己看到那个一张照片，就是。"
+      }
+    },
+    {
+      "id": 74,
+      "start": 340.807,
+      "end": 343.882,
+      "label": "mandarin",
+      "text": "一点一点去来反复推敲、",
+      "score": 0.0795,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1457,
+        "acoustic_dev": 0.153,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一点一点去，来反复推敲。"
+      }
+    },
+    {
+      "id": 75,
+      "start": 344.171,
+      "end": 347.535,
+      "label": "mandarin",
+      "text": "反复出图，就是搞了呃几个版本，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "反复出图，就是搞了呃几个版本。"
+      }
+    },
+    {
+      "id": 76,
+      "start": 347.726,
+      "end": 350.814,
+      "label": "mandarin",
+      "text": "后面才给他慢慢做出原型机出来。",
+      "score": 0.2116,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3048,
+        "acoustic_dev": 0.344,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "后面才给他慢慢做出了原型机出来。"
+      }
+    },
+    {
+      "id": 77,
+      "start": 350.814,
+      "end": 358.26,
+      "label": "mandarin",
+      "text": "当时我们只有一个想法，就是一定要把外国掐在我们脖子上的手指头一根一根的掰开，",
+      "score": 0.0127,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.028,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当时我们只有一个想法，就是一定要把外国掐在我们脖子上的手指头，一根一根地掰开。"
+      }
+    },
+    {
+      "id": 78,
+      "start": 358.597,
+      "end": 362.022,
+      "label": "mandarin",
+      "text": "把核心技术真正掌控在我们自己的手上。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把核心技术真正掌控在我们自己的手上。"
+      }
+    },
+    {
+      "id": 79,
+      "start": 362.181,
+      "end": 366.045,
+      "label": "guilin",
+      "text": "项目研发之初只有十倍的概念模型，",
+      "score": 0.5505,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.327,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "项目研发之初，只有十二倍的概念模型。"
+      }
+    },
+    {
+      "id": 80,
+      "start": 366.045,
+      "end": 370.075,
+      "label": "mandarin",
+      "text": "并没的详细的设计方案。面对重重困难，",
+      "score": 0.2302,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2771,
+        "acoustic_dev": 0.311,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "并没得详细的设计方案，面对重重困难。"
+      }
+    },
+    {
+      "id": 81,
+      "start": 370.075,
+      "end": 372.74,
+      "label": "uncertain",
+      "text": "研发团队成员摸着石头过河，",
+      "score": 0.5362,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8153,
+        "acoustic_dev": 0.958,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "研发团队成员摸到石头过河。"
+      }
+    },
+    {
+      "id": 82,
+      "start": 372.785,
+      "end": 376.348,
+      "label": "mandarin",
+      "text": "发图纸、定结构、试生产部件，",
+      "score": 0.1032,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1171,
+        "acoustic_dev": 0.118,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发图纸定结构是生产部件。"
+      }
+    },
+    {
+      "id": 83,
+      "start": 376.645,
+      "end": 379.826,
+      "label": "mandarin",
+      "text": "一块块硬骨头接连被啃下。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一块块硬骨头接连被啃下。"
+      }
+    },
+    {
+      "id": 84,
+      "start": 380.176,
+      "end": 383.038,
+      "label": "mandarin",
+      "text": "经过五年夜以继日的克难攻坚，",
+      "score": 0.0869,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1575,
+        "acoustic_dev": 0.167,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经过五年夜以继日的克难攻坚。"
+      }
+    },
+    {
+      "id": 85,
+      "start": 383.038,
+      "end": 396.207,
+      "label": "mandarin",
+      "text": "今年的月二十九号，我国首台整台主路面顶液压机正式交付中国科学院高能物理研究所三裂种子源科学中心进行系统联调。",
+      "score": 0.1446,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0855,
+        "acoustic_dev": 0.08,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "主/组",
+        "lexicon": "",
+        "text_free": "今年的一月二十九号，我国首台中山组路面顶液压机正式交付中国科学院高能物理研究所三裂中资源科学中心，进行系统联调。"
+      }
+    },
+    {
+      "id": 86,
+      "start": 396.584,
+      "end": 404.286,
+      "label": "mandarin",
+      "text": "它的诞生不仅是宣告了我国在高温高压高端装备制造领域打破外国技术封锁，",
+      "score": 0.0008,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0198,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它的诞生不仅是宣告了我国在高温高压高端装备制造领域打破外国技术封锁。"
+      }
+    },
+    {
+      "id": 87,
+      "start": 404.59,
+      "end": 411.279,
+      "label": "mandarin",
+      "text": "也成为了我国超硬材料行业近三十年来最重大的技术突破。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也成为了我国超硬材料行业近三十年来最重大的技术突破。"
+      }
+    },
+    {
+      "id": 88,
+      "start": 411.422,
+      "end": 415.235,
+      "label": "mandarin",
+      "text": "传统的这个路面顶压机在超硬材料行业，",
+      "score": 0.0701,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0877,
+        "acoustic_dev": 0.083,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "传统的这个六面顶压机，在超硬材料行业。"
+      }
+    },
+    {
+      "id": 89,
+      "start": 415.479,
+      "end": 417.962,
+      "label": "mandarin",
+      "text": "它主要是呃",
+      "score": 0.3447,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5699,
+        "acoustic_dev": 0.663,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它主要是，呃。"
+      }
+    },
+    {
+      "id": 90,
+      "start": 418.355,
+      "end": 421.52,
+      "label": "mandarin",
+      "text": "用同一个压力源来控制三轴。",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用同一个压力源来控制三周。"
+      }
+    },
+    {
+      "id": 91,
+      "start": 421.52,
+      "end": 425.818,
+      "label": "mandarin",
+      "text": "我们现在突破的话，就是实现了三轴可以独立控制，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们现在突破的话，就是实现了三轴可以独立控制。"
+      }
+    },
+    {
+      "id": 92,
+      "start": 425.942,
+      "end": 428.995,
+      "label": "mandarin",
+      "text": "这是一个突破。第二个就是主机结构，",
+      "score": 0.0003,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0191,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这是一个突破。第二个就是主机结构。"
+      }
+    },
+    {
+      "id": 93,
+      "start": 429.289,
+      "end": 434.794,
+      "label": "mandarin",
+      "text": "以前的那个操作窗口比较小，就有些科研仪器没办法",
+      "score": 0.0011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0203,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以前的那个操作窗口比较小，就有些科研仪器没办法。"
+      }
+    },
+    {
+      "id": 94,
+      "start": 435.062,
+      "end": 437.537,
+      "label": "mandarin",
+      "text": "啊，就是突破研发。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，就是突破研发。"
+      }
+    },
+    {
+      "id": 95,
+      "start": 437.767,
+      "end": 440.979,
+      "label": "mandarin",
+      "text": "现在我们这个窗口外形结构改变以后，",
+      "score": 0.0016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0211,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在我们这个窗口外形结构改变以后。"
+      }
+    },
+    {
+      "id": 96,
+      "start": 440.979,
+      "end": 444.69,
+      "label": "mandarin",
+      "text": "就可以利用有利于很多科研仪器的",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0164,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就可以利用，有利于很多科研仪器的。"
+      }
+    },
+    {
+      "id": 97,
+      "start": 445.0,
+      "end": 448.231,
+      "label": "mandarin",
+      "text": "研发。第三方面，主要是在应用方面，",
+      "score": 0.0387,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0805,
+        "acoustic_dev": 0.074,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "研发，第三方面主要是在应用方面。"
+      }
+    },
+    {
+      "id": 98,
+      "start": 448.376,
+      "end": 454.145,
+      "label": "mandarin",
+      "text": "嗯，在新超硬材料还有其他的新材料的研发基础研究方面，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0049,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "嗯，在新超硬材料还有其他的新材料的研发基础研究方面。"
+      }
+    },
+    {
+      "id": 99,
+      "start": 454.471,
+      "end": 459.636,
+      "label": "mandarin",
+      "text": "就是可以实现非常过手段下可以实现的功能。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0094,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是可以实现非常规手段下可以实现的功能。"
+      }
+    },
+    {
+      "id": 100,
+      "start": 460.204,
+      "end": 463.176,
+      "label": "guilin",
+      "text": "我们重点支持有关键核心技术突破，",
+      "score": 0.5505,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8673,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们重点支持有关军核心技术突破。"
+      }
+    },
+    {
+      "id": 101,
+      "start": 463.322,
+      "end": 467.95,
+      "label": "mandarin",
+      "text": "能够实现产业质的提升的企业做大做强做优。",
+      "score": 0.0138,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0406,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "能够实现产业质的提升的企业，做大做强、做优。"
+      }
+    },
+    {
+      "id": 102,
+      "start": 468.222,
+      "end": 473.031,
+      "label": "mandarin",
+      "text": "比如，二零二三年，我市三家企业三个产品获广西国内",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0186,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比如，二零二三年，我市三家企业三个产品获广西国内。"
+      }
+    },
+    {
+      "id": 103,
+      "start": 473.204,
+      "end": 476.961,
+      "label": "mandarin",
+      "text": "首台套认定，获奖资金四百一十万元，",
+      "score": 0.0671,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0772,
+        "acoustic_dev": 0.07,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "首台套认定，获奖补资金四百一十万元。"
+      }
+    },
+    {
+      "id": 104,
+      "start": 477.295,
+      "end": 481.117,
+      "label": "mandarin",
+      "text": "分别占全区的百分之一十九和百分之四十三。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "分别占全区的百分之一十九和百分之四十二。"
+      }
+    },
+    {
+      "id": 105,
+      "start": 481.117,
+      "end": 484.303,
+      "label": "guilin",
+      "text": "大额科研内功自立自强，",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.729,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.7,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "内/雷",
+        "lexicon": "",
+        "text_free": "答案：鹅，酷练雷公，自立自强。"
+      }
+    },
+    {
+      "id": 106,
+      "start": 484.47,
+      "end": 487.096,
+      "label": "mandarin",
+      "text": "科技创新推动产业创新。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "科技创新推动产业创新。"
+      }
+    },
+    {
+      "id": 107,
+      "start": 487.512,
+      "end": 492.281,
+      "label": "mandarin",
+      "text": "习近平总书记指出，要以科技创新引领产业创新，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "习近平总书记指出：“要以科技创新引领产业创新。”"
+      }
+    },
+    {
+      "id": 108,
+      "start": 492.492,
+      "end": 495.293,
+      "label": "mandarin",
+      "text": "积极培育和发展新生产力。",
+      "score": 0.0513,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0341,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "积极培育和发展新自生产力。"
+      }
+    },
+    {
+      "id": 109,
+      "start": 495.568,
+      "end": 500.056,
+      "label": "mandarin",
+      "text": "目前，桂林共有国家技术创新示范企业七个，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0106,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，桂林共有国家技术创新示范企业七。"
+      }
+    },
+    {
+      "id": 110,
+      "start": 500.559,
+      "end": 503.15,
+      "label": "mandarin",
+      "text": "国家级企业技术中心七个，",
+      "score": 0.1063,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1222,
+        "acoustic_dev": 0.125,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "国家级企业技术中心七。"
+      }
+    },
+    {
+      "id": 111,
+      "start": 503.843,
+      "end": 507.339,
+      "label": "mandarin",
+      "text": "自治区技术创新示范企业三十五个，",
+      "score": 0.1599,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1769,
+        "acoustic_dev": 0.19,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自治区技术创新示范基地三十五个。"
+      }
+    },
+    {
+      "id": 112,
+      "start": 507.641,
+      "end": 510.021,
+      "label": "mandarin",
+      "text": "数量均居全区第一。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "数量均居全区第一。"
+      }
+    },
+    {
+      "id": 113,
+      "start": 510.21,
+      "end": 513.89,
+      "label": "mandarin",
+      "text": "企业的科技创新主体地位正在凸显。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "企业的科技创新主体地位正在凸显。"
+      }
+    },
+    {
+      "id": 114,
+      "start": 514.302,
+      "end": 518.576,
+      "label": "mandarin",
+      "text": "截至目前，我市在广西专利专项计划中，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0103,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "截至目前，我市在广西专利专项计划中。"
+      }
+    },
+    {
+      "id": 115,
+      "start": 518.665,
+      "end": 522.434,
+      "label": "mandarin",
+      "text": "组成两千九百件次专利对接转化，",
+      "score": 0.0881,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1073,
+        "acoustic_dev": 0.107,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "组成两千九百件次专利对接转发。"
+      }
+    },
+    {
+      "id": 116,
+      "start": 522.765,
+      "end": 526.383,
+      "label": "mandarin",
+      "text": "转化量大概占全广西总量的百分之五十，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "转发量大概占全广西总量的百分之五十。"
+      }
+    },
+    {
+      "id": 117,
+      "start": 526.708,
+      "end": 529.123,
+      "label": "mandarin",
+      "text": "排名稳居全广西第一。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "排名稳居全广西第一。"
+      }
+    },
+    {
+      "id": 118,
+      "start": 529.375,
+      "end": 531.988,
+      "label": "uncertain",
+      "text": "一批专利发明跳下图纸，",
+      "score": 0.5025,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5162,
+        "acoustic_dev": 0.598,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "纸/子",
+        "lexicon": "",
+        "text_free": "一批专利发明，跳下兔子。"
+      }
+    },
+    {
+      "id": 119,
+      "start": 531.988,
+      "end": 535.47,
+      "label": "mandarin",
+      "text": "应用在生产过程当中，变成了真金白银，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "应用在生产过程当中，变成了真金白银。"
+      }
+    },
+    {
+      "id": 120,
+      "start": 535.615,
+      "end": 542.793,
+      "label": "mandarin",
+      "text": "真正地实现其价值。全市一百四十多家工业企业拥有技术创新平台，",
+      "score": 0.1613,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0382,
+        "acoustic_dev": 0.024,
+        "seg_cer": 0.107,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "正/真 真/正",
+        "lexicon": "",
+        "text_free": "正真理实现其价值。全市一百四十多家工业企业拥有技术创新平台。"
+      }
+    },
+    {
+      "id": 121,
+      "start": 543.041,
+      "end": 545.321,
+      "label": "guilin",
+      "text": "已经形成。紧致弹性，",
+      "score": 0.7425,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6322,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "致/字",
+        "lexicon": "",
+        "text_free": "已经形成金字塔形。"
+      }
+    },
+    {
+      "id": 122,
+      "start": 545.321,
+      "end": 548.679,
+      "label": "mandarin",
+      "text": "相对完善的企业技术创新体系。",
+      "score": 0.3022,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.277,
+        "acoustic_dev": 0.311,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "响当万山的企业技术创新体系。"
+      }
+    },
+    {
+      "id": 123,
+      "start": 549.138,
+      "end": 554.72,
+      "label": "mandarin",
+      "text": "由桂林橡胶设计院有限公司首创的全钢五复合基础技术，",
+      "score": 0.1064,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0365,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.208,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "由桂林香蕉设计院有限公司首创的全港五幅活基础技术。"
+      }
+    },
+    {
+      "id": 124,
+      "start": 554.899,
+      "end": 559.145,
+      "label": "mandarin",
+      "text": "就处于全球高端轮胎领域的塔尖地位。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就处于全球高端轮胎领域的塔尖地位。"
+      }
+    },
+    {
+      "id": 125,
+      "start": 559.181,
+      "end": 565.103,
+      "label": "mandarin",
+      "text": "该技术打破了高端轮胎工艺设备长期被欧洲垄断的局面。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "该技术打破了高端轮胎工艺设备长期被欧洲垄断的局面。"
+      }
+    },
+    {
+      "id": 126,
+      "start": 565.426,
+      "end": 571.014,
+      "label": "mandarin",
+      "text": "有了这套设备，国内的轮胎生产企业不必再依赖进口设备。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有了这套设备，国内的轮胎生产企业不必再依赖进口设备。"
+      }
+    },
+    {
+      "id": 127,
+      "start": 571.428,
+      "end": 573.989,
+      "label": "uncertain",
+      "text": "凭借五复合橡胶基础机头，",
+      "score": 0.4434,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4147,
+        "acoustic_dev": 0.476,
+        "seg_cer": 0.636,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "凭/拼",
+        "lexicon": "",
+        "text_free": "拼接五副或香蕉基础鸡头。"
+      }
+    },
+    {
+      "id": 128,
+      "start": 574.148,
+      "end": 578.343,
+      "label": "uncertain",
+      "text": "该公司获得第二十三个中国专利金奖，",
+      "score": 0.5486,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9326,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "该公司获得第二十三届中国专利金奖。"
+      }
+    },
+    {
+      "id": 129,
+      "start": 578.666,
+      "end": 584.743,
+      "label": "mandarin",
+      "text": "代表广西时隔二十一年再次问鼎中国专利最高荣誉。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0173,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "代表广西时隔二十一年，再次问鼎中国专利最高荣誉。"
+      }
+    },
+    {
+      "id": 130,
+      "start": 584.743,
+      "end": 587.822,
+      "label": "guilin",
+      "text": "我们首创了一系列国内技术，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.9699,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们首创了一系列的呃国内技术。"
+      }
+    },
+    {
+      "id": 131,
+      "start": 587.885,
+      "end": 590.587,
+      "label": "mandarin",
+      "text": "包括双重机头锁紧保障，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0148,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "包括双重机头锁紧保障。"
+      }
+    },
+    {
+      "id": 132,
+      "start": 590.776,
+      "end": 597.454,
+      "label": "mandarin",
+      "text": "以及基于橡胶嗯帘弹体的分型面流道腔的设计，",
+      "score": 0.3147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.279,
+        "acoustic_dev": 0.313,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "分/风",
+        "lexicon": "",
+        "text_free": "以及基于橡胶，嗯，粘弹体的风行面流道腔的设计。"
+      }
+    },
+    {
+      "id": 133,
+      "start": 597.454,
+      "end": 600.791,
+      "label": "mandarin",
+      "text": "在加工制造中克服了一系列的技术难题。",
+      "score": 0.0033,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0238,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在加工制造中克服了一系列的技术难题。"
+      }
+    },
+    {
+      "id": 134,
+      "start": 601.404,
+      "end": 607.609,
+      "label": "mandarin",
+      "text": "我们的核心产品五复合橡胶挤出机已经广泛的应用于法国米其林、",
+      "score": 0.049,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.107,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们的核心产品无负荷橡胶挤出机已经广泛的应用于法国米其林。"
+      }
+    },
+    {
+      "id": 135,
+      "start": 607.609,
+      "end": 611.971,
+      "label": "mandarin",
+      "text": "杭州中策等国际国内头部的轮胎企业，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0146,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "杭州中策等国际国内头部的轮胎企业。"
+      }
+    },
+    {
+      "id": 136,
+      "start": 612.157,
+      "end": 615.123,
+      "label": "mandarin",
+      "text": "从而带动了我们挤出产品的系列化，",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从而带动了我们几出产品的系列化。"
+      }
+    },
+    {
+      "id": 137,
+      "start": 615.123,
+      "end": 617.612,
+      "label": "mandarin",
+      "text": "实现了全球出货量第一、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现了全球出货量第一。"
+      }
+    },
+    {
+      "id": 138,
+      "start": 617.739,
+      "end": 623.447,
+      "label": "mandarin",
+      "text": "销售额第二的成绩，在高端挤出市场占有率百分之六十五以上，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "销售额第二的成绩，在高端挤出市场占有率百分之六十五以上。"
+      }
+    },
+    {
+      "id": 139,
+      "start": 623.593,
+      "end": 631.487,
+      "label": "mandarin",
+      "text": "遥遥领先于国内同行企业。大安山多部门出实招，飞天沃土培育更优桂林制造。",
+      "score": 0.2252,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0704,
+        "acoustic_dev": 0.062,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "造/兆 山/三",
+        "lexicon": "",
+        "text_free": "幺幺领先于国内同行企业。答案三：多部门出实招，肥田沃土，培育更有桂林之兆。"
+      }
+    },
+    {
+      "id": 140,
+      "start": 631.896,
+      "end": 635.306,
+      "label": "mandarin",
+      "text": "企业家们认为，中国制造为什么这么牛？",
+      "score": 0.0461,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0923,
+        "acoustic_dev": 0.089,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "企业家们认为：“中国制造为什么这么牛？”"
+      }
+    },
+    {
+      "id": 141,
+      "start": 635.476,
+      "end": 638.669,
+      "label": "mandarin",
+      "text": "还在于政府和政策的持续助力，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0148,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还在于政府和政策的持续助力。"
+      }
+    },
+    {
+      "id": 142,
+      "start": 638.958,
+      "end": 643.414,
+      "label": "mandarin",
+      "text": "为桂林制造在实现高质量发展的路上保驾护航。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为桂林制造，在实现高质量发展的路上保驾护航。"
+      }
+    },
+    {
+      "id": 143,
+      "start": 643.904,
+      "end": 649.81,
+      "label": "mandarin",
+      "text": "近年来，桂林市工信、发改、科技、金融等部门频频出实招，",
+      "score": 0.1208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "实/死",
+        "lexicon": "",
+        "text_free": "近年来，桂林市工信、发改、科技、金融等部门频频出“死招”。"
+      }
+    },
+    {
+      "id": 144,
+      "start": 649.81,
+      "end": 653.326,
+      "label": "mandarin",
+      "text": "培育更多更优秀的专精特新企业。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "培育更多更优秀的专精特新企业。"
+      }
+    },
+    {
+      "id": 145,
+      "start": 653.6,
+      "end": 660.127,
+      "label": "mandarin",
+      "text": "桂林市委市政府先后出台了《桂林市支持工业企业发展若干政策措施》《",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0169,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林市委市政府先后出台了《桂林市支持工业企业发展若干政策措施》。"
+      }
+    },
+    {
+      "id": 146,
+      "start": 660.465,
+      "end": 668.019,
+      "label": "mandarin",
+      "text": "桂林市支持专精特新中小企业培育发展的若干措施试行》等政策组合，",
+      "score": 0.0184,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0228,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林市支持专精特新中小企业培育发展的若干措施实行等政策组合。"
+      }
+    },
+    {
+      "id": 147,
+      "start": 668.297,
+      "end": 671.424,
+      "label": "mandarin",
+      "text": "推动资金、要素、科教、科研、",
+      "score": 0.3512,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5803,
+        "acoustic_dev": 0.675,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动资金要素科教科研。"
+      }
+    },
+    {
+      "id": 148,
+      "start": 671.527,
+      "end": 675.865,
+      "label": "mandarin",
+      "text": "服务等各项资源向优质中小企业聚集，",
+      "score": 0.2234,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1931,
+        "acoustic_dev": 0.21,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "富等国乡资源向优质中小企业聚集。"
+      }
+    },
+    {
+      "id": 149,
+      "start": 676.21,
+      "end": 679.271,
+      "label": "mandarin",
+      "text": "促进中小企业专精特新式发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0164,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "促进中小企业专精特新式发展。"
+      }
+    },
+    {
+      "id": 150,
+      "start": 679.523,
+      "end": 685.258,
+      "label": "mandarin",
+      "text": "其中，我市专门为支持专精特新中小企业培育发展出台政策，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中，我市专门为支持专精特新中小企业培育发展出台政策。"
+      }
+    },
+    {
+      "id": 151,
+      "start": 685.458,
+      "end": 688.519,
+      "label": "mandarin",
+      "text": "在全区属首次、首创。",
+      "score": 0.0128,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0391,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在全区属首次首创。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "汽车_以旧换新_激发市民消费活力.wav",
+  "duration": 146.389,
+  "no_dialect": false,
+  "created_at": "2026-10-26T11:13:29",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.15,
+      "end": 7.648,
+      "label": "mandarin",
+      "text": "今年以来呀，国家的汽车以旧换新的政策可以讲是吹暖了汽车消费市场，",
+      "score": 0.2133,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0767,
+        "acoustic_dev": 0.168,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "新/行",
+        "lexicon": "",
+        "text_free": "今年以来啊，国家的汽车依旧放行的政策可以讲是锤暖了汽车消费市场。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.871,
+      "end": 10.613,
+      "label": "mandarin",
+      "text": "为消费者带来实惠的同时，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为消费者带来实惠的同时。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.613,
+      "end": 15.025,
+      "label": "mandarin",
+      "text": "也为我市汽车消费市场注入了新的活力。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0055,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为我市汽车消费市场注入了新的活力。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.272,
+      "end": 21.681,
+      "label": "mandarin",
+      "text": "下面我们就去看一下我们桂林的汽车以旧换新市场到底怎么样。",
+      "score": 0.2806,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0649,
+        "acoustic_dev": 0.14,
+        "seg_cer": 0.185,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "新/行",
+        "lexicon": "么样",
+        "text_free": "下面来我们就去看一下子我们桂林的汽车依旧贩行市场到底怎么样。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.21,
+      "end": 28.215,
+      "label": "mandarin",
+      "text": "记者来到位于八里街的几家汽车销售企业，看到店内人头攒动，",
+      "score": 0.0542,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记者来到位于巴黎的几家汽车销售企业，看到店内人头攒动。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.464,
+      "end": 31.426,
+      "label": "guilin",
+      "text": "人们看车询价的场景随处可见。",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.436,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "车/测",
+        "lexicon": "",
+        "text_free": "一门勘测寻家的场景，随处可见。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.635,
+      "end": 34.109,
+      "label": "mandarin",
+      "text": "在政策的大力推动之下，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在政策的大力推动之下。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.23,
+      "end": 38.678,
+      "label": "mandarin",
+      "text": "众多消费者参与到了以旧换新的购车活动当中。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "众多消费者参与到了以旧换新的购车活动当中。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.87,
+      "end": 44.011,
+      "label": "mandarin",
+      "text": "我车子开了八年了，因为因为现在是国家政策鼓励新能源发展嘛，",
+      "score": 0.1615,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0821,
+        "acoustic_dev": 0.18,
+        "seg_cer": 0.148,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我修车开了八年了。另外，因为现在是国家政策鼓励新能源发展嘛。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.011,
+      "end": 48.627,
+      "label": "guilin",
+      "text": "啊对，区域补贴这块比较大，优惠方面比较大，在考虑买这个车呢。",
+      "score": 0.5903,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5073,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "考虑区域补贴这块比较大，优惠方面比较大，才考虑买这个车的。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 49.078,
+      "end": 54.458,
+      "label": "mandarin",
+      "text": "对于这个政策很满意，呃，国家给这个政策我们帮助很大。",
+      "score": 0.173,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0982,
+        "acoustic_dev": 0.218,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于这个政策啊，很满意。呃，国家给这个政策，我们也很帮助很大。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 54.822,
+      "end": 57.86,
+      "label": "mandarin",
+      "text": "在这场由政策引领的消费当中，",
+      "score": 0.0015,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在这场由政策引领的消费当中。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.986,
+      "end": 61.532,
+      "label": "mandarin",
+      "text": "汽车销售企业扮演着非常关键的角色。",
+      "score": 0.0678,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0142,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其次，销售企业扮演着非常关键的角色。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 61.791,
+      "end": 66.381,
+      "label": "mandarin",
+      "text": "在严格执行国家补贴和广西补贴政策的基础之上，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在严格执行国家补贴和广西补贴政策的基础之上。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 66.549,
+      "end": 68.919,
+      "label": "mandarin",
+      "text": "充分发挥自身主观能动性，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "充分发挥自身主观能动性。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 69.072,
+      "end": 76.234,
+      "label": "mandarin",
+      "text": "推出了一系列丰富多彩而且极具吸引力的优惠活动与贴心周到的服务。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推出了一系列丰富多彩而且极具吸引力的优惠活动与贴心周到的服务。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 76.234,
+      "end": 80.332,
+      "label": "mandarin",
+      "text": "国补政策出来后，旧车在二零一一年六月份之前的",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "国补政策出来后，旧车在二零一一年六月份之前。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 80.995,
+      "end": 84.092,
+      "label": "mandarin",
+      "text": "过来置换，享受两万元的国补。",
+      "score": 0.0387,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "过来置换，享受两万元的国货。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 84.142,
+      "end": 88.681,
+      "label": "mandarin",
+      "text": "如果说在二零一一年六月份之后的享受区补一万三，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "如果说在二零一一年六月份之后的享受，区补一万三。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 88.681,
+      "end": 91.161,
+      "label": "guilin",
+      "text": "我们七位强补的话是两万，",
+      "score": 0.6447,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7151,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们奇瑞厂补的话是两万。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 91.173,
+      "end": 95.4,
+      "label": "mandarin",
+      "text": "这样叠加起来的话，您的旧车开过来至少给您抵到三万以上。",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这样叠加起来的话，您的旧车开过来，至少给你抵到三万以上。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 95.916,
+      "end": 100.706,
+      "label": "mandarin",
+      "text": "政策带来的积极影响也直观地体现在汽车销量上。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "政策带来的积极影响，也直观的体现在汽车销量上。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 100.993,
+      "end": 103.845,
+      "label": "uncertain",
+      "text": "在另外一家热门汽车品牌店内，",
+      "score": 0.4632,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3555,
+        "acoustic_dev": 0.823,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在另外一家夜门汽车品牌店内。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 103.987,
+      "end": 106.972,
+      "label": "mandarin",
+      "text": "前来看车选车的消费者络绎不绝。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前来看车选车的消费者络绎不绝。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 106.972,
+      "end": 111.281,
+      "label": "mandarin",
+      "text": "我们在今年十月份，在政策加码出台的",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们在今年十月份，在政策加码出台的。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 111.432,
+      "end": 115.716,
+      "label": "mandarin",
+      "text": "这第一个月的话，我们就实现了单月三百台的一个",
+      "score": 0.0435,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "的第一个月的话，我们就实现了单卷三百台的一个。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 115.838,
+      "end": 125.198,
+      "label": "mandarin",
+      "text": "销销量。现在，以旧换新政策分为国家汽车报废更新补贴和广西汽车置换更新补贴两种类型，",
+      "score": 0.1218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0074,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.079,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "新/行",
+        "lexicon": "",
+        "text_free": "销销量。现在依旧放行政策分为国家汽车报废更新补贴和广西汽车置换更新补贴两种类型。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 125.437,
+      "end": 129.463,
+      "label": "uncertain",
+      "text": "不同类型和价位的新车对应不同补贴金额，",
+      "score": 0.5454,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7732,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不同类型或价位的新车对应不同补贴金额。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 129.733,
+      "end": 131.955,
+      "label": "mandarin",
+      "text": "消费者可以灵活的选择。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "消费者可以灵活的选择。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 132.452,
+      "end": 135.975,
+      "label": "guilin",
+      "text": "随着国家补贴政策逐渐临近尾声，",
+      "score": 0.5598,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4099,
+        "acoustic_dev": 0.951,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "车道国家补贴政策逐渐临近尾声。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 135.975,
+      "end": 139.418,
+      "label": "mandarin",
+      "text": "各大汽车销售店不仅没有丝毫懈怠，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0044,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "各大汽车销售店不仅没有丝毫懈怠。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 139.418,
+      "end": 141.997,
+      "label": "mandarin",
+      "text": "反而是鼓足干劲，积极筹备，",
+      "score": 0.1255,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0061,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "反而是国足赶紧积极筹备。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 142.13,
+      "end": 146.389,
+      "label": "mandarin",
+      "text": "全力迎接即将到来的新一轮销售高峰。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全力迎接即将到来的新一轮销售高峰。"
+      }
+    }
+  ]
+}

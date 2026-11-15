@@ -1,0 +1,522 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "龙胜广南_千年古侗寨举办侗年火塘节.wav",
+  "duration": 117.576,
+  "no_dialect": false,
+  "created_at": "2026-10-26T12:36:19",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.322,
+      "end": 7.702,
+      "label": "mandarin",
+      "text": "前段时间，龙胜各族自治县平登镇广南村举办了一年一度的冬连火塘节。",
+      "score": 0.0658,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.045,
+        "acoustic_dev": 0.039,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前段时间，龙胜国族自治县平等镇广南村举办了一年一度的冬练火塘节。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.996,
+      "end": 11.164,
+      "label": "mandarin",
+      "text": "当地侗族同胞身着节日盛装，",
+      "score": 0.2504,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.064,
+        "acoustic_dev": 0.068,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "盛/身",
+        "lexicon": "",
+        "text_free": "当地东族同胞身着简易身装。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.164,
+      "end": 14.741,
+      "label": "mandarin",
+      "text": "欢聚一堂，载歌载舞，欢度冬连。",
+      "score": 0.209,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0806,
+        "acoustic_dev": 0.094,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "凡聚一堂，再过再舞，凡多动练。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.077,
+      "end": 21.945,
+      "label": "mandarin",
+      "text": "活动同时，也是吸引了来自四面八方的游客朋友们走进千年侗寨，",
+      "score": 0.2752,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2764,
+        "acoustic_dev": 0.399,
+        "seg_cer": 0.148,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动同时也是吸引了来自四面八方的游客朋友们走进黔灵东站。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.088,
+      "end": 25.321,
+      "label": "mandarin",
+      "text": "体验这开浓郁的民族风情。",
+      "score": 0.2221,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1405,
+        "acoustic_dev": 0.187,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提炼、展开浓郁的民族风情。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.495,
+      "end": 29.356,
+      "label": "guilin",
+      "text": "冬连是龙胜各族自治县的法定假日，",
+      "score": 0.6418,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5378,
+        "acoustic_dev": 0.806,
+        "seg_cer": 0.533,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "治/子 自/之",
+        "lexicon": "",
+        "text_free": "冬练是龙生国族之子先的法定家业。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.515,
+      "end": 37.336,
+      "label": "mandarin",
+      "text": "全县放假一天。作为侗族文化的传承地，广南村在每年的冬连节都会举办活动，",
+      "score": 0.0429,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0155,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.094,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全县放假一天。作为东族文化的传承地，广南城在每年的冬练节都会举办活动。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.478,
+      "end": 39.72,
+      "label": "guilin",
+      "text": "庆祝这一特色节日。",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1152,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.75,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "祝/组",
+        "lexicon": "",
+        "text_free": "请组织一例特色建议。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 40.16,
+      "end": 44.074,
+      "label": "mandarin",
+      "text": "在当天的活动当中，广南群众身着盛装，",
+      "score": 0.2576,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1442,
+        "acoustic_dev": 0.193,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "盛/深",
+        "lexicon": "",
+        "text_free": "在当天的活动当中，广安群众身着深装。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.131,
+      "end": 48.699,
+      "label": "guilin",
+      "text": "虔诚祭拜神马，在中立站了抬着圣火，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2204,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.8,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前程击败杀马，再重的再老，抬着生活。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.699,
+      "end": 51.982,
+      "label": "mandarin",
+      "text": "将火焰传递到每个新建的火塘，",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0101,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将火焰传递到每一个新建的火塘。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.259,
+      "end": 60.023,
+      "label": "mandarin",
+      "text": "寓意着薪火相传。一代一代的侗族儿女要将侗族文化永远传承下去。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "寓意着薪火相传，一代一代的东族儿女要将东族文化永远传承下去。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 60.023,
+      "end": 62.481,
+      "label": "mandarin",
+      "text": "通过这次活动，让",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过这次活动，让。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.892,
+      "end": 65.371,
+      "label": "mandarin",
+      "text": "更多的人能够了解广南、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更多的人能够了解广南。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 65.371,
+      "end": 68.945,
+      "label": "mandarin",
+      "text": "认识广南，让更多的人能够",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "认识广南，让更多的人能够。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 68.989,
+      "end": 72.22,
+      "label": "mandarin",
+      "text": "走进广南，让身边的",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走进访谈，让身边的。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.27,
+      "end": 74.678,
+      "label": "mandarin",
+      "text": "群众能够得到这个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "群众能够得到这个。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 75.007,
+      "end": 80.612,
+      "label": "mandarin",
+      "text": "呃收益。广南村自二零二零年启动火塘建设计划，",
+      "score": 0.0949,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1091,
+        "acoustic_dev": 0.138,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，收益。广南城自二零二零年启动火塘建设计划。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.769,
+      "end": 83.274,
+      "label": "guilin",
+      "text": "现已建成了七座火塘，",
+      "score": 0.5708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8487,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现已经建成了七座火塘。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 83.566,
+      "end": 86.485,
+      "label": "mandarin",
+      "text": "加上原有火塘共计十一座。",
+      "score": 0.0174,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0416,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加上原有火塘，共计十一座。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 86.775,
+      "end": 92.262,
+      "label": "mandarin",
+      "text": "从项目启动至今，得到了上级政府以及各单位部门的大力支持。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从项目启动至今，得到了上级政府以及各单位部门的大力支持。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 92.79,
+      "end": 97.128,
+      "label": "mandarin",
+      "text": "冬连火塘节活动的举办，让大家走进火塘，",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冬联火塘节活动的举办，让大家走进火塘。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 97.128,
+      "end": 99.654,
+      "label": "mandarin",
+      "text": "了解文化，推动研学",
+      "score": 0.1143,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0074,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "标杆文化，推动研学。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 99.869,
+      "end": 102.027,
+      "label": "mandarin",
+      "text": "传承和弘扬侗族文化，",
+      "score": 0.1746,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.173,
+        "acoustic_dev": 0.238,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "传承和弘扬东族文化。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 102.234,
+      "end": 107.205,
+      "label": "mandarin",
+      "text": "促进当地旅游业发展，增强民族文化认同感。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "促进当地旅游业发展，增强民族文化认同感。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 107.543,
+      "end": 115.271,
+      "label": "mandarin",
+      "text": "二零二三年，自治区民政厅确定第一批广西地名文化遗产——千年古城罗名单，",
+      "score": 0.0147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0061,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二三年，自治区民政厅确定第一批广西地名文化遗产千年古城名单。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 115.465,
+      "end": 117.576,
+      "label": "mandarin",
+      "text": "广南村榜上有名。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0202,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "广南城榜上有名。"
+      }
+    }
+  ]
+}

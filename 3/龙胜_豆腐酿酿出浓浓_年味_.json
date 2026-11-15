@@ -1,0 +1,370 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "龙胜_豆腐酿酿出浓浓_年味_.wav",
+  "duration": 87.039,
+  "no_dialect": false,
+  "created_at": "2026-10-26T12:29:49",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.502,
+      "label": "guilin",
+      "text": "在隆盛国煮子之前，将米香放汤煮的豆腐放里头。",
+      "score": 0.73,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.561,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "煮/足 隆/浓",
+        "lexicon": "",
+        "text_free": "在浓盛过足这支鲜，将底香仿糖煮的豆腐坊里头。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.782,
+      "end": 8.662,
+      "label": "mandarin",
+      "text": "当地村民杨成武正忙到泡豆打浆。",
+      "score": 0.0133,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0448,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当地村民杨成武正忙到泡豆打浆。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.0,
+      "end": 15.788,
+      "label": "guilin",
+      "text": "他告诉记者，连冠奖金不少，当地人都到他这来买豆腐做豆腐酿。",
+      "score": 0.64,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.436,
+        "acoustic_dev": 0.941,
+        "seg_cer": 0.192,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "酿/凉",
+        "lexicon": "",
+        "text_free": "他告诉记者：“连贯将近，不少当地人都到他这里来买豆腐，做豆腐凉。”"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.073,
+      "end": 19.78,
+      "label": "mandarin",
+      "text": "而制作豆腐酿的过程看似简单，实则讲究。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而制作豆腐酿的过程，看似简单，实则讲究。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.038,
+      "end": 26.723,
+      "label": "mandarin",
+      "text": "先将切成规整的精选三国豆腐放入六成热的油锅当中，",
+      "score": 0.1837,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0681,
+        "acoustic_dev": 0.08,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "三/山",
+        "lexicon": "",
+        "text_free": "先将切成规整的新鲜山果豆腐放入六成热的油锅当中。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.923,
+      "end": 29.927,
+      "label": "mandarin",
+      "text": "随着油温的传递，豆腐慢慢膨胀，",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吃到油温的传递，豆腐慢慢膨胀。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.081,
+      "end": 32.672,
+      "label": "mandarin",
+      "text": "逐渐变得圆鼓鼓、肥嘟嘟，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0154,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "逐渐变得圆鼓鼓、肥嘟嘟。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.0,
+      "end": 37.11,
+      "label": "mandarin",
+      "text": "色泽也从温润的洁白转为诱人的金黄，",
+      "score": 0.1191,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0848,
+        "acoustic_dev": 0.119,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "色泽也从温润的洁白转为油润的金黄。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.279,
+      "end": 42.954,
+      "label": "mandarin",
+      "text": "散发出阵阵香气。馅料是制作豆腐酿的最关键的部分，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0154,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "散发出阵阵香气。馅料是制作豆腐酿的最关键的部分。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.954,
+      "end": 45.92,
+      "label": "mandarin",
+      "text": "它的选择会决定豆腐酿的口味。",
+      "score": 0.1417,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0636,
+        "acoustic_dev": 0.07,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他的选择非决定豆腐娘的口味。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 46.13,
+      "end": 51.138,
+      "label": "guilin",
+      "text": "大多数人会将五花肉、木耳、香葱等馅料粉和剁碎，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.724,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.65,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大多数鹦飞将无法与母鹅、香葱等闲聊，分伙夺食。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 51.474,
+      "end": 55.37,
+      "label": "mandarin",
+      "text": "拿起一个炸好的豆腐皮，撕开一个小口子，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拿起一个炸好的豆腐皮，撕开一个小口子。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 55.6,
+      "end": 61.367,
+      "label": "mandarin",
+      "text": "把馅料裹入其中。包好的豆腐酿放到柴火灶高头蒸煮，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把馅料裹入其中，包好的豆腐酿放到柴火灶高头蒸煮。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 61.61,
+      "end": 64.446,
+      "label": "mandarin",
+      "text": "半个小时以后就可以出锅食用。",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "半个小时以后就可以出国使用。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.73,
+      "end": 70.035,
+      "label": "mandarin",
+      "text": "一口咬下去，一连的喜庆都发在了可口的豆腐酿里头。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0159,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一口咬下去，一脸的喜庆都放在了可口的豆腐酿里头。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 70.339,
+      "end": 74.787,
+      "label": "mandarin",
+      "text": "当新年来临，一家老小围坐在一起，吃着美味的豆腐酿，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0338,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当新年来临，一家老小围坐在一起，吃着美味的豆腐酿。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 74.928,
+      "end": 77.74,
+      "label": "mandarin",
+      "text": "谈论着过去一年的收获，",
+      "score": 0.0207,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0509,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "谈论着过去一年的收获。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 77.74,
+      "end": 80.536,
+      "label": "mandarin",
+      "text": "期盼着新年的美好。此刻，",
+      "score": 0.1771,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1417,
+        "acoustic_dev": 0.253,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "期盼着新年哩美好，此刻。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.7,
+      "end": 87.039,
+      "label": "mandarin",
+      "text": "豆腐酿不仅是一道美食，更是家人间情感交流的纽带。",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "豆腐酿不仅是一道美食，更是夹硬间情感交流的纽带。"
+      }
+    }
+  ]
+}

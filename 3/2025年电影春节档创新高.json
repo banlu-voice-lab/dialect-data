@@ -1,0 +1,921 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "2025年电影春节档创新高.wav",
+  "duration": 216.049,
+  "no_dialect": false,
+  "created_at": "2026-10-26T08:22:38",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.679,
+      "end": 5.047,
+      "label": "guilin",
+      "text": "影视十二连春节电影市场火爆开局。",
+      "score": 0.7114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6726,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "连/年 视/四",
+        "lexicon": "",
+        "text_free": "一四十二年春节，电影市场火爆开局。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.047,
+      "end": 7.849,
+      "label": "mandarin",
+      "text": "根据国家电影局前几天发布的数据，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0079,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据国家电影局前几天发布的数据。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.03,
+      "end": 13.431,
+      "label": "mandarin",
+      "text": "我国二零二五年春节档电影票房为九十五点一零亿元，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我国二零二五年春节档电影票房为九十五点一零亿元。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.71,
+      "end": 16.817,
+      "label": "guilin",
+      "text": "观影人次更是突破了一万亿，",
+      "score": 0.7349,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.6264,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "影/音",
+        "lexicon": "",
+        "text_free": "观音影视更是突破了一个亿。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.08,
+      "end": 22.14,
+      "label": "mandarin",
+      "text": "创造了新的春节档票房和观影人次的纪录。",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创造了新的春节档票房和观影人次的记录。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.756,
+      "end": 28.55,
+      "label": "mandarin",
+      "text": "尽管春节假期已过，电影院里面前来观影的市民依然络绎不绝。",
+      "score": 0.0176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "尽管春节假期已过，电影院里面前来观影的市民仍然络绎不绝。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.878,
+      "end": 33.16,
+      "label": "guilin",
+      "text": "纵观今年春节档，六部新片齐聚贺新春，",
+      "score": 0.5771,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5178,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "纵观今年春节档，六部新片齐聚，热恋新春。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.404,
+      "end": 37.069,
+      "label": "guilin",
+      "text": "大年初一单日票房和观影人次创新高，",
+      "score": 0.6895,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2672,
+        "acoustic_dev": 0.955,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "影/音",
+        "lexicon": "",
+        "text_free": "大年初一，单一票房或观音影子创新高。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.39,
+      "end": 40.962,
+      "label": "mandarin",
+      "text": "连续七天单日票房突破十亿元。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0117,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "连续七天单日票房突破十一元。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.521,
+      "end": 44.46,
+      "label": "mandarin",
+      "text": "电影市场不断升温，持续火热。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0063,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "电影市场不断升温，持续火热。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.923,
+      "end": 48.698,
+      "label": "guilin",
+      "text": "和去年以喜剧和动画片为主的供给不同，",
+      "score": 0.5519,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2542,
+        "acoustic_dev": 0.906,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "和去年以喜剧或动画片为主的攻击不同。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 48.994,
+      "end": 52.55,
+      "label": "mandarin",
+      "text": "今年春节档影片涵盖喜剧、悬疑、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年春节档影片涵盖喜剧、悬疑。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 52.55,
+      "end": 56.397,
+      "label": "mandarin",
+      "text": "动画、战争、武侠、神话等等多种类型，",
+      "score": 0.2139,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0159,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "神/圣",
+        "lexicon": "",
+        "text_free": "中法战争、武象、圣法等等多种类型。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 56.835,
+      "end": 59.867,
+      "label": "mandarin",
+      "text": "给观众提供充分选择空间。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给观众提供充分选择空间。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 59.867,
+      "end": 64.296,
+      "label": "mandarin",
+      "text": "这次春节档呢，呃和以往不同，这次春节档从预售开始",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0121,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这次春节档呢，呃，和以往不同。这次春节档从预售开始。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 64.614,
+      "end": 68.294,
+      "label": "mandarin",
+      "text": "就非常的火爆，因为被称为史上最强春节档，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就非常的火爆，因为被称为史上最强春节档。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 68.294,
+      "end": 72.413,
+      "label": "uncertain",
+      "text": "尤其以预售的以预售售票为",
+      "score": 0.5086,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2344,
+        "acoustic_dev": 0.831,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "尤其以预售的，以预售色调为。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 73.115,
+      "end": 75.319,
+      "label": "mandarin",
+      "text": "主要，它的预售情况是最好的，",
+      "score": 0.013,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0205,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "主要，它的预售情况是最好的。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 75.762,
+      "end": 79.58,
+      "label": "mandarin",
+      "text": "直接预售就到了三四个亿。呃，",
+      "score": 0.2978,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1463,
+        "acoustic_dev": 0.499,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "直接预售就到了三四个亿，啊。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 79.58,
+      "end": 82.612,
+      "label": "mandarin",
+      "text": "但是到了春节档真正开始的时候，大年初一，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是到了春节档真正开始的时候，大年初一。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 82.897,
+      "end": 86.221,
+      "label": "mandarin",
+      "text": "呃哪吒和唐探就异军突起，",
+      "score": 0.0031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0155,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，哪吒和唐探就异军突起。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 86.341,
+      "end": 93.602,
+      "label": "mandarin",
+      "text": "这两部影片就正常的在春节档是被广大的观众所接受和认可。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这两部影片就正常的在春节档是被广大的观众所接受和认可。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 93.602,
+      "end": 98.25,
+      "label": "mandarin",
+      "text": "春节档大盘持续走高，头部影片亮眼表现功不可没。",
+      "score": 0.1704,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0124,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "持/次",
+        "lexicon": "",
+        "text_free": "春节当大盘次数走高，头部影片的亮眼表现功不可没。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 98.603,
+      "end": 103.413,
+      "label": "mandarin",
+      "text": "作为二零一九年现象级动画《哪吒之魔童降世》的续作，",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为二零一九年《仙侠奇动作》，哪吒之魔童降世的续作。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 103.841,
+      "end": 111.708,
+      "label": "mandarin",
+      "text": "截止到二月七号，五年魔一见面，《哪吒之魔童闹海》总票房已经超越了《长津湖》，",
+      "score": 0.1503,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0275,
+        "acoustic_dev": 0.051,
+        "seg_cer": 0.161,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "年/炼",
+        "lexicon": "",
+        "text_free": "截止到二月七号，《武炼魔医》建立《哪吒之魔童闹海》，总票房已经超越了《长津湖》。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 112.019,
+      "end": 118.712,
+      "label": "mandarin",
+      "text": "登顶我国影视票房榜，并进入全球影视单日市场票房榜前二。",
+      "score": 0.095,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0437,
+        "acoustic_dev": 0.112,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "登顶我国影视票房榜，并进入全球影视单一市场票房榜前额。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 118.974,
+      "end": 122.448,
+      "label": "mandarin",
+      "text": "该片的火爆在桂林电影院也可见一斑。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "该片的火爆在桂林电影院也可见一斑。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 122.778,
+      "end": 129.318,
+      "label": "mandarin",
+      "text": "根据影院负责人介绍，该片上映以后甚至出现了一票难求的情况。",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0154,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据影院负责人介绍，讲该片上映以后，甚至出现了一票难求的情况。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 129.599,
+      "end": 132.893,
+      "label": "mandarin",
+      "text": "影院为此也是调整排片场次，",
+      "score": 0.316,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0852,
+        "acoustic_dev": 0.269,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "此/持",
+        "lexicon": "",
+        "text_free": "影院维持也是调整排片场次。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 133.104,
+      "end": 138.3,
+      "label": "mandarin",
+      "text": "满足广大桂林影迷对优秀国漫影片的支持和喜爱。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "满足广大桂林影迷对优秀国漫影片的支持和喜爱。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 138.3,
+      "end": 142.28,
+      "label": "mandarin",
+      "text": "哪吒这部影片呢，它本身作品质量过硬啊，",
+      "score": 0.0233,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0258,
+        "acoustic_dev": 0.045,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哪吒这部影片呢？它本身作品质量过硬啊。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 142.854,
+      "end": 146.948,
+      "label": "mandarin",
+      "text": "然后内容是非常的丰富，全程是没有什么",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后内容是非常的丰富，全程是没有什么。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 147.419,
+      "end": 149.786,
+      "label": "mandarin",
+      "text": "没有什么拖沓的，它的节奏非常的快，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "没有什么拖沓的，它的节奏非常的快。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 149.786,
+      "end": 152.071,
+      "label": "mandarin",
+      "text": "那个画面非常的紧凑",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那个画面非常的紧凑。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 152.442,
+      "end": 157.704,
+      "label": "mandarin",
+      "text": "啊，然后它所要表达的一个核心的利益也是非常的鲜明，",
+      "score": 0.0239,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，然后他所要表达的一个核心的利益也是非常的鲜明。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 158.131,
+      "end": 162.924,
+      "label": "mandarin",
+      "text": "然后能引起广大观众的一个在现在这个时代下的一个共鸣。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后能引起广大观众的一个，在现在这个时代下的一个共鸣。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 162.924,
+      "end": 166.575,
+      "label": "mandarin",
+      "text": "与此同时，大场面、大制作、强视听，",
+      "score": 0.1355,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0651,
+        "acoustic_dev": 0.193,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "与此同时，大场面、大制作、强势听。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 166.711,
+      "end": 169.728,
+      "label": "mandarin",
+      "text": "成为了春节档新片共同特色。",
+      "score": 0.0381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为了春节档影片共同特色。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 169.982,
+      "end": 176.674,
+      "label": "mandarin",
+      "text": "例如讲《封神第二部》战火西岐后期制作团队有两千九百多人。",
+      "score": 0.2323,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1137,
+        "acoustic_dev": 0.376,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "例如讲，逢神第二部战火西起，后期制作团队有两千九百多人。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 177.088,
+      "end": 179.361,
+      "label": "uncertain",
+      "text": "比第一部翻了将近一番，《",
+      "score": 0.5173,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2311,
+        "acoustic_dev": 0.819,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比第一步翻了将近一翻。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 179.859,
+      "end": 183.315,
+      "label": "uncertain",
+      "text": "蛟龙行动》全片采用IMAX特制拍摄，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3069,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "蛟龙行动全片采用 IMAX 特制拍摄。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 183.743,
+      "end": 188.233,
+      "label": "mandarin",
+      "text": "一幕幕光影给观众带来震撼人心的视听体验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一幕幕光影，给观众带来震撼人心的视听体验。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 188.74,
+      "end": 191.845,
+      "label": "mandarin",
+      "text": "而作为《唐探》宇宙的第四部电影，《",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0294,
+        "acoustic_dev": 0.059,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而作为《唐探宇宙》的第四部电影。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 192.03,
+      "end": 198.348,
+      "label": "mandarin",
+      "text": "唐探》1900在延续此前几部电影悬疑加喜剧类型的同时，",
+      "score": 0.2227,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.083,
+        "acoustic_dev": 0.261,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "《唐探一九零零》在延续此前几部电影悬疑加喜剧类型的同时。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 198.648,
+      "end": 201.915,
+      "label": "guilin",
+      "text": "通过新时间线上的两个全新人物，",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3562,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过新时间线上的两个全新任务。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 202.195,
+      "end": 205.425,
+      "label": "mandarin",
+      "text": "打开了《唐探》系列的更多可能性。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打开了唐探系列的更多可能性。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 206.093,
+      "end": 211.01,
+      "label": "mandarin",
+      "text": "全新强大阵容的加入，为观众提供了十足新鲜感。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全新强大阵容的加入，为观众提供了十足新鲜感。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 211.01,
+      "end": 216.049,
+      "label": "mandarin",
+      "text": "剧情融入家国主题，更深化引发强烈共鸣。",
+      "score": 0.163,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0422,
+        "acoustic_dev": 0.107,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "剧情融入甲骨主题，更神话引发强烈共鸣。"
+      }
+    }
+  ]
+}

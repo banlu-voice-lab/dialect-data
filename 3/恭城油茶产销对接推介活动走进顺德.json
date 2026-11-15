@@ -1,0 +1,769 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "恭城油茶产销对接推介活动走进顺德.wav",
+  "duration": 193.943,
+  "no_dialect": false,
+  "created_at": "2026-10-26T09:51:05",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.837,
+      "end": 8.215,
+      "label": "mandarin",
+      "text": "接着我们再来看个好消息。为了进一步促进广城与佛山两地的美食文化交流，",
+      "score": 0.2573,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2529,
+        "acoustic_dev": 0.33,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接东，再来看一个好消息。为了进一步促进工程与佛山两地的美食文化交流。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.215,
+      "end": 10.65,
+      "label": "mandarin",
+      "text": "推广广城油茶品牌，",
+      "score": 0.3107,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.286,
+        "acoustic_dev": 0.378,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推广工程油茶品牌。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.65,
+      "end": 20.858,
+      "label": "mandarin",
+      "text": "前几天，二零二四年世界非遗广城油茶走进粤港澳大湾区产销对接推介活动来到了顺德。",
+      "score": 0.1018,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0122,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.135,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "咧",
+        "text_free": "前几天咧，二零二四年世界非遗工程游车走进粤港澳大湾区产销对接推介活动，来到了顺德。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 20.858,
+      "end": 23.252,
+      "label": "guilin",
+      "text": "我们一起去现场看下子。",
+      "score": 0.5657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8886,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们一起去现场看一下子。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.725,
+      "end": 30.191,
+      "label": "mandarin",
+      "text": "在推介活动现场，瑶族同胞们在现场挑起极具特色的瑶族歌舞，",
+      "score": 0.1381,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0679,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在推介活动现场，耀祖同胞们在现场跳起极具特色的耀祖国舞。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 30.191,
+      "end": 37.113,
+      "label": "mandarin",
+      "text": "气氛热烈。油茶制作非遗传承人和宣传大使们不停地吹打各种的茶叶，",
+      "score": 0.0579,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0597,
+        "acoustic_dev": 0.051,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "气氛热烈。油茶制作非遗传承人和宣传大师们，不停地捶打各种的茶叶。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 37.433,
+      "end": 41.296,
+      "label": "mandarin",
+      "text": "一阵阵油茶香味弥漫整个展厅。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一阵阵油茶香味弥漫整个展厅。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 41.376,
+      "end": 43.808,
+      "label": "guilin",
+      "text": "宾客们驻足品尝体验。",
+      "score": 0.6657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6977,
+        "acoustic_dev": 0.972,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宾客们逐组拼场提帘。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 43.902,
+      "end": 46.418,
+      "label": "guilin",
+      "text": "有这样的味道，还有那",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.8137,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有姜的味道，还有奶。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 47.848,
+      "end": 50.706,
+      "label": "uncertain",
+      "text": "个，喝进去非常甘甜。喝了好多次了，",
+      "score": 0.4451,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5736,
+        "acoustic_dev": 0.793,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "喝进去非常甘甜，喝了好多次了。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 50.706,
+      "end": 55.4,
+      "label": "guilin",
+      "text": "每次都要喝这个。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.9842,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "每一次到广西兜兜转转。我。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 55.4,
+      "end": 62.834,
+      "label": "mandarin",
+      "text": "这次交流推介会吸引了八十多家企业参加。",
+      "score": 0.2519,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1468,
+        "acoustic_dev": 0.177,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不冷的天气，晚上一晚真的很舒服，暖暖的。此次交流推介会吸引了八十多家企业参加。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 63.115,
+      "end": 69.724,
+      "label": "mandarin",
+      "text": "在交流推介环节当中，油茶企业纷纷上台将自己的产品介绍给大家。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在交流推介环节当中，油茶企业纷纷上台，将自己的产品介绍给大家。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 70.019,
+      "end": 75.18,
+      "label": "mandarin",
+      "text": "同时，九家企业与广东餐饮企业旅行社进行签约，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，九家企业与广东餐饮企业旅行社进行签约。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 75.507,
+      "end": 78.18,
+      "label": "mandarin",
+      "text": "签约金额达到八千万元。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "签约金额达到八千万元。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 78.18,
+      "end": 81.988,
+      "label": "mandarin",
+      "text": "我们今天呢，也跟顺德当地的一个美食企业，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们今天呢，也跟顺德当地的一个美食企业。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 81.988,
+      "end": 86.29,
+      "label": "uncertain",
+      "text": "然后签签订了一个合作协议。",
+      "score": 0.3808,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3185,
+        "acoustic_dev": 0.425,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后签签订了一个合作协议，这对我们企业来说。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 86.29,
+      "end": 88.92,
+      "label": "guilin",
+      "text": "这对我们企业来说的话，也是非常不错的一个发展前景。",
+      "score": 0.6591,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1441,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.304,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "说的话也是非常不错的一个发展前景。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 88.92,
+      "end": 95.607,
+      "label": "mandarin",
+      "text": "更主要的是，让我们的一个广城油茶通过顺德美食之都传递世界，",
+      "score": 0.0463,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0411,
+        "acoustic_dev": 0.024,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更主要的是，让我们的一个工程油茶通过顺德美食之都传递世界。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 95.607,
+      "end": 98.946,
+      "label": "mandarin",
+      "text": "让世界爱上广城油茶。",
+      "score": 0.1652,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0314,
+        "acoustic_dev": 0.01,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让世界爱上工程油茶。工程油茶。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 98.946,
+      "end": 102.084,
+      "label": "mandarin",
+      "text": "广城油茶起源于唐代，盛行于宋代，",
+      "score": 0.1306,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它起源于唐代，盛行于宋代。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 102.256,
+      "end": 105.238,
+      "label": "mandarin",
+      "text": "形成了独具一格的油茶文化。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "形成了独具一格的油茶文化。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 105.423,
+      "end": 109.582,
+      "label": "mandarin",
+      "text": "近年来，广城油茶发展势头良好，成效明显。",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，工程油茶发展势头良好，成效明显。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 109.95,
+      "end": 114.107,
+      "label": "mandarin",
+      "text": "广城油茶注册为国家地理标志证明商标。",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "工程油茶注册为国家地理标志证明商标。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 114.368,
+      "end": 124.373,
+      "label": "mandarin",
+      "text": "二零二二年十一月，瑶族油茶技术被联合国教科文组织列入了人类非物质文化遗产代表作名录。",
+      "score": 0.1229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "术/俗",
+        "lexicon": "",
+        "text_free": "二零二二年十一月，瑶族油茶习俗被联合国教科文组织列入了人类非物质文化遗产代表作名录。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 124.707,
+      "end": 130.183,
+      "label": "mandarin",
+      "text": "二零二四年，全县油茶原辅料种植面积大概二十四万亩，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0167,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二四年，全县油茶原辅料种植面积大概二十四万亩。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 130.422,
+      "end": 132.935,
+      "label": "mandarin",
+      "text": "产量超过十五万吨。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产量超过十五万吨。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 133.235,
+      "end": 139.651,
+      "label": "mandarin",
+      "text": "目前，县内已经有六家工厂化生产广城油茶的加工企业，",
+      "score": 0.0398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0079,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，县内已经有六家工厂化生产工程油茶的加工企业。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 139.942,
+      "end": 142.331,
+      "label": "mandarin",
+      "text": "两百多家辅料加工作坊。",
+      "score": 0.1034,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1621,
+        "acoustic_dev": 0.199,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "两百多家辅料加工作坊。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 142.677,
+      "end": 151.268,
+      "label": "mandarin",
+      "text": "根据初步统计，在桂林全市以经营广城油茶为主门店达到一千八百多家，",
+      "score": 0.1723,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1727,
+        "acoustic_dev": 0.214,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据初步统计，在桂林全市以经营工程油漆为主的门店达到一千八百多家。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 151.525,
+      "end": 154.338,
+      "label": "mandarin",
+      "text": "营业收入超过四十个亿。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "营业收入超过四十个亿。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 154.718,
+      "end": 157.457,
+      "label": "mandarin",
+      "text": "此次推介活动的成功举办，",
+      "score": 0.0429,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0816,
+        "acoustic_dev": 0.083,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此次推介活动的成功举办。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 157.457,
+      "end": 162.592,
+      "label": "mandarin",
+      "text": "不仅促进了广城与顺德两地的美食文化交流与合作，",
+      "score": 0.0416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0147,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅促进了工程与顺德两地的美食文化交流与合作。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 162.592,
+      "end": 168.068,
+      "label": "mandarin",
+      "text": "也为推动两地餐饮产业的繁荣发展注入了新的活力。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也为推动两地餐饮产业的繁荣发展注入了新的活力。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 168.068,
+      "end": 171.451,
+      "label": "mandarin",
+      "text": "你们这次进来呢，呃，给我们大开眼界，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "你们这次进来呢，呃，给我们大开眼界。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 171.724,
+      "end": 176.12,
+      "label": "mandarin",
+      "text": "呃，让我们看到广西这个非遗这个产品，",
+      "score": 0.0752,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0866,
+        "acoustic_dev": 0.09,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，让到我们看到广西这个非遗这个产品。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 176.355,
+      "end": 179.724,
+      "label": "mandarin",
+      "text": "啊，希望我们呢以后。多点沟通合作，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.068,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，希望我们呢以后多点沟通合作。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 179.83,
+      "end": 184.253,
+      "label": "mandarin",
+      "text": "我们继续要，呃，继续那个沟通交流，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们继续要，呃，继续那个沟通交流。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 184.604,
+      "end": 187.004,
+      "label": "mandarin",
+      "text": "呃，看看有哪方面我们互补，",
+      "score": 0.0846,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1371,
+        "acoustic_dev": 0.163,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，看看有哪方面我们互补。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 187.564,
+      "end": 193.943,
+      "label": "mandarin",
+      "text": "啊，达到我们共同那个把那个产品啊销到我们顺德来。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0175,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，达到我们共同那个把那个产品，啊销到我们顺德来。"
+      }
+    }
+  ]
+}

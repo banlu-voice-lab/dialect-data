@@ -1,0 +1,826 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "漓江声乐艺术团_歌声迎接新年 开启美好序幕.wav",
+  "duration": 189.485,
+  "no_dialect": false,
+  "created_at": "2026-10-26T11:20:28",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.711,
+      "end": 5.58,
+      "label": "mandarin",
+      "text": "后天就是二零二五年了，在新年即将到来之际，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "后天就是二零二五年了，在新年即将到来之际。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.58,
+      "end": 9.604,
+      "label": "uncertain",
+      "text": "桂林漓江声乐艺术团举办了迎新年义会，",
+      "score": 0.5322,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4728,
+        "acoustic_dev": 0.573,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.6,
+        "phon_examples": "年/涟 新/杏 迎/银",
+        "lexicon": "",
+        "text_free": "桂林漓江声乐艺术团举办了《银杏涟漪飞》。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.816,
+      "end": 12.135,
+      "label": "guilin",
+      "text": "用歌声迎接新年，",
+      "score": 0.5603,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6725,
+        "acoustic_dev": 0.826,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用歌声迎接新的一年。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.165,
+      "end": 15.224,
+      "label": "mandarin",
+      "text": "用音乐传递美好祝福。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用音乐传递美好祝福。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 30.531,
+      "end": 36.91,
+      "label": "guilin",
+      "text": "当天，艺术团成员们以分声合唱讨发开了拉开了活动序幕，",
+      "score": 0.6266,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.729,
+        "acoustic_dev": 0.898,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "声/身",
+        "lexicon": "",
+        "text_free": "当天，艺术团成员们以“分身合唱，桃花开了”拉开了活动的序幕。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 37.164,
+      "end": 41.536,
+      "label": "mandarin",
+      "text": "大家用自己的热情和歌声温暖着整个会场。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0049,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家用自己的热情和歌声温暖着整个非常。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 41.812,
+      "end": 44.337,
+      "label": "guilin",
+      "text": "此后，男声、女声合唱、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4649,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "随后，男生女生合唱。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 44.337,
+      "end": 50.635,
+      "label": "mandarin",
+      "text": "独唱、舞蹈、诗歌朗诵等一系列精心编排的节目轮番上演，",
+      "score": 0.0421,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0258,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "杜昌舞蹈诗歌朗诵等一系列精心编排的节目，轮番上演。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 50.906,
+      "end": 56.604,
+      "label": "mandarin",
+      "text": "展现了大家的多才多艺以及对家乡对艺术的热爱。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "展现出了大家的多才多艺，以及对家乡、对艺术的热爱。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 56.901,
+      "end": 60.089,
+      "label": "mandarin",
+      "text": "尽管合唱团成员并非专业出身，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "尽管合唱团成员并非专业出身。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 60.301,
+      "end": 62.697,
+      "label": "mandarin",
+      "text": "但是通过不断的学习培训，",
+      "score": 0.2568,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4109,
+        "acoustic_dev": 0.494,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是，通过不断的学习培训。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 62.795,
+      "end": 66.029,
+      "label": "mandarin",
+      "text": "大家已经掌握了一定的音乐技巧，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家已经掌握了一定的音乐技巧。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 66.186,
+      "end": 70.857,
+      "label": "mandarin",
+      "text": "并且能够以最美的歌声为新年献上祝福。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0223,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并且能够以最美的歌声为新年献上祝福。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 70.857,
+      "end": 73.453,
+      "label": "mandarin",
+      "text": "我加入艺术团有几年时间了，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我加入艺术团有几年时间了。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 73.85,
+      "end": 77.442,
+      "label": "mandarin",
+      "text": "团里经常会举办今天这样的音乐交流活动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "团里经常会举办今天这样的音乐交流活动。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 77.738,
+      "end": 81.514,
+      "label": "mandarin",
+      "text": "不仅给我们提供了一个展示风采的舞台，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0183,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅给我们提供了一个展示风采的舞台。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 81.778,
+      "end": 85.371,
+      "label": "mandarin",
+      "text": "更是一次与大家共同交流学习的机会。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是一次与大家共同交流学习的机会。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 85.599,
+      "end": 90.388,
+      "label": "mandarin",
+      "text": "现在我的声乐水平和舞台经验都得到了很大的提升。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在我的声乐水平和舞台经验都得到了很大的提升。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 90.388,
+      "end": 92.845,
+      "label": "mandarin",
+      "text": "加入漓江声乐艺术团后，",
+      "score": 0.0738,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.134,
+        "acoustic_dev": 0.142,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加入漓江声乐艺术团后。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 92.9,
+      "end": 95.285,
+      "label": "mandarin",
+      "text": "我深刻感受到声乐之美，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我深刻感受到声乐之美。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.754,
+      "end": 99.58,
+      "label": "guilin",
+      "text": "不仅学习了很多刘海喜老师创作的歌曲，",
+      "score": 0.5738,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8282,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不仅学习了很多韦海西老师创作的歌曲。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 99.947,
+      "end": 102.644,
+      "label": "mandarin",
+      "text": "也在一次次学习和排练中，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也在一次次学习和排练中。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 102.684,
+      "end": 105.575,
+      "label": "mandarin",
+      "text": "使我的声乐修养得到提高，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "使我的声乐修养得到提高。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 105.955,
+      "end": 109.258,
+      "label": "mandarin",
+      "text": "让我更加热爱唱歌、热爱音乐。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让我更加热爱唱歌，热爱音乐。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 109.312,
+      "end": 114.598,
+      "label": "uncertain",
+      "text": "这次迎新年义会还特别邀请了好多音乐爱好者参与，",
+      "score": 0.4716,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4588,
+        "acoustic_dev": 0.555,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.75,
+        "phon_examples": "年/联 新/星 迎/银",
+        "lexicon": "",
+        "text_free": "这次银星联谊会还特别邀请了好多音乐爱好者参与。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 114.809,
+      "end": 119.148,
+      "label": "mandarin",
+      "text": "音乐让大家聚在一起，相互交流、相互学习，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "音乐让大家聚在一起，相互交流，相互学习。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 119.394,
+      "end": 122.094,
+      "label": "mandarin",
+      "text": "共同促进合唱艺术发展。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同租金，合唱艺术发展。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 122.094,
+      "end": 125.924,
+      "label": "guilin",
+      "text": "漓江声乐团自创节目比较多，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2077,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "丽江，生意之团自创的节目比较多。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 126.767,
+      "end": 130.097,
+      "label": "uncertain",
+      "text": "桂林的地方特色的文化比较多，",
+      "score": 0.4693,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7323,
+        "acoustic_dev": 0.902,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林的地方特色的文化比较多。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 130.202,
+      "end": 132.963,
+      "label": "mandarin",
+      "text": "这点是值得我们学习的。在今后",
+      "score": 0.0427,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0337,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这点是值得我们学习的。到今后。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 133.638,
+      "end": 137.244,
+      "label": "mandarin",
+      "text": "在继续发展方面，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在继续发展方面。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 137.244,
+      "end": 140.898,
+      "label": "uncertain",
+      "text": "我希望也可能我们能够互相",
+      "score": 0.4128,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6469,
+        "acoustic_dev": 0.794,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我希望，也可能我们能够互相。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 140.898,
+      "end": 145.655,
+      "label": "mandarin",
+      "text": "合作一下，比方说，呃，把你们那些优秀的",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "合作一下，比方说，呃，把你们那些优秀的。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 145.761,
+      "end": 149.106,
+      "label": "uncertain",
+      "text": "创作节目融合到我们团来，",
+      "score": 0.4098,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5794,
+        "acoustic_dev": 0.708,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创作节目，融入到我们团来。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 149.161,
+      "end": 151.539,
+      "label": "mandarin",
+      "text": "我们联合起来搞，大家互补一下，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们联合起来搞，大家互补一下。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 151.679,
+      "end": 155.573,
+      "label": "mandarin",
+      "text": "呃，强强联手，那我们节目可能就会更加好一些。",
+      "score": 0.0326,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0352,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，强强联手，那么我们节目可能就会更加好一些。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 155.748,
+      "end": 162.737,
+      "label": "mandarin",
+      "text": "据了解，桂林漓江声乐艺术团一直致力于桂北民族音乐的传承与发扬，",
+      "score": 0.0158,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，桂林漓江声乐艺术团一直致力于桂北民族音乐的传承与发扬。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 163.056,
+      "end": 167.384,
+      "label": "mandarin",
+      "text": "创作出了一系列具有桂北风情的合唱作品，",
+      "score": 0.0786,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0644,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创作出了一系列具有瑰博风情的合唱作品。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 167.685,
+      "end": 170.018,
+      "label": "guilin",
+      "text": "并且登上过国际舞台。",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3739,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并且带上了国际舞台。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 170.265,
+      "end": 176.731,
+      "label": "mandarin",
+      "text": "此次活动的开展，为漓江声乐艺术团在新年开启了美好的序幕。",
+      "score": 0.1046,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1008,
+        "acoustic_dev": 0.1,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此次活动的开展，为丽江声乐艺术团在新的一年开启了美好的序幕。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 176.978,
+      "end": 182.229,
+      "label": "mandarin",
+      "text": "未来的日子里，艺术团将继续致力于推广和发展声乐艺术，",
+      "score": 0.2478,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3396,
+        "acoustic_dev": 0.403,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "未来的艺子的艺术团将继续致力于推广和发展声乐艺术。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 182.502,
+      "end": 185.086,
+      "label": "uncertain",
+      "text": "为更多的人。带来美丽享受，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.292,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为更多的人带来美丽享受。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 185.297,
+      "end": 189.485,
+      "label": "mandarin",
+      "text": "为桂林的文化艺术事业贡献力量。",
+      "score": 0.0637,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1187,
+        "acoustic_dev": 0.123,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为桂林的文化艺术事业贡献力量。"
+      }
+    }
+  ]
+}

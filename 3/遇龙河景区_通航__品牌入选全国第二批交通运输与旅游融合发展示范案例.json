@@ -1,0 +1,503 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "遇龙河景区_通航__品牌入选全国第二批交通运输与旅游融合发展示范案例.wav",
+  "duration": 122.694,
+  "no_dialect": false,
+  "created_at": "2026-10-26T12:11:10",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.024,
+      "end": 3.608,
+      "label": "mandarin",
+      "text": "接着，我们再来关注另外一个喜讯。",
+      "score": 0.1874,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1446,
+        "acoustic_dev": 0.172,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接通，再来关注另外一个喜讯。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.784,
+      "end": 8.524,
+      "label": "mandarin",
+      "text": "前两天，文化和旅游部、交通运输部、国家铁路局、",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0245,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前两天，文发或旅游部、交通运输部、国家铁路局。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.667,
+      "end": 11.74,
+      "label": "mandarin",
+      "text": "中国民用航空局、国家邮政局、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0339,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "中国民用航空局、国家邮政局。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.989,
+      "end": 19.809,
+      "label": "mandarin",
+      "text": "国铁集团共同遴选并公布了第二批交通运输与旅游融合发展示范案例名单。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "国铁集团共同遴选并公布了第二批交通运输与旅游融合发展示范案例名单。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.102,
+      "end": 26.216,
+      "label": "guilin",
+      "text": "我们阳朔遇龙河景区“通航家”品牌案例成功是入选了，",
+      "score": 0.5823,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6293,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们阳朔玉龙河景区同行家品牌案例成功是入选了。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.216,
+      "end": 29.37,
+      "label": "mandarin",
+      "text": "成为了广西唯一入选的案例。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为了广西唯一入选的案例。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.73,
+      "end": 34.785,
+      "label": "mandarin",
+      "text": "遇龙河景区“通航家”品牌案例的类型为航空旅游产品。",
+      "score": 0.1821,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1541,
+        "acoustic_dev": 0.19,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "玉龙火景区同行家品牌案例的类型为航空旅游产品。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.088,
+      "end": 37.958,
+      "label": "mandarin",
+      "text": "近年来，桂林依托丰富旅游资源，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，桂林依托丰富旅游资源。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.958,
+      "end": 41.487,
+      "label": "mandarin",
+      "text": "以满足多样化新型消费需求为目标，",
+      "score": 0.175,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2293,
+        "acoustic_dev": 0.337,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以满足多样化新型消费需求为目标。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.827,
+      "end": 45.813,
+      "label": "uncertain",
+      "text": "在阳朔遇龙河景区大力扶持“通航家”旅游、",
+      "score": 0.5416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5125,
+        "acoustic_dev": 0.886,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在阳朔玉龙河景区大力扶持同行家旅游。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 45.813,
+      "end": 51.075,
+      "label": "mandarin",
+      "text": "通航家运动产业，积极打造中国最佳低空旅游目的地。",
+      "score": 0.0623,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0125,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同行加运动产业，积极打造中国最佳低空旅游目的地。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 51.544,
+      "end": 57.465,
+      "label": "mandarin",
+      "text": "当前，阳朔遇龙河沿岸多家通航公司从事航空飞行和航空运动，",
+      "score": 0.1761,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1086,
+        "acoustic_dev": 0.102,
+        "seg_cer": 0.269,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当前，洋朔羽龙和延安多家同行公司从事航空飞行和航空运动。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.738,
+      "end": 59.868,
+      "label": "mandarin",
+      "text": "并建有直升飞机场、",
+      "score": 0.011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0669,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并建有直升飞机场。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 60.116,
+      "end": 63.59,
+      "label": "guilin",
+      "text": "空中游览基地和空中运动基地，",
+      "score": 0.5552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0668,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "空中游览基地或空中运动基地。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.912,
+      "end": 68.694,
+      "label": "mandarin",
+      "text": "逐步建立起连接景区度假区、主题公园等旅游目的地，",
+      "score": 0.0736,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.129,
+        "acoustic_dev": 0.142,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "逐步建立起连接景区、度假区、主题公园等旅游目的地。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 69.136,
+      "end": 72.442,
+      "label": "mandarin",
+      "text": "包含直升机飞行、热气球自由飞、",
+      "score": 0.1365,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0867,
+        "acoustic_dev": 0.06,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "包含直升机飞行，也去求自由飞。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.442,
+      "end": 78.006,
+      "label": "mandarin",
+      "text": "溪流观光、动力滑翔伞运动等多种类产品的低空旅游格局。",
+      "score": 0.1405,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0552,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "伞/山",
+        "lexicon": "",
+        "text_free": "溪流观光、动力发向山运动等多种类产品，的低空旅游格局。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 78.232,
+      "end": 83.179,
+      "label": "mandarin",
+      "text": "低空经济的发展带动了当地交通、商业、住宿等产业发展，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "低空经济的发展带动了当地交通、商业、住宿等产业发展。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 83.492,
+      "end": 86.549,
+      "label": "mandarin",
+      "text": "成为阳朔县经济发展新的增长点。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0182,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "成为阳朔县经济发展新的增长点。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 86.93,
+      "end": 95.219,
+      "label": "mandarin",
+      "text": "据悉，第二批交通运输与旅游融合发展示范案例在全国范围内遴选了六十八个，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "据悉，第二批交通运输与旅游融合发展示范案例在全国范围内遴选了六十八个。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.362,
+      "end": 100.752,
+      "label": "mandarin",
+      "text": "旨在推出一批对区域旅游业发展基础性支撑作用明显、",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0776,
+        "acoustic_dev": 0.042,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "旨在推出一批对区域旅游业发展基础性支撑作用明显。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 101.064,
+      "end": 103.927,
+      "label": "uncertain",
+      "text": "旅游资源富集、产品知名度高、",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8501,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "旅游资源富集，产品知名度高。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 104.184,
+      "end": 109.512,
+      "label": "mandarin",
+      "text": "交通设施旅游服务功能突出的标志性交旅融合成果，",
+      "score": 0.0216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0569,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "交通设施旅游服务功能突出的标志性交流融合成果。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 109.843,
+      "end": 113.403,
+      "label": "mandarin",
+      "text": "形成一批可复制、可推广的好经验、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "形成一批可复制、可推广的好经验。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 113.403,
+      "end": 117.473,
+      "label": "mandarin",
+      "text": "好模式、好做法，充分发挥示范引导功能，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.02,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "好模式，好走法，充分发挥示范引导功能。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 117.632,
+      "end": 122.694,
+      "label": "mandarin",
+      "text": "进一步推进交通运输与旅游深度融合和创新发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0094,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进一步推进交通运输与旅游深度融合和创新发展。"
+      }
+    }
+  ]
+}

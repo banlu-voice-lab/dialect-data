@@ -1,0 +1,1206 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "桂林__无废城市_建设助力绿色生态可持续发展.wav",
+  "duration": 278.382,
+  "no_dialect": false,
+  "created_at": "2026-10-26T10:35:53",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.36,
+      "label": "mandarin",
+      "text": "今天，我们首先来关注一下我们桂林的城市建设。",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天啊，我们首先来关注一下我们桂林的城市建设。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.703,
+      "end": 12.697,
+      "label": "mandarin",
+      "text": "我市从二零二二年的四月份被列入了国家“十四五”无废城市建设百城名单以来，",
+      "score": 0.2789,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1628,
+        "acoustic_dev": 0.211,
+        "seg_cer": 0.152,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "四/十 十/四",
+        "lexicon": "",
+        "text_free": "我是从二零二二年的四月份被列入了国家四十五无非城市建设白城名单以来。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.881,
+      "end": 16.406,
+      "label": "mandarin",
+      "text": "紧紧围绕打造世界级旅游城市目标，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "紧紧围绕打造世界级旅游城市目标。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.566,
+      "end": 20.748,
+      "label": "mandarin",
+      "text": "高起点、高标准、高质量推出无废城市建设，",
+      "score": 0.1766,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1788,
+        "acoustic_dev": 0.236,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高起点、高标准、高质量推出五费城市建设。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.971,
+      "end": 24.469,
+      "label": "mandarin",
+      "text": "打造绿色低碳无废旅游城市样板，",
+      "score": 0.0906,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1398,
+        "acoustic_dev": 0.174,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造绿色低碳、无废旅游城市样板。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.682,
+      "end": 30.36,
+      "label": "mandarin",
+      "text": "以系列成果加速推动城市绿色生态可持续发展。",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一系列成果加速推动城市绿色生态可持续发展。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 36.028,
+      "end": 42.131,
+      "label": "mandarin",
+      "text": "象鼻山作为桂林的城市名片，吸引着全国各地的游客前来打卡。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "香碧山作为桂林的城市名片，吸引着全国各地的游客前来打卡。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 42.491,
+      "end": 46.669,
+      "label": "mandarin",
+      "text": "作为我市首批无废细胞之一的象山景区，",
+      "score": 0.1126,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1338,
+        "acoustic_dev": 0.165,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为我市首批无废细胞之一的香山景区。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 46.937,
+      "end": 51.17,
+      "label": "mandarin",
+      "text": "不仅全面推进门票无纸化、实行垃圾分类，",
+      "score": 0.3736,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2841,
+        "acoustic_dev": 0.403,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "纸/字",
+        "lexicon": "",
+        "text_free": "不仅全面推进门票五字法，实行垃圾分类。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 51.404,
+      "end": 55.635,
+      "label": "mandarin",
+      "text": "还通过各种形式向市民游客传播无废理念。",
+      "score": 0.1656,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0371,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "念/廉",
+        "lexicon": "",
+        "text_free": "还通过各种形式向市民游客传播无非礼廉。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 55.855,
+      "end": 59.005,
+      "label": "mandarin",
+      "text": "目前，我市已经成功创建无废工厂、",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，我是已经成功创建无废工厂。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 59.126,
+      "end": 63.698,
+      "label": "mandarin",
+      "text": "无废旅游景区、无废校园等六十六个无废细胞，",
+      "score": 0.1444,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0275,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.316,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "五费旅游景区，五费校园等六十六个五费细胞。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 64.087,
+      "end": 70.811,
+      "label": "mandarin",
+      "text": "并以此为标杆，以点带面，向涉费生产生活的其他无废细胞铺开。",
+      "score": 0.0527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0156,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并以此为标杆，以点带面，向社会生产生活的其他无非细胞铺开。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 71.06,
+      "end": 74.217,
+      "label": "mandarin",
+      "text": "力争到二零二五年培育出工厂、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "力争到二零二五年培育出工厂。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 74.217,
+      "end": 76.505,
+      "label": "mandarin",
+      "text": "景区、学校、医院、",
+      "score": 0.2548,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.339,
+        "acoustic_dev": 0.49,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "景区、学校、医院。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 76.505,
+      "end": 78.836,
+      "label": "mandarin",
+      "text": "社区、酒店、商场、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0095,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "社区、酒店、商场。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 78.836,
+      "end": 82.155,
+      "label": "guilin",
+      "text": "民宿等不少于一百个无废细胞，",
+      "score": 0.6607,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7581,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "民俗灯不少于一百个，五费细胞。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 82.573,
+      "end": 84.825,
+      "label": "mandarin",
+      "text": "通过培育各类无废细胞，",
+      "score": 0.2443,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2153,
+        "acoustic_dev": 0.294,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过培育果类无胚细胞。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 84.825,
+      "end": 87.544,
+      "label": "guilin",
+      "text": "让无废理念融入百姓生活，",
+      "score": 0.6647,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5989,
+        "acoustic_dev": 0.902,
+        "seg_cer": 0.636,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "念/廉",
+        "lexicon": "",
+        "text_free": "养物费低廉，用于百姓生活。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 87.842,
+      "end": 91.415,
+      "label": "mandarin",
+      "text": "让无废城市建设惠及千家万户。",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让无非城市建设费及千家万户。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 91.659,
+      "end": 96.44,
+      "label": "mandarin",
+      "text": "近年来，市委市政府坚持走生态优先、绿色发展道路，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，市委市政府坚持走生态优先、绿色发展道路。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 96.44,
+      "end": 99.045,
+      "label": "guilin",
+      "text": "高度重视无废城市创建工作，",
+      "score": 0.5962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3282,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高度重视五肥城市创建工作。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 99.045,
+      "end": 104.551,
+      "label": "guilin",
+      "text": "将无废城市建设纳入桂林世界级旅游城市建设规划，",
+      "score": 0.6239,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7547,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将无非城市建设纳入桂林市级旅游城市建设发展规划。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 104.551,
+      "end": 112.386,
+      "label": "mandarin",
+      "text": "高标准统筹推进。相继制定出台了《桂林市无废细胞实施方案》及建设指南，《",
+      "score": 0.0823,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1112,
+        "acoustic_dev": 0.129,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高标准统筹推进，相继制定出台了《桂林市无非细胞实施方案》及建设指南。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 112.791,
+      "end": 123.287,
+      "label": "mandarin",
+      "text": "桂林市无废城市建设宣传方案》和《桂林市二零二四年无废城市建设工作要点及任务清单》等政策文件，",
+      "score": 0.0109,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0119,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.024,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林市无废城市建设宣传方案，或桂林市二零二四年无废城市建设工作要点及任务清单等政策文件。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 123.557,
+      "end": 127.33,
+      "label": "mandarin",
+      "text": "不断完善我市无废城市建设机制体系，",
+      "score": 0.0763,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1223,
+        "acoustic_dev": 0.147,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断完善我市无废城市建设机制体系。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 127.697,
+      "end": 132.271,
+      "label": "mandarin",
+      "text": "明确无废城市建设工作的目标、抓手和任务，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0078,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "明确无非城市建设工作的目标、抓手和任务。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 132.599,
+      "end": 138.504,
+      "label": "mandarin",
+      "text": "扎实推进固废处理。工业方面，大力推进大宗工业固废整治，",
+      "score": 0.159,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0155,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "宗/众",
+        "lexicon": "扎实",
+        "text_free": "扎实推进固废处理。工业方面，大力推进大众工业固废整治。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 138.738,
+      "end": 141.102,
+      "label": "mandarin",
+      "text": "积极引导企业绿色化发展，",
+      "score": 0.1728,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.189,
+        "acoustic_dev": 0.252,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "积极引导企业绿色发展。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 141.361,
+      "end": 145.663,
+      "label": "mandarin",
+      "text": "实施十多个节能改造和固废综合利用项目，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0197,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实施十多个节能改造和固废综合利用项目。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 145.879,
+      "end": 149.062,
+      "label": "mandarin",
+      "text": "开展绿色制造示范试点建设，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0246,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "开展绿色制造示范试点建设。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 149.354,
+      "end": 151.956,
+      "label": "mandarin",
+      "text": "建成国家级绿色工厂十二家，",
+      "score": 0.1851,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2081,
+        "acoustic_dev": 0.283,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "建成国家级绿色工厂十家。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 152.175,
+      "end": 154.807,
+      "label": "mandarin",
+      "text": "自治区级绿色工厂三十一家，",
+      "score": 0.1115,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1651,
+        "acoustic_dev": 0.214,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自治区级绿色工厂三十一家。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 154.982,
+      "end": 157.159,
+      "label": "mandarin",
+      "text": "数量居广西前列。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "数量居广西前列。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 157.618,
+      "end": 161.151,
+      "label": "mandarin",
+      "text": "农业方面，推进农业固废资源化利用，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "农业方面，推进农业固废资源化利用。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 161.38,
+      "end": 163.732,
+      "label": "mandarin",
+      "text": "大力发展生态绿色农业，",
+      "score": 0.14,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大力发展生态绿色农业。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 163.732,
+      "end": 167.614,
+      "label": "guilin",
+      "text": "推广微生物降养殖新技术，",
+      "score": 0.5616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1599,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推广微生物加养殖新技术。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 167.892,
+      "end": 172.578,
+      "label": "mandarin",
+      "text": "深入推进秸秆和农业废弃物综合利用。",
+      "score": 0.0041,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0348,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "深入推进秸秆和农业废弃物综合利用。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 172.774,
+      "end": 176.321,
+      "label": "mandarin",
+      "text": "在提升危险废物综合处理能力方面，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0117,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在提升危险废物综合处理能力方面。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 176.538,
+      "end": 182.025,
+      "label": "guilin",
+      "text": "我市推进小微企业和涉源危险废物收集试点工作。",
+      "score": 0.6071,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0418,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是推进小微企业和社会员危险废物收集试点工作。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 182.433,
+      "end": 186.619,
+      "label": "mandarin",
+      "text": "设危险废物企业全部实现信息化管理，",
+      "score": 0.0282,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.064,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "设危险废物企业全部实现信息化管理。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 186.936,
+      "end": 192.013,
+      "label": "mandarin",
+      "text": "在广西首国建成运行三座医疗废物集中处置设施，",
+      "score": 0.2204,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2708,
+        "acoustic_dev": 0.382,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在广西首个建成运行三座医疗废物集中处置设施。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 192.409,
+      "end": 195.134,
+      "label": "mandarin",
+      "text": "处置能力达到每天二十六吨，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "处置能力达到每天二十六吨。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 195.343,
+      "end": 198.517,
+      "label": "mandarin",
+      "text": "医疗废物无害化处置率达到百分之百，",
+      "score": 0.1142,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0991,
+        "acoustic_dev": 0.11,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "医疗废物无含法处置率达到百分之百。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 198.81,
+      "end": 201.832,
+      "label": "mandarin",
+      "text": "实现医疗危废处置全覆盖。",
+      "score": 0.0831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现医疗微非处置全覆盖。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 202.062,
+      "end": 204.581,
+      "label": "mandarin",
+      "text": "此外，从源头到终端，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此外，从源头到终端。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 204.826,
+      "end": 209.202,
+      "label": "uncertain",
+      "text": "我市全面推进生活垃圾分类与资源化利用，",
+      "score": 0.5454,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6763,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是全面推进生活垃圾分类与资源化利用。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 209.553,
+      "end": 215.445,
+      "label": "uncertain",
+      "text": "城市居民小区生活垃圾分类设施宣传覆盖率达到百分之百，",
+      "score": 0.418,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5148,
+        "acoustic_dev": 0.769,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "城市居民小区生活垃圾分类设置，宣传覆盖率达到百分之百。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 215.695,
+      "end": 220.63,
+      "label": "mandarin",
+      "text": "农村生活垃圾收运处置体系覆盖率达到百分之九十八，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "农村生活垃圾收运处置体系覆盖率达到百分之九十八。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 221.036,
+      "end": 224.171,
+      "label": "uncertain",
+      "text": "公共机构垃圾分类指数保持百分之百，",
+      "score": 0.5486,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9424,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "公共机构垃圾分类次数保持百分之百。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 224.458,
+      "end": 229.597,
+      "label": "mandarin",
+      "text": "生活垃圾焚烧处理能力提升到每天两千五百吨，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "生活垃圾焚烧处理能力提升到每天两千五百吨。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 229.898,
+      "end": 232.891,
+      "label": "mandarin",
+      "text": "年焚烧处理垃圾七十万吨以上，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "年焚烧处理垃圾七十万吨以上。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 233.14,
+      "end": 236.174,
+      "label": "mandarin",
+      "text": "发电量近三点二亿千瓦时，",
+      "score": 0.2576,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.292,
+        "acoustic_dev": 0.416,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发电量近三点二一千瓦时。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 236.174,
+      "end": 240.663,
+      "label": "mandarin",
+      "text": "生活垃圾资源化利用达到了百分之八十五点六五。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "生活垃圾资源化利用率达到了百分之八十五点六五。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 241.04,
+      "end": 246.297,
+      "label": "mandarin",
+      "text": "二零二五年，我市将技术围绕打造世界级旅游城市的重要目标，",
+      "score": 0.0703,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0298,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二五年，我市将技术为要打造世界级旅游城市的一种目标。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 246.484,
+      "end": 249.271,
+      "label": "mandarin",
+      "text": "积极开发低碳发展新模式，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0071,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "积极开发低碳发展新模式。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 249.548,
+      "end": 254.409,
+      "label": "mandarin",
+      "text": "探索开展低碳景区、低碳旅游路线等试点建设，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "探索开展低碳景区、低碳旅游路线等试点建设。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 254.789,
+      "end": 258.476,
+      "label": "mandarin",
+      "text": "打造具有国际影响力的无废旅游示范区，",
+      "score": 0.2502,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2681,
+        "acoustic_dev": 0.378,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造具有国际影响力的五肥旅游示范区。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 258.789,
+      "end": 264.064,
+      "label": "mandarin",
+      "text": "发挥好产业优势，积极开展现代化、标准化农业示范区建设，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.02,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发挥好产业优势，积极开展现代化、标准化农业示范区建设。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 264.253,
+      "end": 268.334,
+      "label": "mandarin",
+      "text": "争创一批国家级、自治区级现代农业产业园、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0123,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "争创一批国家级、自治区级现代农业产业园。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 268.334,
+      "end": 271.152,
+      "label": "mandarin",
+      "text": "科技园或特色农产品优势区，",
+      "score": 0.0093,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0411,
+        "acoustic_dev": 0.018,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "科技园或特色农产品优势区。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 271.465,
+      "end": 274.946,
+      "label": "mandarin",
+      "text": "更好地将资源优势转化为产品优势，",
+      "score": 0.0562,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.098,
+        "acoustic_dev": 0.108,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更好地将资源优势转化为产品优势。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 275.068,
+      "end": 278.382,
+      "label": "mandarin",
+      "text": "扎实推进无废城市建设各项工作。",
+      "score": 0.1028,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0664,
+        "acoustic_dev": 0.058,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "扎实",
+        "text_free": "扎实推进无非城市建设各项工作。"
+      }
+    }
+  ]
+}

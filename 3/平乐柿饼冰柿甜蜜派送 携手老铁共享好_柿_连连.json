@@ -1,0 +1,864 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "平乐柿饼冰柿甜蜜派送 携手老铁共享好_柿_连连.wav",
+  "duration": 210.933,
+  "no_dialect": false,
+  "created_at": "2026-10-26T09:39:24",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.398,
+      "end": 5.13,
+      "label": "mandarin",
+      "text": "前天，平罗士兵兵士跨越三千五百多公里，",
+      "score": 0.0125,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0406,
+        "acoustic_dev": 0.024,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前天，平罗士兵兵士跨越三千五百多公里。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.233,
+      "end": 9.116,
+      "label": "mandarin",
+      "text": "首站在哈尔滨的中央大街免费发放。",
+      "score": 0.2045,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0907,
+        "acoustic_dev": 0.084,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "站/杖",
+        "lexicon": "",
+        "text_free": "手杖在哈尔滨的中央大街免费发放。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.349,
+      "end": 16.287,
+      "label": "mandarin",
+      "text": "过往的市民游客纷纷享受到了这一份来自五桂林平罗的甜蜜大礼包。",
+      "score": 0.0513,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0269,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "过往的市民游客纷纷享受到了这一份来自我们桂林平乐的甜蜜大礼包。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 22.592,
+      "end": 26.816,
+      "label": "mandarin",
+      "text": "我现在是位于哈尔滨的著名打卡点中央大街上，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我现在是位于哈尔滨的著名打卡点——中央大街上。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 26.816,
+      "end": 32.302,
+      "label": "guilin",
+      "text": "我们的老铁老表一家亲桂林平罗士兵甜点新活动就在这里开始了。",
+      "score": 0.5713,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6161,
+        "acoustic_dev": 0.709,
+        "seg_cer": 0.321,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.222,
+        "phon_examples": "林/凌 亲/庆",
+        "lexicon": "",
+        "text_free": "我们的老铁老表易家庆、顾凌平、乐事饼甜在心活动就在这里开始了。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 32.302,
+      "end": 37.736,
+      "label": "mandarin",
+      "text": "我们可以看到现场排队来领取我们平罗士兵平罗士兵的人是非常的多。",
+      "score": 0.1896,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0967,
+        "acoustic_dev": 0.091,
+        "seg_cer": 0.233,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "平/频",
+        "lexicon": "",
+        "text_free": "我们可以看到现场排队来领取我们平乐冰视频乐饰品的人是非常的多。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 37.736,
+      "end": 41.701,
+      "label": "mandarin",
+      "text": "那么今天哈尔滨的户外气温是达到了零下二十度，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么今天哈尔滨的户外气温是达到了零下二十度。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 41.701,
+      "end": 46.428,
+      "label": "mandarin",
+      "text": "虽然说这个天气寒冷，但是东北老铁的热情点燃了全场。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "虽然说这个天气寒冷，但是东北老铁的热情点燃了全场。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 46.509,
+      "end": 56.092,
+      "label": "mandarin",
+      "text": "活动现场，迎头传统一拉非凡一盒盒包装精美的平罗士兵平罗兵士整齐的摆放在发放区。",
+      "score": 0.3675,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4167,
+        "acoustic_dev": 0.472,
+        "seg_cer": 0.189,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "士/丝",
+        "lexicon": "",
+        "text_free": "活动现场，迎头传统，热闹非凡。一盒盒包装精美的平罗柿饼、平罗饼丝整齐地摆放在发放区。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 56.455,
+      "end": 58.969,
+      "label": "mandarin",
+      "text": "哈尔滨市民们纷纷来到现场，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0203,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哈尔滨市民们纷纷来到现场。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 59.142,
+      "end": 62.559,
+      "label": "guilin",
+      "text": "有序排队领取这一份独特的甜品，",
+      "score": 0.5527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3649,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有序排队，领取这一份独特的甜蜜。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 62.883,
+      "end": 66.219,
+      "label": "guilin",
+      "text": "代表着平罗人民热情和友谊的大礼包，",
+      "score": 0.6303,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.753,
+        "acoustic_dev": 0.872,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "民/名",
+        "lexicon": "",
+        "text_free": "代表着评论一名热情和友谊的大礼包。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 66.219,
+      "end": 68.567,
+      "label": "mandarin",
+      "text": "陆续被送到老铁手中。",
+      "score": 0.1016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "路叔被送到老铁手中。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 68.567,
+      "end": 71.331,
+      "label": "mandarin",
+      "text": "很精致，它外面的这个皮",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很精致，它外面的这个皮。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 71.411,
+      "end": 74.52,
+      "label": "mandarin",
+      "text": "也是糯糯的，然后里面咬一口有沙冰。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是糯糯的，然后里面咬一口有沙冰。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 75.122,
+      "end": 77.792,
+      "label": "uncertain",
+      "text": "没尝的时候感觉它是一个甜品，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9319,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "没尝的时候，感觉它是一个甜品。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 77.959,
+      "end": 80.731,
+      "label": "mandarin",
+      "text": "然后尝了以后感觉反正挺好吃的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后尝了以后，感觉反正挺好吃的。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 80.949,
+      "end": 86.041,
+      "label": "mandarin",
+      "text": "它不像那种新鲜的，但是它其实是新鲜冰冻的那种感觉。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它不像那种新鲜的，但是它其实是新鲜冰冻的那种感觉。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 86.041,
+      "end": 91.229,
+      "label": "mandarin",
+      "text": "我第一次吃这个，挺不错的。我刚到哈尔滨就给我这么大一个惊喜。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我第一次吃这个，挺不错的。我刚到哈尔滨，就给我这么大一个惊喜。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 91.705,
+      "end": 98.704,
+      "label": "mandarin",
+      "text": "当天，沈阳路地德利北段社区的居民也围坐一起，分享这一份好事连连。",
+      "score": 0.048,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0214,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当天，咸阳路帝德里北段社区的居民也围坐一起，分享这一份好事连连。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 98.948,
+      "end": 103.812,
+      "label": "mandarin",
+      "text": "好多居民表示这是他们第一次品尝到平罗士兵和兵士，",
+      "score": 0.2088,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1282,
+        "acoustic_dev": 0.128,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "士/丝",
+        "lexicon": "",
+        "text_free": "好多居民表示：“这是他们第一次品尝到平罗柿饼和饼丝。”"
+      }
+    },
+    {
+      "id": 22,
+      "start": 104.034,
+      "end": 112.94,
+      "label": "mandarin",
+      "text": "口感独特而且美味，并且表示将向身边的亲朋好友推荐这一锅平罗特色农产品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0083,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "口感独特，而且美味，并且表示将向身边的亲朋好友推荐这一锅平罗特色农产品。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 113.251,
+      "end": 117.919,
+      "label": "mandarin",
+      "text": "并期待未来能够有更多的机会了解平罗、走进平罗。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0096,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并期待未来能够有更多的机会了解平罗，走进平罗。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 117.919,
+      "end": 121.32,
+      "label": "mandarin",
+      "text": "以前没有吃过，很好，确实也是好吃。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以前没有吃过，很好，确实也是好吃。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 121.61,
+      "end": 124.04,
+      "label": "guilin",
+      "text": "嗯，这种活动搞的很好，",
+      "score": 0.6216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0436,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，这种活动搞得很好。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 125.107,
+      "end": 128.224,
+      "label": "mandarin",
+      "text": "很好，非常开心。嗯，就是感谢你们，",
+      "score": 0.3155,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4163,
+        "acoustic_dev": 0.471,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非常开心，嗯，就是感谢你们。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 129.548,
+      "end": 133.255,
+      "label": "guilin",
+      "text": "给我们带来这么好品牌。我们没出",
+      "score": 0.7633,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.733,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "品/平",
+        "lexicon": "",
+        "text_free": "给我们搭这么好平台。我没出。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 133.461,
+      "end": 135.975,
+      "label": "guilin",
+      "text": "哈尔滨就抢过礼了，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.7447,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "哈尔滨，我们就上过岭了。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 135.975,
+      "end": 138.186,
+      "label": "mandarin",
+      "text": "吃的也特别好，特别开心。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0063,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吃的也特别好，特别开心。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 138.186,
+      "end": 141.171,
+      "label": "mandarin",
+      "text": "我都七十多岁了，第一次吃这么好的。",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我都七十多岁了，头一次骑这么好的。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 141.171,
+      "end": 145.641,
+      "label": "mandarin",
+      "text": "我吃的是最好、最最最好吃的吧。",
+      "score": 0.0002,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0207,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我吃的是最好、最最最好吃的吧。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 145.641,
+      "end": 150.69,
+      "label": "mandarin",
+      "text": "根据了解，此次发放的平罗士兵兵士一共有十万枚，",
+      "score": 0.2598,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1834,
+        "acoustic_dev": 0.194,
+        "seg_cer": 0.238,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "士/丝",
+        "lexicon": "",
+        "text_free": "根据了解，此次发放的平乐食品饼丝一共有十万枚。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 150.951,
+      "end": 156.139,
+      "label": "mandarin",
+      "text": "精心挑选打包以后，经过整整三天的时间运输到哈尔滨，",
+      "score": 0.2697,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2303,
+        "acoustic_dev": 0.25,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "心/行 精/进",
+        "lexicon": "",
+        "text_free": "进行挑选、打包以后，经过整整三天的时间运输到哈尔滨。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 156.458,
+      "end": 159.93,
+      "label": "uncertain",
+      "text": "陆续在哈尔滨市绥化市兰西县、",
+      "score": 0.4078,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3509,
+        "acoustic_dev": 0.394,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "兰/南",
+        "lexicon": "",
+        "text_free": "卢叔在哈尔滨市绥化市南溪县。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 160.121,
+      "end": 167.188,
+      "label": "mandarin",
+      "text": "大庆市肇源县以及齐齐哈尔市富裕县免费发放给市民朋友。",
+      "score": 0.0549,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0156,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大清市赵元县以及齐齐哈尔市富裕县免费发放给市民朋友。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 167.585,
+      "end": 172.11,
+      "label": "mandarin",
+      "text": "此次活动不仅让东北老铁品尝到了跨越千里的美味，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此次活动不仅让东北老铁品尝到了跨越千里的美味。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 172.341,
+      "end": 176.256,
+      "label": "mandarin",
+      "text": "更是加深了南北人民之间的沟通和交流，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更是加深了南北人民之间的沟通和交流。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 176.566,
+      "end": 179.962,
+      "label": "mandarin",
+      "text": "共同助推两地的经济发展与繁荣。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同助推两地的经济发展与繁荣。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 179.962,
+      "end": 183.606,
+      "label": "mandarin",
+      "text": "老铁老表一家亲活动是我们桂林平乐县",
+      "score": 0.0058,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0298,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老铁老表，一家亲活动是我们桂林平乐县。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 183.815,
+      "end": 188.263,
+      "label": "mandarin",
+      "text": "推出的一个南北两地互动交流的媒体活动，",
+      "score": 0.1577,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2341,
+        "acoustic_dev": 0.254,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推出了一个南北两地互动交流的媒体活动。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 188.33,
+      "end": 197.298,
+      "label": "mandarin",
+      "text": "已经连续开展了两年。主要目的啊是通过媒体搭建起南北两地产业互建和文化交流的平台，",
+      "score": 0.012,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0202,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.026,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "已经连续开展了两年，主要目的啊是通过媒体搭建起南北两地产业互鉴和文化交流的平台。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 197.653,
+      "end": 200.368,
+      "label": "mandarin",
+      "text": "服务两地的产业发展和乡村振兴。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "服务两地的产业发展和乡村振兴。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 200.743,
+      "end": 204.695,
+      "label": "mandarin",
+      "text": "今天我们带着平乐的市民和兵士跨越千里，",
+      "score": 0.1647,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2044,
+        "acoustic_dev": 0.219,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天我们带着平乐的士兵和兵士，跨越千里。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 204.941,
+      "end": 207.478,
+      "label": "mandarin",
+      "text": "与哈尔滨人民甜蜜相约，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "与哈尔滨人民甜蜜相约。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 207.547,
+      "end": 210.933,
+      "label": "mandarin",
+      "text": "传递桂林好事，收获南北情长。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "传递桂林好事，收获南北情长。"
+      }
+    }
+  ]
+}

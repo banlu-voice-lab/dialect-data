@@ -1,0 +1,598 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "龙脊梯田景区_农耕文化范本 梯田景观极致.wav",
+  "duration": 158.729,
+  "no_dialect": false,
+  "created_at": "2026-10-26T12:40:57",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.51,
+      "end": 5.504,
+      "label": "mandarin",
+      "text": "龙胜龙脊梯田景区是自然与人文历史的完美融合，",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0286,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙胜龙吉体验景区是自然与人文历史的完美融合。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.676,
+      "end": 11.364,
+      "label": "mandarin",
+      "text": "是旅行者探寻自然之美和体验少数民族文化的绝佳之地。",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0084,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是旅行者探寻自然之美或体验少数民族文化的绝佳之地。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.618,
+      "end": 18.294,
+      "label": "mandarin",
+      "text": "接下来，我们就去铺满金色波浪的龙脊梯田景区去耍一下子。",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0404,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "耍",
+        "text_free": "接下来，我们就去铺满金色波浪的龙脊梯田景区，去耍一下子。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.791,
+      "end": 23.351,
+      "label": "mandarin",
+      "text": "根据记载，龙脊梯田始建于清朝，完工于明朝，",
+      "score": 0.1254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "清/秦",
+        "lexicon": "",
+        "text_free": "根据记载，龙脊梯田始建于秦朝，完工于明朝。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.497,
+      "end": 26.557,
+      "label": "mandarin",
+      "text": "距今已经有两千三百多年的历史。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "距今已经有两千三百多年的历史。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.905,
+      "end": 29.612,
+      "label": "mandarin",
+      "text": "龙脊梯田一共有三大观景区，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0194,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙脊梯田一共有三大观景区。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.777,
+      "end": 32.599,
+      "label": "uncertain",
+      "text": "分别为平安壮族梯田观景区、",
+      "score": 0.5304,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3207,
+        "acoustic_dev": 0.592,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "族/主",
+        "lexicon": "",
+        "text_free": "分别为平安庄主题田园风景区。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.802,
+      "end": 35.298,
+      "label": "mandarin",
+      "text": "金坑大寨红瑶梯田观景区、",
+      "score": 0.098,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.096,
+        "acoustic_dev": 0.109,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "金坑大寨红窑梯田观景区。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.481,
+      "end": 38.748,
+      "label": "mandarin",
+      "text": "龙脊古壮寨梯田文化观景区。",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0272,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "龙吉古庄寨，梯田文化观景区。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.147,
+      "end": 43.923,
+      "label": "mandarin",
+      "text": "平安壮族梯田观景区是最早开发的一个观景区，",
+      "score": 0.1519,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0176,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "族/主",
+        "lexicon": "",
+        "text_free": "平安庄主题田观景区是最早开发的一个观景区。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.201,
+      "end": 47.225,
+      "label": "guilin",
+      "text": "是七星半圆观景点的所在地。",
+      "score": 0.5581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9518,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是七星半月观景点的所在地。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.498,
+      "end": 51.185,
+      "label": "uncertain",
+      "text": "金坑大寨红瑶梯田观景区群山环绕，",
+      "score": 0.4646,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3518,
+        "acoustic_dev": 0.659,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "金坑大寨红窑，天观景区群山环窑。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.346,
+      "end": 56.049,
+      "label": "mandarin",
+      "text": "像一个天然的天坑，是红瑶聚集的村落。",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0455,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "像一个填厌的填坑，是红药聚集的沉沦。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 56.457,
+      "end": 60.868,
+      "label": "uncertain",
+      "text": "龙脊梯田很有神明色彩之美和线条之美。",
+      "score": 0.382,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2404,
+        "acoustic_dev": 0.419,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "神/生",
+        "lexicon": "",
+        "text_free": "龙脊体田很有生命色彩之美和线条之美。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 61.302,
+      "end": 65.32,
+      "label": "mandarin",
+      "text": "春天的时候，梯田被新绿的秧苗覆盖，",
+      "score": 0.2211,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0869,
+        "acoustic_dev": 0.089,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "新/行",
+        "lexicon": "",
+        "text_free": "春天的时候，梯田被行路的杨苗覆盖。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 65.32,
+      "end": 68.68,
+      "label": "uncertain",
+      "text": "生机勃勃；夏天的时候，更是绿意盎然，",
+      "score": 0.5206,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4835,
+        "acoustic_dev": 0.942,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "生机勃勃，夏天的时候更是绿意盎。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 69.322,
+      "end": 77.62,
+      "label": "mandarin",
+      "text": "稻穗随风摇曳；秋天的时候，金黄的稻谷宛如金色的波浪翻滚在山间田头；",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0072,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "稻穗随风摇曳。秋天的时候，金黄的稻谷宛如金色的波浪，翻滚在山间田头。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 78.067,
+      "end": 84.839,
+      "label": "mandarin",
+      "text": "冬天的时候，白雪覆盖，梯田又呈现出了另外一番静谧而祥和的景象。",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0085,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "冬天的时候，白雪覆盖，梯田又呈现出了另外一番精密而强活的景象。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 85.155,
+      "end": 89.504,
+      "label": "mandarin",
+      "text": "由此，四季更迭，龙脊景区宛如一位诗人，",
+      "score": 0.3069,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3198,
+        "acoustic_dev": 0.59,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "由此四季更迭，龙脊景区宛如一位诗人。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 89.504,
+      "end": 95.27,
+      "label": "mandarin",
+      "text": "用不同的色彩和情感书写着四季相异的非凡诗章，",
+      "score": 0.0711,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0507,
+        "acoustic_dev": 0.011,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用不同的色彩和情感，书写着四季相依的非凡师长。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.411,
+      "end": 99.98,
+      "label": "mandarin",
+      "text": "吸引四面八方的游人。龙脊梯田这个景区挺好的，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0426,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "吸引四面八方的游人。龙脊梯田这个景区挺好的。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 99.98,
+      "end": 103.787,
+      "label": "mandarin",
+      "text": "人也比较适中，环境也很好，民宿的环境也很干净。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "人也比较适中，环境也很好，民宿的环境也很干净。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 104.294,
+      "end": 106.897,
+      "label": "mandarin",
+      "text": "然后整个民宿的这个风格也很好。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0197,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后，整个民俗的这个风格也很好。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 106.897,
+      "end": 110.859,
+      "label": "uncertain",
+      "text": "龙脊梯田至今保留着完整的原始耕作方式，",
+      "score": 0.5434,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3578,
+        "acoustic_dev": 0.672,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "龙/农",
+        "lexicon": "",
+        "text_free": "农机体店至今保留着藕耕的原始耕作方式。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 111.136,
+      "end": 114.809,
+      "label": "guilin",
+      "text": "这种田园和一的生态理念和景观经验，",
+      "score": 0.6629,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7966,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这种天人合一的生态理念和监管经验。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 114.988,
+      "end": 123.398,
+      "label": "mandarin",
+      "text": "形成了完美的山林相天、动态平衡的森林水源涵养和梯田水土保持模式。",
+      "score": 0.0308,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0458,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "形成了完美的山林、下田、动态平衡的森林、水源、涵养和梯田、水土保持模式。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 123.7,
+      "end": 130.275,
+      "label": "mandarin",
+      "text": "二零二零年十二月，龙脊梯田入选国家林业和草原局国家湿地公园名单。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二零年十二月，龙吉体田入选国家林业和草原局国家湿地公园名单。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 130.498,
+      "end": 137.356,
+      "label": "mandarin",
+      "text": "二零二二年，龙脊大寨被联合国世界旅游组织评为了最佳旅游乡村。",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二二年，龙吉大赛被联合国世界旅游组织评为了最佳旅游乡村。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 137.689,
+      "end": 145.791,
+      "label": "guilin",
+      "text": "目前，龙胜各族自治县正大力推广以田生五级的龙文旅融合发展模式，",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5103,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.414,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "旅/女 自/织",
+        "lexicon": "",
+        "text_free": "目前，龙盛国族织织线正大力推广一天生五斤的龙纹女绒货发展模式。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 146.152,
+      "end": 150.982,
+      "label": "guilin",
+      "text": "推动乡村旅游从点上开发向全族串联转变，",
+      "score": 0.6841,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6462,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "族/珠",
+        "lexicon": "",
+        "text_free": "推动乡村旅游从点上开发向串珠成链转变。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 151.077,
+      "end": 158.729,
+      "label": "mandarin",
+      "text": "全力推进民族文化旅游示范区建设和龙脊梯田景区创建国家五A级旅游景区。",
+      "score": 0.2,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1174,
+        "acoustic_dev": 0.155,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "龙/农",
+        "lexicon": "",
+        "text_free": "全力推进民族文化旅游示范区建设，和农集体点景区，创建国家五A级旅游景区。"
+      }
+    }
+  ]
+}

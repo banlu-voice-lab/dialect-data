@@ -1,0 +1,940 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "全力以赴战春运 真情投入护平安.wav",
+  "duration": 210.681,
+  "no_dialect": false,
+  "created_at": "2026-10-26T09:07:37",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.39,
+      "label": "mandarin",
+      "text": "春运繁忙时节，铁路部门是开启了为期四十天的大考。",
+      "score": 0.1623,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "十/四 四/十",
+        "lexicon": "",
+        "text_free": "春运大忙时节，铁路部门是开启了为期十四天的大考。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.598,
+      "end": 12.19,
+      "label": "mandarin",
+      "text": "铁路工作人员对于高铁列车以及线路进行了全方位检修维护、",
+      "score": 0.0185,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "铁路工作人员对于高铁列车以及线路进行了全方位的检修维护。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.19,
+      "end": 16.537,
+      "label": "mandarin",
+      "text": "排障，就是为了确保春运期间列车运行安全、",
+      "score": 0.3637,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2688,
+        "acoustic_dev": 0.602,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "开张就是为了确保春运期间列车运行安全。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.665,
+      "end": 20.049,
+      "label": "mandarin",
+      "text": "守护万千旅客的回家路。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "守护万千旅客的回家路。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.447,
+      "end": 27.742,
+      "label": "mandarin",
+      "text": "二零二五年春运首日的凌晨，位于临川县定江站的桂林东车所检修库灯火通明，",
+      "score": 0.0173,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0074,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.03,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二五年春运首日的凌晨，位于临川县定江镇的桂林东车所检修库灯火通明。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.034,
+      "end": 33.586,
+      "label": "guilin",
+      "text": "被称为动车医生的地铁机车室率先进入春运模式。",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1941,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "被称为“动车一升”的低情，几开死门，率先进入纯运模式。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 33.842,
+      "end": 36.004,
+      "label": "guilin",
+      "text": "一列列动车组缓缓入库，",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6924,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一列列动车组翻翻入库。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.124,
+      "end": 40.745,
+      "label": "guilin",
+      "text": "接受来自地铁机车室的全面体检服务。",
+      "score": 0.6057,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5719,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "接受来自地勤机该室们的全面体检服务。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.123,
+      "end": 44.376,
+      "label": "mandarin",
+      "text": "只见他们熟练的穿梭在动车组的各个角落，",
+      "score": 0.2757,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0671,
+        "acoustic_dev": 0.143,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "组/主 车/侧",
+        "lexicon": "",
+        "text_free": "只见他们熟练地穿梭在东侧主的各个角落。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.743,
+      "end": 47.653,
+      "label": "mandarin",
+      "text": "对动车组进行清洗、调试、",
+      "score": 0.0432,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.041,
+        "acoustic_dev": 0.083,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对动车组进行清洗、调试。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.653,
+      "end": 54.25,
+      "label": "mandarin",
+      "text": "整修等等系列作业，确保各系统部件时刻处于精良状态。",
+      "score": 0.1596,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "精/尽",
+        "lexicon": "",
+        "text_free": "整修等等系列作业，确保各个系统部件时刻处于尽量状态。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 54.34,
+      "end": 57.472,
+      "label": "mandarin",
+      "text": "我是主要负责车顶高压设备检查，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我是主要负责车顶高压设备检查。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.472,
+      "end": 62.102,
+      "label": "mandarin",
+      "text": "还有车内的功能试验和上部服务设施的检查。",
+      "score": 0.0007,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "还有车内的功能试验和上部服务设施的检查。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.315,
+      "end": 66.86,
+      "label": "mandarin",
+      "text": "然后随着现在春运的开始，我们的任务量也有所上升。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后，随着现在春运的开始，我们的任务量也有所上升。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 66.966,
+      "end": 72.46,
+      "label": "mandarin",
+      "text": "然后我个人而言是每天需要检修到三到四组的车组。",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后我个人来言，是每天需要检修到三到四组的车组。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 73.159,
+      "end": 80.039,
+      "label": "mandarin",
+      "text": "然后虽然我们的任务有所增加，但是我们还是会尽自己最大的能力，",
+      "score": 0.0249,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0255,
+        "acoustic_dev": 0.048,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后虽然我们的任务有所增加，但是我们还是会尽自己最大的能力。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 80.039,
+      "end": 83.618,
+      "label": "mandarin",
+      "text": "保证旅客有一个安全舒适的乘车环境。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "保证旅客有一个安全舒适的乘车环境。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 84.246,
+      "end": 89.539,
+      "label": "mandarin",
+      "text": "在春运前，我们桂林东所就已经完成了四十一组车的春运前准备工作，",
+      "score": 0.2442,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1708,
+        "acoustic_dev": 0.379,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在春运前，我们桂林动车所就已经完成了四十组车的春运前准备工作。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 90.131,
+      "end": 93.174,
+      "label": "guilin",
+      "text": "主要是对车组的服务设施检修、",
+      "score": 0.6552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9916,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "组/主",
+        "lexicon": "",
+        "text_free": "主要是对车主的服务设施检修。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 93.174,
+      "end": 95.688,
+      "label": "mandarin",
+      "text": "整治，还有技术状态的检查维护。",
+      "score": 0.0011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "整治，还有技术状态的检查维护。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 96.119,
+      "end": 100.945,
+      "label": "mandarin",
+      "text": "在春运期间，我们桂林东所将结合动车组春运检修重点，",
+      "score": 0.0398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在春运期间，我们桂林动车所将结合动车组春运检修重点。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 101.375,
+      "end": 103.975,
+      "label": "mandarin",
+      "text": "加强对动车组设备设施",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加强对动车组设备设施。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 104.177,
+      "end": 108.975,
+      "label": "mandarin",
+      "text": "的检查维护，对于白班、夜班工作安排也进行了优化。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "的检查维护，对于白班夜班工作安排也进行了优化。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 109.272,
+      "end": 113.527,
+      "label": "mandarin",
+      "text": "目前，我们车间三百三十八名工作人员已经蓄势待发，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，我们车间三百三十八名工作人员已经蓄势待发。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 113.527,
+      "end": 116.94,
+      "label": "mandarin",
+      "text": "随时准备应对即将到来的客流高峰。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "随时准备应对即将到来的客流高峰。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 116.94,
+      "end": 121.93,
+      "label": "mandarin",
+      "text": "自到春运开始，桂林各站车次开行密度不断增加，",
+      "score": 0.0692,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0243,
+        "acoustic_dev": 0.045,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "车到春运开始，桂林过站车次开行密度不断增加。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 122.267,
+      "end": 125.031,
+      "label": "mandarin",
+      "text": "铁路线路利用率高，运输繁忙。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "铁路线路利用率高，运输繁忙。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 125.194,
+      "end": 127.355,
+      "label": "mandarin",
+      "text": "在高密度的行车影响下，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在高密度的行车影响下。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 127.581,
+      "end": 132.266,
+      "label": "mandarin",
+      "text": "铁路线路及其配套设施会产生不同程度的损耗。",
+      "score": 0.0017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "铁路线路及其配套设施会产生不同程度的损耗。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 132.567,
+      "end": 135.078,
+      "label": "mandarin",
+      "text": "为了确保春运期间行车安全，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了确保春运期间行车安全。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 135.181,
+      "end": 138.936,
+      "label": "mandarin",
+      "text": "桂林高铁基础设施工作人员化身铁道卫士，",
+      "score": 0.27,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.094,
+        "acoustic_dev": 0.204,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "身/生",
+        "lexicon": "",
+        "text_free": "桂林高铁基础设施工作人员发生铁道遗失。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 139.258,
+      "end": 142.339,
+      "label": "uncertain",
+      "text": "在春运期间加强线路设备检修，",
+      "score": 0.4115,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3521,
+        "acoustic_dev": 0.791,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在春运期间，加强线路设备检修。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 142.633,
+      "end": 146.515,
+      "label": "mandarin",
+      "text": "对重要设施进行全面的养护与加固，",
+      "score": 0.0583,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0537,
+        "acoustic_dev": 0.112,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对重要设施进行全面的养护与加固。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 146.715,
+      "end": 149.187,
+      "label": "mandarin",
+      "text": "确保列车安全平稳运行。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "确保列车安全平稳运行。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 149.38,
+      "end": 154.187,
+      "label": "mandarin",
+      "text": "春运期间，我们全面加强设备的巡视检查力度，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "春运期间，我们全面加强设备的巡视检查力度。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 154.43,
+      "end": 158.937,
+      "label": "mandarin",
+      "text": "及时消除关键道岔、信号机、轨道电路设备隐患，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "及时消除关键道岔、信号机、轨道电路设备隐患。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 159.338,
+      "end": 162.971,
+      "label": "mandarin",
+      "text": "全力确保列车准时准点出入库。",
+      "score": 0.1005,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0894,
+        "acoustic_dev": 0.193,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全力确保列车准时、准点出入库。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 163.732,
+      "end": 167.347,
+      "label": "mandarin",
+      "text": "此外，为了确保广大旅客出行安全和舒适，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此外，为了确保广大旅客出行安全和舒适。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 167.46,
+      "end": 170.255,
+      "label": "mandarin",
+      "text": "春运服务也在不断的优化升级。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "春运服务也在不断地优化升级。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 170.489,
+      "end": 174.282,
+      "label": "mandarin",
+      "text": "桂林西站推出了系列便民利民惠民举措，",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0155,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林西站推出了系列便民利民非民举措。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 174.282,
+      "end": 177.625,
+      "label": "guilin",
+      "text": "在硬件、软件提升上持续发力，",
+      "score": 0.6345,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4117,
+        "acoustic_dev": 0.927,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在恩见远见提升上，持续发力。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 177.857,
+      "end": 181.417,
+      "label": "guilin",
+      "text": "用软硬件式的细节和真情服务，",
+      "score": 0.6607,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.0703,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用远恩见事的细节，和真情服务。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 181.417,
+      "end": 184.219,
+      "label": "mandarin",
+      "text": "让旅客的回家路更有温度。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让旅客的回家路更有温度。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 184.219,
+      "end": 187.145,
+      "label": "mandarin",
+      "text": "二零二五年春运已经全面开启，",
+      "score": 0.0013,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0056,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "二零二五年春运已经全面开启。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 187.306,
+      "end": 192.845,
+      "label": "mandarin",
+      "text": "为了方便旅客出行，桂林西站在春运期间计划增开四十多趟次列车，",
+      "score": 0.0029,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了方便旅客出行，桂林西站在春运期间计划增开四十多趟次列车。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 193.405,
+      "end": 195.485,
+      "label": "mandarin",
+      "text": "高峰期可达到近一百五十趟。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "高峰期可达到近一百五十趟。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 195.86,
+      "end": 199.294,
+      "label": "mandarin",
+      "text": "同时，我们还通过增开重点旅客应急通道、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "同时，我们还通过增开重点旅客应急通道。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 199.725,
+      "end": 204.664,
+      "label": "mandarin",
+      "text": "优化旅客候车设施、提供志愿者服务等便民利民",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "优化旅客候车设施，提供志愿者服务等便民利民。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 204.914,
+      "end": 210.681,
+      "label": "mandarin",
+      "text": "服务举措，全力为广大旅客朋友提供更加舒适温馨的出行体验。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "服务举措，全力为广大旅客朋友提供更加舒适温馨的出行体验。"
+      }
+    }
+  ]
+}

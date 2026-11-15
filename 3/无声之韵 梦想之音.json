@@ -1,0 +1,1282 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "无声之韵 梦想之音.wav",
+  "duration": 290.487,
+  "no_dialect": false,
+  "created_at": "2026-10-26T10:20:52",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.429,
+      "end": 5.557,
+      "label": "mandarin",
+      "text": "今年以来，丽江国剧院连续上演《新春演出季》系列活动，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0532,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年以来，丽江国际院连续上演《新春演出季》系列活动。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.693,
+      "end": 10.209,
+      "label": "mandarin",
+      "text": "其中就包括了一场聋哑学校的表演者们带来的表演。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中就包括了一场聋哑学校的表演者们带来的表演。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.538,
+      "end": 14.4,
+      "label": "mandarin",
+      "text": "新春走基层系列，记者通过这一场无声之韵、",
+      "score": 0.0027,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0339,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "《新春走基层》系列，记者通过这一场无声之韵。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.4,
+      "end": 17.568,
+      "label": "mandarin",
+      "text": "梦想之音的演出，来到他们身边，",
+      "score": 0.01,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0616,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "梦想之音的演出来到他们身边。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.568,
+      "end": 27.707,
+      "label": "mandarin",
+      "text": "看看他们的故事。记者见到李博的时候，离在丽江国剧院上上演的《无声之韵、梦想之音》只有不到一周的时间。",
+      "score": 0.1145,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.068,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "音/影",
+        "lexicon": "",
+        "text_free": "看看他们的故事。记者见到李博的时候，离在丽江国际院上上演的《无声之音》《梦想之影》只有不到一周的时间。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.093,
+      "end": 31.238,
+      "label": "mandarin",
+      "text": "他正在指挥着表演者们熟悉演出流程。",
+      "score": 0.0857,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0056,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他正在指挥着八爷仔们熟悉演出流程。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.548,
+      "end": 35.297,
+      "label": "mandarin",
+      "text": "在这个作品里面，表演者们首先操作着声部、",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在这个作品里面，扮演者们首先操作着宋伯。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.297,
+      "end": 38.338,
+      "label": "guilin",
+      "text": "沙锤等乐器，依次发声、",
+      "score": 0.5708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1638,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "沙锤等等乐器依次发声。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.466,
+      "end": 42.376,
+      "label": "mandarin",
+      "text": "分句、节奏、旋律，然后开始唱歌。",
+      "score": 0.2312,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6107,
+        "acoustic_dev": 0.298,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "飞句成节奏旋律，然后开始唱歌。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.899,
+      "end": 45.42,
+      "label": "uncertain",
+      "text": "表演者们从用自由的演练，",
+      "score": 0.5139,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3641,
+        "acoustic_dev": 0.681,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "八爷咱们从容自如的演练。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 45.42,
+      "end": 49.042,
+      "label": "mandarin",
+      "text": "让演戏有了他们可以听得到声音的错觉。",
+      "score": 0.2255,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5722,
+        "acoustic_dev": 0.279,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让人一时有了他们可以听得到声音的错觉。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 49.635,
+      "end": 52.117,
+      "label": "guilin",
+      "text": "讲熟练，其实李博导演，",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.6505,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.778,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "熟/苏",
+        "lexicon": "",
+        "text_free": "讲苏联，其实也理所当然。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 52.354,
+      "end": 58.142,
+      "label": "mandarin",
+      "text": "因为李博和表演者们训练打磨这些作品已经有将近两年的时间了，",
+      "score": 0.049,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0224,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.107,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为李博和八爷仔们训练打磨这些作品已经有将近两年的时间了。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.526,
+      "end": 62.971,
+      "label": "mandarin",
+      "text": "而跟他时间最长的表演者也已经差不多十年了。",
+      "score": 0.0686,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而跟他时间最长的八爷仔，也已经差不多十年了。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.383,
+      "end": 66.309,
+      "label": "mandarin",
+      "text": "沟通是团队合作的主要问题，",
+      "score": 0.2926,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9876,
+        "acoustic_dev": 0.489,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "沟通是团队合作的首要问题。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 66.587,
+      "end": 70.118,
+      "label": "mandarin",
+      "text": "在无声和有声世界之间的合作当中，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在无声和有声世界之间的合作当中。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 70.118,
+      "end": 72.435,
+      "label": "mandarin",
+      "text": "沟通就更复杂了。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "沟通就更复杂了。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 73.08,
+      "end": 84.446,
+      "label": "guilin",
+      "text": "不要玩死了！可能是",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.8528,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "四撑不起来，丢人了。不要玩儿帅，可能是。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 85.145,
+      "end": 92.023,
+      "label": "mandarin",
+      "text": "要要解释很多条，要要想很多条路，然后才能去解释清楚一个问题。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要要解释很多条，要要想很多条路，然后才能去解释清楚一个问题。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 92.199,
+      "end": 94.913,
+      "label": "mandarin",
+      "text": "因为像这个呼吸，对吧？",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为您像这个呼吸，对吧？"
+      }
+    },
+    {
+      "id": 21,
+      "start": 94.913,
+      "end": 97.722,
+      "label": "mandarin",
+      "text": "像咱们说怎么呼吸、腹式呼吸，",
+      "score": 0.0239,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1142,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "像咱们说，怎么呼吸？腹式呼吸。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 97.722,
+      "end": 103.923,
+      "label": "mandarin",
+      "text": "你查一查就知道，对吧？然后呢，和他们就是要需要把这些呼吸啊什么的，",
+      "score": 0.0158,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "你查一查就知道，对吧？然后呢，和他们就是要需要把这些呼吸啦什么的。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 104.639,
+      "end": 107.285,
+      "label": "guilin",
+      "text": "就是特别是这个肚子怎么动，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -3.0903,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是，就比如这个肚子怎么。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 107.628,
+      "end": 111.812,
+      "label": "mandarin",
+      "text": "然后这个横膈膜怎么就是是一个什么感觉？",
+      "score": 0.0285,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0357,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后这个横隔膜怎么就是是一个什么感觉？"
+      }
+    },
+    {
+      "id": 25,
+      "start": 112.658,
+      "end": 115.809,
+      "label": "mandarin",
+      "text": "要要解释的很清楚，就是让大家",
+      "score": 0.2473,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.827,
+        "acoustic_dev": 0.408,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "要要解释的很清楚，就是要大家。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 116.106,
+      "end": 122.55,
+      "label": "mandarin",
+      "text": "相互去这么摸着，然后呢来去感受这个身体的变化。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "相互去这么摸着，然后呢，来去感受这个身体的变化。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 122.55,
+      "end": 126.758,
+      "label": "mandarin",
+      "text": "无声世界里面的音，对音乐的理解是截然不同的。",
+      "score": 0.1043,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1589,
+        "acoustic_dev": 0.069,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "无声诗歌里面的人对音乐的理解是截然不同的。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 126.758,
+      "end": 129.566,
+      "label": "mandarin",
+      "text": "那声音最本质的就是震动，对吧？",
+      "score": 0.1055,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那声音最本质的，不用说是震动，对吧？"
+      }
+    },
+    {
+      "id": 29,
+      "start": 129.646,
+      "end": 131.88,
+      "label": "mandarin",
+      "text": "然后还有一个最重要的东西，就是",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后还有一个最重要的东西就是。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 132.473,
+      "end": 136.442,
+      "label": "mandarin",
+      "text": "因为这这这一个声音，它有它有时间的概念，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0201,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为这这这一个声音，它有它有时间的观念。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 137.122,
+      "end": 142.797,
+      "label": "mandarin",
+      "text": "所以呢，就是引入了节奏，它就是可以分割这个时间，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以呢，就是引入了节奏，它就是可以分割这个时间。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 142.969,
+      "end": 147.255,
+      "label": "mandarin",
+      "text": "对吧？就是我们我们很少知道这个时间是怎么流逝了。",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对吧？就是我们，我们很少知道这个时间是怎么流逝的。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 147.481,
+      "end": 151.476,
+      "label": "mandarin",
+      "text": "无声合唱团对于无声世界的表演者们来讲，",
+      "score": 0.1477,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2946,
+        "acoustic_dev": 0.138,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "无声合唱团对于无声世界的巴爷们来讲。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 151.476,
+      "end": 154.22,
+      "label": "mandarin",
+      "text": "快乐、交流、被注意到、",
+      "score": 0.1307,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5188,
+        "acoustic_dev": 0.251,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "快乐交流被注意到。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 154.22,
+      "end": 157.785,
+      "label": "mandarin",
+      "text": "被平常对待，这些就是最重要的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "被平常对待，这些就是最重要的。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 157.94,
+      "end": 161.267,
+      "label": "mandarin",
+      "text": "非残障人群去接触，然后呢，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非残障人群去接触，然后呢？"
+      }
+    },
+    {
+      "id": 37,
+      "start": 161.267,
+      "end": 164.959,
+      "label": "guilin",
+      "text": "也是让他们能更好，然后去融入这个社会，",
+      "score": 0.5975,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8791,
+        "acoustic_dev": 0.942,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是希望他们能更好的以后去融入这个社会。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 165.339,
+      "end": 168.468,
+      "label": "guilin",
+      "text": "或者就是其实不是在让他们去融入，",
+      "score": 0.581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.6652,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "或者呢，是其实不是，让他们去融入。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 168.61,
+      "end": 171.02,
+      "label": "mandarin",
+      "text": "其实应该是这个合唱团的",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其实应该是这个合唱团的。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 171.164,
+      "end": 173.815,
+      "label": "mandarin",
+      "text": "初衷呢是，呃，",
+      "score": 0.1667,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3088,
+        "acoustic_dev": 0.145,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "初中呢是，呃。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 174.411,
+      "end": 177.654,
+      "label": "mandarin",
+      "text": "让就是让非残障人群去看见这些人。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让，就是让非残障人群去看见这些人。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 177.875,
+      "end": 181.919,
+      "label": "mandarin",
+      "text": "让就是让让这个让这个这个",
+      "score": 0.0171,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0883,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让就是让，让这个让这个这个。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 181.919,
+      "end": 185.517,
+      "label": "mandarin",
+      "text": "非残障人群去更多的了解，",
+      "score": 0.0089,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0573,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非残障人群，去更多的了解。"
+      }
+    },
+    {
+      "id": 44,
+      "start": 185.764,
+      "end": 190.531,
+      "label": "mandarin",
+      "text": "然后接受，嗯，接受他们的理解世界的方式。",
+      "score": 0.1787,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.395,
+        "acoustic_dev": 0.189,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "然后接受他们，对，接受他们的理解世界的方式。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 190.58,
+      "end": 195.366,
+      "label": "mandarin",
+      "text": "演出正式开场之前，观众们络绎不绝走进剧场。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "演出正式开场之前，观众们络绎不绝走进剧场。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 195.615,
+      "end": 198.28,
+      "label": "mandarin",
+      "text": "前一天的彩排没得那么顺利。",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0102,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "没得",
+        "text_free": "前一天的彩排没得那么顺利。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 198.28,
+      "end": 200.86,
+      "label": "mandarin",
+      "text": "休息，先休息十分钟啊！",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "休息，先休息十分钟啊。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 200.86,
+      "end": 209.421,
+      "label": "guilin",
+      "text": "休息。观众朋友们，今天演出结束了",
+      "score": 0.596,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6748,
+        "acoustic_dev": 0.838,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "休息。各位观众朋友，过来观看今天的演出结束了。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 209.516,
+      "end": 214.149,
+      "label": "guilin",
+      "text": "啊！啊，虽然时间很短，但是还是能送出非常大的力",
+      "score": 0.5992,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.6871,
+        "acoustic_dev": 0.845,
+        "seg_cer": 0.35,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，虽然时间很短，但是孩子们付出了非常大的努力。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 214.469,
+      "end": 217.246,
+      "label": "guilin",
+      "text": "啊！谢谢观众们，大爱！",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -4.9642,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.75,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，谢谢郭志栋的到来。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 218.937,
+      "end": 223.516,
+      "label": "mandarin",
+      "text": "演出顺利完成了，表演者们的表演收获了热烈的掌声。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0236,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "演出顺利完成了，表演者们的表演收获了热烈的掌声。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 223.813,
+      "end": 226.313,
+      "label": "mandarin",
+      "text": "无论这些掌声源自什么，",
+      "score": 0.0116,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0676,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "无论这些掌声源自什么。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 226.313,
+      "end": 229.198,
+      "label": "mandarin",
+      "text": "它都代表了关注与尊重。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它都代表了关注与尊重。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 229.198,
+      "end": 233.737,
+      "label": "guilin",
+      "text": "大家好。合影、采访、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -5.2815,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "特别棒！火鹰采访。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 233.737,
+      "end": 237.452,
+      "label": "mandarin",
+      "text": "寒暄，剧场里面一派温暖团圆的氛围。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "寒暄，剧场里面一派温暖团圆的氛围。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 237.708,
+      "end": 240.154,
+      "label": "mandarin",
+      "text": "长期的工作收到了不错的效果，",
+      "score": 0.0172,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0887,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "长期的工作收到了不错的效果。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 240.311,
+      "end": 244.407,
+      "label": "mandarin",
+      "text": "李博可以深口气了。虽然有一点瑕疵，但是",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0144,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "李博可以松一口气了。虽然有一点瑕疵，但是。"
+      }
+    },
+    {
+      "id": 58,
+      "start": 244.575,
+      "end": 248.067,
+      "label": "mandarin",
+      "text": "已经很成功了。嗯，无声合唱团说的并不是",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "已经很成功了。无声合唱团说的并不是。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 248.755,
+      "end": 253.186,
+      "label": "mandarin",
+      "text": "呃，就不只是特殊人群和非残障人群的关系，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，就不只是特殊人群和非残障人群的关系。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 253.365,
+      "end": 257.127,
+      "label": "mandarin",
+      "text": "它其实是人和人每个人之间的关系，沟通理解",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0144,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "它其实是人和人每个人之间的关系，沟通理解。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 257.41,
+      "end": 260.087,
+      "label": "mandarin",
+      "text": "啊，然后然后能",
+      "score": 0.001,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0275,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，然后，然后能。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 260.437,
+      "end": 264.857,
+      "label": "mandarin",
+      "text": "融合到一起去。声音是一种神奇的形式，",
+      "score": 0.0077,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0528,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "融合到一起去。声音是一种神奇的形式。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 264.96,
+      "end": 270.294,
+      "label": "mandarin",
+      "text": "复杂的声音作为音乐、作为语言传达信息和情绪；",
+      "score": 0.0943,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.381,
+        "acoustic_dev": 0.181,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "复杂的声音作为音乐，作为语言，传达信息和情绪。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 270.746,
+      "end": 273.488,
+      "label": "mandarin",
+      "text": "最简单的声音也是一种信号。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0228,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最简单的声音也是一种信号。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 273.488,
+      "end": 277.687,
+      "label": "mandarin",
+      "text": "记者觉得，无声合唱团既是帮助本身，",
+      "score": 0.061,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0237,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "记者觉得，吴淞合唱团既是帮助本身。"
+      }
+    },
+    {
+      "id": 66,
+      "start": 277.776,
+      "end": 280.15,
+      "label": "mandarin",
+      "text": "也是一种帮助的象征。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也是一种帮助的象征。"
+      }
+    },
+    {
+      "id": 67,
+      "start": 280.669,
+      "end": 290.487,
+      "label": "mandarin",
+      "text": "健全人帮助鼓励聋哑人发出声音，引起关注与社会与普通人的生活建立更亲密的联系。",
+      "score": 0.0156,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0346,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.028,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "健全帮助鼓励聋哑人发出声音，引起关注与社会，与普通人的生活建立更亲密的联系。"
+      }
+    }
+  ]
+}

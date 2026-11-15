@@ -1,0 +1,1434 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "走读桂林石刻_珍贵的_元祐党籍_碑.wav",
+  "duration": 333.867,
+  "no_dialect": false,
+  "created_at": "2026-10-26T12:07:57",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.199,
+      "end": 5.351,
+      "label": "mandarin",
+      "text": "你看这一件石刻，我们就印证出了这么多的内容和知识。",
+      "score": 0.0905,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1742,
+        "acoustic_dev": 0.059,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "你看，这一件时刻，我们就衍生出了这么多的内容和知识。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.613,
+      "end": 9.598,
+      "label": "guilin",
+      "text": "看来想要印证的理解或者是读懂一件石刻，",
+      "score": 0.5812,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1479,
+        "acoustic_dev": 0.825,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "看来啊，想要真正的理解或者是读懂一件事，去啊。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.675,
+      "end": 12.378,
+      "label": "mandarin",
+      "text": "那真的是要下一番功夫才得了不？",
+      "score": 0.1053,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0921,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "啵",
+        "text_free": "那真的是要下一番功夫才得的啵。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.709,
+      "end": 16.72,
+      "label": "mandarin",
+      "text": "在桂海碑林里面呢，有一块特别有名气的碑刻，",
+      "score": 0.0881,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "嘞",
+        "text_free": "在龟海碑林里面嘞，有一块特别有名气的碑刻。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 16.72,
+      "end": 19.673,
+      "label": "guilin",
+      "text": "那就是“元佑党籍碑”。下面我们就",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.2415,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那就是远游当几倍。下面我们。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.08,
+      "end": 25.577,
+      "label": "mandarin",
+      "text": "借道来测一下这一块桂海碑林最有名气的碑刻。",
+      "score": 0.1539,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0549,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "林/岭",
+        "lexicon": "",
+        "text_free": "借刀来测一下这一块，威海北岭最有名气的碑刻。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.229,
+      "end": 30.92,
+      "label": "mandarin",
+      "text": "在桂海碑林当中，宋代的石刻数量最多，",
+      "score": 0.2017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0088,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "林/领",
+        "lexicon": "",
+        "text_free": "在国海白领当中，松袋的时刻数量最多。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.92,
+      "end": 38.693,
+      "label": "mandarin",
+      "text": "有一碑是一件。龙吟岩当中的“元佑党籍碑”是众多碑刻当中尤为珍贵的一块，",
+      "score": 0.1975,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3653,
+        "acoustic_dev": 0.21,
+        "seg_cer": 0.194,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有一百一十一件。龙隐案当中的元佑党籍碑，是众多碑刻当中尤为珍贵的一款。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.226,
+      "end": 41.866,
+      "label": "mandarin",
+      "text": "碑上刻了北宋名流司马光、",
+      "score": 0.1247,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "被让去了北宋名流司马光。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.866,
+      "end": 46.059,
+      "label": "mandarin",
+      "text": "苏轼、秦观等等三百零九位的姓名。",
+      "score": 0.2316,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1209,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "苏/数",
+        "lexicon": "",
+        "text_free": "数十、秦官等等三百零九个人的姓名。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.538,
+      "end": 51.225,
+      "label": "mandarin",
+      "text": "来到这个龙吟岩，可能大家",
+      "score": 0.2871,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5978,
+        "acoustic_dev": 0.392,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来到这个龙隐营，可能大家。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 51.64,
+      "end": 57.099,
+      "label": "mandarin",
+      "text": "非常关注的一件石刻，或者在之前可能就已经听说过的，一件石刻，",
+      "score": 0.3565,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.888,
+        "acoustic_dev": 0.62,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非常关注的一件时刻，或者在之前可能就已经听说过的一件时刻。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.147,
+      "end": 59.418,
+      "label": "mandarin",
+      "text": "非常有名的一件石刻。大家看一下，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非常有名的一件时刻，大家看一下。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.584,
+      "end": 62.523,
+      "label": "mandarin",
+      "text": "就是在这边的“元佑党籍碑”，",
+      "score": 0.3451,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.638,
+        "acoustic_dev": 0.424,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是在这边的云游党基碑。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 62.6,
+      "end": 67.334,
+      "label": "mandarin",
+      "text": "啊，这是宋代的一件非常重要的这个石刻。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，这是宋代的一件非常重要的这个时刻。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 68.223,
+      "end": 70.936,
+      "label": "mandarin",
+      "text": "大家可以从不同的渠道，其实可以",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家可以从不同的渠道，其实可以。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 71.225,
+      "end": 74.39,
+      "label": "uncertain",
+      "text": "了解到这件石刻的这个",
+      "score": 0.3904,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7183,
+        "acoustic_dev": 0.487,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "了解到最近时刻的这个。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 74.766,
+      "end": 79.328,
+      "label": "mandarin",
+      "text": "来龙去脉啊，来龙去脉。它反映的是宋代的这个党争，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来龙去脉啊！来龙去脉，它反映的是宋代的这个党争。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 79.443,
+      "end": 82.922,
+      "label": "mandarin",
+      "text": "其实讲的通俗一点就是派别、派别之间的这个斗争。",
+      "score": 0.0218,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0147,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其实讲得通俗一点，就是派别，派别之间的这个斗争。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 83.503,
+      "end": 86.97,
+      "label": "mandarin",
+      "text": "我们都晓得，北宋王安石的变法，",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0081,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "晓得",
+        "text_free": "我们都晓得北宋王安石的变法。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 86.97,
+      "end": 91.73,
+      "label": "mandarin",
+      "text": "也喊做熙宁新政，是历史上很有名的一次改革。",
+      "score": 0.0481,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也喊作西宁新政，是历史上很有名的一次改革。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 92.05,
+      "end": 94.474,
+      "label": "guilin",
+      "text": "当时支持变法的政治派，",
+      "score": 0.5657,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9152,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当时支持变法的政治一派。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 94.474,
+      "end": 97.889,
+      "label": "mandarin",
+      "text": "比如王安石，就被称作元丰党人；",
+      "score": 0.0548,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1466,
+        "acoustic_dev": 0.038,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比如王安石，就被称作“元丰党隐”。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 97.974,
+      "end": 101.427,
+      "label": "mandarin",
+      "text": "反对变法的派，比方讲司马光这一人，",
+      "score": 0.2172,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4809,
+        "acoustic_dev": 0.3,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "反对变法的一派，比方讲司马光这一。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 101.558,
+      "end": 106.18,
+      "label": "mandarin",
+      "text": "就被称为元佑党人。到了公元幺幺零二年，",
+      "score": 0.0538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0736,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就被称为元游党营。到了公元幺幺零二年。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 106.18,
+      "end": 111.899,
+      "label": "mandarin",
+      "text": "宋徽宗用蔡京为相，重新又奉行了熙宁新政。",
+      "score": 0.1641,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0085,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "京/金",
+        "lexicon": "",
+        "text_free": "宋徽宗用彩金为香，重新又奉行了西宁新政。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 112.247,
+      "end": 115.87,
+      "label": "mandarin",
+      "text": "所以呢，蔡京就把反对新政的司马光、",
+      "score": 0.1305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0092,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "新/行",
+        "lexicon": "",
+        "text_free": "所以呢，蔡京就把反对行政的司马光。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 115.87,
+      "end": 120.506,
+      "label": "mandarin",
+      "text": "苏轼、黄庭坚这一人就列为元佑奸党。",
+      "score": 0.2321,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2752,
+        "acoustic_dev": 0.139,
+        "seg_cer": 0.8,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "书是方听简则音，就列为远游简当。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 120.636,
+      "end": 125.338,
+      "label": "mandarin",
+      "text": "啊，大家知道了，蔡京专权，",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0182,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，大家知道了，菜已经装群。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 125.508,
+      "end": 129.204,
+      "label": "mandarin",
+      "text": "把当时包括这个司马光、呃文彦博、",
+      "score": 0.1132,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2958,
+        "acoustic_dev": 0.155,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "把当时包括这个司马光，呃，文应博。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 129.204,
+      "end": 135.34,
+      "label": "mandarin",
+      "text": "苏轼，还有这个黄庭坚、秦观等等在内的一共三百零九个人",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "苏轼，还有这个黄庭坚、秦观等等，在内的一共三百零九个人。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 135.442,
+      "end": 138.15,
+      "label": "mandarin",
+      "text": "啊，把他列为这个元佑",
+      "score": 0.2398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3124,
+        "acoustic_dev": 0.168,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "啊，把它列为这个云用。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 138.406,
+      "end": 141.81,
+      "label": "mandarin",
+      "text": "奸党啊，元佑奸党，然后把他们刻在石头上，",
+      "score": 0.16,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0766,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.412,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "肩档啊，永远肩档，然后把它们刻在石头上。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 141.876,
+      "end": 148.839,
+      "label": "guilin",
+      "text": "就像相当是就是叫他们用什么的方式搞搞丑啊，把他们相当类似就是这样一个意思。",
+      "score": 0.7017,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.1236,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.343,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.1,
+        "phon_examples": "方/翻",
+        "lexicon": "",
+        "text_free": "就是想，相当是就是要他们永世不得翻身，搞搞臭，呃，把他们相当，类似，就是像这样一个意思。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 149.328,
+      "end": 153.322,
+      "label": "mandarin",
+      "text": "但是后来呢，又因为这个出了一些其他的状况，在第二年，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是后来呢，又因为这个出了一些其他的状况，在第二年。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 153.742,
+      "end": 160.034,
+      "label": "mandarin",
+      "text": "这个石刻就被毁了。但是全国啊，下诏书，全国都刻啊“元佑奸党碑”、“",
+      "score": 0.2702,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4587,
+        "acoustic_dev": 0.283,
+        "seg_cer": 0.269,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个时刻就被毁了。当时是全国啊，下诏书，全国都刻啊“云游金榜碑”。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 160.034,
+      "end": 165.1,
+      "label": "mandarin",
+      "text": "元佑党籍碑”。但是第二年又下诏全部毁了。",
+      "score": 0.1076,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0987,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拥有党纪碑。但是第二年，又有下诏，全部毁了。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 165.87,
+      "end": 173.06,
+      "label": "mandarin",
+      "text": "既然当时全部都要把毁了去，那在桂海碑林里面这一块“元佑党籍碑”是啷子保存下来的？",
+      "score": 0.1647,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0524,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.306,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.1,
+        "phon_examples": "林/灵",
+        "lexicon": "",
+        "text_free": "几人当时全部都要把它飞了去。那在《归海百灵》里面这一块原由，当祭碑是啷子保存下来的？"
+      }
+    },
+    {
+      "id": 39,
+      "start": 173.457,
+      "end": 176.615,
+      "label": "guilin",
+      "text": "以前“元佑党”其中有一个人物，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.3475,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以前啊，元幽荡，其中有一个银屋。"
+      }
+    },
+    {
+      "id": 40,
+      "start": 176.747,
+      "end": 181.401,
+      "label": "mandarin",
+      "text": "他后世的子孙们里面当时就存有碑刻的拓片，",
+      "score": 0.1434,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.214,
+        "acoustic_dev": 0.091,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "他后世的子孙墓里面，当时就存有白克的踏片。"
+      }
+    },
+    {
+      "id": 41,
+      "start": 181.619,
+      "end": 184.372,
+      "label": "guilin",
+      "text": "其中关于呢。刚好来桂林当官，",
+      "score": 0.6566,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3322,
+        "acoustic_dev": 0.97,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "其中一个人的刚好来桂林当官。"
+      }
+    },
+    {
+      "id": 42,
+      "start": 184.372,
+      "end": 188.09,
+      "label": "uncertain",
+      "text": "所以呢就想把这拓片重新刻到龙隐岩",
+      "score": 0.5133,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9631,
+        "acoustic_dev": 0.679,
+        "seg_cer": 0.438,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "水莲就想把这件踏片重新刻到龙吟岸。"
+      }
+    },
+    {
+      "id": 43,
+      "start": 188.371,
+      "end": 193.282,
+      "label": "mandarin",
+      "text": "来。因为这里面还有一个很重要的背景，就是说什么呢？",
+      "score": 0.0208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0432,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "因为这里面还有一个很重要的背景，就是说什么呢？"
+      }
+    },
+    {
+      "id": 44,
+      "start": 193.409,
+      "end": 196.038,
+      "label": "mandarin",
+      "text": "原来，比如说被列入这个",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "原来，比如说被列入这个。"
+      }
+    },
+    {
+      "id": 45,
+      "start": 196.624,
+      "end": 199.385,
+      "label": "mandarin",
+      "text": "云友奸党的这帮人，都是抬不起头的，",
+      "score": 0.2976,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3992,
+        "acoustic_dev": 0.236,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "党/胆",
+        "lexicon": "",
+        "text_free": "云游经胆的这帮人都是抬不起头的。"
+      }
+    },
+    {
+      "id": 46,
+      "start": 199.385,
+      "end": 201.989,
+      "label": "mandarin",
+      "text": "都是抬不起头的，那就很没有面子的，很糟糕的。",
+      "score": 0.0241,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "都抬不起头的，那就很没有面子的，很糟糕的。"
+      }
+    },
+    {
+      "id": 47,
+      "start": 202.043,
+      "end": 213.965,
+      "label": "mandarin",
+      "text": "但是后来风向一改以后，哎，他们的后代子孙纷纷以自己的先人能够被列入这个云友党籍而感到光荣自豪，就被平反了嘛，就相当是这样啊，就",
+      "score": 0.0236,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0187,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.052,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "但是后来风向一改以后，哎，他们的后代子孙纷纷以自己的新人能够被列入这个云游党籍而感到光荣自豪，就被平反了嘛，就相当是这样啊。"
+      }
+    },
+    {
+      "id": 48,
+      "start": 214.677,
+      "end": 217.468,
+      "label": "mandarin",
+      "text": "非常自豪。所以这个是个很",
+      "score": 0.3009,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7331,
+        "acoustic_dev": 0.499,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "非常自豪，所以，这个是还很。"
+      }
+    },
+    {
+      "id": 49,
+      "start": 217.651,
+      "end": 219.932,
+      "label": "mandarin",
+      "text": "很有很有意思的一个这样的情况。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "很有很有意思的一个这样的情况。"
+      }
+    },
+    {
+      "id": 50,
+      "start": 219.973,
+      "end": 222.692,
+      "label": "mandarin",
+      "text": "所以这样的话呢，他们愿意把",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以这样的话呢，他们愿意把。"
+      }
+    },
+    {
+      "id": 51,
+      "start": 222.889,
+      "end": 225.57,
+      "label": "mandarin",
+      "text": "这个碑利用这个拓片",
+      "score": 0.0228,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1544,
+        "acoustic_dev": 0.044,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这个碑，利用这个拓片。"
+      }
+    },
+    {
+      "id": 52,
+      "start": 225.788,
+      "end": 229.504,
+      "label": "mandarin",
+      "text": "重刻出来，其实也就是想把自己的这个",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从刻出来，其实也就是想把自己的这个。"
+      }
+    },
+    {
+      "id": 53,
+      "start": 229.828,
+      "end": 234.281,
+      "label": "mandarin",
+      "text": "祖先流芳百世吧，大概也就是有一个这样的这个心理。",
+      "score": 0.0663,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1083,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "祖心啊，流芳百世吧，大概也就是要有一个这样的这个心理。"
+      }
+    },
+    {
+      "id": 54,
+      "start": 234.347,
+      "end": 238.472,
+      "label": "mandarin",
+      "text": "所以在龙隐岩里面刻下了这件云友党籍碑。",
+      "score": 0.2253,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4634,
+        "acoustic_dev": 0.287,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以，在龙岩营里面刻下了这件云游党籍碑。"
+      }
+    },
+    {
+      "id": 55,
+      "start": 239.072,
+      "end": 241.981,
+      "label": "mandarin",
+      "text": "我们再来看看这一件碑刻的书法。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们再来看看这一件碑刻的书法。"
+      }
+    },
+    {
+      "id": 56,
+      "start": 246.587,
+      "end": 249.879,
+      "label": "mandarin",
+      "text": "讲这个历史是一个方面，当然还有一个我们要知道的，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0076,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "讲这个历史是一个方面，当然还有一个我们要知道的。"
+      }
+    },
+    {
+      "id": 57,
+      "start": 251.152,
+      "end": 254.464,
+      "label": "uncertain",
+      "text": "云友党籍碑书法谁写的呢？",
+      "score": 0.3877,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4355,
+        "acoustic_dev": 0.265,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "党/胆",
+        "lexicon": "咧",
+        "text_free": "云游胆几杯。书法谁写的咧？"
+      }
+    },
+    {
+      "id": 58,
+      "start": 255.135,
+      "end": 257.913,
+      "label": "mandarin",
+      "text": "蔡京。我们说这",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0841,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "蔡京，我们说这个。"
+      }
+    },
+    {
+      "id": 59,
+      "start": 258.393,
+      "end": 262.361,
+      "label": "guilin",
+      "text": "个呃宋代这个书法四大家，苏黄米蔡，",
+      "score": 0.5505,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4937,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，宋代这个书法四大家，苏黄米蔡。"
+      }
+    },
+    {
+      "id": 60,
+      "start": 262.783,
+      "end": 266.944,
+      "label": "mandarin",
+      "text": "呃就是蔡稍微有一点这个不同的意见，有人说是蔡襄，",
+      "score": 0.1208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2417,
+        "acoustic_dev": 0.112,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，就是菜稍微有一点这个不同的意见。有人说是菜香。"
+      }
+    },
+    {
+      "id": 61,
+      "start": 266.944,
+      "end": 272.738,
+      "label": "mandarin",
+      "text": "有人说是这个蔡京。但我们说从这个角度来理解啊，苏黄米蔡、苏东坡、黄庭坚、",
+      "score": 0.0147,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0801,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也有人说是这个蔡京，但我们说从这个角度来理解啊：苏黄米蔡，苏东坡、黄庭坚。"
+      }
+    },
+    {
+      "id": 62,
+      "start": 272.738,
+      "end": 275.841,
+      "label": "mandarin",
+      "text": "米芾跟这个呃",
+      "score": 0.0762,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0151,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "米福跟这个，呃。"
+      }
+    },
+    {
+      "id": 63,
+      "start": 276.342,
+      "end": 279.809,
+      "label": "mandarin",
+      "text": "蔡京啊四大家啊书法的四大家，",
+      "score": 0.1172,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3853,
+        "acoustic_dev": 0.225,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "蔡京啊，四大家啊，书法的四大家。"
+      }
+    },
+    {
+      "id": 64,
+      "start": 280.355,
+      "end": 283.677,
+      "label": "mandarin",
+      "text": "那从云友党籍碑这一块碑上来讲，",
+      "score": 0.0653,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0939,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那从云游党迹碑这一块碑上来讲。"
+      }
+    },
+    {
+      "id": 65,
+      "start": 283.677,
+      "end": 287.327,
+      "label": "mandarin",
+      "text": "就体现了这个蔡京的书法，因为是由他来这个书写的。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就体现了这个蔡京的书法，因为是由他来这个书写的。"
+      }
+    },
+    {
+      "id": 66,
+      "start": 288.682,
+      "end": 291.431,
+      "label": "mandarin",
+      "text": "按照蔡之蔡京的讲法来讲，",
+      "score": 0.1831,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0356,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "之/紫",
+        "lexicon": "",
+        "text_free": "按照蔡紫蔡警的讲法来讲。"
+      }
+    },
+    {
+      "id": 67,
+      "start": 291.891,
+      "end": 297.492,
+      "label": "guilin",
+      "text": "苏黄米蔡这四个人都和我们桂林有很大的关系，",
+      "score": 0.6114,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3966,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "厨房、米菜，这四个人啊，都和我们桂林有很大的关系。"
+      }
+    },
+    {
+      "id": 68,
+      "start": 297.659,
+      "end": 300.452,
+      "label": "guilin",
+      "text": "他们都在桂林或者刻有石刻，",
+      "score": 0.6387,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1355,
+        "acoustic_dev": 0.815,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "石/四",
+        "lexicon": "",
+        "text_free": "他们都在桂林，或者客游四客。"
+      }
+    },
+    {
+      "id": 69,
+      "start": 300.452,
+      "end": 311.965,
+      "label": "mandarin",
+      "text": "或者呢留有书法。苏东坡也曾经应该说是在桂林也留下过呃一个匾额啊，但现在没有了啊。",
+      "score": 0.0618,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0682,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.135,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我这里留有书法。苏东坡也曾经，应该说是在桂林也留下过，呃，一个匾额啊，但现在也没有了啊。呃。"
+      }
+    },
+    {
+      "id": 70,
+      "start": 311.965,
+      "end": 316.023,
+      "label": "guilin",
+      "text": "呃黄庭坚，代表大家可以看到也在龙隐岩里面有，",
+      "score": 0.6968,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.481,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "隐/营",
+        "lexicon": "",
+        "text_free": "呃，黄金间，代表大家可以看到，也在龙云营里里面有。"
+      }
+    },
+    {
+      "id": 71,
+      "start": 316.124,
+      "end": 319.583,
+      "label": "guilin",
+      "text": "叫伍君永，但是方刻的啊。苏黄米蔡米芾，",
+      "score": 0.667,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.2626,
+        "acoustic_dev": 0.915,
+        "seg_cer": 0.562,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "苏/舒",
+        "lexicon": "",
+        "text_free": "就伍军勇，但这是方克的啊，舒缓米菜米福。"
+      }
+    },
+    {
+      "id": 72,
+      "start": 319.583,
+      "end": 323.165,
+      "label": "mandarin",
+      "text": "米芾大家知道了，在这个黄州东里面有他的字画像啊，",
+      "score": 0.0507,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1718,
+        "acoustic_dev": 0.057,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "米芾，大家知道了，在这个《黄州东》里面有他的自画像啊。"
+      }
+    },
+    {
+      "id": 73,
+      "start": 323.44,
+      "end": 325.686,
+      "label": "mandarin",
+      "text": "也有他的早期的一件这个石刻作品，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0072,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也有他的早期的一件这个石刻作品。"
+      }
+    },
+    {
+      "id": 74,
+      "start": 325.76,
+      "end": 330.516,
+      "label": "mandarin",
+      "text": "在龙隐岩里面也有他的这个呃米芾跟陈杰的一个正答诗，",
+      "score": 0.1044,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1677,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在《龙与鹰》里面也有他的这个呃，米福跟陈杰的一个问答诗。"
+      }
+    },
+    {
+      "id": 75,
+      "start": 330.516,
+      "end": 333.867,
+      "label": "guilin",
+      "text": "代表大家可以看一下，也是很重要的一个这个石刻。",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.7244,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "呃，代表大家可以看一下，也是很重要的一件这个时刻。"
+      }
+    }
+  ]
+}

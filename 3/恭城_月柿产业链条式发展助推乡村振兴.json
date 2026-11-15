@@ -1,0 +1,731 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "恭城_月柿产业链条式发展助推乡村振兴.wav",
+  "duration": 154.761,
+  "no_dialect": false,
+  "created_at": "2026-10-26T09:43:55",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.917,
+      "end": 6.319,
+      "label": "guilin",
+      "text": "长期以来，工程瑶族自治县把玉石作为加快经济转型、",
+      "score": 0.6746,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7336,
+        "acoustic_dev": 0.949,
+        "seg_cer": 0.318,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "自/只",
+        "lexicon": "",
+        "text_free": "长期以来，工程要素只只先把劣势作为加快经济转型。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.441,
+      "end": 9.595,
+      "label": "mandarin",
+      "text": "推动富民强县的产业来抓，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动富民强县的产业来抓。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.853,
+      "end": 13.104,
+      "label": "mandarin",
+      "text": "探索统一管理、统一加工、统一品牌、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "探索统一管理、统一加工、统一品牌。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.201,
+      "end": 22.855,
+      "label": "mandarin",
+      "text": "统一销售新模式，形成了集种植、加工、销售和休闲旅游于一体的全产业链发展格局。",
+      "score": 0.0269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0155,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "统一销售新物资，形成了集种植、加工、销售和休闲旅游于一体的全产业链发展格局。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 23.3,
+      "end": 30.428,
+      "label": "mandarin",
+      "text": "走进工程西岭镇杨溪村，只见满山遍野的玉石树结满沉甸甸的柿子，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0313,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "走进工程西岭镇杨溪村，只见满山遍野的月季树结满沉甸甸的柿子。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 30.428,
+      "end": 33.197,
+      "label": "mandarin",
+      "text": "村民们丰收的喜悦溢于言表。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "村民们丰收的喜悦溢于言表。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 33.314,
+      "end": 38.112,
+      "label": "uncertain",
+      "text": "今年，工程瑶族自治县柿子种植面积超过二十万亩，",
+      "score": 0.3973,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3429,
+        "acoustic_dev": 0.417,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "治/子",
+        "lexicon": "",
+        "text_free": "今年，工程要逐子县、市、镇种植面积超过二十万亩。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 38.354,
+      "end": 40.614,
+      "label": "mandarin",
+      "text": "产量七十余万吨。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "产量七十余万吨。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 40.614,
+      "end": 43.013,
+      "label": "mandarin",
+      "text": "平均一亩大概在六七千块钱，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0068,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "平均一亩大概在六七千块钱。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 43.166,
+      "end": 45.851,
+      "label": "mandarin",
+      "text": "那么二十几亩的话，大概十来万的一个收入。",
+      "score": 0.0508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那么二十几亩的话，带来十来万的一个收入。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 45.851,
+      "end": 48.173,
+      "label": "guilin",
+      "text": "现在呢，信息也比较发达一点，",
+      "score": 0.5581,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.1499,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在的信息也比较发达一点。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 48.173,
+      "end": 58.933,
+      "label": "mandarin",
+      "text": "宣传比较到位，所以呢，老板的话都进村啊，做一个点来我们这里收购这个柿子，所以我们不用出货，就直接在下来就可以直接在村里面销售就可以了。",
+      "score": 0.115,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "在/摘",
+        "lexicon": "",
+        "text_free": "宣传比较到位，所以呢，老板的话都进村啊，做一个点来我们这里收购这个柿子。所以我们不用出户，就直接摘下来，就可以直接在村里面销售就可以了。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 58.933,
+      "end": 62.767,
+      "label": "guilin",
+      "text": "还有十五个点，就在杨溪村一个点就在这里，",
+      "score": 0.7216,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8585,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "还有四五个点，就在杨溪区中的一个点，就在这里。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.767,
+      "end": 67.052,
+      "label": "uncertain",
+      "text": "还有都都在连花江工程，都分布有十五个点，",
+      "score": 0.4515,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4492,
+        "acoustic_dev": 0.561,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "还有都都在莲花，这工程都分布有四五个点。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 67.052,
+      "end": 70.62,
+      "label": "mandarin",
+      "text": "一天大概每个点收五六万斤、七八万斤这样。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一天大概每个点收五六万斤、七八万斤这样。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 70.62,
+      "end": 73.272,
+      "label": "uncertain",
+      "text": "当前，为加速玉石产业发展，",
+      "score": 0.3962,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4789,
+        "acoustic_dev": 0.602,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当前，为加速粤式产业发展。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 73.436,
+      "end": 78.275,
+      "label": "mandarin",
+      "text": "工程引导形成公司加合作社加基地加农户模式，",
+      "score": 0.2461,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1465,
+        "acoustic_dev": 0.149,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "户/服 引/应",
+        "lexicon": "",
+        "text_free": "工程应当形成公司加合作社加基地加农服模式。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 78.549,
+      "end": 80.965,
+      "label": "mandarin",
+      "text": "让企业与农户深度合作，",
+      "score": 0.0248,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0721,
+        "acoustic_dev": 0.048,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "让企业与农户深度合作。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 81.229,
+      "end": 83.9,
+      "label": "mandarin",
+      "text": "带动农民生产出更多品质高、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "带动农民生产出更多品质高。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 83.9,
+      "end": 87.965,
+      "label": "mandarin",
+      "text": "商品化率高、质量安全可保障的农产品，",
+      "score": 0.1264,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1348,
+        "acoustic_dev": 0.133,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "商品法律高，质量安全可保障的农产品。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.17,
+      "end": 91.526,
+      "label": "mandarin",
+      "text": "实现企业、市农利益双提升。",
+      "score": 0.0008,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0382,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "实现企业、市农利益双提升。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 91.526,
+      "end": 94.923,
+      "label": "mandarin",
+      "text": "现在我们每年的销量大概是三百多万斤，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在我们每年的销量大概是三百多万斤。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 94.923,
+      "end": 97.692,
+      "label": "mandarin",
+      "text": "以后呢，我们还要扩发欧美、欧盟市场。",
+      "score": 0.105,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0993,
+        "acoustic_dev": 0.085,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以后呢，我们还要拓宽欧美、欧盟市场。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 97.692,
+      "end": 100.7,
+      "label": "mandarin",
+      "text": "作为全国闻名的中国玉石之乡，",
+      "score": 0.052,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1105,
+        "acoustic_dev": 0.1,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为全国闻名的中国玉石之乡。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 100.7,
+      "end": 105.692,
+      "label": "uncertain",
+      "text": "工程玉石则被系统入选第四批中国重要农业文化遗产，",
+      "score": 0.4287,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4417,
+        "acoustic_dev": 0.551,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "则/浙",
+        "lexicon": "",
+        "text_free": "工程院士浙培系统入选第四批中国重要农业文化遗产。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 106.021,
+      "end": 110.268,
+      "label": "mandarin",
+      "text": "列入全球农业文化遗产保护预备名单。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "列入全球农业文化遗产保护预备名单。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 110.555,
+      "end": 113.661,
+      "label": "guilin",
+      "text": "工程推动形成以玉石种植为核心，",
+      "score": 0.607,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6379,
+        "acoustic_dev": 0.819,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "植/子",
+        "lexicon": "",
+        "text_free": "工程推动形成以院士种子为核心。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 113.87,
+      "end": 116.21,
+      "label": "guilin",
+      "text": "集生产、加工、销售、",
+      "score": 0.5853,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8587,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "即生产、加工、销售。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 116.21,
+      "end": 119.446,
+      "label": "guilin",
+      "text": "物流、旅游于一体的柿子产业链条，",
+      "score": 0.6527,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5467,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "柿/四",
+        "lexicon": "",
+        "text_free": "物流、旅游于一体的四子产业链条。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 119.489,
+      "end": 125.354,
+      "label": "mandarin",
+      "text": "脆柿、红柿、柿饼等加工产品以及深加工产品柿子醋、",
+      "score": 0.2931,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1366,
+        "acoustic_dev": 0.136,
+        "seg_cer": 0.381,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "醋/出 柿/私",
+        "lexicon": "",
+        "text_free": "车饰、红饰、饰品等加工产品以及深加工产品，私自出。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 125.354,
+      "end": 128.193,
+      "label": "mandarin",
+      "text": "柿子酒、柿子汁等系列产品，",
+      "score": 0.26,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.833,
+        "phon_examples": "汁/字 子/只 柿/四 子/只 柿/四",
+        "lexicon": "",
+        "text_free": "四只九、四只字等系列产品。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 128.378,
+      "end": 133.171,
+      "label": "mandarin",
+      "text": "远销日本、泰国、东南亚及欧盟等国家和地区，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0217,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "远销日本、泰国、东南亚及欧盟等国家和地区。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 133.57,
+      "end": 136.627,
+      "label": "mandarin",
+      "text": "推动实现玉石产业转型升级。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推动实现玉石产业转型升级。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 136.666,
+      "end": 141.892,
+      "label": "mandarin",
+      "text": "这几年最主要得益于我们在宣传推广方面的一个重视，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这几年，最主要得益于我们在宣传推广方面的一个重视。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 141.892,
+      "end": 144.415,
+      "label": "uncertain",
+      "text": "促进了这个销售的多元化，",
+      "score": 0.4785,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6539,
+        "acoustic_dev": 0.84,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "促进了这一个销售的多元化。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 144.415,
+      "end": 146.908,
+      "label": "uncertain",
+      "text": "在销售方面就有一个很大的拉动，",
+      "score": 0.4122,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6188,
+        "acoustic_dev": 0.793,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在销售方面，就有一个很大的拉动。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 146.908,
+      "end": 150.6,
+      "label": "mandarin",
+      "text": "老百姓就种了之后就不愁销，我们加工出来也不愁卖啊，",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0359,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "老百姓就种了之后就不愁销，我们加工出来也不愁卖。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 150.725,
+      "end": 154.761,
+      "label": "mandarin",
+      "text": "从而形成了一个种植销售的一个良性的一个互动。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从而形成了一个种植销售的一个良性的一个互动。"
+      }
+    }
+  ]
+}

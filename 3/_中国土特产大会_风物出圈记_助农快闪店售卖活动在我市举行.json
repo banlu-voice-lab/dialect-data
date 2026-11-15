@@ -1,0 +1,750 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "_中国土特产大会_风物出圈记_助农快闪店售卖活动在我市举行.wav",
+  "duration": 166.654,
+  "no_dialect": false,
+  "created_at": "2026-10-26T08:27:12",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.772,
+      "label": "mandarin",
+      "text": "首先，我们来关注一下我们的桂林米粉。",
+      "score": 0.3,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0573,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.5,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "首先，嚟关注小红嘅桂林米粉。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.081,
+      "end": 12.132,
+      "label": "mandarin",
+      "text": "前几天，中国土特产大会“风物出圈季”桂林米粉快闪店现场助龙售卖活动在我市举办，",
+      "score": 0.2038,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2037,
+        "acoustic_dev": 0.216,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "前几天，中国土特产大飞“凤舞出圈记”桂林米粉快餐店现场猪笼售卖活动在我市举办。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.378,
+      "end": 16.744,
+      "label": "mandarin",
+      "text": "助力桂林米粉品牌升级。我们一起去现场看下子。",
+      "score": 0.1711,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2171,
+        "acoustic_dev": 0.241,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "助力桂林米粉品牌升级。我们一起去现场去看一下子。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 22.02,
+      "end": 27.1,
+      "label": "mandarin",
+      "text": "活动现场由丁振、李奇悦、刘宇、邓嘉欣、张子墨、",
+      "score": 0.1524,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0885,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "活动现场有丁真、李琦月、刘宇、邓佳鑫、张子墨。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 27.1,
+      "end": 33.4,
+      "label": "uncertain",
+      "text": "袁一奇组成的乡村助龙团正式宣布“小马遇见大海”米粉店开业，",
+      "score": 0.5283,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5942,
+        "acoustic_dev": 0.948,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "袁一琦组成的乡村猪龙团正式宣布：小马遇见大海米粉店开业。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 33.746,
+      "end": 36.55,
+      "label": "mandarin",
+      "text": "并将该品牌捐赠给桂林市。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "并将该品牌捐赠给桂林市。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 36.809,
+      "end": 40.512,
+      "label": "mandarin",
+      "text": "随后，助龙团成员与飞行嘉宾分组登场，",
+      "score": 0.107,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1689,
+        "acoustic_dev": 0.151,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "随后，猪龙团成员与飞行嘉宾分组登场。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 40.76,
+      "end": 43.1,
+      "label": "guilin",
+      "text": "通过表演和特色道具，",
+      "score": 0.5708,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6644,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过表演或特色道具。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 43.1,
+      "end": 47.695,
+      "label": "mandarin",
+      "text": "生动介绍桂林米粉，赢得现场观众热烈反响。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "生动介绍桂林米粉，赢得现场观众热烈反响。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.182,
+      "end": 56.446,
+      "label": "mandarin",
+      "text": "据了解，CCTV时期中国土特产大会是中央广播电视总台探索涉农节目新方向、",
+      "score": 0.0152,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0627,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解，CCTV时期中国土特产大会是中央广播电视总台探索涉农节目新方向。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 56.573,
+      "end": 60.119,
+      "label": "mandarin",
+      "text": "创新融合新打法的重要举措，",
+      "score": 0.3646,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3842,
+        "acoustic_dev": 0.555,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "创新用活新打法的重要举措。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 60.41,
+      "end": 64.388,
+      "label": "guilin",
+      "text": "旨在通过深挖地方资源、资源和文化底蕴，",
+      "score": 0.6545,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6456,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "旨在通过神马地方自然资源或文化底蕴。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 64.575,
+      "end": 68.498,
+      "label": "mandarin",
+      "text": "打造有竞争力的土特产品牌形象。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "打造有竞争力的土特产品牌形象。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 68.961,
+      "end": 74.156,
+      "label": "mandarin",
+      "text": "此次中国土特产大会“风物出圈季”首站来到桂林，",
+      "score": 0.0368,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1262,
+        "acoustic_dev": 0.071,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此次中国土特产大会“风物出圈季”首站来到桂林。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 74.42,
+      "end": 78.359,
+      "label": "guilin",
+      "text": "通过举办桂林米粉快闪店助龙售卖活动，",
+      "score": 0.668,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6158,
+        "acoustic_dev": 0.989,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "助/租",
+        "lexicon": "",
+        "text_free": "通过举办桂林米粉快餐店租龙售卖活动。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 78.359,
+      "end": 81.96,
+      "label": "mandarin",
+      "text": "为桂林米粉产业发展带来了大好机遇，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为桂林米粉产业发展带来了大好机遇。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 82.157,
+      "end": 84.674,
+      "label": "mandarin",
+      "text": "有力推动了品牌建设。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "有力推动了品牌建设。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 84.674,
+      "end": 87.781,
+      "label": "mandarin",
+      "text": "市供销社联动央视、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0643,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "市供销社联动央视。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 87.781,
+      "end": 94.455,
+      "label": "mandarin",
+      "text": "微博、抖音等资源，啊，制作了中国土特产大会“风物出圈季”桂林米粉篇，",
+      "score": 0.1009,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1417,
+        "acoustic_dev": 0.1,
+        "seg_cer": 0.107,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "微博、抖音等资源，啊，制作了《中国土特产大会》《文物出境记》《桂林米粉篇》。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 94.648,
+      "end": 97.028,
+      "label": "mandarin",
+      "text": "共同打造桂林米粉高端品牌“",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "共同打造桂林米粉高端品牌。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 97.31,
+      "end": 100.7,
+      "label": "mandarin",
+      "text": "小马遇见大海”。啊，旨在通过",
+      "score": 0.1515,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2013,
+        "acoustic_dev": 0.211,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "小马遇见大海，啊，只在通过。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 100.975,
+      "end": 104.401,
+      "label": "uncertain",
+      "text": "明星助龙、电商销售、立体宣传，",
+      "score": 0.3947,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3516,
+        "acoustic_dev": 0.493,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "龙/农",
+        "lexicon": "",
+        "text_free": "明星助农，电商销售，立体宣传。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 104.561,
+      "end": 108.547,
+      "label": "mandarin",
+      "text": "促进我市米粉品牌建设，增强区域协作发展，",
+      "score": 0.0254,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "推进我市米粉品牌建设，增强区域协作发展。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 108.661,
+      "end": 112.492,
+      "label": "mandarin",
+      "text": "促进乡村产业链、助力乡村振兴，实现共同富裕。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "促进乡村产业链，助力乡村振兴，实现共同富裕。"
+      }
+    },
+    {
+      "id": 25,
+      "start": 112.602,
+      "end": 115.886,
+      "label": "mandarin",
+      "text": "桂林米粉拥有超过两千年的发展历史，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "桂林米粉拥有超过两千年的发展历史。"
+      }
+    },
+    {
+      "id": 26,
+      "start": 116.018,
+      "end": 119.421,
+      "label": "mandarin",
+      "text": "是广西乃至全国的美食名片，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是广西乃至全国的美食名片。"
+      }
+    },
+    {
+      "id": 27,
+      "start": 119.619,
+      "end": 123.447,
+      "label": "mandarin",
+      "text": "入选第五批国家级非物质文化遗产名录。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "入选第五批国家级非物质文化遗产名录。"
+      }
+    },
+    {
+      "id": 28,
+      "start": 123.578,
+      "end": 129.266,
+      "label": "mandarin",
+      "text": "近年来，我市出台多项政策支持桂林米粉产业高质量发展。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，我市出台多项政策，支持桂林米粉产业高质量发展。"
+      }
+    },
+    {
+      "id": 29,
+      "start": 129.676,
+      "end": 134.276,
+      "label": "mandarin",
+      "text": "目前，全市桂林米粉堂食店铺已经达到了八千多家，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，全市桂林米粉堂食店铺已经达到了八千多家。"
+      }
+    },
+    {
+      "id": 30,
+      "start": 134.592,
+      "end": 137.198,
+      "label": "mandarin",
+      "text": "加工型企业大概一百家，",
+      "score": 0.067,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1571,
+        "acoustic_dev": 0.129,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "加工型企业大概一百家。"
+      }
+    },
+    {
+      "id": 31,
+      "start": 137.471,
+      "end": 140.656,
+      "label": "mandarin",
+      "text": "全产业链产值超一百个亿。",
+      "score": 0.1416,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "链/年",
+        "lexicon": "",
+        "text_free": "全产业年产值超一百个亿。"
+      }
+    },
+    {
+      "id": 32,
+      "start": 140.656,
+      "end": 143.012,
+      "label": "mandarin",
+      "text": "我们将和抖音集团、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们将和抖音集团。"
+      }
+    },
+    {
+      "id": 33,
+      "start": 143.069,
+      "end": 146.058,
+      "label": "guilin",
+      "text": "微博啊、新浪集团深度合作，",
+      "score": 0.5616,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8609,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "微博，呃，新浪集团深度合作。"
+      }
+    },
+    {
+      "id": 34,
+      "start": 146.058,
+      "end": 148.374,
+      "label": "mandarin",
+      "text": "拓展我们的土特产品牌，",
+      "score": 0.1176,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2091,
+        "acoustic_dev": 0.226,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拓展我们的土特产品牌。"
+      }
+    },
+    {
+      "id": 35,
+      "start": 148.374,
+      "end": 151.702,
+      "label": "guilin",
+      "text": "比如说啊，我们的螺蛳粉、百香果等等，",
+      "score": 0.5508,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5596,
+        "acoustic_dev": 0.883,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "比如说啊，我们的罗汉果、百香果等等。"
+      }
+    },
+    {
+      "id": 36,
+      "start": 151.741,
+      "end": 154.338,
+      "label": "guilin",
+      "text": "通过邀请主播达人、",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8756,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "通过，呃，邀请主播啊达人。"
+      }
+    },
+    {
+      "id": 37,
+      "start": 154.338,
+      "end": 157.568,
+      "label": "mandarin",
+      "text": "千万级粉丝主播来桂林，",
+      "score": 0.0302,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1194,
+        "acoustic_dev": 0.058,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "千万级粉丝，主播来桂林。"
+      }
+    },
+    {
+      "id": 38,
+      "start": 157.568,
+      "end": 163.654,
+      "label": "mandarin",
+      "text": "或者在他们直播间开设桂林名特优农产品专场的形式，",
+      "score": 0.164,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1101,
+        "acoustic_dev": 0.041,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "场/产",
+        "lexicon": "",
+        "text_free": "或者在他们直播间开设桂林明特油农产品专产的形式。"
+      }
+    },
+    {
+      "id": 39,
+      "start": 163.678,
+      "end": 166.654,
+      "label": "mandarin",
+      "text": "拓展我们桂林的土特产销售。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "拓展我们桂林的土特产销售。"
+      }
+    }
+  ]
+}
