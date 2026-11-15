@@ -1,0 +1,452 @@
+{
+  "src_audio": "龙胜伟江龙脉岭上梨香四溢 百亩梨园喜迎丰收.wav",
+  "duration": 119.477,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.413,
+      "end": 10.494,
+      "label": "uncertain",
+      "text": "这段时间，隆盛果族自治县魏江乡新寨村龙磨岭新品种水果扶贫示范基地里面是一片繁忙景象，",
+      "score": 0.4101,
+      "signals": {
+        "mand_logprob": -0.3038,
+        "acoustic_dev": 0.537,
+        "seg_cer": 0.225,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.111,
+        "phon_examples": "寨/在",
+        "text_free": "这段时间，龙胜各族自治县委将乡心在城龙摩岭新品种水果扶贫示范基地里面，是一片繁忙景象。",
+        "dur": 10.081,
+        "n_char": 40,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 2,
+      "start": 10.741,
+      "end": 13.283,
+      "label": "mandarin",
+      "text": "一排排梨树整齐排列，",
+      "score": 0.1019,
+      "signals": {
+        "mand_logprob": -0.0122,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一排排隶书整齐排列。",
+        "dur": 2.542,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 3,
+      "start": 13.283,
+      "end": 18.16,
+      "label": "mandarin",
+      "text": "一个个果实挂满枝头。果农们穿梭在梨园里面，",
+      "score": 0.1481,
+      "signals": {
+        "mand_logprob": -0.0117,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "梭/说",
+        "text_free": "一个个果实挂满枝头，果农们传说在梨园里面。",
+        "dur": 4.877,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.16,
+      "end": 21.02,
+      "label": "mandarin",
+      "text": "脸上是洋溢着丰收的喜悦。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "脸上是洋溢着丰收的喜悦。",
+        "dur": 2.86,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.443,
+      "end": 25.109,
+      "label": "mandarin",
+      "text": "示范基地里的梨园占地面积达到一百亩，",
+      "score": 0.0684,
+      "signals": {
+        "mand_logprob": -0.0834,
+        "acoustic_dev": 0.132,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "示范基地里的梨园占地面积达到一百亩。",
+        "dur": 3.666,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.109,
+      "end": 28.732,
+      "label": "mandarin",
+      "text": "酥脆一号梨是基地的主打品种之一，",
+      "score": 0.2144,
+      "signals": {
+        "mand_logprob": -0.0678,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "酥/蔬",
+        "text_free": "蔬菜一号梨是基地的主打品种之一。",
+        "dur": 3.623,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.012,
+      "end": 34.931,
+      "label": "mandarin",
+      "text": "以其果头饱满、汁水丰富、甜度适中而受到消费者的喜爱。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以其果头饱满、汁水丰富、甜度适中而受到消费者的喜爱。",
+        "dur": 5.919,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.203,
+      "end": 37.496,
+      "label": "guilin",
+      "text": "种植户温飞林告诉记者，",
+      "score": 0.7633,
+      "signals": {
+        "mand_logprob": -1.7016,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.9,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "林/岭 植/子 种/总",
+        "text_free": "总子湖温肥岭高速集资。",
+        "dur": 2.293,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.615,
+      "end": 40.88,
+      "label": "uncertain",
+      "text": "酥脆一号于二零一九年引进试种，",
+      "score": 0.5381,
+      "signals": {
+        "mand_logprob": -0.3331,
+        "acoustic_dev": 0.591,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "种/踪 酥/蔬",
+        "text_free": "蔬菜一号于二零一九年引进，失踪。",
+        "dur": 3.265,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.084,
+      "end": 45.804,
+      "label": "mandarin",
+      "text": "经过四年的精心培育，二零二三年终于迎来了试果。",
+      "score": 0.0835,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "嘞",
+        "text_free": "经过四年嘞精心培育，二零二三年终于迎来了水果。",
+        "dur": 4.72,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 11,
+      "start": 46.147,
+      "end": 51.728,
+      "label": "mandarin",
+      "text": "今年酥脆一号正式投产，预计丰产后产值可以达到五十万元。",
+      "score": 0.0549,
+      "signals": {
+        "mand_logprob": -0.0079,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年，苏车一号正式投产，预计逢产后产值可以达到五十万元。",
+        "dur": 5.581,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.151,
+      "end": 56.784,
+      "label": "mandarin",
+      "text": "接下来，黄金梨、秋月梨等品种也相继成熟，",
+      "score": 0.3076,
+      "signals": {
+        "mand_logprob": -0.1661,
+        "acoustic_dev": 0.284,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "接下来，方锦丽、邱月丽等品中也相继成熟。",
+        "dur": 4.633,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.059,
+      "end": 64.511,
+      "label": "mandarin",
+      "text": "八月以后会陆续上市。这些品种各具特色，可以满足不同消费者的口味需求。",
+      "score": 0.0147,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "八月以后非陆续上市。这些品种各具特色，可以满足不同消费者的口味需求。",
+        "dur": 7.452,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 14,
+      "start": 64.511,
+      "end": 69.711,
+      "label": "guilin",
+      "text": "我们针对全县的梨品种老化这呃这个结构问题，",
+      "score": 0.5886,
+      "signals": {
+        "mand_logprob": -0.5859,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们针对全县的礼品中老化的这呃这个结构问题。",
+        "dur": 5.2,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 15,
+      "start": 69.816,
+      "end": 72.406,
+      "label": "mandarin",
+      "text": "我们进行了一些品种结构的改良，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们进行了一些品种结构的改良。",
+        "dur": 2.59,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 16,
+      "start": 72.573,
+      "end": 75.747,
+      "label": "uncertain",
+      "text": "就是呃引进了一些新的梨子品种，",
+      "score": 0.4836,
+      "signals": {
+        "mand_logprob": -0.4829,
+        "acoustic_dev": 0.867,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就是呃，引进了一些新的离子品种。",
+        "dur": 3.174,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 17,
+      "start": 75.925,
+      "end": 82.013,
+      "label": "mandarin",
+      "text": "比如酥脆一号、呃黄金梨和秋月梨等品种来进行呃试种。",
+      "score": 0.0042,
+      "signals": {
+        "mand_logprob": -0.0164,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "比如“酥脆一号”呃，黄金梨和秋月梨等品种来进行呃试种。",
+        "dur": 6.088,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 18,
+      "start": 82.144,
+      "end": 85.18,
+      "label": "mandarin",
+      "text": "呃，从目前的情况表现来看呢，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，从目前的情况表现来看呢。",
+        "dur": 3.036,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 19,
+      "start": 85.18,
+      "end": 87.931,
+      "label": "mandarin",
+      "text": "就是各个品种的表现都非常的良好，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就是各个品种的表现都非常的良好。",
+        "dur": 2.751,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 20,
+      "start": 88.154,
+      "end": 98.74,
+      "label": "mandarin",
+      "text": "呃，那就可以作为今后一段时期乡村产业振兴的一个呃重点的品种来呃在高山半高山一带呢进行大力的推广，",
+      "score": 0.0739,
+      "signals": {
+        "mand_logprob": -0.0788,
+        "acoustic_dev": 0.123,
+        "seg_cer": 0.022,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，那就可以作为今后一段时期乡村产产业振兴的一个呃重点的品种，来呃在高山、半高山一带呢进行大力的推广。",
+        "dur": 10.586,
+        "n_char": 46
+      }
+    },
+    {
+      "id": 21,
+      "start": 98.796,
+      "end": 107.524,
+      "label": "mandarin",
+      "text": "推动我们的产业振兴。梨园的丰收不仅为果农带来了可观的经济收入，也为乡村发展注入了新的活力。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "推动我们的产业振兴。梨园的丰收不仅为果农带来了可观的经济收入，也为乡村发展注入了新的活力。",
+        "dur": 8.728,
+        "n_char": 42
+      }
+    },
+    {
+      "id": 22,
+      "start": 107.934,
+      "end": 111.465,
+      "label": "guilin",
+      "text": "未来当地还将继续做大做强梨产业，",
+      "score": 0.6114,
+      "signals": {
+        "mand_logprob": -1.3989,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "未来，当地还将加速做大做强锂产业。",
+        "dur": 3.531,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 111.711,
+      "end": 116.216,
+      "label": "mandarin",
+      "text": "打造特色农业品牌，推动农业与旅游的深度融合，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "打造特色农业品牌，推动农业与旅游的深度融合。",
+        "dur": 4.505,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 24,
+      "start": 116.401,
+      "end": 119.477,
+      "label": "mandarin",
+      "text": "让更多的村民走上致富之路。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让更多的村民走上致富之路。",
+        "dur": 3.076,
+        "n_char": 12
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

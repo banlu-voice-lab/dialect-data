@@ -1,0 +1,617 @@
+{
+  "src_audio": "资源猴背村高山黄金百香果大量上市 特色产业成乡村振兴强引擎.wav",
+  "duration": 149.64,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.411,
+      "end": 6.311,
+      "label": "mandarin",
+      "text": "从夏到秋，我们桂林本地品种繁多的水果纷纷上市，层出不穷。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从夏到秋，我们桂林本地品种繁多的水果纷纷上市，层出不穷。",
+        "dur": 5.9,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.557,
+      "end": 13.214,
+      "label": "mandarin",
+      "text": "这段时间，资源河口瑶族乡侯背村的高山板姜果已经陆续进入到了采摘期。",
+      "score": 0.3509,
+      "signals": {
+        "mand_logprob": -0.2226,
+        "acoustic_dev": 0.231,
+        "seg_cer": 0.323,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "姜/坚 族/住 资/只",
+        "text_free": "这段时间，只愿活口要住乡侯北城的高山放坚果，已经陆续的进入到了采摘期。",
+        "dur": 6.657,
+        "n_char": 31,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 3,
+      "start": 13.553,
+      "end": 20.696,
+      "label": "mandarin",
+      "text": "这一批产值海拔六百米上的高山地区的特色果品，已经成为了侯背村巩固脱贫成果、",
+      "score": 0.1616,
+      "signals": {
+        "mand_logprob": -0.0842,
+        "acoustic_dev": 0.065,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "值/自",
+        "text_free": "这一批产自海拔六百米以上的高山地区的特色果品，已经成为了后备层，巩固脱贫成果。",
+        "dur": 7.143,
+        "n_char": 35
+      }
+    },
+    {
+      "id": 4,
+      "start": 20.696,
+      "end": 24.285,
+      "label": "mandarin",
+      "text": "推进乡村振兴的重点支柱产业。",
+      "score": 0.0537,
+      "signals": {
+        "mand_logprob": -0.1161,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "推进乡村振兴的重点支柱产业。",
+        "dur": 3.589,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 5,
+      "start": 24.398,
+      "end": 31.191,
+      "label": "guilin",
+      "text": "近年来，侯背村将板姜果种植作为产业结构调整和乡村振兴的重点方向，",
+      "score": 0.6114,
+      "signals": {
+        "mand_logprob": -1.8176,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近年来，后背城将黄金白香果种植作为产业结构调整和乡村振兴的重点方向。",
+        "dur": 6.793,
+        "n_char": 30,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 6,
+      "start": 31.433,
+      "end": 34.552,
+      "label": "uncertain",
+      "text": "采取合作社加基地加脱贫户模式，",
+      "score": 0.5189,
+      "signals": {
+        "mand_logprob": -0.6495,
+        "acoustic_dev": 0.743,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "户/扶",
+        "text_free": "采取合作社加基地加脱贫扶模式。",
+        "dur": 3.119,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 7,
+      "start": 34.716,
+      "end": 37.473,
+      "label": "mandarin",
+      "text": "整合资源，统一标准，联动市场，",
+      "score": 0.006,
+      "signals": {
+        "mand_logprob": -0.0397,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "整合资源，统一标准，联动市场。",
+        "dur": 2.757,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.706,
+      "end": 41.157,
+      "label": "mandarin",
+      "text": "共带动五十余户脱贫户稳定参与种植。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "共带动五十余户脱贫户稳定参与种植。",
+        "dur": 3.451,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.476,
+      "end": 45.654,
+      "label": "mandarin",
+      "text": "二零二四年，村集体经济收入达到了十七点六万元，",
+      "score": 0.0218,
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零二四年，城集体经济收入达到了十七点六万元。",
+        "dur": 4.178,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 10,
+      "start": 45.876,
+      "end": 53.19,
+      "label": "mandarin",
+      "text": "产业效益持续释放。今年，资源县首个智慧农业示范区在侯背村正式投入使用，",
+      "score": 0.056,
+      "signals": {
+        "mand_logprob": -0.051,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.094,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "产业效益持续释放。今年，资源县首个智慧农业示范区在后北城正式投入使用。",
+        "dur": 7.314,
+        "n_char": 32
+      }
+    },
+    {
+      "id": 11,
+      "start": 53.375,
+      "end": 56.179,
+      "label": "mandarin",
+      "text": "为板姜果产业插上了科技的翅膀。",
+      "score": 0.0653,
+      "signals": {
+        "mand_logprob": -0.0091,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为白香果产业插上了科技的翅膀。",
+        "dur": 2.804,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 12,
+      "start": 56.393,
+      "end": 59.968,
+      "label": "mandarin",
+      "text": "通过智能水肥一体化、气候自动监测，",
+      "score": 0.3074,
+      "signals": {
+        "mand_logprob": -0.4253,
+        "acoustic_dev": 0.474,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过智能水费一体发，气候自动监测。",
+        "dur": 3.575,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 13,
+      "start": 59.968,
+      "end": 65.234,
+      "label": "mandarin",
+      "text": "并结合绿色防控等系统，实现了种植管理的精准化和轻简化，",
+      "score": 0.3465,
+      "signals": {
+        "mand_logprob": -0.3589,
+        "acoustic_dev": 0.394,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "轻/勤",
+        "text_free": "并从黑、绿色防控等系统，实现了种植管理的精准化或勤俭化。",
+        "dur": 5.266,
+        "n_char": 25,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 14,
+      "start": 65.402,
+      "end": 68.365,
+      "label": "guilin",
+      "text": "果品质量和产量稳步提升，",
+      "score": 0.7425,
+      "signals": {
+        "mand_logprob": -1.0369,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "产/餐",
+        "text_free": "锅拼质量或餐量稳步提升。",
+        "dur": 2.963,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 15,
+      "start": 68.365,
+      "end": 70.846,
+      "label": "mandarin",
+      "text": "品牌竞争力不断增强。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "品牌竞争力不断增强。",
+        "dur": 2.481,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 16,
+      "start": 70.846,
+      "end": 73.804,
+      "label": "mandarin",
+      "text": "目前村内的百香果种植有四百多亩，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.03,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "目前村内的百香果种植有四百多亩。",
+        "dur": 2.958,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 17,
+      "start": 73.804,
+      "end": 77.393,
+      "label": "mandarin",
+      "text": "今年预计总产量能达到七十万斤以上，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0099,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年预计总产量能达到七十万斤以上。",
+        "dur": 3.589,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 18,
+      "start": 77.471,
+      "end": 80.197,
+      "label": "mandarin",
+      "text": "年产值约四百五十万元，",
+      "score": 0.0573,
+      "signals": {
+        "mand_logprob": -0.1219,
+        "acoustic_dev": 0.11,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "年产值约四百五十万元。",
+        "dur": 2.726,
+        "n_char": 10,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.244,
+      "end": 84.58,
+      "label": "mandarin",
+      "text": "每户每亩的纯收入能达到一万元以上。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "每户、每亩的纯收入能达到一万元以上。",
+        "dur": 4.336,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 20,
+      "start": 84.58,
+      "end": 87.035,
+      "label": "mandarin",
+      "text": "下一步，我们继续加强品牌建设，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0143,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "下一步，我们继续加强品牌建设。",
+        "dur": 2.455,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 21,
+      "start": 87.28,
+      "end": 90.028,
+      "label": "uncertain",
+      "text": "打造侯背村自己的百香果品牌，",
+      "score": 0.3858,
+      "signals": {
+        "mand_logprob": -0.4796,
+        "acoustic_dev": 0.539,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "打造河北省自己的百香果品牌。",
+        "dur": 2.748,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 22,
+      "start": 90.028,
+      "end": 93.5,
+      "label": "mandarin",
+      "text": "加大宣传力度，不断提高市场竞争力。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "加大宣传力度，不断提高市场竞争力。",
+        "dur": 3.472,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 23,
+      "start": 93.5,
+      "end": 96.935,
+      "label": "guilin",
+      "text": "小小的百香果帮助侯背村实现了美丽蜕变，",
+      "score": 0.6216,
+      "signals": {
+        "mand_logprob": -1.3819,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "小小的白香果帮助后备层实现了美丽蜕变。",
+        "dur": 3.435,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 97.114,
+      "end": 101.754,
+      "label": "mandarin",
+      "text": "并助推村庄获评自治区乡村文明建设示范村。",
+      "score": 0.0481,
+      "signals": {
+        "mand_logprob": -0.0131,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并助推村庄获评自治区“享风文明建设示范村”。",
+        "dur": 4.64,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 25,
+      "start": 102.044,
+      "end": 112.317,
+      "label": "mandarin",
+      "text": "七小小百香果巧变乡村振兴致富果案例入选多级精准帮扶与乡村振兴优秀项目示范效应显著。",
+      "score": 0.0731,
+      "signals": {
+        "mand_logprob": -0.1105,
+        "acoustic_dev": 0.097,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "其小小白香果巧变乡村振兴致富果案例入选多级精准帮扶与乡村振兴优秀项目，示范效应显著。",
+        "dur": 10.273,
+        "n_char": 40
+      }
+    },
+    {
+      "id": 26,
+      "start": 112.66,
+      "end": 115.648,
+      "label": "uncertain",
+      "text": "广西师范大学作为侯等帮扶单位，",
+      "score": 0.4516,
+      "signals": {
+        "mand_logprob": -0.6496,
+        "acoustic_dev": 0.743,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "广西师范大学作为后盾帮扶单位。",
+        "dur": 2.988,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 27,
+      "start": 115.648,
+      "end": 118.743,
+      "label": "uncertain",
+      "text": "多年来持续提供技术或资源支持，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -0.9177,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "多年来，持续提供技术或资源支持。",
+        "dur": 3.095,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 28,
+      "start": 118.887,
+      "end": 122.813,
+      "label": "mandarin",
+      "text": "为百香果产业的转型升级注入强劲动力。",
+      "score": 0.0807,
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为白象国产业的转型升级注入强劲动力。",
+        "dur": 3.926,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 29,
+      "start": 123.06,
+      "end": 131.368,
+      "label": "mandarin",
+      "text": "学校每年在中秋节的时候呢，都会向村里选购一批百香果回学校供师生们品尝购买。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "学校每年在中秋节的时候呢，都会向村里选购一批百香果，回学校供师生们品尝购买。",
+        "dur": 8.308,
+        "n_char": 35
+      }
+    },
+    {
+      "id": 30,
+      "start": 131.864,
+      "end": 136.028,
+      "label": "mandarin",
+      "text": "今年，村里面还跟顺丰快递达成了合作协议。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年，村里面还跟顺丰快递达成了合作协议。",
+        "dur": 4.164,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 31,
+      "start": 136.32,
+      "end": 139.949,
+      "label": "mandarin",
+      "text": "这些天，侯背村的百香果第一批上市，",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这些天，侯贝村的百香果第一批上市。",
+        "dur": 3.629,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 32,
+      "start": 140.073,
+      "end": 145.268,
+      "label": "mandarin",
+      "text": "已经向北京、上海等地发出了第一批的黄金百香果。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "已经向北京、上海等地发出了第一批的黄金百香果。",
+        "dur": 5.195,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 33,
+      "start": 145.323,
+      "end": 149.64,
+      "label": "mandarin",
+      "text": "欢迎大家来到咱们侯背村进行品尝和购买。",
+      "score": 0.0254,
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "欢迎大家来到咱们侯贝村，进行品尝和购买。",
+        "dur": 4.317,
+        "n_char": 18
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

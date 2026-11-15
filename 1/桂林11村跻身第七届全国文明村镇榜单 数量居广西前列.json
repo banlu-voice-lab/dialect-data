@@ -1,0 +1,854 @@
+{
+  "src_audio": "桂林11村跻身第七届全国文明村镇榜单 数量居广西前列.wav",
+  "duration": 186.3,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.022,
+      "end": 6.662,
+      "label": "mandarin",
+      "text": "前几天，中央宣传思想文化工作领导小组公布了第七届全国文明村镇名单。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "前几天，中央宣传思想文化工作领导小组公布了第七届全国文明村镇名单。",
+        "dur": 6.64,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.852,
+      "end": 10.353,
+      "label": "mandarin",
+      "text": "我市一共有十一个村庄榜上有名，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0071,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我市一共有十一个村庄，榜上有名。",
+        "dur": 3.501,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.512,
+      "end": 13.037,
+      "label": "mandarin",
+      "text": "数量啊也是居广西前列的。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.104,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "数量啊，也是居广西前列的。",
+        "dur": 2.525,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.037,
+      "end": 18.442,
+      "label": "mandarin",
+      "text": "不，这些文明村庄也串起桂林产业兴旺、生态宜居、",
+      "score": 0.0229,
+      "signals": {
+        "mand_logprob": -0.0931,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这些文明村庄也串起桂林产业兴旺生态宜居。",
+        "dur": 5.405,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.442,
+      "end": 22.219,
+      "label": "uncertain",
+      "text": "乡风文明、治理有效的乡村振兴画卷。",
+      "score": 0.4568,
+      "signals": {
+        "mand_logprob": -0.6674,
+        "acoustic_dev": 0.585,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "相逢文明，治理有效力，相成振兴画卷。",
+        "dur": 3.777,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.675,
+      "end": 26.425,
+      "label": "mandarin",
+      "text": "在此次公布的第七届全国文明村镇名单当中，",
+      "score": 0.1469,
+      "signals": {
+        "mand_logprob": -0.244,
+        "acoustic_dev": 0.144,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在此次公布的第七个全国文明城市名单当中。",
+        "dur": 3.75,
+        "n_char": 19,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.559,
+      "end": 28.892,
+      "label": "mandarin",
+      "text": "上榜的十一个村庄分别是：",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0731,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "上榜的十一个村庄分别是。",
+        "dur": 2.333,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 8,
+      "start": 29.3,
+      "end": 31.708,
+      "label": "guilin",
+      "text": "安山区草坪回族乡前进村、",
+      "score": 0.6133,
+      "signals": {
+        "mand_logprob": -0.8994,
+        "acoustic_dev": 0.827,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "族/猪",
+        "text_free": "安山区草坪肥猪乡前进村。",
+        "dur": 2.408,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 9,
+      "start": 31.955,
+      "end": 34.799,
+      "label": "mandarin",
+      "text": "临桂区万田瑶族乡万田村、",
+      "score": 0.2245,
+      "signals": {
+        "mand_logprob": -0.1366,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "临/灵",
+        "text_free": "灵桂区碗田瑶族乡碗田村。",
+        "dur": 2.844,
+        "n_char": 11,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.05,
+      "end": 39.16,
+      "label": "guilin",
+      "text": "临川县大圩镇毛竹村、合九五镇江头村、",
+      "score": 0.6968,
+      "signals": {
+        "mand_logprob": -1.3766,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "临/陵",
+        "text_free": "陵川县大徐镇毛洲村和九五镇江头村。",
+        "dur": 4.11,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 39.368,
+      "end": 43.49,
+      "label": "mandarin",
+      "text": "永福县白沙镇朝阳村、灌阳县新街镇永福村、",
+      "score": 0.2819,
+      "signals": {
+        "mand_logprob": -0.3234,
+        "acoustic_dev": 0.227,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "新/邢",
+        "text_free": "永福县白首镇朝阳村，关阳县邢改镇永福村。",
+        "dur": 4.122,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 12,
+      "start": 43.658,
+      "end": 46.431,
+      "label": "mandarin",
+      "text": "龙胜各族自治县龙脊镇大寨村、",
+      "score": 0.3782,
+      "signals": {
+        "mand_logprob": -0.3356,
+        "acoustic_dev": 0.239,
+        "seg_cer": 0.615,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.375,
+        "phon_examples": "镇/增 县/相 治/子",
+        "text_free": "龙生各族子子相，龙吉增大泽城。",
+        "dur": 2.773,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 13,
+      "start": 46.665,
+      "end": 53.359,
+      "label": "mandarin",
+      "text": "平乐县平乐镇马尾村、恭城瑶族自治县莲花镇竹山村和龙虎乡龙虎村、",
+      "score": 0.2017,
+      "signals": {
+        "mand_logprob": -0.1062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.414,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "治/子 族/驻",
+        "text_free": "平罗县平罗镇马蔚村，工程要驻子子县连发镇竹山村或龙虎乡龙虎村。",
+        "dur": 6.694,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.605,
+      "end": 56.041,
+      "label": "mandarin",
+      "text": "荔浦市荔浦镇金雷村。",
+      "score": 0.1016,
+      "signals": {
+        "mand_logprob": -0.0216,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "利浦市利浦镇金雷村。",
+        "dur": 2.436,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 15,
+      "start": 56.761,
+      "end": 62.76,
+      "label": "mandarin",
+      "text": "安山区草坪回族乡前进村紧扣筑牢中华民族共同体意识主线，",
+      "score": 0.1527,
+      "signals": {
+        "mand_logprob": -0.0666,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "进/景 族/猪",
+        "text_free": "安山区草坪肥猪乡前景村紧扣筑牢中华民族共同体意识主线。",
+        "dur": 5.999,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.91,
+      "end": 67.263,
+      "label": "mandarin",
+      "text": "把群众对美好生活的期待贯穿文明创建全过程，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0099,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "把群众对美好生活的期待贯穿文明创建全过程。",
+        "dur": 4.353,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 17,
+      "start": 67.718,
+      "end": 70.903,
+      "label": "guilin",
+      "text": "构筑起各族群众凝心聚力、",
+      "score": 0.7209,
+      "signals": {
+        "mand_logprob": -1.0635,
+        "acoustic_dev": 0.998,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "心/形",
+        "text_free": "构筑起广大群众隐形规矩。",
+        "dur": 3.185,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 18,
+      "start": 70.903,
+      "end": 73.567,
+      "label": "mandarin",
+      "text": "精神相依的共有精神家园。",
+      "score": 0.0416,
+      "signals": {
+        "mand_logprob": -0.0612,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "精神相依的公有精神家园。",
+        "dur": 2.664,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 19,
+      "start": 73.626,
+      "end": 77.433,
+      "label": "mandarin",
+      "text": "同时，持续不断加强远恩环境的建设，",
+      "score": 0.2712,
+      "signals": {
+        "mand_logprob": -0.3814,
+        "acoustic_dev": 0.287,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同时，持续不断加强远、嗯、泛经济建设。",
+        "dur": 3.807,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 20,
+      "start": 77.433,
+      "end": 80.121,
+      "label": "guilin",
+      "text": "有力激活回族文化元素，",
+      "score": 0.6571,
+      "signals": {
+        "mand_logprob": -1.68,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "有力激活非物质文化元素。",
+        "dur": 2.688,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 21,
+      "start": 80.296,
+      "end": 82.988,
+      "label": "mandarin",
+      "text": "引领新时代文明实践新风尚，",
+      "score": 0.3321,
+      "signals": {
+        "mand_logprob": -0.3542,
+        "acoustic_dev": 0.259,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "新/行",
+        "text_free": "引领新时代文明，世间行风尚。",
+        "dur": 2.692,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 22,
+      "start": 83.251,
+      "end": 88.657,
+      "label": "mandarin",
+      "text": "谱写出民族团结进步与乡风文明和谐的崭新篇章。",
+      "score": 0.0218,
+      "signals": {
+        "mand_logprob": -0.0331,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "谱写出民族团结进步与祥风文明和谐的崭新篇章。",
+        "dur": 5.406,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 23,
+      "start": 88.704,
+      "end": 92.303,
+      "label": "mandarin",
+      "text": "临川县大圩镇毛竹村和九五镇江头村，",
+      "score": 0.2796,
+      "signals": {
+        "mand_logprob": -0.4637,
+        "acoustic_dev": 0.373,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "临川县大学镇毛洲村或九五镇江头村。",
+        "dur": 3.599,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 92.451,
+      "end": 95.802,
+      "label": "guilin",
+      "text": "这一文化为纽带、彰显生态文明，",
+      "score": 0.6903,
+      "signals": {
+        "mand_logprob": -3.3856,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "这/则",
+        "text_free": "则以文化为纽带，彰显生态文明。",
+        "dur": 3.351,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 25,
+      "start": 96.075,
+      "end": 98.965,
+      "label": "guilin",
+      "text": "培育乡风好、村风家风、",
+      "score": 0.5708,
+      "signals": {
+        "mand_logprob": -1.4244,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "培育乡村好村风、家风。",
+        "dur": 2.89,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 26,
+      "start": 98.965,
+      "end": 102.824,
+      "label": "mandarin",
+      "text": "民风，通过打造青年文化、精神文明、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0982,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "民风，通过打造青年文化、精神文明。",
+        "dur": 3.859,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 27,
+      "start": 102.824,
+      "end": 107.639,
+      "label": "mandarin",
+      "text": "法治宣传等阵地，推动理论思想飞入寻常百姓家。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "法治宣传等阵地，推动理论思想飞入寻常百姓家。",
+        "dur": 4.815,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 28,
+      "start": 108.021,
+      "end": 110.871,
+      "label": "mandarin",
+      "text": "常态化开展乡村文化旅游体验活动，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0729,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "常态化开展乡村文化旅游体验活动。",
+        "dur": 2.85,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 29,
+      "start": 111.071,
+      "end": 114.895,
+      "label": "guilin",
+      "text": "打造具有代表性和影响力的城镇文化品牌形象，",
+      "score": 0.5657,
+      "signals": {
+        "mand_logprob": -1.0659,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "打造具有代表性或影响力的城特文化品牌形象。",
+        "dur": 3.824,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 30,
+      "start": 115.156,
+      "end": 119.305,
+      "label": "mandarin",
+      "text": "并积极传递榜样力量，引领文明风尚。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并积极传递榜样力量，引领文明风尚。",
+        "dur": 4.149,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 31,
+      "start": 119.818,
+      "end": 123.901,
+      "label": "mandarin",
+      "text": "龙胜龙脊镇大寨村这一少数民族民俗文化为本，",
+      "score": 0.2773,
+      "signals": {
+        "mand_logprob": -0.2877,
+        "acoustic_dev": 0.189,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "这/则",
+        "text_free": "龙生龙，继真大寨村则以少数民族民俗文化为魂。",
+        "dur": 4.083,
+        "n_char": 20,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 32,
+      "start": 124.171,
+      "end": 128.398,
+      "label": "mandarin",
+      "text": "把开耕节、晒衣节等传统节庆融入乡村旅游。",
+      "score": 0.195,
+      "signals": {
+        "mand_logprob": -0.1395,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.278,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "耕/根",
+        "text_free": "把开根节、三叶节等传统节庆用于乡村旅游。",
+        "dur": 4.227,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 33,
+      "start": 128.623,
+      "end": 133.861,
+      "label": "mandarin",
+      "text": "目前，大寨村已有两百三十多户村民开设各具特色的民宿。",
+      "score": 0.019,
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "目前，大寨村已有两百三十多户村民开设颇具特色的民宿。",
+        "dur": 5.238,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 34,
+      "start": 134.236,
+      "end": 139.49,
+      "label": "mandarin",
+      "text": "二零二四年，村里领取了六百九十三点六万元旅游分红，",
+      "score": 0.0199,
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零二四年，村里头领取了六百九十三点六万元旅游分红。",
+        "dur": 5.254,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 35,
+      "start": 139.578,
+      "end": 142.189,
+      "label": "mandarin",
+      "text": "户均分红二点四六万元。",
+      "score": 0.1914,
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "户/福",
+        "text_free": "福军分红二点四六万元。",
+        "dur": 2.611,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 36,
+      "start": 142.37,
+      "end": 149.939,
+      "label": "mandarin",
+      "text": "曾经贫困闭塞的小瑶寨，如今已经成为了文明富足、远近闻名的旅游胜地。",
+      "score": 0.061,
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "曾经贫困闭塞的小瑶寨，如今已经成为了闻名福州、远近闻名的旅游胜地。",
+        "dur": 7.569,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 37,
+      "start": 150.367,
+      "end": 154.789,
+      "label": "mandarin",
+      "text": "在这些城镇当中，有筑牢中华民族共同体意识的代表，",
+      "score": 0.1416,
+      "signals": {
+        "mand_logprob": -0.0931,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "城/层",
+        "text_free": "在这些层层当中，有筑牢中华民族共同体意识的代表。",
+        "dur": 4.422,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 38,
+      "start": 154.928,
+      "end": 157.934,
+      "label": "mandarin",
+      "text": "也有打造城镇文化品牌形象的典范。",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也有打造城腾文化品牌形象的典范。",
+        "dur": 3.006,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 39,
+      "start": 158.21,
+      "end": 162.082,
+      "label": "mandarin",
+      "text": "他们积极传递榜样力量，引领做文明风尚，",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0097,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "他们积极传递榜样力量，引领着文明风尚。",
+        "dur": 3.872,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 40,
+      "start": 162.249,
+      "end": 165.398,
+      "label": "mandarin",
+      "text": "同时也串起桂林产业兴旺、",
+      "score": 0.2049,
+      "signals": {
+        "mand_logprob": -0.4839,
+        "acoustic_dev": 0.394,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同时，也串起桂林产业兴旺。",
+        "dur": 3.149,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 41,
+      "start": 165.398,
+      "end": 167.585,
+      "label": "guilin",
+      "text": "生态宜居、乡风文明、",
+      "score": 0.6143,
+      "signals": {
+        "mand_logprob": -0.6088,
+        "acoustic_dev": 0.524,
+        "seg_cer": 0.75,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.167,
+        "phon_examples": "生/身",
+        "text_free": "身體易主，相逢文明。",
+        "dur": 2.187,
+        "n_char": 8,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 42,
+      "start": 167.585,
+      "end": 169.919,
+      "label": "mandarin",
+      "text": "治理有效的乡村振兴画卷。",
+      "score": 0.0217,
+      "signals": {
+        "mand_logprob": -0.1462,
+        "acoustic_dev": 0.042,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "治理有效的乡村振兴画卷。",
+        "dur": 2.334,
+        "n_char": 11,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 43,
+      "start": 170.367,
+      "end": 174.792,
+      "label": "mandarin",
+      "text": "下一步，我还将继续把这些经验推广到更多的乡村，",
+      "score": 0.324,
+      "signals": {
+        "mand_logprob": -0.5831,
+        "acoustic_dev": 0.497,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "下一步，我是还将技术把这些经验推广到更多的乡村。",
+        "dur": 4.425,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 44,
+      "start": 175.029,
+      "end": 178.903,
+      "label": "mandarin",
+      "text": "让更多的群众。既富口袋也富脑袋，",
+      "score": 0.1532,
+      "signals": {
+        "mand_logprob": -0.3887,
+        "acoustic_dev": 0.295,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让更多的群众既富口袋，也富脑袋。",
+        "dur": 3.874,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 45,
+      "start": 179.096,
+      "end": 186.3,
+      "label": "mandarin",
+      "text": "为打造世界级旅游城市、建设新时代壮美广西提供更加坚实的乡村基础。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0443,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为打造世界级旅游城市，建设新时代壮美广西，提供更加坚实的乡村基础。",
+        "dur": 7.204,
+        "n_char": 30
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

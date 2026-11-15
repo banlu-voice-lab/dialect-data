@@ -1,0 +1,1181 @@
+{
+  "src_audio": "桂林文旅焕新促流量变增量.wav",
+  "duration": 282.079,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.928,
+      "label": "mandarin",
+      "text": "今年首先来关注一下我们桂林的旅游。",
+      "score": 0.0286,
+      "signals": {
+        "mand_logprob": -0.0075,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天首先来关注一下我们桂林的旅游。",
+        "dur": 2.928,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.124,
+      "end": 10.502,
+      "label": "mandarin",
+      "text": "今年以来，我是以文旅创新为动力，用新奇的耍法丰富游客多元文旅体验，",
+      "score": 0.04,
+      "signals": {
+        "mand_logprob": -0.0209,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "耍",
+        "text_free": "今年以来，我是以文旅创新为动力，用新奇的耍法丰富游客多元文旅体验。",
+        "dur": 7.378,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.805,
+      "end": 15.007,
+      "label": "mandarin",
+      "text": "让我们桂林文旅市场持续保持火热态势。",
+      "score": 0.1541,
+      "signals": {
+        "mand_logprob": -0.107,
+        "acoustic_dev": 0.089,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "仰望桂林文旅市场，持续保持火焰态势。",
+        "dur": 4.202,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 4,
+      "start": 20.42,
+      "end": 24.581,
+      "label": "mandarin",
+      "text": "进入初期以来，阳朔遇龙河景区进入了旅游旺季，",
+      "score": 0.0229,
+      "signals": {
+        "mand_logprob": -0.0156,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "进入初期以来，阳朔玉龙河景区进入了旅游旺季。",
+        "dur": 4.161,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 5,
+      "start": 24.786,
+      "end": 28.107,
+      "label": "mandarin",
+      "text": "漓江流域的绿水青山激活了金山银山，",
+      "score": 0.0197,
+      "signals": {
+        "mand_logprob": -0.0683,
+        "acoustic_dev": 0.038,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "漓江流域的绿水青山激活了金山银山。",
+        "dur": 3.321,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.107,
+      "end": 30.991,
+      "label": "mandarin",
+      "text": "生态红利正转化为发展动能。",
+      "score": 0.35,
+      "signals": {
+        "mand_logprob": -0.0366,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.417,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.2,
+        "phon_examples": "生/身",
+        "text_free": "身贴红脸，整张化为发展动能。",
+        "dur": 2.884,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.277,
+      "end": 35.015,
+      "label": "guilin",
+      "text": "长40公里的遇龙河支干景区核心阿门、",
+      "score": 0.5699,
+      "signals": {
+        "mand_logprob": -0.6408,
+        "acoustic_dev": 0.803,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "长四十公里的玉龙河之畔，景区核心阿门。",
+        "dur": 3.738,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.015,
+      "end": 37.36,
+      "label": "uncertain",
+      "text": "防土、旧县、骑马等村，",
+      "score": 0.5215,
+      "signals": {
+        "mand_logprob": -0.5602,
+        "acoustic_dev": 0.695,
+        "seg_cer": 0.625,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "放土、救线、祭马等称。",
+        "dur": 2.345,
+        "n_char": 8,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.714,
+      "end": 40.371,
+      "label": "mandarin",
+      "text": "村村有民宿、富富搞旅游，",
+      "score": 0.3638,
+      "signals": {
+        "mand_logprob": -0.288,
+        "acoustic_dev": 0.331,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "富/户 富/户",
+        "text_free": "村村有民宿，户户搞旅游。",
+        "dur": 2.657,
+        "n_char": 10,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.557,
+      "end": 43.307,
+      "label": "guilin",
+      "text": "村民年均收入突破5万元，",
+      "score": 0.7571,
+      "signals": {
+        "mand_logprob": -1.5936,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "年/联",
+        "text_free": "村民联军收入突破五万元。",
+        "dur": 2.75,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.449,
+      "end": 46.131,
+      "label": "guilin",
+      "text": "是广西平均水平的.23倍。",
+      "score": 0.6724,
+      "signals": {
+        "mand_logprob": -3.116,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "是广西平均水平的二点三倍。",
+        "dur": 2.682,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.42,
+      "end": 49.899,
+      "label": "mandarin",
+      "text": "遇龙河景区依托喀斯特山水与生态资源，",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "玉龙河景区依托喀斯特山水与生态资源。",
+        "dur": 3.479,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 13,
+      "start": 50.081,
+      "end": 53.893,
+      "label": "mandarin",
+      "text": "举办漂流节、巨龙巡游等活动，",
+      "score": 0.255,
+      "signals": {
+        "mand_logprob": -0.2973,
+        "acoustic_dev": 0.344,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "举办漂流节、聚龙巡游等等活动。",
+        "dur": 3.812,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.893,
+      "end": 56.261,
+      "label": "mandarin",
+      "text": "不断的吸引全球客流。",
+      "score": 0.3575,
+      "signals": {
+        "mand_logprob": -0.4082,
+        "acoustic_dev": 0.492,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不断地吸引着全球客流。",
+        "dur": 2.368,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 15,
+      "start": 56.805,
+      "end": 60.166,
+      "label": "uncertain",
+      "text": "初期的漓江山水游发在磨盘山码头，",
+      "score": 0.3835,
+      "signals": {
+        "mand_logprob": -0.4165,
+        "acoustic_dev": 0.503,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "初七，漓漓江山水入画，在磨盘山码头。",
+        "dur": 3.361,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 16,
+      "start": 60.321,
+      "end": 65.556,
+      "label": "guilin",
+      "text": "是各地的游客真正上桂林新境打造的特色主题游船，",
+      "score": 0.6103,
+      "signals": {
+        "mand_logprob": -0.6248,
+        "acoustic_dev": 0.782,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "境/晋 真/正",
+        "text_free": "世界各地的游客正登上桂林新晋打造的特色主题游船。",
+        "dur": 5.235,
+        "n_char": 22,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 17,
+      "start": 65.824,
+      "end": 68.246,
+      "label": "mandarin",
+      "text": "开启绝美的漓江之旅。",
+      "score": 0.0508,
+      "signals": {
+        "mand_logprob": -0.0163,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "开启绝美的丽江之旅。",
+        "dur": 2.422,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 18,
+      "start": 69.321,
+      "end": 72.46,
+      "label": "mandarin",
+      "text": "看看这些秀丽的山峰和美丽的漓江，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "看看这些秀丽的山峰和美丽的漓江。",
+        "dur": 3.139,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 19,
+      "start": 72.52,
+      "end": 75.64,
+      "label": "mandarin",
+      "text": "我们感到非常高兴，也满怀期待。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们感到非常高兴，也满怀期待。",
+        "dur": 3.12,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 20,
+      "start": 76.07,
+      "end": 81.823,
+      "label": "mandarin",
+      "text": "作为桂林山水风光游的代表，漓江游船游览品质化不断提升。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "作为桂林山水风光游的代表，漓江游船游览品质化不断提升。",
+        "dur": 5.753,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 21,
+      "start": 81.908,
+      "end": 87.369,
+      "label": "mandarin",
+      "text": "目前，桂林市在严肃大众化、三星级中高端四星级、",
+      "score": 0.0176,
+      "signals": {
+        "mand_logprob": -0.0653,
+        "acoustic_dev": 0.034,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "目前，桂林市在严肃大众化、三星级、中高端四星级。",
+        "dur": 5.461,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 22,
+      "start": 87.545,
+      "end": 90.413,
+      "label": "mandarin",
+      "text": "高端及私人定制五星级游船，",
+      "score": 0.3672,
+      "signals": {
+        "mand_logprob": -0.284,
+        "acoustic_dev": 0.326,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "私/适",
+        "text_free": "高端即适应定制五星级游船。",
+        "dur": 2.868,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 23,
+      "start": 90.413,
+      "end": 95.797,
+      "label": "mandarin",
+      "text": "以及休闲清水排筏等等多样化旅游产品的框架之下，",
+      "score": 0.2449,
+      "signals": {
+        "mand_logprob": -0.3625,
+        "acoustic_dev": 0.431,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以及休闲、清水、排发等等多样化旅游产品的框架之下。",
+        "dur": 5.384,
+        "n_char": 22,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 96.153,
+      "end": 99.934,
+      "label": "guilin",
+      "text": "陆续的推出了茶文化、六山节、亲子、",
+      "score": 0.7009,
+      "signals": {
+        "mand_logprob": -0.7168,
+        "acoustic_dev": 0.904,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "亲/青 山/三",
+        "text_free": "陆续的推出了《茶文化》《刘三姐》《青子》。",
+        "dur": 3.781,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 25,
+      "start": 99.934,
+      "end": 102.088,
+      "label": "mandarin",
+      "text": "桂发等等特色主题游船。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0213,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂发等等特色主题游船。",
+        "dur": 2.154,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 26,
+      "start": 102.519,
+      "end": 106.943,
+      "label": "guilin",
+      "text": "泛延异性的船内装饰和主题鲜明的特色服务，",
+      "score": 0.653,
+      "signals": {
+        "mand_logprob": -0.7494,
+        "acoustic_dev": 0.948,
+        "seg_cer": 0.368,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "翻颜异形的，穿的装饰或主题选明的特色服务。",
+        "dur": 4.424,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 27,
+      "start": 107.23,
+      "end": 115.714,
+      "label": "mandarin",
+      "text": "培育网红流量爆点。除了景点景区推陈出新，桂林市差异化文旅体验正悄然兴起。",
+      "score": 0.1416,
+      "signals": {
+        "mand_logprob": -0.0189,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "新/行 陈/城",
+        "text_free": "培育网红流量爆点。除了景点景区，特城出行，桂林市差异化文旅体验正悄然兴起。",
+        "dur": 8.484,
+        "n_char": 33
+      }
+    },
+    {
+      "id": 28,
+      "start": 116.056,
+      "end": 120.784,
+      "label": "mandarin",
+      "text": "五年以来，林区景区历经了修缮与保护提升，",
+      "score": 0.0959,
+      "signals": {
+        "mand_logprob": -0.1414,
+        "acoustic_dev": 0.136,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "五月以来，林区景区历经了修缮与保护提升。",
+        "dur": 4.728,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 29,
+      "start": 121.009,
+      "end": 124.165,
+      "label": "mandarin",
+      "text": "正式面向全球游客免费开放。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "正式面向全球游客免费开放。",
+        "dur": 3.156,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 30,
+      "start": 124.624,
+      "end": 129.06,
+      "label": "mandarin",
+      "text": "暑假期间，这个始于清代的全球水利工程奇迹，",
+      "score": 0.0481,
+      "signals": {
+        "mand_logprob": -0.0373,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "出嫁期间，这个始于清代的全球水利工程奇迹。",
+        "dur": 4.436,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 31,
+      "start": 129.265,
+      "end": 134.49,
+      "label": "uncertain",
+      "text": "凭借着其深厚的历史底蕴与泛延异性的游览体验，",
+      "score": 0.428,
+      "signals": {
+        "mand_logprob": -0.5306,
+        "acoustic_dev": 0.656,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "凭借着其深厚的历史底蕴与繁衍一系的游览体验。",
+        "dur": 5.225,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 32,
+      "start": 134.678,
+      "end": 139.489,
+      "label": "mandarin",
+      "text": "吸引大批研学团队游客慕名前来参观。",
+      "score": 0.2485,
+      "signals": {
+        "mand_logprob": -0.2742,
+        "acoustic_dev": 0.313,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "新作大批研学团队游客慕名前来参选。",
+        "dur": 4.811,
+        "n_char": 16,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 33,
+      "start": 139.879,
+      "end": 143.835,
+      "label": "mandarin",
+      "text": "升级后的景区以历史加生态加科技为核心，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "升级后的景区以历史加生态加科技为核心。",
+        "dur": 3.956,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 34,
+      "start": 144.037,
+      "end": 147.802,
+      "label": "mandarin",
+      "text": "让游客通过AI技术穿越千年。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让游客通过 AR 技术穿越千年。",
+        "dur": 3.765,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 35,
+      "start": 147.887,
+      "end": 150.124,
+      "label": "uncertain",
+      "text": "我整体感觉，林区的整个环境啊，",
+      "score": 0.3897,
+      "signals": {
+        "mand_logprob": -0.3556,
+        "acoustic_dev": 0.422,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "林/灵",
+        "text_free": "我整体感觉灵渠的整个环境啊。",
+        "dur": 2.237,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 36,
+      "start": 150.124,
+      "end": 154.12,
+      "label": "guilin",
+      "text": "我一进去就感觉漂亮，很好，好的河道也很整洁，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -4.5514,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.632,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "包括一些细节地方做的很漂亮，很好。包括河道也很整洁。",
+        "dur": 3.996,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 37,
+      "start": 154.196,
+      "end": 160.12,
+      "label": "mandarin",
+      "text": "然后这个服务设施也很完善。AI赋能提质增效，开辟的是智慧文旅新赛道。",
+      "score": 0.0315,
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后，第一个服务设施也很完善。A I赋能提质增效，开辟的是智慧文旅新赛道。",
+        "dur": 5.924,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 38,
+      "start": 160.368,
+      "end": 165.178,
+      "label": "guilin",
+      "text": "今年以来，桂林市各景区、市游市是人工智能加行动，",
+      "score": 0.6071,
+      "signals": {
+        "mand_logprob": -1.5126,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年以来，桂林市各景区深入实施“人工智能加”行动。",
+        "dur": 4.81,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 39,
+      "start": 165.397,
+      "end": 168.77,
+      "label": "mandarin",
+      "text": "抢占文旅产业数字化转型先机。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "抢占文旅产业数字化转型先机。",
+        "dur": 3.373,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 40,
+      "start": 169.053,
+      "end": 171.753,
+      "label": "guilin",
+      "text": "桂林以城游AI助手的推出，",
+      "score": 0.7405,
+      "signals": {
+        "mand_logprob": -1.3194,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "城/层",
+        "text_free": "桂林一层有 AI 助手的推出。",
+        "dur": 2.7,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 41,
+      "start": 171.753,
+      "end": 174.421,
+      "label": "mandarin",
+      "text": "整合全市文旅资源的数字平台，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0329,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "整合全市文旅资源的数字平台。",
+        "dur": 2.668,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 42,
+      "start": 174.626,
+      "end": 178.372,
+      "label": "mandarin",
+      "text": "通过AI算法为游客提供精准服务，",
+      "score": 0.2152,
+      "signals": {
+        "mand_logprob": -0.3497,
+        "acoustic_dev": 0.414,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过 AI 算法为游客提供精准服务。",
+        "dur": 3.746,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 43,
+      "start": 178.627,
+      "end": 182.642,
+      "label": "mandarin",
+      "text": "在阳朔县。当地运用“爱游阳朔”智慧文旅平台，",
+      "score": 0.0626,
+      "signals": {
+        "mand_logprob": -0.057,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在阳朔县，当地运用矮油阳朔智慧文旅平台。",
+        "dur": 4.015,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 44,
+      "start": 182.843,
+      "end": 188.096,
+      "label": "mandarin",
+      "text": "通过大数据分析景区游客流量，及时调整售票、检票速度，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过大数据分析景区游客流量，及时调整售票、检票速度。",
+        "dur": 5.253,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 45,
+      "start": 188.514,
+      "end": 191.505,
+      "label": "mandarin",
+      "text": "避免游客长时间排队等待。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "避免游客长时间排队等待。",
+        "dur": 2.991,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 46,
+      "start": 191.882,
+      "end": 198.406,
+      "label": "guilin",
+      "text": "市足几经正式上线，开启科技加文旅加安防融合发展模式。",
+      "score": 0.6343,
+      "signals": {
+        "mand_logprob": -0.798,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "四座机器人正式上线，开启科技加文旅加安防融合发展新模式。",
+        "dur": 6.524,
+        "n_char": 24,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 47,
+      "start": 198.735,
+      "end": 204.222,
+      "label": "mandarin",
+      "text": "几经与游客握手、翻跟斗等的互动表演，成功的吸引客流。",
+      "score": 0.0596,
+      "signals": {
+        "mand_logprob": -0.0092,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "激情与游客握手、翻跟斗等的互动表演，成功地吸引客流。",
+        "dur": 5.487,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 48,
+      "start": 204.222,
+      "end": 210.735,
+      "label": "mandarin",
+      "text": "在客源拓展方面，今年以来我是同样奏足功课。",
+      "score": 0.222,
+      "signals": {
+        "mand_logprob": -0.1464,
+        "acoustic_dev": 0.142,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "奏/周",
+        "text_free": "在客源拓展方面，今年以来，我是同样周作功课。",
+        "dur": 6.513,
+        "n_char": 19,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 49,
+      "start": 211.0,
+      "end": 216.911,
+      "label": "mandarin",
+      "text": "今年以来我是联合香港旅游企业组织的香港直通专列陆续抵达桂林。",
+      "score": 0.0158,
+      "signals": {
+        "mand_logprob": -0.04,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年以来，我市联合香港旅游企业组织的香港直通专列陆续抵达桂林。",
+        "dur": 5.911,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 50,
+      "start": 217.273,
+      "end": 221.624,
+      "label": "mandarin",
+      "text": "桂林往返吉隆坡、香港等地的直飞航线恢复开通。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂林往返吉隆坡、香港等地的直飞航线恢复开通。",
+        "dur": 4.351,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 51,
+      "start": 221.986,
+      "end": 225.842,
+      "label": "mandarin",
+      "text": "在便利东南亚游客、香港游客入桂的同时，",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0386,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在便利东南亚游客、香港游客入归的同时。",
+        "dur": 3.856,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 52,
+      "start": 226.044,
+      "end": 230.887,
+      "label": "mandarin",
+      "text": "还将串联起欧美、日韩等中远程入境游客市场。",
+      "score": 0.0241,
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "还将串联起欧美、意、韩等中远程入境游客市场。",
+        "dur": 4.843,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 53,
+      "start": 231.293,
+      "end": 236.255,
+      "label": "mandarin",
+      "text": "在城市合作方面，桂林和沈阳启动互访春天活动，",
+      "score": 0.2014,
+      "signals": {
+        "mand_logprob": -0.1202,
+        "acoustic_dev": 0.107,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "访/返 互/复",
+        "text_free": "在城市合作方面，桂林和沈阳启动“复返春天”活动。",
+        "dur": 4.962,
+        "n_char": 20,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 54,
+      "start": 236.255,
+      "end": 242.265,
+      "label": "uncertain",
+      "text": "并宣布年内全市六十家A级旅游景区向省正式名免收导门票。",
+      "score": 0.535,
+      "signals": {
+        "mand_logprob": -0.4818,
+        "acoustic_dev": 0.59,
+        "seg_cer": 0.28,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.714,
+        "phon_examples": "名/民 正/圳 省/深 内/累 年/连",
+        "text_free": "并宣布，连累全市六十家A级旅游景区，向深圳市民免收到门票。",
+        "dur": 6.01,
+        "n_char": 25,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 55,
+      "start": 242.591,
+      "end": 250.662,
+      "label": "mandarin",
+      "text": "今年广西执行对外省级非运营车辆免收广西境内特定省级高速公路路段车辆通行费。",
+      "score": 0.0127,
+      "signals": {
+        "mand_logprob": -0.0171,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.028,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年，广西执行对外升级非运营车辆免收广西境内特定省级高速公路路段车辆通行费。",
+        "dur": 8.071,
+        "n_char": 36
+      }
+    },
+    {
+      "id": 56,
+      "start": 250.899,
+      "end": 253.756,
+      "label": "mandarin",
+      "text": "我是以敞开怀抱迎客的满满诚意，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我是以敞开怀抱迎客的满满诚意。",
+        "dur": 2.857,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 57,
+      "start": 253.99,
+      "end": 259.288,
+      "label": "mandarin",
+      "text": "配合推出节假日期间桂林统筹重点旅游县市区行政机关、",
+      "score": 0.0624,
+      "signals": {
+        "mand_logprob": -0.1298,
+        "acoustic_dev": 0.12,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "配合推出节假日期间桂林统筹重点旅游县市区行政机关。",
+        "dur": 5.298,
+        "n_char": 24,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 58,
+      "start": 259.288,
+      "end": 262.579,
+      "label": "guilin",
+      "text": "事业单位和国有企业里的停车位，",
+      "score": 0.5853,
+      "signals": {
+        "mand_logprob": -3.491,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "事业单位或国有企业的停车位。",
+        "dur": 3.291,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 59,
+      "start": 262.579,
+      "end": 268.252,
+      "label": "mandarin",
+      "text": "配合自治区政策推行，对节假日自驾桂林的游客免费开放，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0209,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "配合自治区政策推行，对节假日自驾桂林的游客免费开放。",
+        "dur": 5.673,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 60,
+      "start": 268.252,
+      "end": 272.007,
+      "label": "mandarin",
+      "text": "彰显提升旅游服务质量的决心与魄力。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "彰显提升旅游服务质量的决心与魄力。",
+        "dur": 3.755,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 61,
+      "start": 272.007,
+      "end": 278.073,
+      "label": "mandarin",
+      "text": "第一次带家人过来，就第一次碰到就是桂林这边是免费停车的，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "第一次带家人过来，就第一次碰到，就是桂林这边是免费停车的。",
+        "dur": 6.066,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 62,
+      "start": 278.073,
+      "end": 280.719,
+      "label": "mandarin",
+      "text": "我觉得这样的体验非常好，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我觉得这样的体验非常好。",
+        "dur": 2.646,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 63,
+      "start": 281.039,
+      "end": 282.079,
+      "label": "mandarin",
+      "text": "为桂林点个赞。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为桂林点个赞。",
+        "dur": 1.04,
+        "n_char": 6
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

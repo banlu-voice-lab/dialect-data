@@ -1,0 +1,846 @@
+{
+  "src_audio": "我市2025年第一批电梯更新改造项目启动 叠彩区罗蔓花园住户成首批得.wav",
+  "duration": 236.683,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.141,
+      "end": 5.654,
+      "label": "mandarin",
+      "text": "今天先来关注一下我们桂林的住宅老旧电梯更新改造。",
+      "score": 0.0398,
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天先来关注一下我们桂林的株洲老旧电梯更新改造。",
+        "dur": 5.513,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.866,
+      "end": 17.305,
+      "label": "mandarin",
+      "text": "我们前几天，我市二零二五年超长期国债支持住宅老旧电梯更新第一批更新改造项目在叠彩区罗曼花园启动，",
+      "score": 0.1471,
+      "signals": {
+        "mand_logprob": -0.0328,
+        "acoustic_dev": 0.086,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "住/组",
+        "text_free": "我们前几天，我市二零二五年超长期国债支持，组织老旧电梯更新，第一批更新改造项目在电车区罗曼花园启动。",
+        "dur": 11.439,
+        "n_char": 46
+      }
+    },
+    {
+      "id": 3,
+      "start": 17.594,
+      "end": 23.283,
+      "label": "mandarin",
+      "text": "该小区住户成为了今年我市首批享受到这一利好政策的市民。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "该小区住户成为了今年我市首批享受到这一利好政策的市民。",
+        "dur": 5.689,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 4,
+      "start": 23.563,
+      "end": 28.828,
+      "label": "mandarin",
+      "text": "居民朋友们终于可以换掉使用了二十年之久的电梯，",
+      "score": 0.0966,
+      "signals": {
+        "mand_logprob": -0.0477,
+        "acoustic_dev": 0.146,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "居民朋友们终于可以翻掉使用了二十年之久的电梯。",
+        "dur": 5.265,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 5,
+      "start": 28.922,
+      "end": 31.818,
+      "label": "guilin",
+      "text": "改了新头的完美之境。",
+      "score": 0.73,
+      "signals": {
+        "mand_logprob": -0.9484,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.556,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "之/自",
+        "text_free": "改了心头的隐秘自己。",
+        "dur": 2.896,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 6,
+      "start": 37.7,
+      "end": 41.807,
+      "label": "guilin",
+      "text": "叠彩区罗曼花园位于中山北路的沃尔玛附近，",
+      "score": 0.6644,
+      "signals": {
+        "mand_logprob": -0.3275,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.316,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "电车区罗曼法院位于中山北路的沃马附近。",
+        "dur": 4.107,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 7,
+      "start": 41.807,
+      "end": 47.543,
+      "label": "uncertain",
+      "text": "该小区一共有八栋楼，此次更换电梯的是四栋四楼层的高层建筑、",
+      "score": 0.4779,
+      "signals": {
+        "mand_logprob": -0.1766,
+        "acoustic_dev": 0.661,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "四/十",
+        "text_free": "该小区一期有八栋楼，此次更换电梯的是四栋十六层的高层建筑。",
+        "dur": 5.736,
+        "n_char": 27,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 8,
+      "start": 47.543,
+      "end": 51.046,
+      "label": "mandarin",
+      "text": "三栋八层建筑和一栋五层建筑。",
+      "score": 0.0352,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "三栋八层建筑，或一栋五层建筑。",
+        "dur": 3.503,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 9,
+      "start": 51.484,
+      "end": 55.406,
+      "label": "mandarin",
+      "text": "八栋楼的电梯使用年限都已经有二十年之久了，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "八栋楼的电梯使用年限都已经有二十年之久了。",
+        "dur": 3.922,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 10,
+      "start": 55.714,
+      "end": 62.674,
+      "label": "mandarin",
+      "text": "这套电梯的老化几乎每部电梯都有出现过打不开门、人员被困电梯里面的这种情况。",
+      "score": 0.0938,
+      "signals": {
+        "mand_logprob": -0.0375,
+        "acoustic_dev": 0.105,
+        "seg_cer": 0.086,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在到电梯里老化，几乎每部电梯都有出现过打不开门、人员被困电梯里面的这种情况。",
+        "dur": 6.96,
+        "n_char": 35
+      }
+    },
+    {
+      "id": 11,
+      "start": 62.987,
+      "end": 66.57,
+      "label": "mandarin",
+      "text": "每当进电梯，业主们都悬到一颗心。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "每当进电梯，业主们都悬到一颗心。",
+        "dur": 3.583,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 12,
+      "start": 66.57,
+      "end": 69.652,
+      "label": "mandarin",
+      "text": "那个电梯呢，从",
+      "score": 0.0848,
+      "signals": {
+        "mand_logprob": -0.052,
+        "acoustic_dev": 0.163,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "那个电梯呢？从。",
+        "dur": 3.082,
+        "n_char": 6
+      }
+    },
+    {
+      "id": 13,
+      "start": 69.891,
+      "end": 74.805,
+      "label": "mandarin",
+      "text": "装修到现在也有二十年了吧，那个老电梯。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "装修到现在，也有二十年了吧。那个老电梯。",
+        "dur": 4.914,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 14,
+      "start": 75.147,
+      "end": 77.817,
+      "label": "mandarin",
+      "text": "那么有时候呢，这个电梯呢，",
+      "score": 0.2351,
+      "signals": {
+        "mand_logprob": -0.0651,
+        "acoustic_dev": 0.215,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "咧",
+        "text_free": "那么有时候咧，这个电梯咧。",
+        "dur": 2.67,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 15,
+      "start": 77.898,
+      "end": 81.207,
+      "label": "mandarin",
+      "text": "就总是卡呀，呃，",
+      "score": 0.0083,
+      "signals": {
+        "mand_logprob": -0.0153,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就总是卡呀，呃。",
+        "dur": 3.309,
+        "n_char": 6
+      }
+    },
+    {
+      "id": 16,
+      "start": 82.384,
+      "end": 85.825,
+      "label": "mandarin",
+      "text": "有时候卡了就出不来，所以呢，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "有时候卡了就出不来，所以呢。",
+        "dur": 3.441,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 17,
+      "start": 86.305,
+      "end": 89.765,
+      "label": "mandarin",
+      "text": "搞了好久了，所以哎呀，",
+      "score": 0.137,
+      "signals": {
+        "mand_logprob": -0.0771,
+        "acoustic_dev": 0.263,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "搞了好久了，所以，哎呀。",
+        "dur": 3.46,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 18,
+      "start": 89.765,
+      "end": 95.444,
+      "label": "mandarin",
+      "text": "也是一个老问题了。小区业委会和部分业主之前也想过更换电梯，",
+      "score": 0.0169,
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也是一个老问题了。小区业委会或部分业主之前也想过更换电梯。",
+        "dur": 5.679,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 19,
+      "start": 95.444,
+      "end": 98.409,
+      "label": "mandarin",
+      "text": "但是置换一部新电梯的费用高昂，",
+      "score": 0.0772,
+      "signals": {
+        "mand_logprob": -0.0484,
+        "acoustic_dev": 0.148,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "但是，置换一部新电梯的费用高昂。",
+        "dur": 2.965,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 20,
+      "start": 98.615,
+      "end": 101.21,
+      "label": "mandarin",
+      "text": "居民的意见也难以统一。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "居民的意见也难以统一。",
+        "dur": 2.595,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 21,
+      "start": 101.434,
+      "end": 104.227,
+      "label": "mandarin",
+      "text": "去年，国家住房和城乡建设部、",
+      "score": 0.0568,
+      "signals": {
+        "mand_logprob": -0.0386,
+        "acoustic_dev": 0.109,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "去年，国家住房和城乡建设部。",
+        "dur": 2.793,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 22,
+      "start": 104.326,
+      "end": 112.574,
+      "label": "mandarin",
+      "text": "自治区住房和城乡建设厅分别下发了关于做好住宅老旧电梯更新改造的相关文件，",
+      "score": 0.1261,
+      "signals": {
+        "mand_logprob": -0.0102,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.057,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "住/租",
+        "text_free": "自治区住房和城乡建设厅分别下发了关于做好租借老旧电梯更新改造的相关文件。",
+        "dur": 8.248,
+        "n_char": 35
+      }
+    },
+    {
+      "id": 23,
+      "start": 112.909,
+      "end": 118.362,
+      "label": "mandarin",
+      "text": "桂林市住房和城乡建设局将文件转发到各县市区，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂林市住房和城乡建设局将文件转发到各县市区。",
+        "dur": 5.453,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 24,
+      "start": 118.726,
+      "end": 125.456,
+      "label": "mandarin",
+      "text": "同属于叠彩区的桂坤城市领地小区成为了第一批更换老旧电梯的小区。",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同属于叠彩区的归昆城市领地小区，成为了第一批更换老旧电梯的小区。",
+        "dur": 6.73,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 25,
+      "start": 125.857,
+      "end": 128.104,
+      "label": "mandarin",
+      "text": "居民们享受到了国家补贴，",
+      "score": 0.0066,
+      "signals": {
+        "mand_logprob": -0.0144,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "居民们享受到了国家补贴。",
+        "dur": 2.247,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 26,
+      "start": 128.412,
+      "end": 131.744,
+      "label": "mandarin",
+      "text": "用很实惠的价格就更换了新电梯。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "用很实惠的价格就更换了新电梯。",
+        "dur": 3.332,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 27,
+      "start": 132.069,
+      "end": 138.087,
+      "label": "mandarin",
+      "text": "看到周围的邻居得到了实惠，罗曼花园的业主们也好快地达成了一致意见，",
+      "score": 0.0295,
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.065,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "看到周围的邻居得到了实惠，罗曼法院的业主们也好快地达成了一致意见。",
+        "dur": 6.018,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 28,
+      "start": 138.087,
+      "end": 143.352,
+      "label": "mandarin",
+      "text": "申请到了二零二五年桂林市首批电梯更新改造项目。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "申请到了二零二五年，桂林市首批电梯更新改造项目。",
+        "dur": 5.265,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 29,
+      "start": 143.352,
+      "end": 152.638,
+      "label": "mandarin",
+      "text": "对于电梯这一块，就是呃，像我们一栋二栋，它就有有一年多了，就是只有一台运行，有一台已经报废了，已经冲底了，",
+      "score": 0.0099,
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.022,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "对于电梯这一块，就是，呃，像我们一栋二栋，它就有有一年多了，就是只有一台运行，有一台已经报废了，已经冲梯了。",
+        "dur": 9.286,
+        "n_char": 46
+      }
+    },
+    {
+      "id": 30,
+      "start": 153.175,
+      "end": 156.228,
+      "label": "mandarin",
+      "text": "就是已经冲到顶了，所以就急需要换，",
+      "score": 0.0261,
+      "signals": {
+        "mand_logprob": -0.0238,
+        "acoustic_dev": 0.05,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就是已经冲到顶了，所以就急需要换。",
+        "dur": 3.053,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 31,
+      "start": 156.449,
+      "end": 163.178,
+      "label": "mandarin",
+      "text": "而且是碰到这个个政府有这个这个好的政策，就是有这个补贴嘛，十五万一台的补贴，",
+      "score": 0.0072,
+      "signals": {
+        "mand_logprob": -0.0147,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "而且是碰到这个个政府有这个这个好的政策，就是有这个补贴嘛，十五万一台的补贴。",
+        "dur": 6.729,
+        "n_char": 35
+      }
+    },
+    {
+      "id": 32,
+      "start": 163.228,
+      "end": 167.032,
+      "label": "guilin",
+      "text": "所以来说我们呃我们这个",
+      "score": 0.5616,
+      "signals": {
+        "mand_logprob": -2.7429,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "所以呢，说我们，呃，我们这个。",
+        "dur": 3.804,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 33,
+      "start": 167.337,
+      "end": 170.502,
+      "label": "mandarin",
+      "text": "小区的业主也也也很高兴，",
+      "score": 0.0153,
+      "signals": {
+        "mand_logprob": -0.0186,
+        "acoustic_dev": 0.029,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "小区的业主也也也很高兴。",
+        "dur": 3.165,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 34,
+      "start": 170.502,
+      "end": 174.444,
+      "label": "uncertain",
+      "text": "啊，也积极的配合配合业委会这边把这个",
+      "score": 0.4203,
+      "signals": {
+        "mand_logprob": -0.2004,
+        "acoustic_dev": 0.757,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "啊，也要积极的配合，配合业委会这边把这个。",
+        "dur": 3.942,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 35,
+      "start": 174.642,
+      "end": 178.843,
+      "label": "mandarin",
+      "text": "呃资金收齐吧。啊，有咱们这个国家的这个政策，",
+      "score": 0.0805,
+      "signals": {
+        "mand_logprob": -0.0384,
+        "acoustic_dev": 0.109,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，资金收齐吧。呃，有咱们这个国家的这个政策。",
+        "dur": 4.201,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 36,
+      "start": 179.206,
+      "end": 182.298,
+      "label": "mandarin",
+      "text": "呃，确实解解了咱们这个燃眉之急，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，确实解解了咱们这个燃眉之急。",
+        "dur": 3.092,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 37,
+      "start": 182.45,
+      "end": 185.052,
+      "label": "guilin",
+      "text": "让老百姓花小钱嘛办大事，",
+      "score": 0.5616,
+      "signals": {
+        "mand_logprob": -0.4833,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让老百姓花小钱吧，办大事。",
+        "dur": 2.602,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 38,
+      "start": 185.275,
+      "end": 188.506,
+      "label": "mandarin",
+      "text": "确实非常是好的。按照相关文件的要求，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "确实非常是好的。按照相关文件的要求。",
+        "dur": 3.231,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 39,
+      "start": 188.506,
+      "end": 193.85,
+      "label": "mandarin",
+      "text": "已经办理使用登记、使用年限长、配置水平低、运行故障率高、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "已经办理使用登记，使用年限长，配置水平低，运行故障率高。",
+        "dur": 5.344,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 40,
+      "start": 193.994,
+      "end": 199.574,
+      "label": "mandarin",
+      "text": "群众更换意愿强烈的电梯楼，都可以申请更换电梯补贴。",
+      "score": 0.0419,
+      "signals": {
+        "mand_logprob": -0.0123,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "群众更换医院强烈的电梯楼，都可以申请更换电梯补贴。",
+        "dur": 5.58,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 41,
+      "start": 199.997,
+      "end": 204.87,
+      "label": "mandarin",
+      "text": "重点支持使用十五年以上的住宅老旧电梯更新改造，",
+      "score": 0.0066,
+      "signals": {
+        "mand_logprob": -0.0144,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "重点支持使用十五年以上的住宅老旧电梯更新改造。",
+        "dur": 4.873,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 42,
+      "start": 205.125,
+      "end": 209.937,
+      "label": "mandarin",
+      "text": "优先支持使用二十年以上的住宅老旧电梯实施更新。",
+      "score": 0.0831,
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "优先支持使用二十年以上的注册老旧电梯，适时更新。",
+        "dur": 4.812,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 43,
+      "start": 209.937,
+      "end": 219.022,
+      "label": "mandarin",
+      "text": "此次为罗曼花园更换电梯的广西一部建筑科技有限公司，在老旧电梯更新方面有着丰富的经验。",
+      "score": 0.0229,
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "此次为罗曼法院更换电梯的广西一部建筑科技有限公司，在老旧电梯更新方面有着丰富的经验。",
+        "dur": 9.085,
+        "n_char": 40
+      }
+    },
+    {
+      "id": 44,
+      "start": 219.456,
+      "end": 226.178,
+      "label": "mandarin",
+      "text": "截至二零二五年八月，该公司为全区完成加装电梯项目三百三十五台。",
+      "score": 0.0158,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "截至二零二五年八月，该公司为全区完成家装电梯项目三百三十五台。",
+        "dur": 6.722,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 45,
+      "start": 226.386,
+      "end": 232.536,
+      "label": "mandarin",
+      "text": "二零二四年，公司完成国债补贴住宅老旧电梯更新超一百六十台，",
+      "score": 0.046,
+      "signals": {
+        "mand_logprob": -0.0171,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零二四年，公司完成国债补贴，注册老旧电梯更新超一百六十台。",
+        "dur": 6.15,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 46,
+      "start": 232.768,
+      "end": 236.683,
+      "label": "mandarin",
+      "text": "预计二零二五年完成国债项目超四百台。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "预计二零二五年完成国债项目超四百台。",
+        "dur": 3.915,
+        "n_char": 17
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

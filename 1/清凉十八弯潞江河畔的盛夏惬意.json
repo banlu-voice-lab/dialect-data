@@ -1,0 +1,502 @@
+{
+  "src_audio": "清凉十八弯潞江河畔的盛夏惬意.wav",
+  "duration": 117.642,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.316,
+      "end": 3.655,
+      "label": "mandarin",
+      "text": "现在是酷暑难当，野浪翻涌啊！",
+      "score": 0.3719,
+      "signals": {
+        "mand_logprob": -0.6706,
+        "acoustic_dev": 0.422,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "现在是枯楚难挡，夜浪翻涌啊！",
+        "dur": 3.339,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.655,
+      "end": 11.237,
+      "label": "mandarin",
+      "text": "当南来的暑气直抒八平的时候，寻一处清凉绿洲就成了大家迫切的渴望。",
+      "score": 0.2325,
+      "signals": {
+        "mand_logprob": -0.4074,
+        "acoustic_dev": 0.183,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "江南的楚七，词书八平的时候，寻的一处清凉庐州，就成了大家迫切的渴望。",
+        "dur": 7.582,
+        "n_char": 30,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.503,
+      "end": 16.009,
+      "label": "mandarin",
+      "text": "在临川县山盖镇的陆江村的群山怀抱处，",
+      "score": 0.3298,
+      "signals": {
+        "mand_logprob": -0.4073,
+        "acoustic_dev": 0.183,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "山/三 临/陵",
+        "text_free": "在陵川县三街镇的路江村的群山环抱处。",
+        "dur": 4.506,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.009,
+      "end": 20.3,
+      "label": "guilin",
+      "text": "藏着一片名为十八湾的田园碧处秘境。",
+      "score": 0.7113,
+      "signals": {
+        "mand_logprob": -1.3616,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "藏/唱",
+        "text_free": "唱到一篇名为《十八弯》的田言，逼出秘经。",
+        "dur": 4.291,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.613,
+      "end": 28.859,
+      "label": "mandarin",
+      "text": "这里的山水繁茂、碧波清冽，成为了市民游客逃离酷暑、寻觅野趣的清凉胜地。",
+      "score": 0.0442,
+      "signals": {
+        "mand_logprob": -0.0278,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.097,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这里的山水环绕，碧波清冽，成为了市民游客逃离酷暑、寻觅野趣的清凉圣地。",
+        "dur": 8.246,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.982,
+      "end": 35.403,
+      "label": "mandarin",
+      "text": "陆江村委地处峡谷腹地，陆江河蜿蜒流淌，河道迂回，两岸葱郁，",
+      "score": 0.1549,
+      "signals": {
+        "mand_logprob": -0.0134,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "陆/怒 陆/怒",
+        "text_free": "怒江城委地处峡谷腹地，怒江河蜿蜒流淌，河道迂回，两岸葱郁。",
+        "dur": 6.421,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 7,
+      "start": 35.723,
+      "end": 38.402,
+      "label": "mandarin",
+      "text": "沿途碧潭、浅潭星罗棋布。",
+      "score": 0.3181,
+      "signals": {
+        "mand_logprob": -0.5404,
+        "acoustic_dev": 0.304,
+        "seg_cer": 0.7,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "沿途，鼻滩、浅滩，行路起步。",
+        "dur": 2.679,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 8,
+      "start": 38.684,
+      "end": 43.909,
+      "label": "mandarin",
+      "text": "山间清出的清凉泉水，使其成为盛夏理想的天然空调房。",
+      "score": 0.1398,
+      "signals": {
+        "mand_logprob": -0.0273,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "山/三",
+        "text_free": "三间清澈的清凉泉水，使其成为盛夏理想的天然空调房。",
+        "dur": 5.225,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 9,
+      "start": 44.365,
+      "end": 46.87,
+      "label": "mandarin",
+      "text": "休闲爱好者可以挑战水流活力，",
+      "score": 0.0852,
+      "signals": {
+        "mand_logprob": -0.2367,
+        "acoustic_dev": 0.029,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "书写爱好者可以挑战水流活力。",
+        "dur": 2.505,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 10,
+      "start": 47.073,
+      "end": 51.456,
+      "label": "mandarin",
+      "text": "而寻求放松碧处的，则是偏爱在河滩平泛、",
+      "score": 0.2423,
+      "signals": {
+        "mand_logprob": -0.5477,
+        "acoustic_dev": 0.311,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "而寻求放松逼出的人，则是偏爱在河滩平泛。",
+        "dur": 4.383,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 51.621,
+      "end": 54.987,
+      "label": "mandarin",
+      "text": "水清见底的河段戏水纳凉。",
+      "score": 0.0416,
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "水清见底的河段，溪水纳凉。",
+        "dur": 3.366,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 12,
+      "start": 55.146,
+      "end": 59.544,
+      "label": "mandarin",
+      "text": "在月亮田河段，清澈河水满是嬉戏身影，",
+      "score": 0.2429,
+      "signals": {
+        "mand_logprob": -0.177,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "影/音 身/声",
+        "text_free": "在月亮天河段，清澈河水满是细细声音。",
+        "dur": 4.398,
+        "n_char": 16,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 13,
+      "start": 59.745,
+      "end": 62.362,
+      "label": "mandarin",
+      "text": "孩童套着救生圈耍水捞鱼，",
+      "score": 0.1904,
+      "signals": {
+        "mand_logprob": -0.3479,
+        "acoustic_dev": 0.129,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "耍",
+        "text_free": "孩童操作救生圈，耍水捞鱼。",
+        "dur": 2.617,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.362,
+      "end": 65.223,
+      "label": "mandarin",
+      "text": "年轻人踏着桨板在碧波上滑行。",
+      "score": 0.0835,
+      "signals": {
+        "mand_logprob": -0.2331,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "年轻踏着桨板，在碧波上划行。",
+        "dur": 2.861,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 15,
+      "start": 65.439,
+      "end": 71.799,
+      "label": "mandarin",
+      "text": "河边帐篷、天幕林立，更有游客将水果饮料置于河水中天然冰镇。",
+      "score": 0.1472,
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "镇/赠",
+        "text_free": "河边帐篷贴目林立，更有游客将水果饮料置于河水中，甜言并赠。",
+        "dur": 6.36,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 16,
+      "start": 72.184,
+      "end": 74.858,
+      "label": "mandarin",
+      "text": "烧烤架上的鱼串滋滋作响，",
+      "score": 0.2247,
+      "signals": {
+        "mand_logprob": -0.1132,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "滋/吱 滋/吱",
+        "text_free": "烧烤架上的油串吱吱作响。",
+        "dur": 2.674,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 17,
+      "start": 74.858,
+      "end": 77.373,
+      "label": "mandarin",
+      "text": "桌上的冰饮瓜果飘香。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0136,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桌上的冰饮瓜果飘香。",
+        "dur": 2.515,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 18,
+      "start": 77.878,
+      "end": 80.541,
+      "label": "guilin",
+      "text": "眼前是最荫的山水画卷，",
+      "score": 0.6657,
+      "signals": {
+        "mand_logprob": -2.1055,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "荫/硬",
+        "text_free": "眼前是最硬的山水画卷。",
+        "dur": 2.663,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.541,
+      "end": 85.939,
+      "label": "mandarin",
+      "text": "习习凉风拂过，身心的燥热顿时消散无踪。",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0298,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "习习凉风拂过，身心的燥热登时消散无踪。",
+        "dur": 5.398,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 20,
+      "start": 85.94,
+      "end": 90.66,
+      "label": "mandarin",
+      "text": "我我在抖音上看到的，这里还可以带小孩子过来玩一下，放松下。",
+      "score": 0.0352,
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我我在抖音上看到的，这里还可以带小孩子过来玩一下，放暑假。",
+        "dur": 4.72,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 21,
+      "start": 91.194,
+      "end": 93.47,
+      "label": "mandarin",
+      "text": "呃，生态环境可以，水也蛮清的啊。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，生态环境可以，水也蛮清的啊。",
+        "dur": 2.276,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 22,
+      "start": 93.47,
+      "end": 96.299,
+      "label": "guilin",
+      "text": "啊，湾漂流，湾漂流，好湾！",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -2.3618,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "好玩，漂流玩漂流，好玩。",
+        "dur": 2.829,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 96.299,
+      "end": 106.079,
+      "label": "mandarin",
+      "text": "真的准备停下来。这个夏天，陆江十八湾的蜿蜒碧水不仅为丰城瀑布的们冲散了钢筋水泥森林的燥热，",
+      "score": 0.2789,
+      "signals": {
+        "mand_logprob": -0.4253,
+        "acoustic_dev": 0.2,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.091,
+        "phon_examples": "城/尘",
+        "text_free": "都没吃下来。这个夏天，鲁江十八湾的蜿蜒碧水不仅为风尘仆仆的人们冲刷了钢筋水泥森林的噪音。",
+        "dur": 9.78,
+        "n_char": 42,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 106.262,
+      "end": 109.394,
+      "label": "mandarin",
+      "text": "带来清盈心脾的清凉味感。",
+      "score": 0.0831,
+      "signals": {
+        "mand_logprob": -0.1772,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "带来轻盈心脾的清凉胃感。",
+        "dur": 3.132,
+        "n_char": 11,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 25,
+      "start": 109.495,
+      "end": 112.074,
+      "label": "guilin",
+      "text": "它跟如同一根绿色的魔波，",
+      "score": 0.7024,
+      "signals": {
+        "mand_logprob": -1.253,
+        "acoustic_dev": 0.951,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "跟/更",
+        "text_free": "它更如同一根绿色的木脖。",
+        "dur": 2.579,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 26,
+      "start": 112.243,
+      "end": 117.642,
+      "label": "mandarin",
+      "text": "在山谷间跳动着，属于夏意的神秘律动。",
+      "score": 0.1571,
+      "signals": {
+        "mand_logprob": -0.0114,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "神/生",
+        "text_free": "在山谷间跳动着，属于夏意的生命律动。",
+        "dur": 5.399,
+        "n_char": 16
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

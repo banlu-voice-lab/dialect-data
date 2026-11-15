@@ -1,0 +1,638 @@
+{
+  "src_audio": "荔浦 初秋田野芋飘香 农技专家下田间稳住丰收底色.wav",
+  "duration": 155.468,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.954,
+      "end": 5.848,
+      "label": "guilin",
+      "text": "连年来，利浦市农业部门的农技专家深入田间地头，",
+      "score": 0.6696,
+      "signals": {
+        "mand_logprob": -0.6999,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "市/斯",
+        "text_free": "连一来，利普斯农业部门的农机专家深入田间地头。",
+        "dur": 4.894,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.848,
+      "end": 8.675,
+      "label": "mandarin",
+      "text": "为确保利浦玉的丰产增收，",
+      "score": 0.0416,
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为确保荔浦玉的丰产增收。",
+        "dur": 2.827,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.829,
+      "end": 11.435,
+      "label": "mandarin",
+      "text": "与种植大户一起开展交流，",
+      "score": 0.2408,
+      "signals": {
+        "mand_logprob": -0.0496,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "户/夫 植/资",
+        "text_free": "与中资大夫一起开展交流。",
+        "dur": 2.606,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.637,
+      "end": 15.157,
+      "label": "mandarin",
+      "text": "共同为丰收在望的特色产业再加油、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0121,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "共同为丰收在望的特色产业再加油！",
+        "dur": 3.52,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.204,
+      "end": 26.541,
+      "label": "mandarin",
+      "text": "再鼓劲。在利浦市双江镇永平村，利浦玉种植大户何松能的一百六十亩六十亩工海标准方种植利浦玉，长势良好，",
+      "score": 0.2707,
+      "signals": {
+        "mand_logprob": -0.1426,
+        "acoustic_dev": 0.17,
+        "seg_cer": 0.326,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.133,
+        "phon_examples": "长/展 劲/境",
+        "text_free": "再过境。在荔浦市双江镇永平村，荔浦芋种植大户何松能的一百六十亩绿色无公害标准化种植荔浦芋，展示良好。",
+        "dur": 11.337,
+        "n_char": 46,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.541,
+      "end": 30.892,
+      "label": "mandarin",
+      "text": "丰收在望，引来外地客商、农民前来实地考察。",
+      "score": 0.1508,
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "民/名",
+        "text_free": "丰收在望，引来外地客商慕名前来实地考察。",
+        "dur": 4.351,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.294,
+      "end": 34.766,
+      "label": "uncertain",
+      "text": "利浦市农业农村局的农技专家也来到玉田，",
+      "score": 0.3969,
+      "signals": {
+        "mand_logprob": -0.3345,
+        "acoustic_dev": 0.457,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "市/斯",
+        "text_free": "利普斯农业农村局的农机专家也来到玉田。",
+        "dur": 3.472,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.936,
+      "end": 37.644,
+      "label": "mandarin",
+      "text": "指导种植户做好保水保肥，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "指导种植户做好保水保肥。",
+        "dur": 2.708,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.821,
+      "end": 41.295,
+      "label": "guilin",
+      "text": "现场为利浦玉采收前的品质管理、",
+      "score": 0.6506,
+      "signals": {
+        "mand_logprob": -0.8176,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "现场为荔浦玉彩授权的品质管理。",
+        "dur": 3.474,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.295,
+      "end": 43.963,
+      "label": "mandarin",
+      "text": "开方把脉，稳住丰收底色。",
+      "score": 0.2983,
+      "signals": {
+        "mand_logprob": -0.2364,
+        "acoustic_dev": 0.31,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "台风把末稳住，丰收底色。",
+        "dur": 2.668,
+        "n_char": 10,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.633,
+      "end": 49.92,
+      "label": "mandarin",
+      "text": "利浦玉目前进入地上部分生长的顶峰，",
+      "score": 0.1261,
+      "signals": {
+        "mand_logprob": -0.1177,
+        "acoustic_dev": 0.133,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "地补玉目前进入地上部分生长的顶峰。",
+        "dur": 5.287,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.404,
+      "end": 55.245,
+      "label": "mandarin",
+      "text": "从现在开始，它就转入地下部分生长。",
+      "score": 0.061,
+      "signals": {
+        "mand_logprob": -0.0164,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从现在开始，他就转移地下部分生长。",
+        "dur": 4.841,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.499,
+      "end": 62.488,
+      "label": "mandarin",
+      "text": "这一段时期呢，主要是完成这个球茎的营养积累过程的。",
+      "score": 0.0199,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这一段时期呢，主要是完成这个球径的营养积累过程的。",
+        "dur": 4.989,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.488,
+      "end": 64.654,
+      "label": "mandarin",
+      "text": "从现在开始，只要保证有",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从现在开始，只要保证有。",
+        "dur": 2.166,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 15,
+      "start": 65.083,
+      "end": 68.753,
+      "label": "uncertain",
+      "text": "正常的呃气候，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -3.1725,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "正常的，呃，气候。",
+        "dur": 3.67,
+        "n_char": 6,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 16,
+      "start": 68.753,
+      "end": 71.933,
+      "label": "mandarin",
+      "text": "有良好的清洁的水源",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "有良好的清洁的水源。",
+        "dur": 3.18,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.172,
+      "end": 75.297,
+      "label": "mandarin",
+      "text": "供应，它就能够完成这个",
+      "score": 0.0457,
+      "signals": {
+        "mand_logprob": -0.0049,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "供应，他就能够完成这个。",
+        "dur": 3.125,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 18,
+      "start": 76.04,
+      "end": 81.866,
+      "label": "mandarin",
+      "text": "养分积累的过程，形成我们利浦玉特有的香甜粉",
+      "score": 0.1322,
+      "signals": {
+        "mand_logprob": -0.1108,
+        "acoustic_dev": 0.122,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "养分积累的过程，形成我们荔浦芋特有的香甜。",
+        "dur": 5.826,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 19,
+      "start": 82.147,
+      "end": 84.729,
+      "label": "mandarin",
+      "text": "糯这种优秀的品质。",
+      "score": 0.0943,
+      "signals": {
+        "mand_logprob": -0.0768,
+        "acoustic_dev": 0.071,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "诺，这种优秀的品质。",
+        "dur": 2.582,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 20,
+      "start": 84.729,
+      "end": 89.017,
+      "label": "mandarin",
+      "text": "为了凸显一县一业、一村一品特色农业成效，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0229,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为了凸显一县一业、一村一品特色农业成效。",
+        "dur": 4.288,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 21,
+      "start": 89.2,
+      "end": 92.193,
+      "label": "guilin",
+      "text": "利浦市出台了利浦玉种植奖励政策，",
+      "score": 0.7695,
+      "signals": {
+        "mand_logprob": -0.6945,
+        "acoustic_dev": 0.994,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "植/子 市/斯",
+        "text_free": "利普斯出台了利普与种子奖励政策。",
+        "dur": 2.993,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 22,
+      "start": 92.449,
+      "end": 98.408,
+      "label": "mandarin",
+      "text": "通过驻村工作队、政协工作站、人大代表等做好基层宣传落实，",
+      "score": 0.0549,
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过驻村干部、政协工作站、人大代表等，做好基层宣传落实。",
+        "dur": 5.959,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 23,
+      "start": 98.605,
+      "end": 101.323,
+      "label": "uncertain",
+      "text": "激发了群众种植利浦玉热情。",
+      "score": 0.4998,
+      "signals": {
+        "mand_logprob": -0.5252,
+        "acoustic_dev": 0.741,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "激发了群众种植藜卜于热情。",
+        "dur": 2.718,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 101.515,
+      "end": 113.252,
+      "label": "mandarin",
+      "text": "多年以来，政府和农业部门对我们种植户给予政策扶持和技术粉等方面的支持，让我们在种植过程中没有后顾之忧。",
+      "score": 0.0095,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.021,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "多年以来，政府和农业部门对我们种植户给予政策扶持和技术等等方面的支持，让我们在种植过程中没有后顾之忧。",
+        "dur": 11.737,
+        "n_char": 48
+      }
+    },
+    {
+      "id": 25,
+      "start": 113.402,
+      "end": 117.969,
+      "label": "mandarin",
+      "text": "今年我种下利浦玉一百六十多亩，长势很好。",
+      "score": 0.1641,
+      "signals": {
+        "mand_logprob": -0.0107,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "长/展",
+        "text_free": "今年我种下绿谱玉一百六十多亩，展示很好。",
+        "dur": 4.567,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 26,
+      "start": 118.107,
+      "end": 123.782,
+      "label": "mandarin",
+      "text": "现在我们以按照技术要求，全力提升利浦玉品质，",
+      "score": 0.0686,
+      "signals": {
+        "mand_logprob": -0.0209,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "现在我们已按照技术要求全力提升利物浦品质。",
+        "dur": 5.675,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 27,
+      "start": 123.809,
+      "end": 127.471,
+      "label": "mandarin",
+      "text": "助力产业发展。多年来，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "助力产业发展。多年来。",
+        "dur": 3.662,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 28,
+      "start": 127.471,
+      "end": 132.618,
+      "label": "mandarin",
+      "text": "利浦市对农业特色优势产业给予以奖代补政策扶持，",
+      "score": 0.1431,
+      "signals": {
+        "mand_logprob": -0.0308,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "市/斯",
+        "text_free": "利普斯对农业特色优势产业给予以奖代补政策扶持。",
+        "dur": 5.147,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 29,
+      "start": 132.916,
+      "end": 135.643,
+      "label": "uncertain",
+      "text": "成立技术专班进行全方位指导，",
+      "score": 0.5081,
+      "signals": {
+        "mand_logprob": -0.6829,
+        "acoustic_dev": 0.977,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "成立技术专班，进行全方位指导。",
+        "dur": 2.727,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 30,
+      "start": 135.794,
+      "end": 140.52,
+      "label": "uncertain",
+      "text": "极大调动了群众、家庭农场、新农民种植利浦玉的积极性，",
+      "score": 0.5013,
+      "signals": {
+        "mand_logprob": -0.5463,
+        "acoustic_dev": 0.773,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "极大调动了群众、家庭、农场、新农营种植，力扑欲力积极性。",
+        "dur": 4.726,
+        "n_char": 23,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 31,
+      "start": 140.782,
+      "end": 147.347,
+      "label": "mandarin",
+      "text": "有力带动了产业发展，使利浦玉的种植面积一直稳定在五万亩左右，",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "有力带动了产业发展，使荔浦圩的种植面积一直稳定在五万亩左右。",
+        "dur": 6.565,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 32,
+      "start": 147.565,
+      "end": 150.07,
+      "label": "guilin",
+      "text": "整个产业产值二十多个亿，",
+      "score": 0.6031,
+      "signals": {
+        "mand_logprob": -0.747,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "中国产业产值二十多个亿。",
+        "dur": 2.505,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 33,
+      "start": 150.07,
+      "end": 153.073,
+      "label": "mandarin",
+      "text": "成为了农业增效、农村发展、",
+      "score": 0.0378,
+      "signals": {
+        "mand_logprob": -0.0776,
+        "acoustic_dev": 0.073,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "成为了农业增效、农村发展。",
+        "dur": 3.003,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 34,
+      "start": 153.073,
+      "end": 155.468,
+      "label": "mandarin",
+      "text": "农民增收的支柱产业。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "农民增收的支柱产业。",
+        "dur": 2.395,
+        "n_char": 9
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

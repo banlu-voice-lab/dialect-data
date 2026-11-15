@@ -1,0 +1,418 @@
+{
+  "src_audio": "兴安严关太秋甜柿甜蜜上市 开启乡村振兴新柿代.wav",
+  "duration": 93.392,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.731,
+      "label": "mandarin",
+      "text": "这几天，兴安县岩关镇种植的泰球甜柿迎来了丰收季。",
+      "score": 0.3697,
+      "signals": {
+        "mand_logprob": -0.1392,
+        "acoustic_dev": 0.471,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这几天，兴安县盐官镇种植的台球体验室迎来了丰收季。",
+        "dur": 4.731,
+        "n_char": 22,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.901,
+      "end": 10.933,
+      "label": "mandarin",
+      "text": "口感独特的泰球甜柿一进入到市场，就吸引了众多消费者的目光。",
+      "score": 0.1341,
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "柿/丝",
+        "text_free": "口感独特的特曲甜丝，一进入到市场，就吸引了众多消费者的目光。",
+        "dur": 6.032,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.021,
+      "end": 17.226,
+      "label": "mandarin",
+      "text": "走进岩关镇永兴该村的果园，就看到一兜兜柿子树高头挂满了沉甸甸的果实。",
+      "score": 0.0438,
+      "signals": {
+        "mand_logprob": -0.0109,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.094,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "走进盐官镇永兴街村的果园，就看到一兜兜柿子树，高头挂满了沉甸甸的果实。",
+        "dur": 6.205,
+        "n_char": 32
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.473,
+      "end": 21.481,
+      "label": "uncertain",
+      "text": "青黄的泰球甜柿在绿叶的衬托下显得格外诱人。",
+      "score": 0.4873,
+      "signals": {
+        "mand_logprob": -0.1726,
+        "acoustic_dev": 0.593,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "青/秦",
+        "text_free": "秦房的太球天使在鹿叶的衬托下显得格外诱人。",
+        "dur": 4.008,
+        "n_char": 20,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.567,
+      "end": 25.061,
+      "label": "mandarin",
+      "text": "不同于普通的柿子，泰球甜柿单宁含量低，",
+      "score": 0.1605,
+      "signals": {
+        "mand_logprob": -0.0107,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不同于普通的狮子，泰球体验师胆量含量低。",
+        "dur": 3.494,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.25,
+      "end": 28.799,
+      "label": "guilin",
+      "text": "在树上生长的过程当中就可以自然脱涩，",
+      "score": 0.684,
+      "signals": {
+        "mand_logprob": -0.2895,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "自/枝",
+        "text_free": "在树上生长的过程当中，就可以枝叶脱色。",
+        "dur": 3.549,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.176,
+      "end": 32.901,
+      "label": "mandarin",
+      "text": "摘下来就可以直接吃，而且自带冰糖心，",
+      "score": 0.2493,
+      "signals": {
+        "mand_logprob": -0.1265,
+        "acoustic_dev": 0.425,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "折下来就可以直接吃，而且自带冰糖心。",
+        "dur": 3.725,
+        "n_char": 16,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.077,
+      "end": 36.778,
+      "label": "mandarin",
+      "text": "口感脆爽似苹果，甜度堪比哈密瓜，",
+      "score": 0.1327,
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "似/四",
+        "text_free": "口感脆爽，四苹果甜度堪比哈密瓜。",
+        "dur": 3.701,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.778,
+      "end": 40.445,
+      "label": "uncertain",
+      "text": "因此被不少人称为柿子中的爱马仕。",
+      "score": 0.4533,
+      "signals": {
+        "mand_logprob": -0.2327,
+        "acoustic_dev": 0.813,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "因此，被不少人称为“狮子中的爱马仕”。",
+        "dur": 3.667,
+        "n_char": 15,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.765,
+      "end": 46.779,
+      "label": "uncertain",
+      "text": "为了种出高品质的泰球柿子，种植户唐元秀通过合理施肥、疏果等措施，",
+      "score": 0.389,
+      "signals": {
+        "mand_logprob": -0.138,
+        "acoustic_dev": 0.467,
+        "seg_cer": 0.138,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "柿/丝",
+        "text_free": "为了种出高品质的台球丝子，种植户唐元修通过合理施肥、疏果等等措施。",
+        "dur": 6.014,
+        "n_char": 29,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 11,
+      "start": 46.979,
+      "end": 51.34,
+      "label": "mandarin",
+      "text": "确保每一个柿子都能够充分吸收营养，生长均匀。",
+      "score": 0.0229,
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "确保每一锅柿子都能够充分吸收营养，生长均匀。",
+        "dur": 4.361,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 12,
+      "start": 51.751,
+      "end": 55.26,
+      "label": "guilin",
+      "text": "接下来，他还将继续扩大泰球甜柿的种植规模，",
+      "score": 0.6162,
+      "signals": {
+        "mand_logprob": -0.5262,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "接下来，他还将继续扩大探球实验室的种植规模。",
+        "dur": 3.509,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 13,
+      "start": 55.401,
+      "end": 58.767,
+      "label": "mandarin",
+      "text": "不断提升种植技术，确保果实的品质，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0102,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不断提升种植技术，确保果实的品质。",
+        "dur": 3.366,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.962,
+      "end": 61.629,
+      "label": "mandarin",
+      "text": "让更多人品尝到这份甜蜜。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让更多人品尝到这份甜蜜。",
+        "dur": 2.667,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.26,
+      "end": 68.348,
+      "label": "uncertain",
+      "text": "我是从四年前开始种植泰球甜柿的，",
+      "score": 0.3931,
+      "signals": {
+        "mand_logprob": -0.153,
+        "acoustic_dev": 0.522,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我是从四年前开始种植太邱田氏的。",
+        "dur": 4.088,
+        "n_char": 15,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 16,
+      "start": 68.858,
+      "end": 71.363,
+      "label": "mandarin",
+      "text": "的泰球甜柿口感好，",
+      "score": 0.0571,
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "的泰球甜式口感好。",
+        "dur": 2.505,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 17,
+      "start": 71.363,
+      "end": 76.295,
+      "label": "mandarin",
+      "text": "深受大家喜欢。目前我种植了八亩",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "深受大家喜欢。目前我种植了八亩。",
+        "dur": 4.932,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 18,
+      "start": 76.622,
+      "end": 79.98,
+      "label": "guilin",
+      "text": "的泰球甜柿，亩产",
+      "score": 0.73,
+      "signals": {
+        "mand_logprob": -0.3342,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "产/场",
+        "text_free": "的台球田市牧场。",
+        "dur": 3.358,
+        "n_char": 7,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.484,
+      "end": 83.173,
+      "label": "mandarin",
+      "text": "大约两千至三千斤，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "大约两千至三千斤。",
+        "dur": 2.689,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 20,
+      "start": 83.173,
+      "end": 86.142,
+      "label": "mandarin",
+      "text": "销售价在二十多元一斤。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "销售价在二十多元一斤。",
+        "dur": 2.969,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 21,
+      "start": 86.222,
+      "end": 89.807,
+      "label": "mandarin",
+      "text": "明年我准备继续扩大种植范围，",
+      "score": 0.0703,
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "明年我准备继续扩大征集范围。",
+        "dur": 3.585,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 22,
+      "start": 90.308,
+      "end": 93.392,
+      "label": "mandarin",
+      "text": "带动附近村民一起增收。",
+      "score": 0.0914,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "带动附近村民一起装修。",
+        "dur": 3.084,
+        "n_char": 10
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

@@ -1,0 +1,1147 @@
+{
+  "src_audio": "韦仲谋刀锋前的医者担当 荣膺全国见义勇为模范.wav",
+  "duration": 249.78,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.579,
+      "end": 4.727,
+      "label": "uncertain",
+      "text": "今天我为大家介绍一位优秀的医务工作者，",
+      "score": 0.5454,
+      "signals": {
+        "mand_logprob": -0.8022,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天我们为大家介绍一位优秀的医务工作者。",
+        "dur": 4.148,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.727,
+      "end": 8.118,
+      "label": "guilin",
+      "text": "荔浦市人民医院骨科医生韦忠某，",
+      "score": 0.7633,
+      "signals": {
+        "mand_logprob": -0.8356,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "忠/总 民/名",
+        "text_free": "李普是一名医院骨科医生，韦总某。",
+        "dur": 3.391,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.438,
+      "end": 12.835,
+      "label": "mandarin",
+      "text": "在第十五届全国见义勇为英雄模范表彰大会上，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在第十五届全国见义勇为英雄模范表彰大会上。",
+        "dur": 4.397,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.835,
+      "end": 17.135,
+      "label": "mandarin",
+      "text": "韦忠某被授予全国见义勇为模范称号。",
+      "score": 0.1187,
+      "signals": {
+        "mand_logprob": -0.0763,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为中谋被授予“全国见义勇为模范”称号。",
+        "dur": 4.3,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.389,
+      "end": 23.864,
+      "label": "mandarin",
+      "text": "这位九零后医生在二零二三年一场夺刀制服凶徒的事件当中，",
+      "score": 0.1352,
+      "signals": {
+        "mand_logprob": -0.0061,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "制/自",
+        "text_free": "这位九零后医生在二零二三年一场夺刀自缚凶徒的事件当中。",
+        "dur": 6.475,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.051,
+      "end": 29.71,
+      "label": "mandarin",
+      "text": "用行动深刻的诠释了医者仁心与无畏的担当。",
+      "score": 0.1555,
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "者/则",
+        "text_free": "用行动深刻的诠释了一则用心与无畏的担当。",
+        "dur": 5.659,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.143,
+      "end": 36.163,
+      "label": "mandarin",
+      "text": "二零二三年九月十八号上午，荔浦市人民医院骨科住院部护士站突发险情，",
+      "score": 0.1237,
+      "signals": {
+        "mand_logprob": -0.0134,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.161,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "民/名",
+        "text_free": "二零二三年九月十八号上午，利物浦一名医院骨科住院部护士站突发险情。",
+        "dur": 6.02,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.411,
+      "end": 40.431,
+      "label": "guilin",
+      "text": "一名可疑男子尾随医生李某进入到站内后，",
+      "score": 0.5873,
+      "signals": {
+        "mand_logprob": -0.789,
+        "acoustic_dev": 0.983,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一名黑衣男子尾随医生李某进入到站内以后。",
+        "dur": 4.02,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 9,
+      "start": 40.645,
+      "end": 43.338,
+      "label": "mandarin",
+      "text": "突然间抽出刀来袭击李某。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0216,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "突然间抽出刀来袭击李某。",
+        "dur": 2.693,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 10,
+      "start": 43.512,
+      "end": 46.197,
+      "label": "mandarin",
+      "text": "李某颈部中刀，鲜血淋漓，",
+      "score": 0.0119,
+      "signals": {
+        "mand_logprob": -0.0449,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "李某颈部中刀，鲜血淋漓。",
+        "dur": 2.685,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 11,
+      "start": 46.36,
+      "end": 50.158,
+      "label": "mandarin",
+      "text": "正在拨打保卫室电话的值班医生韦忠某，",
+      "score": 0.3743,
+      "signals": {
+        "mand_logprob": -0.3405,
+        "acoustic_dev": 0.404,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "忠/宗",
+        "text_free": "正在拨打保卫室电话的值班医生魏宗谋。",
+        "dur": 3.798,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 12,
+      "start": 50.158,
+      "end": 52.243,
+      "label": "mandarin",
+      "text": "后脑也遭受到了重击。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0272,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "后脑也遭受到了重击。",
+        "dur": 2.085,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 13,
+      "start": 52.58,
+      "end": 58.53,
+      "label": "mandarin",
+      "text": "情急一发之际，眼见歹徒挥刀砍向已经怀孕八个月的护士方春梅，",
+      "score": 0.1067,
+      "signals": {
+        "mand_logprob": -0.0853,
+        "acoustic_dev": 0.075,
+        "seg_cer": 0.148,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "前军一发之际，眼见歹徒飞刀砍向已经怀孕八个月的护士房春梅。",
+        "dur": 5.95,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.53,
+      "end": 63.751,
+      "label": "mandarin",
+      "text": "韦忠某硬头冲上前，用身体挡住刀锋，护住方春梅。",
+      "score": 0.2429,
+      "signals": {
+        "mand_logprob": -0.0698,
+        "acoustic_dev": 0.055,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "护/扶 忠/宗",
+        "text_free": "魏宗某应同冲上前，用身体挡住刀锋，扶住方春梅。",
+        "dur": 5.221,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.751,
+      "end": 67.32,
+      "label": "uncertain",
+      "text": "现在想起这件事情，我还是觉得很好看。",
+      "score": 0.5316,
+      "signals": {
+        "mand_logprob": -0.6918,
+        "acoustic_dev": 0.858,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我现在想起这件事情，我还是觉得很后怕。",
+        "dur": 3.569,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 16,
+      "start": 67.388,
+      "end": 70.004,
+      "label": "guilin",
+      "text": "我不是胆小，胆识在场。",
+      "score": 0.7633,
+      "signals": {
+        "mand_logprob": -2.9976,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "胆/当",
+        "text_free": "我不是当当时在场。",
+        "dur": 2.616,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 17,
+      "start": 70.141,
+      "end": 73.975,
+      "label": "guilin",
+      "text": "呃，为我们，为我们家乡的好朋友们。",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -2.9685,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.643,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，为我们为我挡了一下的话，就不可能。",
+        "dur": 3.834,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 18,
+      "start": 74.966,
+      "end": 80.353,
+      "label": "mandarin",
+      "text": "袭击未能得手，歹徒转而追杀重伤的李医生到值班室。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "袭击未能得手，歹徒转而追杀重伤的李医生到值班室。",
+        "dur": 5.387,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.54,
+      "end": 85.189,
+      "label": "mandarin",
+      "text": "韦忠某紧追其后，通过吸引歹徒注意力，帮助李医生脱险。",
+      "score": 0.143,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "忠/宗",
+        "text_free": "魏宗某紧随其后，通过吸引歹徒注意力，帮助李医生脱险。",
+        "dur": 4.649,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 20,
+      "start": 85.438,
+      "end": 93.164,
+      "label": "mandarin",
+      "text": "在狭小的值班室里面，自身头部流血不止、手无寸铁的韦忠某与持刀狂徒对峙。",
+      "score": 0.169,
+      "signals": {
+        "mand_logprob": -0.014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "身/剩 自/只",
+        "text_free": "在狭小的值班室里面，只剩头部流血不止、手无撑天的魏忠谋与持刀狂徒对峙。",
+        "dur": 7.726,
+        "n_char": 32
+      }
+    },
+    {
+      "id": 21,
+      "start": 93.164,
+      "end": 95.716,
+      "label": "mandarin",
+      "text": "当时事发太突然，我顾不上受伤，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "当时事发太突然，我顾不上受伤。",
+        "dur": 2.552,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 22,
+      "start": 95.716,
+      "end": 98.427,
+      "label": "mandarin",
+      "text": "一心只想着赶紧制止凶手继续伤人，",
+      "score": 0.3567,
+      "signals": {
+        "mand_logprob": -0.3643,
+        "acoustic_dev": 0.435,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "心/行",
+        "text_free": "一行只想着赶紧制止凶手，继续伤人。",
+        "dur": 2.711,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 98.427,
+      "end": 101.575,
+      "label": "mandarin",
+      "text": "必须要抢到他手中的刀，制止他继续行凶，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "必须要抢到他手中的刀，制止他继续行凶。",
+        "dur": 3.148,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 24,
+      "start": 101.575,
+      "end": 103.898,
+      "label": "mandarin",
+      "text": "不然的话，就会有更多的人受伤。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不然的话，就会有更多的人受伤。",
+        "dur": 2.323,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 25,
+      "start": 103.946,
+      "end": 107.832,
+      "label": "mandarin",
+      "text": "在僵持当中，歹徒疯狂击打韦忠某的头部，",
+      "score": 0.2434,
+      "signals": {
+        "mand_logprob": -0.1608,
+        "acoustic_dev": 0.172,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "忠/宗",
+        "text_free": "在僵持当中，歹徒疯狂击打韦宗茂的头部。",
+        "dur": 3.886,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 26,
+      "start": 108.023,
+      "end": 115.009,
+      "label": "mandarin",
+      "text": "韦忠某硬刀举头，右手猛击歹徒的面部，左手顺势夺下血淋淋的菜刀，",
+      "score": 0.1316,
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.179,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "硬/引",
+        "text_free": "魏忠谋引刀具痛，右手猛击歹徒的面部，左手顺势夺下血淋淋的菜刀。",
+        "dur": 6.986,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 27,
+      "start": 115.226,
+      "end": 117.506,
+      "label": "uncertain",
+      "text": "迅速的退出并反锁房门，",
+      "score": 0.3877,
+      "signals": {
+        "mand_logprob": -0.4687,
+        "acoustic_dev": 0.57,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "迅速地推出并反锁房门。",
+        "dur": 2.28,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 28,
+      "start": 117.76,
+      "end": 120.468,
+      "label": "mandarin",
+      "text": "为警方处置赢得了宝贵时间。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0044,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为警方处置赢得了宝贵时间。",
+        "dur": 2.708,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 29,
+      "start": 120.762,
+      "end": 124.03,
+      "label": "mandarin",
+      "text": "十分钟以后，三十余名警员赶到现场布控，",
+      "score": 0.1269,
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "十/四",
+        "text_free": "四分钟以后，三十余名警员赶到现场布控。",
+        "dur": 3.268,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 30,
+      "start": 124.123,
+      "end": 126.784,
+      "label": "mandarin",
+      "text": "将跳窗逃窜的歹徒擒获。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "将跳窗逃窜的歹徒擒获。",
+        "dur": 2.661,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 31,
+      "start": 127.2,
+      "end": 132.746,
+      "label": "mandarin",
+      "text": "危险解除以后，经过诊断，韦忠某的左侧面部和头部被砍伤，",
+      "score": 0.2602,
+      "signals": {
+        "mand_logprob": -0.1629,
+        "acoustic_dev": 0.175,
+        "seg_cer": 0.292,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "忠/宗",
+        "text_free": "魏先改主意后，经过诊断，魏宗某的左侧面部和头部被砍伤。",
+        "dur": 5.546,
+        "n_char": 24,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 32,
+      "start": 132.989,
+      "end": 138.348,
+      "label": "mandarin",
+      "text": "颅骨开放性骨折，手臂挫伤，背部裂伤，失血严重。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "颅骨开放性骨折，手臂挫伤，背部裂伤，失血严重。",
+        "dur": 5.359,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 33,
+      "start": 138.348,
+      "end": 140.844,
+      "label": "uncertain",
+      "text": "从小的时候呢，我经常跟他讲，",
+      "score": 0.4901,
+      "signals": {
+        "mand_logprob": -0.6441,
+        "acoustic_dev": 0.796,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "中国小的时候呢，我经常跟他讲。",
+        "dur": 2.496,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 34,
+      "start": 141.174,
+      "end": 145.889,
+      "label": "mandarin",
+      "text": "部队的故事。从小教育他要做一个正直勇敢的人。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0172,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "部队的故事。从小教育他要做一个正直勇敢的人。",
+        "dur": 4.715,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 35,
+      "start": 146.595,
+      "end": 149.734,
+      "label": "mandarin",
+      "text": "作为军人的儿子，他应该有",
+      "score": 0.0831,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "作为君的儿子，他应该有。",
+        "dur": 3.139,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 36,
+      "start": 149.908,
+      "end": 153.02,
+      "label": "mandarin",
+      "text": "军人的血性。我是",
+      "score": 0.35,
+      "signals": {
+        "mand_logprob": -0.2358,
+        "acoustic_dev": 0.269,
+        "seg_cer": 0.714,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "性/信",
+        "text_free": "据你的确信，我只。",
+        "dur": 3.112,
+        "n_char": 7,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 37,
+      "start": 153.452,
+      "end": 157.258,
+      "label": "mandarin",
+      "text": "做这件事，我感到自豪样子，我为他感到自豪。",
+      "score": 0.0378,
+      "signals": {
+        "mand_logprob": -0.0456,
+        "acoustic_dev": 0.024,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "做这件事，我感到自豪样的。我为他感到自豪。",
+        "dur": 3.806,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 38,
+      "start": 157.458,
+      "end": 159.726,
+      "label": "guilin",
+      "text": "可以，继续加油。",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -1.6086,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.833,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "可以，一直是要求。",
+        "dur": 2.268,
+        "n_char": 6,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 39,
+      "start": 159.726,
+      "end": 165.749,
+      "label": "guilin",
+      "text": "生长在退役军人之家，让韦忠某自幼就有一股正气在心，",
+      "score": 0.5536,
+      "signals": {
+        "mand_logprob": -0.6406,
+        "acoustic_dev": 0.792,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "心/行",
+        "text_free": "生长在退役军人之家，杨为忠谋自幼就有一股正气在行。",
+        "dur": 6.023,
+        "n_char": 23,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 40,
+      "start": 166.067,
+      "end": 168.489,
+      "label": "mandarin",
+      "text": "能够在危急时刻挺身而出，",
+      "score": 0.0035,
+      "signals": {
+        "mand_logprob": -0.0323,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "能够在危急时刻挺身而出。",
+        "dur": 2.422,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 41,
+      "start": 168.604,
+      "end": 173.875,
+      "label": "mandarin",
+      "text": "而在领导同事的眼中，韦忠某医生不仅是英勇救人、勇气可嘉，",
+      "score": 0.3608,
+      "signals": {
+        "mand_logprob": -0.3627,
+        "acoustic_dev": 0.433,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "忠/宗",
+        "text_free": "而在领导同事的眼中，魏宗谋医生不仅是英勇救婴，勇气可嘉。",
+        "dur": 5.271,
+        "n_char": 25,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 42,
+      "start": 174.213,
+      "end": 178.352,
+      "label": "mandarin",
+      "text": "平时认真负责的工作态度也值得赞誉。",
+      "score": 0.1661,
+      "signals": {
+        "mand_logprob": -0.0404,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "真/征",
+        "text_free": "平时应征负责的工作态度也值得赞誉。",
+        "dur": 4.139,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 43,
+      "start": 178.352,
+      "end": 180.994,
+      "label": "guilin",
+      "text": "魏忠谋医生见义勇为的精神，",
+      "score": 0.6724,
+      "signals": {
+        "mand_logprob": -0.8062,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为东盟医生尽义勇为的精神。",
+        "dur": 2.642,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 44,
+      "start": 181.249,
+      "end": 184.125,
+      "label": "mandarin",
+      "text": "是我们医院救死扶伤的真实写照。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "是我们医院救死扶伤的真实写照。",
+        "dur": 2.876,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 45,
+      "start": 184.805,
+      "end": 188.439,
+      "label": "mandarin",
+      "text": "他用勇敢和无畏保护了同事和群众，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "他用勇敢和无畏保护了同事和群众。",
+        "dur": 3.634,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 46,
+      "start": 188.721,
+      "end": 191.984,
+      "label": "mandarin",
+      "text": "彰显了新时代医务工作者的职业担当",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "彰显了新时代医务工作者的职业担当。",
+        "dur": 3.263,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 47,
+      "start": 192.101,
+      "end": 195.161,
+      "label": "mandarin",
+      "text": "和退伍军人家庭的优良家风，",
+      "score": 0.1015,
+      "signals": {
+        "mand_logprob": -0.1217,
+        "acoustic_dev": 0.122,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "和退役军人家庭的优良家风。",
+        "dur": 3.06,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 48,
+      "start": 195.366,
+      "end": 197.782,
+      "label": "mandarin",
+      "text": "值得我们学习和大力弘扬。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "值得我们学习和大力弘扬。",
+        "dur": 2.416,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 49,
+      "start": 197.782,
+      "end": 204.306,
+      "label": "mandarin",
+      "text": "二零二四年第一季度，魏忠谋荣登中央政法委见义勇为勇士榜；",
+      "score": 0.1671,
+      "signals": {
+        "mand_logprob": -0.0707,
+        "acoustic_dev": 0.056,
+        "seg_cer": 0.192,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "忠/宗",
+        "text_free": "二零二四年第一季度，魏宗茂勇登中央政法委，建议勇为勇士榜。",
+        "dur": 6.524,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 50,
+      "start": 204.447,
+      "end": 209.334,
+      "label": "mandarin",
+      "text": "二零二四年七月三十号入选中央文明办中国好人榜；",
+      "score": 0.0208,
+      "signals": {
+        "mand_logprob": -0.0197,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零二四年七月三十号，入选中央文明办《中国好音榜》。",
+        "dur": 4.887,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 51,
+      "start": 209.538,
+      "end": 216.792,
+      "label": "mandarin",
+      "text": "二零二五年七月二十一号，他又荣获中央政法委授予的全国见义勇为模范称号。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零二五年七月二十一号，他又荣获中央政法委授予的“全国见义勇为模范”称号。",
+        "dur": 7.254,
+        "n_char": 33
+      }
+    },
+    {
+      "id": 52,
+      "start": 216.916,
+      "end": 219.621,
+      "label": "uncertain",
+      "text": "面对荣誉，魏忠谋初心如磐，",
+      "score": 0.5072,
+      "signals": {
+        "mand_logprob": -0.4769,
+        "acoustic_dev": 0.58,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.182,
+        "phon_examples": "心/行 忠/宗",
+        "text_free": "免得用于为宗某出行游玩。",
+        "dur": 2.705,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 53,
+      "start": 219.621,
+      "end": 222.179,
+      "label": "mandarin",
+      "text": "他用行动证明医者的担当，",
+      "score": 0.1722,
+      "signals": {
+        "mand_logprob": -0.2838,
+        "acoustic_dev": 0.331,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "他用行动证明医者的担当。",
+        "dur": 2.558,
+        "n_char": 11,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 54,
+      "start": 222.516,
+      "end": 226.149,
+      "label": "guilin",
+      "text": "既在医术医艺的细致诊疗当中，",
+      "score": 0.7157,
+      "signals": {
+        "mand_logprob": -0.9521,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.538,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "诊/整",
+        "text_free": "即在一幅一亿的细致整料当中。",
+        "dur": 3.633,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 55,
+      "start": 226.37,
+      "end": 231.09,
+      "label": "mandarin",
+      "text": "更在生死攸关时的无畏抉择当中。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "更在生死攸关时的无畏抉择当中。",
+        "dur": 4.72,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 56,
+      "start": 231.09,
+      "end": 233.555,
+      "label": "mandarin",
+      "text": "能够获得这些荣誉，我非常感恩。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "能够获得这些荣誉，我非常感恩。",
+        "dur": 2.465,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 57,
+      "start": 233.753,
+      "end": 237.697,
+      "label": "mandarin",
+      "text": "他时刻提醒我，医生的职责不远止于诊室和病房。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "他时刻提醒我：医生的职责不远止于诊室和病房。",
+        "dur": 3.944,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 58,
+      "start": 237.697,
+      "end": 240.287,
+      "label": "mandarin",
+      "text": "当公共安全和正义受到挑战时，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0148,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "当公共安全和正义受到挑战时。",
+        "dur": 2.59,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 59,
+      "start": 240.287,
+      "end": 243.19,
+      "label": "mandarin",
+      "text": "我们医务工作者必须要有勇气站出来。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们医务工作者必须要有勇气站出来。",
+        "dur": 2.903,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 60,
+      "start": 243.19,
+      "end": 245.931,
+      "label": "mandarin",
+      "text": "今后，我也会更加坚定守护生命、",
+      "score": 0.0496,
+      "signals": {
+        "mand_logprob": -0.101,
+        "acoustic_dev": 0.095,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今后我也会更加坚定守护生命。",
+        "dur": 2.741,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 61,
+      "start": 245.931,
+      "end": 249.78,
+      "label": "mandarin",
+      "text": "守护正义的初心，成为让患者和公众信赖的好医生。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "守护正义的初心，成为让患者和公众信赖的好医生。",
+        "dur": 3.849,
+        "n_char": 21
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

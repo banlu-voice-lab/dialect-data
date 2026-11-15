@@ -1,0 +1,542 @@
+{
+  "src_audio": "兴安司门村葡萄丰收结硕果 助销活动促增收.wav",
+  "duration": 117.573,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.267,
+      "end": 4.793,
+      "label": "mandarin",
+      "text": "兴安县的葡萄相继成熟，进入到了采摘销售期。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0268,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "兴安县的葡萄相继成熟，进入到了采摘销售期。",
+        "dur": 4.526,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.953,
+      "end": 9.524,
+      "label": "mandarin",
+      "text": "全县政企联合、线上线下协同发力，",
+      "score": 0.2216,
+      "signals": {
+        "mand_logprob": -0.475,
+        "acoustic_dev": 0.363,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "全县政协联合，线上线下协同发力。",
+        "dur": 4.571,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.692,
+      "end": 12.226,
+      "label": "guilin",
+      "text": "让各品种的葡萄走出广西，",
+      "score": 0.728,
+      "signals": {
+        "mand_logprob": -2.2925,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "品/平",
+        "text_free": "杨国平种的葡萄，走出广西。",
+        "dur": 2.534,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.226,
+      "end": 15.241,
+      "label": "mandarin",
+      "text": "助力兴安县葡萄产销两旺。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0127,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "助力兴安县葡萄产销两旺。",
+        "dur": 3.015,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.867,
+      "end": 20.348,
+      "label": "mandarin",
+      "text": "近日，在兴安永江镇石门村葡萄发货基地，记者看到，",
+      "score": 0.025,
+      "signals": {
+        "mand_logprob": -0.0385,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近日，在西安永江镇石门村葡萄发货基地，记者看到。",
+        "dur": 4.481,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.537,
+      "end": 24.644,
+      "label": "mandarin",
+      "text": "村民们正井然有序地将葡萄分装、打包、装车，",
+      "score": 0.1254,
+      "signals": {
+        "mand_logprob": -0.0265,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "分/封",
+        "text_free": "村民们正井然有序地将葡萄封装、打包、装车。",
+        "dur": 4.107,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.837,
+      "end": 27.005,
+      "label": "mandarin",
+      "text": "现场一片忙碌景象。",
+      "score": 0.16,
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "先唱一篇《忙碌景象》。",
+        "dur": 2.168,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.297,
+      "end": 33.433,
+      "label": "mandarin",
+      "text": "来自广东某团购平台的数十位驻龙嘉宾在现场仔细查看品尝，",
+      "score": 0.0864,
+      "signals": {
+        "mand_logprob": -0.1101,
+        "acoustic_dev": 0.065,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "来自广东某团购平台的四十位猪笼嘉宾在现场仔细查看品尝。",
+        "dur": 6.136,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.635,
+      "end": 37.549,
+      "label": "mandarin",
+      "text": "并对葡萄的口感、色泽、甜度等等进行了点评。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并对葡萄的口感、色泽、甜度等等进行了点评。",
+        "dur": 3.914,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.549,
+      "end": 39.906,
+      "label": "mandarin",
+      "text": "风味非常的独特，而且是纯甜，",
+      "score": 0.0497,
+      "signals": {
+        "mand_logprob": -0.1479,
+        "acoustic_dev": 0.096,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "风味非常的独特，而且是纯甜。",
+        "dur": 2.357,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 11,
+      "start": 39.993,
+      "end": 43.614,
+      "label": "mandarin",
+      "text": "口感非常的好。今年是收了第四年了，第四个年头了。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "口感非常的好。今年是收了第四年了，第四个年头了。",
+        "dur": 3.621,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 12,
+      "start": 43.614,
+      "end": 46.576,
+      "label": "mandarin",
+      "text": "今天打算翻两车回去。我们在",
+      "score": 0.0381,
+      "signals": {
+        "mand_logprob": -0.031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天打算翻辆车回去。我们在。",
+        "dur": 2.962,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 13,
+      "start": 46.576,
+      "end": 53.087,
+      "label": "guilin",
+      "text": "呃，那回去是通过我们驻的到蚂蚁搬果的社区区域团购渠道，",
+      "score": 0.648,
+      "signals": {
+        "mand_logprob": -1.961,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.28,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，带回去是通过我们数比多蚂蚁斑驳的社区私域团购渠道。",
+        "dur": 6.511,
+        "n_char": 25,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.087,
+      "end": 56.378,
+      "label": "mandarin",
+      "text": "然后分拣到整个珠三角的九个城市。",
+      "score": 0.0351,
+      "signals": {
+        "mand_logprob": -0.0418,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后分选到整个珠三角的九个城市。",
+        "dur": 3.291,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 15,
+      "start": 56.378,
+      "end": 63.391,
+      "label": "mandarin",
+      "text": "为严格把控葡萄品质，当地组织专业人员及村民对采摘的葡萄进行筛选分级，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为严格把控葡萄品质，当地组织专业人员及村民对采摘的葡萄进行筛选分级。",
+        "dur": 7.013,
+        "n_char": 32
+      }
+    },
+    {
+      "id": 16,
+      "start": 63.545,
+      "end": 66.109,
+      "label": "guilin",
+      "text": "确保每串葡萄都符合标准。",
+      "score": 0.5804,
+      "signals": {
+        "mand_logprob": -1.019,
+        "acoustic_dev": 0.808,
+        "seg_cer": 0.455,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "戳包，每一串葡萄都复活标准。",
+        "dur": 2.564,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 17,
+      "start": 66.396,
+      "end": 69.424,
+      "label": "mandarin",
+      "text": "此外，还加强了对包装、运输环节的管理，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "此外，还加强了对包装运输环节的管理。",
+        "dur": 3.028,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 18,
+      "start": 69.592,
+      "end": 75.974,
+      "label": "mandarin",
+      "text": "采用冷藏保鲜技术，确保葡萄在运输的过程当中保持新鲜完好。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "采用冷藏保鲜技术，确保葡萄在运输的过程当中保持新鲜完好。",
+        "dur": 6.382,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 19,
+      "start": 75.974,
+      "end": 78.975,
+      "label": "mandarin",
+      "text": "今年我们村委广西巨丰大丰收，",
+      "score": 0.2489,
+      "signals": {
+        "mand_logprob": -0.2854,
+        "acoustic_dev": 0.208,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年我们称为广西飓风大丰收。",
+        "dur": 3.001,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 20,
+      "start": 78.975,
+      "end": 81.312,
+      "label": "mandarin",
+      "text": "为解决老百姓销售问题，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为解决老百姓销售问题。",
+        "dur": 2.337,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 21,
+      "start": 81.376,
+      "end": 85.321,
+      "label": "mandarin",
+      "text": "解决他们的后顾之忧，带动老百姓增收致富。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "解决他们的后顾之忧，带动老百姓增收致富。",
+        "dur": 3.945,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 22,
+      "start": 85.64,
+      "end": 89.495,
+      "label": "guilin",
+      "text": "我们村委引进广东数米多集团蚂蚁搬果，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -1.5097,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们称为引进广东富比多集团蚂蚁翻火。",
+        "dur": 3.855,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 89.522,
+      "end": 94.379,
+      "label": "mandarin",
+      "text": "为我们村解决销售问题。今年广西总销售额为一百多万。",
+      "score": 0.0398,
+      "signals": {
+        "mand_logprob": -0.0055,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为我们村解决销售问题，今年广西最红销售额为一百多万。",
+        "dur": 4.857,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 24,
+      "start": 94.379,
+      "end": 98.759,
+      "label": "mandarin",
+      "text": "为了帮村民把这一份甜蜜事业变成实实在在的收入，",
+      "score": 0.1664,
+      "signals": {
+        "mand_logprob": -0.0798,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "民/明",
+        "text_free": "为了帮陈明把这一份甜蜜事业变成实实在在的手艺。",
+        "dur": 4.38,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 25,
+      "start": 98.992,
+      "end": 101.549,
+      "label": "mandarin",
+      "text": "石门村委积极对接外地客商，",
+      "score": 0.315,
+      "signals": {
+        "mand_logprob": -0.3069,
+        "acoustic_dev": 0.226,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "石/司",
+        "text_free": "司门陈伟积极对接外地客商。",
+        "dur": 2.557,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 26,
+      "start": 101.653,
+      "end": 104.597,
+      "label": "guilin",
+      "text": "邀请他们实地考察葡萄种植基地，",
+      "score": 0.5907,
+      "signals": {
+        "mand_logprob": -1.1889,
+        "acoustic_dev": 0.948,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "邀请唐氏地考察葡萄种植基地。",
+        "dur": 2.944,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 27,
+      "start": 104.597,
+      "end": 111.075,
+      "label": "mandarin",
+      "text": "促进合作意向。同时，利用互联网平台开展线上推销和社群团购活动。",
+      "score": 0.0687,
+      "signals": {
+        "mand_logprob": -0.0389,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "租金合作意向，同时利用互联网平台开展线上促销或社群团购活动。",
+        "dur": 6.478,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 28,
+      "start": 111.314,
+      "end": 114.252,
+      "label": "mandarin",
+      "text": "本次促销活动售出葡萄两万斤，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "本次促销活动售出葡萄两万斤。",
+        "dur": 2.938,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 29,
+      "start": 114.397,
+      "end": 117.573,
+      "label": "mandarin",
+      "text": "预计为村民带来八万多块钱的收入。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "预计为村民带来八万多块钱的收入。",
+        "dur": 3.176,
+        "n_char": 15
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

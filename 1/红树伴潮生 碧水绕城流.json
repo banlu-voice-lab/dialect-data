@@ -1,0 +1,1948 @@
+{
+  "src_audio": "红树伴潮生 碧水绕城流.wav",
+  "duration": 467.033,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.17,
+      "label": "mandarin",
+      "text": "今天呢，我们带大家去渤海去走一圈，",
+      "score": 0.0841,
+      "signals": {
+        "mand_logprob": -0.1001,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天呢，我们带大家去北海去走一圈。",
+        "dur": 3.17,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.17,
+      "end": 7.633,
+      "label": "guilin",
+      "text": "感受一下这座城市天蓝水清、岸绿滩净、",
+      "score": 0.6343,
+      "signals": {
+        "mand_logprob": -0.9073,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "感受一下这座城市：天蓝水清，安陆坦静。",
+        "dur": 4.463,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.633,
+      "end": 10.236,
+      "label": "uncertain",
+      "text": "完美地生态发展。",
+      "score": 0.484,
+      "signals": {
+        "mand_logprob": -0.4804,
+        "acoustic_dev": 0.805,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "完美的生态发展。",
+        "dur": 2.603,
+        "n_char": 7,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.499,
+      "end": 18.875,
+      "label": "mandarin",
+      "text": "大家好，我是小木。",
+      "score": 0.0653,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "大家好，我是小布。",
+        "dur": 2.376,
+        "n_char": 7
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.896,
+      "end": 25.833,
+      "label": "mandarin",
+      "text": "每年中秋节前后，我和我的小伙伴都如约来到渤海微洲岛附近海域。",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "每年中秋节前后，我和我的小伙伴都如约来到北海涠洲岛附近海域。",
+        "dur": 6.937,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.983,
+      "end": 29.471,
+      "label": "mandarin",
+      "text": "你们知道我为什么这么眷恋这里吗？",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "你们知道我为什么这么眷恋这里吗？",
+        "dur": 3.488,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.994,
+      "end": 33.502,
+      "label": "mandarin",
+      "text": "二零一八年，渤海市发布重磅消息：",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零一八年，北海市发布重磅消息。",
+        "dur": 3.508,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.763,
+      "end": 41.229,
+      "label": "mandarin",
+      "text": "微洲岛海域发现中国大陆首例近海分布的大型金雷生活群体——布氏金群。",
+      "score": 0.2419,
+      "signals": {
+        "mand_logprob": -0.1128,
+        "acoustic_dev": 0.126,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "金/鲸 金/鲸",
+        "text_free": "涠洲岛海域发现中国大陆首例近海岸分布的大型鲸类生活群体——布氏鲸群。",
+        "dur": 7.466,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.619,
+      "end": 46.766,
+      "label": "mandarin",
+      "text": "如今，在微洲岛海域发现的布氏金已超过七十头。",
+      "score": 0.1457,
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "金/鲸",
+        "text_free": "如今，在涠洲岛海域发现的布氏鲸已超过七十头。",
+        "dur": 5.147,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 10,
+      "start": 47.124,
+      "end": 50.781,
+      "label": "guilin",
+      "text": "这些庞然大物为活中青这片海域、",
+      "score": 0.6506,
+      "signals": {
+        "mand_logprob": -1.8487,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这些庞然大物威霍，中情这一片海域。",
+        "dur": 3.657,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 50.984,
+      "end": 57.648,
+      "label": "mandarin",
+      "text": "渤海给出了答案。微洲岛海域水质优良比例常年达百分之九十以上，",
+      "score": 0.0163,
+      "signals": {
+        "mand_logprob": -0.0199,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "渤海给出了答案：涠洲岛海域水质优良比例常年达百分之九十以上。",
+        "dur": 6.664,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 12,
+      "start": 57.852,
+      "end": 62.907,
+      "label": "uncertain",
+      "text": "海洋生态繁境质量连续十年保持全国前列。",
+      "score": 0.4515,
+      "signals": {
+        "mand_logprob": -0.4617,
+        "acoustic_dev": 0.771,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "海洋生态环境质量连续十二年保持全国前列。",
+        "dur": 5.055,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 13,
+      "start": 63.575,
+      "end": 67.251,
+      "label": "guilin",
+      "text": "在渤海，不只是布氏金让游客惊艳，",
+      "score": 0.7131,
+      "signals": {
+        "mand_logprob": -0.858,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "金/景",
+        "text_free": "在北海，不只是不是景，让游客惊艳。",
+        "dur": 3.676,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 14,
+      "start": 67.539,
+      "end": 75.159,
+      "label": "mandarin",
+      "text": "冯家江这张生态名片也凭借独特魅力吸引着游客沉醉其中。",
+      "score": 0.2585,
+      "signals": {
+        "mand_logprob": -0.2564,
+        "acoustic_dev": 0.392,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "冯家江这张生态新名片，也凭借独特魅力吸引市民游客，沉醉其中。",
+        "dur": 7.62,
+        "n_char": 25,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 15,
+      "start": 75.817,
+      "end": 79.78,
+      "label": "mandarin",
+      "text": "穿城而过的冯家江，全长十六点九公里，",
+      "score": 0.1311,
+      "signals": {
+        "mand_logprob": -0.0618,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "传承俄国的冯家江，全长十六点九公里。",
+        "dur": 3.963,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 16,
+      "start": 79.978,
+      "end": 82.205,
+      "label": "mandarin",
+      "text": "是渤海市唯一的内河。",
+      "score": 0.0508,
+      "signals": {
+        "mand_logprob": -0.0323,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "是渤海市唯一的内货。",
+        "dur": 2.227,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 17,
+      "start": 82.321,
+      "end": 86.391,
+      "label": "guilin",
+      "text": "傍岸江畔，位于冯区区芦树丛郁、",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -1.7229,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.769,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "傍晚江畔，微风徐徐，露珠从玉。",
+        "dur": 4.07,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 18,
+      "start": 86.391,
+      "end": 91.402,
+      "label": "mandarin",
+      "text": "白鹭翩飞。曾经的冯家江是另一番景象，",
+      "score": 0.0286,
+      "signals": {
+        "mand_logprob": -0.0226,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "白鹭翩飞，曾经的冯家江是另外一番景象。",
+        "dur": 5.011,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 19,
+      "start": 91.461,
+      "end": 97.12,
+      "label": "mandarin",
+      "text": "流域范围内分布了好多的虾塘养殖场和雨污直排口，",
+      "score": 0.1157,
+      "signals": {
+        "mand_logprob": -0.0782,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "流域范围内分布了好多的虾塘、养殖场和渔务制配口。",
+        "dur": 5.659,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 20,
+      "start": 97.31,
+      "end": 100.039,
+      "label": "mandarin",
+      "text": "每天大量污水直排江中，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "每天大量污水直排江中。",
+        "dur": 2.729,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 21,
+      "start": 100.403,
+      "end": 105.378,
+      "label": "mandarin",
+      "text": "还对银滩以及临近海域的繁境质量产生了影响。",
+      "score": 0.1224,
+      "signals": {
+        "mand_logprob": -0.1242,
+        "acoustic_dev": 0.147,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "还对银滩以及邻近海域的环境质量产生了影响。",
+        "dur": 4.975,
+        "n_char": 20,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 22,
+      "start": 105.4,
+      "end": 109.121,
+      "label": "mandarin",
+      "text": "多年前呢，我来到这里，闲逛的人呢寥寥无几，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "多年前呢，我来到这里，闲逛的人呢，寥寥无几。",
+        "dur": 3.721,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 23,
+      "start": 109.296,
+      "end": 113.175,
+      "label": "guilin",
+      "text": "周边环境呢也是脏乱差。治海先治河。",
+      "score": 0.6384,
+      "signals": {
+        "mand_logprob": -0.4464,
+        "acoustic_dev": 0.742,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "治/自 治/自",
+        "text_free": "周边环境呢也是脏乱差，自害心自活。",
+        "dur": 3.879,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 113.451,
+      "end": 120.324,
+      "label": "mandarin",
+      "text": "二零一八年，渤海市启动了滨海国家湿地公园冯家江流域水环境治理工程，",
+      "score": 0.0147,
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零一八年，北海市启动了滨海国家湿地公园冯家江流域水环境治理工程。",
+        "dur": 6.873,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 25,
+      "start": 120.678,
+      "end": 126.655,
+      "label": "mandarin",
+      "text": "投入二十.四点八个亿进行城市河臭水体治理和生态修复。",
+      "score": 0.0958,
+      "signals": {
+        "mand_logprob": -0.1242,
+        "acoustic_dev": 0.148,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "投入二十四点八个亿，进行城市黑臭水体治理和生态修复。",
+        "dur": 5.977,
+        "n_char": 24,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 26,
+      "start": 126.747,
+      "end": 131.719,
+      "label": "mandarin",
+      "text": "这是国内首个近海流域水环境综合治理“P P P”项目，",
+      "score": 0.1475,
+      "signals": {
+        "mand_logprob": -0.0686,
+        "acoustic_dev": 0.045,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "近/京",
+        "text_free": "这是国内首个京海流域水环境综合治理PPP项目。",
+        "dur": 4.972,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 27,
+      "start": 132.102,
+      "end": 134.603,
+      "label": "guilin",
+      "text": "涉及江、渠、湖、海、",
+      "score": 0.5761,
+      "signals": {
+        "mand_logprob": -0.3815,
+        "acoustic_dev": 0.623,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "湖/府",
+        "text_free": "涉及江、曲、府、海。",
+        "dur": 2.501,
+        "n_char": 6,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 28,
+      "start": 134.603,
+      "end": 138.844,
+      "label": "mandarin",
+      "text": "滩生态修复。通过这个陆海统筹的一个模式，",
+      "score": 0.1933,
+      "signals": {
+        "mand_logprob": -0.2192,
+        "acoustic_dev": 0.323,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "谈生态修复，通过这个陆海统筹的一个模式。",
+        "dur": 4.241,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 29,
+      "start": 138.844,
+      "end": 142.029,
+      "label": "mandarin",
+      "text": "上游呢就清淤、铺设截污管，",
+      "score": 0.2481,
+      "signals": {
+        "mand_logprob": -0.2594,
+        "acoustic_dev": 0.397,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "上游呢，就青淤，铺设截污管。",
+        "dur": 3.185,
+        "n_char": 11,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 30,
+      "start": 142.029,
+      "end": 144.627,
+      "label": "guilin",
+      "text": "下游呢拆除硬化台地，",
+      "score": 0.6724,
+      "signals": {
+        "mand_logprob": -3.6071,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "下游呢，拆除硬化的海堤。",
+        "dur": 2.598,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 31,
+      "start": 144.655,
+      "end": 147.919,
+      "label": "mandarin",
+      "text": "连通银滩和红树林的一个生态廊道。",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "联通银滩和红树林的一个生态廊道。",
+        "dur": 3.264,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 32,
+      "start": 147.919,
+      "end": 150.845,
+      "label": "mandarin",
+      "text": "那仅仅两年就完成了八大工程，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0183,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "那仅仅两年就完成了八大工程。",
+        "dur": 2.926,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 33,
+      "start": 150.845,
+      "end": 155.1,
+      "label": "mandarin",
+      "text": "水质呢有大幅度的提升。经过三年的努力，",
+      "score": 0.066,
+      "signals": {
+        "mand_logprob": -0.113,
+        "acoustic_dev": 0.127,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "水质呢，有大幅度的提升。经过三年的努力。",
+        "dur": 4.255,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 34,
+      "start": 155.1,
+      "end": 159.727,
+      "label": "mandarin",
+      "text": "冯家江流域水环境治理工程取得显著成效。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "冯家江流域水环境治理工程取得显著成效。",
+        "dur": 4.627,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 35,
+      "start": 160.146,
+      "end": 166.217,
+      "label": "mandarin",
+      "text": "二零二一年，滨海国家湿地公园冯家江流域水环境治理工程",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零二一年，滨海国家湿地公园冯家江流域水环境治理工程。",
+        "dur": 6.071,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 36,
+      "start": 166.4,
+      "end": 170.285,
+      "label": "guilin",
+      "text": "入选中国特色生态修复十大典型案例，",
+      "score": 0.6236,
+      "signals": {
+        "mand_logprob": -0.5599,
+        "acoustic_dev": 0.952,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "十/四",
+        "text_free": "入选中国特色生态修复四大典型案例。",
+        "dur": 3.885,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 37,
+      "start": 170.712,
+      "end": 174.874,
+      "label": "mandarin",
+      "text": "而冯家江片区也成为了渤海的后花园。",
+      "score": 0.0571,
+      "signals": {
+        "mand_logprob": -0.0443,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "而凤家江片区也成为了北海的后花园。",
+        "dur": 4.162,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 38,
+      "start": 174.874,
+      "end": 177.254,
+      "label": "mandarin",
+      "text": "走进冯家江湿地公园，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "走进冯家江湿地公园。",
+        "dur": 2.38,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 39,
+      "start": 177.393,
+      "end": 179.785,
+      "label": "uncertain",
+      "text": "享受着大自然的。美景，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -1.7543,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "享受着大自然的美景。",
+        "dur": 2.392,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 40,
+      "start": 180.162,
+      "end": 185.614,
+      "label": "uncertain",
+      "text": "呼吸着新鲜的空气。我去了很多的城市选择定居生活，",
+      "score": 0.3842,
+      "signals": {
+        "mand_logprob": -0.4228,
+        "acoustic_dev": 0.699,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呼吸着新鲜的空气。我去了很多的城市，选择宜居生活。",
+        "dur": 5.452,
+        "n_char": 22,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 41,
+      "start": 185.614,
+      "end": 189.157,
+      "label": "mandarin",
+      "text": "最终还是选择了美丽的北海。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "最终还是选择了美丽的北海。",
+        "dur": 3.543,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 42,
+      "start": 189.208,
+      "end": 193.378,
+      "label": "mandarin",
+      "text": "远到北海冯家江滨海国家湿地公园南下，",
+      "score": 0.1513,
+      "signals": {
+        "mand_logprob": -0.1739,
+        "acoustic_dev": 0.239,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "沿到北海冯家江滨海国家湿地公园南下。",
+        "dur": 4.17,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 43,
+      "start": 193.417,
+      "end": 197.389,
+      "label": "mandarin",
+      "text": "由海口处连片的红树林映入眼帘。",
+      "score": 0.0493,
+      "signals": {
+        "mand_logprob": -0.0616,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "右海口处，连片的红树林映入眼帘。",
+        "dur": 3.972,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 44,
+      "start": 197.697,
+      "end": 203.404,
+      "label": "mandarin",
+      "text": "两百三十多公顷的红树林形成了海上陆洲景观，",
+      "score": 0.1662,
+      "signals": {
+        "mand_logprob": -0.1698,
+        "acoustic_dev": 0.232,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "两百三十多公顷的红树林，形成了海上泸州景观。",
+        "dur": 5.707,
+        "n_char": 20,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 45,
+      "start": 203.506,
+      "end": 206.284,
+      "label": "mandarin",
+      "text": "守护着北海的盐岸滩涂。",
+      "score": 0.1015,
+      "signals": {
+        "mand_logprob": -0.1024,
+        "acoustic_dev": 0.107,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "守护着北海的沿岸滩涂。",
+        "dur": 2.778,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 46,
+      "start": 206.671,
+      "end": 217.244,
+      "label": "mandarin",
+      "text": "在这开广西北海滨海国家湿地公园管理处副主任林卫梅向记者展示了千疮百孔的树干标本。",
+      "score": 0.099,
+      "signals": {
+        "mand_logprob": -0.0741,
+        "acoustic_dev": 0.055,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在浙江，广西北海滨海国家湿地公园管理处副主任林卫梅向记者展示了前窗北空的树干标本。",
+        "dur": 10.573,
+        "n_char": 39
+      }
+    },
+    {
+      "id": 47,
+      "start": 217.605,
+      "end": 220.758,
+      "label": "mandarin",
+      "text": "以前由于冯家江的污染问题，",
+      "score": 0.118,
+      "signals": {
+        "mand_logprob": -0.1672,
+        "acoustic_dev": 0.227,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以前由于冯家江的污染问题。",
+        "dur": 3.153,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 48,
+      "start": 221.037,
+      "end": 223.389,
+      "label": "mandarin",
+      "text": "水体富营养化，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "水体富营养化。",
+        "dur": 2.352,
+        "n_char": 6
+      }
+    },
+    {
+      "id": 49,
+      "start": 223.607,
+      "end": 226.556,
+      "label": "guilin",
+      "text": "滩水石藤腐叶慢生长，",
+      "score": 0.7425,
+      "signals": {
+        "mand_logprob": -3.4176,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "腐/壶",
+        "text_free": "团水石藤壶野蔓生长。",
+        "dur": 2.949,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 50,
+      "start": 226.989,
+      "end": 231.241,
+      "label": "mandarin",
+      "text": "下游连片的红树林也遭到了严重破坏。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "下游连片的红树林也遭到了严重破坏。",
+        "dur": 4.252,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 51,
+      "start": 231.354,
+      "end": 234.989,
+      "label": "mandarin",
+      "text": "这一个呢，是我们的巡护员，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这一个呢，是我们的巡护员。",
+        "dur": 3.635,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 52,
+      "start": 234.989,
+      "end": 242.149,
+      "label": "mandarin",
+      "text": "就是从野外，就是红树林区域捡回来的，被病虫害蛀空的一个树干。",
+      "score": 0.0169,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.037,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就是说，从野外，就是红树林区域捡回来的被病虫害蛀空的一个树干。",
+        "dur": 7.16,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 53,
+      "start": 242.166,
+      "end": 247.807,
+      "label": "mandarin",
+      "text": "它是被一个叫滩水石的有害生物蛀到它的树干里面，",
+      "score": 0.0623,
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "它是被一个叫团水虱的有害生物住到它的树干里面。",
+        "dur": 5.641,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 54,
+      "start": 247.807,
+      "end": 250.177,
+      "label": "mandarin",
+      "text": "就是对它啃食，",
+      "score": 0.0762,
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就是对他啃食。",
+        "dur": 2.37,
+        "n_char": 6
+      }
+    },
+    {
+      "id": 55,
+      "start": 250.365,
+      "end": 254.097,
+      "label": "mandarin",
+      "text": "长时间的啃食，这个的话，这个树干就会被蛀空，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "长时间的啃食，这个的话，这个树干就会被蛀空。",
+        "dur": 3.732,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 56,
+      "start": 254.107,
+      "end": 257.124,
+      "label": "mandarin",
+      "text": "然后这个慢慢的红树林这个就会死亡。",
+      "score": 0.2781,
+      "signals": {
+        "mand_logprob": -0.3339,
+        "acoustic_dev": 0.535,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后，这个慢慢的红树林，这个就会死亡。",
+        "dur": 3.017,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 57,
+      "start": 257.18,
+      "end": 261.485,
+      "label": "guilin",
+      "text": "当时啊，就在过度养山嘛，很多那个乌黑那个山羊啊，",
+      "score": 0.6506,
+      "signals": {
+        "mand_logprob": -1.1854,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "当时啊，这家户都养山嘛，很多那个乌黑那个虾变啊。",
+        "dur": 4.305,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 58,
+      "start": 261.485,
+      "end": 264.684,
+      "label": "mandarin",
+      "text": "还有鸭，还有那个牛，走进那个红树林，",
+      "score": 0.2807,
+      "signals": {
+        "mand_logprob": -0.2414,
+        "acoustic_dev": 0.364,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "还有鸭，还有啊，那个鸟啊，走进那个红树林。",
+        "dur": 3.199,
+        "n_char": 15,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 59,
+      "start": 264.684,
+      "end": 268.776,
+      "label": "mandarin",
+      "text": "破坏那个红树林。为了让海上陆洲重现生机，",
+      "score": 0.3524,
+      "signals": {
+        "mand_logprob": -0.2791,
+        "acoustic_dev": 0.434,
+        "seg_cer": 0.278,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "破罐那个王世林。为了让海上泸州重现生机。",
+        "dur": 4.092,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 60,
+      "start": 269.04,
+      "end": 271.496,
+      "label": "mandarin",
+      "text": "除了对冯家江流域进行治理，",
+      "score": 0.0003,
+      "signals": {
+        "mand_logprob": -0.0445,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "除了对冯家江流域进行治理。",
+        "dur": 2.456,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 61,
+      "start": 271.789,
+      "end": 276.736,
+      "label": "mandarin",
+      "text": "北海市还出台《北海市红树林巡护检查制度》，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0196,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "北海市还出台《北海市红树林巡护检查制度》。",
+        "dur": 4.947,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 62,
+      "start": 277.105,
+      "end": 282.653,
+      "label": "mandarin",
+      "text": "印发《北海市红树林资源保护规划》二零二零至二零三零年，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "印发《北海市红树林资源保护规划（二零二零至二零三零年）》。",
+        "dur": 5.548,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 63,
+      "start": 283.02,
+      "end": 287.431,
+      "label": "guilin",
+      "text": "推行万丈加林长加警长加检查长机制，",
+      "score": 0.6622,
+      "signals": {
+        "mand_logprob": -0.5302,
+        "acoustic_dev": 0.897,
+        "seg_cer": 0.438,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "林/领",
+        "text_free": "推行完章加领章加经章加检查章机制。",
+        "dur": 4.411,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 64,
+      "start": 287.86,
+      "end": 293.0,
+      "label": "mandarin",
+      "text": "整合各方力量，为加快红树林生态修复保驾护航。",
+      "score": 0.0457,
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "整合国防力量，为加快红树林生态修复保驾护航。",
+        "dur": 5.14,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 65,
+      "start": 293.333,
+      "end": 304.15,
+      "label": "mandarin",
+      "text": "二零二三年六月，湿地公园内一千三百五十七点八公顷盐岸滩涂和红树林湿地列入国家级重要的名录。",
+      "score": 0.0744,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.163,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零二三年六月，湿地公园的一千三百五十七点八公顷沿海滩涂和红树林湿地列入国际重要湿地名录。",
+        "dur": 10.817,
+        "n_char": 43
+      }
+    },
+    {
+      "id": 66,
+      "start": 304.479,
+      "end": 307.79,
+      "label": "mandarin",
+      "text": "湿地公园不断加大巡护管护力度，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "湿地公园不断加大巡护管护力度。",
+        "dur": 3.311,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 67,
+      "start": 307.945,
+      "end": 312.734,
+      "label": "mandarin",
+      "text": "聘请多名巡护员对红树林进行日常巡查。",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0049,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "聘请多名巡护员对红树林进行异常巡查。",
+        "dur": 4.789,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 68,
+      "start": 312.734,
+      "end": 316.689,
+      "label": "mandarin",
+      "text": "我们现在湿地公园的话，总共有护林员有十九名。",
+      "score": 0.0914,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们现在施工园的话，总共有护理员有十九名。",
+        "dur": 3.955,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 69,
+      "start": 316.689,
+      "end": 319.433,
+      "label": "mandarin",
+      "text": "每天我们的巡护人员呢到位以后，",
+      "score": 0.2397,
+      "signals": {
+        "mand_logprob": -0.294,
+        "acoustic_dev": 0.461,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "每天，我们的巡护人员呢到位以后。",
+        "dur": 2.744,
+        "n_char": 14,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 70,
+      "start": 319.433,
+      "end": 323.211,
+      "label": "mandarin",
+      "text": "主要是针对在我们湿地公园范围内占用湿地、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "主要是针对在我们湿地公园范围内占用湿地。",
+        "dur": 3.778,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 71,
+      "start": 323.211,
+      "end": 328.104,
+      "label": "mandarin",
+      "text": "到红树林里面采茶、采挖，还有就是设置这种非法的渔博、",
+      "score": 0.215,
+      "signals": {
+        "mand_logprob": -0.1647,
+        "acoustic_dev": 0.222,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "到红树林里面踩踏、踩挖，还有就是设置这种非法的鱼网。",
+        "dur": 4.893,
+        "n_char": 23,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 72,
+      "start": 328.104,
+      "end": 332.629,
+      "label": "mandarin",
+      "text": "地网，对生态环境造成影响的一些行为进行一些巡查，进行制止。",
+      "score": 0.0527,
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "帝王对生态环境造成影响的这些行为，进行一些巡查，进行制止。",
+        "dur": 4.525,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 73,
+      "start": 333.011,
+      "end": 335.482,
+      "label": "guilin",
+      "text": "红树林生态保护区设立以后，",
+      "score": 0.5815,
+      "signals": {
+        "mand_logprob": -0.3792,
+        "acoustic_dev": 0.618,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "护/袱 林/令 树/肃",
+        "text_free": "红肃令三台包袱区设立以后。",
+        "dur": 2.471,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 74,
+      "start": 335.625,
+      "end": 338.33,
+      "label": "mandarin",
+      "text": "北海市开辟新的就业渠道，",
+      "score": 0.0537,
+      "signals": {
+        "mand_logprob": -0.1002,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "北海市开辟新的就业渠道。",
+        "dur": 2.705,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 75,
+      "start": 338.552,
+      "end": 342.147,
+      "label": "uncertain",
+      "text": "让部分养鱼、养虾户当上了护林员，",
+      "score": 0.5369,
+      "signals": {
+        "mand_logprob": -0.3328,
+        "acoustic_dev": 0.533,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.6,
+        "phon_examples": "林/陵 护/富 户/富",
+        "text_free": "杨部分养鱼养虾，富当上了富陵县。",
+        "dur": 3.595,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 76,
+      "start": 342.573,
+      "end": 344.883,
+      "label": "mandarin",
+      "text": "有一份稳定的工作和收入。",
+      "score": 0.0416,
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "有一份稳定的工作或收入。",
+        "dur": 2.31,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 77,
+      "start": 345.026,
+      "end": 349.671,
+      "label": "mandarin",
+      "text": "保护区内还为赶海的村民留出专用通道，",
+      "score": 0.0448,
+      "signals": {
+        "mand_logprob": -0.0909,
+        "acoustic_dev": 0.086,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "保护区内还为赶海的村民留出专用通道。",
+        "dur": 4.645,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 78,
+      "start": 349.846,
+      "end": 352.499,
+      "label": "mandarin",
+      "text": "方便他们出海挖沙虫。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "方便他们出海挖沙虫。",
+        "dur": 2.653,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 79,
+      "start": 352.499,
+      "end": 355.495,
+      "label": "guilin",
+      "text": "不能保护好了，我们就没，各个都得到红利了，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -1.4007,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.389,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "树林保护好了，我们出门，个个都躲到红绿了。",
+        "dur": 2.996,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 80,
+      "start": 355.495,
+      "end": 358.277,
+      "label": "uncertain",
+      "text": "好多那个游客啊，过来要来赶海啊、",
+      "score": 0.3896,
+      "signals": {
+        "mand_logprob": -0.3821,
+        "acoustic_dev": 0.624,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "好多那个游客啊，过来这里赶海啊。",
+        "dur": 2.782,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 81,
+      "start": 358.277,
+      "end": 361.062,
+      "label": "mandarin",
+      "text": "旅游啊各方面都有一定的收入了。",
+      "score": 0.1421,
+      "signals": {
+        "mand_logprob": -0.1923,
+        "acoustic_dev": 0.273,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "旅游啊，各方面都有一定的收入了。",
+        "dur": 2.785,
+        "n_char": 14,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 82,
+      "start": 361.062,
+      "end": 363.344,
+      "label": "guilin",
+      "text": "以陆为地，处处生机。",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -1.7441,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.625,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一路逶迤，处处生金。",
+        "dur": 2.282,
+        "n_char": 8,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 83,
+      "start": 363.664,
+      "end": 366.524,
+      "label": "mandarin",
+      "text": "受益于有力的保护修复措施，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0102,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "受益于有力的保护修复措施。",
+        "dur": 2.86,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 84,
+      "start": 366.726,
+      "end": 373.373,
+      "label": "guilin",
+      "text": "享有海洋美食、海洋陆肥美誉的红树林更加的葱郁茂密，",
+      "score": 0.6591,
+      "signals": {
+        "mand_logprob": -0.6033,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.304,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "享有海岸威势、海洋芦苇美玉的红树林，更加的丛郁茂密。",
+        "dur": 6.647,
+        "n_char": 23,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 85,
+      "start": 373.637,
+      "end": 377.208,
+      "label": "mandarin",
+      "text": "已经成为北海一张亮丽的生态名片。",
+      "score": 0.0283,
+      "signals": {
+        "mand_logprob": -0.0737,
+        "acoustic_dev": 0.054,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "已经成为北海一张亮丽的生态名片。",
+        "dur": 3.571,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 86,
+      "start": 377.798,
+      "end": 383.393,
+      "label": "mandarin",
+      "text": "金海湾红树林生态旅游区是游客到北海旅游的热门打卡地。",
+      "score": 0.0183,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "金海湾红树林生态旅游区是游客到北海旅游的一门打卡地。",
+        "dur": 5.595,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 87,
+      "start": 383.873,
+      "end": 387.762,
+      "label": "mandarin",
+      "text": "目前园区内种植各类红树十九种，",
+      "score": 0.1653,
+      "signals": {
+        "mand_logprob": -0.0291,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "类/内",
+        "text_free": "目前园区内种植国内红树十九种。",
+        "dur": 3.889,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 88,
+      "start": 388.083,
+      "end": 391.284,
+      "label": "mandarin",
+      "text": "红树林面积达到一千三百多亩，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "红树林面积达到一千三百多亩。",
+        "dur": 3.201,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 89,
+      "start": 391.668,
+      "end": 394.949,
+      "label": "mandarin",
+      "text": "累计监测到鸟类两百三十九种。",
+      "score": 0.0352,
+      "signals": {
+        "mand_logprob": -0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "累计检测到鸟类两百三十九种。",
+        "dur": 3.281,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 90,
+      "start": 395.353,
+      "end": 400.415,
+      "label": "mandarin",
+      "text": "这里不仅是鱼虾、贝蟹等上百种海洋生物的栖息地，",
+      "score": 0.0218,
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这口不仅是鱼虾、贝蟹等上百种海洋生物的栖息地。",
+        "dur": 5.062,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 91,
+      "start": 400.616,
+      "end": 406.13,
+      "label": "mandarin",
+      "text": "更是鸟类的天堂。红树林的话，它就是不仅说观赏价值，",
+      "score": 0.0208,
+      "signals": {
+        "mand_logprob": -0.0114,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "更是鸟类的天堂。红树林的话呢，它就是不仅说观赏价值。",
+        "dur": 5.514,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 92,
+      "start": 406.13,
+      "end": 409.473,
+      "label": "mandarin",
+      "text": "同时呢，它还有一个非常好的一个生态价值。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同时呢，它还有一个非常好的一个生态价值。",
+        "dur": 3.343,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 93,
+      "start": 409.907,
+      "end": 412.513,
+      "label": "mandarin",
+      "text": "也曾经是监测到几尾鸟类啊。",
+      "score": 0.1143,
+      "signals": {
+        "mand_logprob": -0.0373,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也曾经是监测到极微鸟类。",
+        "dur": 2.606,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 94,
+      "start": 412.753,
+      "end": 418.418,
+      "label": "mandarin",
+      "text": "我们这个红树林保护的越来越好，这个相关那些啊生物多样性呢也会越来的越多。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们这个红树林保护的越来越好，这个相关那些啊生物多样性呢，也会越来的越多。",
+        "dur": 5.665,
+        "n_char": 34
+      }
+    },
+    {
+      "id": 95,
+      "start": 418.704,
+      "end": 422.771,
+      "label": "mandarin",
+      "text": "近年来，北海市充分发挥红树林的生态价值，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近年来，北海市充分发挥红树林的生态价值。",
+        "dur": 4.067,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 96,
+      "start": 422.934,
+      "end": 426.812,
+      "label": "mandarin",
+      "text": "在保护区建设红树林清水观光栈道、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0229,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在保护区建设红树林、清水观光栈道。",
+        "dur": 3.878,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 97,
+      "start": 426.812,
+      "end": 430.609,
+      "label": "mandarin",
+      "text": "观鸟塔、监测站等等生态保护设施，",
+      "score": 0.3575,
+      "signals": {
+        "mand_logprob": -0.3826,
+        "acoustic_dev": 0.625,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "观鸟塔、检测站等等生态保护设施。",
+        "dur": 3.797,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 98,
+      "start": 430.943,
+      "end": 433.228,
+      "label": "uncertain",
+      "text": "开展文明赶海、亲子游、",
+      "score": 0.4999,
+      "signals": {
+        "mand_logprob": -0.408,
+        "acoustic_dev": 0.671,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "赶/港",
+        "text_free": "开展文明港海、亲子游。",
+        "dur": 2.285,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 99,
+      "start": 433.228,
+      "end": 435.993,
+      "label": "mandarin",
+      "text": "研学营等等丰富多彩的活动，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0151,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "研学营等等丰富多彩的活动。",
+        "dur": 2.765,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 100,
+      "start": 436.234,
+      "end": 441.115,
+      "label": "mandarin",
+      "text": "持续激活旅游经济，推动绿色可持续发展。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "持续激活旅游经济，推动绿色可持续发展。",
+        "dur": 4.881,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 101,
+      "start": 441.115,
+      "end": 447.235,
+      "label": "mandarin",
+      "text": "通过研学活动，呃，从小在他们心里种下一颗绿水青山就是金山银山的种子。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过研学活动，呃，从小在他们心里种下一颗绿水青山就是金山银山的种子。",
+        "dur": 6.12,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 102,
+      "start": 447.479,
+      "end": 453.172,
+      "label": "mandarin",
+      "text": "通过自己的保护，把我们这一片美丽的红树林变得更加美丽，生态更丰富，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过自己的保护，把我们这一片美丽的红树林变得更加美丽，生态更丰富。",
+        "dur": 5.693,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 103,
+      "start": 453.172,
+      "end": 457.251,
+      "label": "mandarin",
+      "text": "能够吸引到更多的游客来了解我们美丽的北部湾。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "能够吸引到更多的游客来了解我们美丽的北部湾。",
+        "dur": 4.079,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 104,
+      "start": 457.561,
+      "end": 460.718,
+      "label": "mandarin",
+      "text": "如今，天蓝、水清、岸绿、",
+      "score": 0.0032,
+      "signals": {
+        "mand_logprob": -0.0476,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "如今，天蓝水清，岸绿。",
+        "dur": 3.157,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 105,
+      "start": 460.733,
+      "end": 467.033,
+      "label": "mandarin",
+      "text": "滩净，完美的生态环境已成为北海的独特优势和发展竞争力。",
+      "score": 0.3153,
+      "signals": {
+        "mand_logprob": -0.3346,
+        "acoustic_dev": 0.536,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "潭静完美的生态环境已成为北海的独特优势和发展竞争力。",
+        "dur": 6.3,
+        "n_char": 25,
+        "text_check": "建议校对"
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

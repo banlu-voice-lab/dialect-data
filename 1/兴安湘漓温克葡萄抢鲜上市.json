@@ -1,0 +1,579 @@
+{
+  "src_audio": "兴安湘漓温克葡萄抢鲜上市.wav",
+  "duration": 128.448,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.724,
+      "end": 5.462,
+      "label": "guilin",
+      "text": "最近广受欢迎的葡萄品种“温客”进入到了成熟期，",
+      "score": 0.6114,
+      "signals": {
+        "mand_logprob": -0.6227,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "最近广受反映的葡萄品种文克进入到了成熟期。",
+        "dur": 4.738,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.639,
+      "end": 15.963,
+      "label": "mandarin",
+      "text": "坐落于兴安县香梨镇的兴源家庭农场的二十五亩“温客”葡萄成为了今年兴安首批成熟的“温客”葡萄。",
+      "score": 0.1685,
+      "signals": {
+        "mand_logprob": -0.0759,
+        "acoustic_dev": 0.105,
+        "seg_cer": 0.171,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "兴/鑫",
+        "text_free": "坐落于兴安县祥利镇的鑫源家庭农场的二十五亩文科葡萄，成为了今年兴安首批成熟的文科葡萄。",
+        "dur": 10.324,
+        "n_char": 41
+      }
+    },
+    {
+      "id": 3,
+      "start": 16.068,
+      "end": 22.249,
+      "label": "mandarin",
+      "text": "走进家庭农场葡萄种植基地，一串串“温客”葡萄色泽鲜亮如红宝石，",
+      "score": 0.0339,
+      "signals": {
+        "mand_logprob": -0.0129,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "走进家庭农场葡萄种植基地，一串串文克葡萄色泽鲜亮如红宝石。",
+        "dur": 6.181,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 4,
+      "start": 22.413,
+      "end": 29.047,
+      "label": "mandarin",
+      "text": "沉甸甸的挂满枝头，饱满的果实散发着清甜香气，长势格外喜人。",
+      "score": 0.1472,
+      "signals": {
+        "mand_logprob": -0.0135,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "长/展",
+        "text_free": "沉甸甸的挂满枝头，饱满的果实散发着晴天香气，展示格外吸引。",
+        "dur": 6.634,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 5,
+      "start": 29.047,
+      "end": 32.164,
+      "label": "mandarin",
+      "text": "因为我们的气候还是比较适合我们的葡萄生长的，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "因为我们的气候还是比较适合我们的葡萄生长的。",
+        "dur": 3.117,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 6,
+      "start": 32.669,
+      "end": 35.069,
+      "label": "guilin",
+      "text": "一段时间的雨，一段时间的天气，",
+      "score": 0.5552,
+      "signals": {
+        "mand_logprob": -0.8418,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一段时间的雨，一段时间的天晴。",
+        "dur": 2.4,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 7,
+      "start": 35.261,
+      "end": 37.986,
+      "label": "mandarin",
+      "text": "那我们现在温客总体长势还是非常好的。",
+      "score": 0.2237,
+      "signals": {
+        "mand_logprob": -0.0545,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "长/展",
+        "text_free": "然后我们现在温客总体展示还是非常好的。",
+        "dur": 2.725,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 8,
+      "start": 38.271,
+      "end": 42.62,
+      "label": "mandarin",
+      "text": "嗯，我们现在温客的糖度基本上都到二十以上了。",
+      "score": 0.0229,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "嗯，我们现在温客的弹度基本上都到二十以上了。",
+        "dur": 4.349,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 9,
+      "start": 42.62,
+      "end": 47.698,
+      "label": "mandarin",
+      "text": "为保障葡萄品质，农场从种植到一场管护全程把关，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0201,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为保障葡萄品质，农场从种植到一场管护全程把关。",
+        "dur": 5.078,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 10,
+      "start": 47.782,
+      "end": 51.515,
+      "label": "mandarin",
+      "text": "县农业部门的技术人员也会定期上门指导。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "县农业部门的技术人员也会定期上门指导。",
+        "dur": 3.733,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 11,
+      "start": 51.813,
+      "end": 56.649,
+      "label": "mandarin",
+      "text": "无论是病虫害防治，还是肥料使用等等关键环节，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "无论是病虫害防治，还是肥料使用等等关键环节。",
+        "dur": 4.836,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 12,
+      "start": 56.85,
+      "end": 60.338,
+      "label": "mandarin",
+      "text": "农场都会提前与技术人员沟通确认，",
+      "score": 0.1875,
+      "signals": {
+        "mand_logprob": -0.205,
+        "acoustic_dev": 0.361,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "农场都会提前与技术人员沟通确认。",
+        "dur": 3.488,
+        "n_char": 15,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 13,
+      "start": 60.338,
+      "end": 63.327,
+      "label": "mandarin",
+      "text": "确保每一步种植都符合标准。",
+      "score": 0.3207,
+      "signals": {
+        "mand_logprob": -0.1632,
+        "acoustic_dev": 0.278,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "植/子",
+        "text_free": "确保每一部种子都符合标准。",
+        "dur": 2.989,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 14,
+      "start": 63.327,
+      "end": 65.611,
+      "label": "mandarin",
+      "text": "我们是全部都是水肥一体化，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们是全部都是水肥一体化。",
+        "dur": 2.284,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 15,
+      "start": 66.059,
+      "end": 69.123,
+      "label": "mandarin",
+      "text": "然后杀虫、打病的话，",
+      "score": 0.1567,
+      "signals": {
+        "mand_logprob": -0.175,
+        "acoustic_dev": 0.301,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后杀虫，打病的话。",
+        "dur": 3.064,
+        "n_char": 8,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 16,
+      "start": 69.4,
+      "end": 74.153,
+      "label": "mandarin",
+      "text": "也都会跟我们农业局里的技术人员一起去沟通交流。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也都会跟我们农业局里的技术人员一起去沟通交流。",
+        "dur": 4.753,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 17,
+      "start": 74.2,
+      "end": 76.36,
+      "label": "mandarin",
+      "text": "今天就主要是一个采了，在这，",
+      "score": 0.1095,
+      "signals": {
+        "mand_logprob": -0.1291,
+        "acoustic_dev": 0.211,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天就主要是一个采了，在这。",
+        "dur": 2.16,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 18,
+      "start": 76.445,
+      "end": 79.744,
+      "label": "mandarin",
+      "text": "在这个果园采了两个品种，一个是温客，",
+      "score": 0.0286,
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在这个果园采了两个品种，一个是温克。",
+        "dur": 3.299,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.172,
+      "end": 83.566,
+      "label": "mandarin",
+      "text": "还有一个是阳光玫瑰。平时我们也",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "还有一个是阳光玫瑰，平时我们也。",
+        "dur": 3.394,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 20,
+      "start": 83.598,
+      "end": 86.237,
+      "label": "mandarin",
+      "text": "就按照那个精品葡萄生产方案，",
+      "score": 0.3296,
+      "signals": {
+        "mand_logprob": -0.2749,
+        "acoustic_dev": 0.499,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就按照那个精品葡萄试验方案。",
+        "dur": 2.639,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 21,
+      "start": 86.237,
+      "end": 89.152,
+      "label": "mandarin",
+      "text": "嗯，过来就是监督、呃，指导一下。",
+      "score": 0.1091,
+      "signals": {
+        "mand_logprob": -0.0917,
+        "acoustic_dev": 0.137,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "嗯，过来就是监督，呃，指导一下啊。",
+        "dur": 2.915,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 22,
+      "start": 89.334,
+      "end": 92.053,
+      "label": "guilin",
+      "text": "一个呃疏果，第二个就是",
+      "score": 0.6114,
+      "signals": {
+        "mand_logprob": -0.946,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一个嗯，蔬果。第二个就是。",
+        "dur": 2.719,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 92.352,
+      "end": 95.105,
+      "label": "mandarin",
+      "text": "嗯，使用这个技术方面严格控制，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0226,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "嗯，使用这个技术方面严格控制。",
+        "dur": 2.753,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 24,
+      "start": 95.105,
+      "end": 97.945,
+      "label": "mandarin",
+      "text": "再一个就是呃，增施有机肥。",
+      "score": 0.2398,
+      "signals": {
+        "mand_logprob": -0.0535,
+        "acoustic_dev": 0.061,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "增/真",
+        "text_free": "再一个就是，呃，真是有志肥。",
+        "dur": 2.84,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 25,
+      "start": 97.945,
+      "end": 104.931,
+      "label": "mandarin",
+      "text": "凭借成熟时间早的优势，该农场的“温客”葡萄已经吸引了本地及外地批发商的目光。",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "凭借成熟时间早的优势，该农场的文克葡萄已经吸引了本地及外地批发商的目光。",
+        "dur": 6.986,
+        "n_char": 34
+      }
+    },
+    {
+      "id": 26,
+      "start": 105.194,
+      "end": 108.924,
+      "label": "mandarin",
+      "text": "成熟以后，主要销往桂林、广东、湛江等地。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "成熟以后，主要销往桂林、广东、湛江等地。",
+        "dur": 3.73,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 27,
+      "start": 109.21,
+      "end": 113.392,
+      "label": "guilin",
+      "text": "近年来，香梨镇持续聚焦精品葡萄产业发展，",
+      "score": 0.5708,
+      "signals": {
+        "mand_logprob": -0.5286,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近年来，香丽珍持续聚焦精品葡萄产业发展。",
+        "dur": 4.182,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 28,
+      "start": 113.649,
+      "end": 117.448,
+      "label": "mandarin",
+      "text": "通过技术赋能、推广标准化种植等等举措，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0167,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过技术赋能、推广标准化种植等等举措。",
+        "dur": 3.799,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 29,
+      "start": 117.607,
+      "end": 120.997,
+      "label": "mandarin",
+      "text": "不断提升葡萄的品质与市场竞争力，",
+      "score": 0.0265,
+      "signals": {
+        "mand_logprob": -0.0483,
+        "acoustic_dev": 0.051,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不断提升葡萄的品质与市场竞争力。",
+        "dur": 3.39,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 30,
+      "start": 121.235,
+      "end": 124.48,
+      "label": "mandarin",
+      "text": "不仅让葡萄成为了农户增收的致富果，",
+      "score": 0.051,
+      "signals": {
+        "mand_logprob": -0.0444,
+        "acoustic_dev": 0.043,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不仅养葡萄，成为了农户增收的致富果。",
+        "dur": 3.245,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 31,
+      "start": 124.618,
+      "end": 128.448,
+      "label": "mandarin",
+      "text": "也为当地农业增效注入了强劲动力。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也为当地农业增效注入了强劲动力。",
+        "dur": 3.83,
+        "n_char": 15
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

@@ -1,0 +1,469 @@
+{
+  "src_audio": "荔浦龙怀绿水青山结红果 绘就农旅融合新图景.wav",
+  "duration": 113.602,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.207,
+      "end": 12.374,
+      "label": "mandarin",
+      "text": "这一段时间，荔浦市龙飞乡西安社区的红星火龙果种植基地里，面采录的火龙果子条，肆意舒展，一个个色泽鲜艳、饱满圆润的火龙果，",
+      "score": 0.1485,
+      "signals": {
+        "mand_logprob": -0.0198,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.093,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "子/枝 星/心",
+        "text_free": "这一段时间，荔浦市龙飞乡新安社区的红心火龙果种植基地里面，车路的火龙果枝条肆意舒展，一个个色泽鲜艳、饱满圆润的火龙果。",
+        "dur": 12.167,
+        "n_char": 54
+      }
+    },
+    {
+      "id": 2,
+      "start": 12.374,
+      "end": 17.011,
+      "label": "mandarin",
+      "text": "是挂满枝头，吸引了不少游客前来体验采摘。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "是挂满枝头，吸引了不少游客前来体验采摘。",
+        "dur": 4.637,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 3,
+      "start": 17.162,
+      "end": 23.506,
+      "label": "mandarin",
+      "text": "走进火龙果种植基地，三五成群的游客穿梭在果地里头，忙到采摘、拍照，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "走进火龙果种植基地，三五成群的游客穿梭在果地里头，忙到采摘、拍照。",
+        "dur": 6.344,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 4,
+      "start": 23.734,
+      "end": 27.019,
+      "label": "mandarin",
+      "text": "没得好久，果筐就被装得满满当当。",
+      "score": 0.04,
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "没得",
+        "text_free": "没得好久，果筐就被装得满满当当。",
+        "dur": 3.285,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 5,
+      "start": 27.019,
+      "end": 30.63,
+      "label": "mandarin",
+      "text": "第一次亲手采摘火龙果，真的太有趣、太新鲜了。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "第一次亲手采摘火龙果，真的太有趣，太新鲜了。",
+        "dur": 3.611,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 6,
+      "start": 30.898,
+      "end": 35.73,
+      "label": "mandarin",
+      "text": "果园采摘既能够体验到动手的快乐，又能够吃到最新鲜的果子，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "果园采摘既能够体验到动手的快乐，又能够吃到最新鲜的果子。",
+        "dur": 4.832,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 7,
+      "start": 35.73,
+      "end": 41.284,
+      "label": "uncertain",
+      "text": "这趟真的值了。种植户潘喜兵种植红星火龙果已经有十多年头了，",
+      "score": 0.427,
+      "signals": {
+        "mand_logprob": -0.134,
+        "acoustic_dev": 0.336,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.778,
+        "phon_examples": "星/心 植/子 种/粽 兵/斌 户/夫 植/子",
+        "text_free": "这趟真的值了。粽子夫潘锡斌，粽子红心火龙果已经有十个年头了。",
+        "dur": 5.554,
+        "n_char": 27,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 8,
+      "start": 41.284,
+      "end": 44.135,
+      "label": "mandarin",
+      "text": "目前种植规模已经达到了三十亩。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "目前种植规模已经达到了三十亩。",
+        "dur": 2.851,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 9,
+      "start": 44.391,
+      "end": 48.656,
+      "label": "mandarin",
+      "text": "基地积极引入先进的种植技术和科学的管理理念，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0122,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "基地积极引入先进的种植技术和科学的管理理念。",
+        "dur": 4.265,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.852,
+      "end": 51.224,
+      "label": "uncertain",
+      "text": "确保火龙果的品质和产量。",
+      "score": 0.5425,
+      "signals": {
+        "mand_logprob": -0.2072,
+        "acoustic_dev": 0.543,
+        "seg_cer": 0.909,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "产/餐 质/子 品/瓶 龙/弄",
+        "text_free": "戳包糊弄锅的瓶子或餐粮。",
+        "dur": 2.372,
+        "n_char": 11,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 11,
+      "start": 51.507,
+      "end": 58.141,
+      "label": "mandarin",
+      "text": "同时，利用智能灌溉系统，根据土壤墒情和火龙果生长周期精准灌溉，",
+      "score": 0.0163,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同时，利用智能灌溉系统，根据土壤墒情或火龙果生长周期，精准灌溉。",
+        "dur": 6.634,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 12,
+      "start": 58.426,
+      "end": 62.211,
+      "label": "mandarin",
+      "text": "既节约了水资源，又满足了作物生长需求。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "既节约了水资源，又满足了作物生长需求。",
+        "dur": 3.785,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 13,
+      "start": 62.26,
+      "end": 65.9,
+      "label": "guilin",
+      "text": "基地火龙果使用了都是有机肥，保证绿色生态，",
+      "score": 0.5922,
+      "signals": {
+        "mand_logprob": -0.4781,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "基地火种可使用的都是有机肥，保证绿色生态。",
+        "dur": 3.64,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 14,
+      "start": 66.056,
+      "end": 69.281,
+      "label": "mandarin",
+      "text": "无农药残留。近年来产量也是",
+      "score": 0.1905,
+      "signals": {
+        "mand_logprob": -0.1448,
+        "acoustic_dev": 0.366,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "无农药残留，近年来产量也是。",
+        "dur": 3.225,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 15,
+      "start": 69.376,
+      "end": 72.019,
+      "label": "mandarin",
+      "text": "逐年递增，今年预计",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0156,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "逐年递增，今年预计。",
+        "dur": 2.643,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 16,
+      "start": 72.266,
+      "end": 74.992,
+      "label": "mandarin",
+      "text": "产量可达六五千斤，",
+      "score": 0.2256,
+      "signals": {
+        "mand_logprob": -0.1686,
+        "acoustic_dev": 0.434,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "产量可达六五千斤。",
+        "dur": 2.726,
+        "n_char": 8,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 17,
+      "start": 75.316,
+      "end": 78.55,
+      "label": "mandarin",
+      "text": "品质更加稳定，甜度高、口感多汁，",
+      "score": 0.0206,
+      "signals": {
+        "mand_logprob": -0.0296,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "品质更加稳定，甜度高，口感多汁。",
+        "dur": 3.234,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 18,
+      "start": 78.55,
+      "end": 80.762,
+      "label": "uncertain",
+      "text": "深受市场欢迎。目前，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -0.4115,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "深受市场欢迎，目前。",
+        "dur": 2.212,
+        "n_char": 8,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.984,
+      "end": 84.585,
+      "label": "mandarin",
+      "text": "市场价格根据不同销售渠道和产品有所差异，",
+      "score": 0.1368,
+      "signals": {
+        "mand_logprob": -0.1084,
+        "acoustic_dev": 0.263,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "市场价格根据不同销售渠道和产品有所差异。",
+        "dur": 3.601,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 20,
+      "start": 84.585,
+      "end": 89.733,
+      "label": "mandarin",
+      "text": "地头批发价每斤三元左右，采摘园销售价每斤六元左右。",
+      "score": 0.0596,
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一头批发价每斤三元左右，采蛇原销售价每斤六元左右。",
+        "dur": 5.148,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 21,
+      "start": 89.807,
+      "end": 94.889,
+      "label": "mandarin",
+      "text": "火龙果基地的蓬勃发展，为龙飞乡城振兴注入了强劲动力。",
+      "score": 0.1192,
+      "signals": {
+        "mand_logprob": -0.0577,
+        "acoustic_dev": 0.119,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "可龙果基地的蓬勃发展，为龙凤乡村振兴注入了强劲动力。",
+        "dur": 5.082,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 22,
+      "start": 95.15,
+      "end": 100.731,
+      "label": "mandarin",
+      "text": "此外，龙飞乡还积极探索“一村一品”以及农业加旅游的发展模式，",
+      "score": 0.0176,
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "此外，龙凤乡还积极探索一村一品以及农业加旅游的发展模式。",
+        "dur": 5.581,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 23,
+      "start": 100.999,
+      "end": 104.635,
+      "label": "guilin",
+      "text": "鼓励种植、畅销农产品、游营、摘桃、葡萄等等，",
+      "score": 0.6007,
+      "signals": {
+        "mand_logprob": -1.5471,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "鼓励种植畅销农产品，如英泽桃、葡萄等等。",
+        "dur": 3.636,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 104.839,
+      "end": 109.793,
+      "label": "uncertain",
+      "text": "并充分利用田园风光、将果园采摘与乡村旅游结合起来，",
+      "score": 0.4243,
+      "signals": {
+        "mand_logprob": -0.3033,
+        "acoustic_dev": 0.816,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并充分利用田园风光，将果园采摘与乡村旅游结合起来。",
+        "dur": 4.954,
+        "n_char": 23,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 25,
+      "start": 110.067,
+      "end": 113.602,
+      "label": "mandarin",
+      "text": "延伸农业产业链，助力水果产业发展。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "延伸农业产业链，助力水果产业发展。",
+        "dur": 3.535,
+        "n_char": 15
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

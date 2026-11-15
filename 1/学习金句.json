@@ -1,0 +1,189 @@
+{
+  "src_audio": "学习金句.wav",
+  "duration": 45.01,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.729,
+      "end": 7.601,
+      "label": "mandarin",
+      "text": "学习京剧，今天我们学习习近平在中国文联十大、中国作协九大开幕式上的讲话。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0102,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "学习京剧。今天我们学习习近平在中国文联十大、中国作协九大开幕式上的讲话。",
+        "dur": 6.872,
+        "n_char": 33
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.286,
+      "end": 13.734,
+      "label": "mandarin",
+      "text": "社会是一本大书，只有真正读懂、读透了这本大书，",
+      "score": 0.001,
+      "signals": {
+        "mand_logprob": -0.0119,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "社会是一本大书，只有真正读懂、读透了这本大书。",
+        "dur": 5.448,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 3,
+      "start": 13.734,
+      "end": 15.887,
+      "label": "mandarin",
+      "text": "才能创作出优秀作品。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "才能创作出优秀作品。",
+        "dur": 2.153,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.419,
+      "end": 18.813,
+      "label": "guilin",
+      "text": "读懂社会、读透社会，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -3.3268,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "堵东蛇肥，堵头蛇肥。",
+        "dur": 2.394,
+        "n_char": 8,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.813,
+      "end": 22.868,
+      "label": "mandarin",
+      "text": "决定着艺术创作的视野广度、精神力度、",
+      "score": 0.06,
+      "signals": {
+        "mand_logprob": -0.0136,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "决定着艺术创作的事业广度、精神力度。",
+        "dur": 4.055,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.868,
+      "end": 29.117,
+      "label": "mandarin",
+      "text": "思想深度。广大文艺工作者要努力上好社会这所大学校，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "思想深度。广大文艺工作者要努力上好社会这所大学校。",
+        "dur": 6.249,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.385,
+      "end": 31.779,
+      "label": "mandarin",
+      "text": "读好社会这本大书，",
+      "score": 0.1569,
+      "signals": {
+        "mand_logprob": -0.1484,
+        "acoustic_dev": 0.302,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "读好《社会》这本大书。",
+        "dur": 2.394,
+        "n_char": 8,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.923,
+      "end": 37.066,
+      "label": "mandarin",
+      "text": "创作出既有生活底蕴又有艺术高度的优秀作品。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "创作出既有生活底蕴又有艺术高度的优秀作品。",
+        "dur": 5.143,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.331,
+      "end": 41.815,
+      "label": "mandarin",
+      "text": "习近平二零一六年十一月三十号在中国文联十大、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0072,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "习近平二零一六年十一月三十号在中国文联十大。",
+        "dur": 4.484,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.924,
+      "end": 45.01,
+      "label": "mandarin",
+      "text": "中国作协九大开幕式上的讲话。",
+      "score": 0.0041,
+      "signals": {
+        "mand_logprob": -0.0147,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "中国作协九大开幕式上的讲话。",
+        "dur": 3.086,
+        "n_char": 13
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

@@ -1,0 +1,450 @@
+{
+  "src_audio": "龙胜初秋梯田引客来 中外游人醉绿韵.wav",
+  "duration": 99.275,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 9.147,
+      "label": "mandarin",
+      "text": "初秋时节，龙胜各族自治县龙脊梯田景区以其独特的农耕文化、浓郁的壮瑶风情与壮观的梯田景观，",
+      "score": 0.1669,
+      "signals": {
+        "mand_logprob": -0.0233,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.146,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "农/龙 县/乡 族/竹",
+        "text_free": "初秋时节，龙胜过竹子之乡龙脊梯田景区，以其独特的龙耕文化、浓郁的壮瑶风情与壮观的梯田景观。",
+        "dur": 9.147,
+        "n_char": 41
+      }
+    },
+    {
+      "id": 2,
+      "start": 9.232,
+      "end": 12.903,
+      "label": "mandarin",
+      "text": "不断的吸引大批中外游客前来打卡。",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不断吸引大批中外游客前来打卡。",
+        "dur": 3.671,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 3,
+      "start": 13.157,
+      "end": 17.906,
+      "label": "mandarin",
+      "text": "从景观台俯瞰，梯田如碧色天梯，一山而起，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0227,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从景观台俯瞰，梯田如碧色天梯，一山而起。",
+        "dur": 4.749,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 4,
+      "start": 18.08,
+      "end": 20.891,
+      "label": "mandarin",
+      "text": "层层叠叠的田埂如大地的指纹，",
+      "score": 0.0352,
+      "signals": {
+        "mand_logprob": -0.0049,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "层层叠叠的田埂，与大地的指纹。",
+        "dur": 2.811,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.891,
+      "end": 25.98,
+      "label": "mandarin",
+      "text": "从山脚蜿蜒至云端。微风拂过，稻浪翻滚，",
+      "score": 0.1456,
+      "signals": {
+        "mand_logprob": -0.0838,
+        "acoustic_dev": 0.225,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从山脚蜿蜒至云端，微风拂过，刀浪翻滚。",
+        "dur": 5.089,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.98,
+      "end": 28.537,
+      "label": "uncertain",
+      "text": "宛有一幅流动的绿色画卷。",
+      "score": 0.4516,
+      "signals": {
+        "mand_logprob": -0.1847,
+        "acoustic_dev": 0.629,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "挽有一副流动的绿色发卷。",
+        "dur": 2.557,
+        "n_char": 11,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.755,
+      "end": 31.707,
+      "label": "uncertain",
+      "text": "远处的壮家吊脚楼点缀其间，",
+      "score": 0.5006,
+      "signals": {
+        "mand_logprob": -0.2316,
+        "acoustic_dev": 0.816,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "远处的庄稼吊脚楼点缀其间。",
+        "dur": 2.952,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.908,
+      "end": 37.973,
+      "label": "mandarin",
+      "text": "与梯田共同勾勒出了一幅人与自然和谐共生的田园诗画。",
+      "score": 0.1387,
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "自/之",
+        "text_free": "与梯田共同勾勒出了一幅阴雨之燕和谐共生的田园诗画。",
+        "dur": 6.065,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.283,
+      "end": 41.126,
+      "label": "mandarin",
+      "text": "梯田间的景观台，乘在步道上，",
+      "score": 0.2237,
+      "signals": {
+        "mand_logprob": -0.1351,
+        "acoustic_dev": 0.43,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "梯田间的景观台，乘在步道上。",
+        "dur": 2.843,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.126,
+      "end": 43.879,
+      "label": "guilin",
+      "text": "随处可见举到相机的游人。",
+      "score": 0.6447,
+      "signals": {
+        "mand_logprob": -1.496,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "随处可见，举到相机里有影。",
+        "dur": 2.753,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.879,
+      "end": 46.048,
+      "label": "mandarin",
+      "text": "我来就香港的，就",
+      "score": 0.1203,
+      "signals": {
+        "mand_logprob": -0.0539,
+        "acoustic_dev": 0.106,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我来去香港的，就。",
+        "dur": 2.169,
+        "n_char": 7
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.12,
+      "end": 49.117,
+      "label": "mandarin",
+      "text": "我第一次在来这边看梯田，",
+      "score": 0.1357,
+      "signals": {
+        "mand_logprob": -0.0728,
+        "acoustic_dev": 0.181,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我第一次再来这边看梯田。",
+        "dur": 2.997,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 13,
+      "start": 49.117,
+      "end": 54.035,
+      "label": "mandarin",
+      "text": "而这种的梯田在我们那边没看过",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "而这种的梯田，在我们那边没看过。",
+        "dur": 4.918,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 14,
+      "start": 54.121,
+      "end": 56.819,
+      "label": "mandarin",
+      "text": "啊，所以呢，这个对我来说是很新奇的。",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "啊，所以呢，这个对我来说是很神奇的。",
+        "dur": 2.698,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 15,
+      "start": 56.988,
+      "end": 61.537,
+      "label": "mandarin",
+      "text": "我想，呃，现在夏天嘛，秋天来的时候，应该",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我想，呃，现在夏天嘛，秋天来的时候应该。",
+        "dur": 4.549,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 16,
+      "start": 61.94,
+      "end": 65.86,
+      "label": "uncertain",
+      "text": "那个那个呃景象也是不一样的。",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -0.2929,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "那个那个，呃，景象也是不一样的。",
+        "dur": 3.92,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 17,
+      "start": 65.86,
+      "end": 70.145,
+      "label": "mandarin",
+      "text": "当我踏入这片土地，眼前的景象让我瞬间着迷。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "当我踏入这片土地，眼前的景象让我瞬间着迷。",
+        "dur": 4.285,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 18,
+      "start": 70.176,
+      "end": 73.694,
+      "label": "mandarin",
+      "text": "远处的青山与眼前的梯田相互映衬，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "远处的青山与眼前的梯田相互映衬。",
+        "dur": 3.518,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 19,
+      "start": 73.791,
+      "end": 76.332,
+      "label": "mandarin",
+      "text": "构成了一幅绝美的山水画卷，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "构成了一幅绝美的山水画卷。",
+        "dur": 2.541,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 20,
+      "start": 76.389,
+      "end": 83.458,
+      "label": "mandarin",
+      "text": "真是太美了。今年一到八月，龙胜梯田景区累计接待游客达五十点七一万英次，",
+      "score": 0.0373,
+      "signals": {
+        "mand_logprob": -0.0317,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "真是太美了！今年一到八月，龙胜梯田景区累计接待游客达五十点七亿万人次。",
+        "dur": 7.069,
+        "n_char": 32
+      }
+    },
+    {
+      "id": 21,
+      "start": 83.687,
+      "end": 87.5,
+      "label": "mandarin",
+      "text": "八月份已经有七点四万英次走进梯田，",
+      "score": 0.0286,
+      "signals": {
+        "mand_logprob": -0.0035,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "八月份已经有七点四万人次走进梯田。",
+        "dur": 3.813,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 22,
+      "start": 87.708,
+      "end": 92.278,
+      "label": "guilin",
+      "text": "旅游热度也持续攀升。接下来，再到稻穗渐黄、",
+      "score": 0.714,
+      "signals": {
+        "mand_logprob": -0.6602,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "穗/水",
+        "text_free": "旅游热度也持续攀升。接下来，车道刀水建房。",
+        "dur": 4.57,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 92.278,
+      "end": 95.351,
+      "label": "mandarin",
+      "text": "九月中下旬至十月上旬的龙脊梯田，",
+      "score": 0.0839,
+      "signals": {
+        "mand_logprob": -0.0679,
+        "acoustic_dev": 0.161,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "九月中下旬至十月上旬的龙脊梯田。",
+        "dur": 3.073,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 24,
+      "start": 95.351,
+      "end": 99.275,
+      "label": "uncertain",
+      "text": "将迎来金浪翻涌的最佳观赏期。",
+      "score": 0.4157,
+      "signals": {
+        "mand_logprob": -0.1624,
+        "acoustic_dev": 0.54,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "金/惊",
+        "text_free": "将迎来惊浪翻涌的最佳观赏期。",
+        "dur": 3.924,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

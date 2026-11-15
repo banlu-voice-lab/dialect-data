@@ -1,0 +1,189 @@
+{
+  "src_audio": "反对浪费 崇尚节约.wav",
+  "duration": 44.363,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.749,
+      "end": 6.994,
+      "label": "mandarin",
+      "text": "锄禾日当午，汗滴禾下土。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "锄禾日当午，汗滴禾下土。",
+        "dur": 5.245,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.622,
+      "end": 11.95,
+      "label": "mandarin",
+      "text": "谁知小时候，我们会背这首诗。",
+      "score": 0.3149,
+      "signals": {
+        "mand_logprob": -0.1219,
+        "acoustic_dev": 0.459,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "小时候，我们会背这首诗。",
+        "dur": 4.328,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 3,
+      "start": 13.547,
+      "end": 17.243,
+      "label": "mandarin",
+      "text": "一粥一饭，当思来之不易。",
+      "score": 0.0457,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一周一饭，当思来之不易。",
+        "dur": 3.696,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.412,
+      "end": 21.711,
+      "label": "mandarin",
+      "text": "半丝半缕，上学时，先生教过这句话。",
+      "score": 0.144,
+      "signals": {
+        "mand_logprob": -0.0136,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "反思办理上学时，先生教过这句话。",
+        "dur": 4.299,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.766,
+      "end": 26.709,
+      "label": "mandarin",
+      "text": "打包多没面子呀！这浪费了，太可惜了。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "打包多没面子呀！这浪费了，太可惜了。",
+        "dur": 3.943,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.9,
+      "end": 29.566,
+      "label": "mandarin",
+      "text": "没事儿，小意思。而现在，",
+      "score": 0.1868,
+      "signals": {
+        "mand_logprob": -0.097,
+        "acoustic_dev": 0.359,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "没事儿，小意思。而现在。",
+        "dur": 2.666,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.782,
+      "end": 34.599,
+      "label": "mandarin",
+      "text": "我们却都这样做。加入光盘行动，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们却都这样做。加入光盘行动。",
+        "dur": 4.817,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.599,
+      "end": 37.678,
+      "label": "mandarin",
+      "text": "减少餐饮浪费。从今后，",
+      "score": 0.0767,
+      "signals": {
+        "mand_logprob": -0.044,
+        "acoustic_dev": 0.148,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "减少餐饮浪费。从今后。",
+        "dur": 3.079,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.678,
+      "end": 42.546,
+      "label": "mandarin",
+      "text": "我们牢记这件事，厉行节约，",
+      "score": 0.2456,
+      "signals": {
+        "mand_logprob": -0.1252,
+        "acoustic_dev": 0.472,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们牢记这件事，厉行节约。",
+        "dur": 4.868,
+        "n_char": 11,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.775,
+      "end": 44.363,
+      "label": "mandarin",
+      "text": "反对浪费。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "反对浪费。",
+        "dur": 1.588,
+        "n_char": 4
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

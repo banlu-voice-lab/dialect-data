@@ -1,0 +1,579 @@
+{
+  "src_audio": "全州黄桃丰收采摘忙 农旅融合促振兴.wav",
+  "duration": 129.67,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.812,
+      "end": 5.684,
+      "label": "mandarin",
+      "text": "眼下还是黄桃成熟的季节，泉州县果农抢抓晴好天气，",
+      "score": 0.1313,
+      "signals": {
+        "mand_logprob": -0.0322,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "眼下还是防套成熟的季节，泉州现过浓强抓晴好天气。",
+        "dur": 4.872,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.83,
+      "end": 11.254,
+      "label": "mandarin",
+      "text": "采收黄桃，供应市场。线上线下是一片忙碌啊！",
+      "score": 0.3112,
+      "signals": {
+        "mand_logprob": -0.2364,
+        "acoustic_dev": 0.403,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "车售房套供应市场，线上线下是一片忙碌啊。",
+        "dur": 5.424,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.861,
+      "end": 17.366,
+      "label": "mandarin",
+      "text": "在黄桃果园内，绿叶掩映间，一个个饱满的黄桃缀满枝头，",
+      "score": 0.0795,
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在防涛果园内，绿叶掩映间，一个个饱满的防涛缀满枝头。",
+        "dur": 5.505,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.564,
+      "end": 24.465,
+      "label": "mandarin",
+      "text": "阵阵桃香扑鼻而来。果农们穿梭在桃树间，忙到摘果、运果、分拣、装箱，",
+      "score": 0.2225,
+      "signals": {
+        "mand_logprob": -0.0074,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "树/塑 梭/说 农/龙",
+        "text_free": "阵阵陶香扑鼻而来。古龙们传说在陶塑间，梦到走过、运过、分解、装箱。",
+        "dur": 6.901,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 5,
+      "start": 24.73,
+      "end": 27.894,
+      "label": "mandarin",
+      "text": "现场呈现出一幅繁忙丰收的景象。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "现场呈现出一幅繁忙丰收的景象。",
+        "dur": 3.164,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 6,
+      "start": 28.198,
+      "end": 32.672,
+      "label": "mandarin",
+      "text": "泉州生产的黄桃不仅个头大，而且口感脆甜，",
+      "score": 0.1517,
+      "signals": {
+        "mand_logprob": -0.1015,
+        "acoustic_dev": 0.145,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "泉州生产的方陶不仅锅头大，而且口感脆甜。",
+        "dur": 4.474,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 7,
+      "start": 32.672,
+      "end": 35.244,
+      "label": "guilin",
+      "text": "颇受市场的欢迎。同时，",
+      "score": 0.6216,
+      "signals": {
+        "mand_logprob": -0.5914,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "颇受市场的反应，同时。",
+        "dur": 2.572,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 8,
+      "start": 35.244,
+      "end": 38.629,
+      "label": "mandarin",
+      "text": "好多游客慕名前来感受山水田园风光，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "好多游客慕名前来感受山水田园风光。",
+        "dur": 3.385,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.791,
+      "end": 41.697,
+      "label": "uncertain",
+      "text": "体验休闲采摘，带来了乐趣。",
+      "score": 0.4013,
+      "signals": {
+        "mand_logprob": -0.3039,
+        "acoustic_dev": 0.532,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "提炼休闲采摘带来的乐趣。",
+        "dur": 2.906,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.697,
+      "end": 45.498,
+      "label": "mandarin",
+      "text": "这里的果园很好玩，这里的黄桃又大又甜，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这里的果园很好玩，这里的黄桃又大又甜。",
+        "dur": 3.801,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 11,
+      "start": 45.498,
+      "end": 51.095,
+      "label": "mandarin",
+      "text": "我下次还想来。如今，当地还采取线上加线下的销售方式，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我下次还想来。如今，当地还采取线上加线下的销售方式。",
+        "dur": 5.597,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 12,
+      "start": 51.383,
+      "end": 55.208,
+      "label": "mandarin",
+      "text": "借助互联网平台将黄桃销往全国各地。",
+      "score": 0.2298,
+      "signals": {
+        "mand_logprob": -0.113,
+        "acoustic_dev": 0.167,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "借助互联网平台，将防盗小网全国过地。",
+        "dur": 3.825,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 13,
+      "start": 55.518,
+      "end": 59.076,
+      "label": "mandarin",
+      "text": "今年我们这个农场黄桃产量在四十万斤以上，",
+      "score": 0.0241,
+      "signals": {
+        "mand_logprob": -0.0162,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年我们这个农场王桃产量在四十万斤以上。",
+        "dur": 3.558,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.308,
+      "end": 63.892,
+      "label": "mandarin",
+      "text": "目前这个锦绣黄桃市场批发价每公斤十八元。",
+      "score": 0.0241,
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "目前，这个锦绣王桃市场批发价每公斤十八元。",
+        "dur": 4.584,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.305,
+      "end": 69.349,
+      "label": "mandarin",
+      "text": "除了游客现场采摘外，还通过线上线下销往大湾区等地。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "除了游客现场采摘外，还通过线上线下销往大湾区等地。",
+        "dur": 5.044,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 16,
+      "start": 69.63,
+      "end": 73.157,
+      "label": "mandarin",
+      "text": "近年来，泉州县积极调整农业种植结构，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近年来，泉州县积极调整农业种植结构。",
+        "dur": 3.527,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 17,
+      "start": 73.157,
+      "end": 79.171,
+      "label": "mandarin",
+      "text": "因地制宜大力发展水蜜桃、黄桃、油桃、李子等特色优质水果种植，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "因地制宜，大力发展水蜜桃、黄桃、油桃、李子等特色优质水果种植。",
+        "dur": 6.014,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 18,
+      "start": 79.525,
+      "end": 82.484,
+      "label": "mandarin",
+      "text": "全力推动水果产业种植规模化、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0102,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "全力推动水果产业种植规模化。",
+        "dur": 2.959,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 19,
+      "start": 82.484,
+      "end": 85.507,
+      "label": "guilin",
+      "text": "经营集约化、管理精细化，",
+      "score": 0.5657,
+      "signals": {
+        "mand_logprob": -0.737,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "经营契约化，管理精细化。",
+        "dur": 3.023,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 20,
+      "start": 85.529,
+      "end": 89.209,
+      "label": "mandarin",
+      "text": "不断提升经济效益，拓宽农民增收渠道，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0255,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不断提升经济效益，拓宽农民增收渠道。",
+        "dur": 3.68,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 21,
+      "start": 89.467,
+      "end": 92.914,
+      "label": "mandarin",
+      "text": "并将桃李产业与乡村旅游深度融合，",
+      "score": 0.2999,
+      "signals": {
+        "mand_logprob": -0.3273,
+        "acoustic_dev": 0.577,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并将桃李产业与乡村旅游深度融合。",
+        "dur": 3.447,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 22,
+      "start": 93.209,
+      "end": 97.561,
+      "label": "uncertain",
+      "text": "发展以春赏花、夏摘果为主题的乡村旅游，",
+      "score": 0.4003,
+      "signals": {
+        "mand_logprob": -0.2572,
+        "acoustic_dev": 0.443,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "春/村",
+        "text_free": "发展以村上花下蔗果为主题的乡村旅游。",
+        "dur": 4.352,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 23,
+      "start": 97.777,
+      "end": 99.989,
+      "label": "guilin",
+      "text": "打造桃李佳产业链，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -0.5488,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "打造淘利家产业链。",
+        "dur": 2.212,
+        "n_char": 8,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 100.259,
+      "end": 102.599,
+      "label": "guilin",
+      "text": "以农助旅，以旅带农，",
+      "score": 0.6745,
+      "signals": {
+        "mand_logprob": -0.4594,
+        "acoustic_dev": 0.829,
+        "seg_cer": 0.75,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "农/龙 农/龙",
+        "text_free": "以龙铸铝，以铝代龙。",
+        "dur": 2.34,
+        "n_char": 8,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 25,
+      "start": 102.643,
+      "end": 106.839,
+      "label": "mandarin",
+      "text": "有力地实现了农业增效、农民增收、农村增绿、",
+      "score": 0.0395,
+      "signals": {
+        "mand_logprob": -0.0397,
+        "acoustic_dev": 0.027,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "有力地实现了农业增效、农民增收、农村增路。",
+        "dur": 4.196,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 26,
+      "start": 107.193,
+      "end": 110.035,
+      "label": "guilin",
+      "text": "果企群众增收的“钱袋子”。",
+      "score": 0.7405,
+      "signals": {
+        "mand_logprob": -1.3908,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "增/征",
+        "text_free": "鼓起群众征收的钱袋子。",
+        "dur": 2.842,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 27,
+      "start": 110.035,
+      "end": 115.394,
+      "label": "mandarin",
+      "text": "据了解，泉州县国内优质水果种植面积达到五十.四点六万亩，",
+      "score": 0.0743,
+      "signals": {
+        "mand_logprob": -0.0819,
+        "acoustic_dev": 0.108,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "根据了解，泉州县国内优质水果种植面积达到五十四点六万亩。",
+        "dur": 5.359,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 28,
+      "start": 115.715,
+      "end": 120.93,
+      "label": "mandarin",
+      "text": "通过科学技术指导，年总产量达到一百零八点八万吨，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过科学技术指导，年总产量达到一百零八点八万吨。",
+        "dur": 5.215,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 29,
+      "start": 121.166,
+      "end": 123.943,
+      "label": "mandarin",
+      "text": "年产值超过三十七个亿，",
+      "score": 0.2931,
+      "signals": {
+        "mand_logprob": -0.3205,
+        "acoustic_dev": 0.564,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "年产值超过三十七个亿。",
+        "dur": 2.777,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 30,
+      "start": 124.145,
+      "end": 126.933,
+      "label": "mandarin",
+      "text": "水果产业成为农民增收致富、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "水果产业成为农民增收致富。",
+        "dur": 2.788,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 31,
+      "start": 126.933,
+      "end": 129.67,
+      "label": "mandarin",
+      "text": "乡村振兴的支柱产业之一。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0046,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "乡村振兴的支柱产业之一。",
+        "dur": 2.737,
+        "n_char": 11
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

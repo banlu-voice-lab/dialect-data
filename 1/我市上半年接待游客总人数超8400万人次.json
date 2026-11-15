@@ -1,0 +1,1450 @@
+{
+  "src_audio": "我市上半年接待游客总人数超8400万人次.wav",
+  "duration": 343.549,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.77,
+      "label": "mandarin",
+      "text": "今年以来，我市加快提升品质、创新文旅业态，",
+      "score": 0.2403,
+      "signals": {
+        "mand_logprob": -0.3891,
+        "acoustic_dev": 0.316,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年以来，我是加快提升品质，放心文旅业态。",
+        "dur": 4.77,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.852,
+      "end": 9.277,
+      "label": "mandarin",
+      "text": "创新文旅营销，为提振消费注入新动能。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "创新文旅营销，为提振消费注入新动能。",
+        "dur": 4.425,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.56,
+      "end": 14.657,
+      "label": "mandarin",
+      "text": "上半年，全市接待游客总人数超过了八千四百万人次，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0674,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "上半年全市接待游客总人数超过了八千四百万人次。",
+        "dur": 5.097,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.893,
+      "end": 17.578,
+      "label": "guilin",
+      "text": "同时积极策划全年文旅发展。",
+      "score": 0.6751,
+      "signals": {
+        "mand_logprob": -0.9232,
+        "acoustic_dev": 0.959,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "年/链",
+        "text_free": "同时，积极筹划全链文旅发展。",
+        "dur": 2.685,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.724,
+      "end": 21.082,
+      "label": "mandarin",
+      "text": "下半年，文旅活动可以将是精彩纷呈，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0174,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "下半年文旅活动可以将是精彩纷呈。",
+        "dur": 3.358,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.109,
+      "end": 25.097,
+      "label": "mandarin",
+      "text": "全力书写文旅发展高质量新答卷。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0139,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "全力书写文旅发展高质量新答卷。",
+        "dur": 3.988,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.664,
+      "end": 34.316,
+      "label": "mandarin",
+      "text": "今年初期期间，桂林游营络绎不绝。",
+      "score": 0.0653,
+      "signals": {
+        "mand_logprob": -0.0189,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年初七期间，桂林游鹰络绎不绝。",
+        "dur": 3.652,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.316,
+      "end": 40.875,
+      "label": "mandarin",
+      "text": "数据显示，今年上半年桂林市接待游客总人数八千四百十一点三九万人次，",
+      "score": 0.0147,
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "数据显示，今年上半年，桂林市接待游客总人数八千四百二十一点三九万人次。",
+        "dur": 6.559,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.014,
+      "end": 47.083,
+      "label": "mandarin",
+      "text": "同比增长百分之二点一，实现旅游总收入一千零三十六点二四亿元，",
+      "score": 0.0163,
+      "signals": {
+        "mand_logprob": -0.007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同比增长百分之十二点一，实现旅游总收入一千零三十六点二四亿元。",
+        "dur": 6.069,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 10,
+      "start": 47.306,
+      "end": 55.311,
+      "label": "mandarin",
+      "text": "同比增长百分之二点二。同时，我市目前还公布二零二五桂林艺术节、二零二五桂林马拉松、",
+      "score": 0.0124,
+      "signals": {
+        "mand_logprob": -0.0091,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.027,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同比增长百分之十二点二。同时，我市目前还公布二零二五桂林艺术节、二零二五桂林马拉松。",
+        "dur": 8.005,
+        "n_char": 37
+      }
+    },
+    {
+      "id": 11,
+      "start": 55.492,
+      "end": 59.677,
+      "label": "mandarin",
+      "text": "第二十二届中国东盟博览会旅游展区等活动，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0379,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "第二十二届中国东盟博览会旅游展区等活动。",
+        "dur": 4.185,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 12,
+      "start": 59.677,
+      "end": 67.605,
+      "label": "uncertain",
+      "text": "将在进一步展示桂林独特自然风光和深厚文化的蕴丰富国内外游客旅游体验的同时，",
+      "score": 0.5454,
+      "signals": {
+        "mand_logprob": -1.1091,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "将在进一步展示桂林独特的自然风光和深厚文化底蕴，丰富国内外游客旅游体验的同时。",
+        "dur": 7.928,
+        "n_char": 36,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 13,
+      "start": 67.787,
+      "end": 70.723,
+      "label": "mandarin",
+      "text": "推动桂林文旅产业高质量发展。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "推动桂林文旅产业高质量发展。",
+        "dur": 2.936,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 14,
+      "start": 70.794,
+      "end": 77.959,
+      "label": "mandarin",
+      "text": "由下以来，猫儿山景区凭借天然的良资源，成为了一众游客的必处热门之选。",
+      "score": 0.0442,
+      "signals": {
+        "mand_logprob": -0.0177,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.097,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "由下以来，马二山景区凭借天然的良资源，成为了一众游客的必出热门之选。",
+        "dur": 7.165,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 15,
+      "start": 78.212,
+      "end": 82.71,
+      "label": "mandarin",
+      "text": "主打慢节奏、松弛感的水上休闲新耍法——卧浪漂，",
+      "score": 0.1884,
+      "signals": {
+        "mand_logprob": -0.1277,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "新/型",
+        "lexicon": "耍",
+        "text_free": "主打慢节奏、松弛感的水上休闲型耍法，波浪漂。",
+        "dur": 4.498,
+        "n_char": 19,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 16,
+      "start": 82.952,
+      "end": 87.627,
+      "label": "mandarin",
+      "text": "更是吸引了大量年轻群体前来体验坐红花螺。",
+      "score": 0.3273,
+      "signals": {
+        "mand_logprob": -0.5343,
+        "acoustic_dev": 0.491,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "更是吸引了大量年轻群体前来体验走红网络。",
+        "dur": 4.675,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 17,
+      "start": 87.987,
+      "end": 90.85,
+      "label": "mandarin",
+      "text": "加快提升品质、创新文旅业态。",
+      "score": 0.0075,
+      "signals": {
+        "mand_logprob": -0.1393,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "加快提升品质，创新文旅业态。",
+        "dur": 2.863,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 18,
+      "start": 91.045,
+      "end": 96.812,
+      "label": "mandarin",
+      "text": "今年上半年，我市以两场盛大的烟火秀开启文旅发展新篇章，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0055,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年上半年，我市以两场盛大的烟火秀，开启文旅发展新篇章。",
+        "dur": 5.767,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 19,
+      "start": 97.111,
+      "end": 99.96,
+      "label": "guilin",
+      "text": "积极策划文旅嘉年华、文旅嘉年",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -3.9279,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "积极策划文旅加赛事，文旅加节。",
+        "dur": 2.849,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 20,
+      "start": 100.673,
+      "end": 104.403,
+      "label": "uncertain",
+      "text": "华庆系列活动，先后举办二零二五桂林半程马拉松、",
+      "score": 0.3882,
+      "signals": {
+        "mand_logprob": -0.6077,
+        "acoustic_dev": 0.579,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "活动，先后举办二零二五桂林半程马拉松。",
+        "dur": 3.73,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 21,
+      "start": 104.533,
+      "end": 109.249,
+      "label": "guilin",
+      "text": "桂味超国书法品茶国学会、龙脊开耕节特色活动，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -1.0297,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.45,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂味炒锅、索粉拼茶、锅续费，龙节开耕节特色活动。",
+        "dur": 4.716,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 22,
+      "start": 109.423,
+      "end": 114.512,
+      "label": "uncertain",
+      "text": "让广大市民游客深度体验桂林感受佳意满满活力。",
+      "score": 0.4128,
+      "signals": {
+        "mand_logprob": -0.7165,
+        "acoustic_dev": 0.71,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让广大市民游客深度体验桂林，感受甲乙满满活力。",
+        "dur": 5.089,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 114.91,
+      "end": 118.209,
+      "label": "mandarin",
+      "text": "创新发布十四条周末游桂林线路，",
+      "score": 0.0799,
+      "signals": {
+        "mand_logprob": -0.2027,
+        "acoustic_dev": 0.091,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "创新发布十四条，周末有桂林线路。",
+        "dur": 3.299,
+        "n_char": 14,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 24,
+      "start": 118.209,
+      "end": 121.601,
+      "label": "mandarin",
+      "text": "两条县域保障小城户外徒步路线，",
+      "score": 0.1443,
+      "signals": {
+        "mand_logprob": -0.2533,
+        "acoustic_dev": 0.152,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "两条线路保障小城户外徒步路线。",
+        "dur": 3.392,
+        "n_char": 14,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 25,
+      "start": 121.745,
+      "end": 124.132,
+      "label": "guilin",
+      "text": "三十个国桂林旅游打卡地，",
+      "score": 0.6447,
+      "signals": {
+        "mand_logprob": -1.376,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "三是俄国桂林旅泊打卡地。",
+        "dur": 2.387,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 26,
+      "start": 124.132,
+      "end": 126.741,
+      "label": "mandarin",
+      "text": "满足游客多元消费需求。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "满足游客多元消费需求。",
+        "dur": 2.609,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 27,
+      "start": 126.986,
+      "end": 131.11,
+      "label": "guilin",
+      "text": "吃出神马山水旅游资源，永福县金鸡河大草原、",
+      "score": 0.7157,
+      "signals": {
+        "mand_logprob": -1.0074,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.368,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "金/经",
+        "text_free": "持续深挖山水旅游资源，永福县经济和大草原。",
+        "dur": 4.124,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 28,
+      "start": 131.11,
+      "end": 137.16,
+      "label": "mandarin",
+      "text": "全州县龙脊城以及一中结合溶洞田园等自然风光的咖啡屋，",
+      "score": 0.2662,
+      "signals": {
+        "mand_logprob": -0.4062,
+        "acoustic_dev": 0.336,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "泉州县龙井村，以及一中结合涌东田园等自然风光的咖啡屋。",
+        "dur": 6.05,
+        "n_char": 25,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 29,
+      "start": 137.389,
+      "end": 141.994,
+      "label": "uncertain",
+      "text": "成为了一名游客周末惬意、消磨时光的好去处。",
+      "score": 0.4178,
+      "signals": {
+        "mand_logprob": -0.5406,
+        "acoustic_dev": 0.498,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "名/民",
+        "text_free": "成为了市民游客周末假日消磨时光的好去处。",
+        "dur": 4.605,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 30,
+      "start": 142.212,
+      "end": 146.166,
+      "label": "mandarin",
+      "text": "无论是大石湾一览众山小的千里江山图，",
+      "score": 0.2236,
+      "signals": {
+        "mand_logprob": -0.3125,
+        "acoustic_dev": 0.223,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "无论是大诗文，一览中山小丽，千里江山图。",
+        "dur": 3.954,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 31,
+      "start": 146.374,
+      "end": 149.536,
+      "label": "uncertain",
+      "text": "象山景区推出的漓江咖啡游船，",
+      "score": 0.3836,
+      "signals": {
+        "mand_logprob": -0.5709,
+        "acoustic_dev": 0.535,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "香山景区推出的“立香咖啡游船”。",
+        "dur": 3.162,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 32,
+      "start": 149.748,
+      "end": 154.086,
+      "label": "uncertain",
+      "text": "还是遇龙河景区、明阳宗院的金龙巡游、",
+      "score": 0.4593,
+      "signals": {
+        "mand_logprob": -0.5525,
+        "acoustic_dev": 0.512,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "宗/中",
+        "text_free": "还是玉龙河景区，名扬中外的“金龙巡游”。",
+        "dur": 4.338,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 33,
+      "start": 154.353,
+      "end": 157.958,
+      "label": "mandarin",
+      "text": "龙脊梯田上热闹的少数民族节庆活动，",
+      "score": 0.1929,
+      "signals": {
+        "mand_logprob": -0.1177,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "闹/老",
+        "text_free": "隆基体田上夜老的少数民族节庆活动。",
+        "dur": 3.605,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 34,
+      "start": 157.958,
+      "end": 161.278,
+      "label": "mandarin",
+      "text": "更激活现代游客审美体验的新耍法，",
+      "score": 0.2369,
+      "signals": {
+        "mand_logprob": -0.1983,
+        "acoustic_dev": 0.086,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "耍",
+        "text_free": "更契合现代游客新媒体链的新耍法。",
+        "dur": 3.32,
+        "n_char": 15,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 35,
+      "start": 161.711,
+      "end": 165.732,
+      "label": "mandarin",
+      "text": "既为传统景区提档升级注入了发展新活力，",
+      "score": 0.0254,
+      "signals": {
+        "mand_logprob": -0.0096,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "即为传统景区提档升级注入了发展新活力。",
+        "dur": 4.021,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 36,
+      "start": 165.932,
+      "end": 169.449,
+      "label": "mandarin",
+      "text": "也显著的推动了桂林旅游迈向山水佳丽、",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.1273,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也显著地推动了桂林旅游迈向山水佳丽。",
+        "dur": 3.517,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 37,
+      "start": 169.449,
+      "end": 175.666,
+      "label": "mandarin",
+      "text": "多元创新跨越。展现出桂林年轻态、国际化的城市新形象。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0216,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "多元创新跨越，展现出桂林年轻态国际化的城市新形象。",
+        "dur": 6.217,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 38,
+      "start": 176.115,
+      "end": 178.508,
+      "label": "mandarin",
+      "text": "今年我市还创新文旅营销，",
+      "score": 0.1577,
+      "signals": {
+        "mand_logprob": -0.3788,
+        "acoustic_dev": 0.303,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年，我市还创新文旅营销。",
+        "dur": 2.393,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 39,
+      "start": 178.833,
+      "end": 181.347,
+      "label": "mandarin",
+      "text": "为提振消费注入新动能。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0095,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为提振消费注入新动能。",
+        "dur": 2.514,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 40,
+      "start": 181.58,
+      "end": 188.232,
+      "label": "mandarin",
+      "text": "今年我市启动“清溪大湾区、塔哥山水间”深圳桂林文旅互动主题活动，",
+      "score": 0.348,
+      "signals": {
+        "mand_logprob": -0.5783,
+        "acoustic_dev": 0.544,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年我市启动庆西大湾区泰国山水间深圳桂林文旅互动主题活动。",
+        "dur": 6.652,
+        "n_char": 28,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 41,
+      "start": 188.26,
+      "end": 191.705,
+      "label": "mandarin",
+      "text": "为回馈粤桂协作帮扶城市深圳，",
+      "score": 0.3581,
+      "signals": {
+        "mand_logprob": -0.6424,
+        "acoustic_dev": 0.621,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为回馈月桂协作帮扶城市——深圳。",
+        "dur": 3.445,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 42,
+      "start": 191.807,
+      "end": 194.054,
+      "label": "mandarin",
+      "text": "从今年三月至年底，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0189,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从今年三月至年底。",
+        "dur": 2.247,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 43,
+      "start": 194.31,
+      "end": 198.917,
+      "label": "mandarin",
+      "text": "桂林六十家A级旅游景区将面向持有效身份证、",
+      "score": 0.293,
+      "signals": {
+        "mand_logprob": -0.3585,
+        "acoustic_dev": 0.279,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "持/此",
+        "text_free": "桂林六十家A级旅游景区将面向此有效身份证明。",
+        "dur": 4.607,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 44,
+      "start": 198.926,
+      "end": 207.028,
+      "label": "mandarin",
+      "text": "身份证户口本的深圳户籍市民开展免首道门票政策以及相关配套服务活动，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0598,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "身份证、户口本的深圳户籍市民，开展免首道门票政策以及相关配套服务活动。",
+        "dur": 8.102,
+        "n_char": 32
+      }
+    },
+    {
+      "id": 45,
+      "start": 207.303,
+      "end": 210.248,
+      "label": "guilin",
+      "text": "让深圳市民感受到桂林温度，",
+      "score": 0.6197,
+      "signals": {
+        "mand_logprob": -0.8349,
+        "acoustic_dev": 0.853,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "林/零",
+        "text_free": "让深圳市民感受到归零温度。",
+        "dur": 2.945,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 46,
+      "start": 210.658,
+      "end": 214.03,
+      "label": "mandarin",
+      "text": "精准营销推广提振文旅消费。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "精准营销推广，提振文旅消费。",
+        "dur": 3.372,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 47,
+      "start": 214.191,
+      "end": 217.694,
+      "label": "mandarin",
+      "text": "今年以来，我市还结合广西旅游年活动，",
+      "score": 0.0571,
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近年来，我市还结合广西旅游年活动。",
+        "dur": 3.503,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 48,
+      "start": 217.888,
+      "end": 220.846,
+      "label": "uncertain",
+      "text": "推出“三百余项文旅促销措施”，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -1.3541,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "推出三百余项文旅促销措施。",
+        "dur": 2.958,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 49,
+      "start": 221.159,
+      "end": 224.786,
+      "label": "mandarin",
+      "text": "实施A级旅游景区一票三一制、",
+      "score": 0.0381,
+      "signals": {
+        "mand_logprob": -0.1164,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "实施A级旅游景区一票三一致。",
+        "dur": 3.627,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 50,
+      "start": 224.895,
+      "end": 229.129,
+      "label": "mandarin",
+      "text": "高速公路对外省级小客车通行优惠等政策，",
+      "score": 0.0254,
+      "signals": {
+        "mand_logprob": -0.0477,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "高速公路对外省及小客车通行优惠等政策。",
+        "dur": 4.234,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 51,
+      "start": 229.379,
+      "end": 231.994,
+      "label": "mandarin",
+      "text": "为桂林旅游注入更多流量。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为桂林旅游注入更多流量。",
+        "dur": 2.615,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 52,
+      "start": 232.11,
+      "end": 239.37,
+      "label": "mandarin",
+      "text": "同时，借助热门影视综艺开展文化名影加流量明星加桂林场景联动营销，",
+      "score": 0.0662,
+      "signals": {
+        "mand_logprob": -0.1843,
+        "acoustic_dev": 0.069,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同时，借助夜门影视综艺，开展文化名人加流量明星加桂林场景联动营销。",
+        "dur": 7.26,
+        "n_char": 30,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 53,
+      "start": 239.721,
+      "end": 242.306,
+      "label": "mandarin",
+      "text": "与各大平台开展专题营销，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "与各大平台开展专题营销。",
+        "dur": 2.585,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 54,
+      "start": 242.612,
+      "end": 246.211,
+      "label": "guilin",
+      "text": "持续增加桂林旅游曝光量和话题度。",
+      "score": 0.7027,
+      "signals": {
+        "mand_logprob": -1.1492,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.733,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.091,
+        "phon_examples": "持/次",
+        "text_free": "次速增加，桂林驴友宝广良或法体读。",
+        "dur": 3.599,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 55,
+      "start": 246.622,
+      "end": 251.233,
+      "label": "guilin",
+      "text": "在推进游经旅游方面，我市桂林专场对接会、",
+      "score": 0.6109,
+      "signals": {
+        "mand_logprob": -0.7327,
+        "acoustic_dev": 0.73,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "林/零 市/斯",
+        "text_free": "在推进入境旅游方面，俄罗斯归零专场对接飞。",
+        "dur": 4.611,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 56,
+      "start": 251.233,
+      "end": 253.276,
+      "label": "mandarin",
+      "text": "中越跨境旅游合作交流、",
+      "score": 0.0457,
+      "signals": {
+        "mand_logprob": -0.0609,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "中原跨境旅游合作交流。",
+        "dur": 2.043,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 57,
+      "start": 253.432,
+      "end": 256.425,
+      "label": "mandarin",
+      "text": "港澳台青少年研学旅游活动等等，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "港澳台青少年研学旅游活动等等。",
+        "dur": 2.993,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 58,
+      "start": 256.671,
+      "end": 259.428,
+      "label": "mandarin",
+      "text": "进一步打开桂林游经旅游市场。",
+      "score": 0.1703,
+      "signals": {
+        "mand_logprob": -0.0845,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "经/金",
+        "text_free": "进一步打开桂林玉金旅游市场。",
+        "dur": 2.757,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 59,
+      "start": 259.493,
+      "end": 265.029,
+      "label": "mandarin",
+      "text": "同时，我市还加密京福甬等口岸枢纽城市航线，",
+      "score": 0.1565,
+      "signals": {
+        "mand_logprob": -0.1791,
+        "acoustic_dev": 0.062,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "福/沪",
+        "text_free": "同时，我市还加密京沪、甬等口岸枢纽城市航线。",
+        "dur": 5.536,
+        "n_char": 19,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 60,
+      "start": 265.265,
+      "end": 268.341,
+      "label": "mandarin",
+      "text": "开通吉隆坡至桂林包机航线、",
+      "score": 0.0762,
+      "signals": {
+        "mand_logprob": -0.0641,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "开通吉隆坡至桂林宝鸡航线。",
+        "dur": 3.076,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 61,
+      "start": 268.442,
+      "end": 274.144,
+      "label": "mandarin",
+      "text": "香港航线，以便利交通推动游经旅游的加快增长。",
+      "score": 0.1347,
+      "signals": {
+        "mand_logprob": -0.2327,
+        "acoustic_dev": 0.127,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "香港航线以便利的交通推动入境旅游的加快增长。",
+        "dur": 5.702,
+        "n_char": 20,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 62,
+      "start": 274.544,
+      "end": 277.799,
+      "label": "mandarin",
+      "text": "下半年，我市文旅活动还将精彩纷呈。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "下半年，我市文旅活动还将精彩纷呈。",
+        "dur": 3.255,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 63,
+      "start": 278.025,
+      "end": 282.576,
+      "label": "mandarin",
+      "text": "七月二零二五，至今经典桂林山水艺术节成功举办，",
+      "score": 0.1727,
+      "signals": {
+        "mand_logprob": -0.1738,
+        "acoustic_dev": 0.056,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "今/敬",
+        "text_free": "七月二零二五，致敬经典桂林山水艺术节成功举办。",
+        "dur": 4.551,
+        "n_char": 21,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 64,
+      "start": 282.886,
+      "end": 285.797,
+      "label": "mandarin",
+      "text": "推动桂林文旅持续出圈出彩。",
+      "score": 0.2126,
+      "signals": {
+        "mand_logprob": -0.2112,
+        "acoustic_dev": 0.101,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "推动桂林文旅吃、住、去、玩、出差。",
+        "dur": 2.911,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 65,
+      "start": 286.121,
+      "end": 293.308,
+      "label": "mandarin",
+      "text": "根据了解，今年我市确定打造“季季有主题、月月有亮点”的全域旅游生态历练，",
+      "score": 0.1215,
+      "signals": {
+        "mand_logprob": -0.0232,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.129,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "练/念",
+        "text_free": "根据了解，今年我市确定打造积极有主题、月月有亮点的全域旅游生态理念。",
+        "dur": 7.187,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 66,
+      "start": 293.59,
+      "end": 295.762,
+      "label": "mandarin",
+      "text": "将举办二零二五桂林艺术节，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "将举办二零二五桂林艺术节。",
+        "dur": 2.172,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 67,
+      "start": 296.049,
+      "end": 298.316,
+      "label": "uncertain",
+      "text": "通过十八部精品剧目、",
+      "score": 0.4173,
+      "signals": {
+        "mand_logprob": -0.438,
+        "acoustic_dev": 0.375,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "十/四",
+        "text_free": "通过四八步，精拼节目。",
+        "dur": 2.267,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 68,
+      "start": 298.484,
+      "end": 300.844,
+      "label": "mandarin",
+      "text": "四十余场演出及活动，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0071,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "四十余场演出及活动。",
+        "dur": 2.36,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 69,
+      "start": 300.943,
+      "end": 306.791,
+      "label": "mandarin",
+      "text": "构建以戏剧、音乐、美术三大板块为核心的多元艺术生态。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "构建以戏剧、音乐、美术三大板块为核心的多元艺术生态。",
+        "dur": 5.848,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 70,
+      "start": 306.993,
+      "end": 312.581,
+      "label": "mandarin",
+      "text": "在艺术节期间，我市还将举办国内顶流歌手专场音乐节，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在艺术节期间，我市还将举办国内顶流歌手专场音乐节。",
+        "dur": 5.588,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 71,
+      "start": 312.706,
+      "end": 316.519,
+      "label": "mandarin",
+      "text": "融合桂林元素，打造国声游法新体验。",
+      "score": 0.2964,
+      "signals": {
+        "mand_logprob": -0.3213,
+        "acoustic_dev": 0.234,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "声/审",
+        "text_free": "融合桂林元素，打造国审油花新体验。",
+        "dur": 3.813,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 72,
+      "start": 316.745,
+      "end": 325.677,
+      "label": "mandarin",
+      "text": "同时，桂林国序二零二五桂林马拉松的二十二个中国东盟博览会旅游展区等活动已陆续公布精彩亮点，",
+      "score": 0.0744,
+      "signals": {
+        "mand_logprob": -0.0577,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.163,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同时，桂林国际鹅岭鹅舞、桂林马拉松，第二十二届中国东盟博览会旅游展区等活动已陆续公布精彩亮点。",
+        "dur": 8.932,
+        "n_char": 43
+      }
+    },
+    {
+      "id": 73,
+      "start": 326.042,
+      "end": 329.247,
+      "label": "uncertain",
+      "text": "将以节赛费经济为抓手，",
+      "score": 0.4923,
+      "signals": {
+        "mand_logprob": -0.7669,
+        "acoustic_dev": 0.771,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "将以减三费经济为抓手。",
+        "dur": 3.205,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 74,
+      "start": 329.538,
+      "end": 333.497,
+      "label": "uncertain",
+      "text": "探索情绪消费高质量办好系列重大活动，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -1.3211,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "探索情绪消费，高质量办好系列重大活动。",
+        "dur": 3.959,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 75,
+      "start": 333.757,
+      "end": 336.219,
+      "label": "mandarin",
+      "text": "打造一批沉浸式、体验式、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0581,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "打造一批沉浸式、体验式。",
+        "dur": 2.462,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 76,
+      "start": 336.219,
+      "end": 339.458,
+      "label": "mandarin",
+      "text": "互动式的情绪消费新产品、新场景，",
+      "score": 0.2235,
+      "signals": {
+        "mand_logprob": -0.4838,
+        "acoustic_dev": 0.43,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "互动式的情绪消费新产品新场景。",
+        "dur": 3.239,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 77,
+      "start": 339.51,
+      "end": 343.549,
+      "label": "mandarin",
+      "text": "以多元文旅业态激发消费市场新活力。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以多元文旅业态激发消费市场新活力。",
+        "dur": 4.039,
+        "n_char": 16
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

@@ -1,0 +1,1061 @@
+{
+  "src_audio": "唐荣兴一锤一火锻匠心 炉火不熄守艺人.wav",
+  "duration": 229.556,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.994,
+      "end": 5.16,
+      "label": "mandarin",
+      "text": "现在啊，传统打铁技艺可以说是好难得看到到了。",
+      "score": 0.1834,
+      "signals": {
+        "mand_logprob": -0.3281,
+        "acoustic_dev": 0.221,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "现在啊，传统打铁技艺可以讲是好难得看得到。",
+        "dur": 4.166,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.948,
+      "end": 11.259,
+      "label": "mandarin",
+      "text": "重庆偏铺街巷的打铁铺也是渐渐地淡出了人们的视野。",
+      "score": 0.1234,
+      "signals": {
+        "mand_logprob": -0.1541,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从前偏不改行的打铁铺，也是渐渐地淡出了人们的视野。",
+        "dur": 5.311,
+        "n_char": 23,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.478,
+      "end": 15.154,
+      "label": "mandarin",
+      "text": "这一门手艺只能偶尔在影视剧里头看到了。",
+      "score": 0.0508,
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这一门手艺只能够是在影视剧里头看到了。",
+        "dur": 3.676,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.423,
+      "end": 19.221,
+      "label": "mandarin",
+      "text": "但是啊，在新安县祥利镇渡头江边，",
+      "score": 0.2786,
+      "signals": {
+        "mand_logprob": -0.3253,
+        "acoustic_dev": 0.218,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "新/兴",
+        "text_free": "但是啊，在兴安县祥利镇都头江边。",
+        "dur": 3.798,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.221,
+      "end": 23.826,
+      "label": "mandarin",
+      "text": "五十六岁的铁匠唐永兴用四十盏光影与汗水，",
+      "score": 0.1878,
+      "signals": {
+        "mand_logprob": -0.1841,
+        "acoustic_dev": 0.076,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "影/阴",
+        "text_free": "五十六岁的铁匠唐永兴，用四十载光阴与汗水。",
+        "dur": 4.605,
+        "n_char": 19,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.826,
+      "end": 26.694,
+      "label": "mandarin",
+      "text": "执着守护着这一门古老的手艺。",
+      "score": 0.218,
+      "signals": {
+        "mand_logprob": -0.1233,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "护/扶",
+        "text_free": "制作手扶桌这一门古老的手艺。",
+        "dur": 2.868,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.974,
+      "end": 30.452,
+      "label": "guilin",
+      "text": "杨青村的打铁生在强谈严肃。",
+      "score": 0.671,
+      "signals": {
+        "mand_logprob": -1.0877,
+        "acoustic_dev": 0.983,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "杨清车的打铁声在江畔严肃。",
+        "dur": 3.478,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.033,
+      "end": 35.36,
+      "label": "mandarin",
+      "text": "渡头江边一间未挂招牌的铁匠铺静静伫立。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0149,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "渡头江边，一间未挂招牌的铁匠铺静静伫立。",
+        "dur": 4.327,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.675,
+      "end": 41.677,
+      "label": "mandarin",
+      "text": "刚靠近铺子，桌椅的铁器温度就裹挟着叮叮当当的打铁声扑面而来。",
+      "score": 0.1327,
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "桌/作",
+        "text_free": "刚靠近铺子，作业的铁器温度就裹挟着叮叮当当的打铁声扑面而来。",
+        "dur": 6.002,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.946,
+      "end": 45.578,
+      "label": "mandarin",
+      "text": "瞬间将人拉回传统手艺的血火场景当中。",
+      "score": 0.2017,
+      "signals": {
+        "mand_logprob": -0.0836,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.353,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "瞬/孙",
+        "text_free": "孙亮将迎拉斐传统手艺的玄货场景当中。",
+        "dur": 3.632,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 11,
+      "start": 46.006,
+      "end": 49.399,
+      "label": "mandarin",
+      "text": "铺内炉火正旺，唐永兴左手拿着铁锤，",
+      "score": 0.337,
+      "signals": {
+        "mand_logprob": -0.2703,
+        "acoustic_dev": 0.163,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "兴/新 内/雷",
+        "text_free": "普雷炉火正旺，唐永新左手拿到铁钳。",
+        "dur": 3.393,
+        "n_char": 15,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 12,
+      "start": 49.595,
+      "end": 52.051,
+      "label": "mandarin",
+      "text": "稳稳地夹到烧得通红的铁块，",
+      "score": 0.2149,
+      "signals": {
+        "mand_logprob": -0.0928,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "烧/扫",
+        "text_free": "猛猛地夹刀，扫得通红的铁块。",
+        "dur": 2.456,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 13,
+      "start": 52.111,
+      "end": 56.663,
+      "label": "mandarin",
+      "text": "按到铁砧上，右手抡起铁锤反复锻打，",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "按到铁枕上，右手抡起铁锤，反复锻打。",
+        "dur": 4.552,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 14,
+      "start": 56.663,
+      "end": 62.819,
+      "label": "mandarin",
+      "text": "火星随着锤落溅起，在空气当中发出转瞬即逝的光亮。",
+      "score": 0.0416,
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "火星垂着坠落，溅起在空气当中，发出转瞬即逝的光亮。",
+        "dur": 6.156,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.169,
+      "end": 67.706,
+      "label": "mandarin",
+      "text": "原本生硬的铁块在他数十年练就的技艺当中，",
+      "score": 0.283,
+      "signals": {
+        "mand_logprob": -0.2939,
+        "acoustic_dev": 0.186,
+        "seg_cer": 0.316,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "生/深",
+        "text_free": "原本深谙的铁块，在他数十年研究的记忆当中。",
+        "dur": 4.537,
+        "n_char": 19,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 16,
+      "start": 67.817,
+      "end": 72.576,
+      "label": "mandarin",
+      "text": "渐渐地褪去冷光，慢慢地显露出了清晰图形。",
+      "score": 0.2904,
+      "signals": {
+        "mand_logprob": -0.4701,
+        "acoustic_dev": 0.363,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "渐渐地褪去轮廓，慢慢地显露出咾清晰雏形。",
+        "dur": 4.759,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.763,
+      "end": 79.553,
+      "label": "uncertain",
+      "text": "据悉，唐永兴屋里的打铁人生从爷爷那一辈起就在铺头撑开起，",
+      "score": 0.4896,
+      "signals": {
+        "mand_logprob": -0.7004,
+        "acoustic_dev": 0.594,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "屋里",
+        "text_free": "据悉，唐永新无厘头的打铁营生，从爷爷那一辈起，就在普头村开启。",
+        "dur": 6.79,
+        "n_char": 26,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 18,
+      "start": 79.664,
+      "end": 82.969,
+      "label": "mandarin",
+      "text": "靠着一锤一火延续着古老技艺。",
+      "score": 0.0703,
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "靠着一锤一火，延续着古老记忆。",
+        "dur": 3.305,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 19,
+      "start": 82.969,
+      "end": 86.686,
+      "label": "mandarin",
+      "text": "后来父亲将铁铺迁到如今的渡江桥头，",
+      "score": 0.1214,
+      "signals": {
+        "mand_logprob": -0.2312,
+        "acoustic_dev": 0.124,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "后来，父亲将铁铺迁到 Eugene 的渡江桥头。",
+        "dur": 3.717,
+        "n_char": 16,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 20,
+      "start": 86.992,
+      "end": 90.265,
+      "label": "mandarin",
+      "text": "五十六岁的唐永兴也接过了打铁的锤子，",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "十六岁的唐永兴也接过了打铁的锤子。",
+        "dur": 3.273,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 21,
+      "start": 90.442,
+      "end": 94.067,
+      "label": "mandarin",
+      "text": "开启了自己长达四十年的打铁生涯。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "开启了自己长达四十年的打铁生涯。",
+        "dur": 3.625,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 22,
+      "start": 94.103,
+      "end": 96.536,
+      "label": "mandarin",
+      "text": "因为从小是在家里面打铁的，",
+      "score": 0.1907,
+      "signals": {
+        "mand_logprob": -0.2545,
+        "acoustic_dev": 0.147,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "因为中小学生家里面打铁的。",
+        "dur": 2.433,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 23,
+      "start": 96.656,
+      "end": 101.352,
+      "label": "guilin",
+      "text": "从小的时候，呃，自己想锤点什么东西啊，就拿起锤就开始锤了，",
+      "score": 0.688,
+      "signals": {
+        "mand_logprob": -1.1223,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.28,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "咧",
+        "text_free": "从小的时候啊，呃，自己想做点些么东西啊，就拿起个就就开始做咧。",
+        "dur": 4.696,
+        "n_char": 25,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 101.674,
+      "end": 109.542,
+      "label": "uncertain",
+      "text": "是对这些东西比较感兴趣啊。锤到几根发亮、朝夕卷而来，传统手工打铁生意日渐萧条。",
+      "score": 0.4939,
+      "signals": {
+        "mand_logprob": -0.7795,
+        "acoustic_dev": 0.674,
+        "seg_cer": 0.314,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "是对几个东西比较感兴趣。吹到秸秆发浪潮席卷而来，传统手工打铁生意一箭萧条。",
+        "dur": 7.868,
+        "n_char": 35,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 25,
+      "start": 109.884,
+      "end": 112.477,
+      "label": "mandarin",
+      "text": "曾经热闹的铁匠铺接连关张，",
+      "score": 0.0762,
+      "signals": {
+        "mand_logprob": -0.0083,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "曾经热闹的铁匠铺，寂寥关张。",
+        "dur": 2.593,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 26,
+      "start": 112.477,
+      "end": 115.516,
+      "label": "guilin",
+      "text": "不少同行为谋生计纷纷转行。",
+      "score": 0.66,
+      "signals": {
+        "mand_logprob": -0.9589,
+        "acoustic_dev": 0.853,
+        "seg_cer": 0.167,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "text_free": "不少同行为谋升级，纷纷转行。",
+        "dur": 3.039,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 27,
+      "start": 115.779,
+      "end": 119.526,
+      "label": "mandarin",
+      "text": "但是唐永兴选择留在这一方小小的铁铺，",
+      "score": 0.0133,
+      "signals": {
+        "mand_logprob": -0.1335,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "但是，唐永兴选择留在这一方小小的铁铺。",
+        "dur": 3.747,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 28,
+      "start": 119.66,
+      "end": 123.013,
+      "label": "mandarin",
+      "text": "手着炉火与铁锤不曾离开。",
+      "score": 0.0416,
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "守着炉火与铁锤，不曾离开。",
+        "dur": 3.353,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 29,
+      "start": 123.013,
+      "end": 126.567,
+      "label": "guilin",
+      "text": "你像像以以前那个做竹刮吧，",
+      "score": 0.6724,
+      "signals": {
+        "mand_logprob": -1.4512,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "你像像以以建那个啊，做豆瓜吧。",
+        "dur": 3.554,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 30,
+      "start": 127.046,
+      "end": 130.118,
+      "label": "mandarin",
+      "text": "呃，镰刀、菜刀、一个篱笆，",
+      "score": 0.0945,
+      "signals": {
+        "mand_logprob": -0.1918,
+        "acoustic_dev": 0.084,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，镰刀、菜刀，呃，一个篱笆。",
+        "dur": 3.072,
+        "n_char": 9,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 31,
+      "start": 130.946,
+      "end": 133.737,
+      "label": "mandarin",
+      "text": "呃，都可以打点。四十年来，",
+      "score": 0.0457,
+      "signals": {
+        "mand_logprob": -0.0276,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，都可以打的。四十年来。",
+        "dur": 2.791,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 32,
+      "start": 133.737,
+      "end": 139.205,
+      "label": "mandarin",
+      "text": "唐永兴打出的撬棍、篱耙等工具成了周边村民农作时的好帮手。",
+      "score": 0.3099,
+      "signals": {
+        "mand_logprob": -0.3419,
+        "acoustic_dev": 0.235,
+        "seg_cer": 0.192,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "篱/泥 兴/心",
+        "text_free": "常用心打出的撬棍、泥耙等等工具，成了周边村民农作时的好帮手。",
+        "dur": 5.468,
+        "n_char": 26,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 33,
+      "start": 139.393,
+      "end": 141.639,
+      "label": "mandarin",
+      "text": "好多村民用惯了他打的铁器，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0395,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "好多村民用惯了他打的铁器。",
+        "dur": 2.246,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 34,
+      "start": 141.733,
+      "end": 145.431,
+      "label": "mandarin",
+      "text": "即便要多等几天，也愿意专程来这里定制。",
+      "score": 0.1076,
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "即便要多等几天，也愿意转乘来再去定制。",
+        "dur": 3.698,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 35,
+      "start": 145.67,
+      "end": 148.474,
+      "label": "mandarin",
+      "text": "这份偏爱藏着对老手艺的敬意，",
+      "score": 0.0703,
+      "signals": {
+        "mand_logprob": -0.08,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这份偏爱藏着对老手艺的信印。",
+        "dur": 2.804,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 36,
+      "start": 148.618,
+      "end": 151.622,
+      "label": "mandarin",
+      "text": "更藏着对唐师傅匠心的认可。",
+      "score": 0.3593,
+      "signals": {
+        "mand_logprob": -0.385,
+        "acoustic_dev": 0.278,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "藏/常",
+        "text_free": "更常作对唐师傅将心的印可。",
+        "dur": 3.004,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 37,
+      "start": 151.622,
+      "end": 154.538,
+      "label": "guilin",
+      "text": "有顾客有这样顾客呃需要",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -3.1264,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.818,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一个铺市概念就是讲：顾客呃需要。",
+        "dur": 2.916,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 38,
+      "start": 154.739,
+      "end": 160.48,
+      "label": "mandarin",
+      "text": "呃随时我就为顾客服务。采访过程中，不是有周边邻居走进铺子，",
+      "score": 0.0176,
+      "signals": {
+        "mand_logprob": -0.0755,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，随时我就为顾客服务啊。采访过程中，不是有周边邻居走进铺子。",
+        "dur": 5.741,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 39,
+      "start": 160.48,
+      "end": 162.797,
+      "label": "mandarin",
+      "text": "有人来取之前订好的农具，",
+      "score": 0.3022,
+      "signals": {
+        "mand_logprob": -0.3364,
+        "acoustic_dev": 0.229,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "农/龙",
+        "text_free": "有人来取之前订好的龙珠。",
+        "dur": 2.317,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 40,
+      "start": 162.99,
+      "end": 167.419,
+      "label": "guilin",
+      "text": "结果铁器的烧好总费下到江沿去，还是唐师傅打的成熟。",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -2.2468,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.522,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "结果提起的时候，总会笑到讲一句：“还是唐师傅打得称手。”",
+        "dur": 4.429,
+        "n_char": 23,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 41,
+      "start": 167.852,
+      "end": 171.587,
+      "label": "mandarin",
+      "text": "有人则站到一旁，静静的看到唐永兴打铁。",
+      "score": 0.164,
+      "signals": {
+        "mand_logprob": -0.0325,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "兴/新",
+        "text_free": "有人则站到一旁，静静地看着唐永新打铁。",
+        "dur": 3.735,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 42,
+      "start": 171.947,
+      "end": 174.064,
+      "label": "guilin",
+      "text": "市民张子峰就是其中之一，",
+      "score": 0.7425,
+      "signals": {
+        "mand_logprob": -1.6648,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "民/名",
+        "text_free": "诗名《庄子风》就是其中之一。",
+        "dur": 2.117,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 43,
+      "start": 174.464,
+      "end": 176.743,
+      "label": "mandarin",
+      "text": "他特地拿着手机来记录，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "他特地拿着手机来记录。",
+        "dur": 2.279,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 44,
+      "start": 176.743,
+      "end": 179.847,
+      "label": "mandarin",
+      "text": "想为这门传统手艺留下痕迹。",
+      "score": 0.0762,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "想为咱们传统手艺留下痕迹。",
+        "dur": 3.104,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 45,
+      "start": 179.955,
+      "end": 182.753,
+      "label": "mandarin",
+      "text": "乡里的打铁铺也就剩下最后一家了，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0368,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "乡里的打铁铺也就剩下最后一家了。",
+        "dur": 2.798,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 46,
+      "start": 183.321,
+      "end": 186.609,
+      "label": "mandarin",
+      "text": "所以我想过来记录一下我们这些传统的手艺人，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "所以我想过来记录一下我们这些传统的手艺人。",
+        "dur": 3.288,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 47,
+      "start": 186.705,
+      "end": 192.821,
+      "label": "mandarin",
+      "text": "谈及手艺的未来，唐永兴希望能够把自己的技艺毫无保留地传给年轻人，",
+      "score": 0.1152,
+      "signals": {
+        "mand_logprob": -0.012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "兴/新",
+        "text_free": "谈及手艺的未来，唐永新希望能够把自己的技艺毫无保留地传给年轻人。",
+        "dur": 6.116,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 48,
+      "start": 193.048,
+      "end": 196.828,
+      "label": "mandarin",
+      "text": "让打铁这门老手艺能够继续走下去。",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0086,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让打铁这么老手艺能够继续走下去。",
+        "dur": 3.78,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 49,
+      "start": 197.016,
+      "end": 200.264,
+      "label": "mandarin",
+      "text": "只要人家想学，我肯定教；只要他有这个爱好。",
+      "score": 0.2127,
+      "signals": {
+        "mand_logprob": -0.2723,
+        "acoustic_dev": 0.165,
+        "seg_cer": 0.278,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "只要人家想去，跟你讲，只要他有这个爱好。",
+        "dur": 3.248,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 50,
+      "start": 200.264,
+      "end": 202.595,
+      "label": "mandarin",
+      "text": "从父亲手里头接过铁锤，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从父亲手里头接过铁锤。",
+        "dur": 2.331,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 51,
+      "start": 202.595,
+      "end": 209.376,
+      "label": "mandarin",
+      "text": "到唐永兴坚守四十年，渡头江边的打铁声不仅是一门手艺的三代传承，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0103,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "到唐永兴坚守四十年，渡头江边的打铁声，不仅是一门手艺的三代传承。",
+        "dur": 6.781,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 52,
+      "start": 209.608,
+      "end": 212.984,
+      "label": "mandarin",
+      "text": "更藏着乡亲邻里间的温情与信任。",
+      "score": 0.2751,
+      "signals": {
+        "mand_logprob": -0.2878,
+        "acoustic_dev": 0.18,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "藏/常",
+        "text_free": "更常作乡村邻里间的温情与信任。",
+        "dur": 3.376,
+        "n_char": 14,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 53,
+      "start": 212.984,
+      "end": 215.959,
+      "label": "guilin",
+      "text": "如今机改发工具虽然越来越普及，",
+      "score": 0.5853,
+      "signals": {
+        "mand_logprob": -1.4256,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "如今，秸秆发工具虽然越来越普及。",
+        "dur": 2.975,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 54,
+      "start": 216.124,
+      "end": 219.178,
+      "label": "mandarin",
+      "text": "但是唐永兴讲，只要邻居们还需要，",
+      "score": 0.2347,
+      "signals": {
+        "mand_logprob": -0.3037,
+        "acoustic_dev": 0.196,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "兴/新",
+        "text_free": "但是唐永新讲：“只要邻居们还需要。”",
+        "dur": 3.054,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 55,
+      "start": 219.178,
+      "end": 223.465,
+      "label": "mandarin",
+      "text": "他就愿意守着这不熄的炉火，这把沉甸甸的锤，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "他就愿意守着这不熄的炉火，这把沉甸甸的锤。",
+        "dur": 4.287,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 56,
+      "start": 223.748,
+      "end": 229.556,
+      "label": "mandarin",
+      "text": "让叮叮当当的打铁声继续在渡头江边回响下去。",
+      "score": 0.0686,
+      "signals": {
+        "mand_logprob": -0.0044,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让叮叮当当的打铁声，急速在渡头江边飞响下去。",
+        "dur": 5.808,
+        "n_char": 20
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

@@ -1,0 +1,746 @@
+{
+  "src_audio": "民警火速劝阻电诈 为群众止损2万元.wav",
+  "duration": 163.734,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.26,
+      "end": 2.609,
+      "label": "mandarin",
+      "text": "接到我们来关注一下电信诈骗。",
+      "score": 0.1012,
+      "signals": {
+        "mand_logprob": -0.1111,
+        "acoustic_dev": 0.127,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "接着，我们来关注一下电信诈骗。",
+        "dur": 2.349,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.609,
+      "end": 10.104,
+      "label": "mandarin",
+      "text": "前段时间，市公安局香山分局二塘派出所的民警成功地阻止了一起电信诈骗案件。",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "前段时间，市公安局香山分局二塘派出所的民警成功地组织了一起电信诈骗案件。",
+        "dur": 7.495,
+        "n_char": 34
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.299,
+      "end": 13.86,
+      "label": "guilin",
+      "text": "这次的考生了防范电信诈骗的群众。",
+      "score": 0.6724,
+      "signals": {
+        "mand_logprob": -1.2122,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "再次的敲响了防范电信诈骗的警钟。",
+        "dur": 3.561,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.435,
+      "end": 18.795,
+      "label": "mandarin",
+      "text": "当天，香山分局二塘派出所接到紧急电诈预警，",
+      "score": 0.0019,
+      "signals": {
+        "mand_logprob": -0.0201,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "当天，香山分局二塘派出所接到紧急电诈预警。",
+        "dur": 4.36,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.074,
+      "end": 21.853,
+      "label": "mandarin",
+      "text": "辖区群众正疑似遭遇电诈。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "辖区群众正疑似遭遇电诈。",
+        "dur": 2.779,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.975,
+      "end": 26.335,
+      "label": "mandarin",
+      "text": "接到预警以后，二塘派出所马上组织警力赶往群众屋里头。",
+      "score": 0.04,
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "屋里",
+        "text_free": "接到预警以后，二塘派出所马上组织警力赶往群众屋里头。",
+        "dur": 4.36,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.716,
+      "end": 30.498,
+      "label": "mandarin",
+      "text": "但是到达现场以后，民警发现开户人家大门紧闭，",
+      "score": 0.168,
+      "signals": {
+        "mand_logprob": -0.049,
+        "acoustic_dev": 0.043,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "户/富",
+        "text_free": "但是到达现场以后，民警发现该富人家大门紧闭。",
+        "dur": 3.782,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 8,
+      "start": 30.626,
+      "end": 33.077,
+      "label": "mandarin",
+      "text": "屋里头传来打电话的声音，",
+      "score": 0.0861,
+      "signals": {
+        "mand_logprob": -0.0827,
+        "acoustic_dev": 0.089,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "屋里",
+        "text_free": "屋里头传来打电话的声音。",
+        "dur": 2.451,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.214,
+      "end": 36.86,
+      "label": "mandarin",
+      "text": "并且提到了银行卡、链接等等敏感词汇。",
+      "score": 0.0177,
+      "signals": {
+        "mand_logprob": -0.0424,
+        "acoustic_dev": 0.034,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并且提到了银行卡链接等等敏感词汇。",
+        "dur": 3.646,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.087,
+      "end": 40.356,
+      "label": "mandarin",
+      "text": "这让民警心急如焚。开始打电话。",
+      "score": 0.1802,
+      "signals": {
+        "mand_logprob": -0.0314,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "这/泽",
+        "text_free": "泽阳民警心急如焚，开始打电话。",
+        "dur": 3.269,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 11,
+      "start": 42.149,
+      "end": 46.15,
+      "label": "guilin",
+      "text": "快来开门，派出所来，快来，这里转钱是不能拿取不回来了，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -1.4346,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.565,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "快来看嘛，派出所的！快点，都得转钱啊，就追不回来了。我跟。",
+        "dur": 4.001,
+        "n_char": 23,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.15,
+      "end": 51.333,
+      "label": "uncertain",
+      "text": "你啊，他是骗子。在十八分钟的努力以后，这名群众终于打开了门，",
+      "score": 0.4387,
+      "signals": {
+        "mand_logprob": -0.4651,
+        "acoustic_dev": 0.607,
+        "seg_cer": 0.269,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在十八分钟的努力以后，这名群众终于是打开了门。",
+        "dur": 5.183,
+        "n_char": 26,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.528,
+      "end": 55.312,
+      "label": "mandarin",
+      "text": "手里头的手机还保持着骗子的视频通话。",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "手里头的手机还保持和骗子的视频通话。",
+        "dur": 3.784,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 14,
+      "start": 55.516,
+      "end": 62.033,
+      "label": "mandarin",
+      "text": "民警马上拿过手机，视频中的骗子一看到身着制服的民警，马上就挂断了视频。",
+      "score": 0.0571,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "民警马上拿过手机，视频中的骗子一看到闪烁支付的民警，马上就挂断了视频。",
+        "dur": 6.517,
+        "n_char": 32
+      }
+    },
+    {
+      "id": 15,
+      "start": 62.985,
+      "end": 65.542,
+      "label": "mandarin",
+      "text": "家里来钱，这来钱哪有视频啊？",
+      "score": 0.2977,
+      "signals": {
+        "mand_logprob": -0.2126,
+        "acoustic_dev": 0.265,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "家里乱七八糟，有食品啊。",
+        "dur": 2.557,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 16,
+      "start": 66.448,
+      "end": 69.664,
+      "label": "guilin",
+      "text": "他是他是讲我的，你给他视频用哪个？",
+      "score": 0.6763,
+      "signals": {
+        "mand_logprob": -0.747,
+        "acoustic_dev": 0.989,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "哪个",
+        "text_free": "他是他是讲过，那个你给他视频用那个。",
+        "dur": 3.216,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 17,
+      "start": 71.28,
+      "end": 74.76,
+      "label": "guilin",
+      "text": "把屋里切了，你按按你你切了好容易是不是？",
+      "score": 0.7557,
+      "signals": {
+        "mand_logprob": -0.8263,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.444,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "里/你",
+        "lexicon": "屋里",
+        "text_free": "我把你劫了，你啊啊！你你劫来了，好容易是不是？",
+        "dur": 3.48,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 18,
+      "start": 76.618,
+      "end": 80.992,
+      "label": "mandarin",
+      "text": "通过检查，民警得知诈骗分子已经获取了重要信息，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过检查，民警得知诈骗分子已经获取了重要信息。",
+        "dur": 4.374,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 19,
+      "start": 81.255,
+      "end": 85.461,
+      "label": "mandarin",
+      "text": "同时该群众的微信账号已经下线，提示在外地登录。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同时，该群众的微信账号已经下线，提示在外地登录。",
+        "dur": 4.206,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 20,
+      "start": 85.66,
+      "end": 88.446,
+      "label": "mandarin",
+      "text": "民警马上执行系列紧急操作，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0146,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "民警马上执行系列紧急操作。",
+        "dur": 2.786,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.609,
+      "end": 92.036,
+      "label": "mandarin",
+      "text": "才使让诈骗分子没能够继续实施诈骗，",
+      "score": 0.2527,
+      "signals": {
+        "mand_logprob": -0.3352,
+        "acoustic_dev": 0.431,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "才是让诈骗分子没能够继续实施诈骗。",
+        "dur": 3.427,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 22,
+      "start": 92.278,
+      "end": 94.934,
+      "label": "mandarin",
+      "text": "成功地为群众止损两万多块钱。",
+      "score": 0.2966,
+      "signals": {
+        "mand_logprob": -0.2885,
+        "acoustic_dev": 0.368,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "成功的为群众只省两万多块钱。",
+        "dur": 2.656,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 23,
+      "start": 95.282,
+      "end": 100.6,
+      "label": "mandarin",
+      "text": "根据了解，该群众在屋里刷短视频的时候，接到了抖音客服的来电，",
+      "score": 0.0739,
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "屋里",
+        "text_free": "根据了解，该群众在物流刷短视频的时候，接到了抖音客服的来电。",
+        "dur": 5.318,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 24,
+      "start": 100.6,
+      "end": 104.751,
+      "label": "mandarin",
+      "text": "讲他开通了直播会员服务，需要关闭操作，",
+      "score": 0.1923,
+      "signals": {
+        "mand_logprob": -0.1375,
+        "acoustic_dev": 0.163,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "将它开通了直播飞援服务，需要关闭操作。",
+        "dur": 4.151,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 25,
+      "start": 104.905,
+      "end": 107.347,
+      "label": "mandarin",
+      "text": "要不然每个月都会自动扣费。",
+      "score": 0.014,
+      "signals": {
+        "mand_logprob": -0.0372,
+        "acoustic_dev": 0.027,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "要不然，每个月都会自动扣费。",
+        "dur": 2.442,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 26,
+      "start": 107.593,
+      "end": 111.476,
+      "label": "guilin",
+      "text": "该群众信以为真，随即添加了对方的账号，",
+      "score": 0.6545,
+      "signals": {
+        "mand_logprob": -1.4033,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "改民群众信以为真，所以就添加了对方的账号。",
+        "dur": 3.883,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 27,
+      "start": 111.476,
+      "end": 117.237,
+      "label": "mandarin",
+      "text": "和他视频连线。哪个晓得，是一步一步地跌入了对方设好的陷阱。",
+      "score": 0.0953,
+      "signals": {
+        "mand_logprob": -0.0391,
+        "acoustic_dev": 0.029,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "哪个 晓得",
+        "text_free": "和他视频连线，哪个晓得是一步一步地跌入了对方设好的陷阱。",
+        "dur": 5.761,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 28,
+      "start": 117.237,
+      "end": 122.674,
+      "label": "mandarin",
+      "text": "受害人遭遇的诈骗是近年来高发的冒充平台客服类诈骗，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "受害人遭遇的诈骗，是近年来高发的冒充平台客服类诈骗。",
+        "dur": 5.437,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 29,
+      "start": 122.864,
+      "end": 125.868,
+      "label": "mandarin",
+      "text": "其迷惑性强，步骤环环相扣，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "其迷惑性强，步骤环环相扣。",
+        "dur": 3.004,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 30,
+      "start": 125.96,
+      "end": 129.34,
+      "label": "mandarin",
+      "text": "先以关闭会员、避免扣费为借口，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "先以关闭会员，避免扣费为借口。",
+        "dur": 3.38,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 31,
+      "start": 129.404,
+      "end": 132.459,
+      "label": "mandarin",
+      "text": "抓住大家怕麻烦、怕损失的心理，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "抓住大家怕麻烦、怕损失的心理。",
+        "dur": 3.055,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 32,
+      "start": 132.462,
+      "end": 136.391,
+      "label": "mandarin",
+      "text": "接着让你加私人账号，用第三方软件视频，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "接着让你加私人账号，用第三方软件视频。",
+        "dur": 3.929,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 33,
+      "start": 136.536,
+      "end": 141.66,
+      "label": "mandarin",
+      "text": "就是为了脱离官方监管，让你在他们的引导下一步步走进陷阱。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就是为了脱离官方监管，让你在他们的引导下一步步走进陷阱。",
+        "dur": 5.124,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 34,
+      "start": 142.55,
+      "end": 145.18,
+      "label": "mandarin",
+      "text": "我们在此提醒市民朋友们，",
+      "score": 0.0031,
+      "signals": {
+        "mand_logprob": -0.0217,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们在此提醒市民朋友们。",
+        "dur": 2.63,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 35,
+      "start": 145.243,
+      "end": 148.011,
+      "label": "mandarin",
+      "text": "官方客服不会通过私人账号联系你，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "官方客服不会通过私人账号联系你。",
+        "dur": 2.768,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 36,
+      "start": 148.239,
+      "end": 151.21,
+      "label": "mandarin",
+      "text": "更不会要密码和验证码，这是底线。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "更不会要密码和验证码，这是底线。",
+        "dur": 2.971,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 37,
+      "start": 151.313,
+      "end": 155.02,
+      "label": "mandarin",
+      "text": "最后，只要对方让你操作银行卡转账，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "最后，只要对方让你操作银行卡转账。",
+        "dur": 3.707,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 38,
+      "start": 155.055,
+      "end": 158.847,
+      "label": "mandarin",
+      "text": "或者不让你告诉家人朋友，十有八九是诈骗。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "或者不让你告诉家人朋友，十有八九是诈骗。",
+        "dur": 3.792,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 39,
+      "start": 158.999,
+      "end": 161.883,
+      "label": "mandarin",
+      "text": "这时候赶紧挂电话，找家人商量，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这时候赶紧挂电话，找家人商量。",
+        "dur": 2.884,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 40,
+      "start": 161.932,
+      "end": 163.734,
+      "label": "mandarin",
+      "text": "或者直接拨打幺二零。",
+      "score": 0.0662,
+      "signals": {
+        "mand_logprob": -0.0391,
+        "acoustic_dev": 0.03,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "或者直接拨打幺幺零。",
+        "dur": 1.802,
+        "n_char": 9
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

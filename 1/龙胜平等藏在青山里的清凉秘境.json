@@ -1,0 +1,414 @@
+{
+  "src_audio": "龙胜平等藏在青山里的清凉秘境.wav",
+  "duration": 91.42,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.359,
+      "end": 2.924,
+      "label": "uncertain",
+      "text": "三伏天，持续晴热高温，",
+      "score": 0.4957,
+      "signals": {
+        "mand_logprob": -0.3378,
+        "acoustic_dev": 0.5,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "持/此",
+        "text_free": "三伏天，此处晴夜高温。",
+        "dur": 2.565,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.924,
+      "end": 5.975,
+      "label": "mandarin",
+      "text": "让不少游客纷纷寻找清凉的去处。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让不少游客纷纷寻找清凉的去处。",
+        "dur": 3.051,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.112,
+      "end": 10.272,
+      "label": "uncertain",
+      "text": "在龙胜各族自治县平等镇夹河村的长冲组，",
+      "score": 0.4089,
+      "signals": {
+        "mand_logprob": -0.196,
+        "acoustic_dev": 0.286,
+        "seg_cer": 0.722,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.462,
+        "phon_examples": "组/主 冲/聪 治/子 自/之 族/注 龙/农",
+        "text_free": "在农圣郭注之子羡平等镇嫁和城里长聪主。",
+        "dur": 4.16,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.541,
+      "end": 14.923,
+      "label": "guilin",
+      "text": "这片清澈的山间河流和天然的凉意，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -1.1931,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "揭开啊，清澈的山间河流和天眼的两仪。",
+        "dur": 4.382,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.064,
+      "end": 18.731,
+      "label": "uncertain",
+      "text": "成为了夏意毕处的一个小众打卡地。",
+      "score": 0.4026,
+      "signals": {
+        "mand_logprob": -0.3642,
+        "acoustic_dev": 0.54,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "成为了下一批处理一个小众打卡地。",
+        "dur": 3.667,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 6,
+      "start": 18.834,
+      "end": 26.325,
+      "label": "mandarin",
+      "text": "走进长冲组，只见青山怀抱间，一条银链般的瀑布从青山岸壁间飞泻而下，",
+      "score": 0.0857,
+      "signals": {
+        "mand_logprob": -0.0377,
+        "acoustic_dev": 0.048,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "走进苍松组，只见青山怀抱间，一条银链般的瀑布从青山岸边飞泻而下。",
+        "dur": 7.491,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.658,
+      "end": 29.472,
+      "label": "mandarin",
+      "text": "溅起的水花带来满谷清凉。",
+      "score": 0.0831,
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "剑起的水法带来满谷清凉。",
+        "dur": 2.814,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 8,
+      "start": 29.809,
+      "end": 35.947,
+      "label": "mandarin",
+      "text": "当地群众为了方便游客，在清澈的河水当中搭建了竹编遮阳伞，",
+      "score": 0.0176,
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "当地群众为了方便游客，在清澈的河水当中搭建了竹边遮阳伞。",
+        "dur": 6.138,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.255,
+      "end": 40.919,
+      "label": "mandarin",
+      "text": "开辟了烧烤区，岸边还贴心设置了更衣室等等设施。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "开辟了烧烤区，岸边还贴心设置了更衣室等等设施。",
+        "dur": 4.664,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.343,
+      "end": 44.63,
+      "label": "guilin",
+      "text": "午后时分，不少家庭带到巴耶寨前来戏水，",
+      "score": 0.7045,
+      "signals": {
+        "mand_logprob": -0.7032,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "寨/仔",
+        "text_free": "午后时分，不少家庭带着把爷仔前来溪水。",
+        "dur": 3.287,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.868,
+      "end": 47.918,
+      "label": "mandarin",
+      "text": "巴耶寨们在大营的看护下追逐打闹，",
+      "score": 0.2055,
+      "signals": {
+        "mand_logprob": -0.0187,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.467,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "护/扶",
+        "text_free": "八爷姐们在答应的搀扶下追逐打闹。",
+        "dur": 3.05,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 12,
+      "start": 47.918,
+      "end": 50.439,
+      "label": "mandarin",
+      "text": "欢声笑语飞荡在河谷间。",
+      "score": 0.1807,
+      "signals": {
+        "mand_logprob": -0.12,
+        "acoustic_dev": 0.172,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "凡尘笑语，飞荡在河谷间。",
+        "dur": 2.521,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 13,
+      "start": 50.619,
+      "end": 53.017,
+      "label": "mandarin",
+      "text": "也有游客被清凉的河水吸引，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也有游客被清凉的河水吸引。",
+        "dur": 2.398,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 14,
+      "start": 53.017,
+      "end": 58.216,
+      "label": "mandarin",
+      "text": "从高处跃入水中，享受夏意里的刺激与畅快。",
+      "score": 0.0508,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从高处跃入水中，享受下一里的刺激与畅快。",
+        "dur": 5.199,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 15,
+      "start": 58.216,
+      "end": 62.14,
+      "label": "mandarin",
+      "text": "这里是一个非常好的游泳的地方，我们每天都会",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这里是一个非常好的游泳的地方。我们每天都会。",
+        "dur": 3.924,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.207,
+      "end": 64.692,
+      "label": "uncertain",
+      "text": "开车十几公里甚至几十公里，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -1.5928,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "开车十几公里，甚至几十公里。",
+        "dur": 2.485,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 17,
+      "start": 64.692,
+      "end": 69.88,
+      "label": "mandarin",
+      "text": "和小伙伴们相约来到这一个山清水秀，然后这个水的生态非常好，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "和小伙伴们相约来到这一个山清水秀，然后这个水的生态非常好。",
+        "dur": 5.188,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 18,
+      "start": 69.89,
+      "end": 72.562,
+      "label": "mandarin",
+      "text": "水里面还有鱼啊、虾呀、",
+      "score": 0.2688,
+      "signals": {
+        "mand_logprob": -0.349,
+        "acoustic_dev": 0.517,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "水里面还有鱼啊，虾呀。",
+        "dur": 2.672,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 19,
+      "start": 72.562,
+      "end": 76.012,
+      "label": "mandarin",
+      "text": "螃蟹啊，而且这里的水非常的干净清澈。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "螃蟹啊，而且这里的水非常的干净清澈。",
+        "dur": 3.45,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 20,
+      "start": 76.012,
+      "end": 82.969,
+      "label": "mandarin",
+      "text": "依托得天独厚的山水资源，长冲组逐渐成为了龙胜周边地区短途游的热门目的地。",
+      "score": 0.0015,
+      "signals": {
+        "mand_logprob": -0.0081,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "依托得天独厚的山水资源，长冲组逐渐成为了龙胜周边地区短途游的热门目的地。",
+        "dur": 6.957,
+        "n_char": 34
+      }
+    },
+    {
+      "id": 21,
+      "start": 83.294,
+      "end": 87.786,
+      "label": "mandarin",
+      "text": "每到夏季，这里都会吸引众多游客前来戏水纳凉，",
+      "score": 0.0457,
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "每到夏季，这个都会吸引众多游客前来吸水纳凉。",
+        "dur": 4.492,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 22,
+      "start": 87.971,
+      "end": 91.42,
+      "label": "mandarin",
+      "text": "为当地带来了一定的人气与活力。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为当地带来了一定的人气与活力。",
+        "dur": 3.449,
+        "n_char": 14
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

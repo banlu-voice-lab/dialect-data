@@ -1,0 +1,913 @@
+{
+  "src_audio": "平乐鹰嘴桃成熟上市 发出甜蜜邀请.wav",
+  "duration": 225.585,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.747,
+      "end": 5.147,
+      "label": "mandarin",
+      "text": "炎炎夏季正是我们桂林水果成熟上市的好季节，",
+      "score": 0.0025,
+      "signals": {
+        "mand_logprob": -0.04,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "炎炎夏季，正是我们桂林水果成熟上市的好季节。",
+        "dur": 4.4,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.298,
+      "end": 7.738,
+      "label": "mandarin",
+      "text": "下面我们就到各个县去走下子。",
+      "score": 0.1055,
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "下面我们就到果果县去走一下子。",
+        "dur": 2.44,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.009,
+      "end": 15.046,
+      "label": "mandarin",
+      "text": "进入到七月，平乐县平乐镇长滩村委杨居村的银嘴桃陆续成熟上市，",
+      "score": 0.0351,
+      "signals": {
+        "mand_logprob": -0.0726,
+        "acoustic_dev": 0.036,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "进入到七月，平乐县平乐镇长滩村委杨居村的银子桃陆续成熟上市。",
+        "dur": 7.037,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.301,
+      "end": 20.325,
+      "label": "guilin",
+      "text": "一个个青翠泛红的成熟银嘴桃是一二万老枝头，",
+      "score": 0.73,
+      "signals": {
+        "mand_logprob": -1.3742,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.55,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "银/英 成/陈",
+        "text_free": "一个个青翠翻红的陈树英，这套是压弯了指头。",
+        "dur": 5.024,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.552,
+      "end": 24.292,
+      "label": "mandarin",
+      "text": "仿佛在向大家发出甜蜜邀请。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "仿佛在向大家发出甜蜜邀请。",
+        "dur": 3.74,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.963,
+      "end": 30.889,
+      "label": "mandarin",
+      "text": "走进杨居村桃花道，就看到桃树郁郁葱葱，果实沉甸甸的挂满枝头。",
+      "score": 0.0847,
+      "signals": {
+        "mand_logprob": -0.0125,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.185,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "走进洋菊城桃花岛，就看到桃树郁郁葱葱，果实沉甸甸地挂满枝头。",
+        "dur": 5.926,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.201,
+      "end": 34.672,
+      "label": "guilin",
+      "text": "翠绿的片片银嘴桃形状独特，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -3.0125,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.583,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "车路的一片间，因这套形状独特。",
+        "dur": 3.471,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.907,
+      "end": 41.42,
+      "label": "mandarin",
+      "text": "犹如银嘴般尖锐，表皮泛着淡淡的红晕，散发出诱人的甜香。",
+      "score": 0.0762,
+      "signals": {
+        "mand_logprob": -0.006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "犹如银泽般尖锐，表皮泛着淡淡的红晕，散发着幽莹的甜香。",
+        "dur": 6.513,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.913,
+      "end": 46.442,
+      "label": "mandarin",
+      "text": "银嘴桃的成熟采摘期大概持续三十到四十天，",
+      "score": 0.0451,
+      "signals": {
+        "mand_logprob": -0.077,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "银蔗桃的成熟采摘期大概持续三十到四十天。",
+        "dur": 4.529,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 10,
+      "start": 46.677,
+      "end": 49.441,
+      "label": "uncertain",
+      "text": "这一段时间里面果农们忙碌不已，",
+      "score": 0.5339,
+      "signals": {
+        "mand_logprob": -1.0394,
+        "acoustic_dev": 0.964,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这一段时间里面，果农们忙碌不一。",
+        "dur": 2.764,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 49.609,
+      "end": 56.064,
+      "label": "mandarin",
+      "text": "穿梭在桃树间，他们辛勤付出不仅为客商和游客提供了美味的选择，",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.0262,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "穿梭在桃树间，唐李辛勤付出，不仅为客商和游客提供了美味的选择。",
+        "dur": 6.455,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 12,
+      "start": 56.313,
+      "end": 59.323,
+      "label": "mandarin",
+      "text": "也为当地村民带来了可观的收益。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也为当地村民带来了可观的收益。",
+        "dur": 3.01,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 13,
+      "start": 59.499,
+      "end": 62.277,
+      "label": "mandarin",
+      "text": "当地果农黄立飞全家上阵，",
+      "score": 0.2002,
+      "signals": {
+        "mand_logprob": -0.1861,
+        "acoustic_dev": 0.145,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "当地鼓楼，方立飞全家上阵。",
+        "dur": 2.778,
+        "n_char": 11,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.47,
+      "end": 65.22,
+      "label": "mandarin",
+      "text": "每天采摘上千斤银嘴桃。",
+      "score": 0.16,
+      "signals": {
+        "mand_logprob": -0.0269,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "每天踩着上千斤银贼套。",
+        "dur": 2.75,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 15,
+      "start": 65.22,
+      "end": 68.567,
+      "label": "mandarin",
+      "text": "我家种了八十多亩银嘴桃，",
+      "score": 0.0831,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我家种了八十多亩樱桃。",
+        "dur": 3.347,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 16,
+      "start": 69.305,
+      "end": 73.96,
+      "label": "mandarin",
+      "text": "亩产量两千斤左右，今年品质不错，",
+      "score": 0.098,
+      "signals": {
+        "mand_logprob": -0.0174,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "毛采在两千斤左右，今年品质不错。",
+        "dur": 4.655,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 17,
+      "start": 74.197,
+      "end": 76.657,
+      "label": "mandarin",
+      "text": "一斤能卖到十元以上，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0074,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一斤能卖到十元以上。",
+        "dur": 2.46,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 18,
+      "start": 77.15,
+      "end": 79.861,
+      "label": "guilin",
+      "text": "每天大赚卖出一千斤，",
+      "score": 0.5708,
+      "signals": {
+        "mand_logprob": -1.7954,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "每天大看卖出一千斤。",
+        "dur": 2.711,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.55,
+      "end": 83.977,
+      "label": "mandarin",
+      "text": "网络销售也很好，每天发货",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "网络销售也很好，每天发货。",
+        "dur": 3.427,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 20,
+      "start": 84.096,
+      "end": 89.383,
+      "label": "mandarin",
+      "text": "三十斤以上，预计今年收入可达一百六十万。",
+      "score": 0.0254,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "三十届以上，预计今年收入可达一百六十万。",
+        "dur": 5.287,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 21,
+      "start": 89.562,
+      "end": 96.971,
+      "label": "mandarin",
+      "text": "银嘴桃果身较大，因外形尾端有一个像鹰嘴的尖尖，所以得名银嘴桃。",
+      "score": 0.1278,
+      "signals": {
+        "mand_logprob": -0.0326,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "鹰/银",
+        "text_free": "银贼桃果身较大，因外形尾端有一个像银贼的尖尖，所以得名银贼桃。",
+        "dur": 7.409,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 22,
+      "start": 97.28,
+      "end": 100.797,
+      "label": "mandarin",
+      "text": "相比普通的桃子品种，银嘴桃比较娇贵，",
+      "score": 0.0857,
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "相比普通的套子品种，银子套比较娇贵。",
+        "dur": 3.517,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 23,
+      "start": 101.011,
+      "end": 104.442,
+      "label": "mandarin",
+      "text": "对生长环境、土壤、土质要求非常高，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0149,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "对生长环境、土壤、土质要求非常高。",
+        "dur": 3.431,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 24,
+      "start": 104.706,
+      "end": 110.108,
+      "label": "mandarin",
+      "text": "因此呢，比一般的桃子品种口感更加的青脆甜，",
+      "score": 0.0241,
+      "signals": {
+        "mand_logprob": -0.0315,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "因此呢，比一般的桃子品种口感更加的清脆甜。",
+        "dur": 5.402,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 25,
+      "start": 110.284,
+      "end": 116.572,
+      "label": "mandarin",
+      "text": "而深受消费者的青睐。再加上杨居村优越的生态种植环境，",
+      "score": 0.0909,
+      "signals": {
+        "mand_logprob": -0.1407,
+        "acoustic_dev": 0.102,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "而深受消费者的青睐。再加上洋菊村优越的生态种植环境。",
+        "dur": 6.288,
+        "n_char": 24,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 26,
+      "start": 116.572,
+      "end": 121.996,
+      "label": "mandarin",
+      "text": "口感更佳，该村的银嘴桃一上市就吸引了众多的订单，",
+      "score": 0.2159,
+      "signals": {
+        "mand_logprob": -0.2176,
+        "acoustic_dev": 0.175,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "口感更加。该产品因这套一上市，就吸引了众多的订单。",
+        "dur": 5.424,
+        "n_char": 22,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 27,
+      "start": 122.218,
+      "end": 128.326,
+      "label": "mandarin",
+      "text": "销售是供不应求，为当地村民开辟了增收致富的新道路。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "销售是供不应求，为当地村民开辟了增收致富的新道路。",
+        "dur": 6.108,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 28,
+      "start": 128.778,
+      "end": 134.461,
+      "label": "mandarin",
+      "text": "另外，杨居村除了可以体验亲自采摘品尝银嘴桃的乐趣之外，",
+      "score": 0.3639,
+      "signals": {
+        "mand_logprob": -0.581,
+        "acoustic_dev": 0.524,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "另外，杨菊称：“除了可以体验亲子采摘、品尝银蔗套的乐趣之外。”",
+        "dur": 5.683,
+        "n_char": 25,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 29,
+      "start": 134.729,
+      "end": 141.872,
+      "label": "mandarin",
+      "text": "依山傍水的生态环境和网红打卡点也吸引大量游客前来观赏游玩。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "依山傍水的生态环境，和网红打卡点，也吸引大量游客前来观赏游玩。",
+        "dur": 7.143,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 30,
+      "start": 141.872,
+      "end": 148.006,
+      "label": "mandarin",
+      "text": "我们今天可以从广州开车过来，摘一些桃子送给亲戚朋友，",
+      "score": 0.0571,
+      "signals": {
+        "mand_logprob": -0.01,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们今天特意从广州开车过来，摘了一些桃子送给亲戚朋友。",
+        "dur": 6.134,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 31,
+      "start": 148.248,
+      "end": 150.813,
+      "label": "guilin",
+      "text": "尝一下特别甜、特别脆，",
+      "score": 0.5708,
+      "signals": {
+        "mand_logprob": -3.4063,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "尝了一下，特别甜，特别脆。",
+        "dur": 2.565,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 32,
+      "start": 151.056,
+      "end": 154.291,
+      "label": "mandarin",
+      "text": "这里的风景也很好，适合打卡。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这里的风景也很好，适合打卡。",
+        "dur": 3.235,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 33,
+      "start": 154.306,
+      "end": 162.552,
+      "label": "mandarin",
+      "text": "目前，当地采取合作社加休闲旅游加民族文化加乡村旅游的农旅游化产业发展模式，",
+      "score": 0.1664,
+      "signals": {
+        "mand_logprob": -0.2636,
+        "acoustic_dev": 0.219,
+        "seg_cer": 0.114,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "目前，当地社区合作社加休闲旅游加民族文化加乡村旅游的农旅融合产业发展模式。",
+        "dur": 8.246,
+        "n_char": 35,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 34,
+      "start": 162.751,
+      "end": 167.215,
+      "label": "mandarin",
+      "text": "整合土地三百余亩，抱团发展银嘴桃特色产业。",
+      "score": 0.1258,
+      "signals": {
+        "mand_logprob": -0.1423,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "整合土地三百余亩，抱团发展，因这套特色产业。",
+        "dur": 4.464,
+        "n_char": 19,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 35,
+      "start": 167.52,
+      "end": 172.933,
+      "label": "mandarin",
+      "text": "线下通过自助采摘的方式让游客体验自采自摘的乐趣，",
+      "score": 0.3232,
+      "signals": {
+        "mand_logprob": -0.3833,
+        "acoustic_dev": 0.334,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "助/租",
+        "text_free": "线下通过自租车折的方式，让游客体验自车自折的乐趣。",
+        "dur": 5.413,
+        "n_char": 23,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 36,
+      "start": 173.2,
+      "end": 175.419,
+      "label": "mandarin",
+      "text": "线上积极抓住销售商机。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "线上积极抓住销售商机。",
+        "dur": 2.219,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 37,
+      "start": 175.574,
+      "end": 178.571,
+      "label": "mandarin",
+      "text": "通过电商平台、直播带货等方式，",
+      "score": 0.162,
+      "signals": {
+        "mand_logprob": -0.3595,
+        "acoustic_dev": 0.312,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过电商平台、直播带货等方式。",
+        "dur": 2.997,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 38,
+      "start": 178.571,
+      "end": 182.714,
+      "label": "guilin",
+      "text": "将银嘴桃和其深加工产品销售到全国各地，",
+      "score": 0.6216,
+      "signals": {
+        "mand_logprob": -1.2269,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "将因这套或其深加工产品销售到全国各地。",
+        "dur": 4.143,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 39,
+      "start": 182.933,
+      "end": 186.106,
+      "label": "mandarin",
+      "text": "进一步打响桃花岛银嘴桃品牌。",
+      "score": 0.0703,
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "进一步打响“桃花岛”银贼套品牌。",
+        "dur": 3.173,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 40,
+      "start": 186.316,
+      "end": 189.309,
+      "label": "mandarin",
+      "text": "近年来，平罗县立足生态优势，",
+      "score": 0.0614,
+      "signals": {
+        "mand_logprob": -0.0815,
+        "acoustic_dev": 0.045,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近年来，平乐县立足生态优势。",
+        "dur": 2.993,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 41,
+      "start": 189.309,
+      "end": 192.44,
+      "label": "mandarin",
+      "text": "以富民为导向，以产业为核心，",
+      "score": 0.0377,
+      "signals": {
+        "mand_logprob": -0.1103,
+        "acoustic_dev": 0.072,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以富民为导向，以产业为核心。",
+        "dur": 3.131,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 42,
+      "start": 192.76,
+      "end": 196.844,
+      "label": "mandarin",
+      "text": "大力实施一镇一业、一村一品发展模式，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0349,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "大力实施一镇一业、一村一品发展模式。",
+        "dur": 4.084,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 43,
+      "start": 196.957,
+      "end": 199.856,
+      "label": "mandarin",
+      "text": "推动特色水果产业发展壮大。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "推动特色水果产业发展壮大。",
+        "dur": 2.899,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 44,
+      "start": 200.147,
+      "end": 203.434,
+      "label": "mandarin",
+      "text": "全县十个乡镇农业发展各具特色，",
+      "score": 0.2335,
+      "signals": {
+        "mand_logprob": -0.237,
+        "acoustic_dev": 0.194,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "十/四",
+        "text_free": "全县四个乡镇农业发展各具特色。",
+        "dur": 3.287,
+        "n_char": 14,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 45,
+      "start": 203.666,
+      "end": 207.581,
+      "label": "mandarin",
+      "text": "特色产业不断增点扩面、提质升级，",
+      "score": 0.0006,
+      "signals": {
+        "mand_logprob": -0.0361,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "特色产业不断增点扩面提质升级。",
+        "dur": 3.915,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 46,
+      "start": 207.864,
+      "end": 213.256,
+      "label": "mandarin",
+      "text": "打造了一批农文旅融合发展的优势特色农业产业集群，",
+      "score": 0.1734,
+      "signals": {
+        "mand_logprob": -0.1422,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "农/龙",
+        "text_free": "打造了一批龙文旅融合发展的优势特色农业产业集群。",
+        "dur": 5.392,
+        "n_char": 23,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 47,
+      "start": 213.577,
+      "end": 218.581,
+      "label": "mandarin",
+      "text": "以特色产业的发展辐射带动乡村振兴、乡村旅游业的发展，",
+      "score": 0.2445,
+      "signals": {
+        "mand_logprob": -0.4485,
+        "acoustic_dev": 0.397,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以特色产业的发展负责带动乡村振兴，乡村旅游业的发展。",
+        "dur": 5.004,
+        "n_char": 24,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 48,
+      "start": 218.581,
+      "end": 221.022,
+      "label": "mandarin",
+      "text": "不断巩固脱贫攻坚成果，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不断巩固脱贫攻坚成果。",
+        "dur": 2.441,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 49,
+      "start": 221.022,
+      "end": 225.585,
+      "label": "mandarin",
+      "text": "持续促进村集体经济发展和农户增收致富。",
+      "score": 0.3047,
+      "signals": {
+        "mand_logprob": -0.2907,
+        "acoustic_dev": 0.246,
+        "seg_cer": 0.278,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "进/精",
+        "text_free": "吃素住精，成集体经济发展和农户增收致富。",
+        "dur": 4.563,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

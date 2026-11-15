@@ -1,0 +1,412 @@
+{
+  "src_audio": "灵川大圩葡萄迎丰收 游客采摘乐.wav",
+  "duration": 103.111,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.746,
+      "end": 3.513,
+      "label": "mandarin",
+      "text": "接着来关注一下我们本地的水果。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "接着来关注一下我们本地的水果。",
+        "dur": 2.767,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.513,
+      "end": 10.073,
+      "label": "mandarin",
+      "text": "这一段时间，临川县大墟镇青岸村的上堵里村的两百多亩葡萄迎来了丰收，",
+      "score": 0.3771,
+      "signals": {
+        "mand_logprob": -0.1658,
+        "acoustic_dev": 0.612,
+        "seg_cer": 0.129,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这一段时间，临川县大圩镇青安村委上渡里村的两百多亩葡萄迎来了丰收。",
+        "dur": 6.56,
+        "n_char": 31,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.255,
+      "end": 13.057,
+      "label": "mandarin",
+      "text": "吸引了不少游客前来采摘。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "吸引了不少游客前来采摘。",
+        "dur": 2.802,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.765,
+      "end": 21.426,
+      "label": "mandarin",
+      "text": "走进果园，一串串阳光玫瑰垂挂在藤蔓间，翠绿的果色与叶片相映，透着满满的生机。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "走进果园，一串串阳光玫瑰垂挂在藤蔓间，翠绿的果色与叶片相映，透着满满的生机。",
+        "dur": 7.661,
+        "n_char": 34
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.731,
+      "end": 24.283,
+      "label": "guilin",
+      "text": "旁边的美人指葡萄也不甘示弱，",
+      "score": 0.6903,
+      "signals": {
+        "mand_logprob": -1.589,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "指/紫",
+        "text_free": "旁边的美英紫葡萄也不甘示弱。",
+        "dur": 2.552,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.48,
+      "end": 28.924,
+      "label": "mandarin",
+      "text": "果粒细长饱满的美人指顶端血红如胭脂，",
+      "score": 0.2891,
+      "signals": {
+        "mand_logprob": -0.0701,
+        "acoustic_dev": 0.229,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "指/子",
+        "text_free": "果粒细长饱满，的梅银子顶端，鲜红如胭脂。",
+        "dur": 4.444,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.121,
+      "end": 31.368,
+      "label": "guilin",
+      "text": "底部又裹着一层银白。",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -0.278,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.778,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "第一步，有锅的一层银箔。",
+        "dur": 2.247,
+        "n_char": 9,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.637,
+      "end": 37.73,
+      "label": "mandarin",
+      "text": "风一吹，果串轻轻晃动，仿佛美人指间在藤蔓间灵动起舞。",
+      "score": 0.3597,
+      "signals": {
+        "mand_logprob": -0.1284,
+        "acoustic_dev": 0.462,
+        "seg_cer": 0.261,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "风一吹，鼓船轻轻晃动，仿佛每影之间在藤蔓间灵动轻舞。",
+        "dur": 6.093,
+        "n_char": 23,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.959,
+      "end": 43.093,
+      "label": "mandarin",
+      "text": "不少游客慕名前来，大家手提过来，一边欣赏着园内的美景，",
+      "score": 0.0381,
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不少游客慕名前来，大家手提锅篮，一边欣赏着园内的美景。",
+        "dur": 5.134,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 10,
+      "start": 43.208,
+      "end": 47.705,
+      "label": "mandarin",
+      "text": "一边捡下一串串葡萄，感受田园采摘乐趣，",
+      "score": 0.0458,
+      "signals": {
+        "mand_logprob": -0.0348,
+        "acoustic_dev": 0.088,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一边捡下一串串葡萄，感受田园采摘乐趣。",
+        "dur": 4.497,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.705,
+      "end": 55.613,
+      "label": "mandarin",
+      "text": "欢声笑语不断。我是朋友介绍过来的，因为我们家朋友家就在这附近哈，有人说这边葡萄品种也很多，",
+      "score": 0.1197,
+      "signals": {
+        "mand_logprob": -0.007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.171,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "声/身",
+        "text_free": "翻身效益不断。我是朋友介绍过来的，因为我们家嗯朋友家就在这附近哈。然后说这边葡萄品种也很多。",
+        "dur": 7.908,
+        "n_char": 41
+      }
+    },
+    {
+      "id": 12,
+      "start": 55.761,
+      "end": 61.193,
+      "label": "mandarin",
+      "text": "也挺好吃的，带小朋友出来走走啊，看看风景，采摘，体验一下这种乐趣嘛。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.01,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也挺好吃的，带小朋友出来走走啊，看看风景，采摘，体验一下这种乐趣嘛。",
+        "dur": 5.432,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 13,
+      "start": 61.405,
+      "end": 64.249,
+      "label": "mandarin",
+      "text": "然后到了之后，哎，发现这边风景还蛮好的，",
+      "score": 0.04,
+      "signals": {
+        "mand_logprob": -0.0061,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "蛮好",
+        "text_free": "然后到了之后，哎，发现这边风景还蛮好的。",
+        "dur": 2.844,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 14,
+      "start": 64.487,
+      "end": 67.55,
+      "label": "mandarin",
+      "text": "嗯，葡萄品种确实挺多，也非常甜。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "嗯，葡萄品种确实挺多，也非常甜。",
+        "dur": 3.063,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 15,
+      "start": 67.733,
+      "end": 74.191,
+      "label": "mandarin",
+      "text": "在果园一旁，村民们正忙着对刚采摘下来的文颗提子进行分拣装车。",
+      "score": 0.0199,
+      "signals": {
+        "mand_logprob": -0.0146,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.036,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在果园一旁，村民们正忙着对刚采摘下来的文科提子进行分拣装车。",
+        "dur": 6.458,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 16,
+      "start": 74.488,
+      "end": 77.765,
+      "label": "mandarin",
+      "text": "这一批新鲜提子将及时发往外地，",
+      "score": 0.1813,
+      "signals": {
+        "mand_logprob": -0.0074,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "子/制",
+        "text_free": "这一批新选体制将及时发往外地。",
+        "dur": 3.277,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 17,
+      "start": 77.877,
+      "end": 82.006,
+      "label": "mandarin",
+      "text": "让更多消费者品尝到来自大墟的优质果香，",
+      "score": 0.0423,
+      "signals": {
+        "mand_logprob": -0.0209,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让更多消费者品尝到来自大徐的优质果香。",
+        "dur": 4.129,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 18,
+      "start": 82.197,
+      "end": 85.883,
+      "label": "mandarin",
+      "text": "也为当地村民带来了可观的经济收入。",
+      "score": 0.0181,
+      "signals": {
+        "mand_logprob": -0.0215,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也为当地村民带来了可观的经济收入。",
+        "dur": 3.686,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 19,
+      "start": 85.893,
+      "end": 90.719,
+      "label": "mandarin",
+      "text": "我种有十几亩葡萄，每亩的产量话有两千多斤一亩，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我种有十几亩葡萄，每亩的产量话有两千多斤一亩。",
+        "dur": 4.826,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 20,
+      "start": 90.829,
+      "end": 95.319,
+      "label": "mandarin",
+      "text": "啊，平均售价的话基本上在六块到七块左右。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "啊，平均售价的话，基本上在六块到七块左右。",
+        "dur": 4.49,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.382,
+      "end": 99.842,
+      "label": "mandarin",
+      "text": "啊，周末的话有好多那个游客自己到田里面采摘，",
+      "score": 0.1231,
+      "signals": {
+        "mand_logprob": -0.061,
+        "acoustic_dev": 0.193,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，周末的话，有好多那个游客自己到田里面采摘。",
+        "dur": 4.46,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 22,
+      "start": 100.03,
+      "end": 103.111,
+      "label": "mandarin",
+      "text": "然后还有我们也有在网上有销售。",
+      "score": 0.1188,
+      "signals": {
+        "mand_logprob": -0.07,
+        "acoustic_dev": 0.229,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后还有，我们也有在网上有销售。",
+        "dur": 3.081,
+        "n_char": 14
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

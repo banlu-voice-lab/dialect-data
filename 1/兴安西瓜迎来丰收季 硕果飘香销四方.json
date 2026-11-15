@@ -1,0 +1,510 @@
+{
+  "src_audio": "兴安西瓜迎来丰收季 硕果飘香销四方.wav",
+  "duration": 116.017,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.451,
+      "label": "mandarin",
+      "text": "这段时间，新安县各地西瓜种植基地里面可以讲是硕果累累，",
+      "score": 0.1366,
+      "signals": {
+        "mand_logprob": -0.0473,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "新/兴",
+        "text_free": "这段时间，兴安县各地西瓜种植基地里面啊，可以讲是硕果累累。",
+        "dur": 5.451,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.599,
+      "end": 9.576,
+      "label": "mandarin",
+      "text": "一个个饱满圆润的西瓜铺满田间，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一个个饱满圆润的西瓜铺满田间。",
+        "dur": 3.977,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.576,
+      "end": 11.867,
+      "label": "mandarin",
+      "text": "处处洋溢着丰收的喜悦。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "处处洋溢着丰收的喜悦。",
+        "dur": 2.291,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.099,
+      "end": 19.767,
+      "label": "mandarin",
+      "text": "经过二十多年的发展，新安县盖首镇新田村委的办公楼前已经自发地形成了一个西瓜销售市场。",
+      "score": 0.1797,
+      "signals": {
+        "mand_logprob": -0.1062,
+        "acoustic_dev": 0.115,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "新/兴",
+        "text_free": "经过二十多年的发展，兴安县街首镇新天村美丽的办公楼前，已经自发地形成了一个西瓜销售市场。",
+        "dur": 7.668,
+        "n_char": 40
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.082,
+      "end": 25.473,
+      "label": "guilin",
+      "text": "新了周边县区的瓜农们带着自己屋的种植的西瓜前来售卖。",
+      "score": 0.7165,
+      "signals": {
+        "mand_logprob": -0.6231,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "新/兴",
+        "lexicon": "屋里",
+        "text_free": "兴了，周边小区的瓜农们带着自己屋里又种植的西瓜前来售卖。",
+        "dur": 5.391,
+        "n_char": 25,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.473,
+      "end": 28.702,
+      "label": "mandarin",
+      "text": "雨水好，天气好，西瓜的话丰收的比较好。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "雨水好，天气好，西瓜的话，丰收的比较好。",
+        "dur": 3.229,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.702,
+      "end": 31.111,
+      "label": "mandarin",
+      "text": "卖的非常好，我的家的西瓜卖完了，",
+      "score": 0.0631,
+      "signals": {
+        "mand_logprob": -0.0772,
+        "acoustic_dev": 0.059,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "卖得非常好。我的家的西瓜卖完了。",
+        "dur": 2.409,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.141,
+      "end": 33.586,
+      "label": "mandarin",
+      "text": "一天收两万多斤。",
+      "score": 0.0653,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一天修两万多斤。",
+        "dur": 2.445,
+        "n_char": 7
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.924,
+      "end": 37.48,
+      "label": "mandarin",
+      "text": "今天是第一次了，主要销往广东，",
+      "score": 0.0703,
+      "signals": {
+        "mand_logprob": -0.0236,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天是第七车了，主要销往广东。",
+        "dur": 3.556,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 10,
+      "start": 38.2,
+      "end": 45.937,
+      "label": "mandarin",
+      "text": "品质是很好的，甜王嘛。为保证市场秩序，盖首镇政府协同县城管、交警等部门主动靠前服务，",
+      "score": 0.1058,
+      "signals": {
+        "mand_logprob": -0.1268,
+        "acoustic_dev": 0.156,
+        "seg_cer": 0.054,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "品质是很好的天王嘛。为保证市场秩序，盖守镇政府协同县城管、交警等部门，主动靠前服务。",
+        "dur": 7.737,
+        "n_char": 37,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 11,
+      "start": 46.125,
+      "end": 48.51,
+      "label": "guilin",
+      "text": "确保售卖过程井然有序。",
+      "score": 0.7113,
+      "signals": {
+        "mand_logprob": -1.098,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.8,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "程/层",
+        "text_free": "戳包受美国层经验，有序。",
+        "dur": 2.385,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 12,
+      "start": 48.51,
+      "end": 51.287,
+      "label": "mandarin",
+      "text": "我们这个西瓜啊，它每天上市的时间很早，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们这个西瓜啊，它每天上市的时间很早。",
+        "dur": 2.777,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.553,
+      "end": 54.768,
+      "label": "mandarin",
+      "text": "四点半基本上都开始摆到这里来了。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "四点半，基本上都开始摆到这里来了。",
+        "dur": 3.215,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 14,
+      "start": 54.89,
+      "end": 57.501,
+      "label": "uncertain",
+      "text": "我们镇里面、镇党委、镇政府，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -0.7276,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们镇里面，镇党委、镇政府。",
+        "dur": 2.611,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 15,
+      "start": 57.542,
+      "end": 60.989,
+      "label": "uncertain",
+      "text": "然后就专门派我带了一个队伍，",
+      "score": 0.5101,
+      "signals": {
+        "mand_logprob": -0.5126,
+        "acoustic_dev": 0.913,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后就专门拍我，带了一个队伍。",
+        "dur": 3.447,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 16,
+      "start": 60.989,
+      "end": 64.102,
+      "label": "mandarin",
+      "text": "就是城管，呃，派出所、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0255,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就是城管，呃，派出所。",
+        "dur": 3.113,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 17,
+      "start": 64.102,
+      "end": 67.379,
+      "label": "mandarin",
+      "text": "交警组织了一个队伍在这里每天维护秩序。",
+      "score": 0.0816,
+      "signals": {
+        "mand_logprob": -0.1272,
+        "acoustic_dev": 0.157,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "交警组织了一个队伍，在这里每天维护秩序。",
+        "dur": 3.277,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 18,
+      "start": 67.603,
+      "end": 73.022,
+      "label": "mandarin",
+      "text": "然后西瓜市场这里存在将近二十年了嘛，谁都知道这里有个西瓜市场，",
+      "score": 0.0158,
+      "signals": {
+        "mand_logprob": -0.037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后，西瓜市场啊，这里存在将近二十年了嘛。谁都知道这里有个西瓜市场。",
+        "dur": 5.419,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 19,
+      "start": 73.311,
+      "end": 77.368,
+      "label": "mandarin",
+      "text": "所以啊，泉州的、思源呢，西瓜都都会过来。",
+      "score": 0.0286,
+      "signals": {
+        "mand_logprob": -0.0321,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "所以啊，泉州的资源呢，西瓜都都会过来。",
+        "dur": 4.057,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 20,
+      "start": 77.46,
+      "end": 81.636,
+      "label": "mandarin",
+      "text": "它每天的总量大概是十万到二十五万斤左右。",
+      "score": 0.0481,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "他每天的走量大概是十万到二十五万斤左右。",
+        "dur": 4.176,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 21,
+      "start": 81.94,
+      "end": 86.663,
+      "label": "mandarin",
+      "text": "据了解，今年新安县西瓜种植面积达到一点四三万亩，",
+      "score": 0.2402,
+      "signals": {
+        "mand_logprob": -0.144,
+        "acoustic_dev": 0.19,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "新/兴",
+        "text_free": "根据了解，今年兴安县西瓜种植面积达到一点四三万亩。",
+        "dur": 4.723,
+        "n_char": 22,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 22,
+      "start": 86.86,
+      "end": 90.866,
+      "label": "mandarin",
+      "text": "主要集中在新安镇、盖首镇、香梨镇、盐官镇。",
+      "score": 0.3585,
+      "signals": {
+        "mand_logprob": -0.2319,
+        "acoustic_dev": 0.362,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "新/兴",
+        "text_free": "主要集中在兴安镇、盖守镇、乡里镇、盐官镇。",
+        "dur": 4.006,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 23,
+      "start": 91.21,
+      "end": 96.168,
+      "label": "mandarin",
+      "text": "新安县西瓜品种丰富，有甜王、新吉玉、美都、丰龙等等。",
+      "score": 0.2004,
+      "signals": {
+        "mand_logprob": -0.103,
+        "acoustic_dev": 0.109,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "新/兴",
+        "text_free": "兴安县西瓜品种丰富，有天王、新吉玉、美都、丰龙等等。",
+        "dur": 4.958,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 24,
+      "start": 96.549,
+      "end": 99.606,
+      "label": "mandarin",
+      "text": "得益于适宜的种植环境和科学的管理，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "得益于适宜的种植环境和科学的管理。",
+        "dur": 3.057,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 25,
+      "start": 99.784,
+      "end": 103.864,
+      "label": "mandarin",
+      "text": "今年新安县西瓜总产量大概四点七万吨，",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.0794,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年新安县西瓜总产量大概四点七万吨。",
+        "dur": 4.08,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 26,
+      "start": 104.093,
+      "end": 107.035,
+      "label": "mandarin",
+      "text": "平均亩产大概三点二八吨，",
+      "score": 0.2194,
+      "signals": {
+        "mand_logprob": -0.0829,
+        "acoustic_dev": 0.07,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "产/餐",
+        "text_free": "平均每餐大概三点二八吨。",
+        "dur": 2.942,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 27,
+      "start": 107.035,
+      "end": 116.017,
+      "label": "mandarin",
+      "text": "丰收成果显著。凭借良好的品质和畅通的销售渠道，丰收的西瓜正通过各种渠道走向全国各地。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "丰收成果显著。凭借良好的品质和畅通的销售渠道，丰收的西瓜正通过各种渠道走向全国各地。",
+        "dur": 8.982,
+        "n_char": 39
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

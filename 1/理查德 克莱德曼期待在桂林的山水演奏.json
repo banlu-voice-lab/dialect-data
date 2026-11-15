@@ -1,0 +1,823 @@
+{
+  "src_audio": "理查德 克莱德曼期待在桂林的山水演奏.wav",
+  "duration": 200.182,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.2,
+      "label": "mandarin",
+      "text": "前几天著名的钢琴家理查德克莱德曼的《爱永恒》钢琴音乐会，下期巡演桂林站，音乐",
+      "score": 0.1019,
+      "signals": {
+        "mand_logprob": -0.031,
+        "acoustic_dev": 0.118,
+        "seg_cer": 0.088,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "前几天著名的钢琴家理查德·克莱德曼的《爱永恒》钢琴音乐飞，下期巡演桂林站。",
+        "dur": 8.2,
+        "n_char": 34
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.76,
+      "end": 12.42,
+      "label": "mandarin",
+      "text": "上演了。这位大明星啊，还接受了我们的采访，",
+      "score": 0.021,
+      "signals": {
+        "mand_logprob": -0.0116,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "上演了。这位大明星啊，还接受了我们的采访。",
+        "dur": 3.66,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.42,
+      "end": 17.423,
+      "label": "uncertain",
+      "text": "我们一起去看一下。理查德克莱德曼是中闻名的老朋友。",
+      "score": 0.4733,
+      "signals": {
+        "mand_logprob": -0.2099,
+        "acoustic_dev": 0.834,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们一起去看一下。理查德·克莱德曼是中国一名的老朋友。",
+        "dur": 5.003,
+        "n_char": 23,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.423,
+      "end": 21.155,
+      "label": "mandarin",
+      "text": "早在1922年，他便来到中国举办演奏会，",
+      "score": 0.1383,
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "早在一九九二年，他便来到中国举办演奏会。",
+        "dur": 3.732,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.335,
+      "end": 26.12,
+      "label": "mandarin",
+      "text": "首演的成功让理查德克莱德曼这个名字家喻户晓。",
+      "score": 0.0149,
+      "signals": {
+        "mand_logprob": -0.0086,
+        "acoustic_dev": 0.029,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "首演的成功让理查德·克莱德曼这个名字家喻户晓。",
+        "dur": 4.785,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.482,
+      "end": 30.927,
+      "label": "mandarin",
+      "text": "在此后的三十多年里面，他走遍了中国的好多地方，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在此后的三十多年里面，他走遍了中国的好多地方。",
+        "dur": 4.445,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.123,
+      "end": 34.421,
+      "label": "mandarin",
+      "text": "影响了一代又一代中国的音乐爱好者。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "影响了一代又一代中国的音乐爱好者。",
+        "dur": 3.298,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.854,
+      "end": 40.125,
+      "label": "mandarin",
+      "text": "讲起桂林之行，理查德克莱德曼流露出的是由衷的喜悦。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "讲起桂林之行，理查德·克莱德曼流露出的是由衷的喜悦。",
+        "dur": 5.271,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 9,
+      "start": 40.981,
+      "end": 44.312,
+      "label": "mandarin",
+      "text": "桂林的观众非常热情，也非常有礼貌。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂林的观众非常热情，也非常有礼貌。",
+        "dur": 3.331,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.616,
+      "end": 47.022,
+      "label": "mandarin",
+      "text": "演出中有一些特别安静、",
+      "score": 0.0074,
+      "signals": {
+        "mand_logprob": -0.005,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "演出中有一些特别安静。",
+        "dur": 2.406,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.022,
+      "end": 51.742,
+      "label": "mandarin",
+      "text": "宁静的时刻，我相信大家是在用心感受我的旋律，",
+      "score": 0.0015,
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "宁静的时刻，我相信大家是在用心感受我的旋律。",
+        "dur": 4.72,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 12,
+      "start": 51.782,
+      "end": 56.911,
+      "label": "mandarin",
+      "text": "享受那种与音乐与彼此心灵相通的美好时光。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "享受那种与音乐、与彼此心灵相通的美好时光。",
+        "dur": 5.129,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.284,
+      "end": 62.882,
+      "label": "mandarin",
+      "text": "巡演是对自我艺术沉淀的展示，也是收集灵感与人生体悟、",
+      "score": 0.0448,
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "寻眼是对自我艺术沉淀的展示，也是收集灵感与人生体悟。",
+        "dur": 5.598,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 14,
+      "start": 63.016,
+      "end": 65.308,
+      "label": "mandarin",
+      "text": "丰富自己创作的旅程。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "丰富自己创作的旅程。",
+        "dur": 2.292,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 15,
+      "start": 65.661,
+      "end": 69.34,
+      "label": "uncertain",
+      "text": "桂林的美丽、演出的经历、观众的反馈，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -0.3029,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂林的美丽，演出的经历，观众的反馈。",
+        "dur": 3.679,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 16,
+      "start": 69.34,
+      "end": 73.458,
+      "label": "mandarin",
+      "text": "这些都给理查德克莱德曼带来了难以忘怀的体验。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这些都给理查德·克莱德曼带来了难以忘怀的体验。",
+        "dur": 4.118,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 17,
+      "start": 73.93,
+      "end": 80.513,
+      "label": "guilin",
+      "text": "当来到桂林，通过桂林艺术节等各种形式吸引世界各地艺术家前来表演交流，",
+      "score": 0.5914,
+      "signals": {
+        "mand_logprob": -0.7216,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.156,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "当两个到桂林，通过桂林艺术节等各种形式吸引全世界的艺术家前来表演交流。",
+        "dur": 6.583,
+        "n_char": 32,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 18,
+      "start": 80.683,
+      "end": 85.166,
+      "label": "mandarin",
+      "text": "展示自己的文化魅力，丰富自己的文化内涵的时候，",
+      "score": 0.0354,
+      "signals": {
+        "mand_logprob": -0.0185,
+        "acoustic_dev": 0.068,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "展示自己的文化魅力，丰富自己的文化内涵的时候。",
+        "dur": 4.483,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 19,
+      "start": 85.434,
+      "end": 90.205,
+      "label": "mandarin",
+      "text": "作为一名艺术家，理查德克莱德曼表达了由衷的喜悦。",
+      "score": 0.0008,
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "作为一名艺术家，理查德·克莱德曼表达了由衷的喜悦。",
+        "dur": 4.771,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 20,
+      "start": 91.201,
+      "end": 96.928,
+      "label": "mandarin",
+      "text": "我想谦虚的说，我所努力的是通过音乐传递我的情感，",
+      "score": 0.0508,
+      "signals": {
+        "mand_logprob": -0.0159,
+        "acoustic_dev": 0.058,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我想谦虚地说，我所努力的是通过音乐传递我的情感。",
+        "dur": 5.727,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 21,
+      "start": 97.136,
+      "end": 100.571,
+      "label": "mandarin",
+      "text": "我也希望将我的这些情感与观众分享，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我也希望将我的这些情感与观众分享。",
+        "dur": 3.435,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 22,
+      "start": 100.742,
+      "end": 105.919,
+      "label": "mandarin",
+      "text": "带给他们幸福感。我觉得我的音乐与这里的自然景观、",
+      "score": 0.0004,
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "带给他们幸福感。我觉得我的音乐与这里的自然景观。",
+        "dur": 5.177,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 23,
+      "start": 105.919,
+      "end": 109.997,
+      "label": "mandarin",
+      "text": "环境非常契合。当眼前的风景如此迷人，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "环境非常契合，当眼前的风景如此迷人。",
+        "dur": 4.078,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 24,
+      "start": 110.171,
+      "end": 113.794,
+      "label": "mandarin",
+      "text": "对一位艺术家而言，确实非常令人兴奋。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "对一位艺术家而言，确实非常令人兴奋。",
+        "dur": 3.623,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 25,
+      "start": 114.177,
+      "end": 117.445,
+      "label": "mandarin",
+      "text": "虽然我演出时大多专注于我的钢琴，",
+      "score": 0.2557,
+      "signals": {
+        "mand_logprob": -0.1244,
+        "acoustic_dev": 0.492,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "虽然我演出时大多专注于我的钢琴。",
+        "dur": 3.268,
+        "n_char": 15,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 26,
+      "start": 117.521,
+      "end": 121.623,
+      "label": "mandarin",
+      "text": "但这美丽的环境确实能带来一种喜悦和幸福感。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "但这美丽的环境确实能带来一种喜悦和幸福感。",
+        "dur": 4.102,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 27,
+      "start": 121.83,
+      "end": 124.604,
+      "label": "mandarin",
+      "text": "我觉得桂林所做的一切正是如此。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我觉得桂林所做的一切正是如此。",
+        "dur": 2.774,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 28,
+      "start": 125.144,
+      "end": 127.81,
+      "label": "mandarin",
+      "text": "欢迎来自不同领域的各类艺术家，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "欢迎来自不同领域的各类艺术家。",
+        "dur": 2.666,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 29,
+      "start": 128.013,
+      "end": 130.924,
+      "label": "mandarin",
+      "text": "让这座城市在艺术中持续发展，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让这座城市在艺术中持续发展。",
+        "dur": 2.911,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 30,
+      "start": 131.054,
+      "end": 134.534,
+      "label": "mandarin",
+      "text": "这对一座城市而言是非常了不起的动力。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这对一座城市而言，是非常了不起的动力。",
+        "dur": 3.48,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 31,
+      "start": 135.124,
+      "end": 142.032,
+      "label": "mandarin",
+      "text": "在历届桂林艺术节上，以山水草地、冬雪作为剧场的特色亮点，",
+      "score": 0.1125,
+      "signals": {
+        "mand_logprob": -0.038,
+        "acoustic_dev": 0.146,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在离该桂林艺术节上，以山水草地冬雪作为剧场的特色亮点。",
+        "dur": 6.908,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 32,
+      "start": 142.332,
+      "end": 146.341,
+      "label": "mandarin",
+      "text": "总是让前来表演的艺术家和观众津津乐道。",
+      "score": 0.0135,
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "总是让前来表演的艺术家和观众津津乐道。",
+        "dur": 4.009,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 33,
+      "start": 146.674,
+      "end": 153.576,
+      "label": "mandarin",
+      "text": "理查德克莱德曼在发过的录音棚里面有两张经常出镜的《中国山水画》，",
+      "score": 0.2416,
+      "signals": {
+        "mand_logprob": -0.1024,
+        "acoustic_dev": 0.404,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "理查德·克莱德曼在法国的录音棚里面有两张经常出镜的中国山水画。",
+        "dur": 6.902,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 34,
+      "start": 153.78,
+      "end": 162.944,
+      "label": "mandarin",
+      "text": "画中正是桂林山水。通过记者对桂林艺术节的介绍，他也由此产生了在桂林山水间演奏的期待。",
+      "score": 0.0352,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "范仲正是桂林山水。通过记者对桂林艺术界的介绍，他也由此产生了在桂林山水间演奏的期待。",
+        "dur": 9.164,
+        "n_char": 39
+      }
+    },
+    {
+      "id": 35,
+      "start": 163.956,
+      "end": 167.296,
+      "label": "mandarin",
+      "text": "非常愿意有机会在桂林的大自然中演出。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "非常愿意有机会在桂林的大自然中演出。",
+        "dur": 3.34,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 36,
+      "start": 167.296,
+      "end": 170.534,
+      "label": "mandarin",
+      "text": "你想象一下，如果能在漓江边演奏，",
+      "score": 0.0039,
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "你想象一下，如果能在漓江边演奏。",
+        "dur": 3.238,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 37,
+      "start": 170.534,
+      "end": 173.72,
+      "label": "mandarin",
+      "text": "比如在象鼻山，甚至是一座天然的溶洞里，",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "比如在象鼻山，甚至是一座天然的溶洞。",
+        "dur": 3.186,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 38,
+      "start": 174.202,
+      "end": 177.146,
+      "label": "mandarin",
+      "text": "我相信那样的音响效果会非常棒。",
+      "score": 0.2824,
+      "signals": {
+        "mand_logprob": -0.0734,
+        "acoustic_dev": 0.288,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "音/影",
+        "text_free": "我相信那样的影响效果会非常棒。",
+        "dur": 2.944,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 39,
+      "start": 177.375,
+      "end": 179.864,
+      "label": "mandarin",
+      "text": "我希望这能成为一种新的尝试，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我希望这能成为一种新的尝试。",
+        "dur": 2.489,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 40,
+      "start": 180.067,
+      "end": 183.101,
+      "label": "mandarin",
+      "text": "又或者在桂林的岩壁前演出。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "又或者，在桂林的岩壁前演出。",
+        "dur": 3.034,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 41,
+      "start": 183.275,
+      "end": 186.006,
+      "label": "mandarin",
+      "text": "我想，那一定很美，所以，",
+      "score": 0.323,
+      "signals": {
+        "mand_logprob": -0.1567,
+        "acoustic_dev": 0.621,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我想那一定很美，所以。",
+        "dur": 2.731,
+        "n_char": 9,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 42,
+      "start": 186.006,
+      "end": 190.756,
+      "label": "mandarin",
+      "text": "我希望我也祈愿，有朝一日能在桂林实现这个梦想。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我希望，我也祈愿，有朝一日能在桂林实现这个梦想。",
+        "dur": 4.75,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 43,
+      "start": 191.043,
+      "end": 193.522,
+      "label": "mandarin",
+      "text": "有一大群观众在露天聆听，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "有一大群观众在露天聆听。",
+        "dur": 2.479,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 44,
+      "start": 193.522,
+      "end": 198.441,
+      "label": "mandarin",
+      "text": "那将是一次非凡的体验。回到这里举办一场这样的演出，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "那将是一次非凡的体验。回到这里，举办一场这样的演出。",
+        "dur": 4.919,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 45,
+      "start": 198.441,
+      "end": 200.182,
+      "label": "mandarin",
+      "text": "是我一直以来的梦想。",
+      "score": 0.0064,
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "是我一直以来的梦想。",
+        "dur": 1.741,
+        "n_char": 9
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

@@ -1,0 +1,453 @@
+{
+  "src_audio": "全州凉资源释放文旅热经济.wav",
+  "duration": 106.775,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.286,
+      "end": 7.562,
+      "label": "guilin",
+      "text": "暑期以来，泉州天湖平野高海拔凉爽绿地的游是吸引了众多游客前来避暑旅游。",
+      "score": 0.617,
+      "signals": {
+        "mand_logprob": -0.8493,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.212,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "长期以来，泉州天湖凭借高海拔、凉爽的地理优势，吸引了众多游客前来避暑旅游。",
+        "dur": 7.276,
+        "n_char": 33,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.569,
+      "end": 12.906,
+      "label": "mandarin",
+      "text": "在泉州天湖景区露营基地，众多游客在山水间支起帐篷，",
+      "score": 0.0299,
+      "signals": {
+        "mand_logprob": -0.025,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在泉州天湖景区露营基地，众多游客在山水间租起帐篷。",
+        "dur": 5.337,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 3,
+      "start": 13.112,
+      "end": 15.513,
+      "label": "guilin",
+      "text": "喝景州桑葚，喝聚餐聊天，",
+      "score": 0.7633,
+      "signals": {
+        "mand_logprob": -2.9062,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.6,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "桑/商 景/进",
+        "text_free": "或进座商经，或聚餐聊天。",
+        "dur": 2.401,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.513,
+      "end": 17.988,
+      "label": "mandarin",
+      "text": "尽情的享受惬意的假期生活。",
+      "score": 0.0381,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "尽情地享受惬意的假期生活。",
+        "dur": 2.475,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.401,
+      "end": 23.611,
+      "label": "mandarin",
+      "text": "来自湖南的游客刘先生已经和朋友在露营地待了一个星期了。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "来自湖南的游客刘先生已经和朋友在露营地待了一个星期了。",
+        "dur": 5.21,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.611,
+      "end": 28.897,
+      "label": "mandarin",
+      "text": "我们来了一个礼拜了，这里很凉快，我们舍不得走，准备再住十多天。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们来了一个礼拜了，这里很凉快，我们舍不得走，准备再住十多天。",
+        "dur": 5.286,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.079,
+      "end": 31.572,
+      "label": "guilin",
+      "text": "这里确实是个避暑的好地方，",
+      "score": 0.5581,
+      "signals": {
+        "mand_logprob": -1.0127,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，这里确实是个避暑的好地方。",
+        "dur": 2.493,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.715,
+      "end": 37.58,
+      "label": "mandarin",
+      "text": "太凉爽了，很舒服。晚上露营还要盖被子，我下次还会跟朋友过来露营烧烤。",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "太凉爽了，很舒服。晚上露营还要盖被子。我下次还会跟朋友过来露营打卡。",
+        "dur": 5.865,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.634,
+      "end": 42.758,
+      "label": "mandarin",
+      "text": "泉州天湖景区由高山草地、原始森林和十三个水库组成，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0086,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "泉州天湖景区由高山草地、原始森林和十三个水库组成。",
+        "dur": 5.124,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.758,
+      "end": 48.062,
+      "label": "mandarin",
+      "text": "海拔一千七百米，夏季平均气温仅二十点三摄氏度。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "海拔一千七百米，夏季平均气温仅二十点三摄氏度。",
+        "dur": 5.304,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.367,
+      "end": 53.443,
+      "label": "mandarin",
+      "text": "每年的七月到八月，泉州天湖景区就成了热门度假露营地，",
+      "score": 0.1195,
+      "signals": {
+        "mand_logprob": -0.0102,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "湖/福",
+        "text_free": "每年的七月到八月，泉州天福景区就成了热门度假露营地。",
+        "dur": 5.076,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 12,
+      "start": 53.443,
+      "end": 56.956,
+      "label": "mandarin",
+      "text": "吸引了大量的游客自发的来避暑，",
+      "score": 0.021,
+      "signals": {
+        "mand_logprob": -0.0419,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "吸引了大量的游客自发的来避暑。",
+        "dur": 3.513,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 13,
+      "start": 57.299,
+      "end": 60.738,
+      "label": "mandarin",
+      "text": "为丰富游客度假体验，延长游客停留时间，",
+      "score": 0.0538,
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为丰富游客独家体验，延长游客停留时间。",
+        "dur": 3.439,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 14,
+      "start": 60.995,
+      "end": 63.498,
+      "label": "mandarin",
+      "text": "变游客流量为流量。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "变游客流量为流量。",
+        "dur": 2.503,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.498,
+      "end": 66.764,
+      "label": "mandarin",
+      "text": "天湖景区适时的推出露营野炊、",
+      "score": 0.3452,
+      "signals": {
+        "mand_logprob": -0.2803,
+        "acoustic_dev": 0.336,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "湖/府",
+        "text_free": "天府景区适时地推出露营野炊。",
+        "dur": 3.266,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 16,
+      "start": 66.764,
+      "end": 72.818,
+      "label": "mandarin",
+      "text": "音乐烧烤、激情、DJ户外卡拉、OK篝火盛夏等等文旅新产品，",
+      "score": 0.2465,
+      "signals": {
+        "mand_logprob": -0.3912,
+        "acoustic_dev": 0.474,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "音乐烧烤、激情DJ、户外卡拉OK、篝火盛夏等等文旅新产品。",
+        "dur": 6.054,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.974,
+      "end": 75.294,
+      "label": "mandarin",
+      "text": "受到了广大游客的青睐。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "受到了广大游客的青睐。",
+        "dur": 2.32,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 18,
+      "start": 75.294,
+      "end": 78.603,
+      "label": "mandarin",
+      "text": "暑期以来，来我们这里消费的人很多，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "暑期以来，来我们这里消费的人很多。",
+        "dur": 3.309,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 19,
+      "start": 78.92,
+      "end": 83.995,
+      "label": "mandarin",
+      "text": "我们周末会举办篝火晚会，还会邀请本地乐队过来办音乐节，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们周末会举办篝火晚会，还会邀请本地乐队过来办音乐节。",
+        "dur": 5.075,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 20,
+      "start": 83.995,
+      "end": 86.46,
+      "label": "mandarin",
+      "text": "最多的一场达到六百多人。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "最多的一场达到六百多人。",
+        "dur": 2.465,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 21,
+      "start": 86.506,
+      "end": 90.624,
+      "label": "guilin",
+      "text": "入夏以来，泉州天湖景区持续升级各项服务，",
+      "score": 0.6996,
+      "signals": {
+        "mand_logprob": -0.7346,
+        "acoustic_dev": 0.9,
+        "seg_cer": 0.389,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "持/次 湖/府",
+        "text_free": "由下以来，泉州天府景区次数升级，国享服务。",
+        "dur": 4.118,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 22,
+      "start": 90.624,
+      "end": 95.661,
+      "label": "uncertain",
+      "text": "这开自然风光美景成了众多游客心目中的世外远房。",
+      "score": 0.4156,
+      "signals": {
+        "mand_logprob": -0.5244,
+        "acoustic_dev": 0.639,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这颗自然风光美景，成了众多游客心目中的“诗与远方”。",
+        "dur": 5.037,
+        "n_char": 22,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 96.017,
+      "end": 102.565,
+      "label": "mandarin",
+      "text": "根据统计，入夏以来，天湖景区单一最高游客量超过了一千人次，",
+      "score": 0.3354,
+      "signals": {
+        "mand_logprob": -0.3232,
+        "acoustic_dev": 0.39,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "湖/府",
+        "text_free": "根据统计，如下以来，天府景区单日最高游客量超过了一千人次。",
+        "dur": 6.548,
+        "n_char": 26,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 102.565,
+      "end": 106.775,
+      "label": "mandarin",
+      "text": "良子园释放出文旅强劲、夜经济。",
+      "score": 0.2668,
+      "signals": {
+        "mand_logprob": -0.1748,
+        "acoustic_dev": 0.205,
+        "seg_cer": 0.538,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "量子源释放出频率强劲液晶剂。",
+        "dur": 4.21,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

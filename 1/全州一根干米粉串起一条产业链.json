@@ -1,0 +1,842 @@
+{
+  "src_audio": "全州一根干米粉串起一条产业链.wav",
+  "duration": 193.338,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.303,
+      "end": 4.158,
+      "label": "mandarin",
+      "text": "近年来，全州县大力发展干米粉加工产业，",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0116,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近年来，泉州县大力发展干米粉加工产业。",
+        "dur": 3.855,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.334,
+      "end": 6.804,
+      "label": "uncertain",
+      "text": "以一根米粉撬动大市场，",
+      "score": 0.5451,
+      "signals": {
+        "mand_logprob": -0.5026,
+        "acoustic_dev": 0.96,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以一个米粉撬动大市场。",
+        "dur": 2.47,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.814,
+      "end": 11.265,
+      "label": "mandarin",
+      "text": "链出种植、加工、销售、物流、就业等等产业，",
+      "score": 0.0286,
+      "signals": {
+        "mand_logprob": -0.0331,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "练出种植、加工、销售物流就业等等产业。",
+        "dur": 4.451,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.265,
+      "end": 14.198,
+      "label": "mandarin",
+      "text": "书写特色农业、三产融合、",
+      "score": 0.3223,
+      "signals": {
+        "mand_logprob": -0.3404,
+        "acoustic_dev": 0.62,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "书写特色农业三产融合。",
+        "dur": 2.933,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 5,
+      "start": 14.198,
+      "end": 16.517,
+      "label": "mandarin",
+      "text": "高质量发展新篇章。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0166,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "高质量发展新篇章。",
+        "dur": 2.319,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 6,
+      "start": 16.824,
+      "end": 20.491,
+      "label": "mandarin",
+      "text": "在全州县龙水镇禾美稻香现代农业示范区，",
+      "score": 0.2045,
+      "signals": {
+        "mand_logprob": -0.1859,
+        "acoustic_dev": 0.296,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在泉州县龙水镇和美稻香现代农业示范区。",
+        "dur": 3.667,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 7,
+      "start": 20.665,
+      "end": 25.042,
+      "label": "mandarin",
+      "text": "阡陌稻田与村庄河流、青山绿树交相辉映，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0412,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "阡陌稻田与村庄河流，青山绿树交相辉映。",
+        "dur": 4.377,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 8,
+      "start": 25.237,
+      "end": 28.603,
+      "label": "mandarin",
+      "text": "构成一幅迷人的夏意江南田园风景图。",
+      "score": 0.0286,
+      "signals": {
+        "mand_logprob": -0.0332,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "构成一幅迷人的夏邑江南田园风景图。",
+        "dur": 3.366,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 9,
+      "start": 28.773,
+      "end": 31.172,
+      "label": "guilin",
+      "text": "成年年的稻穗扬帆直头，",
+      "score": 0.7113,
+      "signals": {
+        "mand_logprob": -2.013,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.8,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "成/沉",
+        "text_free": "沉甸甸的刀碎压弯指头。",
+        "dur": 2.399,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 10,
+      "start": 31.422,
+      "end": 34.121,
+      "label": "guilin",
+      "text": "全国种粮先进国营正规玉告诉记者，",
+      "score": 0.7044,
+      "signals": {
+        "mand_logprob": -1.0779,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "种/总",
+        "text_free": "全国总量先进国营。陈桂玉告诉记者。",
+        "dur": 2.699,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 34.369,
+      "end": 40.295,
+      "label": "mandarin",
+      "text": "这片一千八百多亩的优质早稻已经迎来了机收、烘干、销售的环节。",
+      "score": 0.2079,
+      "signals": {
+        "mand_logprob": -0.0118,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.222,
+        "phon_examples": "收/艘 早/沼",
+        "text_free": "这片一千八百多亩的优质沼道已经迎来了几艘烘干小舟等帆舰。",
+        "dur": 5.926,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 12,
+      "start": 40.632,
+      "end": 43.944,
+      "label": "mandarin",
+      "text": "这些新收获的稻谷将开启全新的旅途，",
+      "score": 0.0617,
+      "signals": {
+        "mand_logprob": -0.0493,
+        "acoustic_dev": 0.009,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这些新手过的稻谷将开启全新的旅途。",
+        "dur": 3.312,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 13,
+      "start": 44.184,
+      "end": 48.161,
+      "label": "mandarin",
+      "text": "被送到县里的干米粉加工企业进行深加工增值，",
+      "score": 0.1457,
+      "signals": {
+        "mand_logprob": -0.0249,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "增/整",
+        "text_free": "被送到县里的干米粉加工企业进行深加工整治。",
+        "dur": 3.977,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 14,
+      "start": 48.59,
+      "end": 51.855,
+      "label": "mandarin",
+      "text": "实现从一捆米到一根粉的蜕变。",
+      "score": 0.0352,
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "实现从一颗米到一根粉的蜕变。",
+        "dur": 3.265,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 15,
+      "start": 52.406,
+      "end": 56.519,
+      "label": "mandarin",
+      "text": "全州县是全国一百个优质商品粮生产基地县之一，",
+      "score": 0.2556,
+      "signals": {
+        "mand_logprob": -0.2593,
+        "acoustic_dev": 0.45,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "泉州县是全国一百个优质商品粮生产基地县之一。",
+        "dur": 4.113,
+        "n_char": 21,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 16,
+      "start": 56.892,
+      "end": 61.79,
+      "label": "guilin",
+      "text": "全县全量粮食种植面积稳定在一百一十万亩左右，",
+      "score": 0.6418,
+      "signals": {
+        "mand_logprob": -0.5341,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "量/年",
+        "text_free": "全县全年粮食种植面积稳定在一百一十万亩左右。",
+        "dur": 4.898,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 17,
+      "start": 61.958,
+      "end": 65.976,
+      "label": "mandarin",
+      "text": "年产量近四十万吨，素有“桂北粮仓”之称。",
+      "score": 0.0571,
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "年产量近四十万吨，素有“龟背粮仓”之称。",
+        "dur": 4.018,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 18,
+      "start": 66.031,
+      "end": 70.886,
+      "label": "mandarin",
+      "text": "全县目前有新型农业经营主体一千四百二十三家，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "全县目前有新型农业经营主体一千四百二十三家。",
+        "dur": 4.855,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 19,
+      "start": 71.11,
+      "end": 74.059,
+      "label": "mandarin",
+      "text": "一百亩以上水稻种植户超五百家。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一百亩以上水稻种植户超五百家。",
+        "dur": 2.949,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 20,
+      "start": 74.27,
+      "end": 77.744,
+      "label": "mandarin",
+      "text": "一直以来，干米粉是全州的传统优势产业，",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0445,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一直以来，干米粉是泉州的传统优势产业。",
+        "dur": 3.474,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 21,
+      "start": 77.998,
+      "end": 81.664,
+      "label": "mandarin",
+      "text": "特别是在获得广西干米粉之乡荣誉称号之后，",
+      "score": 0.0764,
+      "signals": {
+        "mand_logprob": -0.1151,
+        "acoustic_dev": 0.147,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "特别是在获得广西干米粉之乡荣誉称号之后。",
+        "dur": 3.666,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 22,
+      "start": 81.825,
+      "end": 87.362,
+      "label": "mandarin",
+      "text": "它更是成了全州一个独特的地理标志和文化符号。",
+      "score": 0.2522,
+      "signals": {
+        "mand_logprob": -0.2164,
+        "acoustic_dev": 0.359,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "它更是成了泉州的一个独特的地理标志或文化符号。",
+        "dur": 5.537,
+        "n_char": 21,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 23,
+      "start": 87.623,
+      "end": 92.467,
+      "label": "uncertain",
+      "text": "在位于全州粉业小镇内的桂林米兰香企业生产车间，",
+      "score": 0.4201,
+      "signals": {
+        "mand_logprob": -0.2965,
+        "acoustic_dev": 0.528,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "粉/枫",
+        "text_free": "在位于泉州枫叶小镇内的桂林米兰香企业生产车间。",
+        "dur": 4.844,
+        "n_char": 22,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 24,
+      "start": 92.712,
+      "end": 95.453,
+      "label": "uncertain",
+      "text": "全自动化生产线正高速运转，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -0.7321,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "全自动化生产线正高速运转。",
+        "dur": 2.741,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 25,
+      "start": 95.67,
+      "end": 98.841,
+      "label": "mandarin",
+      "text": "经营剔透的米粉如银丝般滑落。",
+      "score": 0.1055,
+      "signals": {
+        "mand_logprob": -0.0365,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "晶莹剔透的米粉由银丝般滑落。",
+        "dur": 3.171,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 26,
+      "start": 99.194,
+      "end": 107.221,
+      "label": "mandarin",
+      "text": "这一家目前广西生产规模最大、技术先进的干米粉生产企业正以智能化升级的全新姿态，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这一家目前广西生产规模最大、技术先进的干米粉生产企业，正以智能化升级的全新姿态。",
+        "dur": 8.027,
+        "n_char": 37
+      }
+    },
+    {
+      "id": 27,
+      "start": 107.333,
+      "end": 110.449,
+      "label": "mandarin",
+      "text": "书写着产业高质量发展的新篇章。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0074,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "书写着产业高质量发展的新篇章。",
+        "dur": 3.116,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 28,
+      "start": 110.815,
+      "end": 115.065,
+      "label": "mandarin",
+      "text": "今年一月到六月，企业总产值达到了四千三百万元，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年一月到六月，企业总产值达到了四千三百万元。",
+        "dur": 4.25,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 29,
+      "start": 115.33,
+      "end": 119.221,
+      "label": "mandarin",
+      "text": "并直接带动当地近一百人就近就地就业。",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并直接带动当地近一百名就近就地就业。",
+        "dur": 3.891,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 30,
+      "start": 119.615,
+      "end": 127.01,
+      "label": "mandarin",
+      "text": "米兰香也是全州县四十多家干米粉加工企业延伸成一根根干米粉提质增效，",
+      "score": 0.1949,
+      "signals": {
+        "mand_logprob": -0.1844,
+        "acoustic_dev": 0.292,
+        "seg_cer": 0.094,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "米良乡也是泉州县四十多家干米粉加工企业，延伸成一根根干米粉，提质增效。",
+        "dur": 7.395,
+        "n_char": 32,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 31,
+      "start": 127.093,
+      "end": 129.886,
+      "label": "mandarin",
+      "text": "带动群众就业增收的一个缩影。",
+      "score": 0.0164,
+      "signals": {
+        "mand_logprob": -0.0602,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "带动群众就业增收的一个缩影。",
+        "dur": 2.793,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 32,
+      "start": 130.3,
+      "end": 132.567,
+      "label": "uncertain",
+      "text": "电商快车赋能干米粉出圈，",
+      "score": 0.5125,
+      "signals": {
+        "mand_logprob": -0.4004,
+        "acoustic_dev": 0.746,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "点上快车，富能干米粉，出圈。",
+        "dur": 2.267,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 33,
+      "start": 132.591,
+      "end": 137.164,
+      "label": "mandarin",
+      "text": "产品做得出，销得了，企业有增金白银的收入。",
+      "score": 0.1272,
+      "signals": {
+        "mand_logprob": -0.0468,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "增/真",
+        "text_free": "产品做得出，销得了，企业有真金白银的收入。",
+        "dur": 4.573,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 34,
+      "start": 137.384,
+      "end": 142.191,
+      "label": "mandarin",
+      "text": "目前，全州还成长为全国电子商务进农村综合示范县，",
+      "score": 0.0208,
+      "signals": {
+        "mand_logprob": -0.0304,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "目前，泉州还成长为全国电子商务进农村综合示范县。",
+        "dur": 4.807,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 35,
+      "start": 142.455,
+      "end": 149.596,
+      "label": "mandarin",
+      "text": "乘坐电商新经济的东风，全县四十多家干米粉加工企业不断畅通线上线下销售链，",
+      "score": 0.0134,
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.029,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "乘着电商新经济的东风，全县四十多家干米粉加工企业不断畅通线上线下销售链。",
+        "dur": 7.141,
+        "n_char": 34
+      }
+    },
+    {
+      "id": 36,
+      "start": 149.783,
+      "end": 153.683,
+      "label": "mandarin",
+      "text": "提升价值链，使产品营销全国各地，",
+      "score": 0.3233,
+      "signals": {
+        "mand_logprob": -0.3114,
+        "acoustic_dev": 0.559,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "提升价值链，使产品云销全国各地。",
+        "dur": 3.9,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 37,
+      "start": 153.932,
+      "end": 160.817,
+      "label": "mandarin",
+      "text": "并出口东南亚、欧美市场。全州干米粉销售额占全国销量的百分之三十以上，",
+      "score": 0.0147,
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并出口东南亚、欧美市场。泉州干米粉销售额占全国销量的百分之三十以上。",
+        "dur": 6.885,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 38,
+      "start": 161.069,
+      "end": 164.499,
+      "label": "mandarin",
+      "text": "干米粉年产值超过十八点八个亿。",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.0451,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "干米粉年产量超过十八点八个亿。",
+        "dur": 3.43,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 39,
+      "start": 164.872,
+      "end": 168.429,
+      "label": "mandarin",
+      "text": "当前，全州为要打造全国干米粉之都，",
+      "score": 0.3583,
+      "signals": {
+        "mand_logprob": -0.2896,
+        "acoustic_dev": 0.513,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "当前，泉州围绕打造全国干米粉之都。",
+        "dur": 3.557,
+        "n_char": 15,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 40,
+      "start": 168.733,
+      "end": 172.08,
+      "label": "mandarin",
+      "text": "从水稻秧苗培育、管理种植的科技路，",
+      "score": 0.0176,
+      "signals": {
+        "mand_logprob": -0.0612,
+        "acoustic_dev": 0.034,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从水稻秧苗培育、管理种植的科技路。",
+        "dur": 3.347,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 41,
+      "start": 172.278,
+      "end": 175.479,
+      "label": "uncertain",
+      "text": "到干米粉全制米粉加工车间的产业景，",
+      "score": 0.5034,
+      "signals": {
+        "mand_logprob": -0.4278,
+        "acoustic_dev": 0.803,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "到干米粉、宣纸米粉加工车间的产业井。",
+        "dur": 3.201,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 42,
+      "start": 175.761,
+      "end": 178.418,
+      "label": "guilin",
+      "text": "再到电子商务领域的云端蓝。",
+      "score": 0.6724,
+      "signals": {
+        "mand_logprob": -1.6993,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "再到电商文旅的云端蓝。",
+        "dur": 2.657,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 43,
+      "start": 178.846,
+      "end": 181.683,
+      "label": "mandarin",
+      "text": "泉州干米粉这一舌尖上的产业，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0189,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "泉州干米粉这一舌尖上的产业。",
+        "dur": 2.837,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 44,
+      "start": 181.883,
+      "end": 189.38,
+      "label": "mandarin",
+      "text": "连起种植、加工、销售、冷链、物流、电商、就业等等一条完整的一二三产业链，",
+      "score": 0.0315,
+      "signals": {
+        "mand_logprob": -0.0324,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "建立起种植、加工、销售冷链物流、电商就业等等一条完整的一二三产业链。",
+        "dur": 7.497,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 45,
+      "start": 189.571,
+      "end": 193.338,
+      "label": "mandarin",
+      "text": "正朝着一百亿元目标稳步迈进。",
+      "score": 0.3412,
+      "signals": {
+        "mand_logprob": -0.1847,
+        "acoustic_dev": 0.293,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "朝/操",
+        "text_free": "整操作一百亿元目标稳步迈进。",
+        "dur": 3.767,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

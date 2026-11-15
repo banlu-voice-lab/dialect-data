@@ -1,0 +1,887 @@
+{
+  "src_audio": "污水变清泉 治水更惠民 漓江支流消劣返清绘就生态民生共融画卷.wav",
+  "duration": 230.468,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.093,
+      "label": "uncertain",
+      "text": "今年首先来关注一下漓江治理。",
+      "score": 0.4673,
+      "signals": {
+        "mand_logprob": -0.3494,
+        "acoustic_dev": 0.763,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天首先来关注一下丽江治理。",
+        "dur": 3.093,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.291,
+      "end": 8.128,
+      "label": "mandarin",
+      "text": "漓江治理的有效推进离不开“内支流”的系统整治。",
+      "score": 0.3162,
+      "signals": {
+        "mand_logprob": -0.2429,
+        "acoustic_dev": 0.52,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "丽江治理的有效推进，离不开对支流的系统整治。",
+        "dur": 4.837,
+        "n_char": 20,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.128,
+      "end": 13.325,
+      "label": "guilin",
+      "text": "长期以来，我市以漓江支流小流域防汛为治水突破口，",
+      "score": 0.6908,
+      "signals": {
+        "mand_logprob": -0.4498,
+        "acoustic_dev": 0.993,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "防/反",
+        "text_free": "长期以来，我是以漓江之流、小略反清为治水突破口。",
+        "dur": 5.197,
+        "n_char": 22,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.505,
+      "end": 17.68,
+      "label": "guilin",
+      "text": "使污水治理与民生需求深度融合，",
+      "score": 0.5527,
+      "signals": {
+        "mand_logprob": -0.5141,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "是污水治理与民生需求深度融合。",
+        "dur": 4.175,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.819,
+      "end": 22.133,
+      "label": "mandarin",
+      "text": "让污水变清泉，臭水沟成生态景观带，",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让污水变清泉，抽水沟成生态景观带。",
+        "dur": 4.314,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.286,
+      "end": 26.695,
+      "label": "guilin",
+      "text": "为打造世界旅游城市交出了一份亮眼的答卷。",
+      "score": 0.5681,
+      "signals": {
+        "mand_logprob": -0.5959,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为打造世界级旅游城市，交出了一份亮眼的大卷。",
+        "dur": 4.409,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 7,
+      "start": 32.02,
+      "end": 37.276,
+      "label": "mandarin",
+      "text": "位于七星区毛家村的污水处理站于今年七月份建成，",
+      "score": 0.0033,
+      "signals": {
+        "mand_logprob": -0.0178,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "位于七星区毛家村的污水处理站于今年七月份建成。",
+        "dur": 5.256,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.276,
+      "end": 44.184,
+      "label": "mandarin",
+      "text": "该站在末端新增为动力的固定床生物膜处理设施和回用水池。",
+      "score": 0.1432,
+      "signals": {
+        "mand_logprob": -0.0319,
+        "acoustic_dev": 0.039,
+        "seg_cer": 0.269,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "该站在末端新增位于东丽的固定创生物膜处理设施或废用水池。",
+        "dur": 6.908,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 9,
+      "start": 44.374,
+      "end": 51.057,
+      "label": "mandarin",
+      "text": "针对村内生产的居民生活污水，采用了全国领先的两维智能污水处理设施。",
+      "score": 0.0429,
+      "signals": {
+        "mand_logprob": -0.0263,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.065,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "针对城内生产的居民生活污水，采用了全国领先的两位智能污水处理设施。",
+        "dur": 6.683,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 10,
+      "start": 51.424,
+      "end": 55.062,
+      "label": "guilin",
+      "text": "处理后的中水流入朝阳河的同时，",
+      "score": 0.5527,
+      "signals": {
+        "mand_logprob": -1.8646,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "处理以后的中水流入朝阳河的同时。",
+        "dur": 3.638,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 55.174,
+      "end": 57.709,
+      "label": "mandarin",
+      "text": "还可以用于菜园浇灌。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "还可以用于菜园浇灌。",
+        "dur": 2.535,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 12,
+      "start": 58.013,
+      "end": 63.357,
+      "label": "mandarin",
+      "text": "这一创新举措大幅度地降低了建设的成本和运营成本。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这一创新举措大幅度地降低了建设的成本和运营成本。",
+        "dur": 5.344,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 13,
+      "start": 63.668,
+      "end": 72.339,
+      "label": "mandarin",
+      "text": "设计出水水质严格执行自治区农村生活污水处理设施水污烟物排放标准的最高标准，",
+      "score": 0.0919,
+      "signals": {
+        "mand_logprob": -0.0603,
+        "acoustic_dev": 0.103,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "涉及出水水质，严格执行自治区农村生活污水处理设施水污染物排放标准的最高标准。",
+        "dur": 8.671,
+        "n_char": 36
+      }
+    },
+    {
+      "id": 14,
+      "start": 72.483,
+      "end": 76.755,
+      "label": "mandarin",
+      "text": "彻底地改变了原来垃圾遍地、污水横流的场景。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "彻底地改变了原来垃圾遍地、污水横流的场景。",
+        "dur": 4.272,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 15,
+      "start": 76.755,
+      "end": 82.154,
+      "label": "mandarin",
+      "text": "所以说我们在建设的时候结合当时的一些旧的大三个化粪池的基础上，",
+      "score": 0.2591,
+      "signals": {
+        "mand_logprob": -0.1819,
+        "acoustic_dev": 0.381,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "所以说我们在建设的时候，就结合当时的一些旧的大三个划分区的基础上。",
+        "dur": 5.399,
+        "n_char": 30,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 16,
+      "start": 82.167,
+      "end": 85.085,
+      "label": "mandarin",
+      "text": "我们就地建了一座分散式处理站点，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们就地建了一座分散式处理站点。",
+        "dur": 2.918,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 17,
+      "start": 85.085,
+      "end": 88.015,
+      "label": "mandarin",
+      "text": "同时将我们的污水进行资源化的利用，",
+      "score": 0.1049,
+      "signals": {
+        "mand_logprob": -0.1034,
+        "acoustic_dev": 0.202,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同时，将我们的污水进行资源化的利用。",
+        "dur": 2.93,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 18,
+      "start": 88.081,
+      "end": 94.572,
+      "label": "mandarin",
+      "text": "就方便我们的村民对这个处理达标的后的水用于就近的菜地的浇灌、",
+      "score": 0.0713,
+      "signals": {
+        "mand_logprob": -0.0485,
+        "acoustic_dev": 0.077,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就方便我们的村民对这个处理达标后的水，用于就定的菜地的浇灌。",
+        "dur": 6.491,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 19,
+      "start": 94.66,
+      "end": 97.113,
+      "label": "mandarin",
+      "text": "种植以及我们的耕作的需要。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "种植以及我们的耕作的需要。",
+        "dur": 2.453,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 20,
+      "start": 97.113,
+      "end": 101.789,
+      "label": "mandarin",
+      "text": "此外，污水处理站的设计巧妙融入了乡村整体景观。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "此外，污水处理站的设计巧妙融入了乡村整体景观。",
+        "dur": 4.676,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 21,
+      "start": 102.028,
+      "end": 105.705,
+      "label": "mandarin",
+      "text": "下一步，村民们计划在此种植阳光玫瑰，",
+      "score": 0.07,
+      "signals": {
+        "mand_logprob": -0.074,
+        "acoustic_dev": 0.135,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "下一步，村民们计划在此种植阳光玫瑰。",
+        "dur": 3.677,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 22,
+      "start": 105.705,
+      "end": 113.142,
+      "label": "mandarin",
+      "text": "打造休闲采摘区。与毛家村相似，相隔不远的冷家村也饱受污水直排之苦。",
+      "score": 0.0152,
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "打造休闲采摘区，与马家村相似，相隔不远的冷家村也饱受污水直排之苦。",
+        "dur": 7.437,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 23,
+      "start": 113.435,
+      "end": 117.992,
+      "label": "mandarin",
+      "text": "今年六月份，冷家村分散式污水处理站建成投运，",
+      "score": 0.1539,
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "散/山",
+        "text_free": "今年六月份，龙家村汾山市污水处理站建成投运。",
+        "dur": 4.557,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 24,
+      "start": 118.223,
+      "end": 121.71,
+      "label": "mandarin",
+      "text": "设计单位充分利用现有的排水管道，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0085,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "设计单位充分利用现有的排水管道。",
+        "dur": 3.487,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 25,
+      "start": 121.98,
+      "end": 125.195,
+      "label": "mandarin",
+      "text": "在排出口末端设置截流设施，",
+      "score": 0.0238,
+      "signals": {
+        "mand_logprob": -0.0351,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在排出口末端设置截流设施。",
+        "dur": 3.215,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 26,
+      "start": 125.274,
+      "end": 128.36,
+      "label": "uncertain",
+      "text": "确保每的生活污水直排朝阳河。",
+      "score": 0.4798,
+      "signals": {
+        "mand_logprob": -0.2376,
+        "acoustic_dev": 0.508,
+        "seg_cer": 0.692,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.222,
+        "phon_examples": "朝/操 直/自",
+        "text_free": "戳爆美德生活污水，自拍操洋火。",
+        "dur": 3.086,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 27,
+      "start": 128.65,
+      "end": 131.616,
+      "label": "mandarin",
+      "text": "该系统还搭配了智慧管加污水管的系统，",
+      "score": 0.2884,
+      "signals": {
+        "mand_logprob": -0.2353,
+        "acoustic_dev": 0.503,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "该系统还搭配了智慧管家污水管的系统。",
+        "dur": 2.966,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 28,
+      "start": 131.821,
+      "end": 134.419,
+      "label": "guilin",
+      "text": "通过在终端设置数采仪，",
+      "score": 0.6571,
+      "signals": {
+        "mand_logprob": -0.7373,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过在终端设置蔬菜义。",
+        "dur": 2.598,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 29,
+      "start": 134.419,
+      "end": 138.941,
+      "label": "mandarin",
+      "text": "对设备运行情况、进水水质水量进行实时采集，",
+      "score": 0.143,
+      "signals": {
+        "mand_logprob": -0.1152,
+        "acoustic_dev": 0.229,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "对设备运营情况、进水水质、水量进行实时采集。",
+        "dur": 4.522,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 30,
+      "start": 139.351,
+      "end": 143.937,
+      "label": "mandarin",
+      "text": "并根据水质水量数据自动调节运行参数。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并根据水质水量数据，自动调节运行参数。",
+        "dur": 4.586,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 31,
+      "start": 144.147,
+      "end": 148.762,
+      "label": "mandarin",
+      "text": "通过结合物联网及AI技术，建立数据大模型。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过结合物联网及 AI 技术，建立数据大模型。",
+        "dur": 4.615,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 32,
+      "start": 148.762,
+      "end": 154.011,
+      "label": "mandarin",
+      "text": "我们的处理站相对传统的处理工艺节约了百分之三十的建设成本，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0106,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们的处理站相对传统的处理工艺节约了百分之三十的建设成本。",
+        "dur": 5.249,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 33,
+      "start": 154.104,
+      "end": 157.575,
+      "label": "mandarin",
+      "text": "综合运维成本相对传统工艺节约百分之九十。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "综合运维成本相对传统工艺节约百分之九十。",
+        "dur": 3.471,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 34,
+      "start": 157.575,
+      "end": 162.881,
+      "label": "mandarin",
+      "text": "像我们冷家村二十吨的处理站，一年的运维费用控制在一千块钱以内。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "像我们冷家村二十吨的处理站，一年的运维费用控制在一千块钱以内。",
+        "dur": 5.306,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 35,
+      "start": 163.019,
+      "end": 165.486,
+      "label": "mandarin",
+      "text": "第三是结合村民的需求，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "第三是结合村民的需求。",
+        "dur": 2.467,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 36,
+      "start": 165.599,
+      "end": 169.665,
+      "label": "mandarin",
+      "text": "打造乡村议事亭。我们的站点建设完成之后，",
+      "score": 0.0254,
+      "signals": {
+        "mand_logprob": -0.0142,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "打造乡村议事厅。我们的站点建设完成之后。",
+        "dur": 4.066,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 37,
+      "start": 169.686,
+      "end": 174.069,
+      "label": "mandarin",
+      "text": "成为村民坐席休闲之后的一个休闲的场所。",
+      "score": 0.0762,
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "成为村民作息休闲之后的一个休息的场所。",
+        "dur": 4.383,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 38,
+      "start": 174.325,
+      "end": 178.271,
+      "label": "mandarin",
+      "text": "治水不是简单的工程，而是要融入百姓生活。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "治水不是简单的工程，而是要融入百姓生活。",
+        "dur": 3.946,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 39,
+      "start": 178.528,
+      "end": 181.682,
+      "label": "mandarin",
+      "text": "冷家村的休闲凉亭，毛家村的微菜园。",
+      "score": 0.2498,
+      "signals": {
+        "mand_logprob": -0.0549,
+        "acoustic_dev": 0.091,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "冷/人",
+        "text_free": "人家城里休闲凉亭，马家村里微菜园。",
+        "dur": 3.154,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 40,
+      "start": 181.682,
+      "end": 185.987,
+      "label": "mandarin",
+      "text": "都在充分的调研村民习惯以后量身定制。",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0084,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "都在充分地调研村民习惯以后，量身定制。",
+        "dur": 4.305,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 41,
+      "start": 186.226,
+      "end": 191.443,
+      "label": "mandarin",
+      "text": "这种转变背后是创新治水与民生需求的深度融合。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这种转变背后是创新治水与民生需求的深度融合。",
+        "dur": 5.217,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 42,
+      "start": 191.71,
+      "end": 195.906,
+      "label": "mandarin",
+      "text": "截至目前，我市已建成七星区冷家村、毛家村、",
+      "score": 0.0009,
+      "signals": {
+        "mand_logprob": -0.0158,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "截至目前，我市已建成七星区冷家村、毛家村。",
+        "dur": 4.196,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 43,
+      "start": 195.906,
+      "end": 199.354,
+      "label": "guilin",
+      "text": "叠彩区唐家村等多座分散式污水处理站，",
+      "score": 0.6276,
+      "signals": {
+        "mand_logprob": -0.4606,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "电车去唐家村等多座分三式污水处理站。",
+        "dur": 3.448,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 44,
+      "start": 199.685,
+      "end": 204.483,
+      "label": "mandarin",
+      "text": "新建改造的八座污水提升泵站也已经全部开工。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "新建改造的八座污水提升泵站也已经全部开工。",
+        "dur": 4.798,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 45,
+      "start": 204.658,
+      "end": 212.438,
+      "label": "mandarin",
+      "text": "朝阳河、临江溪、八瑶河和南溪河四条支流清淤疏浚工作完成率百分之百。",
+      "score": 0.2643,
+      "signals": {
+        "mand_logprob": -0.1127,
+        "acoustic_dev": 0.223,
+        "seg_cer": 0.233,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "江/涧",
+        "text_free": "朝阳河、林涧溪、巴窑河和南溪河四条支流，参与疏浚工作，完成率达百分之百。",
+        "dur": 7.78,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 46,
+      "start": 212.774,
+      "end": 219.23,
+      "label": "mandarin",
+      "text": "漓江支流小流域返青是桂林对生态环境保护的坚定承诺。",
+      "score": 0.1321,
+      "signals": {
+        "mand_logprob": -0.0781,
+        "acoustic_dev": 0.144,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "漓江支流小略返清，是桂林对生态环境保护的坚定承诺。",
+        "dur": 6.456,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 47,
+      "start": 219.539,
+      "end": 223.335,
+      "label": "mandarin",
+      "text": "我市正以实际行动守护好这方绿水青山，",
+      "score": 0.1076,
+      "signals": {
+        "mand_logprob": -0.0072,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我是正义世纪行动守护好这方绿水青山。",
+        "dur": 3.796,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 48,
+      "start": 223.684,
+      "end": 230.468,
+      "label": "mandarin",
+      "text": "让漓江永远清澈，让桂林山水成为世界级旅游城市最亮丽的名片。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让漓江永远清澈，让桂林山水成为世界级旅游城市最亮丽的名片。",
+        "dur": 6.784,
+        "n_char": 27
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

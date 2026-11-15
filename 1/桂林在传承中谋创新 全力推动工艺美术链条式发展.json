@@ -1,0 +1,1024 @@
+{
+  "src_audio": "桂林在传承中谋创新 全力推动工艺美术链条式发展.wav",
+  "duration": 233.152,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.863,
+      "label": "mandarin",
+      "text": "今天我首先来关注一下我们桂林的工艺美术。",
+      "score": 0.0241,
+      "signals": {
+        "mand_logprob": -0.0137,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天我们首先来关注一下我们桂林的工艺美术。",
+        "dur": 3.863,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.243,
+      "end": 6.972,
+      "label": "mandarin",
+      "text": "桂林凭借着深厚的历史底蕴、",
+      "score": 0.175,
+      "signals": {
+        "mand_logprob": -0.295,
+        "acoustic_dev": 0.337,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂林凭借着深厚的历史底蕴。",
+        "dur": 2.729,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.972,
+      "end": 10.615,
+      "label": "mandarin",
+      "text": "优越的自然环境和丰富的物产资源，",
+      "score": 0.061,
+      "signals": {
+        "mand_logprob": -0.0068,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "优越的资源环境和丰富的物产资源。",
+        "dur": 3.643,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.805,
+      "end": 14.95,
+      "label": "mandarin",
+      "text": "在工艺美术领域是积淀了独特的优势。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0143,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在工艺美术领域，是积淀了独特的优势。",
+        "dur": 4.145,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.149,
+      "end": 19.727,
+      "label": "mandarin",
+      "text": "为打造桂林世界级旅游城市，贡献工艺美术力量。",
+      "score": 0.0457,
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为打造桂林世界级旅游城市，贡献公益美术力量。",
+        "dur": 4.578,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.977,
+      "end": 29.285,
+      "label": "mandarin",
+      "text": "工艺美术是融合审美价值与实用功能的艺术形式，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "工艺美术是融合审美价值与实用功能的艺术形式。",
+        "dur": 4.308,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 7,
+      "start": 29.452,
+      "end": 31.988,
+      "label": "mandarin",
+      "text": "既是物质产品，也是文化载体。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "既是物质产品，也是文化载体。",
+        "dur": 2.536,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.316,
+      "end": 35.227,
+      "label": "guilin",
+      "text": "桂林鸡血玉作为本土特有的玉石品种，",
+      "score": 0.574,
+      "signals": {
+        "mand_logprob": -0.6455,
+        "acoustic_dev": 0.796,
+        "seg_cer": 0.438,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂林吉穴鱼作为本土特有的一鱼食品中。",
+        "dur": 2.911,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.227,
+      "end": 37.543,
+      "label": "guilin",
+      "text": "以其血明丽、血色温丽、",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -0.8232,
+        "acoustic_dev": 1.0,
+        "seg_cer": 1.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一起学名的学术文理。",
+        "dur": 2.316,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 10,
+      "start": 37.543,
+      "end": 40.954,
+      "label": "mandarin",
+      "text": "较高的硬度以及稳定的物化特性著称。",
+      "score": 0.3042,
+      "signals": {
+        "mand_logprob": -0.2365,
+        "acoustic_dev": 0.26,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "著/组",
+        "text_free": "较高的温度以及稳定的物化特性组成。",
+        "dur": 3.411,
+        "n_char": 16,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 11,
+      "start": 40.954,
+      "end": 45.152,
+      "label": "guilin",
+      "text": "为推进全国统一大师仓建设、深化标准化管理改革，",
+      "score": 0.5566,
+      "signals": {
+        "mand_logprob": -0.6442,
+        "acoustic_dev": 0.794,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "仓/场",
+        "text_free": "为推进全国统一大市场建设，深化标准化管理改革。",
+        "dur": 4.198,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 12,
+      "start": 45.388,
+      "end": 51.609,
+      "label": "mandarin",
+      "text": "市市场监管局指导桂林鸡血玉协会联合市产品质量检验所、",
+      "score": 0.3111,
+      "signals": {
+        "mand_logprob": -0.3606,
+        "acoustic_dev": 0.423,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "市市场监管局指导桂林积雪御雪肥联合市产品质量检验所。",
+        "dur": 6.221,
+        "n_char": 25,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.879,
+      "end": 57.156,
+      "label": "mandarin",
+      "text": "桂林理工大学等九家单位和机构共同组成标准编制组，",
+      "score": 0.0199,
+      "signals": {
+        "mand_logprob": -0.0098,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂林理工大学等九家单位或机构共同组成标准编制组。",
+        "dur": 5.277,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 14,
+      "start": 57.412,
+      "end": 62.402,
+      "label": "guilin",
+      "text": "针对上游矿区、加工场所以及销售市场开展系统调研，",
+      "score": 0.6031,
+      "signals": {
+        "mand_logprob": -1.0653,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "团队深入矿区、加工场所以及销售市场，开展系统调研。",
+        "dur": 4.99,
+        "n_char": 22,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 15,
+      "start": 62.472,
+      "end": 64.785,
+      "label": "mandarin",
+      "text": "采集样本数据数百份，",
+      "score": 0.0608,
+      "signals": {
+        "mand_logprob": -0.1275,
+        "acoustic_dev": 0.117,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "采集样本数据数百份。",
+        "dur": 2.313,
+        "n_char": 9,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 16,
+      "start": 64.785,
+      "end": 68.732,
+      "label": "mandarin",
+      "text": "并广泛征求检测机构、企业以及社会意见，",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并广泛征求监测机构、企业以及社会意见。",
+        "dur": 3.947,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 17,
+      "start": 68.891,
+      "end": 71.137,
+      "label": "mandarin",
+      "text": "吸纳二十余条专业建议，",
+      "score": 0.1914,
+      "signals": {
+        "mand_logprob": -0.0339,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "纳/腊",
+        "text_free": "希腊二十余条专业建议。",
+        "dur": 2.246,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 18,
+      "start": 71.344,
+      "end": 78.256,
+      "label": "mandarin",
+      "text": "经反复修订完善，桂林鸡血玉团体标准于二零二五年八月一号正式发布。",
+      "score": 0.0457,
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "经反复修订完善，桂林积雪雨团体标准于二零二五年八月一号正式发布。",
+        "dur": 6.912,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 19,
+      "start": 78.29,
+      "end": 86.6,
+      "label": "mandarin",
+      "text": "这一标准不仅为产品注入新动力，也标志着桂林鸡血玉走向规范化、高质量发展的新阶段。",
+      "score": 0.0247,
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.054,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这一标准不仅为产品注入新动力，也标志着桂林积雪玉走向规范化、高质量发展的新阶段。",
+        "dur": 8.31,
+        "n_char": 37
+      }
+    },
+    {
+      "id": 20,
+      "start": 86.6,
+      "end": 89.403,
+      "label": "mandarin",
+      "text": "我们希望通过强技术、",
+      "score": 0.1016,
+      "signals": {
+        "mand_logprob": -0.0307,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们希望通过强金属。",
+        "dur": 2.803,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 21,
+      "start": 89.575,
+      "end": 92.022,
+      "label": "uncertain",
+      "text": "扩眼界、增视野，",
+      "score": 0.4973,
+      "signals": {
+        "mand_logprob": -0.7677,
+        "acoustic_dev": 0.956,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "扩眼界，增视野。",
+        "dur": 2.447,
+        "n_char": 6,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 22,
+      "start": 92.549,
+      "end": 96.759,
+      "label": "mandarin",
+      "text": "将鸡血玉打造成桂林高端伴手礼，",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.0322,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "将滴血玉打造成桂林高端伴手礼。",
+        "dur": 4.21,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 23,
+      "start": 96.759,
+      "end": 102.027,
+      "label": "mandarin",
+      "text": "为建设桂林世界级旅游城市注入文化与产业动能。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为建设桂林世界级旅游城市，注入文化与产业动能。",
+        "dur": 5.268,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 24,
+      "start": 102.027,
+      "end": 105.903,
+      "label": "mandarin",
+      "text": "当前传统技艺面临市场转型挑战，",
+      "score": 0.2568,
+      "signals": {
+        "mand_logprob": -0.3192,
+        "acoustic_dev": 0.368,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "当前传统经营面临市场转型挑战。",
+        "dur": 3.876,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 25,
+      "start": 106.346,
+      "end": 109.608,
+      "label": "mandarin",
+      "text": "培训及聚焦技艺传承的根，",
+      "score": 0.0931,
+      "signals": {
+        "mand_logprob": -0.0529,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "培训及聚焦记忆传承的根。",
+        "dur": 3.262,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 26,
+      "start": 109.92,
+      "end": 113.308,
+      "label": "mandarin",
+      "text": "也开拓数字营销的路，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也开拓数字营销的路。",
+        "dur": 3.388,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 27,
+      "start": 113.308,
+      "end": 118.049,
+      "label": "mandarin",
+      "text": "推动产业从工艺价值向品牌价值升级。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "推动产业从工艺价值向品牌价值升级。",
+        "dur": 4.741,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 28,
+      "start": 118.233,
+      "end": 123.276,
+      "label": "mandarin",
+      "text": "新发布的团体标准科学明确了桂林鸡血玉的分类指标、",
+      "score": 0.3399,
+      "signals": {
+        "mand_logprob": -0.2655,
+        "acoustic_dev": 0.298,
+        "seg_cer": 0.435,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.1,
+        "phon_examples": "新/刑",
+        "text_free": "刑法部里团体标准可说明出了桂林医学院的分类指标。",
+        "dur": 5.043,
+        "n_char": 23,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 29,
+      "start": 123.276,
+      "end": 127.401,
+      "label": "mandarin",
+      "text": "材料属性、鉴定方法以及定名规则，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "材料属性、鉴定方法以及定名规则。",
+        "dur": 4.125,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 30,
+      "start": 127.611,
+      "end": 131.576,
+      "label": "guilin",
+      "text": "不仅有助于丰富规范经营、消费者辨别真伪，",
+      "score": 0.5517,
+      "signals": {
+        "mand_logprob": -0.6263,
+        "acoustic_dev": 0.771,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "富/户",
+        "text_free": "不仅有助于商户规范经营，消费者辨别真伪。",
+        "dur": 3.965,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 31,
+      "start": 131.731,
+      "end": 134.666,
+      "label": "mandarin",
+      "text": "也为检验机构提供权威依据，",
+      "score": 0.0118,
+      "signals": {
+        "mand_logprob": -0.0556,
+        "acoustic_dev": 0.023,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也为检验机构提供权威依据。",
+        "dur": 2.935,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 32,
+      "start": 134.805,
+      "end": 140.003,
+      "label": "mandarin",
+      "text": "进一步提升桂林鸡血玉作为城市文化名片的公信力和影响力。",
+      "score": 0.0527,
+      "signals": {
+        "mand_logprob": -0.0266,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.115,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "进一步提升桂林积雪鱼作为城市文化名片的公信力和影响力。",
+        "dur": 5.198,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 33,
+      "start": 140.04,
+      "end": 145.924,
+      "label": "mandarin",
+      "text": "以前的游客都喜欢低价挂件，现在通过数据分析发现，",
+      "score": 0.1333,
+      "signals": {
+        "mand_logprob": -0.1729,
+        "acoustic_dev": 0.177,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以前觉得游客都喜欢低价挂件，现在通过数据分析发现。",
+        "dur": 5.884,
+        "n_char": 22,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 34,
+      "start": 146.07,
+      "end": 149.557,
+      "label": "mandarin",
+      "text": "年轻游客更愿意为文化IP款买单。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "年轻游客更愿意为文化IP款买单。",
+        "dur": 3.487,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 35,
+      "start": 149.681,
+      "end": 153.658,
+      "label": "mandarin",
+      "text": "我打算把店铺里的山水题材玉雕结合桂林山、水、",
+      "score": 0.3459,
+      "signals": {
+        "mand_logprob": -0.4115,
+        "acoustic_dev": 0.489,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我打算把店铺里的山水器材浴吊结合桂林山水三。",
+        "dur": 3.977,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 36,
+      "start": 153.919,
+      "end": 157.239,
+      "label": "mandarin",
+      "text": "江等元素，设计成城市记忆系列，",
+      "score": 0.1616,
+      "signals": {
+        "mand_logprob": -0.2237,
+        "acoustic_dev": 0.243,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "丽江等元素设计成城市记忆系列。",
+        "dur": 3.32,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 37,
+      "start": 157.346,
+      "end": 162.027,
+      "label": "guilin",
+      "text": "再用培训教到大师凭技巧拍摄玉雕里的桂林整体，",
+      "score": 0.6923,
+      "signals": {
+        "mand_logprob": -1.1681,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "凭/频",
+        "text_free": "再用培训教的短视频技巧拍摄玉雕里的桂林专题。",
+        "dur": 4.681,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 38,
+      "start": 162.027,
+      "end": 166.617,
+      "label": "guilin",
+      "text": "吸引文旅消费客群。产业发展引才最关键，",
+      "score": 0.6007,
+      "signals": {
+        "mand_logprob": -2.6833,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "吸引文旅消费客群，产业要发展，人才是关键。",
+        "dur": 4.59,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 39,
+      "start": 166.783,
+      "end": 169.844,
+      "label": "guilin",
+      "text": "我市持续推动工艺美术人才梯队建设，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -2.4625,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.688,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我是赤树特工，公益美术营参，体德建设。",
+        "dur": 3.061,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 40,
+      "start": 169.982,
+      "end": 173.35,
+      "label": "mandarin",
+      "text": "通过大师工作室建设、精品创作工程、",
+      "score": 0.2116,
+      "signals": {
+        "mand_logprob": -0.3486,
+        "acoustic_dev": 0.407,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过大师工作室建设，精品创作工程。",
+        "dur": 3.368,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 41,
+      "start": 173.42,
+      "end": 176.896,
+      "label": "mandarin",
+      "text": "专业培训、职称评审等一系列举措，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0383,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "专业培训、职称评审等一系列举措。",
+        "dur": 3.476,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 42,
+      "start": 177.061,
+      "end": 179.865,
+      "label": "mandarin",
+      "text": "积极培育优秀工艺美术人才。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "积极培育优秀工艺美术人才。",
+        "dur": 2.804,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 43,
+      "start": 179.865,
+      "end": 185.011,
+      "label": "mandarin",
+      "text": "我对这个鸡血玉雕刻这一方面跟营销方面我也比较热爱。",
+      "score": 0.0967,
+      "signals": {
+        "mand_logprob": -0.0963,
+        "acoustic_dev": 0.076,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我对这个积雪玉雕刻这方面跟营销方面，我也比较热爱。",
+        "dur": 5.146,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 44,
+      "start": 185.232,
+      "end": 187.688,
+      "label": "mandarin",
+      "text": "呃，为了打造桂林世界旅游城市，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，为了打造桂林世界旅游城市。",
+        "dur": 2.456,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 45,
+      "start": 187.806,
+      "end": 190.239,
+      "label": "mandarin",
+      "text": "我们能够更好的服务于我们",
+      "score": 0.0161,
+      "signals": {
+        "mand_logprob": -0.062,
+        "acoustic_dev": 0.031,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们能够更好的服务于我们。",
+        "dur": 2.433,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 46,
+      "start": 190.804,
+      "end": 195.301,
+      "label": "mandarin",
+      "text": "桂林本地的这个特色鸡血玉这一块，",
+      "score": 0.1022,
+      "signals": {
+        "mand_logprob": -0.0541,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂林本地的这个特色积雪日这一块。",
+        "dur": 4.497,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 47,
+      "start": 195.41,
+      "end": 199.652,
+      "label": "mandarin",
+      "text": "也为了更好的培训这个鸡血玉雕刻方面的人才，",
+      "score": 0.0457,
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也为了更好的培训这个机器玉雕刻方面的人才。",
+        "dur": 4.242,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 48,
+      "start": 199.652,
+      "end": 202.333,
+      "label": "mandarin",
+      "text": "能够走出桂林，走出全国，走上世界。",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "能够走出桂林，走出全国，走向世界。",
+        "dur": 2.681,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 49,
+      "start": 202.473,
+      "end": 207.397,
+      "label": "mandarin",
+      "text": "以鸡血玉为代表，桂林工艺美术产业近年来发展迅速，",
+      "score": 0.1191,
+      "signals": {
+        "mand_logprob": -0.1215,
+        "acoustic_dev": 0.109,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以吉穴鱼为代表，桂林工艺美术产业近年来发展迅速。",
+        "dur": 4.924,
+        "n_char": 22,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 50,
+      "start": 207.59,
+      "end": 210.679,
+      "label": "mandarin",
+      "text": "涵盖刺绣、竹木雕、石雕、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "涵盖刺绣、竹木雕、石雕。",
+        "dur": 3.089,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 51,
+      "start": 210.679,
+      "end": 213.785,
+      "label": "mandarin",
+      "text": "陶瓷、工艺画、珠宝等等多个门类。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0152,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "陶瓷、工艺画、珠宝等等多个门类。",
+        "dur": 3.106,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 52,
+      "start": 213.976,
+      "end": 219.141,
+      "label": "mandarin",
+      "text": "其中根雕、石雕、工艺团扇等在国内外享有较高声誉，",
+      "score": 0.0376,
+      "signals": {
+        "mand_logprob": -0.0615,
+        "acoustic_dev": 0.03,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "其中，工雕、石雕工艺团扇等，在国内外享有较高声誉。",
+        "dur": 5.165,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 53,
+      "start": 219.537,
+      "end": 228.173,
+      "label": "mandarin",
+      "text": "部分已经形成知名品牌。鸡血玉、矿物晶体、古生物化石等等特色品类更是桂林独有资源，",
+      "score": 0.0254,
+      "signals": {
+        "mand_logprob": -0.0347,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "部分已经形成知名品牌，积雪玉、矿物晶体、古生物化石等等特色品类，更是桂林独有资源。",
+        "dur": 8.636,
+        "n_char": 36
+      }
+    },
+    {
+      "id": 54,
+      "start": 228.173,
+      "end": 230.59,
+      "label": "guilin",
+      "text": "产业链条日趋完善，",
+      "score": 0.6343,
+      "signals": {
+        "mand_logprob": -0.9405,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "产业链条一曲完善。",
+        "dur": 2.417,
+        "n_char": 8,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 55,
+      "start": 230.834,
+      "end": 233.152,
+      "label": "mandarin",
+      "text": "集群效应不断凸显。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "集群效应不断凸显。",
+        "dur": 2.318,
+        "n_char": 8
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

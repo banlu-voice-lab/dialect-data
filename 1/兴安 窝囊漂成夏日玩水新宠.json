@@ -1,0 +1,417 @@
+{
+  "src_audio": "兴安 窝囊漂成夏日玩水新宠.wav",
+  "duration": 91.636,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.233,
+      "label": "mandarin",
+      "text": "最近啊，一种名为“卧浪漂”的独特漂流方式悄然兴起了，不，",
+      "score": 0.2279,
+      "signals": {
+        "mand_logprob": -0.2195,
+        "acoustic_dev": 0.362,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "最近啊，一种名为“我浪漂”的独特漂流方式悄然兴起了吧？",
+        "dur": 5.233,
+        "n_char": 23,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.233,
+      "end": 8.599,
+      "label": "guilin",
+      "text": "迅速成为了暑期旅游的热门项目，",
+      "score": 0.5853,
+      "signals": {
+        "mand_logprob": -0.5812,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "迅速成为了出去旅游的热门项目。",
+        "dur": 3.366,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.789,
+      "end": 11.279,
+      "label": "mandarin",
+      "text": "吸引了众多游客前来体验。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "吸引了众多游客前来体验。",
+        "dur": 2.49,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.526,
+      "end": 18.055,
+      "label": "mandarin",
+      "text": "这种区别于传统刺激性漂流的新耍法，以其休闲惬意的特点，",
+      "score": 0.1583,
+      "signals": {
+        "mand_logprob": -0.0112,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "新/行",
+        "lexicon": "耍",
+        "text_free": "这种区别于传统刺激性漂流的行耍法，以其休闲惬意的特点。",
+        "dur": 6.529,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.055,
+      "end": 22.163,
+      "label": "mandarin",
+      "text": "为游客们提供了一种全新的亲近自然、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为游客们提供了一种全新的亲近自然。",
+        "dur": 4.108,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.163,
+      "end": 24.415,
+      "label": "mandarin",
+      "text": "放松身心的方式。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "放松身心的方式。",
+        "dur": 2.252,
+        "n_char": 7
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.588,
+      "end": 29.626,
+      "label": "mandarin",
+      "text": "卧浪漂，顾名思义，就是一种轻松自在的漂流体验。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "卧浪漂，顾名思义，就是一种轻松自在的漂流体验。",
+        "dur": 5.038,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 8,
+      "start": 29.626,
+      "end": 32.293,
+      "label": "guilin",
+      "text": "游客只需要穿戴简单的护具，",
+      "score": 0.5934,
+      "signals": {
+        "mand_logprob": -0.4609,
+        "acoustic_dev": 0.802,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "护/服",
+        "text_free": "游客只需要穿戴简单的服装。",
+        "dur": 2.667,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 9,
+      "start": 32.293,
+      "end": 34.463,
+      "label": "guilin",
+      "text": "手脚张开成大字形，",
+      "score": 0.5771,
+      "signals": {
+        "mand_logprob": -1.0292,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "手镯张开成大字形。",
+        "dur": 2.17,
+        "n_char": 8,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 10,
+      "start": 34.463,
+      "end": 37.715,
+      "label": "mandarin",
+      "text": "平躺在水流缓慢、清澈见底的河段，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "平躺在水流缓慢、清澈见底的河段。",
+        "dur": 3.252,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 11,
+      "start": 37.916,
+      "end": 42.353,
+      "label": "mandarin",
+      "text": "就能够随波逐流，悠闲享受大自然的美好。",
+      "score": 0.0538,
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就能够随波逐流，有颜享受大自然的美好。",
+        "dur": 4.437,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 12,
+      "start": 42.763,
+      "end": 45.873,
+      "label": "mandarin",
+      "text": "与传统的激流勇进式的漂流不同，",
+      "score": 0.0749,
+      "signals": {
+        "mand_logprob": -0.0313,
+        "acoustic_dev": 0.018,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "与传统的急流涌进式的漂流不同。",
+        "dur": 3.11,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 13,
+      "start": 45.876,
+      "end": 50.344,
+      "label": "mandarin",
+      "text": "卧浪漂更加注重游客与山水的亲密接触，",
+      "score": 0.0978,
+      "signals": {
+        "mand_logprob": -0.0393,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我廊票更加注重游客与山水的亲密接触。",
+        "dur": 4.468,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 14,
+      "start": 50.557,
+      "end": 57.824,
+      "label": "mandarin",
+      "text": "强调放松与惬意，尤其是适合那些追求休闲度假、享受慢生活的游客。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "强调放松与惬意，尤其是适合那些追求休闲度假、享受慢生活的游客。",
+        "dur": 7.267,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 15,
+      "start": 58.18,
+      "end": 63.716,
+      "label": "uncertain",
+      "text": "发江瑶族乡的卧浪漂项目依托猫儿山得天独厚的自然环境，",
+      "score": 0.4798,
+      "signals": {
+        "mand_logprob": -0.3167,
+        "acoustic_dev": 0.539,
+        "seg_cer": 0.28,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "浪/囊 族/竹",
+        "text_free": "华江窑竹乡的窝囊漂项目，依托马二山得天独厚的自然环境。",
+        "dur": 5.536,
+        "n_char": 25,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 16,
+      "start": 63.918,
+      "end": 68.588,
+      "label": "mandarin",
+      "text": "这里的水质清澈透明，被游客们亲切地称为“果冻水”。",
+      "score": 0.0218,
+      "signals": {
+        "mand_logprob": -0.0047,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这口的水质清澈透明，被游客们亲切地称为“果冻水”。",
+        "dur": 4.67,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 17,
+      "start": 69.019,
+      "end": 73.534,
+      "label": "mandarin",
+      "text": "躺在正直的水里面漂流，仿佛置身于大自然的怀抱，",
+      "score": 0.1435,
+      "signals": {
+        "mand_logprob": -0.0066,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.095,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "直/子 正/镇",
+        "text_free": "躺在镇子的水里面漂流，仿佛置身于大自然的怀抱。",
+        "dur": 4.515,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 18,
+      "start": 73.759,
+      "end": 76.667,
+      "label": "mandarin",
+      "text": "让人身心得到极大的放松。",
+      "score": 0.0831,
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "杨颖身心得到极大的放松。",
+        "dur": 2.908,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 19,
+      "start": 77.129,
+      "end": 81.89,
+      "label": "mandarin",
+      "text": "除了卧浪漂，当地还建设了行云湖水上运动中心，",
+      "score": 0.0373,
+      "signals": {
+        "mand_logprob": -0.0365,
+        "acoustic_dev": 0.028,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "除了卧廊漂，当地还建设了行云湖水上运动中心。",
+        "dur": 4.761,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 20,
+      "start": 82.024,
+      "end": 85.012,
+      "label": "guilin",
+      "text": "推出了引体漂流、深潭潜水、",
+      "score": 0.7031,
+      "signals": {
+        "mand_logprob": -0.9933,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "引/硬",
+        "text_free": "推出了“硬体漂流”、“深探潜水”。",
+        "dur": 2.988,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 21,
+      "start": 85.012,
+      "end": 88.386,
+      "label": "mandarin",
+      "text": "桨板运动等等一系列新产品新业态，",
+      "score": 0.0385,
+      "signals": {
+        "mand_logprob": -0.0619,
+        "acoustic_dev": 0.074,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桨板运动等等一系列新产品新业态。",
+        "dur": 3.374,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 22,
+      "start": 88.559,
+      "end": 91.636,
+      "label": "uncertain",
+      "text": "丰富游客的夏意亲水体验。",
+      "score": 0.4331,
+      "signals": {
+        "mand_logprob": -0.2584,
+        "acoustic_dev": 0.433,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "亲/清",
+        "text_free": "丰富游客的下邑清水体验。",
+        "dur": 3.077,
+        "n_char": 11,
+        "text_check": "留意"
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

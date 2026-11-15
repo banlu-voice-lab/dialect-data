@@ -1,0 +1,528 @@
+{
+  "src_audio": "全州妮娜皇后抢鲜上市 亩产值超4万元.wav",
+  "duration": 133.339,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.327,
+      "end": 4.987,
+      "label": "mandarin",
+      "text": "炎炎夏季，清凉可口的水果可以讲是备受关注。",
+      "score": 0.0241,
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "炎炎夏季，清凉可口的水果可以将是备受关注。",
+        "dur": 4.66,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.237,
+      "end": 12.599,
+      "label": "uncertain",
+      "text": "最近，有葡萄干爱马仕之称的利拉方后血缘式葡萄步入了转色成熟期，",
+      "score": 0.3857,
+      "signals": {
+        "mand_logprob": -0.2476,
+        "acoustic_dev": 0.62,
+        "seg_cer": 0.138,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "最近，由葡萄干爱马仕之称的利拉房后悬式葡萄步入了转色成熟期。",
+        "dur": 7.362,
+        "n_char": 29,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 3,
+      "start": 12.953,
+      "end": 17.18,
+      "label": "mandarin",
+      "text": "凭借其优势在市场上成了抢手货。",
+      "score": 0.0187,
+      "signals": {
+        "mand_logprob": -0.0298,
+        "acoustic_dev": 0.036,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "凭借其优势，在市场上成了抢手货。",
+        "dur": 4.227,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 4,
+      "start": 23.62,
+      "end": 30.493,
+      "label": "mandarin",
+      "text": "走进泉州县少水镇葡萄大棚内，可可玉红宝石般的利拉方后缀满藤蔓。",
+      "score": 0.3705,
+      "signals": {
+        "mand_logprob": -0.1692,
+        "acoustic_dev": 0.41,
+        "seg_cer": 0.276,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.125,
+        "phon_examples": "拉/那",
+        "text_free": "走进泉州县沙水镇葡萄大棚内，颗颗如红宝石般滴绿那房后，缀满藤蔓。",
+        "dur": 6.873,
+        "n_char": 29,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 5,
+      "start": 30.675,
+      "end": 35.88,
+      "label": "mandarin",
+      "text": "工人们穿梭于葡萄架间，小心翼翼地将饱满的果实剪下，",
+      "score": 0.3479,
+      "signals": {
+        "mand_logprob": -0.164,
+        "acoustic_dev": 0.396,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "梭/说",
+        "text_free": "工艺们传说于葡萄家间，小心翼翼地将饱满的果实剪下。",
+        "dur": 5.205,
+        "n_char": 23,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 6,
+      "start": 36.174,
+      "end": 39.4,
+      "label": "mandarin",
+      "text": "第一时间从果园快递至消费者手中。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "第一时间从果园快递至消费者手中。",
+        "dur": 3.226,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 7,
+      "start": 39.701,
+      "end": 43.9,
+      "label": "mandarin",
+      "text": "市场价是三十到四十块钱一斤，收网是广东、新疆、",
+      "score": 0.2775,
+      "signals": {
+        "mand_logprob": -0.1498,
+        "acoustic_dev": 0.358,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "市场价格是三十到四十块钱一斤，上网是广东、深圳。",
+        "dur": 4.199,
+        "n_char": 20,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 8,
+      "start": 43.9,
+      "end": 48.76,
+      "label": "guilin",
+      "text": "东莞那边。据了解，利拉方后是欧美杂交种葡萄，",
+      "score": 0.5727,
+      "signals": {
+        "mand_logprob": -0.375,
+        "acoustic_dev": 0.963,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "东莞那边。根据了解，里拉房后是欧美杂交种葡萄。",
+        "dur": 4.86,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 9,
+      "start": 49.019,
+      "end": 53.506,
+      "label": "mandarin",
+      "text": "原产于日本，果实单颗重达十五到二十克，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0104,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "原产于日本，果实单颗重达十五到二十克。",
+        "dur": 4.487,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 10,
+      "start": 53.661,
+      "end": 60.271,
+      "label": "guilin",
+      "text": "糖度高达百分之二十五以上。由于利拉方后血缘式葡萄对土壤、",
+      "score": 0.6079,
+      "signals": {
+        "mand_logprob": -0.7505,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.192,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "糖度高达百分之二十五以上。由于离拉房后，选食葡萄对土壤。",
+        "dur": 6.61,
+        "n_char": 26,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 60.271,
+      "end": 65.811,
+      "label": "mandarin",
+      "text": "日照、温差、降雨以及种植技术有着严苛的要求，",
+      "score": 0.0241,
+      "signals": {
+        "mand_logprob": -0.0079,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "依照温差、降雨以及种植技术，有着严苛的要求。",
+        "dur": 5.54,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 12,
+      "start": 66.094,
+      "end": 68.976,
+      "label": "mandarin",
+      "text": "再加上良好的香气、糖度和口感，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "再加上良好的香气、糖度和口感。",
+        "dur": 2.882,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 13,
+      "start": 69.206,
+      "end": 71.759,
+      "label": "mandarin",
+      "text": "造就其高端的市场定位。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "造就其高端的市场定位。",
+        "dur": 2.553,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 14,
+      "start": 72.194,
+      "end": 76.72,
+      "label": "guilin",
+      "text": "二零二四年，利拉方后血缘式葡萄在泉州试种成功，",
+      "score": 0.6724,
+      "signals": {
+        "mand_logprob": -0.4456,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零二四年，列拉房后悬石葡萄在泉州失重成功。",
+        "dur": 4.526,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 15,
+      "start": 76.72,
+      "end": 82.436,
+      "label": "mandarin",
+      "text": "今年进行推广种植。在种植的过程中，泉州县坚持品质为王，",
+      "score": 0.2056,
+      "signals": {
+        "mand_logprob": -0.1501,
+        "acoustic_dev": 0.359,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年进行推广种植，在种植的过程当中，泉州县坚持品质为王。",
+        "dur": 5.716,
+        "n_char": 24,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 16,
+      "start": 82.72,
+      "end": 86.828,
+      "label": "mandarin",
+      "text": "通过控产提质、科学管护等一系列的措施，",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0159,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过空产提质、科学管护等一系列的措施。",
+        "dur": 4.108,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 17,
+      "start": 87.011,
+      "end": 91.676,
+      "label": "uncertain",
+      "text": "有效提升了利拉方后血缘式葡萄果实的果品和果质。",
+      "score": 0.509,
+      "signals": {
+        "mand_logprob": -0.2172,
+        "acoustic_dev": 0.539,
+        "seg_cer": 0.318,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "质/子 拉/那",
+        "text_free": "有效提升了列那方后选是葡萄果实的果品或果子。",
+        "dur": 4.665,
+        "n_char": 22,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 18,
+      "start": 91.895,
+      "end": 94.113,
+      "label": "uncertain",
+      "text": "果实的穗型、颗粒、",
+      "score": 0.5399,
+      "signals": {
+        "mand_logprob": -0.3097,
+        "acoustic_dev": 0.787,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "果实的碎形颗粒。",
+        "dur": 2.218,
+        "n_char": 7,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 19,
+      "start": 94.241,
+      "end": 99.02,
+      "label": "mandarin",
+      "text": "着色、糖度都达到了我们推广种植的预期目标。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0062,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "着色、糖度都达到了我们推广种植的预期目标。",
+        "dur": 4.779,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 20,
+      "start": 99.274,
+      "end": 102.498,
+      "label": "mandarin",
+      "text": "按照每亩一千五百斤的产量，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "按照每亩一千五百斤的产量。",
+        "dur": 3.224,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 21,
+      "start": 102.498,
+      "end": 105.46,
+      "label": "mandarin",
+      "text": "三十元每斤的出园价测算，",
+      "score": 0.0423,
+      "signals": {
+        "mand_logprob": -0.017,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "三十元每斤的出原价测算。",
+        "dur": 2.962,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 22,
+      "start": 105.705,
+      "end": 109.879,
+      "label": "guilin",
+      "text": "今年利拉方后葡萄亩产值将超四万元。",
+      "score": 0.6057,
+      "signals": {
+        "mand_logprob": -0.4216,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年李老王后葡萄亩产值将超四万元。",
+        "dur": 4.174,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 110.113,
+      "end": 115.486,
+      "label": "mandarin",
+      "text": "近年来，泉州县将特色农业发展作为推动乡村振兴的重要抓手，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近年来，泉州县将特色农业发展作为推动乡村振兴的重要抓手。",
+        "dur": 5.373,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 24,
+      "start": 115.788,
+      "end": 118.104,
+      "label": "mandarin",
+      "text": "依托得天独厚的自然条件，",
+      "score": 0.3663,
+      "signals": {
+        "mand_logprob": -0.2193,
+        "acoustic_dev": 0.545,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "依托得天独厚的资源条件。",
+        "dur": 2.316,
+        "n_char": 11,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 25,
+      "start": 118.104,
+      "end": 121.724,
+      "label": "mandarin",
+      "text": "大力培育葡萄、桃李等等优势产业。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "大力培育葡萄、桃李等等优势产业。",
+        "dur": 3.62,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 26,
+      "start": 122.09,
+      "end": 127.034,
+      "label": "mandarin",
+      "text": "目前，该县各类优质水果种植面积达到五十四点六万亩，",
+      "score": 0.1398,
+      "signals": {
+        "mand_logprob": -0.0064,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "类/内",
+        "text_free": "目前，该县国内优质水果种植面积达到五十四点六万亩。",
+        "dur": 4.944,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 27,
+      "start": 127.27,
+      "end": 130.389,
+      "label": "mandarin",
+      "text": "年总产量达到一百零八点八万吨，",
+      "score": 0.1327,
+      "signals": {
+        "mand_logprob": -0.0104,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "年/连",
+        "text_free": "连总产量达到一百零八点八万吨。",
+        "dur": 3.119,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 28,
+      "start": 130.587,
+      "end": 133.339,
+      "label": "mandarin",
+      "text": "年产值超过三十七个亿。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "年产值超过三十七个亿。",
+        "dur": 2.752,
+        "n_char": 10
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

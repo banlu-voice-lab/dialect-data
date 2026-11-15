@@ -1,0 +1,1490 @@
+{
+  "src_audio": "八年接力支教路 苏州大学支教团为灵川乡村教育注入暖流.wav",
+  "duration": 352.632,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.369,
+      "end": 4.743,
+      "label": "mandarin",
+      "text": "接下来，看一下苏州大学到我们桂林山区支教的班罗。",
+      "score": 0.2814,
+      "signals": {
+        "mand_logprob": -0.2413,
+        "acoustic_dev": 0.168,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "支/自",
+        "lexicon": "板路",
+        "text_free": "接下来，测一下苏州大学到我们桂林山区自驾的板路。",
+        "dur": 4.374,
+        "n_char": 22,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.928,
+      "end": 11.505,
+      "label": "mandarin",
+      "text": "二零一八年，苏州大学微草支教团收到了临川县学联的一封特殊的邀请。",
+      "score": 0.0152,
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零一八年，苏州大学微草职教团收到了临川县学联的一封特殊的邀请。",
+        "dur": 6.577,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.752,
+      "end": 16.231,
+      "label": "mandarin",
+      "text": "从这一年开始，他们每年暑假都会跨越山川，",
+      "score": 0.1946,
+      "signals": {
+        "mand_logprob": -0.1139,
+        "acoustic_dev": 0.059,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "山/三",
+        "text_free": "从这一年开始，他们每年出价都费跨越三川。",
+        "dur": 4.479,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.33,
+      "end": 19.343,
+      "label": "mandarin",
+      "text": "来到临川县山区乡镇支教，",
+      "score": 0.1725,
+      "signals": {
+        "mand_logprob": -0.1148,
+        "acoustic_dev": 0.059,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "山/三",
+        "text_free": "来到临川县三区乡镇支教。",
+        "dur": 3.013,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.5,
+      "end": 24.438,
+      "label": "mandarin",
+      "text": "用热情和青春书写对临川这片土地的温情约定。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "用热情和青春书写对临川这片土地的温情约定。",
+        "dur": 4.938,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.79,
+      "end": 28.949,
+      "label": "mandarin",
+      "text": "在三城八月寨里，心中撒下了希望的种子。",
+      "score": 0.1945,
+      "signals": {
+        "mand_logprob": -0.1004,
+        "acoustic_dev": 0.047,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "寨/仔",
+        "text_free": "在三成八爷仔的心中，撒下了希望的种子。",
+        "dur": 4.159,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.949,
+      "end": 33.912,
+      "label": "mandarin",
+      "text": "今年，苏州大学的微草支教团教学点是临川县公平乡中心校。",
+      "score": 0.1414,
+      "signals": {
+        "mand_logprob": -0.0215,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "草/超",
+        "text_free": "今年苏州大学的未超职教团招生点是临川县公平乡中心校。",
+        "dur": 4.963,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 8,
+      "start": 34.111,
+      "end": 37.384,
+      "label": "mandarin",
+      "text": "根据学生年龄，一共分了三个班进行教学。",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "根据学生年龄，一共分为了三个班进行教学。",
+        "dur": 3.273,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 9,
+      "start": 37.714,
+      "end": 41.755,
+      "label": "mandarin",
+      "text": "他们创新构建基础学科加美育实践教学模式，",
+      "score": 0.0481,
+      "signals": {
+        "mand_logprob": -0.0284,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "唐创新构建基础学科加美育实践教学模式。",
+        "dur": 4.041,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.755,
+      "end": 45.574,
+      "label": "mandarin",
+      "text": "开发了手工搭建、创意书写等特色课程，",
+      "score": 0.0571,
+      "signals": {
+        "mand_logprob": -0.0212,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "开发了手工大件、创意书写等特色课程。",
+        "dur": 3.819,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 11,
+      "start": 45.913,
+      "end": 48.997,
+      "label": "guilin",
+      "text": "将设计思维转化为创造的培养工具。",
+      "score": 0.7224,
+      "signals": {
+        "mand_logprob": -1.6997,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "思/师",
+        "text_free": "将设计师为专发为创造力培养工具。",
+        "dur": 3.084,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 12,
+      "start": 48.997,
+      "end": 52.631,
+      "label": "mandarin",
+      "text": "还通过自然揭秘、乡村美育等课程，",
+      "score": 0.2754,
+      "signals": {
+        "mand_logprob": -0.3036,
+        "acoustic_dev": 0.222,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "还通过字验解密、相声美育等课程。",
+        "dur": 3.634,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 13,
+      "start": 52.767,
+      "end": 56.218,
+      "label": "guilin",
+      "text": "培养八月寨们用发现美的视角看家乡、",
+      "score": 0.6298,
+      "signals": {
+        "mand_logprob": -0.911,
+        "acoustic_dev": 0.744,
+        "seg_cer": 0.312,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "视/四 寨/仔",
+        "text_free": "培养八爷仔们，用发现美丽四国看家乡。",
+        "dur": 3.451,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 14,
+      "start": 56.429,
+      "end": 61.745,
+      "label": "mandarin",
+      "text": "填补乡村艺术教育空白。这些课程也得到了八月寨们的青睐。",
+      "score": 0.0914,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "填补相声艺术教育空白，这些课程也得到了八爷掌门的青睐。",
+        "dur": 5.316,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 15,
+      "start": 62.222,
+      "end": 67.425,
+      "label": "guilin",
+      "text": "就是像我最喜欢的徐小丽老师的创意书写课程，",
+      "score": 0.7217,
+      "signals": {
+        "mand_logprob": -3.8713,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "书/速",
+        "text_free": "这次夏令营，我最喜欢的是小李老师的创意速写课程。",
+        "dur": 5.203,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 16,
+      "start": 67.432,
+      "end": 72.304,
+      "label": "mandarin",
+      "text": "是因为我在学校并没有接触过这类课程，觉得很新颖、很有趣。",
+      "score": 0.0183,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "是因为我在学校并没有接触过此类课程，觉得很新颖很有趣。",
+        "dur": 4.872,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.304,
+      "end": 76.968,
+      "label": "mandarin",
+      "text": "因为我觉得小丽老师很有耐心，告诉了我们很多知识。",
+      "score": 0.0623,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "另外，我觉得小李老师很有耐心，告诉了我们很多知识。",
+        "dur": 4.664,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 18,
+      "start": 77.164,
+      "end": 81.089,
+      "label": "mandarin",
+      "text": "支教对于大学生而言是一场全方位的历练，",
+      "score": 0.0987,
+      "signals": {
+        "mand_logprob": -0.2095,
+        "acoustic_dev": 0.141,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "执教对于大学生而言，是一场全方位的历练。",
+        "dur": 3.925,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 19,
+      "start": 81.335,
+      "end": 87.152,
+      "label": "mandarin",
+      "text": "师生支教过程也让团队成员的沟通能力或应变能力得到了提升。",
+      "score": 0.1085,
+      "signals": {
+        "mand_logprob": -0.099,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.185,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "事实上，执教过程也让团队成员的沟通能力和应变能力得到了提升。",
+        "dur": 5.817,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 20,
+      "start": 87.47,
+      "end": 90.256,
+      "label": "mandarin",
+      "text": "在和八月寨们朝夕相处的过程当中，",
+      "score": 0.3693,
+      "signals": {
+        "mand_logprob": -0.5116,
+        "acoustic_dev": 0.401,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "寨/仔",
+        "text_free": "在和八爷仔们朝夕相处的过程当中。",
+        "dur": 2.786,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 21,
+      "start": 90.428,
+      "end": 95.868,
+      "label": "mandarin",
+      "text": "这一群大八月也在不知不觉当中蜕变成了更有担当的大人。",
+      "score": 0.0549,
+      "signals": {
+        "mand_logprob": -0.0194,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这一群大把爷也在不知不觉当中蜕变成了更有担当的大英。",
+        "dur": 5.44,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 22,
+      "start": 95.868,
+      "end": 101.809,
+      "label": "mandarin",
+      "text": "通过这次支教呢，团队主要是提高了我们的呃家国认识和社会责任感。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过这次支教呢，团队主要是提高了我们的呃家国认识和社会责任感。",
+        "dur": 5.941,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 23,
+      "start": 101.992,
+      "end": 106.067,
+      "label": "mandarin",
+      "text": "呃，我们也认识到了在这样偏远的地方还有这样一群",
+      "score": 0.0006,
+      "signals": {
+        "mand_logprob": -0.0469,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，我们也认识到了，在这样偏远的地方，还有这样一群。",
+        "dur": 4.075,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 24,
+      "start": 106.411,
+      "end": 111.987,
+      "label": "mandarin",
+      "text": "呃可爱的孩子们。看到八月寨们在自己的帮助下发生积极变化，",
+      "score": 0.3272,
+      "signals": {
+        "mand_logprob": -0.475,
+        "acoustic_dev": 0.369,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "寨/仔",
+        "text_free": "呃，可爱的孩子们看到八爷仔们在自己的帮助下发生积极变化。",
+        "dur": 5.576,
+        "n_char": 26,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 25,
+      "start": 112.179,
+      "end": 114.858,
+      "label": "mandarin",
+      "text": "支教成员的心中充满了成就感。",
+      "score": 0.0352,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "执教成员的心中充满了成就感。",
+        "dur": 2.679,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 26,
+      "start": 115.116,
+      "end": 120.017,
+      "label": "mandarin",
+      "text": "他们和学生、家长还有当地群众之间也多了一份牵挂。",
+      "score": 0.081,
+      "signals": {
+        "mand_logprob": -0.0875,
+        "acoustic_dev": 0.036,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "谈获学生家长，还有当地群众之间，也多了一份牵挂。",
+        "dur": 4.901,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 27,
+      "start": 120.284,
+      "end": 123.175,
+      "label": "mandarin",
+      "text": "正是这一份一见深厚的感情，",
+      "score": 0.0945,
+      "signals": {
+        "mand_logprob": -0.2571,
+        "acoustic_dev": 0.182,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "正是这一份一见深厚的感情。",
+        "dur": 2.891,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 28,
+      "start": 123.175,
+      "end": 126.534,
+      "label": "mandarin",
+      "text": "让更多的大学生在第二年再次来到这里",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0096,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让更多的大学生在第二年再次来到这里。",
+        "dur": 3.359,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 29,
+      "start": 126.712,
+      "end": 128.986,
+      "label": "uncertain",
+      "text": "延续这份支教事业。",
+      "score": 0.4982,
+      "signals": {
+        "mand_logprob": -0.8019,
+        "acoustic_dev": 0.65,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "严肃这份职教事业。",
+        "dur": 2.274,
+        "n_char": 8,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 30,
+      "start": 129.006,
+      "end": 134.52,
+      "label": "mandarin",
+      "text": "我在今年还没有开始之前，也有很多家长就是来找我咨询，然后",
+      "score": 0.0352,
+      "signals": {
+        "mand_logprob": -0.0189,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我在今年还没有开始之前，也有很多家长就是来找我咨询。",
+        "dur": 5.514,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 31,
+      "start": 135.016,
+      "end": 138.109,
+      "label": "guilin",
+      "text": "我感觉就是心里又被触动了吧，",
+      "score": 0.5903,
+      "signals": {
+        "mand_logprob": -2.6585,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我感觉就是心里有被触动到吧。",
+        "dur": 3.093,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 32,
+      "start": 138.109,
+      "end": 142.981,
+      "label": "guilin",
+      "text": "就是感觉去年，好像过去一年还是有那么多人记得我们，",
+      "score": 0.5995,
+      "signals": {
+        "mand_logprob": -1.9829,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就是感觉去年，哦，原来过去了一年，还是有那么多人记得我们。",
+        "dur": 4.872,
+        "n_char": 23,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 33,
+      "start": 143.783,
+      "end": 147.545,
+      "label": "uncertain",
+      "text": "然后，然后呢？而且主要是很多家长还有学生都说，",
+      "score": 0.3899,
+      "signals": {
+        "mand_logprob": -0.8153,
+        "acoustic_dev": 0.662,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后呢？而且主要是很多家长还有学生都说。",
+        "dur": 3.762,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 34,
+      "start": 148.008,
+      "end": 153.603,
+      "label": "mandarin",
+      "text": "非常欢迎你们今年继续来。这些学生大老远的跑过来这里，挺不容易的。",
+      "score": 0.0158,
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "非常欢迎你们今年继续又来。这些学生大老远的跑过来这里，挺不容易的。",
+        "dur": 5.595,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 35,
+      "start": 154.034,
+      "end": 158.335,
+      "label": "uncertain",
+      "text": "带我们这些孩子上课，三十八度高温来这里，",
+      "score": 0.4913,
+      "signals": {
+        "mand_logprob": -0.974,
+        "acoustic_dev": 0.798,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "但我们这些小孩子上课，三十八度的高温来这里。",
+        "dur": 4.301,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 36,
+      "start": 158.368,
+      "end": 165.922,
+      "label": "mandarin",
+      "text": "挺辛苦他们的。而且我们小孩子在学校很高兴，回来都跟我们说学到了很多东西，很感激他们。",
+      "score": 0.0361,
+      "signals": {
+        "mand_logprob": -0.0236,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.079,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "挺辛苦他们的，而且我们小孩去了学校，很高兴，回来都跟我们说学到了很多东西，很感谢他们。",
+        "dur": 7.554,
+        "n_char": 38
+      }
+    },
+    {
+      "id": 37,
+      "start": 165.922,
+      "end": 174.207,
+      "label": "mandarin",
+      "text": "这份深厚羁绊的背后，是苏州大学一百多名师生连续八年接力扎根临川乡村默默耕耘的收获。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0404,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这份深厚羁绊的背后，是苏州大学一百多名师生连续八年接力，扎根临川乡村，默默耕耘的收获。",
+        "dur": 8.285,
+        "n_char": 39
+      }
+    },
+    {
+      "id": 38,
+      "start": 174.622,
+      "end": 178.848,
+      "label": "mandarin",
+      "text": "二零一八年初到临川的时候，教学点是在城北会议室，",
+      "score": 0.0559,
+      "signals": {
+        "mand_logprob": -0.0777,
+        "acoustic_dev": 0.028,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零一八年初到临川的时候，教学点设在城卫会议室。",
+        "dur": 4.226,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 39,
+      "start": 179.086,
+      "end": 182.813,
+      "label": "guilin",
+      "text": "不过在乡政府。住宿在中心小学，",
+      "score": 0.5885,
+      "signals": {
+        "mand_logprob": -1.2044,
+        "acoustic_dev": 0.997,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "备货在乡政府，住宿在中心小学。",
+        "dur": 3.727,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 40,
+      "start": 183.079,
+      "end": 185.635,
+      "label": "mandarin",
+      "text": "每天需要三点一线来回奔波。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "每天需要三点一线，来回奔波。",
+        "dur": 2.556,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 41,
+      "start": 185.92,
+      "end": 192.12,
+      "label": "mandarin",
+      "text": "二零一九年突如其降雨，支教成员们在积水未干的教室里面用课桌拼床休息，",
+      "score": 0.1357,
+      "signals": {
+        "mand_logprob": -0.0415,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.219,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "拼/平",
+        "text_free": "二零一九年，涂宇强将与执教成员们在积水未干的教室里面，用课桌平床休息。",
+        "dur": 6.2,
+        "n_char": 32
+      }
+    },
+    {
+      "id": 42,
+      "start": 192.501,
+      "end": 197.753,
+      "label": "mandarin",
+      "text": "但是八爷在们眼里头的光和家长的淳朴总能够化解大家的疲惫。",
+      "score": 0.0871,
+      "signals": {
+        "mand_logprob": -0.089,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.148,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "但是，八爷在门眼里头的广和家长的淳朴，总能够覆盖大家的疲惫。",
+        "dur": 5.252,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 43,
+      "start": 197.978,
+      "end": 201.091,
+      "label": "mandarin",
+      "text": "教室外面手捧着大西瓜等下课的家长，",
+      "score": 0.022,
+      "signals": {
+        "mand_logprob": -0.0949,
+        "acoustic_dev": 0.042,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "教室外面，手捧着大西瓜等下课的家长。",
+        "dur": 3.113,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 44,
+      "start": 201.212,
+      "end": 204.014,
+      "label": "mandarin",
+      "text": "离开的时候老奶奶递过来的手写信，",
+      "score": 0.008,
+      "signals": {
+        "mand_logprob": -0.0635,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "离开的时候，老奶奶递过来的手写信。",
+        "dur": 2.802,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 45,
+      "start": 204.122,
+      "end": 207.719,
+      "label": "mandarin",
+      "text": "都让这些大学生志愿者深深触动。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0052,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "都让这些大学生志愿者深深触动。",
+        "dur": 3.597,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 46,
+      "start": 207.755,
+      "end": 211.753,
+      "label": "mandarin",
+      "text": "信封他是用那个米粒给粘起来的啊，所以一一",
+      "score": 0.057,
+      "signals": {
+        "mand_logprob": -0.0654,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "信封它是用那个米粒给粘起来的啊，所以我一……一。",
+        "dur": 3.998,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 47,
+      "start": 212.336,
+      "end": 215.525,
+      "label": "mandarin",
+      "text": "我们打开了之后，我们在在那个张八寨打开之后，",
+      "score": 0.2321,
+      "signals": {
+        "mand_logprob": -0.4113,
+        "acoustic_dev": 0.314,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们打开了之后，我们再在那个张包宅打开之后。",
+        "dur": 3.189,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 48,
+      "start": 215.525,
+      "end": 219.734,
+      "label": "guilin",
+      "text": "很多人当时眼泪眼睛有点红，",
+      "score": 0.5962,
+      "signals": {
+        "mand_logprob": -2.4057,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "很多人当时眼泪，呃，这眼睛有点红。",
+        "dur": 4.209,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 49,
+      "start": 219.734,
+      "end": 222.153,
+      "label": "mandarin",
+      "text": "大家都那个说啊，明年我们还要再来。",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "大家都那个说：“哎，明年我们还要再来。”",
+        "dur": 2.419,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 50,
+      "start": 222.171,
+      "end": 229.331,
+      "label": "mandarin",
+      "text": "后来实际上我们到了一九年的时候，我们当时确实也是有三四个前一年同学来的，我们继续还来了。",
+      "score": 0.0223,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.049,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "后来实际上，我们到了一九年的时候，我们当时也确实也是有三四个前一年的同学来的，我们继续还来了。",
+        "dur": 7.16,
+        "n_char": 41
+      }
+    },
+    {
+      "id": 51,
+      "start": 229.331,
+      "end": 235.413,
+      "label": "mandarin",
+      "text": "不仅如此，支教团还连续五年为当地带来了社会爱心人士的暖心资助。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不仅如此，支教团还连续五年为当地带来了社会爱心人士的暖心资助。",
+        "dur": 6.082,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 52,
+      "start": 235.779,
+      "end": 242.371,
+      "label": "mandarin",
+      "text": "二零一九年强降雨，支教团队在未出发前就通过线上向社会发起倡议，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零一九年强降雨，支教团队在未出发前就通过线上向社会发起倡议。",
+        "dur": 6.592,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 53,
+      "start": 242.371,
+      "end": 245.814,
+      "label": "mandarin",
+      "text": "获得了无锡政府以及爱心企业的响应，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "获得了无锡政府以及爱心企业的响应。",
+        "dur": 3.443,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 54,
+      "start": 246.01,
+      "end": 250.509,
+      "label": "mandarin",
+      "text": "远在千里之外的爱心，催着支教团来到了临川群众身边。",
+      "score": 0.143,
+      "signals": {
+        "mand_logprob": -0.0076,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.13,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "催/吹",
+        "text_free": "远在千里之外的爱心，吹着纸轿团来到了临川群众身边。",
+        "dur": 4.499,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 55,
+      "start": 250.958,
+      "end": 253.732,
+      "label": "mandarin",
+      "text": "从那以后，寻求社会力量的支持，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0031,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从那以后，寻求社会力量的支持。",
+        "dur": 2.774,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 56,
+      "start": 253.867,
+      "end": 256.506,
+      "label": "guilin",
+      "text": "成了支教团队固定动作，",
+      "score": 0.6114,
+      "signals": {
+        "mand_logprob": -1.6546,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "成了指教团的固定动作。",
+        "dur": 2.639,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 57,
+      "start": 256.674,
+      "end": 260.035,
+      "label": "mandarin",
+      "text": "也成了连接城市与乡村的爱心纽带，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也成了连接城市与乡村的爱心纽带。",
+        "dur": 3.361,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 58,
+      "start": 260.241,
+      "end": 264.271,
+      "label": "mandarin",
+      "text": "让越来越多来自四面八方的善意汇聚成流，",
+      "score": 0.0254,
+      "signals": {
+        "mand_logprob": -0.0444,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "羊越来越多，来自四面八方的善意汇聚成流。",
+        "dur": 4.03,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 59,
+      "start": 264.271,
+      "end": 267.159,
+      "label": "guilin",
+      "text": "资助滋养着临川的教育土壤，",
+      "score": 0.7349,
+      "signals": {
+        "mand_logprob": -1.2447,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "滋/只",
+        "text_free": "此处只养着临川的教育土养。",
+        "dur": 2.888,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 60,
+      "start": 267.51,
+      "end": 272.034,
+      "label": "mandarin",
+      "text": "为八爷在们的成长注入源源不断的温暖与力量。",
+      "score": 0.1943,
+      "signals": {
+        "mand_logprob": -0.3269,
+        "acoustic_dev": 0.242,
+        "seg_cer": 0.15,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为表演者们的成长注入源源不断的温暖与力量。",
+        "dur": 4.524,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 61,
+      "start": 272.034,
+      "end": 275.316,
+      "label": "mandarin",
+      "text": "我们能感受到，就是很多人都在一起，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们能感受到，就是很多人都在一起。",
+        "dur": 3.282,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 62,
+      "start": 275.316,
+      "end": 279.637,
+      "label": "mandarin",
+      "text": "嗯，关注着我们山山里的小朋友，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "嗯，关注着我们山山里的小朋友。",
+        "dur": 4.321,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 63,
+      "start": 279.637,
+      "end": 282.933,
+      "label": "mandarin",
+      "text": "关注着这个对乡村教育，",
+      "score": 0.1624,
+      "signals": {
+        "mand_logprob": -0.4087,
+        "acoustic_dev": 0.312,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "关注着这个，对乡村教育。",
+        "dur": 3.296,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 64,
+      "start": 283.107,
+      "end": 286.464,
+      "label": "mandarin",
+      "text": "所以感觉做这个事情，嗯，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "所以感觉做这个事情，嗯。",
+        "dur": 3.357,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 65,
+      "start": 286.513,
+      "end": 294.065,
+      "label": "mandarin",
+      "text": "不仅仅一个人在做啊，我们的地方政府啊，然后包括我们身边的一些爱心企业和爱心的人士，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不仅仅一个人在做啊，我们的地方政府啊，然后包括我们身边的一些爱心企业和爱心的人士。",
+        "dur": 7.552,
+        "n_char": 38
+      }
+    },
+    {
+      "id": 66,
+      "start": 294.065,
+      "end": 299.665,
+      "label": "mandarin",
+      "text": "包括我们大学生也很积极啊，所以有的时候想起来，确实是很有意义的事情。",
+      "score": 0.0147,
+      "signals": {
+        "mand_logprob": -0.0231,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "包括我们的大学生也很积极，啊，所以有的时候想起来，确实是很有意义的事情。",
+        "dur": 5.6,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 67,
+      "start": 299.931,
+      "end": 303.38,
+      "label": "mandarin",
+      "text": "苏州大学微草支教团扎根临川八年，",
+      "score": 0.0267,
+      "signals": {
+        "mand_logprob": -0.1053,
+        "acoustic_dev": 0.051,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "苏州大学微草支教团扎根临川八年。",
+        "dur": 3.449,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 68,
+      "start": 303.38,
+      "end": 306.31,
+      "label": "mandarin",
+      "text": "一百三十人次大学生接力支教，",
+      "score": 0.0209,
+      "signals": {
+        "mand_logprob": -0.0923,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一百三十人次大学生接力支教。",
+        "dur": 2.93,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 69,
+      "start": 306.475,
+      "end": 310.387,
+      "label": "mandarin",
+      "text": "在近五百余名乡村学子心中种下爱的种子。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在近五百余名乡村学子心中种下爱的种子。",
+        "dur": 3.912,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 70,
+      "start": 310.665,
+      "end": 313.221,
+      "label": "mandarin",
+      "text": "为了让支教团顺利开展支教工作，",
+      "score": 0.1813,
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "支/子",
+        "text_free": "为了秧子教团顺利开展执教工作。",
+        "dur": 2.556,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 71,
+      "start": 313.407,
+      "end": 315.827,
+      "label": "mandarin",
+      "text": "临川县相关部门也积极配合，",
+      "score": 0.1244,
+      "signals": {
+        "mand_logprob": -0.3237,
+        "acoustic_dev": 0.239,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "临川县相关部门也积极配合。",
+        "dur": 2.42,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 72,
+      "start": 316.033,
+      "end": 319.022,
+      "label": "guilin",
+      "text": "统筹协调家长和学生的工作，",
+      "score": 0.5581,
+      "signals": {
+        "mand_logprob": -2.4378,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "统筹协调好家长和学生的工作。",
+        "dur": 2.989,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 73,
+      "start": 319.242,
+      "end": 322.861,
+      "label": "mandarin",
+      "text": "全力保障支教老师们的教学与住宿条件，",
+      "score": 0.1005,
+      "signals": {
+        "mand_logprob": -0.1502,
+        "acoustic_dev": 0.09,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "权力保障，只教老师们的教学与住宿条件。",
+        "dur": 3.619,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 74,
+      "start": 323.032,
+      "end": 328.589,
+      "label": "mandarin",
+      "text": "以实际行动向远道而来的支教团队表达感谢与敬意。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以实际行动向远道而来的支教团队表达感谢与敬意。",
+        "dur": 5.557,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 75,
+      "start": 328.589,
+      "end": 331.713,
+      "label": "mandarin",
+      "text": "支教团队到来为当地教育注入了新活力，",
+      "score": 0.2334,
+      "signals": {
+        "mand_logprob": -0.5075,
+        "acoustic_dev": 0.397,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "支教团的到来，为当地教育注入了新活力。",
+        "dur": 3.124,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 76,
+      "start": 331.713,
+      "end": 334.202,
+      "label": "mandarin",
+      "text": "保障好支教师生们的工作生活，",
+      "score": 0.3726,
+      "signals": {
+        "mand_logprob": -0.8789,
+        "acoustic_dev": 0.717,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "保障好支教师生们的工作生活。",
+        "dur": 2.489,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 77,
+      "start": 334.216,
+      "end": 336.677,
+      "label": "mandarin",
+      "text": "是对他们无私奉献的最好回应。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "是对他们无私奉献的最好回应。",
+        "dur": 2.461,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 78,
+      "start": 336.96,
+      "end": 344.513,
+      "label": "uncertain",
+      "text": "我们感谢临川教育局、县政府通过用心的保障，让所有支教师生能更专注于教学，",
+      "score": 0.4306,
+      "signals": {
+        "mand_logprob": -0.6799,
+        "acoustic_dev": 0.545,
+        "seg_cer": 0.212,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "县/乡",
+        "text_free": "我们团县委也联合教育局、乡政府，通过用心的保障，让所有支教师生能更专注于教学。",
+        "dur": 7.553,
+        "n_char": 33,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 79,
+      "start": 344.663,
+      "end": 348.78,
+      "label": "mandarin",
+      "text": "也让这份跨越千里的教育帮扶充满了温暖，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0108,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也让这份跨越千里的教育帮扶充满了温暖。",
+        "dur": 4.117,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 80,
+      "start": 348.802,
+      "end": 352.632,
+      "label": "mandarin",
+      "text": "为双方后续深化合作奠定了坚实基础。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0059,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为双方后续深化合作奠定了坚实基础。",
+        "dur": 3.83,
+        "n_char": 16
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

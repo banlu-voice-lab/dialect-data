@@ -1,0 +1,617 @@
+{
+  "src_audio": "2025桂林第二十二届房车节招商启动 将为市民打造房车消费国庆嘉年华.wav",
+  "duration": 145.116,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.99,
+      "label": "mandarin",
+      "text": "前两天，二零二五第二十二届桂林房车节招商会在桂林融媒体中心正式启动。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0015,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "前两天，二零二五第二十二届桂林房车节招商会在桂林融媒体中心正式启动。",
+        "dur": 6.99,
+        "n_char": 32
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.268,
+      "end": 10.033,
+      "label": "mandarin",
+      "text": "本届房车节将于国庆节，",
+      "score": 0.2016,
+      "signals": {
+        "mand_logprob": -0.259,
+        "acoustic_dev": 0.3,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "本届房车节将与国庆节。",
+        "dur": 2.765,
+        "n_char": 10,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.033,
+      "end": 14.945,
+      "label": "mandarin",
+      "text": "也就是十月一号到十月三号，在桂林国际会展中心举行，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也就是十月一号到十月三号，在桂林国际会展中心举行。",
+        "dur": 4.912,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.163,
+      "end": 22.016,
+      "label": "mandarin",
+      "text": "为市民和游客提供一场边吃边耍边逛展的国庆嘉年华。",
+      "score": 0.0599,
+      "signals": {
+        "mand_logprob": -0.0112,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "耍",
+        "text_free": "为市民和游客提供一场边吃边耍边逛展览的国庆嘉年华。",
+        "dur": 6.853,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.222,
+      "end": 28.776,
+      "label": "mandarin",
+      "text": "抽签仪式现场气氛热烈，车企代表们通过公平公开的方式，确定了展位分布。",
+      "score": 0.1374,
+      "signals": {
+        "mand_logprob": -0.042,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.258,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "筹前议事现场气氛热烈，出席代表们通过公平公开的方式确定了三位分部。",
+        "dur": 6.554,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 6,
+      "start": 29.193,
+      "end": 32.508,
+      "label": "uncertain",
+      "text": "组委会表示，此次招商响应热烈，",
+      "score": 0.4631,
+      "signals": {
+        "mand_logprob": -0.4473,
+        "acoustic_dev": 0.527,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "组/朱",
+        "text_free": "朱伟飞表示：“此次招商响应热烈。”",
+        "dur": 3.315,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 7,
+      "start": 32.665,
+      "end": 36.804,
+      "label": "mandarin",
+      "text": "涵盖燃油车、新能源车、房车等等多类品牌，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "涵盖燃油车、新能源车、房车等等多类品牌。",
+        "dur": 4.139,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.203,
+      "end": 39.675,
+      "label": "guilin",
+      "text": "包括高端车型与轻型款型，",
+      "score": 0.7447,
+      "signals": {
+        "mand_logprob": -0.9661,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "轻/亲",
+        "text_free": "包括高端车型与亲民款车型。",
+        "dur": 2.472,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.675,
+      "end": 42.212,
+      "label": "mandarin",
+      "text": "满足不同消费者的购车需求。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "满足不同消费者的购车需求。",
+        "dur": 2.537,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.571,
+      "end": 44.992,
+      "label": "guilin",
+      "text": "展位规划聚焦体验式布局，",
+      "score": 0.7633,
+      "signals": {
+        "mand_logprob": -1.5538,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "展/暂",
+        "text_free": "暂未规划聚焦T链式布局。",
+        "dur": 2.421,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.992,
+      "end": 48.352,
+      "label": "mandarin",
+      "text": "设置试乘试驾区、美食集市区、",
+      "score": 0.3796,
+      "signals": {
+        "mand_logprob": -0.2808,
+        "acoustic_dev": 0.326,
+        "seg_cer": 0.417,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "试/四",
+        "text_free": "设置四城市家居美食集市区。",
+        "dur": 3.36,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 12,
+      "start": 48.352,
+      "end": 52.169,
+      "label": "mandarin",
+      "text": "健身互动区和汽车音乐文化区等等，",
+      "score": 0.066,
+      "signals": {
+        "mand_logprob": -0.0676,
+        "acoustic_dev": 0.068,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "健身互动区，或汽车、音乐、文化区等等。",
+        "dur": 3.817,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 13,
+      "start": 52.508,
+      "end": 55.357,
+      "label": "mandarin",
+      "text": "打破传统车展单一销售模式，",
+      "score": 0.0021,
+      "signals": {
+        "mand_logprob": -0.0144,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "打破传统车展单一销售模式。",
+        "dur": 2.849,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 14,
+      "start": 55.507,
+      "end": 58.232,
+      "label": "mandarin",
+      "text": "增强沉浸感与趣味性。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "增强沉浸感与趣味性。",
+        "dur": 2.725,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 15,
+      "start": 58.232,
+      "end": 65.963,
+      "label": "mandarin",
+      "text": "二零二五桂林第二十二届房车节十月一号到三号将在甲天下会展中心举行。",
+      "score": 0.0143,
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.031,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "二零二五桂林第二十二届房车节十月一号到三号将在贾天下会展中心举行。",
+        "dur": 7.731,
+        "n_char": 32
+      }
+    },
+    {
+      "id": 16,
+      "start": 65.963,
+      "end": 69.821,
+      "label": "mandarin",
+      "text": "本次车展将有五十余个汽车品牌参展，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "本次车展将有五十余个汽车品牌参展。",
+        "dur": 3.858,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 17,
+      "start": 69.889,
+      "end": 72.372,
+      "label": "mandarin",
+      "text": "现场优惠多多，奖品丰富。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "现场优惠多多，奖品丰富。",
+        "dur": 2.483,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 18,
+      "start": 72.372,
+      "end": 80.57,
+      "label": "mandarin",
+      "text": "作为桂林年度大型会展活动之一，此前举办的二十一届房车节已经累计吸引超百万人次参与。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0111,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "作为桂林年度大型会展活动之一，此前举办的二十一届房车节已经累计吸引超百万人次参与。",
+        "dur": 8.198,
+        "n_char": 39
+      }
+    },
+    {
+      "id": 19,
+      "start": 80.847,
+      "end": 83.781,
+      "label": "mandarin",
+      "text": "本届房车节突破往届的形式，",
+      "score": 0.0255,
+      "signals": {
+        "mand_logprob": -0.0517,
+        "acoustic_dev": 0.049,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "本届房车节突破往届的形式。",
+        "dur": 2.934,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 20,
+      "start": 83.913,
+      "end": 88.243,
+      "label": "mandarin",
+      "text": "推出全民大抽奖和美食集会两大亮点活动。",
+      "score": 0.0254,
+      "signals": {
+        "mand_logprob": -0.0048,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "推出全民大抽奖和美食集飞两大亮点活动。",
+        "dur": 4.33,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.531,
+      "end": 93.265,
+      "label": "mandarin",
+      "text": "期间，每日将分时段组织抽奖环节，",
+      "score": 0.276,
+      "signals": {
+        "mand_logprob": -0.3462,
+        "acoustic_dev": 0.405,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "期间，每一奖分时段组织抽奖环节。",
+        "dur": 4.734,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 22,
+      "start": 93.417,
+      "end": 97.632,
+      "label": "mandarin",
+      "text": "奖品涵盖汽车周边、家电数码、旅游套餐等等。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "奖品涵盖汽车周边、家电数码、旅游套餐等等。",
+        "dur": 4.215,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 23,
+      "start": 98.034,
+      "end": 102.373,
+      "label": "mandarin",
+      "text": "美食集会则引入桂林本地以及广西特色小吃，",
+      "score": 0.0683,
+      "signals": {
+        "mand_logprob": -0.0814,
+        "acoustic_dev": 0.085,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "美食集飞则引入桂林本地以及广西特色小吃。",
+        "dur": 4.339,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 24,
+      "start": 102.829,
+      "end": 105.11,
+      "label": "guilin",
+      "text": "打造逛车展品美食、",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -2.4702,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "打造光车站，拼美食。",
+        "dur": 2.281,
+        "n_char": 8,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 25,
+      "start": 105.11,
+      "end": 107.473,
+      "label": "uncertain",
+      "text": "赢好礼的一站式体验。",
+      "score": 0.4967,
+      "signals": {
+        "mand_logprob": -0.4671,
+        "acoustic_dev": 0.551,
+        "seg_cer": 0.556,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "礼/你",
+        "text_free": "用好你的一战式提炼。",
+        "dur": 2.363,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 26,
+      "start": 107.884,
+      "end": 112.293,
+      "label": "guilin",
+      "text": "组委会负责人表示，希望借助国庆假期的人气，",
+      "score": 0.6403,
+      "signals": {
+        "mand_logprob": -0.9311,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.263,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "作为负责人表示：“希望借助国庆假期的预期。”",
+        "dur": 4.409,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 27,
+      "start": 112.427,
+      "end": 116.182,
+      "label": "mandarin",
+      "text": "推动汽车消费与文旅消费深度融合，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.01,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "推动汽车消费与文旅消费深度融合。",
+        "dur": 3.755,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 28,
+      "start": 116.521,
+      "end": 122.285,
+      "label": "mandarin",
+      "text": "让市民在轻松的氛围当中感受汽车文化与假日乐趣。",
+      "score": 0.1539,
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "民/明",
+        "text_free": "杨世明在轻松的氛围当中，感受汽车文化与惬意乐趣。",
+        "dur": 5.764,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 29,
+      "start": 122.285,
+      "end": 126.62,
+      "label": "mandarin",
+      "text": "就相当于我们的用户到了我们现场都可以领取一张抽奖券，",
+      "score": 0.0051,
+      "signals": {
+        "mand_logprob": -0.0192,
+        "acoustic_dev": 0.01,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就相当于我们的用户到了我们现场，都可以领取一张抽奖券。",
+        "dur": 4.335,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 30,
+      "start": 126.62,
+      "end": 129.415,
+      "label": "mandarin",
+      "text": "然后每天下午四点半开始抽奖，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后每天下午四点半开始抽奖。",
+        "dur": 2.795,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 31,
+      "start": 129.415,
+      "end": 133.979,
+      "label": "mandarin",
+      "text": "然后订车的用户的话是另外又有订车的一个抽奖环节。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后订车的用户的话，是另外又有订车的一个抽奖环节。",
+        "dur": 4.564,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 32,
+      "start": 133.979,
+      "end": 138.68,
+      "label": "mandarin",
+      "text": "本次我们车展的话也会邀请一些美食的商家合作，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "本次我们车展的话，也会邀请一些美食的商家合作。",
+        "dur": 4.701,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 33,
+      "start": 138.966,
+      "end": 145.116,
+      "label": "mandarin",
+      "text": "然后让我们的市民朋友们来参展的同时，也可以边吃边喝边玩边逛展。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后让我们的市民朋友们来参展的同时，也可以边吃边喝边玩边逛展。",
+        "dur": 6.15,
+        "n_char": 29
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

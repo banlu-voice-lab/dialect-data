@@ -1,0 +1,877 @@
+{
+  "src_audio": "灵川黄金百香果迎丰收  香飘致富路.wav",
+  "duration": 200.442,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.297,
+      "end": 6.365,
+      "label": "mandarin",
+      "text": "现在可是百香果成熟的季节，在临川县各处的百香果种植基地里面，",
+      "score": 0.0816,
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.179,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "现在啊，恰好是白香果成熟的季节，在临川县各处的白香果种植基地里面。",
+        "dur": 6.068,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.535,
+      "end": 9.759,
+      "label": "mandarin",
+      "text": "种植户们忙到采摘成熟的果子，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0303,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "种植户们忙到采摘成熟的果子。",
+        "dur": 3.224,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.759,
+      "end": 14.235,
+      "label": "mandarin",
+      "text": "田间地头呈现出了一派繁忙的丰收景象。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "田间地头呈现出了一派繁忙的丰收景象。",
+        "dur": 4.476,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.454,
+      "end": 18.745,
+      "label": "mandarin",
+      "text": "走进临川县九屋镇池塘村委蒋家村的种植基地，",
+      "score": 0.0688,
+      "signals": {
+        "mand_logprob": -0.0702,
+        "acoustic_dev": 0.044,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "走进临川县九婺镇池塘村的蒋家村的种植基地。",
+        "dur": 4.291,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 5,
+      "start": 18.896,
+      "end": 25.803,
+      "label": "mandarin",
+      "text": "浓浓的香味扑鼻而来，藤蔓上一颗颗饱满多圆的百香果点缀其间。",
+      "score": 0.0508,
+      "signals": {
+        "mand_logprob": -0.0307,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "浓浓的香味扑鼻而来，藤蔓下，一颗颗饱满椭圆的白香果点缀其间。",
+        "dur": 6.907,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 6,
+      "start": 26.099,
+      "end": 30.455,
+      "label": "mandarin",
+      "text": "种植户们将七八分熟的百香果摘下来放入桶中，",
+      "score": 0.0496,
+      "signals": {
+        "mand_logprob": -0.0437,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "种植户们将七八分熟的白香果折下来，放入桶中。",
+        "dur": 4.356,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 7,
+      "start": 30.777,
+      "end": 35.869,
+      "label": "mandarin",
+      "text": "第一时间将新鲜的果实运往集散点打包装箱，",
+      "score": 0.0241,
+      "signals": {
+        "mand_logprob": -0.0172,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "第一时间将新选的果实运往集散点，打包装箱。",
+        "dur": 5.092,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.131,
+      "end": 39.569,
+      "label": "mandarin",
+      "text": "通过快递或者运输车销往全国各地。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0212,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过快递或者运输车销往全国各地。",
+        "dur": 3.438,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 9,
+      "start": 39.99,
+      "end": 44.378,
+      "label": "uncertain",
+      "text": "为了方便保鲜，黄金百香果刚采摘下来的时候，",
+      "score": 0.54,
+      "signals": {
+        "mand_logprob": -0.5141,
+        "acoustic_dev": 0.662,
+        "seg_cer": 0.421,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "采/拆",
+        "text_free": "为了方便保鲜，放进不锈钢锅。刚拆着下来的时候。",
+        "dur": 4.388,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 10,
+      "start": 44.378,
+      "end": 49.716,
+      "label": "mandarin",
+      "text": "大多数都是黄绿色，放一两天以后就会变成金黄色。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "大多数都是黄绿色，放一两天以后就会变成金黄色。",
+        "dur": 5.338,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 11,
+      "start": 49.716,
+      "end": 55.949,
+      "label": "mandarin",
+      "text": "我种了十年百香果了。我第一年种了两亩。",
+      "score": 0.1788,
+      "signals": {
+        "mand_logprob": -0.0505,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "十/四",
+        "text_free": "我种了四年白象果了。我第一年种了两毛。",
+        "dur": 6.233,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 12,
+      "start": 55.949,
+      "end": 58.46,
+      "label": "guilin",
+      "text": "嗯，种了两亩，还到收益",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -2.209,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.778,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "动了两百，开的少哟。",
+        "dur": 2.511,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 13,
+      "start": 58.597,
+      "end": 61.249,
+      "label": "guilin",
+      "text": "还可以。要种了第二年，",
+      "score": 0.6646,
+      "signals": {
+        "mand_logprob": -0.7462,
+        "acoustic_dev": 0.985,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "还可以，又种第二年又。",
+        "dur": 2.652,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 14,
+      "start": 61.268,
+      "end": 64.746,
+      "label": "mandarin",
+      "text": "增加要三亩多。呃，现在是到第",
+      "score": 0.3013,
+      "signals": {
+        "mand_logprob": -0.2968,
+        "acoustic_dev": 0.36,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "增加要三百多。呃，现在是只要第。",
+        "dur": 3.478,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 15,
+      "start": 64.927,
+      "end": 69.934,
+      "label": "guilin",
+      "text": "到第三批果了，到第三个可以要摘到国庆以后了。",
+      "score": 0.6659,
+      "signals": {
+        "mand_logprob": -0.6855,
+        "acoustic_dev": 0.901,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "摘/栽",
+        "text_free": "到第三批过了啊，到第三批个可以要栽到国庆以后哎。",
+        "dur": 5.007,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 16,
+      "start": 70.319,
+      "end": 72.912,
+      "label": "mandarin",
+      "text": "大概收益要四到五万左右。",
+      "score": 0.3236,
+      "signals": {
+        "mand_logprob": -0.3706,
+        "acoustic_dev": 0.462,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "大概收益有四到五位左右。",
+        "dur": 2.593,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.959,
+      "end": 78.606,
+      "label": "mandarin",
+      "text": "九屋镇池塘村委是临川县较早推广种植百香果的地方之一，",
+      "score": 0.0925,
+      "signals": {
+        "mand_logprob": -0.0903,
+        "acoustic_dev": 0.072,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "九物镇池塘村尾是临川县较早推广种植白香果的地方之一。",
+        "dur": 5.647,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 18,
+      "start": 78.982,
+      "end": 82.92,
+      "label": "mandarin",
+      "text": "当地种植的黄金百香果品质优良，口感清甜，",
+      "score": 0.0254,
+      "signals": {
+        "mand_logprob": -0.0256,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "当地种植的黄金白香果，品质优良，口感清甜。",
+        "dur": 3.938,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 19,
+      "start": 83.04,
+      "end": 87.198,
+      "label": "guilin",
+      "text": "十分受市场欢迎。经过十多年的发推广，",
+      "score": 0.6057,
+      "signals": {
+        "mand_logprob": -2.4302,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "十分受市场反应。经过十多年的发展推广。",
+        "dur": 4.158,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 20,
+      "start": 87.36,
+      "end": 91.047,
+      "label": "mandarin",
+      "text": "如今全镇共种植百香果八百余亩，",
+      "score": 0.2195,
+      "signals": {
+        "mand_logprob": -0.2966,
+        "acoustic_dev": 0.359,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "如今，全镇共种植白香果八百余亩。",
+        "dur": 3.687,
+        "n_char": 14,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 21,
+      "start": 91.076,
+      "end": 94.46,
+      "label": "mandarin",
+      "text": "每亩带来一万块钱左右的净利润，",
+      "score": 0.0883,
+      "signals": {
+        "mand_logprob": -0.0701,
+        "acoustic_dev": 0.044,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "梅某带来一万块钱左右的净利润。",
+        "dur": 3.384,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 22,
+      "start": 94.802,
+      "end": 98.847,
+      "label": "guilin",
+      "text": "真正成为了村民增收致富的黄金果。",
+      "score": 0.7217,
+      "signals": {
+        "mand_logprob": -1.4221,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.467,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "民/名",
+        "text_free": "郑珍丽成为了成名增收致富的“放金锅”。",
+        "dur": 4.045,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 98.847,
+      "end": 103.098,
+      "label": "mandarin",
+      "text": "我们村种植百香果有十十多年，",
+      "score": 0.0326,
+      "signals": {
+        "mand_logprob": -0.0834,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们村种植百香果有十十多年。",
+        "dur": 4.251,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 24,
+      "start": 103.737,
+      "end": 106.539,
+      "label": "mandarin",
+      "text": "规模现已达四百多亩。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "规模现已达四百多亩。",
+        "dur": 2.802,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 25,
+      "start": 106.782,
+      "end": 109.499,
+      "label": "mandarin",
+      "text": "通过了合作社加农民的模式，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过了合作社加农民的模式。",
+        "dur": 2.717,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 26,
+      "start": 109.499,
+      "end": 112.218,
+      "label": "mandarin",
+      "text": "我们有效带动村民共同种植。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们有效带动村民共同种植。",
+        "dur": 2.719,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 27,
+      "start": 113.01,
+      "end": 116.264,
+      "label": "mandarin",
+      "text": "近年来，主打黄金百香果品种，",
+      "score": 0.1387,
+      "signals": {
+        "mand_logprob": -0.23,
+        "acoustic_dev": 0.267,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近年来主打黄金百香果品种。",
+        "dur": 3.254,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 28,
+      "start": 116.673,
+      "end": 121.077,
+      "label": "mandarin",
+      "text": "凭借其优良的品质为村民带来了可观的收益，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "凭借其优良的品质，为村民带来了可观的收益。",
+        "dur": 4.404,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 29,
+      "start": 121.181,
+      "end": 126.335,
+      "label": "mandarin",
+      "text": "实现了产业与发展与农户增收的双赢。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "实现了产业与发展与农户增收的双赢。",
+        "dur": 5.154,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 30,
+      "start": 126.335,
+      "end": 130.05,
+      "label": "uncertain",
+      "text": "在蓝天瑶族乡的黄金百香果临时收购点，",
+      "score": 0.4506,
+      "signals": {
+        "mand_logprob": -0.3017,
+        "acoustic_dev": 0.367,
+        "seg_cer": 0.412,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.429,
+        "phon_examples": "临/零 金/景 族/竹",
+        "text_free": "在蓝天窑竹乡的风景白香果零食收购点。",
+        "dur": 3.715,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 31,
+      "start": 130.05,
+      "end": 133.098,
+      "label": "uncertain",
+      "text": "过路门陆陆续续开到农用车赶过来，",
+      "score": 0.4295,
+      "signals": {
+        "mand_logprob": -0.5055,
+        "acoustic_dev": 0.65,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "果农们陆陆续续开到农用车赶过来。",
+        "dur": 3.048,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 32,
+      "start": 133.425,
+      "end": 136.52,
+      "label": "guilin",
+      "text": "车上装到了是刚摘下来的百香果，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -1.317,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "车高装到的是刚折下来的不锈钢锅。",
+        "dur": 3.095,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 33,
+      "start": 136.697,
+      "end": 142.279,
+      "label": "mandarin",
+      "text": "一到收购点就卸下来，经过选果、称重、装箱几道工序，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0056,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一到收购点就卸下来，经过选果、称重、装箱几道工序。",
+        "dur": 5.582,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 34,
+      "start": 142.279,
+      "end": 145.413,
+      "label": "mandarin",
+      "text": "就能够当场和收购商结清货款。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就能够当场和收购商结清货款。",
+        "dur": 3.134,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 35,
+      "start": 145.74,
+      "end": 148.224,
+      "label": "mandarin",
+      "text": "整个流程简单又高效。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "整个流程简单又高效。",
+        "dur": 2.484,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 36,
+      "start": 148.224,
+      "end": 151.0,
+      "label": "uncertain",
+      "text": "对果子就是收在我们家的，老板呢就是",
+      "score": 0.5042,
+      "signals": {
+        "mand_logprob": -0.5139,
+        "acoustic_dev": 0.662,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "对，果真是搬就深圳，我们家的老板呢，就是。",
+        "dur": 2.776,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 37,
+      "start": 151.428,
+      "end": 154.76,
+      "label": "mandarin",
+      "text": "三四天来一次，我们一天的量就是",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0077,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "三四天来一次，我们一天的量就是。",
+        "dur": 3.332,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 38,
+      "start": 155.124,
+      "end": 160.177,
+      "label": "mandarin",
+      "text": "五六千斤，一天就这个样。我们的果子也是很香很甜的，",
+      "score": 0.0623,
+      "signals": {
+        "mand_logprob": -0.0383,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "五六千斤，六十斤就这个样。我们的果子也是很香很甜的。",
+        "dur": 5.053,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 39,
+      "start": 160.364,
+      "end": 163.817,
+      "label": "mandarin",
+      "text": "蛮好吃，客户也很满意，老板也很满意。",
+      "score": 0.04,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "蛮好",
+        "text_free": "蛮好吃，客户也很满意，老板也很满意。",
+        "dur": 3.453,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 40,
+      "start": 163.817,
+      "end": 167.358,
+      "label": "mandarin",
+      "text": "近年来，临川县因地制宜，选育优质品种，",
+      "score": 0.3366,
+      "signals": {
+        "mand_logprob": -0.4245,
+        "acoustic_dev": 0.537,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近年来，临川县因地制宜，选取优势品种。",
+        "dur": 3.541,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 41,
+      "start": 167.566,
+      "end": 171.32,
+      "label": "mandarin",
+      "text": "精进种植技术，大力发展百香果产业，",
+      "score": 0.2228,
+      "signals": {
+        "mand_logprob": -0.262,
+        "acoustic_dev": 0.311,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "引进种植技术，大力发展白香果产业。",
+        "dur": 3.754,
+        "n_char": 15,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 42,
+      "start": 171.593,
+      "end": 175.121,
+      "label": "mandarin",
+      "text": "如今全县种植百香果面积两千七百余亩，",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0298,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "如今，全县种植白香果面积两千七百余亩。",
+        "dur": 3.528,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 43,
+      "start": 175.295,
+      "end": 177.7,
+      "label": "guilin",
+      "text": "年产量三千八百余吨，",
+      "score": 0.6708,
+      "signals": {
+        "mand_logprob": -0.773,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "年/量",
+        "text_free": "量产量三千八百余吨。",
+        "dur": 2.405,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 44,
+      "start": 178.088,
+      "end": 180.957,
+      "label": "mandarin",
+      "text": "预计总产值近四千多万元。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "预计总产值近四千多万元。",
+        "dur": 2.869,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 45,
+      "start": 181.402,
+      "end": 189.069,
+      "label": "mandarin",
+      "text": "接下来，临川县将围绕提升品质附加值、延伸产业链，推动百香果产业高质量发展，",
+      "score": 0.0277,
+      "signals": {
+        "mand_logprob": -0.0284,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.061,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "接下来，临川县将围绕提升品质附加值，延伸产业链，推动白象果产业高质量发展。",
+        "dur": 7.667,
+        "n_char": 33
+      }
+    },
+    {
+      "id": 46,
+      "start": 189.316,
+      "end": 193.938,
+      "label": "mandarin",
+      "text": "并积极探索采摘加休闲的农旅融合模式，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并积极探索采摘加休闲的农旅融合模式。",
+        "dur": 4.622,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 47,
+      "start": 194.155,
+      "end": 200.442,
+      "label": "mandarin",
+      "text": "让百香果产业成为带动村民增收、助力乡村振兴的重要引擎。",
+      "score": 0.0366,
+      "signals": {
+        "mand_logprob": -0.0084,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "杨柏香果产业成为带动村民增收、助力乡村振兴的重要引擎。",
+        "dur": 6.287,
+        "n_char": 25
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

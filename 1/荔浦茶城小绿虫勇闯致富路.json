@@ -1,0 +1,484 @@
+{
+  "src_audio": "荔浦茶城小绿虫勇闯致富路.wav",
+  "duration": 115.889,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.95,
+      "end": 13.731,
+      "label": "mandarin",
+      "text": "这一段时间，在荔浦市茶城乡过城村古堰村的种植基地，工人们正忙到给接种了豆天蛾幼虫种苗的防豆苗覆盖防护网。",
+      "score": 0.2946,
+      "signals": {
+        "mand_logprob": -0.0765,
+        "acoustic_dev": 0.271,
+        "seg_cer": 0.245,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "虫/从 市/斯",
+        "text_free": "这一段时间，在利普斯查城乡郭城村古堰藤的种植基地，工人们正忙着给接种了。昨天我又从种苗的防痘苗覆盖防护网。",
+        "dur": 12.781,
+        "n_char": 49
+      }
+    },
+    {
+      "id": 2,
+      "start": 13.917,
+      "end": 21.703,
+      "label": "mandarin",
+      "text": "从空中俯看，一张张白色的薄纱网在阳光下宛如是一片薄雾。",
+      "score": 0.0183,
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从空中俯瞰，一张张白色的薄纱网在阳光下，宛如是一片薄雾。",
+        "dur": 7.786,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 3,
+      "start": 22.271,
+      "end": 26.06,
+      "label": "uncertain",
+      "text": "根据了解，豆丹是豆天蛾的幼虫，",
+      "score": 0.388,
+      "signals": {
+        "mand_logprob": -0.1446,
+        "acoustic_dev": 0.543,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "根据了解，豆蛋是豆田窝的幼虫。",
+        "dur": 3.789,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 4,
+      "start": 26.06,
+      "end": 30.12,
+      "label": "mandarin",
+      "text": "这种生长在大豆植株上以豆叶为食的软体昆虫，",
+      "score": 0.0229,
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这种生长在大豆植株上，以豆叶为食的原体昆虫。",
+        "dur": 4.06,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 5,
+      "start": 30.366,
+      "end": 33.417,
+      "label": "uncertain",
+      "text": "被古人赞誉为豆中人参。",
+      "score": 0.4978,
+      "signals": {
+        "mand_logprob": -0.1368,
+        "acoustic_dev": 0.512,
+        "seg_cer": 0.2,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "text_free": "被古人赞誉为“倒中人生”。",
+        "dur": 3.051,
+        "n_char": 10,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 6,
+      "start": 33.643,
+      "end": 37.863,
+      "label": "mandarin",
+      "text": "当地民间还流传着“不吃豆丹，遗憾终身”的讲法。",
+      "score": 0.2003,
+      "signals": {
+        "mand_logprob": -0.0287,
+        "acoustic_dev": 0.08,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "身/生",
+        "text_free": "当地民间还流传着“不是斗大，遗憾终生”的讲法。",
+        "dur": 4.22,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 7,
+      "start": 38.209,
+      "end": 42.102,
+      "label": "mandarin",
+      "text": "它味道鲜美，营养价值丰富，深受市场欢迎。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "它味道鲜美，营养价值丰富，深受市场欢迎。",
+        "dur": 3.893,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 8,
+      "start": 42.186,
+      "end": 45.739,
+      "label": "mandarin",
+      "text": "在种植防豆的时候，施足基肥，",
+      "score": 0.318,
+      "signals": {
+        "mand_logprob": -0.1433,
+        "acoustic_dev": 0.538,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在种植黄豆的时候，施足基肥。",
+        "dur": 3.553,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 9,
+      "start": 45.739,
+      "end": 52.215,
+      "label": "mandarin",
+      "text": "并且进行封闭处理。待防豆长出叶子以后，就可以对其进行接种。",
+      "score": 0.0176,
+      "signals": {
+        "mand_logprob": -0.0069,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.038,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并且进行封闭处理。待红豆长出叶子以后，就可以对其进行接种。",
+        "dur": 6.476,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 10,
+      "start": 52.527,
+      "end": 55.274,
+      "label": "mandarin",
+      "text": "接种以后，大概二十五天就可以采收，",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "接种以后，大概二十五天就可以撤收。",
+        "dur": 2.747,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 11,
+      "start": 55.566,
+      "end": 58.447,
+      "label": "mandarin",
+      "text": "能够在短时间内见到成效，",
+      "score": 0.0012,
+      "signals": {
+        "mand_logprob": -0.0093,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "能够在短时间内见到成效。",
+        "dur": 2.881,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 12,
+      "start": 58.447,
+      "end": 63.485,
+      "label": "mandarin",
+      "text": "实现豆丹增产、防豆不干产的一地双收目标。",
+      "score": 0.276,
+      "signals": {
+        "mand_logprob": -0.1048,
+        "acoustic_dev": 0.384,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "实现豆蛋增产、防豆不减产的异地双收目标。",
+        "dur": 5.038,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 13,
+      "start": 63.884,
+      "end": 67.835,
+      "label": "mandarin",
+      "text": "据我了解，这豆丹是荔浦第一次养殖，",
+      "score": 0.061,
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "据我了解，这豆丹是利普第一次养殖。",
+        "dur": 3.951,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 14,
+      "start": 67.835,
+      "end": 71.882,
+      "label": "mandarin",
+      "text": "养它不会大力气，对土地没太多要求，",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0081,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "养它不费大力气，对土地没太多要求。",
+        "dur": 4.047,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 15,
+      "start": 71.882,
+      "end": 74.364,
+      "label": "mandarin",
+      "text": "前期投入小，管理简单。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "前期投入小，管理简单。",
+        "dur": 2.482,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 16,
+      "start": 74.46,
+      "end": 77.199,
+      "label": "mandarin",
+      "text": "现在技术也趋于成熟，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "现在技术也趋于成熟。",
+        "dur": 2.739,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 17,
+      "start": 77.253,
+      "end": 79.872,
+      "label": "mandarin",
+      "text": "等防豆长到六七片叶子，",
+      "score": 0.0457,
+      "signals": {
+        "mand_logprob": -0.0034,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "等黄豆长到六七片叶子。",
+        "dur": 2.619,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 18,
+      "start": 80.032,
+      "end": 84.62,
+      "label": "mandarin",
+      "text": "把豆丹苗挂上去，往后只要拉好防护网，",
+      "score": 0.0286,
+      "signals": {
+        "mand_logprob": -0.0049,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "把豆单苗挂上去，往后只要拉好防护网。",
+        "dur": 4.588,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 19,
+      "start": 84.62,
+      "end": 88.593,
+      "label": "mandarin",
+      "text": "防住虫鸟，基本就没啥操心的了。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0081,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "防住虫鸟，基本就没啥操心的了。",
+        "dur": 3.973,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 20,
+      "start": 88.752,
+      "end": 91.894,
+      "label": "uncertain",
+      "text": "这次拿出八十亩土地进行实验，",
+      "score": 0.411,
+      "signals": {
+        "mand_logprob": -0.1725,
+        "acoustic_dev": 0.655,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这次拿出八十亩土地进行十年。",
+        "dur": 3.142,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 21,
+      "start": 92.05,
+      "end": 96.827,
+      "label": "mandarin",
+      "text": "取得成功后，将向农业部门汇报，争取推广。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "取得成功后，将向农业部门汇报，争取推广。",
+        "dur": 4.777,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 22,
+      "start": 96.897,
+      "end": 101.888,
+      "label": "uncertain",
+      "text": "乡村振兴，产业先行。在经济高质量发展的总体框架下，",
+      "score": 0.415,
+      "signals": {
+        "mand_logprob": -0.2082,
+        "acoustic_dev": 0.798,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "乡村振兴产业先行，在经济高质量发展的总体框架下。",
+        "dur": 4.991,
+        "n_char": 22,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 23,
+      "start": 102.015,
+      "end": 106.965,
+      "label": "mandarin",
+      "text": "茶城乡鼓励具备条件的组织和个人先行先试，",
+      "score": 0.1515,
+      "signals": {
+        "mand_logprob": -0.0816,
+        "acoustic_dev": 0.291,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "茶城乡鼓励具备条件的组织和个人先行先试。",
+        "dur": 4.95,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 24,
+      "start": 107.12,
+      "end": 110.609,
+      "label": "mandarin",
+      "text": "探索高效可行的新产业新路径，",
+      "score": 0.1946,
+      "signals": {
+        "mand_logprob": -0.1023,
+        "acoustic_dev": 0.374,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "探索高效可行的新产业新路径。",
+        "dur": 3.489,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 25,
+      "start": 110.796,
+      "end": 113.335,
+      "label": "guilin",
+      "text": "让绿色产业的成色更足，",
+      "score": 0.7571,
+      "signals": {
+        "mand_logprob": -1.0538,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.3,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.667,
+        "phon_examples": "足/住 更/跟",
+        "text_free": "阳绿色产业的成色跟住。",
+        "dur": 2.539,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 26,
+      "start": 113.335,
+      "end": 115.889,
+      "label": "mandarin",
+      "text": "为乡村振兴注入新的动能。",
+      "score": 0.0287,
+      "signals": {
+        "mand_logprob": -0.0225,
+        "acoustic_dev": 0.055,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为乡村振兴注入新的动能。",
+        "dur": 2.554,
+        "n_char": 11
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

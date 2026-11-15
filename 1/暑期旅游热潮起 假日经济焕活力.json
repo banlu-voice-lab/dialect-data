@@ -1,0 +1,1058 @@
+{
+  "src_audio": "暑期旅游热潮起 假日经济焕活力.wav",
+  "duration": 243.732,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.611,
+      "label": "mandarin",
+      "text": "今天来关注一下我们桂林的旅游。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天来关注一下我们桂林的旅游。",
+        "dur": 2.611,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.76,
+      "end": 7.497,
+      "label": "mandarin",
+      "text": "现在啊，暑期旅游季已经拉开序幕了不？",
+      "score": 0.0893,
+      "signals": {
+        "mand_logprob": -0.0212,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "现在啊，初期旅游季已经拉开序幕了。不，我们。",
+        "dur": 4.737,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.497,
+      "end": 10.174,
+      "label": "guilin",
+      "text": "我们桂林旅游市场啊迅速升温，",
+      "score": 0.5903,
+      "signals": {
+        "mand_logprob": -2.3721,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂林旅游市场啊，迅速升温。",
+        "dur": 2.677,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.286,
+      "end": 14.841,
+      "label": "guilin",
+      "text": "在线出了勃勃生机。假日经济焕发活力。",
+      "score": 0.6474,
+      "signals": {
+        "mand_logprob": -0.8628,
+        "acoustic_dev": 0.937,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "展现出了勃勃生机，加以经济反法获利。",
+        "dur": 4.555,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 5,
+      "start": 14.971,
+      "end": 18.367,
+      "label": "mandarin",
+      "text": "那作为热门旅游目的地之一的阳朔，",
+      "score": 0.0452,
+      "signals": {
+        "mand_logprob": -0.0406,
+        "acoustic_dev": 0.028,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "那作为热门的旅游目的地之一的阳朔。",
+        "dur": 3.396,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 6,
+      "start": 18.367,
+      "end": 23.502,
+      "label": "mandarin",
+      "text": "以丰富的旅游产品、贴心的优惠政策和不断提升的服务质量，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0131,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以丰富的旅游产品、贴心的优惠政策和不断提升的服务质量。",
+        "dur": 5.135,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 7,
+      "start": 23.612,
+      "end": 26.607,
+      "label": "mandarin",
+      "text": "迎接来自世界各地的游客。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "迎接来自世界各地的游客。",
+        "dur": 2.995,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 8,
+      "start": 32.194,
+      "end": 36.832,
+      "label": "mandarin",
+      "text": "车道旅游业度的持续攀升，阳朔各景区应潮涌动，",
+      "score": 0.3639,
+      "signals": {
+        "mand_logprob": -0.3696,
+        "acoustic_dev": 0.392,
+        "seg_cer": 0.35,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "青岛旅游热度的指数攀升，阳朔过景区人潮涌动。",
+        "dur": 4.638,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.999,
+      "end": 39.472,
+      "label": "guilin",
+      "text": "突出阳一桌夜闹的暑期氛围。",
+      "score": 0.7078,
+      "signals": {
+        "mand_logprob": -2.3576,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.75,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.111,
+        "phon_examples": "闹/老",
+        "text_free": "处处洋溢着野老的粗气氛围。",
+        "dur": 2.473,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 10,
+      "start": 39.771,
+      "end": 43.251,
+      "label": "mandarin",
+      "text": "阳朔漓江景区和遇龙河景区在安全保障、",
+      "score": 0.2916,
+      "signals": {
+        "mand_logprob": -0.4286,
+        "acoustic_dev": 0.457,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "阳朔漓江景区或玉龙河景区，在安全保障。",
+        "dur": 3.48,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.251,
+      "end": 46.559,
+      "label": "mandarin",
+      "text": "服务提升、防溺水等方面做深做细，",
+      "score": 0.2567,
+      "signals": {
+        "mand_logprob": -0.0961,
+        "acoustic_dev": 0.09,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "溺/利",
+        "text_free": "服务提升、放利税等方面，周深周细。",
+        "dur": 3.308,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.82,
+      "end": 49.885,
+      "label": "guilin",
+      "text": "从细节处提升旅游服务质量，",
+      "score": 0.6724,
+      "signals": {
+        "mand_logprob": -1.5995,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从细解除，提升旅游服务品质。",
+        "dur": 3.065,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 13,
+      "start": 50.36,
+      "end": 56.909,
+      "label": "mandarin",
+      "text": "优化游客游玩体验。召开了这个全部发工的这个安全工作布置会议，",
+      "score": 0.3248,
+      "signals": {
+        "mand_logprob": -0.3243,
+        "acoustic_dev": 0.342,
+        "seg_cer": 0.321,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "又可又晚提连，召开了这个全部复工的这个安全工作布置会议。",
+        "dur": 6.549,
+        "n_char": 28,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 14,
+      "start": 56.909,
+      "end": 60.023,
+      "label": "mandarin",
+      "text": "以及我们的服务服务质量的培训会，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0144,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以及我们的服务服务质量的培训会。",
+        "dur": 3.114,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 15,
+      "start": 60.023,
+      "end": 62.341,
+      "label": "mandarin",
+      "text": "在确保这个安全的同时，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在确保这个安全的同时。",
+        "dur": 2.318,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 16,
+      "start": 62.341,
+      "end": 66.2,
+      "label": "mandarin",
+      "text": "能把我们的服务质量提升上去。在这个防溺水方面，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "能把我们的服务质量提升上去，在这个防溺水方面。",
+        "dur": 3.859,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 17,
+      "start": 66.505,
+      "end": 74.837,
+      "label": "mandarin",
+      "text": "我们做了大量的工作。在七月十号到八月二十号之间，我们码头还准备了一些免费的救赎的用品，",
+      "score": 0.3265,
+      "signals": {
+        "mand_logprob": -0.4834,
+        "acoustic_dev": 0.518,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们也做了大量的工作，在七月十二号到八月二十号之间，我们码头还准备了一些免费的解暑的饮品。",
+        "dur": 8.332,
+        "n_char": 40,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 18,
+      "start": 74.837,
+      "end": 77.257,
+      "label": "mandarin",
+      "text": "准备了一些防中暑的药品。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "准备了一些防中暑的药品。",
+        "dur": 2.42,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 19,
+      "start": 77.257,
+      "end": 82.999,
+      "label": "mandarin",
+      "text": "针对暑期旅游季，阳朔印象刘三姐、如意红索道、巨龙潭、世外桃源、",
+      "score": 0.296,
+      "signals": {
+        "mand_logprob": -0.1764,
+        "acoustic_dev": 0.179,
+        "seg_cer": 0.308,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "索/说 印/应",
+        "text_free": "针对初期旅游季，杨朔应向刘三姐有一封说道：“巨龙潭，世外桃源。”",
+        "dur": 5.742,
+        "n_char": 26,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 20,
+      "start": 83.145,
+      "end": 88.454,
+      "label": "guilin",
+      "text": "文化古迹山水园、夜游遇龙河等景区推出优惠政策，",
+      "score": 0.6724,
+      "signals": {
+        "mand_logprob": -1.0046,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "文华国际山水园也有鱼龙湖等景区推出优惠政策。",
+        "dur": 5.309,
+        "n_char": 21,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 21,
+      "start": 88.742,
+      "end": 93.139,
+      "label": "mandarin",
+      "text": "为游客提供了实惠又难忘的旅游体验。",
+      "score": 0.3659,
+      "signals": {
+        "mand_logprob": -0.3732,
+        "acoustic_dev": 0.396,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为学生们提供了十分有难忘的旅游体验。",
+        "dur": 4.397,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 22,
+      "start": 93.319,
+      "end": 96.955,
+      "label": "guilin",
+      "text": "我们完成了票系统方面的换新升级，",
+      "score": 0.5505,
+      "signals": {
+        "mand_logprob": -2.0997,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们完成了票务系统方面的换新升级。",
+        "dur": 3.636,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 96.955,
+      "end": 101.66,
+      "label": "mandarin",
+      "text": "引进了智慧票系统和十八台自助取票机，",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0073,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "引进了智慧票务系统和十八台自助取票机。",
+        "dur": 4.705,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 24,
+      "start": 101.705,
+      "end": 104.773,
+      "label": "mandarin",
+      "text": "全面升级票系统服务，并",
+      "score": 0.1727,
+      "signals": {
+        "mand_logprob": -0.2359,
+        "acoustic_dev": 0.244,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "全面升级票务系统，服务并。",
+        "dur": 3.068,
+        "n_char": 10,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 25,
+      "start": 104.903,
+      "end": 107.648,
+      "label": "mandarin",
+      "text": "实现了电子智能化的预订",
+      "score": 0.0416,
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "实现了电子智能化的预定。",
+        "dur": 2.745,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 26,
+      "start": 107.775,
+      "end": 110.416,
+      "label": "mandarin",
+      "text": "取票服务，为游客提供",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "取票服务，为游客提供。",
+        "dur": 2.641,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 27,
+      "start": 111.129,
+      "end": 113.57,
+      "label": "mandarin",
+      "text": "更加高效顺畅的票务",
+      "score": 0.1016,
+      "signals": {
+        "mand_logprob": -0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "更加高效、顺畅的跳舞。",
+        "dur": 2.441,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 28,
+      "start": 113.625,
+      "end": 116.3,
+      "label": "mandarin",
+      "text": "服务体验。七月十",
+      "score": 0.0727,
+      "signals": {
+        "mand_logprob": -0.0279,
+        "acoustic_dev": 0.014,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "服务体验，七月十日。",
+        "dur": 2.675,
+        "n_char": 7
+      }
+    },
+    {
+      "id": 29,
+      "start": 116.666,
+      "end": 120.564,
+      "label": "mandarin",
+      "text": "到八月三十日，印象刘三姐将举办",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.0075,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "到八月三十一日，印象刘三姐将举办。",
+        "dur": 3.898,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 30,
+      "start": 120.89,
+      "end": 124.107,
+      "label": "mandarin",
+      "text": "山水非遗嘉年华主题活动，",
+      "score": 0.0172,
+      "signals": {
+        "mand_logprob": -0.0449,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "山水非遗嘉年华主题活动。",
+        "dur": 3.217,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 31,
+      "start": 124.182,
+      "end": 127.404,
+      "label": "mandarin",
+      "text": "推出多点位、多场次、",
+      "score": 0.018,
+      "signals": {
+        "mand_logprob": -0.0462,
+        "acoustic_dev": 0.035,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "推出多点位、多场次。",
+        "dur": 3.222,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 32,
+      "start": 127.546,
+      "end": 130.68,
+      "label": "mandarin",
+      "text": "壮瑶苗侗广西四大民族",
+      "score": 0.0927,
+      "signals": {
+        "mand_logprob": -0.1761,
+        "acoustic_dev": 0.178,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "壮、瑶、苗、侗，广西四大民族。",
+        "dur": 3.134,
+        "n_char": 10,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 33,
+      "start": 131.076,
+      "end": 138.101,
+      "label": "mandarin",
+      "text": "风情的互动演艺活动。当前，阳朔的酒店民宿在暑期也迎来了预订高峰，",
+      "score": 0.0315,
+      "signals": {
+        "mand_logprob": -0.0124,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "风情的互动演绎活动。当前，阳朔的酒店民宿在初期也迎来了预订高峰。",
+        "dur": 7.025,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 34,
+      "start": 138.115,
+      "end": 145.878,
+      "label": "mandarin",
+      "text": "一度持续升温。不少热门民宿在暑期的前半个月就订空了周末的客房。",
+      "score": 0.0788,
+      "signals": {
+        "mand_logprob": -0.0131,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.172,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "夜都持续升温，不少夜门民宿在初假的前半个月就订空了周末的客房。",
+        "dur": 7.763,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 35,
+      "start": 146.134,
+      "end": 152.737,
+      "label": "mandarin",
+      "text": "亲子家庭、年轻背包客以及外国游客等纷纷线上提前锁定房间。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "亲子家庭、年轻背包客以及外国游客等纷纷线上提前锁定房间。",
+        "dur": 6.603,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 36,
+      "start": 152.737,
+      "end": 156.673,
+      "label": "mandarin",
+      "text": "我今年是就是刚中考完，先放暑假来阳朔旅游，",
+      "score": 0.0481,
+      "signals": {
+        "mand_logprob": -0.0072,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我今年是，就是刚中考完，现在放暑假来阳朔旅游。",
+        "dur": 3.936,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 37,
+      "start": 156.937,
+      "end": 162.135,
+      "label": "mandarin",
+      "text": "呃，来这一两天感觉这挺好的，自然风光挺优美的，",
+      "score": 0.0802,
+      "signals": {
+        "mand_logprob": -0.0749,
+        "acoustic_dev": 0.066,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，来这里两天，感觉这里挺好的，自然风光挺优美的。",
+        "dur": 5.198,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 38,
+      "start": 162.254,
+      "end": 165.713,
+      "label": "mandarin",
+      "text": "然后比较就是山清水秀，",
+      "score": 0.0755,
+      "signals": {
+        "mand_logprob": -0.1463,
+        "acoustic_dev": 0.145,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后比较就是山清水秀。",
+        "dur": 3.459,
+        "n_char": 10,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 39,
+      "start": 165.983,
+      "end": 171.88,
+      "label": "mandarin",
+      "text": "挺好玩的。因为这附近十里画廊比较比较那啥比较出名，",
+      "score": 0.0191,
+      "signals": {
+        "mand_logprob": -0.0483,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "挺好玩的，因为这附近十里画廊比较比较那啥比较出名。",
+        "dur": 5.897,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 40,
+      "start": 172.283,
+      "end": 175.301,
+      "label": "mandarin",
+      "text": "然后就想着又来玩比较方便一点。",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后就想着有来玩比较方便一点。",
+        "dur": 3.018,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 41,
+      "start": 175.593,
+      "end": 180.317,
+      "label": "mandarin",
+      "text": "那么在七月中旬以前的话，我们的预订量基本上达到了百分之九十五。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "那么在七月中旬以前的话，我们的预订量基本上达到了百分之九十五。",
+        "dur": 4.724,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 42,
+      "start": 180.317,
+      "end": 184.727,
+      "label": "mandarin",
+      "text": "那七月中旬以后的话，可能大概在百分之六七十左右。",
+      "score": 0.0208,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "那七个中旬以后的话，可能大概在百分之六七十左右。",
+        "dur": 4.41,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 43,
+      "start": 184.727,
+      "end": 186.787,
+      "label": "mandarin",
+      "text": "就暑假的话，大量都是亲子出行，",
+      "score": 0.0597,
+      "signals": {
+        "mand_logprob": -0.0576,
+        "acoustic_dev": 0.047,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "就是暑假的话，大量都是亲子出行。",
+        "dur": 2.06,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 44,
+      "start": 187.043,
+      "end": 191.535,
+      "label": "mandarin",
+      "text": "所以说我们也特别的去为这个亲子的出游准备了",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "所以说，我们也特别的去为这个亲子的出游准备了。",
+        "dur": 4.492,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 45,
+      "start": 191.77,
+      "end": 195.574,
+      "label": "mandarin",
+      "text": "亲子的主题房，还有我们就是也准备了这个晚宴的甜品。",
+      "score": 0.0199,
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "亲子的主题房，还有我们就是也准备了这个晚安的甜品。",
+        "dur": 3.804,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 46,
+      "start": 195.574,
+      "end": 199.192,
+      "label": "mandarin",
+      "text": "吹到我国不断放宽或优化国际免签政策，",
+      "score": 0.2738,
+      "signals": {
+        "mand_logprob": -0.351,
+        "acoustic_dev": 0.371,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "受到我国不断放宽或优化过境免签政策。",
+        "dur": 3.618,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 47,
+      "start": 199.434,
+      "end": 201.553,
+      "label": "mandarin",
+      "text": "入境游市场持续向好。",
+      "score": 0.2017,
+      "signals": {
+        "mand_logprob": -0.0149,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "境/今",
+        "text_free": "如今有市场，吃素香好。",
+        "dur": 2.119,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 48,
+      "start": 201.702,
+      "end": 207.514,
+      "label": "mandarin",
+      "text": "阳朔丰富的旅游资源也吸引了众多外国游客前来游玩打卡。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "阳朔丰富的旅游资源也吸引了众多外国游客前来游玩打卡。",
+        "dur": 5.812,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 49,
+      "start": 208.162,
+      "end": 214.379,
+      "label": "mandarin",
+      "text": "目前我们去了成都张家界，今天在阳朔，接下来要去北京，在那里待上几天，",
+      "score": 0.0305,
+      "signals": {
+        "mand_logprob": -0.0148,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "目前我们去了成都、张家界。今天在杨树，接下来要去北京，在那里待上几天。",
+        "dur": 6.217,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 50,
+      "start": 214.379,
+      "end": 217.905,
+      "label": "mandarin",
+      "text": "在中国一共待两个星期，我们非常喜欢。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在中国一共待两个星期，我们非常喜欢。",
+        "dur": 3.526,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 51,
+      "start": 217.905,
+      "end": 222.77,
+      "label": "mandarin",
+      "text": "除了天气炎热以外，这里绿意盎然，山峦起伏，一切都非常棒，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "除了天气炎热以外，这里绿意盎然，山峦起伏，一切都非常棒。",
+        "dur": 4.865,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 52,
+      "start": 222.984,
+      "end": 225.817,
+      "label": "mandarin",
+      "text": "人们很友好，我们非常喜欢这里。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "人们很友好，我们非常喜欢这里。",
+        "dur": 2.833,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 53,
+      "start": 227.0,
+      "end": 231.413,
+      "label": "mandarin",
+      "text": "吹到暑期的深入，阳朔的旅游业度还将继续攀升，",
+      "score": 0.341,
+      "signals": {
+        "mand_logprob": -0.3404,
+        "acoustic_dev": 0.36,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "深/声",
+        "text_free": "测到初期的声源，阳朔的旅游业度还将继续攀升。",
+        "dur": 4.413,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 54,
+      "start": 231.611,
+      "end": 234.412,
+      "label": "mandarin",
+      "text": "该县也将继续优化旅游服务，",
+      "score": 0.0091,
+      "signals": {
+        "mand_logprob": -0.0308,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "该县也将继续优化旅游服务。",
+        "dur": 2.801,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 55,
+      "start": 234.596,
+      "end": 240.098,
+      "label": "mandarin",
+      "text": "丰富旅游产品供给，推动假期经济持续焕发生机与活力。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "丰富旅游产品供给，推动假期经济持续焕发生机与活力。",
+        "dur": 5.502,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 56,
+      "start": 240.316,
+      "end": 242.547,
+      "label": "guilin",
+      "text": "阳游客，乘兴而至，",
+      "score": 0.7633,
+      "signals": {
+        "mand_logprob": -2.2433,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.429,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "兴/心",
+        "text_free": "让游客诚心而至。",
+        "dur": 2.231,
+        "n_char": 7,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 57,
+      "start": 242.547,
+      "end": 243.732,
+      "label": "mandarin",
+      "text": "尽兴而归。",
+      "score": 0.26,
+      "signals": {
+        "mand_logprob": -0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "兴/心 尽/惊",
+        "text_free": "惊心而归。",
+        "dur": 1.185,
+        "n_char": 4
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

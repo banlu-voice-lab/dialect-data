@@ -1,0 +1,645 @@
+{
+  "src_audio": "阳朔遇龙河景区实施暑期旅游高峰预约限流管理.wav",
+  "duration": 149.245,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.792,
+      "end": 3.913,
+      "label": "mandarin",
+      "text": "这段时间玉龙河景区旅游也爆了。",
+      "score": 0.0174,
+      "signals": {
+        "mand_logprob": -0.0099,
+        "acoustic_dev": 0.033,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这段时间，玉龙河景区旅游也爆了。",
+        "dur": 3.121,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.913,
+      "end": 9.575,
+      "label": "mandarin",
+      "text": "从七月一号开始，玉龙河景区就正式实施预约限流管理措施。",
+      "score": 0.0366,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从七月一号开始，玉龙河景区就正式实施雨月限流管理措施。",
+        "dur": 5.662,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.931,
+      "end": 15.488,
+      "label": "mandarin",
+      "text": "玉龙河景区凭借秀丽山水、清澈河水和特色竹筏漂流项目，",
+      "score": 0.002,
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "玉龙河景区凭借秀丽山水、清澈河水和特色竹筏漂流项目。",
+        "dur": 5.557,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.637,
+      "end": 18.9,
+      "label": "mandarin",
+      "text": "一直是游客游览、游说的热门打卡地。",
+      "score": 0.2837,
+      "signals": {
+        "mand_logprob": -0.116,
+        "acoustic_dev": 0.428,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一直是游客游览阳朔的热门打卡地。",
+        "dur": 3.263,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 5,
+      "start": 19.184,
+      "end": 22.053,
+      "label": "guilin",
+      "text": "往年暑假大量游客集中涌入，",
+      "score": 0.7217,
+      "signals": {
+        "mand_logprob": -3.7873,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "年/恋",
+        "text_free": "网恋出家，大量游客集中拥有。",
+        "dur": 2.869,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.28,
+      "end": 24.644,
+      "label": "mandarin",
+      "text": "致使景区出现拥堵现象，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "致使景区出现拥堵现象。",
+        "dur": 2.364,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.823,
+      "end": 29.598,
+      "label": "mandarin",
+      "text": "不仅严重影响游客游玩体验，还存在比较大的安全隐患。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不仅严重影响游客游玩体验，还存在比较大的安全隐患。",
+        "dur": 4.775,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 8,
+      "start": 29.917,
+      "end": 32.952,
+      "label": "mandarin",
+      "text": "今年实行预约限流管理以后，",
+      "score": 0.156,
+      "signals": {
+        "mand_logprob": -0.0815,
+        "acoustic_dev": 0.3,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今年实行预约限流管理以后。",
+        "dur": 3.035,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 9,
+      "start": 33.033,
+      "end": 37.91,
+      "label": "mandarin",
+      "text": "景区内秩序井然，游览舒适度得到了显著的提升。",
+      "score": 0.228,
+      "signals": {
+        "mand_logprob": -0.0176,
+        "acoustic_dev": 0.062,
+        "seg_cer": 0.35,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "景/进",
+        "text_free": "进去内，只需经验，浏览舒适度得到了显著的提升。",
+        "dur": 4.877,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 10,
+      "start": 38.094,
+      "end": 40.949,
+      "label": "mandarin",
+      "text": "预约限流这个做法非常贴心，",
+      "score": 0.0033,
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "预约限流这个做法非常贴心。",
+        "dur": 2.855,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 11,
+      "start": 40.949,
+      "end": 44.411,
+      "label": "mandarin",
+      "text": "提前预约好时间，来了就能直接游玩，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "提前预约好时间，来了就能直接游玩。",
+        "dur": 3.462,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 12,
+      "start": 44.411,
+      "end": 48.136,
+      "label": "mandarin",
+      "text": "不用排长队，也能尽情享受山水风光。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不用排长队，也能尽情享受山水风光。",
+        "dur": 3.725,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 13,
+      "start": 48.214,
+      "end": 51.61,
+      "label": "mandarin",
+      "text": "竹筏在河上缓缓漂，别提多惬意，",
+      "score": 0.1798,
+      "signals": {
+        "mand_logprob": -0.0575,
+        "acoustic_dev": 0.21,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "浮筏在河上缓缓飘，别提多惬意。",
+        "dur": 3.396,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 14,
+      "start": 51.61,
+      "end": 55.735,
+      "label": "mandarin",
+      "text": "孩子们也玩得特别开心。虽然要提前规划行程，",
+      "score": 0.0241,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "孩子们也玩得特别开心。虽然要提前规划行程，但。",
+        "dur": 4.125,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 15,
+      "start": 55.735,
+      "end": 58.936,
+      "label": "mandarin",
+      "text": "但游玩质量有了保证，安全感十足。",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "但游玩质量有了保障，安全感十足。",
+        "dur": 3.201,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 16,
+      "start": 59.139,
+      "end": 65.612,
+      "label": "mandarin",
+      "text": "这样的旅游才舒心。自推行预约限流管理措施以来，收获了广大游客的好评。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这样的旅游才舒心。自推行预约限流管理措施以来，收获了广大游客的好评。",
+        "dur": 6.473,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 17,
+      "start": 65.846,
+      "end": 69.465,
+      "label": "mandarin",
+      "text": "景区通过提前预约和精准控制客流量，",
+      "score": 0.038,
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.018,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "景区通过提前预约或精准控制客流量。",
+        "dur": 3.619,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 18,
+      "start": 69.601,
+      "end": 73.261,
+      "label": "mandarin",
+      "text": "有效地避免了景区内人潮拥挤的现象，",
+      "score": 0.0034,
+      "signals": {
+        "mand_logprob": -0.0027,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "有效地避免了景区内人潮拥挤的现象。",
+        "dur": 3.66,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 19,
+      "start": 73.514,
+      "end": 77.58,
+      "label": "mandarin",
+      "text": "让游客能够尽情领略玉龙河的秀丽风光，",
+      "score": 0.1389,
+      "signals": {
+        "mand_logprob": -0.0588,
+        "acoustic_dev": 0.215,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让游客能够尽情地领略玉龙河的秀丽风光。",
+        "dur": 4.066,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 20,
+      "start": 77.58,
+      "end": 81.517,
+      "label": "mandarin",
+      "text": "还提升了游览体验的舒适度和安全性。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "还提升了游览体验的舒适度和安全性。",
+        "dur": 3.937,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 21,
+      "start": 81.912,
+      "end": 84.828,
+      "label": "mandarin",
+      "text": "未来景区还将持续优化服务流程，",
+      "score": 0.0773,
+      "signals": {
+        "mand_logprob": -0.0409,
+        "acoustic_dev": 0.149,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "未来景区还将持续优化服务流程。",
+        "dur": 2.916,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 22,
+      "start": 84.939,
+      "end": 92.193,
+      "label": "mandarin",
+      "text": "提升管理水平，努力为游客营造出更加舒适、便捷、安心的旅游体验，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "提升管理水平，努力为游客营造出更加舒适、便捷、安心的旅游体验。",
+        "dur": 7.254,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 23,
+      "start": 92.513,
+      "end": 95.504,
+      "label": "guilin",
+      "text": "让每一位游客都能够称心而来，",
+      "score": 0.5552,
+      "signals": {
+        "mand_logprob": -0.6999,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让每一位游客都能够诚心而来。",
+        "dur": 2.991,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 95.504,
+      "end": 98.769,
+      "label": "uncertain",
+      "text": "满意而归。坚持以智慧化管理、",
+      "score": 0.4732,
+      "signals": {
+        "mand_logprob": -0.1667,
+        "acoustic_dev": 0.617,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "蚂蚁鳄龟，坚持以智慧化管理。",
+        "dur": 3.265,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 25,
+      "start": 98.769,
+      "end": 103.641,
+      "label": "mandarin",
+      "text": "人性化服务为核心理念，推出一系列服务升级措施。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "人性化服务为核心理念，推出一系列服务升级措施。",
+        "dur": 4.872,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 26,
+      "start": 103.7,
+      "end": 106.752,
+      "label": "guilin",
+      "text": "首先，依托实施客流监测系统，",
+      "score": 0.5581,
+      "signals": {
+        "mand_logprob": -0.4929,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "首先，依托实时客流监测系统。",
+        "dur": 3.052,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 27,
+      "start": 106.82,
+      "end": 110.779,
+      "label": "uncertain",
+      "text": "在确保安全的前提下进行动态调整，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -0.3381,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在确保安全的前提下，进行动态调整。",
+        "dur": 3.959,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 28,
+      "start": 110.823,
+      "end": 115.868,
+      "label": "mandarin",
+      "text": "科学分流游客，有效缓解高峰时段拥堵问题。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "科学分流游客，有效缓解高峰时段拥堵问题。",
+        "dur": 5.045,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 29,
+      "start": 116.008,
+      "end": 118.985,
+      "label": "mandarin",
+      "text": "同时，创新研发智能叫号系统，",
+      "score": 0.3206,
+      "signals": {
+        "mand_logprob": -0.1665,
+        "acoustic_dev": 0.616,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同时，创新研发智能叫号系统。",
+        "dur": 2.977,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 30,
+      "start": 119.008,
+      "end": 122.616,
+      "label": "mandarin",
+      "text": "游客到现场取号后，可通过小",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "游客到现场取号后，可通过小。",
+        "dur": 3.608,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 31,
+      "start": 122.89,
+      "end": 127.654,
+      "label": "mandarin",
+      "text": "票二维码实现掌握排队状况和预估等待时间，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "票二维码实现掌握排队状况和预估等待时间。",
+        "dur": 4.764,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 32,
+      "start": 127.86,
+      "end": 132.501,
+      "label": "mandarin",
+      "text": "自由安排周边活动，大幅减少现场滞留情况。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "自由安排周边活动，大幅减少现场滞留情况。",
+        "dur": 4.641,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 33,
+      "start": 132.501,
+      "end": 139.364,
+      "label": "mandarin",
+      "text": "在服务响应方面，我们线上二十四小时智能客服快速解答景区高频问题，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在服务响应方面，我们线上二十四小时智能客服快速解答景区高频问题。",
+        "dur": 6.863,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 34,
+      "start": 139.514,
+      "end": 142.085,
+      "label": "mandarin",
+      "text": "并增设人工服务专线，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并增设人工服务专线。",
+        "dur": 2.571,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 35,
+      "start": 142.309,
+      "end": 149.245,
+      "label": "mandarin",
+      "text": "处理个性化需求。通过专线服务模式，既提升工作效率，又保障游客体验。",
+      "score": 0.0158,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.034,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "处理个性化需求，通过双线服务模式，既提升工作效率，又保障游客体验。",
+        "dur": 6.936,
+        "n_char": 29
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

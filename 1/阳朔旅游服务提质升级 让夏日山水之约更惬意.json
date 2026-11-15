@@ -1,0 +1,894 @@
+{
+  "src_audio": "阳朔旅游服务提质升级 让夏日山水之约更惬意.wav",
+  "duration": 207.381,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.331,
+      "end": 7.311,
+      "label": "mandarin",
+      "text": "暑期旅游进入了倒计时了，希望大家抓住这个假期的尾巴，尽情的享受游玩的快乐。",
+      "score": 0.0134,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.029,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "暑期旅游进入了倒计时了，希望大家抓住这个假期的尾巴，尽情地享受游玩的快乐。",
+        "dur": 6.98,
+        "n_char": 34
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.651,
+      "end": 11.5,
+      "label": "mandarin",
+      "text": "这一段时间，山水游花的阳朔迎来了旅游高峰，",
+      "score": 0.1413,
+      "signals": {
+        "mand_logprob": -0.2869,
+        "acoustic_dev": 0.179,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这一段时间，山水愈发的阳朔迎来了旅游高峰。",
+        "dur": 3.849,
+        "n_char": 19,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.5,
+      "end": 16.605,
+      "label": "mandarin",
+      "text": "为了让八方游客在山水画卷当中收获舒心的体验，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0355,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为了让八方游客在山水画卷当中收获舒心的体验。",
+        "dur": 5.105,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 4,
+      "start": 16.805,
+      "end": 22.485,
+      "label": "mandarin",
+      "text": "阳朔从服务升级、交通疏导、安全保障等等多维度持续发力，",
+      "score": 0.1967,
+      "signals": {
+        "mand_logprob": -0.1624,
+        "acoustic_dev": 0.085,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "杨朔从副省级、交通枢纽、安全保障等等多维度，直抒发力。",
+        "dur": 5.68,
+        "n_char": 24,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.658,
+      "end": 24.982,
+      "label": "uncertain",
+      "text": "全面提升旅游服务质量，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -3.3826,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "全面提升旅游服务质量。",
+        "dur": 2.324,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.108,
+      "end": 28.563,
+      "label": "mandarin",
+      "text": "让山水甲天下的名片更添温度。",
+      "score": 0.2764,
+      "signals": {
+        "mand_logprob": -0.2399,
+        "acoustic_dev": 0.144,
+        "seg_cer": 0.462,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "山/三",
+        "text_free": "杨三水驾天下的名片，耕田文度。",
+        "dur": 3.455,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 7,
+      "start": 28.749,
+      "end": 33.684,
+      "label": "mandarin",
+      "text": "在水厄的码头，阳朔玉龙河景区开始使用叫号系统服务，",
+      "score": 0.1886,
+      "signals": {
+        "mand_logprob": -0.3276,
+        "acoustic_dev": 0.21,
+        "seg_cer": 0.174,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在水鳄顶码头，阳朔鱼龙湖景区开始使用叫号系统服务。",
+        "dur": 4.935,
+        "n_char": 23,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 8,
+      "start": 33.926,
+      "end": 38.304,
+      "label": "mandarin",
+      "text": "游客们在工作人员的引导下有序的在叫号机上取号，",
+      "score": 0.0208,
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "游客们在工作人员的引导下，有序地在叫号机上取号。",
+        "dur": 4.378,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 9,
+      "start": 38.304,
+      "end": 41.34,
+      "label": "mandarin",
+      "text": "随后就可以在休息区安心等待。",
+      "score": 0.0352,
+      "signals": {
+        "mand_logprob": -0.0148,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "车后就可以在休息区安心等待。",
+        "dur": 3.036,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.684,
+      "end": 48.301,
+      "label": "guilin",
+      "text": "我们在在现场，这次一两双号能分开管理，非常提升游客取号也方便。",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -2.4026,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.464,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们的这个系统支持A B两种号，能分开管理不同批次的游客，取号也方便。",
+        "dur": 6.617,
+        "n_char": 28,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 48.301,
+      "end": 52.095,
+      "label": "guilin",
+      "text": "让马先生们或者车上出生的号就可以，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -6.1817,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.75,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "要么刷身份证，或者手动输身份证号就可以。",
+        "dur": 3.794,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 12,
+      "start": 52.095,
+      "end": 56.608,
+      "label": "uncertain",
+      "text": "阿姨，天也会实时显示正在叫的号和语音播报，",
+      "score": 0.4939,
+      "signals": {
+        "mand_logprob": -1.1248,
+        "acoustic_dev": 0.811,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "I E D屏也会实时显示正在叫的号和语音播报。",
+        "dur": 4.513,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 13,
+      "start": 56.608,
+      "end": 62.603,
+      "label": "mandarin",
+      "text": "取了号以后不用在现场等待，扫了票上的二维码就能看到正在排在哪里了。",
+      "score": 0.0295,
+      "signals": {
+        "mand_logprob": -0.0134,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.065,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "取了号以后，不用在现场等待，扫着票上的二维码就能看到正在排到哪里了。",
+        "dur": 5.995,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 14,
+      "start": 62.717,
+      "end": 65.522,
+      "label": "guilin",
+      "text": "减少了游客在现场排队的时间，",
+      "score": 0.5552,
+      "signals": {
+        "mand_logprob": -1.5023,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "减短了游客在现场排队的时间。",
+        "dur": 2.805,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 15,
+      "start": 65.522,
+      "end": 68.209,
+      "label": "mandarin",
+      "text": "而且能让他的行程更方便。",
+      "score": 0.2706,
+      "signals": {
+        "mand_logprob": -0.5274,
+        "acoustic_dev": 0.36,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "而且能让它的行程更为方便。",
+        "dur": 2.687,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 16,
+      "start": 68.209,
+      "end": 71.157,
+      "label": "guilin",
+      "text": "嗯，叫号系统目前在水厄码头试运行，",
+      "score": 0.6724,
+      "signals": {
+        "mand_logprob": -2.0912,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "嗯，交号系统当前在索菲迪码头试运行。",
+        "dur": 2.948,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 17,
+      "start": 71.167,
+      "end": 75.655,
+      "label": "mandarin",
+      "text": "运行效果良好，今后将投入各个码头使用。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "运行效果良好，今后将投入各个码头使用。",
+        "dur": 4.488,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 18,
+      "start": 75.741,
+      "end": 81.93,
+      "label": "mandarin",
+      "text": "哦，我们将以更多的科技手段去提升我们的服务质量，",
+      "score": 0.0208,
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "嗯，我们将以更多的科技手段去提升我们的服务质量。",
+        "dur": 6.189,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 19,
+      "start": 82.082,
+      "end": 86.953,
+      "label": "mandarin",
+      "text": "提升游客体验感。阳朔漓江景区同样在细节处发力，",
+      "score": 0.0218,
+      "signals": {
+        "mand_logprob": -0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "提升游客体验感。阳朔漓江景区同样在细节出发力。",
+        "dur": 4.871,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 20,
+      "start": 86.953,
+      "end": 90.46,
+      "label": "mandarin",
+      "text": "为游客和发工送上贴心的关怀。",
+      "score": 0.0352,
+      "signals": {
+        "mand_logprob": -0.0098,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为游客或发工送上贴心的关怀。",
+        "dur": 3.507,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 21,
+      "start": 90.739,
+      "end": 94.365,
+      "label": "uncertain",
+      "text": "暑期气温比较高，漓江国码头设置了服务点，",
+      "score": 0.4648,
+      "signals": {
+        "mand_logprob": -1.0404,
+        "acoustic_dev": 0.747,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "初期气温比较高，丽江过码头设置了服务点。",
+        "dur": 3.626,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 22,
+      "start": 94.608,
+      "end": 97.186,
+      "label": "guilin",
+      "text": "为大家准备了清凉盖、处理茶饮，",
+      "score": 0.6042,
+      "signals": {
+        "mand_logprob": -1.3213,
+        "acoustic_dev": 0.959,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为大家准备了清凉甘醇的茶饮。",
+        "dur": 2.578,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 97.476,
+      "end": 100.228,
+      "label": "mandarin",
+      "text": "游客和发工随时都可以取用。",
+      "score": 0.186,
+      "signals": {
+        "mand_logprob": -0.3294,
+        "acoustic_dev": 0.211,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "游客或发工，随时都可以去用。",
+        "dur": 2.752,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 100.523,
+      "end": 103.392,
+      "label": "mandarin",
+      "text": "在炎炎夏日里头带来一丝清爽。",
+      "score": 0.0352,
+      "signals": {
+        "mand_logprob": -0.0103,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在炎炎夏夜里头，带来一丝清爽。",
+        "dur": 2.869,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 25,
+      "start": 103.84,
+      "end": 107.163,
+      "label": "mandarin",
+      "text": "同时，服务点还配备了充足的雨具品。",
+      "score": 0.061,
+      "signals": {
+        "mand_logprob": -0.0143,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同时，服务点还配备了充足的医药品。",
+        "dur": 3.323,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 26,
+      "start": 107.163,
+      "end": 113.722,
+      "label": "mandarin",
+      "text": "感觉很好，这是码头夏天为我们准备的这个凉粉，因为知道我们这发工开这竹筏很热。",
+      "score": 0.0402,
+      "signals": {
+        "mand_logprob": -0.052,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.086,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "感觉很好。这是码头夏天为我们准备的这个凉粉，因为知道我们这华工开这个竹房很热。",
+        "dur": 6.559,
+        "n_char": 35
+      }
+    },
+    {
+      "id": 27,
+      "start": 113.722,
+      "end": 120.087,
+      "label": "mandarin",
+      "text": "我们发工训练好了，跟客人、客人来游客讲好了，才能给客人留下一个深刻的印象，",
+      "score": 0.063,
+      "signals": {
+        "mand_logprob": -0.0686,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.121,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们伐工心情好了，跟客人、客人那游客讲好了，才能给客人留下一个深刻的印象。",
+        "dur": 6.365,
+        "n_char": 33
+      }
+    },
+    {
+      "id": 28,
+      "start": 120.087,
+      "end": 126.134,
+      "label": "mandarin",
+      "text": "更好的宣传我们的漓江。在交通保障上，阳朔县公安局立足全局视角，",
+      "score": 0.0653,
+      "signals": {
+        "mand_logprob": -0.0467,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "更好的宣传我们的离家。在交通保障上，阳朔县公安局立足全局事故。",
+        "dur": 6.047,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 29,
+      "start": 126.307,
+      "end": 130.252,
+      "label": "mandarin",
+      "text": "以系统性思维推动各项措施落地见效，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以系统性思维推动各项措施落地见效。",
+        "dur": 3.945,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 30,
+      "start": 130.486,
+      "end": 133.401,
+      "label": "mandarin",
+      "text": "形成全警联动、全域覆盖、",
+      "score": 0.1106,
+      "signals": {
+        "mand_logprob": -0.2149,
+        "acoustic_dev": 0.125,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "形成全景联动、全域覆盖。",
+        "dur": 2.915,
+        "n_char": 10,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 31,
+      "start": 133.401,
+      "end": 136.167,
+      "label": "mandarin",
+      "text": "全城保障的交通治理格局。",
+      "score": 0.0416,
+      "signals": {
+        "mand_logprob": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "全程保障的交通治理格局。",
+        "dur": 2.766,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 32,
+      "start": 136.167,
+      "end": 140.2,
+      "label": "mandarin",
+      "text": "暑假期间，阳朔县公安局交通管理大队全员在岗，",
+      "score": 0.1699,
+      "signals": {
+        "mand_logprob": -0.2495,
+        "acoustic_dev": 0.151,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "暑假期间，梁河县公安局交通管理大队全体人在岗。",
+        "dur": 4.033,
+        "n_char": 20,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 33,
+      "start": 140.911,
+      "end": 143.484,
+      "label": "mandarin",
+      "text": "为应对暑期人流车流的增加，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0051,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为应对暑期人流车流的增加。",
+        "dur": 2.573,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 34,
+      "start": 143.484,
+      "end": 149.814,
+      "label": "mandarin",
+      "text": "我们在石马路、蟠桃路、叠翠路等路段实施道路微循环、单行线等模式，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0075,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们在石马路、蟠桃路、叠翠路等路段实施道路微循环、单行线等模式。",
+        "dur": 6.33,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 35,
+      "start": 149.814,
+      "end": 153.639,
+      "label": "mandarin",
+      "text": "大大增加了车流的通行速度。县城车流量大，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "大大增加了车流的通行速度，县城车流量大。",
+        "dur": 3.825,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 36,
+      "start": 153.639,
+      "end": 157.0,
+      "label": "mandarin",
+      "text": "停车位有限，再次呼吁大家绿色出行，",
+      "score": 0.1835,
+      "signals": {
+        "mand_logprob": -0.3618,
+        "acoustic_dev": 0.236,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "停车位有限，在此呼吁大家绿色出行。",
+        "dur": 3.361,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 37,
+      "start": 157.231,
+      "end": 161.291,
+      "label": "mandarin",
+      "text": "驾驶电动自行车出行。我们在阳朔县公园",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0039,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "驾驶电动自行车出行。我们在阳朔县公园。",
+        "dur": 4.06,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 38,
+      "start": 161.599,
+      "end": 165.06,
+      "label": "mandarin",
+      "text": "停车场新增两千个电动自行车",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "停车场新增两千个电动自行车。",
+        "dur": 3.461,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 39,
+      "start": 165.093,
+      "end": 168.766,
+      "label": "mandarin",
+      "text": "停放点，方便大家在西街游玩时进行停放。",
+      "score": 0.0333,
+      "signals": {
+        "mand_logprob": -0.0658,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "停放点方便大家在西郊游玩时进行停放。",
+        "dur": 3.673,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 40,
+      "start": 169.076,
+      "end": 174.797,
+      "label": "mandarin",
+      "text": "同时，阳朔县市场监管局聚焦旅游消费重点领域和关键环节，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0162,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同时，阳朔县市场监管局聚焦旅游消费重点领域和关键环节。",
+        "dur": 5.721,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 41,
+      "start": 175.026,
+      "end": 179.532,
+      "label": "uncertain",
+      "text": "在全疆范围内开展暑期食品安全专项整治行动，",
+      "score": 0.4949,
+      "signals": {
+        "mand_logprob": -1.1949,
+        "acoustic_dev": 0.864,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在全县范围内开展初期食品安全专项整治行动。",
+        "dur": 4.506,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 42,
+      "start": 179.822,
+      "end": 183.715,
+      "label": "mandarin",
+      "text": "以零容忍态度筑牢旅游食品安全防线。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0038,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以零容忍态度筑牢旅游食品安全防线。",
+        "dur": 3.893,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 43,
+      "start": 184.06,
+      "end": 187.514,
+      "label": "mandarin",
+      "text": "同时，精准打击商家缺斤少两行为，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "同时，精准打击商家缺斤少两行为。",
+        "dur": 3.454,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 44,
+      "start": 187.788,
+      "end": 192.147,
+      "label": "mandarin",
+      "text": "全力守护游客舌尖上的安全与钱袋子里的公平。",
+      "score": 0.1606,
+      "signals": {
+        "mand_logprob": -0.0664,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "子/治",
+        "text_free": "全力守护游客舌尖上的安全与欠贷治理的公平。",
+        "dur": 4.359,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 45,
+      "start": 192.471,
+      "end": 195.149,
+      "label": "mandarin",
+      "text": "从品质提升到细节关怀，",
+      "score": 0.2299,
+      "signals": {
+        "mand_logprob": -0.4025,
+        "acoustic_dev": 0.266,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从品质提升到细节规范。",
+        "dur": 2.678,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 46,
+      "start": 195.248,
+      "end": 198.056,
+      "label": "mandarin",
+      "text": "从交通畅行到消费安心，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0204,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "从交通畅行到消费安心。",
+        "dur": 2.808,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 47,
+      "start": 198.291,
+      "end": 203.948,
+      "label": "mandarin",
+      "text": "阳朔用实打实的服务升级，让每位游客在欣赏山水之美的同时，",
+      "score": 0.2187,
+      "signals": {
+        "mand_logprob": -0.2555,
+        "acoustic_dev": 0.155,
+        "seg_cer": 0.192,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "实/四",
+        "text_free": "杨说：“用四大室的服务升级，让每位游客在欣赏山水之美的同时。”",
+        "dur": 5.657,
+        "n_char": 26,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 48,
+      "start": 203.948,
+      "end": 207.381,
+      "label": "mandarin",
+      "text": "更能体会到阳朔的热忱与用心。",
+      "score": 0.1055,
+      "signals": {
+        "mand_logprob": -0.0442,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "更能体会到杨朔的言情与用心。",
+        "dur": 3.433,
+        "n_char": 13
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

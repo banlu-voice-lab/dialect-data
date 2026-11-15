@@ -1,0 +1,845 @@
+{
+  "src_audio": "七星区社山桥社区荣获全国书香社区称号.wav",
+  "duration": 201.169,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.822,
+      "end": 8.041,
+      "label": "mandarin",
+      "text": "前段时间，中国图书馆学会二零二五年书香社区发现活动入选名单揭晓了。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "前段时间，中国图书馆学会二零二五年书香社区发现活动入选名单揭晓了。",
+        "dur": 7.219,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.041,
+      "end": 20.676,
+      "label": "mandarin",
+      "text": "七星区东江街道社山桥社区从全国二十五个省份的一百三十八个参选社区当中脱颖而出，成为我们广西首个获此殊荣的社区。",
+      "score": 0.0086,
+      "signals": {
+        "mand_logprob": -0.0084,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.019,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "七星区东江街道社山桥社区从全国二十五个省份的一百三十八个参选社区当中脱颖而出，成为了我们广西首个获此殊荣的社区。",
+        "dur": 12.635,
+        "n_char": 53
+      }
+    },
+    {
+      "id": 3,
+      "start": 21.248,
+      "end": 26.277,
+      "label": "mandarin",
+      "text": "暑假期间，社山桥社区的暑期公益课又迎来了新学员。",
+      "score": 0.1456,
+      "signals": {
+        "mand_logprob": -0.0282,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "山/三",
+        "text_free": "暑假期间，十三桥社区的足球公益课又迎来了新学员。",
+        "dur": 5.029,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 4,
+      "start": 26.448,
+      "end": 30.705,
+      "label": "guilin",
+      "text": "辖区的八一寨门小区在阳光悦享文化空间，",
+      "score": 0.6456,
+      "signals": {
+        "mand_logprob": -1.1223,
+        "acoustic_dev": 0.901,
+        "seg_cer": 0.278,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "寨/仔",
+        "text_free": "辖区的八爷仔们相聚在阳光悦享文化空间。",
+        "dur": 4.257,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 5,
+      "start": 30.705,
+      "end": 33.061,
+      "label": "guilin",
+      "text": "在老师的指导下，剪纸、",
+      "score": 0.6216,
+      "signals": {
+        "mand_logprob": -3.2582,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在老师的指导下，填色。",
+        "dur": 2.356,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 6,
+      "start": 33.061,
+      "end": 37.766,
+      "label": "mandarin",
+      "text": "彩纸、拼贴，要有兴趣的进行手工制作。",
+      "score": 0.0761,
+      "signals": {
+        "mand_logprob": -0.0884,
+        "acoustic_dev": 0.029,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "材质、拼贴，要有兴趣的进行手工制作。",
+        "dur": 4.705,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 7,
+      "start": 37.766,
+      "end": 40.6,
+      "label": "mandarin",
+      "text": "我第一次上手工课，我觉得手工，",
+      "score": 0.1742,
+      "signals": {
+        "mand_logprob": -0.2104,
+        "acoustic_dev": 0.132,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我第三次上功课，我觉得手工。",
+        "dur": 2.834,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 8,
+      "start": 40.905,
+      "end": 45.339,
+      "label": "guilin",
+      "text": "手工很好玩。我也希望做足更多的手工作品。",
+      "score": 0.5708,
+      "signals": {
+        "mand_logprob": -1.3176,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "做手工很好玩，我也希望做出更多的手工作品。",
+        "dur": 4.434,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 9,
+      "start": 45.609,
+      "end": 48.522,
+      "label": "uncertain",
+      "text": "今天老师教我们做手工，",
+      "score": 0.5181,
+      "signals": {
+        "mand_logprob": -1.0266,
+        "acoustic_dev": 0.82,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天老师教我们做丝瓜。",
+        "dur": 2.913,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 10,
+      "start": 48.762,
+      "end": 53.3,
+      "label": "guilin",
+      "text": "我做的非常好。我先把我的床贴。",
+      "score": 0.7425,
+      "signals": {
+        "mand_logprob": -2.4512,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.385,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "先/想",
+        "text_free": "我做的非常好，我想把它挂在床前。",
+        "dur": 4.538,
+        "n_char": 13,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 11,
+      "start": 53.43,
+      "end": 58.917,
+      "label": "mandarin",
+      "text": "记者了解到，这个暑假，社山桥社区充分利用阳光悦享文化空间，",
+      "score": 0.0369,
+      "signals": {
+        "mand_logprob": -0.0577,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "记者了解到，这个出家，社山桥社区充分利用阳光悦享文化空间。",
+        "dur": 5.487,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 12,
+      "start": 59.053,
+      "end": 62.851,
+      "label": "mandarin",
+      "text": "面向辖区居民子女和新兴就业领域人员子女，",
+      "score": 0.1486,
+      "signals": {
+        "mand_logprob": -0.2281,
+        "acoustic_dev": 0.147,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "面向辖区居民子女和新型就业领域，迎园子女。",
+        "dur": 3.798,
+        "n_char": 19,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 13,
+      "start": 63.053,
+      "end": 66.084,
+      "label": "mandarin",
+      "text": "开展了安全教育、手工、法律科普、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0104,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "开展了安全教育、手工、法律科普。",
+        "dur": 3.031,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 14,
+      "start": 66.195,
+      "end": 70.079,
+      "label": "guilin",
+      "text": "社会实践等四大类公益活动十七次，",
+      "score": 0.5505,
+      "signals": {
+        "mand_logprob": -3.0009,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "社会实践等等四大类公益活动，十七次。",
+        "dur": 3.884,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 15,
+      "start": 70.255,
+      "end": 75.064,
+      "label": "mandarin",
+      "text": "后续还将持续开展公益手工课、红色故事会等活动。",
+      "score": 0.0218,
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "后续还将持续开展公益手工课、红色故事会等等活动。",
+        "dur": 4.809,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 16,
+      "start": 75.379,
+      "end": 77.981,
+      "label": "mandarin",
+      "text": "得益于多部门和居民们的支持，",
+      "score": 0.1001,
+      "signals": {
+        "mand_logprob": -0.282,
+        "acoustic_dev": 0.193,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "得益于多部门和居民们的支持。",
+        "dur": 2.602,
+        "n_char": 13,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 17,
+      "start": 78.215,
+      "end": 84.727,
+      "label": "mandarin",
+      "text": "阳光悦享文化空间的书籍数量由二零二四年四月建立之初的一千两百册，",
+      "score": 0.0147,
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.032,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "阳光月享文化空间的书籍数量由二零二四年四月建立之初的一千两百册。",
+        "dur": 6.512,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 18,
+      "start": 84.942,
+      "end": 87.491,
+      "label": "uncertain",
+      "text": "增加到了如今的超五千册，",
+      "score": 0.3924,
+      "signals": {
+        "mand_logprob": -0.4742,
+        "acoustic_dev": 0.355,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "今/井",
+        "text_free": "增加到了油井的超五千次。",
+        "dur": 2.549,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 19,
+      "start": 87.667,
+      "end": 90.508,
+      "label": "mandarin",
+      "text": "能够满足全年龄段的阅读需求。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "能够满足全年龄段的阅读需求。",
+        "dur": 2.841,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 20,
+      "start": 90.917,
+      "end": 93.921,
+      "label": "uncertain",
+      "text": "空间内沙发、桌椅、一应俱全，",
+      "score": 0.5226,
+      "signals": {
+        "mand_logprob": -0.8279,
+        "acoustic_dev": 0.653,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "桌/座 内/雷",
+        "text_free": "空间雷沙发座椅一应俱全。",
+        "dur": 3.004,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 21,
+      "start": 94.206,
+      "end": 96.651,
+      "label": "mandarin",
+      "text": "居民阅读体验感进一步提升。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "居民阅读体验感进一步提升。",
+        "dur": 2.445,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 22,
+      "start": 96.651,
+      "end": 104.012,
+      "label": "mandarin",
+      "text": "让大家感到最便利的，还是和广西桂林图书馆联动的通借通还服务，",
+      "score": 0.0653,
+      "signals": {
+        "mand_logprob": -0.0138,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "让大家感到最便利的，还是和广西桂林图书馆联动的同界同范服务。",
+        "dur": 7.361,
+        "n_char": 28
+      }
+    },
+    {
+      "id": 23,
+      "start": 104.258,
+      "end": 108.23,
+      "label": "mandarin",
+      "text": "作为构建十五分钟品质阅读生态圈的核心，",
+      "score": 0.1116,
+      "signals": {
+        "mand_logprob": -0.3082,
+        "acoustic_dev": 0.215,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "作为构建“十五分钟品质阅读生态圈”的核心。",
+        "dur": 3.972,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 24,
+      "start": 108.306,
+      "end": 112.479,
+      "label": "mandarin",
+      "text": "社山桥社区与广西桂林图书馆实现了资源共享，",
+      "score": 0.0229,
+      "signals": {
+        "mand_logprob": -0.0313,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "石山桥社区与广西桂林图书馆实现了资源共享。",
+        "dur": 4.173,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 25,
+      "start": 112.613,
+      "end": 115.949,
+      "label": "mandarin",
+      "text": "居民们在家门口就可以借书还书。",
+      "score": 0.1306,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "居民们在家门口就可以结束繁琐。",
+        "dur": 3.336,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 26,
+      "start": 116.183,
+      "end": 120.211,
+      "label": "mandarin",
+      "text": "根据统计，开馆一年借阅量突破了三千册，",
+      "score": 0.2024,
+      "signals": {
+        "mand_logprob": -0.1275,
+        "acoustic_dev": 0.062,
+        "seg_cer": 0.235,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "年/连",
+        "text_free": "根据统计，开关一连节约量突破了三千册。",
+        "dur": 4.028,
+        "n_char": 17,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 27,
+      "start": 120.56,
+      "end": 123.697,
+      "label": "mandarin",
+      "text": "每周开馆时长超四十个小时。",
+      "score": 0.0381,
+      "signals": {
+        "mand_logprob": -0.0014,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "每周开关时长超四十个小时。",
+        "dur": 3.137,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 28,
+      "start": 123.697,
+      "end": 128.351,
+      "label": "mandarin",
+      "text": "社区建立了这个呃阅读空间后的话，我们就是离家很方便，",
+      "score": 0.019,
+      "signals": {
+        "mand_logprob": -0.009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "社区建立了这个呃阅读空间。以后的话，我们就是离家很方便。",
+        "dur": 4.654,
+        "n_char": 24
+      }
+    },
+    {
+      "id": 29,
+      "start": 128.351,
+      "end": 131.54,
+      "label": "mandarin",
+      "text": "呃几分钟就到了，就来这里借书还书，",
+      "score": 0.0208,
+      "signals": {
+        "mand_logprob": -0.1011,
+        "acoustic_dev": 0.04,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，几分钟就到了，就来这里借书、还书。",
+        "dur": 3.189,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 30,
+      "start": 131.54,
+      "end": 135.179,
+      "label": "mandarin",
+      "text": "呃都很方便。而且这里的书籍不只有小孩的，",
+      "score": 0.1406,
+      "signals": {
+        "mand_logprob": -0.3744,
+        "acoustic_dev": 0.27,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，都很方便，而且这里的书籍不只有小孩的。",
+        "dur": 3.639,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 31,
+      "start": 135.179,
+      "end": 139.969,
+      "label": "mandarin",
+      "text": "还有大人的，小孩呃在阅读，同时大人也满足了大人的阅读嘛。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0388,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "还有大人的小孩，呃，在阅读同时，大人也满足了大人的阅读嘛。",
+        "dur": 4.79,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 32,
+      "start": 139.969,
+      "end": 143.853,
+      "label": "mandarin",
+      "text": "阳光悦享文化空间广受居民的欢迎和认可，",
+      "score": 0.1211,
+      "signals": {
+        "mand_logprob": -0.2141,
+        "acoustic_dev": 0.135,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "阳光悦享文化空间，广受居民的反映和认可。",
+        "dur": 3.884,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 33,
+      "start": 144.077,
+      "end": 148.183,
+      "label": "mandarin",
+      "text": "居民自发捐赠图书，让共享精神在社区延伸。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "居民自发捐赠图书，让共享精神在社区延伸。",
+        "dur": 4.106,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 34,
+      "start": 148.551,
+      "end": 153.417,
+      "label": "mandarin",
+      "text": "本次社山桥社区成为广西首个入选书香社区的社区，",
+      "score": 0.231,
+      "signals": {
+        "mand_logprob": -0.1628,
+        "acoustic_dev": 0.092,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "山/三 次/驰",
+        "text_free": "奔驰十三桥社区成为广西首个入选书香社区的社区。",
+        "dur": 4.866,
+        "n_char": 22,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 35,
+      "start": 153.541,
+      "end": 158.108,
+      "label": "mandarin",
+      "text": "不仅是广西桂林图书馆与社山桥社区长期深化合作、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0474,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "不仅是广西桂林图书馆与社山桥社区长期深化合作。",
+        "dur": 4.567,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 36,
+      "start": 158.203,
+      "end": 162.962,
+      "label": "mandarin",
+      "text": "携手共建的结果，更是社区文化建设的具体体现，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0089,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "携手共建的结果，更是社区文化建设的具体体现。",
+        "dur": 4.759,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 37,
+      "start": 163.193,
+      "end": 167.875,
+      "label": "mandarin",
+      "text": "为我市开展全民阅读工作有着重要的推动作用。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为我市开展全民阅读工作，有着重要的推动作用。",
+        "dur": 4.682,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 38,
+      "start": 168.206,
+      "end": 172.661,
+      "label": "mandarin",
+      "text": "我们将以此次获得全国书香社区为契机，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们将以此次获得全国书香社区为契机。",
+        "dur": 4.455,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 39,
+      "start": 172.726,
+      "end": 176.474,
+      "label": "mandarin",
+      "text": "把社区文化空间更充分的利用起来，",
+      "score": 0.061,
+      "signals": {
+        "mand_logprob": -0.0537,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "会把社区文化空间更充分地利用起来。",
+        "dur": 3.748,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 40,
+      "start": 176.601,
+      "end": 180.358,
+      "label": "uncertain",
+      "text": "然后。组织更多的资源走进我们社区，",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -1.4766,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后组织更多的资源走进我们社区。",
+        "dur": 3.757,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 41,
+      "start": 180.404,
+      "end": 184.145,
+      "label": "mandarin",
+      "text": "进一步丰富我们居民的精神文化生活，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "进一步丰富我们居民的精神文化生活。",
+        "dur": 3.741,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 42,
+      "start": 184.215,
+      "end": 188.592,
+      "label": "mandarin",
+      "text": "使我们社区居民在这里生活的越来越幸福美好。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "使我们社区居民在这里生活的越来越幸福美好。",
+        "dur": 4.377,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 43,
+      "start": 188.592,
+      "end": 193.038,
+      "label": "mandarin",
+      "text": "除了社山桥社区，近两年来，我市陆续建立多个阅读站，",
+      "score": 0.0208,
+      "signals": {
+        "mand_logprob": -0.0042,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "除了佘山桥社区，近两年来，我市陆续建立多个阅读站。",
+        "dur": 4.446,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 44,
+      "start": 193.177,
+      "end": 197.241,
+      "label": "mandarin",
+      "text": "进一步织密十五分钟品质阅读生态圈，",
+      "score": 0.2672,
+      "signals": {
+        "mand_logprob": -0.2776,
+        "acoustic_dev": 0.189,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "十/四",
+        "text_free": "进一步执迷四五分钟品质阅读生态圈。",
+        "dur": 4.064,
+        "n_char": 16,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 45,
+      "start": 197.435,
+      "end": 201.169,
+      "label": "mandarin",
+      "text": "让书香沁润到城市的每一个角落。",
+      "score": 0.3073,
+      "signals": {
+        "mand_logprob": -0.2757,
+        "acoustic_dev": 0.187,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "沁/清",
+        "text_free": "让水箱清运到城市里每一个角落。",
+        "dur": 3.734,
+        "n_char": 14,
+        "text_check": "留意"
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

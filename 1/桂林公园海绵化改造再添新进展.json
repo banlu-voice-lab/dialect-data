@@ -1,0 +1,1090 @@
+{
+  "src_audio": "桂林公园海绵化改造再添新进展.wav",
+  "duration": 274.284,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.247,
+      "end": 4.133,
+      "label": "mandarin",
+      "text": "今天我们首先来关注一下我们的城市园林建设。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天我们首先来关注一下我们的城市园林建设。",
+        "dur": 3.886,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 2,
+      "start": 4.448,
+      "end": 11.596,
+      "label": "mandarin",
+      "text": "近年来，市林业和园林局将海绵理念是深度融入公园的建设与改造当中，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0028,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近年来，市林业和园林局将海绵理念，是深度融入公园的建设与改造当中。",
+        "dur": 7.148,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.853,
+      "end": 17.109,
+      "label": "mandarin",
+      "text": "通过采用新材料、运用新设计，进一步的提升公园的景观，",
+      "score": 0.0199,
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "通过采用新材料，运用新设计，进一步地提升公园的景观。",
+        "dur": 5.256,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 4,
+      "start": 17.338,
+      "end": 19.9,
+      "label": "mandarin",
+      "text": "解决了雨天积水的问题。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0041,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "解决了雨天积水的问题。",
+        "dur": 2.562,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.164,
+      "end": 24.782,
+      "label": "mandarin",
+      "text": "目前，西山、玉山、南西山等公园已经完成了改造，",
+      "score": 0.0241,
+      "signals": {
+        "mand_logprob": -0.0154,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.053,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "目前，西山、玉山、南溪山等公园已经完成了改造。",
+        "dur": 4.618,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.946,
+      "end": 27.314,
+      "label": "mandarin",
+      "text": "紫竹公园即将完成升级，",
+      "score": 0.245,
+      "signals": {
+        "mand_logprob": -0.1332,
+        "acoustic_dev": 0.471,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "紫竹公园即将完成升级。",
+        "dur": 2.368,
+        "n_char": 10,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.453,
+      "end": 30.665,
+      "label": "mandarin",
+      "text": "以全新的面貌迎接市民游客。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以全新的面貌迎接市民游客。",
+        "dur": 3.212,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.017,
+      "end": 40.031,
+      "label": "mandarin",
+      "text": "在西山公园入口的小公园已经换上了新装，",
+      "score": 0.2337,
+      "signals": {
+        "mand_logprob": -0.1033,
+        "acoustic_dev": 0.352,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在西山公园入口的小公园，已经翻张了新装。",
+        "dur": 4.014,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 9,
+      "start": 40.268,
+      "end": 42.645,
+      "label": "guilin",
+      "text": "水泥路面被疏水旱溪替代，",
+      "score": 0.5616,
+      "signals": {
+        "mand_logprob": -0.7882,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "水泥路面被疏水、旱席替代。",
+        "dur": 2.377,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 10,
+      "start": 42.843,
+      "end": 46.912,
+      "label": "mandarin",
+      "text": "沿湖岸垂落的荷花雨帘点缀着四周仿古建筑，",
+      "score": 0.2192,
+      "signals": {
+        "mand_logprob": -0.0976,
+        "acoustic_dev": 0.329,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "沿屋檐垂落的荷花雨帘，点缀着四周仿古建筑。",
+        "dur": 4.069,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 11,
+      "start": 47.291,
+      "end": 49.731,
+      "label": "mandarin",
+      "text": "在雨天起到引水的作用。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0024,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在雨天起到引水的作用。",
+        "dur": 2.44,
+        "n_char": 10
+      }
+    },
+    {
+      "id": 12,
+      "start": 49.795,
+      "end": 55.536,
+      "label": "mandarin",
+      "text": "走入公园，红灰两个颜色的步道延伸至公园的主要游览景观，",
+      "score": 0.0651,
+      "signals": {
+        "mand_logprob": -0.0203,
+        "acoustic_dev": 0.02,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "左右公园，红飞两个颜色的步道延伸至公园的主要游览景观。",
+        "dur": 5.741,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 13,
+      "start": 55.89,
+      "end": 58.786,
+      "label": "guilin",
+      "text": "并全部采用透水粉岭土材料，",
+      "score": 0.5756,
+      "signals": {
+        "mand_logprob": -0.2074,
+        "acoustic_dev": 0.768,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "岭/凝",
+        "text_free": "并全部采用透水混凝土材料。",
+        "dur": 2.896,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.007,
+      "end": 62.395,
+      "label": "mandarin",
+      "text": "解决了雨天湿滑、容易积水等问题，",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.0106,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "解决了雨天湿发容易积水等问题。",
+        "dur": 3.388,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 15,
+      "start": 62.652,
+      "end": 66.812,
+      "label": "mandarin",
+      "text": "使市民游客游览的时候行走体验更加舒适。",
+      "score": 0.0008,
+      "signals": {
+        "mand_logprob": -0.0158,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "使市民游客游览的时候，行走体验更加舒适。",
+        "dur": 4.16,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 16,
+      "start": 66.812,
+      "end": 77.279,
+      "label": "mandarin",
+      "text": "现在比原来环境好多了，原来这边的话，树底下就是那种呃乱石子啊、那种杂草啊，现在把它铺得好平整啊，",
+      "score": 0.0381,
+      "signals": {
+        "mand_logprob": -0.0235,
+        "acoustic_dev": 0.032,
+        "seg_cer": 0.047,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "现在比原来的环境好多了。原来这边的话，树底下就是那种呃乱石子啊，那种杂草啊，现在把它铺得好工整啊。",
+        "dur": 10.467,
+        "n_char": 43
+      }
+    },
+    {
+      "id": 17,
+      "start": 77.279,
+      "end": 80.524,
+      "label": "mandarin",
+      "text": "下雨也不积水。而且我们锻炼身体的话，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0068,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "下雨也不积水，而且我们锻炼身体的话。",
+        "dur": 3.245,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 18,
+      "start": 80.798,
+      "end": 84.84,
+      "label": "mandarin",
+      "text": "锻炼完了以后，其他的都是又可以在上面看书啊、",
+      "score": 0.3168,
+      "signals": {
+        "mand_logprob": -0.1567,
+        "acoustic_dev": 0.565,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "锻炼完了以后，其他的都都是又可以在上面看书啊。",
+        "dur": 4.042,
+        "n_char": 20,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 19,
+      "start": 84.84,
+      "end": 87.479,
+      "label": "mandarin",
+      "text": "休息啊，挺好的。现在环境改变很大。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "休息啊，挺好的。现在环境改变很大。",
+        "dur": 2.639,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 20,
+      "start": 87.656,
+      "end": 92.748,
+      "label": "mandarin",
+      "text": "此外，西山公园还通过建设雨水花园等进行海绵化升级，",
+      "score": 0.0065,
+      "signals": {
+        "mand_logprob": -0.0185,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "此外，西山公园还通过建设雨水花园等，进行海绵化升级。",
+        "dur": 5.092,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 21,
+      "start": 92.994,
+      "end": 95.915,
+      "label": "mandarin",
+      "text": "并在雨水花园旁种植水生植物，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0058,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并在雨水花园旁种植水生植物。",
+        "dur": 2.921,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 22,
+      "start": 96.205,
+      "end": 104.245,
+      "label": "mandarin",
+      "text": "进一步提升景观效果。西山公园海绵化改造项目共建设雨水花园九百七十四平方米、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0078,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "进一步提升景观效果。西山公园海绵化改造项目，共建设雨水花园九百七十四平方米。",
+        "dur": 8.04,
+        "n_char": 35
+      }
+    },
+    {
+      "id": 23,
+      "start": 104.529,
+      "end": 110.94,
+      "label": "mandarin",
+      "text": "旱溪一百二十八平方米、池塘两万四千三百三十九点九平方米、",
+      "score": 0.1264,
+      "signals": {
+        "mand_logprob": -0.0423,
+        "acoustic_dev": 0.108,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "面积一百二十八平方米，食堂两万四千三百三十九点九平方米。",
+        "dur": 6.411,
+        "n_char": 26
+      }
+    },
+    {
+      "id": 24,
+      "start": 111.263,
+      "end": 114.761,
+      "label": "mandarin",
+      "text": "透水铺装五千零六十点四平方米等。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0153,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "透水铺装五千零六十点四平方米等。",
+        "dur": 3.498,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 25,
+      "start": 115.109,
+      "end": 118.006,
+      "label": "mandarin",
+      "text": "项目已于五月中旬全面完工。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "项目已于五月中旬全面完工。",
+        "dur": 2.897,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 26,
+      "start": 118.434,
+      "end": 123.086,
+      "label": "mandarin",
+      "text": "自项目完工以来，历经多次大暴雨，均未发生内涝。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "自项目完工以来，历经多次大暴雨，均未发生内涝。",
+        "dur": 4.652,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 27,
+      "start": 123.737,
+      "end": 127.842,
+      "label": "mandarin",
+      "text": "紫竹公园海绵化改造项目于今年五月全面启动，",
+      "score": 0.0001,
+      "signals": {
+        "mand_logprob": -0.0154,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "紫竹公园海绵化改造项目于今年五月全面启动。",
+        "dur": 4.105,
+        "n_char": 20
+      }
+    },
+    {
+      "id": 28,
+      "start": 128.141,
+      "end": 132.089,
+      "label": "mandarin",
+      "text": "涵盖一万零四百七十六平方米透水铺装、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "涵盖一万零四百七十六平方米透水铺装。",
+        "dur": 3.948,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 29,
+      "start": 132.297,
+      "end": 134.806,
+      "label": "mandarin",
+      "text": "三千五百零九平方米雨水公园、",
+      "score": 0.0302,
+      "signals": {
+        "mand_logprob": -0.0299,
+        "acoustic_dev": 0.058,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "三千五百零九平方米雨水公园。",
+        "dur": 2.509,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 30,
+      "start": 135.401,
+      "end": 138.656,
+      "label": "guilin",
+      "text": "五千七百二十平方米紫草沟、",
+      "score": 0.6962,
+      "signals": {
+        "mand_logprob": -0.487,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "草/抄",
+        "text_free": "五千七百二十平方米，自抄沟。",
+        "dur": 3.255,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 31,
+      "start": 139.053,
+      "end": 145.714,
+      "label": "mandarin",
+      "text": "两千六百三十五平方米旱溪以及六十五点自费海绵设施等工程。",
+      "score": 0.3465,
+      "signals": {
+        "mand_logprob": -0.1494,
+        "acoustic_dev": 0.536,
+        "seg_cer": 0.148,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "两千六百三十五平方米焊机，以及六十五顶自飞海绵设施等工程。",
+        "dur": 6.661,
+        "n_char": 27,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 32,
+      "start": 146.097,
+      "end": 152.257,
+      "label": "mandarin",
+      "text": "来到紫竹公园，原来的主干道粉岭土道路已经被透水沥青所替代，",
+      "score": 0.1339,
+      "signals": {
+        "mand_logprob": -0.0045,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.074,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "岭/临",
+        "text_free": "来到紫竹公园，原来的主干道、分临土道路已经被透水沥青所替代。",
+        "dur": 6.16,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 33,
+      "start": 152.567,
+      "end": 156.019,
+      "label": "mandarin",
+      "text": "新铺的路面在具备较强流水性的同时，",
+      "score": 0.1857,
+      "signals": {
+        "mand_logprob": -0.0429,
+        "acoustic_dev": 0.11,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "新/行",
+        "text_free": "行铺的路面在具备较强流水性的同时。",
+        "dur": 3.452,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 34,
+      "start": 156.173,
+      "end": 158.789,
+      "label": "guilin",
+      "text": "也有一定的弹性和防滑性，",
+      "score": 0.78,
+      "signals": {
+        "mand_logprob": -2.0573,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.364,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "性/心 性/心",
+        "text_free": "也有一定的贪心和防范心。",
+        "dur": 2.616,
+        "n_char": 11,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 35,
+      "start": 159.102,
+      "end": 162.238,
+      "label": "mandarin",
+      "text": "市民散步锻炼的体验感也更好。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "市民散步锻炼的体验感也更好。",
+        "dur": 3.136,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 36,
+      "start": 162.238,
+      "end": 172.134,
+      "label": "mandarin",
+      "text": "我们在紫竹公园主干道改造的过程中，采用了透水沥青进行铺装，现在铺装工程已经基本完成，",
+      "score": 0.0117,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.026,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们在紫洲公园主干道改造的过程中，采用了透水沥青进行铺装。现在铺装工程已经基本完成。",
+        "dur": 9.896,
+        "n_char": 39
+      }
+    },
+    {
+      "id": 37,
+      "start": 172.219,
+      "end": 179.411,
+      "label": "mandarin",
+      "text": "海绵化改造完成后，主要解决了路面雨天积水问题和排水不畅的问题，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "海绵化改造完成后，主要解决了路面雨天积水问题和排水不畅的问题。",
+        "dur": 7.192,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 38,
+      "start": 179.635,
+      "end": 183.22,
+      "label": "mandarin",
+      "text": "市民游客行走在海绵化改造的路面上，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "市民游客行走在海绵化改造的路面上。",
+        "dur": 3.585,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 39,
+      "start": 183.291,
+      "end": 186.53,
+      "label": "mandarin",
+      "text": "舒适度也更高。体验感也更好。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "舒适度也更高，体验感也更好。",
+        "dur": 3.239,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 40,
+      "start": 186.53,
+      "end": 189.947,
+      "label": "mandarin",
+      "text": "公园内四个雨水花园也已经全面完工，",
+      "score": 0.3056,
+      "signals": {
+        "mand_logprob": -0.1211,
+        "acoustic_dev": 0.423,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "公园内四国雨水法院也已经全面完工。",
+        "dur": 3.417,
+        "n_char": 16,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 41,
+      "start": 190.196,
+      "end": 194.165,
+      "label": "mandarin",
+      "text": "雨水经植物、沙土过滤后渗入土壤，",
+      "score": 0.1599,
+      "signals": {
+        "mand_logprob": -0.0923,
+        "acoustic_dev": 0.308,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "雨水经植物、沙土过滤后，渗入土壤。",
+        "dur": 3.969,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 42,
+      "start": 194.445,
+      "end": 198.357,
+      "label": "mandarin",
+      "text": "能涵养地下水，又能够补给陆地用水。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "能涵养地下水，又能够补给陆地用水。",
+        "dur": 3.912,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 43,
+      "start": 198.454,
+      "end": 202.654,
+      "label": "mandarin",
+      "text": "精美的园林设计更为公园景观增色添彩。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "精美的园林设计，更为公园景观增色添彩。",
+        "dur": 4.2,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 44,
+      "start": 203.024,
+      "end": 206.811,
+      "label": "mandarin",
+      "text": "另外，汉溪紫草沟等也已经完成施工，",
+      "score": 0.2653,
+      "signals": {
+        "mand_logprob": -0.1136,
+        "acoustic_dev": 0.393,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "另外，汉西自草沟等也已经完成施工。",
+        "dur": 3.787,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 45,
+      "start": 207.164,
+      "end": 211.552,
+      "label": "mandarin",
+      "text": "多种植物通过园艺布置与公园整体景观融为一体。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "多种植物通过园艺布置，与公园整体景观融为一体。",
+        "dur": 4.388,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 46,
+      "start": 211.965,
+      "end": 216.478,
+      "label": "guilin",
+      "text": "烟雨湖新种的大批花菖蒲、再力花、水葱、",
+      "score": 0.7255,
+      "signals": {
+        "mand_logprob": -0.5699,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.688,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.182,
+        "phon_examples": "葱/冲 湖/富",
+        "text_free": "严与富心中的大批发厂铺、再立发、水冲。",
+        "dur": 4.513,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 47,
+      "start": 216.645,
+      "end": 221.816,
+      "label": "mandarin",
+      "text": "水生鸢尾等水生植物，成为了这座公园里面的又一个打卡点。",
+      "score": 0.0777,
+      "signals": {
+        "mand_logprob": -0.0264,
+        "acoustic_dev": 0.044,
+        "seg_cer": 0.12,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "水生原尾等水生植物成为了訾洲公园里面的又一个打卡点。",
+        "dur": 5.171,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 48,
+      "start": 222.351,
+      "end": 228.975,
+      "label": "mandarin",
+      "text": "这座公园海绵化改造项目是我市公园陆地海绵化改造的试点示范项目。",
+      "score": 0.0152,
+      "signals": {
+        "mand_logprob": -0.0021,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这座公园海绵化改造项目是我市公园绿地海绵化改造的试点示范项目。",
+        "dur": 6.624,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 49,
+      "start": 229.459,
+      "end": 233.644,
+      "label": "uncertain",
+      "text": "园内新建的雨水花园、汉溪多形式紫草沟等，",
+      "score": 0.4706,
+      "signals": {
+        "mand_logprob": -0.205,
+        "acoustic_dev": 0.759,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "院内新建的雨水花园、旱溪、多形式自草沟等。",
+        "dur": 4.185,
+        "n_char": 18,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 50,
+      "start": 233.852,
+      "end": 237.819,
+      "label": "mandarin",
+      "text": "将为我市公园海绵化建设或改造提供借鉴。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0022,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "将为我市公园海绵化建设或改造提供借鉴。",
+        "dur": 3.967,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 51,
+      "start": 238.055,
+      "end": 243.414,
+      "label": "mandarin",
+      "text": "此次西山、玉山、南溪山紫竹四个公园的海绵化改造，",
+      "score": 0.0842,
+      "signals": {
+        "mand_logprob": -0.0559,
+        "acoustic_dev": 0.162,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "此次西山、玉山、南溪山、紫竹四个公园的海绵化改造。",
+        "dur": 5.359,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 52,
+      "start": 243.646,
+      "end": 247.179,
+      "label": "mandarin",
+      "text": "是桂林老八景、桂林数八景的深度融合。",
+      "score": 0.002,
+      "signals": {
+        "mand_logprob": -0.0163,
+        "acoustic_dev": 0.004,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "是桂林老八景、桂林数八景的深度融合。",
+        "dur": 3.533,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 53,
+      "start": 247.507,
+      "end": 251.591,
+      "label": "guilin",
+      "text": "公园不仅实现了雨水的自然集存、渗透与净化，",
+      "score": 0.6162,
+      "signals": {
+        "mand_logprob": -0.2805,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.211,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "工业不仅实现了雨水的自研集成、渗透与净化。",
+        "dur": 4.084,
+        "n_char": 19,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 54,
+      "start": 251.821,
+      "end": 255.081,
+      "label": "mandarin",
+      "text": "更成为市民亲近自然的活力空间。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "更成为市民亲近自然的活力空间。",
+        "dur": 3.26,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 55,
+      "start": 255.081,
+      "end": 259.525,
+      "label": "mandarin",
+      "text": "今后，林园部门将围绕世界级旅游城市建设目标，",
+      "score": 0.3617,
+      "signals": {
+        "mand_logprob": -0.1302,
+        "acoustic_dev": 0.459,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "林/陵",
+        "text_free": "今后，陵园部门将围绕世界级旅游城市建设目标。",
+        "dur": 4.444,
+        "n_char": 20,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 56,
+      "start": 259.726,
+      "end": 263.122,
+      "label": "mandarin",
+      "text": "加快推进市区海绵型公园陆地建设，",
+      "score": 0.2112,
+      "signals": {
+        "mand_logprob": -0.1169,
+        "acoustic_dev": 0.406,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "加快推进市区海绵型公园陆地建设。",
+        "dur": 3.396,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 57,
+      "start": 263.122,
+      "end": 267.122,
+      "label": "mandarin",
+      "text": "让海绵设施既保生态效益，又添景观价值，",
+      "score": 0.0269,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "洋海绵设施既保生态效益，又添景观价值。",
+        "dur": 4.0,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 58,
+      "start": 267.435,
+      "end": 270.322,
+      "label": "mandarin",
+      "text": "满足市民和游客休闲审美需求，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0033,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "满足市民和游客休闲审美需求。",
+        "dur": 2.887,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 59,
+      "start": 270.573,
+      "end": 274.284,
+      "label": "uncertain",
+      "text": "为大家创造出宜人自然的游憩空间。",
+      "score": 0.5283,
+      "signals": {
+        "mand_logprob": -0.1724,
+        "acoustic_dev": 0.628,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "自/之",
+        "text_free": "为大家创造出一影之眼的有趣空间。",
+        "dur": 3.711,
+        "n_char": 15,
+        "text_check": "留意"
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

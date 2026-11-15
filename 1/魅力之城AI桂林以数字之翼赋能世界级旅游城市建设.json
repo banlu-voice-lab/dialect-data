@@ -1,0 +1,931 @@
+{
+  "src_audio": "魅力之城AI桂林以数字之翼赋能世界级旅游城市建设.wav",
+  "duration": 226.04,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.253,
+      "label": "uncertain",
+      "text": "今天我首先来关注一下桂林的旅游。",
+      "score": 0.4152,
+      "signals": {
+        "mand_logprob": -0.6191,
+        "acoustic_dev": 0.623,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "今天我们首先来关注一下我们桂林的旅游。",
+        "dur": 3.253,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.466,
+      "end": 7.501,
+      "label": "mandarin",
+      "text": "前两天，第二十个中国东盟博览会在南宁开幕，",
+      "score": 0.2231,
+      "signals": {
+        "mand_logprob": -0.3681,
+        "acoustic_dev": 0.337,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "前两天，第二十二届中国东盟博览会，在南宁开幕。",
+        "dur": 4.035,
+        "n_char": 19,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.718,
+      "end": 12.065,
+      "label": "uncertain",
+      "text": "桂林啊作为中国唯一城市代表亮相东盟会，",
+      "score": 0.468,
+      "signals": {
+        "mand_logprob": -0.7768,
+        "acoustic_dev": 0.802,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂林啊，作为中国唯一城市代表，亮相东北飞。",
+        "dur": 4.347,
+        "n_char": 18,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 4,
+      "start": 12.065,
+      "end": 22.596,
+      "label": "mandarin",
+      "text": "美丽之城展区，桂林美丽之城展用AI解锁山水新说法，用科技展示旅游名城的科技内功，",
+      "score": 0.1225,
+      "signals": {
+        "mand_logprob": -0.0608,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.086,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "新/型",
+        "text_free": "美丽之城展区，桂林美丽之城展用AI解锁山水型沙发，用科技展示旅游名城的科技内功。",
+        "dur": 10.531,
+        "n_char": 35
+      }
+    },
+    {
+      "id": 5,
+      "start": 22.763,
+      "end": 25.309,
+      "label": "mandarin",
+      "text": "用打卡传递城市魅力，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0131,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "用打卡传递城市魅力。",
+        "dur": 2.546,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 6,
+      "start": 25.309,
+      "end": 28.133,
+      "label": "mandarin",
+      "text": "用好礼分享桂林味道。",
+      "score": 0.2038,
+      "signals": {
+        "mand_logprob": -0.3309,
+        "acoustic_dev": 0.294,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "用好的，分享桂林味道。",
+        "dur": 2.824,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 7,
+      "start": 34.1,
+      "end": 37.885,
+      "label": "uncertain",
+      "text": "作为本届东盟会中国唯一的美丽之城，",
+      "score": 0.5486,
+      "signals": {
+        "mand_logprob": -1.3228,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "作为本届东博会中国唯一的美丽之城。",
+        "dur": 3.785,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 8,
+      "start": 37.885,
+      "end": 42.269,
+      "label": "mandarin",
+      "text": "桂林市以AI桂林甲天下为主题精彩亮相。",
+      "score": 0.0476,
+      "signals": {
+        "mand_logprob": -0.1047,
+        "acoustic_dev": 0.037,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "桂林市以 AI 桂林加天下为主题，精彩亮相。",
+        "dur": 4.384,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 9,
+      "start": 42.494,
+      "end": 47.577,
+      "label": "mandarin",
+      "text": "山东展区在山水为体、文化为魂、科技为翼的宗旨下，",
+      "score": 0.0475,
+      "signals": {
+        "mand_logprob": -0.1161,
+        "acoustic_dev": 0.05,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "山东展现在山水为体、文化为魂、科技为翼的宗旨下。",
+        "dur": 5.083,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 10,
+      "start": 47.577,
+      "end": 50.821,
+      "label": "mandarin",
+      "text": "建设世界级旅游城市的瞩目成就。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0287,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "建设世界级旅游城市的瞩目成就。",
+        "dur": 3.244,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 11,
+      "start": 50.821,
+      "end": 53.4,
+      "label": "uncertain",
+      "text": "展区分设漓江渔歌、",
+      "score": 0.52,
+      "signals": {
+        "mand_logprob": -1.3007,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "展区分设《漓江渔歌》。",
+        "dur": 2.579,
+        "n_char": 8,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 12,
+      "start": 53.4,
+      "end": 56.233,
+      "label": "mandarin",
+      "text": "万象桂林、通江达海三大篇章，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0327,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "万象、桂林、通江达海三大篇章。",
+        "dur": 2.833,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 13,
+      "start": 56.233,
+      "end": 59.092,
+      "label": "mandarin",
+      "text": "全方位展示桂林城市魅力，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "全方位展示桂林城市魅力。",
+        "dur": 2.859,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 14,
+      "start": 59.4,
+      "end": 62.849,
+      "label": "mandarin",
+      "text": "重点突出漓江生态保护的最新成果、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "重点突出漓江生态保护的最新成果。",
+        "dur": 3.449,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.032,
+      "end": 65.928,
+      "label": "mandarin",
+      "text": "城市高质量发展的崭新面貌，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "城市高质量发展的崭新面貌。",
+        "dur": 2.896,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 16,
+      "start": 65.979,
+      "end": 68.807,
+      "label": "mandarin",
+      "text": "以及面向东盟深化开放合作、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0397,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以及面向东盟深化开放合作。",
+        "dur": 2.828,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 17,
+      "start": 68.807,
+      "end": 71.732,
+      "label": "mandarin",
+      "text": "构建国际通道的未来愿景，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "构建国际通道的未来愿景。",
+        "dur": 2.925,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 18,
+      "start": 72.168,
+      "end": 76.169,
+      "label": "mandarin",
+      "text": "向世界展示一个更智慧的山水之城。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "向世界展示一个更智慧的山水之城。",
+        "dur": 4.001,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 19,
+      "start": 76.334,
+      "end": 79.68,
+      "label": "guilin",
+      "text": "一万游客尽情迎AI桂林甲天下，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -3.4894,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一碗油茶，金金盈。AI桂林，甲天下。",
+        "dur": 3.346,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 20,
+      "start": 79.843,
+      "end": 84.787,
+      "label": "mandarin",
+      "text": "走进桂林展馆，浓厚科技感与山水意蕴交融扑面而来。",
+      "score": 0.0208,
+      "signals": {
+        "mand_logprob": -0.0025,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "走进桂林展馆，浓厚科技感与山水意韵交融，扑面而来。",
+        "dur": 4.944,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 21,
+      "start": 85.043,
+      "end": 89.624,
+      "label": "mandarin",
+      "text": "本次展会，桂林重磅发布专属文旅大模型AI桂林，",
+      "score": 0.0809,
+      "signals": {
+        "mand_logprob": -0.128,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.105,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "本次展会，桂林中邦发布专属文旅大模型AI桂林。",
+        "dur": 4.581,
+        "n_char": 19,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 22,
+      "start": 90.094,
+      "end": 93.809,
+      "label": "mandarin",
+      "text": "该模型植根于桂林深厚的文化底蕴，",
+      "score": 0.2726,
+      "signals": {
+        "mand_logprob": -0.3785,
+        "acoustic_dev": 0.348,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "该模型只根据桂林深厚的文绿底蕴。",
+        "dur": 3.715,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 23,
+      "start": 94.007,
+      "end": 98.272,
+      "label": "mandarin",
+      "text": "铸造出比通用AI更懂桂林的智慧大脑，",
+      "score": 0.0084,
+      "signals": {
+        "mand_logprob": -0.0868,
+        "acoustic_dev": 0.016,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "铸造出比通用AI更懂桂林的智慧大脑。",
+        "dur": 4.265,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 24,
+      "start": 98.601,
+      "end": 103.016,
+      "label": "mandarin",
+      "text": "开创山水文化加AI的全球创新实践先河。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0279,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "开创山水文化加 AI 的全球创新实践先河。",
+        "dur": 4.415,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 25,
+      "start": 103.107,
+      "end": 108.758,
+      "label": "guilin",
+      "text": "其具象化、生面向东盟的硬实力文旅数字人桂林，",
+      "score": 0.68,
+      "signals": {
+        "mand_logprob": -1.3344,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "其巨像发生面向东盟的影视级文旅数字影《桂林鹅》。",
+        "dur": 5.651,
+        "n_char": 20,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 26,
+      "start": 109.008,
+      "end": 112.266,
+      "label": "mandarin",
+      "text": "能以多语言和东盟四个特色形象，",
+      "score": 0.1927,
+      "signals": {
+        "mand_logprob": -0.0918,
+        "acoustic_dev": 0.022,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "四/十",
+        "text_free": "能以多语言或东盟十国特色形象。",
+        "dur": 3.258,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 27,
+      "start": 112.401,
+      "end": 116.231,
+      "label": "uncertain",
+      "text": "为全球游客提供家乡式的贴心服务，",
+      "score": 0.5475,
+      "signals": {
+        "mand_logprob": -0.8939,
+        "acoustic_dev": 0.936,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为全球游客提供家乡实力贴心服务。",
+        "dur": 3.83,
+        "n_char": 15,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 28,
+      "start": 116.603,
+      "end": 121.766,
+      "label": "mandarin",
+      "text": "彰显了桂林深度融入中国东盟合作大局的愿景与决心。",
+      "score": 0.0398,
+      "signals": {
+        "mand_logprob": -0.0054,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "彰显了桂林深度融入中国东盟合作大局的远见与决心。",
+        "dur": 5.163,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 29,
+      "start": 121.766,
+      "end": 125.344,
+      "label": "mandarin",
+      "text": "我感觉这个AI智能的话，非常非常的完善，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0581,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我感觉这个AI智能的话，非常非常的完善。",
+        "dur": 3.578,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 30,
+      "start": 125.344,
+      "end": 131.122,
+      "label": "mandarin",
+      "text": "只要问他相关关于桂林的问题，基本上都能呃答出来，而且答的非常详细，",
+      "score": 0.0152,
+      "signals": {
+        "mand_logprob": -0.0077,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.033,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "只要问他相关关于桂林的问题，基本上都能呃答出来，而且答得非常详细。",
+        "dur": 5.778,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 31,
+      "start": 131.122,
+      "end": 134.162,
+      "label": "mandarin",
+      "text": "并且还非常的口语化生活化。",
+      "score": 0.2353,
+      "signals": {
+        "mand_logprob": -0.3412,
+        "acoustic_dev": 0.306,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "并且还非常的口语化、生活化，然后。",
+        "dur": 3.04,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 32,
+      "start": 134.162,
+      "end": 138.68,
+      "label": "mandarin",
+      "text": "然后，如果是我们老百姓去跟这个AI交流的话，我们可以更快的、",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后，如果是我们老百姓去跟这个AI交流的话，我们可以更快的。",
+        "dur": 4.518,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 33,
+      "start": 138.92,
+      "end": 141.24,
+      "label": "mandarin",
+      "text": "更方便的去便利我们的生活。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "更方便的去便利我们的生活。",
+        "dur": 2.32,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 34,
+      "start": 141.24,
+      "end": 145.101,
+      "label": "mandarin",
+      "text": "在AI的话，非常非常的已经融入到我们生活里嘛。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在 AI 的话，非常非常的已经融入到我们生活里嘛。",
+        "dur": 3.861,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 35,
+      "start": 145.101,
+      "end": 150.21,
+      "label": "mandarin",
+      "text": "牢记习近平总书记一定要保护好桂林美丽山水的殷殷嘱托。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "牢记习近平总书记一定要保护好桂林美丽山水的殷殷嘱托。",
+        "dur": 5.109,
+        "n_char": 25
+      }
+    },
+    {
+      "id": 36,
+      "start": 150.396,
+      "end": 154.352,
+      "label": "mandarin",
+      "text": "当前，桂林正以AI加赋能千行百业",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0349,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "当前，桂林正以 AI 加赋能千行百业。",
+        "dur": 3.956,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 37,
+      "start": 154.659,
+      "end": 157.788,
+      "label": "mandarin",
+      "text": "为生态首富装上智慧大脑。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0065,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为生态首富装上智慧大脑。",
+        "dur": 3.129,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 38,
+      "start": 158.067,
+      "end": 163.616,
+      "label": "guilin",
+      "text": "展馆内的生态感知平台就如同来自自然世界的生态哨兵，",
+      "score": 0.6533,
+      "signals": {
+        "mand_logprob": -2.3294,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.292,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "展馆内的生态感知平台，就如同二十四小时遮岗生态哨兵。",
+        "dur": 5.549,
+        "n_char": 24,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 39,
+      "start": 163.833,
+      "end": 166.641,
+      "label": "mandarin",
+      "text": "以科技之力守护绿水青山、",
+      "score": 0.1051,
+      "signals": {
+        "mand_logprob": -0.1799,
+        "acoustic_dev": 0.122,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "以科技之一守护绿水青山。",
+        "dur": 2.808,
+        "n_char": 11,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 40,
+      "start": 166.641,
+      "end": 169.379,
+      "label": "uncertain",
+      "text": "扬电发青州、鱼翔浅底，",
+      "score": 0.5153,
+      "signals": {
+        "mand_logprob": -0.6724,
+        "acoustic_dev": 0.683,
+        "seg_cer": 0.556,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "杨电发青州，遇强千敌。",
+        "dur": 2.738,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 41,
+      "start": 169.379,
+      "end": 176.994,
+      "label": "mandarin",
+      "text": "成为漓江新常态。展馆内一系列高科技还可以让观众沉浸式体验桂林。",
+      "score": 0.0423,
+      "signals": {
+        "mand_logprob": -0.0909,
+        "acoustic_dev": 0.021,
+        "seg_cer": 0.069,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "成为丽江新常态。展馆内一系列核科技，还可以让观众沉浸式体验桂林。",
+        "dur": 7.615,
+        "n_char": 29
+      }
+    },
+    {
+      "id": 42,
+      "start": 176.994,
+      "end": 180.606,
+      "label": "uncertain",
+      "text": "展厅通过一个莫比乌斯环形屏幕，",
+      "score": 0.4615,
+      "signals": {
+        "mand_logprob": -0.4609,
+        "acoustic_dev": 0.442,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "斯/视 展/暂",
+        "text_free": "暂停。通过一个墨笔，无视方形屏幕。",
+        "dur": 3.612,
+        "n_char": 14,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 43,
+      "start": 180.606,
+      "end": 183.049,
+      "label": "mandarin",
+      "text": "将内外展示融为一体，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0067,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "将内外展示融为一体。",
+        "dur": 2.443,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 44,
+      "start": 183.363,
+      "end": 190.338,
+      "label": "mandarin",
+      "text": "动态呈现桂林秀美的山水画卷和十个桂林景点的字眼英文标识。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0621,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "动态呈现桂林秀美的山水画卷，和十个桂林景点的字眼英文标识。",
+        "dur": 6.975,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 45,
+      "start": 190.657,
+      "end": 195.629,
+      "label": "mandarin",
+      "text": "观众可以通过VR设备体验鸬鹚捕鱼的千年智慧，",
+      "score": 0.0131,
+      "signals": {
+        "mand_logprob": -0.0948,
+        "acoustic_dev": 0.025,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "观众可以通过VR设备体验鸬鹚捕鱼的千年智慧。",
+        "dur": 4.972,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 46,
+      "start": 195.922,
+      "end": 200.988,
+      "label": "mandarin",
+      "text": "也能够带上数字设备闻到桂林味道的米粉香。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0142,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "也能够带上数字设备，闻到桂林味道的米粉香。",
+        "dur": 5.066,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 47,
+      "start": 201.367,
+      "end": 205.335,
+      "label": "guilin",
+      "text": "机器人与非遗传承人同台打制工称油茶，",
+      "score": 0.6814,
+      "signals": {
+        "mand_logprob": -0.9115,
+        "acoustic_dev": 0.956,
+        "seg_cer": 0.294,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "制/字",
+        "text_free": "机器印与非遗传承人同台打字，工程又差。",
+        "dur": 3.968,
+        "n_char": 17,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 48,
+      "start": 205.738,
+      "end": 209.317,
+      "label": "mandarin",
+      "text": "AI弹吉他奏出山歌的悠扬旋律。",
+      "score": 0.1824,
+      "signals": {
+        "mand_logprob": -0.0832,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "山/三",
+        "text_free": "AI弹吉他，奏出三国的悠扬旋律。",
+        "dur": 3.579,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 49,
+      "start": 209.658,
+      "end": 216.393,
+      "label": "mandarin",
+      "text": "裸眼三D屏幕让千年灵渠与现代平陆运河跨越时空交汇，",
+      "score": 0.2432,
+      "signals": {
+        "mand_logprob": -0.1662,
+        "acoustic_dev": 0.107,
+        "seg_cer": 0.391,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.111,
+        "phon_examples": "裸/诺",
+        "text_free": "诺言三D屏幕让前年领取与现代平路融合，跨越时空交费。",
+        "dur": 6.735,
+        "n_char": 23,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 50,
+      "start": 216.52,
+      "end": 226.04,
+      "label": "mandarin",
+      "text": "一系列高科技互动让人们深刻感受到桂林这座千年古城正以崭新姿态向世界发出邀约。",
+      "score": 0.0124,
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.027,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "一系列高科技互动，让你们深刻感受到桂林这座千年古城正以崭新姿态向世界发出邀约。",
+        "dur": 9.52,
+        "n_char": 37
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

@@ -1,0 +1,558 @@
+{
+  "src_audio": "荔浦小黄皮成山村摇钱树.wav",
+  "duration": 113.37,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.26,
+      "label": "mandarin",
+      "text": "进入到盛夏以来，荔浦市东昌镇梨木社区叶家村种植的黄皮果陆续成熟了。",
+      "score": 0.1387,
+      "signals": {
+        "mand_logprob": -0.0352,
+        "acoustic_dev": 0.125,
+        "seg_cer": 0.161,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "进入到盛夏以来，荔浦市东昌镇黎木社区叶家藤种植的“放屁果”，陆续成熟了不？",
+        "dur": 7.26,
+        "n_char": 31
+      }
+    },
+    {
+      "id": 2,
+      "start": 7.26,
+      "end": 9.82,
+      "label": "guilin",
+      "text": "不，近三百亩的黄皮果，",
+      "score": 0.6216,
+      "signals": {
+        "mand_logprob": -0.4778,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近三百亩的放皮果。",
+        "dur": 2.56,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.82,
+      "end": 13.815,
+      "label": "mandarin",
+      "text": "可为村民带来收益一千四百万元。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "可为村民带来收益一千四百万元。",
+        "dur": 3.995,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.134,
+      "end": 19.837,
+      "label": "mandarin",
+      "text": "走进叶家村，村道两边房前屋后成片的黄皮果映入眼中，",
+      "score": 0.2433,
+      "signals": {
+        "mand_logprob": -0.0731,
+        "acoustic_dev": 0.277,
+        "seg_cer": 0.217,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "走进叶家藤，城道两边，房前屋后，成片的放屁锅映入眼中。",
+        "dur": 5.703,
+        "n_char": 23
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.051,
+      "end": 22.617,
+      "label": "mandarin",
+      "text": "一串串金灿灿的黄皮果挂满枝头，",
+      "score": 0.26,
+      "signals": {
+        "mand_logprob": -0.0018,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "灿/缠 灿/缠",
+        "text_free": "一圈圈紧缠缠的黄皮果挂满枝头。",
+        "dur": 2.566,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.631,
+      "end": 25.865,
+      "label": "mandarin",
+      "text": "在阳光的照耀下犹如串串金珠。",
+      "score": 0.0703,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在阳光的照耀下，悠悠串串金珠。",
+        "dur": 3.234,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.298,
+      "end": 29.175,
+      "label": "mandarin",
+      "text": "果园里头，果农们正在采摘树上的果实，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "果园里头，果农们正在采摘树上的果实。",
+        "dur": 2.877,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 8,
+      "start": 29.175,
+      "end": 35.439,
+      "label": "mandarin",
+      "text": "集中收购点，分拣工和收购商正在树间里进行分类选果、精选装箱。",
+      "score": 0.2174,
+      "signals": {
+        "mand_logprob": -0.0759,
+        "acoustic_dev": 0.288,
+        "seg_cer": 0.148,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "集中收购点，分拣工或收购商正在熟练地进行分类、选果、精选、装箱。",
+        "dur": 6.264,
+        "n_char": 27
+      }
+    },
+    {
+      "id": 9,
+      "start": 35.65,
+      "end": 40.77,
+      "label": "guilin",
+      "text": "种植户罗必勇告诉记者，现在村里头的黄皮果还没有完全成熟，",
+      "score": 0.5734,
+      "signals": {
+        "mand_logprob": -0.2089,
+        "acoustic_dev": 0.82,
+        "seg_cer": 0.231,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "种/总",
+        "text_free": "总指挥罗碧勇告诉记者：“现在城里头的防皮果还没有完全成熟。”",
+        "dur": 5.12,
+        "n_char": 26,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 10,
+      "start": 40.958,
+      "end": 44.184,
+      "label": "mandarin",
+      "text": "但是已经有不少客商提前订购。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "但是已经有不少客商提前订购。",
+        "dur": 3.226,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.26,
+      "end": 46.704,
+      "label": "mandarin",
+      "text": "近几年，黄皮果",
+      "score": 0.0008,
+      "signals": {
+        "mand_logprob": -0.0043,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "近几年，黄皮果。",
+        "dur": 2.444,
+        "n_char": 6
+      }
+    },
+    {
+      "id": 12,
+      "start": 46.776,
+      "end": 50.032,
+      "label": "mandarin",
+      "text": "价格很稳定，效益很好，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "价格很稳定，效益很好。",
+        "dur": 3.256,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 13,
+      "start": 50.396,
+      "end": 55.865,
+      "label": "mandarin",
+      "text": "市场上供不应求。我们村家家户户",
+      "score": 0.0327,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "市场上供不应求，我们称家家户户。",
+        "dur": 5.469,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 14,
+      "start": 56.636,
+      "end": 61.165,
+      "label": "mandarin",
+      "text": "都利用了屋前屋后的地种了黄皮果。",
+      "score": 0.061,
+      "signals": {
+        "mand_logprob": -0.0029,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.133,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "都利用了无前无后的地，种了黄皮果。",
+        "dur": 4.529,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 15,
+      "start": 61.255,
+      "end": 64.616,
+      "label": "mandarin",
+      "text": "现在老板来收购的价钱是",
+      "score": 0.0088,
+      "signals": {
+        "mand_logprob": -0.0082,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "现在老板来收购的价钱是。",
+        "dur": 3.361,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 16,
+      "start": 64.738,
+      "end": 67.102,
+      "label": "mandarin",
+      "text": "八块钱到十块钱一斤。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "八块钱到十块钱一斤。",
+        "dur": 2.364,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 17,
+      "start": 67.722,
+      "end": 71.196,
+      "label": "mandarin",
+      "text": "我们这里黄皮果种了多的人家，",
+      "score": 0.1568,
+      "signals": {
+        "mand_logprob": -0.0794,
+        "acoustic_dev": 0.302,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我们这里黄皮果种了，多的人家。",
+        "dur": 3.474,
+        "n_char": 13
+      }
+    },
+    {
+      "id": 18,
+      "start": 71.196,
+      "end": 77.083,
+      "label": "mandarin",
+      "text": "一家一年卖的果子有十万到二十万的收入。",
+      "score": 0.1544,
+      "signals": {
+        "mand_logprob": -0.0057,
+        "acoustic_dev": 0.007,
+        "seg_cer": 0.111,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "子/汁",
+        "text_free": "一加一年卖的果汁有十万到二十万的收入。",
+        "dur": 5.887,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 19,
+      "start": 77.436,
+      "end": 79.756,
+      "label": "mandarin",
+      "text": "黄皮果成为了我们",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "黄皮果成为了我们。",
+        "dur": 2.32,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 20,
+      "start": 79.814,
+      "end": 82.459,
+      "label": "mandarin",
+      "text": "山村群众的摇钱树。",
+      "score": 0.1973,
+      "signals": {
+        "mand_logprob": -0.0233,
+        "acoustic_dev": 0.077,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "山/三",
+        "text_free": "三村群众的摇钱树。",
+        "dur": 2.645,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 21,
+      "start": 82.459,
+      "end": 85.437,
+      "label": "guilin",
+      "text": "为了适应和满足市场和消费者的需求，",
+      "score": 0.5771,
+      "signals": {
+        "mand_logprob": -0.4081,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "为了适应或满足市场或消费者的需求。",
+        "dur": 2.978,
+        "n_char": 16,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 22,
+      "start": 85.545,
+      "end": 88.927,
+      "label": "mandarin",
+      "text": "近几年村民对特色产业不断培育创新。",
+      "score": 0.1821,
+      "signals": {
+        "mand_logprob": -0.016,
+        "acoustic_dev": 0.048,
+        "seg_cer": 0.125,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "民/明",
+        "text_free": "近几年，城明对特色产业不断培育创新。",
+        "dur": 3.382,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 23,
+      "start": 88.927,
+      "end": 92.008,
+      "label": "mandarin",
+      "text": "现在大家种植的都是高产高效品种，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "现在大家种植的都是高产高效品种。",
+        "dur": 3.081,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 24,
+      "start": 92.242,
+      "end": 96.197,
+      "label": "mandarin",
+      "text": "而且种植规模从一百多亩发展到了近三百亩，",
+      "score": 0.0175,
+      "signals": {
+        "mand_logprob": -0.0124,
+        "acoustic_dev": 0.034,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "而且种植规模从一百多亩发展到了近三百亩。",
+        "dur": 3.955,
+        "n_char": 19
+      }
+    },
+    {
+      "id": 25,
+      "start": 96.197,
+      "end": 99.099,
+      "label": "mandarin",
+      "text": "成为了黄皮果种植专业村。",
+      "score": 0.2441,
+      "signals": {
+        "mand_logprob": -0.0444,
+        "acoustic_dev": 0.162,
+        "seg_cer": 0.545,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "成为了“放屁股”重制专业称。",
+        "dur": 2.902,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 26,
+      "start": 99.21,
+      "end": 101.832,
+      "label": "mandarin",
+      "text": "荔浦这边的黄皮果",
+      "score": 0.16,
+      "signals": {
+        "mand_logprob": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.375,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "利普这边的王皮果。",
+        "dur": 2.622,
+        "n_char": 8
+      }
+    },
+    {
+      "id": 27,
+      "start": 101.878,
+      "end": 104.581,
+      "label": "mandarin",
+      "text": "颜色金黄，卖相好，",
+      "score": 0.0653,
+      "signals": {
+        "mand_logprob": -0.0036,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "颜色金黄，脉相好。",
+        "dur": 2.703,
+        "n_char": 7
+      }
+    },
+    {
+      "id": 28,
+      "start": 105.004,
+      "end": 107.817,
+      "label": "mandarin",
+      "text": "呃，颗粒饱满，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，颗粒饱满。",
+        "dur": 2.813,
+        "n_char": 5
+      }
+    },
+    {
+      "id": 29,
+      "start": 107.817,
+      "end": 110.779,
+      "label": "guilin",
+      "text": "果子香甜浓郁，甜度高，",
+      "score": 0.7557,
+      "signals": {
+        "mand_logprob": -1.9101,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "子/汁",
+        "text_free": "多汁、香气浓郁、甜度高。",
+        "dur": 2.962,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 30,
+      "start": 110.779,
+      "end": 113.37,
+      "label": "mandarin",
+      "text": "无论走到哪个市场都受欢迎。",
+      "score": 0.04,
+      "signals": {
+        "mand_logprob": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "lexicon": "哪个",
+        "text_free": "无论走到哪个市场，都受欢迎。",
+        "dur": 2.591,
+        "n_char": 12
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}

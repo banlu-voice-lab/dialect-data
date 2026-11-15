@@ -1,0 +1,395 @@
+{
+  "src_audio": "兴安摩天岭高山风电场让市民游客乐享自然与活力.wav",
+  "duration": 87.471,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.922,
+      "label": "mandarin",
+      "text": "在西安摩天岭的风力发电厂，",
+      "score": 0.1205,
+      "signals": {
+        "mand_logprob": -0.0808,
+        "acoustic_dev": 0.158,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在西安摩天岭的风力发电场。",
+        "dur": 2.922,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.922,
+      "end": 6.72,
+      "label": "mandarin",
+      "text": "这里凭借着高山独特的自然风光与夏意凉风，",
+      "score": 0.1537,
+      "signals": {
+        "mand_logprob": -0.1414,
+        "acoustic_dev": 0.296,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "这里凭借着高山独特的自然风光与夏意凉风。",
+        "dur": 3.798,
+        "n_char": 19,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 3,
+      "start": 6.895,
+      "end": 10.217,
+      "label": "mandarin",
+      "text": "成为了市民游客短途休闲的热门之选。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "成为了市民游客短途休闲的热门之选。",
+        "dur": 3.322,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.447,
+      "end": 15.419,
+      "label": "mandarin",
+      "text": "来到摩天岭的山林之间，白色风车在风中翻翻转动，",
+      "score": 0.1218,
+      "signals": {
+        "mand_logprob": -0.0107,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "林/岭",
+        "text_free": "来到摩天岭的山岭之间，白色风车在风中翻翻转动。",
+        "dur": 4.972,
+        "n_char": 21
+      }
+    },
+    {
+      "id": 5,
+      "start": 15.419,
+      "end": 20.498,
+      "label": "mandarin",
+      "text": "与蓝天白云、翠绿草甸共同构成了一幅治愈系的画卷。",
+      "score": 0.1103,
+      "signals": {
+        "mand_logprob": -0.0161,
+        "acoustic_dev": 0.012,
+        "seg_cer": 0.227,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "与蓝天白云、车路草甸共同构成了一幅织玉溪的画卷。",
+        "dur": 5.079,
+        "n_char": 22
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.966,
+      "end": 24.261,
+      "label": "mandarin",
+      "text": "连日来，不少市民和游客专程驱车前来，",
+      "score": 0.1414,
+      "signals": {
+        "mand_logprob": -0.0581,
+        "acoustic_dev": 0.107,
+        "seg_cer": 0.188,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "连日来，不少市民和游客转乘汽车前来。",
+        "dur": 3.295,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.466,
+      "end": 27.232,
+      "label": "uncertain",
+      "text": "在风车脚下搭帐篷露营，",
+      "score": 0.5034,
+      "signals": {
+        "mand_logprob": -0.3611,
+        "acoustic_dev": 0.792,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "在房车座下搭帐篷露营。",
+        "dur": 2.766,
+        "n_char": 10,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.436,
+      "end": 29.747,
+      "label": "guilin",
+      "text": "一家人围坐分享美食，",
+      "score": 0.7216,
+      "signals": {
+        "mand_logprob": -0.9639,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.222,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "坐/桌",
+        "text_free": "一家人在桌分享美食。",
+        "dur": 2.311,
+        "n_char": 9,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.026,
+      "end": 32.714,
+      "label": "uncertain",
+      "text": "把爷们们在草地上奔跑嬉戏。",
+      "score": 0.3929,
+      "signals": {
+        "mand_logprob": -0.2801,
+        "acoustic_dev": 0.609,
+        "seg_cer": 0.167,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "巴爷仔们在草地上奔跑嬉戏。",
+        "dur": 2.688,
+        "n_char": 12,
+        "text_check": "留意"
+      }
+    },
+    {
+      "id": 10,
+      "start": 32.989,
+      "end": 36.455,
+      "label": "mandarin",
+      "text": "哪怕什么都不做，只是静静地坐到山坡上，",
+      "score": 0.0146,
+      "signals": {
+        "mand_logprob": -0.023,
+        "acoustic_dev": 0.028,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "哪怕什么都不做，只是静静地坐到山坡上。",
+        "dur": 3.466,
+        "n_char": 17
+      }
+    },
+    {
+      "id": 11,
+      "start": 36.574,
+      "end": 39.766,
+      "label": "mandarin",
+      "text": "远眺群山连绵，感受风力气息，",
+      "score": 0.0381,
+      "signals": {
+        "mand_logprob": -0.0037,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "远眺群山连绵，感受风的气息。",
+        "dur": 3.192,
+        "n_char": 12
+      }
+    },
+    {
+      "id": 12,
+      "start": 39.932,
+      "end": 43.629,
+      "label": "guilin",
+      "text": "也足以晴空体内造野的出奇。",
+      "score": 0.7157,
+      "signals": {
+        "mand_logprob": -1.0861,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.583,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.143,
+        "phon_examples": "足/注",
+        "text_free": "也注意清空体内燥液的储积。",
+        "dur": 3.697,
+        "n_char": 12,
+        "text_check": "建议校对"
+      }
+    },
+    {
+      "id": 13,
+      "start": 43.629,
+      "end": 45.987,
+      "label": "mandarin",
+      "text": "我是看到小红书上面",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0008,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "我是看到小红书上面。",
+        "dur": 2.358,
+        "n_char": 9
+      }
+    },
+    {
+      "id": 14,
+      "start": 46.072,
+      "end": 52.553,
+      "label": "mandarin",
+      "text": "有挺多人推荐这边摩天岭的，说那个山上挺凉快的，然后最近不是挺热嘛，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "有挺多人推荐这边摩天岭的，说那个山上挺凉快的。然后最近不是挺热嘛。",
+        "dur": 6.481,
+        "n_char": 30
+      }
+    },
+    {
+      "id": 15,
+      "start": 52.647,
+      "end": 55.253,
+      "label": "mandarin",
+      "text": "然后就想上来避暑，就感觉",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0023,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "然后就想上来避暑，就感觉。",
+        "dur": 2.606,
+        "n_char": 11
+      }
+    },
+    {
+      "id": 16,
+      "start": 55.35,
+      "end": 59.006,
+      "label": "mandarin",
+      "text": "呃挺好的，又凉爽嘛，然后天气也不错，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0086,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，挺好的，又凉爽嘛，然后天气也不错。",
+        "dur": 3.656,
+        "n_char": 15
+      }
+    },
+    {
+      "id": 17,
+      "start": 59.603,
+      "end": 62.756,
+      "label": "mandarin",
+      "text": "呃我们还在这边拿那个无人机试飞了一下，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "呃，我们还在这边拿那个无人机试飞了一下。",
+        "dur": 3.153,
+        "n_char": 18
+      }
+    },
+    {
+      "id": 18,
+      "start": 62.989,
+      "end": 66.511,
+      "label": "mandarin",
+      "text": "那个视野也挺开阔的，还拍了挺多照片，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "那个视野也挺开阔的，还拍了挺多照片。",
+        "dur": 3.522,
+        "n_char": 16
+      }
+    },
+    {
+      "id": 19,
+      "start": 66.731,
+      "end": 74.66,
+      "label": "mandarin",
+      "text": "还挺美的。随着周边交通条件的改善，摩天岭风电场凭借工业景观、自然生态的独特魅力，",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0098,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "还挺美的。随着周边交通条件的改善，摩天岭风电场凭借工业景观、自然生态的独特魅力。",
+        "dur": 7.929,
+        "n_char": 36
+      }
+    },
+    {
+      "id": 20,
+      "start": 74.975,
+      "end": 78.643,
+      "label": "mandarin",
+      "text": "逐渐从能源基地变身网红打卡地。",
+      "score": 0.0,
+      "signals": {
+        "mand_logprob": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "text_free": "逐渐从能源基地变身网红打卡地。",
+        "dur": 3.668,
+        "n_char": 14
+      }
+    },
+    {
+      "id": 21,
+      "start": 78.687,
+      "end": 87.471,
+      "label": "guilin",
+      "text": "山野间林林尽欲自由，让摩天岭也成为西安生态旅游与休闲旅游融合发展的又一成果。",
+      "score": 0.7176,
+      "signals": {
+        "mand_logprob": -0.453,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "尽/静 林/宁 山/三",
+        "text_free": "三野建立宁静与自由，让摩天岭也成为兴安生态旅游与休闲旅游融合发展的一宜成果。",
+        "dur": 8.784,
+        "n_char": 36,
+        "text_check": "建议校对"
+      }
+    }
+  ],
+  "_converted_from": "output/dataset_20260501/metadata.csv"
+}
