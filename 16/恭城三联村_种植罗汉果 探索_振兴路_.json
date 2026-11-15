@@ -1,0 +1,450 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "恭城三联村_种植罗汉果 探索_振兴路_.wav",
+  "duration": 77.865,
+  "no_dialect": false,
+  "created_at": "2026-10-31T09:52:01",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.386,
+      "end": 5.817,
+      "label": "guilin",
+      "text": "最近，工程瑶族自治县三江乡三联村的村民正忙到呢，",
+      "score": 0.1208,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1362,
+        "sc_logprob": -0.1349,
+        "sc_delta": 0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.045,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "呢/了",
+        "lexicon": "",
+        "text_free": "最近，工程瑶族自治县三江乡三联村的村民正忙到了。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.817,
+      "end": 9.856,
+      "label": "mandarin",
+      "text": "给地里面的罗汉果花进行人工授粉。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0007,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "给地里面的罗汉果花进行人工授粉。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 10.58,
+      "end": 13.951,
+      "label": "guilin",
+      "text": "近年来，三江乡为发展壮大农业产业，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0037,
+        "sc_logprob": -0.0035,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "近年来，三江乡为发展壮大农业产业。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 14.086,
+      "end": 17.709,
+      "label": "guilin",
+      "text": "经过多方考察得知，罗汉果喜阴凉、",
+      "score": 0.278,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.268,
+        "sc_logprob": -0.2676,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.284,
+        "seg_cer": 0.286,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经过多方考察，得知罗汉果吸饮料不。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 17.709,
+      "end": 22.319,
+      "label": "guilin",
+      "text": "不耐高温，而三联村四面环山，而且气候适应、",
+      "score": 0.2295,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1679,
+        "sc_logprob": -0.1387,
+        "sc_delta": 0.0292,
+        "acoustic_dev": 0.068,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "三/山",
+        "lexicon": "",
+        "text_free": "酷耐高温，而山连城四面环山，而且气候湿润。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 22.473,
+      "end": 26.08,
+      "label": "mandarin",
+      "text": "昼夜温差大，满足罗汉果的种植条件。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "昼夜温差大，满足罗汉果的种植条件。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 26.257,
+      "end": 29.237,
+      "label": "mandarin",
+      "text": "于是，引导村民大力发展罗汉果种植。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "sc_logprob": -0.0008,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "于是，引导村民大力发展罗汉果种植。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 29.497,
+      "end": 32.824,
+      "label": "guilin",
+      "text": "该村通过农户家合作社加公司的模式，",
+      "score": 0.7514,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -2.5692,
+        "sc_logprob": -2.3554,
+        "sc_delta": 0.2138,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.438,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.286,
+        "phon_examples": "户/福 农/隆",
+        "lexicon": "",
+        "text_free": "该曾通过隆福家或者这家公司的模式。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 32.93,
+      "end": 35.282,
+      "label": "guilin",
+      "text": "发展壮大罗汉果种植产业，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0502,
+        "sc_logprob": -0.0502,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "发展壮大罗汉果种植产业。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.485,
+      "end": 38.78,
+      "label": "mandarin",
+      "text": "利用村民合作社的平台和技术优势，",
+      "score": 0.4491,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3728,
+        "sc_logprob": -0.3766,
+        "sc_delta": -0.0038,
+        "acoustic_dev": 0.509,
+        "seg_cer": 0.267,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.25,
+        "phon_examples": "民/名",
+        "lexicon": "",
+        "text_free": "利用成名合作商的平台或技术优势。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 38.78,
+      "end": 41.752,
+      "label": "guilin",
+      "text": "不断向村民传授先进的种植技术，",
+      "score": 0.2011,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2284,
+        "sc_logprob": -0.2165,
+        "sc_delta": 0.0118,
+        "acoustic_dev": 0.198,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断向村民传授吸烟禁的种植技术。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 42.049,
+      "end": 47.289,
+      "label": "guilin",
+      "text": "统一收购和销售，提高规模效应，创造更大的效益。",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0006,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "统一收购或销售，提高规模效应，创造更大的效益。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 47.62,
+      "end": 50.22,
+      "label": "guilin",
+      "text": "现在我们意向就是",
+      "score": 0.6343,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.601,
+        "sc_logprob": -0.5867,
+        "sc_delta": 0.0143,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.25,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "现在我们预算就是。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 50.485,
+      "end": 53.544,
+      "label": "guilin",
+      "text": "最低这个意向就是将近两万块钱一亩吧，",
+      "score": 0.3104,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3415,
+        "sc_logprob": -0.3364,
+        "sc_delta": 0.0052,
+        "acoustic_dev": 0.442,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最低这个预算就是将近两万块钱一亩啊。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 53.544,
+      "end": 56.385,
+      "label": "mandarin",
+      "text": "讲一些目前这个效果。这个罗汉果呢，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.9318,
+        "sc_logprob": -0.9565,
+        "sc_delta": -0.0246,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将近目前这个效果，这个软骨呢。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 56.669,
+      "end": 60.079,
+      "label": "mandarin",
+      "text": "就是从七月六月份就开始点花，",
+      "score": 0.5402,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5562,
+        "sc_logprob": -0.571,
+        "sc_delta": -0.0148,
+        "acoustic_dev": 0.904,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是从七月份、六月份就开始点发。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 60.376,
+      "end": 63.88,
+      "label": "guilin",
+      "text": "点到八月十五，从八月十五以后就可以摘果摘果了。",
+      "score": 0.1871,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "sc_logprob": -0.0016,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.19,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "摘/宰 摘/宰",
+        "lexicon": "",
+        "text_free": "点到八月十五，从八月十五以后就可以宰锅宰锅了。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 64.263,
+      "end": 68.663,
+      "label": "guilin",
+      "text": "下一步，三联村将技术以致富带头人的致富效应，",
+      "score": 0.6019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5312,
+        "sc_logprob": -0.5122,
+        "sc_delta": 0.019,
+        "acoustic_dev": 0.85,
+        "seg_cer": 0.55,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下一步，三联称将继续以支付代投盈利支付效应。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 68.777,
+      "end": 71.496,
+      "label": "mandarin",
+      "text": "鼓励更多的农户发展特色产业，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0475,
+        "sc_logprob": -0.0531,
+        "sc_delta": -0.0056,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "鼓励更多的农户发展特色产业。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 71.676,
+      "end": 74.428,
+      "label": "guilin",
+      "text": "不断寻求富民强村之路，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0011,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断寻求富民强村之路。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 74.6,
+      "end": 77.865,
+      "label": "guilin",
+      "text": "壮大村集体经济，助力乡村振兴。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0522,
+        "sc_logprob": -0.0519,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "壮大成集体经济，助力乡村振兴。"
+      }
+    }
+  ]
+}

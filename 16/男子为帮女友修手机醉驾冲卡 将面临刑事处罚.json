@@ -1,0 +1,471 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "男子为帮女友修手机醉驾冲卡 将面临刑事处罚.wav",
+  "duration": 109.041,
+  "no_dialect": false,
+  "created_at": "2026-10-31T10:54:31",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.175,
+      "end": 2.717,
+      "label": "guilin",
+      "text": "这起案，拼了一个男的廖某的，",
+      "score": 0.7217,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5522,
+        "sc_logprob": -1.5204,
+        "sc_delta": 0.0318,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.5,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "拼/平",
+        "lexicon": "",
+        "text_free": "最近啊，平罗一个男的廖某呢。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 2.784,
+      "end": 7.42,
+      "label": "mandarin",
+      "text": "他明明晓得自己喝了酒，还是开车上路，",
+      "score": 0.04,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0012,
+        "sc_logprob": -0.0014,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "晓得",
+        "text_free": "他明明晓得自己喝了酒，还是开车上路。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.42,
+      "end": 10.079,
+      "label": "mandarin",
+      "text": "都是嘛，他要给女朋友去修手机。",
+      "score": 0.0352,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0006,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.077,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "就是嘛，他要给女朋友去修手机。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 10.31,
+      "end": 13.567,
+      "label": "guilin",
+      "text": "哪晓得廖某在看到交警查车后呢，",
+      "score": 0.1642,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0319,
+        "sc_logprob": -0.03,
+        "sc_delta": 0.0019,
+        "acoustic_dev": 0.05,
+        "seg_cer": 0.214,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "晓得",
+        "text_free": "哪晓得？要么我在看到交警查车后呢。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 13.567,
+      "end": 16.823,
+      "label": "guilin",
+      "text": "不仅没停车，而且加速冲卡，",
+      "score": 0.728,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5454,
+        "sc_logprob": -0.4891,
+        "sc_delta": 0.0563,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.273,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "仅/京",
+        "lexicon": "",
+        "text_free": "普京没停车，而且加速冲开。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 16.823,
+      "end": 19.571,
+      "label": "mandarin",
+      "text": "最后冲到路边的大树高头。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0047,
+        "sc_logprob": -0.0059,
+        "sc_delta": -0.0012,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最后，冲到路边的大树高头。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 19.927,
+      "end": 26.137,
+      "label": "mandarin",
+      "text": "八月二十号夜晚八点钟左右，男子廖某为了帮女朋友送损坏的手机去修理，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "sc_logprob": -0.0008,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "八月二十号夜晚八点钟左右，男子廖某为了帮女朋友送损坏的手机去修理。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 26.321,
+      "end": 30.946,
+      "label": "mandarin",
+      "text": "不顾自己喝了酒，仍然驾驶小车前往二塘镇的购物屋里头。",
+      "score": 0.1756,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0464,
+        "sc_logprob": -0.059,
+        "sc_delta": -0.0126,
+        "acoustic_dev": 0.078,
+        "seg_cer": 0.208,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "屋里",
+        "text_free": "不顾自己喝了酒，迎艳驾驶小车前往二堂镇的狗肉屋里头。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 31.171,
+      "end": 35.42,
+      "label": "guilin",
+      "text": "到达二塘镇的时候，廖某就发现前方有警察在查车，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "到达二塘镇的时候，廖某就发现前方有警察在查车。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.42,
+      "end": 43.738,
+      "label": "guilin",
+      "text": "所以就慢慢的开了过去。当不断接近卡点的时候，为逃避检查，廖某猛力加速，冲过检查卡点。",
+      "score": 0.0124,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "sc_logprob": -0.0018,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.027,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "所以就慢慢离开了过去。当不断接近卡点的时候，为逃避检查，廖某猛力加速冲过检查卡点。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 43.995,
+      "end": 48.532,
+      "label": "mandarin",
+      "text": "当他冲过第一个卡点的时候，才发现前面还有几个卡点，",
+      "score": 0.0199,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0018,
+        "sc_logprob": -0.0019,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.043,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "当他通过第一个卡点的时候，才发现前面还有几个卡点。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 48.731,
+      "end": 51.338,
+      "label": "mandarin",
+      "text": "再加上还没有完全转过弯，",
+      "score": 0.0078,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.013,
+        "sc_logprob": -0.0217,
+        "sc_delta": -0.0087,
+        "acoustic_dev": 0.015,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "再加上还没有完全转过弯。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 51.436,
+      "end": 58.75,
+      "label": "mandarin",
+      "text": "双手用力操作不当，车辆瞬间失控，直接冲向了路边的杂物或倒大树上，",
+      "score": 0.0476,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0053,
+        "sc_logprob": -0.0054,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.001,
+        "seg_cer": 0.103,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "双手用力操作不当，车辆瞬间失控，直径冲向了路边的杂物，回堵大树上。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.868,
+      "end": 66.538,
+      "label": "guilin",
+      "text": "这才被迫停了下来。现场执勤的交警看到这个情况，马上为了上车，并且控制了车辆和廖某。",
+      "score": 0.0436,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0117,
+        "sc_logprob": -0.0112,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.013,
+        "seg_cer": 0.081,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "这才是被迫停了下来。现场执勤的交警看到这个情况，马上围了上去，并且控制了车辆和廖某。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 67.342,
+      "end": 71.231,
+      "label": "mandarin",
+      "text": "喝酒了？是吧？喝好多？喝了两百，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.3715,
+        "sc_logprob": -1.4901,
+        "sc_delta": -0.1185,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "过几万？多啊，过好多啊，过了两百。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 71.376,
+      "end": 74.087,
+      "label": "guilin",
+      "text": "才喝两百，才喝两百。喝酒要干什么去啊？",
+      "score": 0.6233,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4807,
+        "sc_logprob": -0.4316,
+        "sc_delta": 0.0492,
+        "acoustic_dev": 0.891,
+        "seg_cer": 0.688,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "差货两百，货就要看什么钱。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 74.597,
+      "end": 82.2,
+      "label": "mandarin",
+      "text": "我错了。拼了！交警对廖某进行了酒精检测，其血液酒精含量为一百六十七毫克每一百毫升，",
+      "score": 0.1618,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "sc_logprob": -0.0044,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.135,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "拼/平",
+        "lexicon": "",
+        "text_free": "平乐交警对廖某进行了酒精检测，其血液酒精含量为一百六十七毫克每一百毫升。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 82.36,
+      "end": 85.739,
+      "label": "mandarin",
+      "text": "是属于醉酒后驾驶机动车的违法行为。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "是属于醉酒后驾驶机动车的违法行为。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 85.739,
+      "end": 89.353,
+      "label": "guilin",
+      "text": "随后，廖某还带去医院进行血液酒精检测。",
+      "score": 0.0367,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0151,
+        "sc_logprob": -0.0127,
+        "sc_delta": 0.0023,
+        "acoustic_dev": 0.019,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "随后，廖某二带去医院进行血液酒精检测。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 89.62,
+      "end": 97.876,
+      "label": "mandarin",
+      "text": "经过医院抽血结果显示，廖某的血液当中酒精含量为一百九十点四二毫克每一百毫升，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.001,
+        "sc_logprob": -0.001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "经过医院抽血，结果显示，廖某的血液当中酒精含量为一百九十点四二毫克每一百毫升。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 98.021,
+      "end": 104.849,
+      "label": "guilin",
+      "text": "属于醉酒驾驶机动车。交警部门依法对廖某作出吊销机动车驾驶证，",
+      "score": 0.0016,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "sc_logprob": -0.0064,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.003,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "属于醉酒驾驶机动车。交警部门依法对廖某作出吊销机动车驾驶证。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 104.924,
+      "end": 109.041,
+      "label": "mandarin",
+      "text": "而且五年内不得重新取得机动车驾驶证的处罚。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0005,
+        "sc_logprob": -0.0006,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "而且五年内不得重新取得机动车驾驶证的处罚。"
+      }
+    }
+  ]
+}

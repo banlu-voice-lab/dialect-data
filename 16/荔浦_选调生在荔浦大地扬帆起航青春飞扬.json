@@ -1,0 +1,471 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "荔浦_选调生在荔浦大地扬帆起航青春飞扬.wav",
+  "duration": 108.141,
+  "no_dialect": false,
+  "created_at": "2026-10-31T11:09:47",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.264,
+      "end": 6.702,
+      "label": "mandarin",
+      "text": "最近啊，李部室组织四十多名选调生开展了一场主题为“才聚丽江，",
+      "score": 0.4744,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2648,
+        "sc_logprob": -0.265,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.619,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "最近啊，宁波市组织四十多名学大学生开展了一场主题为“采菊漓江”。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.702,
+      "end": 9.26,
+      "label": "guilin",
+      "text": "青春飞扬”的交流活动，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.8558,
+        "sc_logprob": -1.8201,
+        "sc_delta": 0.0357,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "青春飞扬的交流活动。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.26,
+      "end": 13.793,
+      "label": "mandarin",
+      "text": "大家分享了各自在基层任职的工作经历、",
+      "score": 0.4575,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3291,
+        "sc_logprob": -0.3363,
+        "sc_delta": -0.0072,
+        "acoustic_dev": 0.776,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家分享了国资在基层任职的工作经历。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 13.793,
+      "end": 20.208,
+      "label": "mandarin",
+      "text": "收获和感受。在分享交流会上，新老选调生们齐聚一堂，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0086,
+        "sc_logprob": -0.009,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "收获和感受。在分享交流会上，新老选调生们齐聚一堂。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 20.208,
+      "end": 23.466,
+      "label": "mandarin",
+      "text": "相互交流、分享经验、畅谈体会。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.002,
+        "sc_logprob": -0.0029,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "相互交流，分享经验，畅谈体会。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 23.719,
+      "end": 31.096,
+      "label": "guilin",
+      "text": "来自不同干次的五名选调生代表结合自身实际，分享了工作经历、成长故事、",
+      "score": 0.0536,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0307,
+        "sc_logprob": -0.0282,
+        "sc_delta": 0.0025,
+        "acoustic_dev": 0.046,
+        "seg_cer": 0.065,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "来自不同该市的五名选调生代表，结合自身实际，分享了工作经历、成长故事。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 31.096,
+      "end": 35.927,
+      "label": "guilin",
+      "text": "感悟心得、收获体会。其余选调生们也踊跃发言，",
+      "score": 0.0133,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0222,
+        "sc_logprob": -0.0212,
+        "sc_delta": 0.001,
+        "acoustic_dev": 0.026,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "感悟心得，收获体会。其余选调生们也踊跃发言。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 36.136,
+      "end": 41.53,
+      "label": "guilin",
+      "text": "向组织汇报了自己的驻村情况、难忘经历、成长感悟等等。",
+      "score": 0.1398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "sc_logprob": -0.0009,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "驻/组",
+        "lexicon": "",
+        "text_free": "向组织汇报了自己的组成情况、难忘经历、成长感悟等等。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 41.994,
+      "end": 47.499,
+      "label": "guilin",
+      "text": "作为一名选调生，无论今后在什么工作岗位上，我们都将从做起，",
+      "score": 0.1418,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0679,
+        "sc_logprob": -0.0655,
+        "sc_delta": 0.0024,
+        "acoustic_dev": 0.137,
+        "seg_cer": 0.154,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为一名选调生，无论今后在什么工作岗位上，我们都将沉得住气。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 47.744,
+      "end": 50.734,
+      "label": "mandarin",
+      "text": "做到干一行爱一行，不断学习，",
+      "score": 0.004,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0148,
+        "sc_logprob": -0.0205,
+        "sc_delta": -0.0057,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "做到干一行爱一行，不断学习。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 50.734,
+      "end": 53.558,
+      "label": "guilin",
+      "text": "勇于进取，努力发光发热。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0002,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "愿意进取，努力发光发热。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 53.558,
+      "end": 58.121,
+      "label": "guilin",
+      "text": "三名特邀科级选调生也和大家分享了自身的成长、",
+      "score": 0.0544,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0373,
+        "sc_logprob": -0.0332,
+        "sc_delta": 0.0041,
+        "acoustic_dev": 0.063,
+        "seg_cer": 0.048,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "三名特邀科技选调生也和大家分享了自身的成长。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 58.121,
+      "end": 64.559,
+      "label": "mandarin",
+      "text": "成才经历，并鼓励在场的后浪选调生们坚定扎根基层的信念，",
+      "score": 0.1366,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0063,
+        "sc_logprob": -0.009,
+        "sc_delta": -0.0027,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.08,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "成/沉",
+        "lexicon": "",
+        "text_free": "沉澈经历，并鼓励在场的后浪选调生们坚定扎根基层的信念。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 64.822,
+      "end": 67.67,
+      "label": "mandarin",
+      "text": "在基层挥洒青春、收获成长。",
+      "score": 0.7031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.6279,
+        "sc_logprob": -0.6343,
+        "sc_delta": -0.0063,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.5,
+        "phon_examples": "洒/沙",
+        "lexicon": "",
+        "text_free": "在基层飞沙青春，收获成长。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 68.094,
+      "end": 71.818,
+      "label": "guilin",
+      "text": "大家纷纷表示，通过这次交流分享活动，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4306,
+        "sc_logprob": -0.4137,
+        "sc_delta": 0.0168,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "大家纷纷表示：“通过这次交流分享活动。”"
+      }
+    },
+    {
+      "id": 16,
+      "start": 71.967,
+      "end": 75.617,
+      "label": "guilin",
+      "text": "更加坚定了扎根基层、服务群众的初心，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0067,
+        "sc_logprob": -0.0065,
+        "sc_delta": 0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "更加坚定了扎根基层、服务群众的初心。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 75.814,
+      "end": 82.142,
+      "label": "mandarin",
+      "text": "在今后的工作当中，将俯下身子、迈开步子、甩开膀子，加油干，",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0008,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在今后的工作当中，将放下身子，迈开步子，甩开膀子，加油干。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 82.378,
+      "end": 85.311,
+      "label": "guilin",
+      "text": "不断提升履职能力和干事本事，",
+      "score": 0.0197,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0272,
+        "sc_logprob": -0.0244,
+        "sc_delta": 0.0028,
+        "acoustic_dev": 0.038,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不断提升履职能力和干事本事。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 85.565,
+      "end": 89.952,
+      "label": "mandarin",
+      "text": "用汗水浇灌青春，用行动践行使命。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0,
+        "sc_logprob": -0.0,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "用汗水浇灌青春，用行动践行使命。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 89.952,
+      "end": 95.633,
+      "label": "mandarin",
+      "text": "作为一名新时代的选调生，我们深知选调生驻村工作的重要性，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0006,
+        "sc_logprob": -0.0006,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "作为一名新时代的选调生，我们深知选调生驻村工作的重要性。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 95.633,
+      "end": 101.852,
+      "label": "mandarin",
+      "text": "我们将加强学习，沉下心来做事，深入百姓做事，廉洁奉公办事，",
+      "score": 0.0183,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0025,
+        "sc_logprob": -0.0027,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.04,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们必将加强学习，沉下心来做事，深入百姓做事，廉洁奉公办事。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 102.045,
+      "end": 108.141,
+      "label": "mandarin",
+      "text": "立足本职，勇担使命，以实际行动迎接党的二十大胜利召开。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "sc_logprob": -0.0011,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "立足本职，勇担使命，以实际行动迎接党的二十大胜利召开。"
+      }
+    }
+  ]
+}

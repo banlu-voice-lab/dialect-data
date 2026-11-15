@@ -1,0 +1,513 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "全州_万亩猕猴桃进入采摘期 线上线下销售忙.wav",
+  "duration": 110.232,
+  "no_dialect": false,
+  "created_at": "2026-10-31T09:23:21",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.359,
+      "label": "guilin",
+      "text": "在泉州县，那块的万亩猕猴桃也到了成熟的采摘期，",
+      "score": 0.1812,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0941,
+        "sc_logprob": -0.0938,
+        "sc_delta": 0.0003,
+        "acoustic_dev": 0.223,
+        "seg_cer": 0.143,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在雀洲县，那里的万亩猕猴桃也到了成熟的采摘期。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.545,
+      "end": 8.051,
+      "label": "mandarin",
+      "text": "不管是线上也好，线下也好，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0022,
+        "sc_logprob": -0.0029,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不管是线上也好，线下也好。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.051,
+      "end": 14.427,
+      "label": "guilin",
+      "text": "销售啊是一派繁忙，一个个猕猴桃成了当地百姓家里的致富果。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0038,
+        "sc_logprob": -0.0037,
+        "sc_delta": 0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "销售啊是一派繁忙，一个个猕猴桃成了当地百姓家里的致富果。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 15.062,
+      "end": 21.669,
+      "label": "mandarin",
+      "text": "记者在泉州县贤水镇罗江村委太阳庵自然村猕猴桃种植基地看到，",
+      "score": 0.1791,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0475,
+        "sc_logprob": -0.0486,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.09,
+        "seg_cer": 0.107,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "自/制",
+        "lexicon": "",
+        "text_free": "记者在泉州县仙水镇罗江村委太阳庵制烟村猕猴桃种植基地看到。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 21.996,
+      "end": 24.32,
+      "label": "guilin",
+      "text": "猕猴桃树高头硕果累累，",
+      "score": 0.2025,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0446,
+        "sc_logprob": -0.043,
+        "sc_delta": 0.0017,
+        "acoustic_dev": 0.082,
+        "seg_cer": 0.4,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "猕猴桃，水果桃，水果累累。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 24.497,
+      "end": 27.253,
+      "label": "mandarin",
+      "text": "一个个成熟的猕猴桃压弯了枝头，",
+      "score": 0.0327,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0073,
+        "sc_logprob": -0.0092,
+        "sc_delta": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "一个个成熟的猕猴桃压弯了指头。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 27.608,
+      "end": 31.262,
+      "label": "mandarin",
+      "text": "当地百亩红星猕猴桃已经进入了采摘期。",
+      "score": 0.1269,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0117,
+        "sc_logprob": -0.0137,
+        "sc_delta": -0.0019,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.059,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "星/心",
+        "lexicon": "",
+        "text_free": "当地百亩红心猕猴桃已经进入了采摘期。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 31.461,
+      "end": 36.048,
+      "label": "mandarin",
+      "text": "今年村民苏生云种植的三十亩猕猴桃喜获丰收，",
+      "score": 0.0229,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0144,
+        "sc_logprob": -0.0176,
+        "sc_delta": -0.0032,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年，村民苏胜云种植的三十亩猕猴桃喜获丰收。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 36.206,
+      "end": 40.547,
+      "label": "guilin",
+      "text": "采果、打包、发货，线上线下一派繁忙。",
+      "score": 0.0351,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0177,
+        "sc_logprob": -0.0177,
+        "sc_delta": 0.0,
+        "acoustic_dev": 0.005,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "采购、打包、发货，线上线下一派繁忙。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 41.078,
+      "end": 43.916,
+      "label": "mandarin",
+      "text": "今年的猕猴桃的产量要比去年高，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0065,
+        "sc_logprob": -0.0076,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今年的猕猴桃的产量要比去年高。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 44.215,
+      "end": 48.779,
+      "label": "mandarin",
+      "text": "质量要比去年好，现在每公斤能够卖到三十元左右，",
+      "score": 0.0089,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.022,
+        "sc_logprob": -0.0225,
+        "sc_delta": -0.0005,
+        "acoustic_dev": 0.017,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "质量要比去年好。现在每公斤能够卖到三十元左右。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 49.073,
+      "end": 52.279,
+      "label": "guilin",
+      "text": "这个也不走销路，主要通过电商平台，",
+      "score": 0.6724,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.4911,
+        "sc_logprob": -1.4601,
+        "sc_delta": 0.031,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.333,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "那个也不走小路，是本要通过电线平台。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 52.529,
+      "end": 58.17,
+      "label": "guilin",
+      "text": "大概今年的收入在二十万元左右。产业是实现乡村振兴重要常识。",
+      "score": 0.2523,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0952,
+        "sc_logprob": -0.0923,
+        "sc_delta": 0.0029,
+        "acoustic_dev": 0.226,
+        "seg_cer": 0.185,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.2,
+        "phon_examples": "常/舱",
+        "lexicon": "",
+        "text_free": "大概今天的收入在二十万元左右。产业是实现乡村振兴的压舱石。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 58.326,
+      "end": 63.293,
+      "label": "mandarin",
+      "text": "泉州县在巩固拓展脱贫攻坚成果与衔接乡村振兴战略中，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0082,
+        "sc_logprob": -0.009,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "泉州县在巩固拓展脱贫攻坚成果与衔接乡村振兴战略中。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 63.556,
+      "end": 69.28,
+      "label": "mandarin",
+      "text": "积极引导农民发展新型农业经营主体一千两百五十五家，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0011,
+        "sc_logprob": -0.0013,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "积极引导农民发展新型农业经营主体，一千两百五十五家。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 69.532,
+      "end": 72.728,
+      "label": "guilin",
+      "text": "通过合作社加基地加农户的模式，",
+      "score": 0.78,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.4452,
+        "sc_logprob": -0.4129,
+        "sc_delta": 0.0322,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.357,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.4,
+        "phon_examples": "户/服 农/龙",
+        "lexicon": "",
+        "text_free": "通过，或者设加基地加龙服的模式。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 72.92,
+      "end": 76.595,
+      "label": "mandarin",
+      "text": "以点带面，积极稳妥发展猕猴桃种植。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.0008,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以点带面，积极稳妥发展猕猴桃种植。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 76.879,
+      "end": 89.223,
+      "label": "mandarin",
+      "text": "目前全县一点二万亩猕猴桃种植产业成为百姓富、生态美、产业兴的生态特色产业和当地群众增收致富的黄金果。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0031,
+        "sc_logprob": -0.0037,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "目前，全县一点二万亩猕猴桃种植产业成为百姓富、生态美、产业兴的生态特色产业，和当地群众增收致富的黄金果。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 89.841,
+      "end": 93.075,
+      "label": "mandarin",
+      "text": "下一步，我们贤水镇党委政府",
+      "score": 0.34,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2193,
+        "sc_logprob": -0.3681,
+        "sc_delta": -0.1488,
+        "acoustic_dev": 0.581,
+        "seg_cer": 0.083,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "下一步，我们咸水镇党委政府。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 93.169,
+      "end": 96.408,
+      "label": "guilin",
+      "text": "将紧紧围绕产业振兴这条主线，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.005,
+        "sc_logprob": -0.0045,
+        "sc_delta": 0.0005,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "将紧紧围绕产业振兴这条主线。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 96.643,
+      "end": 99.62,
+      "label": "mandarin",
+      "text": "进一步做大做强柑橘、猕猴桃、",
+      "score": 0.0041,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0188,
+        "sc_logprob": -0.02,
+        "sc_delta": -0.0012,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "进一步做大做强柑橘、猕猴桃。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 99.924,
+      "end": 103.145,
+      "label": "mandarin",
+      "text": "红枫、肉牛养殖等种养产业，",
+      "score": 0.155,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0924,
+        "sc_logprob": -0.0927,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.218,
+        "seg_cer": 0.091,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "红枫、肉牛养殖等重养产业。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 103.145,
+      "end": 105.873,
+      "label": "mandarin",
+      "text": "促进农业增效、农民增收、",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.429,
+        "sc_logprob": -0.4614,
+        "sc_delta": -0.0323,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "促进农业增效，农民增收。"
+      }
+    },
+    {
+      "id": 24,
+      "start": 105.873,
+      "end": 110.232,
+      "label": "mandarin",
+      "text": "农村发展，把乡村振兴的美好蓝图变成现实。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "农村发展，把乡村振兴的美好蓝图变成现实。"
+      }
+    }
+  ]
+}

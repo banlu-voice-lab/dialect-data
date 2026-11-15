@@ -1,0 +1,492 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "象山城管开展夜市摊点综合整治 规范夜市经营秩序.wav",
+  "duration": 81.54,
+  "no_dialect": false,
+  "created_at": "2026-10-31T11:25:54",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.17,
+      "end": 3.487,
+      "label": "guilin",
+      "text": "今天首先呢，我们来关注这个创城。这段时间，",
+      "score": 0.0297,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0178,
+        "sc_logprob": -0.0145,
+        "sc_delta": 0.0033,
+        "acoustic_dev": 0.008,
+        "seg_cer": 0.056,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "今天首先呢，我们来关注这个创城这段时间啊。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 3.601,
+      "end": 7.297,
+      "label": "mandarin",
+      "text": "我们这个创城工作呢，可以讲真的是如火如荼。",
+      "score": 0.0722,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0007,
+        "sc_logprob": -0.0008,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们这个创城工作呢，可以讲真的是用火用土。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.799,
+      "end": 11.046,
+      "label": "guilin",
+      "text": "我们市里各单位以多种形式开展这个创城活动，",
+      "score": 0.0258,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0162,
+        "sc_logprob": -0.0125,
+        "sc_delta": 0.0036,
+        "acoustic_dev": 0.006,
+        "seg_cer": 0.05,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "我们市的各单位以多种形式开展这个创城活动。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.142,
+      "end": 14.491,
+      "label": "mandarin",
+      "text": "以实际行动推动这个创城工作的常态化、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0026,
+        "sc_logprob": -0.0032,
+        "sc_delta": -0.0007,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以实际行动推动这个创城工作的常态化。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 14.695,
+      "end": 21.796,
+      "label": "guilin",
+      "text": "长效化。最近，",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.9519,
+        "sc_logprob": -1.6151,
+        "sc_delta": 0.3368,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.6,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "唱笑话。最近。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 21.796,
+      "end": 24.421,
+      "label": "guilin",
+      "text": "香山区城市管理局联合公安、",
+      "score": 0.092,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1303,
+        "sc_logprob": -0.1185,
+        "sc_delta": 0.0119,
+        "acoustic_dev": 0.177,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "香山区城市管理局联合公安。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 24.421,
+      "end": 27.467,
+      "label": "mandarin",
+      "text": "交警、市场监管、环保等等部门，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0039,
+        "sc_logprob": -0.0052,
+        "sc_delta": -0.0013,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "交警、市场监管、环保等等部门。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 27.467,
+      "end": 31.371,
+      "label": "mandarin",
+      "text": "对于辖区各路段的夜市摊点进行了综合的整治，",
+      "score": 0.0266,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0464,
+        "sc_logprob": -0.0468,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.051,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于辖区各路段的夜市摊点进行了综合的整治。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 31.619,
+      "end": 34.192,
+      "label": "mandarin",
+      "text": "全面规范了夜市经营的秩序。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0001,
+        "sc_logprob": -0.0001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "全面规范了夜市经营的秩序。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 34.192,
+      "end": 38.494,
+      "label": "guilin",
+      "text": "在整治过程当中，工作人员重点对于夜市摊的占道经营、",
+      "score": 0.0398,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0121,
+        "sc_logprob": -0.011,
+        "sc_delta": 0.0011,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.087,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "在整治过程当中，工作人员中间对于夜市摊的占道经营。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 38.494,
+      "end": 41.472,
+      "label": "mandarin",
+      "text": "食品安全、油烟排放进行了检查，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0109,
+        "sc_logprob": -0.0162,
+        "sc_delta": -0.0053,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "食品安全、油烟排放进行了检查。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 41.736,
+      "end": 44.801,
+      "label": "mandarin",
+      "text": "对于不符合要求的商家进行了再教育、",
+      "score": 0.1138,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1582,
+        "sc_logprob": -0.1739,
+        "sc_delta": -0.0157,
+        "acoustic_dev": 0.219,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于不符合要求的商家进行了再教育。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 44.801,
+      "end": 48.38,
+      "label": "mandarin",
+      "text": "再宣传，督促其及时做好整改工作。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "再宣传，督促其及时做好整改工作。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 48.38,
+      "end": 51.002,
+      "label": "mandarin",
+      "text": "针对屡次劝导还没有做出整改的，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0071,
+        "sc_logprob": -0.0071,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "针对屡次劝导还没有做出整改的。"
+      }
+    },
+    {
+      "id": 15,
+      "start": 51.002,
+      "end": 53.82,
+      "label": "guilin",
+      "text": "执法人员按照城市管理相关规定，",
+      "score": 0.0013,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.014,
+        "sc_logprob": -0.0136,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.002,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "执法人员按照城市管理相关规定。"
+      }
+    },
+    {
+      "id": 16,
+      "start": 53.82,
+      "end": 56.988,
+      "label": "mandarin",
+      "text": "对其占道经营物品进行依法的暂扣。",
+      "score": 0.1305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.006,
+        "sc_logprob": -0.008,
+        "sc_delta": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "暂/占",
+        "lexicon": "",
+        "text_free": "对其占道经营物品进行依法的占扣。"
+      }
+    },
+    {
+      "id": 17,
+      "start": 57.024,
+      "end": 61.539,
+      "label": "guilin",
+      "text": "根据统计啊，这一次的行动共宣传教育夜市摊点三十多家，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0069,
+        "sc_logprob": -0.0065,
+        "sc_delta": 0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据统计啊，这一次的行动共宣传教育夜市摊点三十多家。"
+      }
+    },
+    {
+      "id": 18,
+      "start": 61.709,
+      "end": 64.554,
+      "label": "mandarin",
+      "text": "责令限期整改五家。下一步，",
+      "score": 0.6031,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8211,
+        "sc_logprob": -0.8491,
+        "sc_delta": -0.028,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.182,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "责令限期整改物价。下一步。"
+      }
+    },
+    {
+      "id": 19,
+      "start": 64.554,
+      "end": 69.625,
+      "label": "guilin",
+      "text": "香山区城市管理局将持续的加强城市管理、路政宣传活动，",
+      "score": 0.539,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8001,
+        "sc_logprob": -0.7568,
+        "sc_delta": 0.0433,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "香山区城市管理局将持续的加强城市管理路径宣传活动。"
+      }
+    },
+    {
+      "id": 20,
+      "start": 69.722,
+      "end": 72.995,
+      "label": "mandarin",
+      "text": "以及市容环境卫生整治的百日行动，",
+      "score": 0.2331,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.194,
+        "sc_logprob": -0.1951,
+        "sc_delta": -0.0011,
+        "acoustic_dev": 0.273,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以及使用环境卫生整治的白日行动。"
+      }
+    },
+    {
+      "id": 21,
+      "start": 73.218,
+      "end": 76.096,
+      "label": "guilin",
+      "text": "不定期开展相关的专项整治行动，",
+      "score": 0.095,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.134,
+        "sc_logprob": -0.1262,
+        "sc_delta": 0.0078,
+        "acoustic_dev": 0.183,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "不定期开展相关的专项整治行动。"
+      }
+    },
+    {
+      "id": 22,
+      "start": 76.241,
+      "end": 78.921,
+      "label": "mandarin",
+      "text": "巩固全国文明城市创建成果，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0044,
+        "sc_logprob": -0.0048,
+        "sc_delta": -0.0004,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "巩固全国文明城市创建成果。"
+      }
+    },
+    {
+      "id": 23,
+      "start": 79.013,
+      "end": 81.54,
+      "label": "mandarin",
+      "text": "提升城区市容环境秩序。",
+      "score": 0.0914,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0123,
+        "sc_logprob": -0.0129,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.2,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提升城区使用环境秩序。"
+      }
+    }
+  ]
+}

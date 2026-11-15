@@ -1,0 +1,303 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "叠彩区积极开展市场及周边小区专项整治行动.wav",
+  "duration": 53.567,
+  "no_dialect": false,
+  "created_at": "2026-10-31T09:38:00",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.306,
+      "label": "mandarin",
+      "text": "为了进一步的规范批发市场、农贸市场以及周边小区使用的秩序，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0117,
+        "sc_logprob": -0.0134,
+        "sc_delta": -0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "为了进一步的规范批发市场、农贸市场以及周边小区使用的秩序。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5.439,
+      "end": 8.532,
+      "label": "mandarin",
+      "text": "巩固提升全国文明城市建设的成果，",
+      "score": 0.4882,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7731,
+        "sc_logprob": -0.7731,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.939,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "巩固提升全国文明城市建设的成果。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 8.541,
+      "end": 11.578,
+      "label": "guilin",
+      "text": "电海区通过建立由城管、市监、",
+      "score": 0.68,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -1.5181,
+        "sc_logprob": -1.426,
+        "sc_delta": 0.0921,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.667,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "点下去，通过简历有城管事件。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 11.578,
+      "end": 13.936,
+      "label": "mandarin",
+      "text": "商投、消防、街道、",
+      "score": 0.7938,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7891,
+        "sc_logprob": -1.0125,
+        "sc_delta": -0.2234,
+        "acoustic_dev": 0.964,
+        "seg_cer": 0.333,
+        "lang_free": "Cantonese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "隧道、消防、街道。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 13.936,
+      "end": 20.848,
+      "label": "mandarin",
+      "text": "社区等等多个部门联动整治的长效机制和包片区联合执法的城市管理模式，",
+      "score": 0.0286,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0227,
+        "sc_logprob": -0.0243,
+        "sc_delta": -0.0016,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.062,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "社区等等多个部门联动整治的长效机制，或保片区联合执法的城市管理模式。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 20.848,
+      "end": 23.976,
+      "label": "guilin",
+      "text": "多部门有效整合调配执法的力量，",
+      "score": 0.1729,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.39,
+        "sc_logprob": -0.365,
+        "sc_delta": 0.0249,
+        "acoustic_dev": 0.332,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "多部门有效整合，调配执法的力量。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 23.976,
+      "end": 26.211,
+      "label": "guilin",
+      "text": "连续推进了二路九市场、",
+      "score": 0.0778,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.219,
+        "sc_logprob": -0.2105,
+        "sc_delta": 0.0085,
+        "acoustic_dev": 0.062,
+        "seg_cer": 0.1,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "连续推进了二六九市场。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 26.211,
+      "end": 30.593,
+      "label": "mandarin",
+      "text": "宝汇菜市场等等市场以及周边小区专项整治行动，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.141,
+        "sc_logprob": -0.2052,
+        "sc_delta": -0.0643,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "宝汇菜市场等等市场以及周边小区，专项整治行动。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 30.593,
+      "end": 35.288,
+      "label": "mandarin",
+      "text": "对于市场及周边小区的环境卫生问题以及乱张贴、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0009,
+        "sc_logprob": -0.001,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "对于市场及周边小区的环境卫生问题，以及乱张贴。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 35.288,
+      "end": 38.382,
+      "label": "guilin",
+      "text": "乱堆放、乱搭建、跨门店经营、",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0313,
+        "sc_logprob": -0.0293,
+        "sc_delta": 0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "乱堆放，乱搭建，跨门店经营。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 38.382,
+      "end": 41.707,
+      "label": "mandarin",
+      "text": "车辆乱停乱放的问题进行了全面的整治。",
+      "score": 0.1538,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0008,
+        "sc_logprob": -0.001,
+        "sc_delta": -0.0001,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.118,
+        "lang_free": "Chinese",
+        "phon_confuse": 1.0,
+        "phon_examples": "乱/软 乱/软",
+        "lexicon": "",
+        "text_free": "车辆软停软放的问题进行了全面的整治。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 41.707,
+      "end": 47.209,
+      "label": "mandarin",
+      "text": "据了解，电海区呢将持续开展市场及周边小区专项整治行动，",
+      "score": 0.5552,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.7656,
+        "sc_logprob": -0.7839,
+        "sc_delta": -0.0183,
+        "acoustic_dev": 0.927,
+        "seg_cer": 0.16,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "根据了解啊，店小区呢将持续开展市场及周边小区专项整治行动。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 47.209,
+      "end": 49.966,
+      "label": "guilin",
+      "text": "以问题为导向开展常态治理，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8214,
+        "sc_logprob": -0.7538,
+        "sc_delta": 0.0675,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以问题为导向，开展常态治理。"
+      }
+    },
+    {
+      "id": 14,
+      "start": 49.966,
+      "end": 53.567,
+      "label": "mandarin",
+      "text": "持续的推动创城工作常态化、长效化。",
+      "score": 0.0305,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0221,
+        "sc_logprob": -0.0241,
+        "sc_delta": -0.002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.067,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "持续地推动创城工作常态化、长效化。"
+      }
+    }
+  ]
+}

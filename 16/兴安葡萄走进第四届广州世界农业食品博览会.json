@@ -1,0 +1,303 @@
+{
+  "schema": "guilin-tts/segments@1",
+  "src_audio": "兴安葡萄走进第四届广州世界农业食品博览会.wav",
+  "duration": 85.577,
+  "no_dialect": false,
+  "created_at": "2026-10-31T09:25:45",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.046,
+      "label": "mandarin",
+      "text": "在第十届广州十届农业食品博览会系列展览期间啊，",
+      "score": 0.4992,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.5494,
+        "sc_logprob": -0.5663,
+        "sc_delta": -0.017,
+        "acoustic_dev": 0.68,
+        "seg_cer": 0.136,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "十/四",
+        "lexicon": "",
+        "text_free": "在第四届广州世界农业食品博览会系列展览期间啊。"
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.098,
+      "end": 13.816,
+      "label": "mandarin",
+      "text": "兴安县举办了由宁曲固营美兴安葡萄田为主题的葡萄推介会。",
+      "score": 0.6847,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8773,
+        "sc_logprob": -0.9418,
+        "sc_delta": -0.0645,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.269,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.167,
+        "phon_examples": "营/音",
+        "lexicon": "",
+        "text_free": "兴安县呢，举办了有“宁曲古音美，兴安葡萄甜”为主题的葡萄特改会。"
+      }
+    },
+    {
+      "id": 3,
+      "start": 14.412,
+      "end": 27.599,
+      "label": "mandarin",
+      "text": "兴安县葡萄种植经营代表和广东葡萄销售渠道代表在演播室里头介绍了兴安葡萄的种植特色、产品优势以及目前葡萄销售市场的数据情况。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0015,
+        "sc_logprob": -0.0017,
+        "sc_delta": -0.0002,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "兴安县葡萄种植经营代表和广东葡萄销售渠道代表在演播室里头介绍了兴安葡萄的种植特色、产品优势以及目前葡萄销售市场的数据情况。"
+      }
+    },
+    {
+      "id": 4,
+      "start": 27.896,
+      "end": 33.578,
+      "label": "mandarin",
+      "text": "自治区农业农村厅的专家在展销会场和主持人现场连线，",
+      "score": 0.019,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0257,
+        "sc_logprob": -0.0264,
+        "sc_delta": -0.0006,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.042,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "自治区农业农村厅的专家在展销会场或主持人现场连线。"
+      }
+    },
+    {
+      "id": 5,
+      "start": 33.818,
+      "end": 39.305,
+      "label": "mandarin",
+      "text": "向演播室和网络直播间的观众推介兴安葡萄，",
+      "score": 0.1828,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2467,
+        "sc_logprob": -0.2647,
+        "sc_delta": -0.0179,
+        "acoustic_dev": 0.213,
+        "seg_cer": 0.158,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "向演播室或网络直播间的观众推荐行安葡萄。"
+      }
+    },
+    {
+      "id": 6,
+      "start": 39.666,
+      "end": 48.614,
+      "label": "mandarin",
+      "text": "介绍现场销售情况。兴安县的产地种植代表分别与销售公司签订兴安葡萄产销合约。",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0017,
+        "sc_logprob": -0.0027,
+        "sc_delta": -0.0009,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "介绍现场销售情况。兴安县的产地种植代表分别与销售公司签订《兴安葡萄产销合约》。"
+      }
+    },
+    {
+      "id": 7,
+      "start": 48.898,
+      "end": 56.966,
+      "label": "mandarin",
+      "text": "此次推介会将推动兴安葡萄等广西优质农产品更好的对接粤港澳大湾区市场，",
+      "score": 0.0554,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0002,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.121,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "此次特展会将推动西安葡萄等广西优质农产品更好地对接粤港澳大湾区市场。"
+      }
+    },
+    {
+      "id": 8,
+      "start": 57.11,
+      "end": 64.932,
+      "label": "guilin",
+      "text": "助力乡村振兴。通过这么一个呃展博览会进行推介销售之后，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0583,
+        "sc_logprob": -0.0557,
+        "sc_delta": 0.0026,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "助力乡村振兴。通过这么一个呃展博览会进行推介销售之后。"
+      }
+    },
+    {
+      "id": 9,
+      "start": 64.965,
+      "end": 69.557,
+      "label": "guilin",
+      "text": "我想呢，对我们兴安葡萄的呃市场占有量",
+      "score": 0.2046,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.1595,
+        "sc_logprob": -0.148,
+        "sc_delta": 0.0115,
+        "acoustic_dev": 0.078,
+        "seg_cer": 0.176,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.333,
+        "phon_examples": "兴/信",
+        "lexicon": "",
+        "text_free": "我想呢，对我们信阳葡萄的呃市场占有率。"
+      }
+    },
+    {
+      "id": 10,
+      "start": 69.885,
+      "end": 73.785,
+      "label": "mandarin",
+      "text": "以及市场的影响力啊，有个很大的促进作用，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0003,
+        "sc_logprob": -0.0003,
+        "sc_delta": -0.0,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "以及市场的影响力，啊，有个很大的促进作用。"
+      }
+    },
+    {
+      "id": 11,
+      "start": 74.181,
+      "end": 77.06,
+      "label": "guilin",
+      "text": "从而呢促进了产销的对接，",
+      "score": 0.52,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.8456,
+        "sc_logprob": -0.6291,
+        "sc_delta": 0.2165,
+        "acoustic_dev": 1.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从而呢，促进了产销的对接。"
+      }
+    },
+    {
+      "id": 12,
+      "start": 77.246,
+      "end": 80.215,
+      "label": "guilin",
+      "text": "从而增加它的呃商品价值，",
+      "score": 0.0,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.0301,
+        "sc_logprob": -0.0283,
+        "sc_delta": 0.0017,
+        "acoustic_dev": 0.0,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "从而增加它的呃商品价值。"
+      }
+    },
+    {
+      "id": 13,
+      "start": 80.26,
+      "end": 82.68,
+      "label": "mandarin",
+      "text": "提高农民的收入啊，",
+      "score": 0.1363,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.2788,
+        "sc_logprob": -0.3467,
+        "sc_delta": -0.068,
+        "acoustic_dev": 0.262,
+        "seg_cer": 0.0,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "提高农民的收入，啊！"
+      }
+    },
+    {
+      "id": 14,
+      "start": 82.736,
+      "end": 85.577,
+      "label": "mandarin",
+      "text": "也可以说间接的促进了乡村振兴。",
+      "score": 0.2144,
+      "wav": "",
+      "signals": {
+        "mand_logprob": -0.3353,
+        "sc_logprob": -0.3622,
+        "sc_delta": -0.0269,
+        "acoustic_dev": 0.35,
+        "seg_cer": 0.071,
+        "lang_free": "Chinese",
+        "phon_confuse": 0.0,
+        "phon_examples": "",
+        "lexicon": "",
+        "text_free": "也可以说，间接地促进了乡村振兴。"
+      }
+    }
+  ]
+}
